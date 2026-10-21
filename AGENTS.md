@@ -37,6 +37,18 @@ and nothing in `docs/rules/`.
 - Add short, useful comments only where intent is non-obvious.
 - Keep functions cohesive and easy to reason about.
 
+## Decision Records
+- Write an ADR in [`docs/adr/`](docs/adr/) for each major technical decision, in the same change
+  that makes it. Major means costly to reverse or shaping many files: storage, data model,
+  framework or library choices, cross-cutting patterns.
+- Skip it for routine choices, local refactors, or anything a rule in `docs/rules/` already covers.
+- Keep it to one page. Cover the context, the decision, the alternatives passed over and why,
+  and the consequences. Leave out implementation detail that the code already shows.
+- Name it `NNNN-short-title.md` (next free number) and add a row to the index in
+  `docs/adr/README.md`.
+- Never rewrite an accepted decision. Write a new ADR and mark the old one
+  `Superseded by NNNN`.
+
 ## Handoff Notes
 - Summarize what changed.
 - List validation commands executed.
