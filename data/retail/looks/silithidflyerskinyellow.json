@@ -1,0 +1,82 @@
+{
+	"id": "silithidflyerskinyellow",
+	"family": "wasp",
+	"modelGroup": "wasps",
+	"npcs": [
+		{
+			"id": 6554,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ungoro-crater"
+				}
+			]
+		},
+		{
+			"id": 6551,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ungoro-crater"
+				}
+			]
+		},
+		{
+			"id": 11727,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "silithus"
+				}
+			]
+		},
+		{
+			"id": 15934,
+			"tameable": true,
+			"level": {
+				"min": 31,
+				"max": 31
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ruins-of-ahnqiraj"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 58363,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-jade-forest"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"id": "spiderunderground-blue-glow-blue",
+	"family": "spider",
+	"modelGroup": "undercrawlers",
+	"npcs": [
+		{
+			"id": 216561,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "the-burrows"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 235379,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		},
+		{
+			"id": 238932,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		}
+	]
+}

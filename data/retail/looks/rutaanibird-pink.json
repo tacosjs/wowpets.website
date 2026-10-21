@@ -1,0 +1,97 @@
+{
+	"id": "rutaanibird-pink",
+	"family": "carrionbird",
+	"modelGroup": "petalwings",
+	"npcs": [
+		{
+			"id": 256878,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "teldrassil-roots"
+				}
+			]
+		},
+		{
+			"id": 256903,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar"
+				}
+			]
+		},
+		{
+			"id": 256898,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar"
+				}
+			]
+		},
+		{
+			"id": 246391,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "abundant-grotto"
+				}
+			]
+		},
+		{
+			"id": 237046,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "vale-of-secrets"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		242945,
+		253881,
+		246713,
+		256545,
+		250193,
+		256671,
+		237709,
+		248475,
+		247772,
+		249107,
+		256805,
+		256354,
+		256353,
+		249164,
+		259972
+	]
+}

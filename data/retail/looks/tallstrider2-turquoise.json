@@ -1,0 +1,39 @@
+{
+	"id": "tallstrider2-turquoise",
+	"family": "tallstrider",
+	"modelGroup": "grandtallstriders",
+	"npcs": [
+		{
+			"id": 2172,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "darkshore"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 45825,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "swamp-of-sorrows"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		235000
+	]
+}

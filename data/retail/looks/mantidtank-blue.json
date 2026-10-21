@@ -1,0 +1,99 @@
+{
+	"id": "mantidtank-blue",
+	"family": "aqiri",
+	"modelGroup": "kunchong",
+	"npcs": [
+		{
+			"id": 56703,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds",
+					"area": "stoneplow"
+				}
+			]
+		},
+		{
+			"id": 66783,
+			"tameable": true,
+			"level": {
+				"min": 32,
+				"max": 37
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "dread-wastes",
+					"area": "clutches-of-shekzeer"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 65582,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "dread-wastes",
+					"area": "the-horrid-march"
+				}
+			]
+		},
+		{
+			"id": 67774,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "assault-on-zanvess"
+				}
+			]
+		},
+		{
+			"id": 161672,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 52
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms",
+					"area": "jin-yang-road"
+				}
+			]
+		},
+		{
+			"id": 139539,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		64717
+	]
+}

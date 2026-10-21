@@ -1,0 +1,18 @@
+{
+	"name": "Green Crawg",
+	"variant": "Green",
+	"npcs": {
+		"127176": {
+			"name": "Crawg Spawnling"
+		},
+		"128005": {
+			"name": "Blood Crawg"
+		},
+		"132030": {
+			"name": "Adolescent Crawg"
+		},
+		"242295": {
+			"name": "Escaped Creature"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"name": "Chestnut Overo Horse",
+	"variant": "Chestnut Overo",
+	"npcs": {
+		"37785": {
+			"name": "Wild Horse"
+		},
+		"45434": {
+			"name": "Argyle"
+		},
+		"47666": {
+			"name": "Rustberg Horse"
+		},
+		"55715": {
+			"name": "Darkmoon Pony"
+		},
+		"81307": {
+			"name": "Argyle"
+		},
+		"128441": {
+			"name": "Magoo"
+		}
+	}
+}

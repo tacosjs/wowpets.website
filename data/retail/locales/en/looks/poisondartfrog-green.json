@@ -1,0 +1,21 @@
+{
+	"name": "Spotted Green Dire Toad",
+	"variant": "Spotted Green",
+	"npcs": {
+		"250051": {
+			"name": "River Hopper"
+		},
+		"250053": {
+			"name": "Toxic Dartling"
+		},
+		"250141": {
+			"name": "Swamp Leaper"
+		},
+		"254795": {
+			"name": "Toxic Dartling"
+		},
+		"256851": {
+			"name": "Golden Hopper"
+		}
+	}
+}

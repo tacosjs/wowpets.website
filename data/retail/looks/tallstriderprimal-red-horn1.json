@@ -1,0 +1,145 @@
+{
+	"id": "tallstriderprimal-red-horn1",
+	"family": "tallstrider",
+	"modelGroup": "hornstriders",
+	"npcs": [
+		{
+			"id": 193301,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		},
+		{
+			"id": 193308,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		},
+		{
+			"id": 192176,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "stonefray-falls"
+				}
+			]
+		},
+		{
+			"id": 195458,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		},
+		{
+			"id": 194673,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		},
+		{
+			"id": 188089,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "northern-part-of-the-zone"
+				}
+			]
+		},
+		{
+			"id": 190909,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "northern-part-of-the-zone"
+				}
+			]
+		},
+		{
+			"id": 190029,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		},
+		{
+			"id": 191334,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "overflowing-rapids"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		195383,
+		195366,
+		192641,
+		195459,
+		194926,
+		191338
+	]
+}

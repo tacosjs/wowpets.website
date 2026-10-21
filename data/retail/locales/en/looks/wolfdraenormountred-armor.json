@@ -1,0 +1,10 @@
+{
+	"name": "Armored Grey Maned Wolf",
+	"variant": "Armored Grey Maned Wolf",
+	"npcs": {
+		"81297": {
+			"name": "Dreadfang",
+			"title": "Fleshrender Nok'gar's Mount"
+		}
+	}
+}

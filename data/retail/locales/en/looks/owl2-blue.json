@@ -1,0 +1,39 @@
+{
+	"name": "Dark Warden Owl",
+	"variant": "Dark",
+	"npcs": {
+		"89391": {
+			"name": "Cursefeather Owl"
+		},
+		"103540": {
+			"name": "Starclutch Screecher"
+		},
+		"112010": {
+			"name": "Azurewing Protector"
+		},
+		"113127": {
+			"name": "Cliffwing Skytalon"
+		},
+		"171997": {
+			"name": "Woodlands Watcher"
+		},
+		"190218": {
+			"name": "Horned Filcher"
+		},
+		"193259": {
+			"name": "Blue Terror"
+		},
+		"194698": {
+			"name": "Horned Filcher"
+		},
+		"194752": {
+			"name": "Agitated Horned Filcher"
+		},
+		"197174": {
+			"name": "Furious Horned Filcher"
+		},
+		"217148": {
+			"name": "Andi'thur"
+		}
+	}
+}

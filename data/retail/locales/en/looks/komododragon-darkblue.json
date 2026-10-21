@@ -1,0 +1,12 @@
+{
+	"name": "Blue & Yellow Saurolisk",
+	"variant": "Blue & Yellow",
+	"npcs": {
+		"141696": {
+			"name": "Stonejaw Matriarch"
+		},
+		"150154": {
+			"name": "Saurolisk Bonenipper"
+		}
+	}
+}

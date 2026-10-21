@@ -1,0 +1,97 @@
+{
+	"id": "ardenwealdstag-dark-horns3",
+	"family": "stag",
+	"modelGroup": "runestags",
+	"npcs": [
+		{
+			"id": 166966,
+			"tameable": true,
+			"level": {
+				"min": 54,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "furrowed-glen"
+				}
+			]
+		},
+		{
+			"id": 159030,
+			"tameable": true,
+			"level": {
+				"min": 55,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald"
+				}
+			]
+		},
+		{
+			"id": 165907,
+			"tameable": true,
+			"level": {
+				"min": 56,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "glittering-falls-soryns-meadow"
+				}
+			]
+		},
+		{
+			"id": 155238,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "the-upper-reaches"
+				},
+				{
+					"zone": "tower-of-the-damned",
+					"area": "twisting-corridors"
+				}
+			]
+		},
+		{
+			"id": 170145,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald"
+				}
+			]
+		},
+		{
+			"id": 172934,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald"
+				}
+			]
+		}
+	]
+}

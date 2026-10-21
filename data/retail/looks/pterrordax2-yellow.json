@@ -1,0 +1,69 @@
+{
+	"id": "pterrordax2-yellow",
+	"family": "pterrordax",
+	"modelGroup": "pterrordaxes",
+	"npcs": [
+		{
+			"id": 139493,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nazmir"
+				}
+			]
+		},
+		{
+			"id": 135852,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "redrock-mesa"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 132072,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "the-sliver"
+				}
+			]
+		},
+		{
+			"id": 132253,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "savagelands"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		128434,
+		122986,
+		128658,
+		135450
+	]
+}

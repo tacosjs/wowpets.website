@@ -1,0 +1,9 @@
+{
+	"name": "Orange Magmammoth w/ Longer Tusks & Large Spikes",
+	"variant": "Orange",
+	"npcs": {
+		"181861": {
+			"name": "Magmatusk"
+		}
+	}
+}

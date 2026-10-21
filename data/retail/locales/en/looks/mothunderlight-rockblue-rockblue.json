@@ -1,0 +1,21 @@
+{
+	"name": "Dark Brown Dustmoth w/ Blue Body & Glow",
+	"variant": "Dark Brown w/ Blue Body & Glow",
+	"npcs": {
+		"215526": {
+			"name": "Hallowlight Flitter"
+		},
+		"217694": {
+			"name": "Deep Murkmoth"
+		},
+		"218331": {
+			"name": "Underlight Moth"
+		},
+		"220691": {
+			"name": "Flickering Glowmoth"
+		},
+		"222832": {
+			"name": "Underlight Moth"
+		}
+	}
+}

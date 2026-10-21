@@ -1,0 +1,30 @@
+{
+	"name": "Green Riverbeast",
+	"variant": "Green",
+	"npcs": {
+		"72606": {
+			"name": "Rockhoof"
+		},
+		"77715": {
+			"name": "Hammertooth"
+		},
+		"82310": {
+			"name": "Stonehide Riverbeast"
+		},
+		"86780": {
+			"name": "Napestone Riverbeast"
+		},
+		"87020": {
+			"name": "Wetland Riverbeast"
+		},
+		"88075": {
+			"name": "Stonehide Riverbeast"
+		},
+		"88669": {
+			"name": "Lowland Mirebeast"
+		},
+		"92979": {
+			"name": "Thundertail Riverbeast"
+		}
+	}
+}

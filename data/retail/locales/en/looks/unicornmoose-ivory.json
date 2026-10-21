@@ -1,0 +1,39 @@
+{
+	"name": "Black & White Shalehorn",
+	"variant": "Black & White",
+	"npcs": {
+		"218188": {
+			"name": "Meandering Gorger"
+		},
+		"221684": {
+			"name": "Crested Shalehorn"
+		},
+		"224099": {
+			"name": "Shalehorn Bull"
+		},
+		"224409": {
+			"name": "Shalehorn Cow"
+		},
+		"224410": {
+			"name": "Shalehorn Bull"
+		},
+		"224551": {
+			"name": "Immature Shalehorn"
+		},
+		"225270": {
+			"name": "Crested Shalehorn"
+		},
+		"228447": {
+			"name": "Highrock Cow"
+		},
+		"228451": {
+			"name": "Highrock Calf"
+		},
+		"229117": {
+			"name": "Highrock Cow"
+		},
+		"229119": {
+			"name": "Highrock Calf"
+		}
+	}
+}

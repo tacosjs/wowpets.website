@@ -1,0 +1,12 @@
+{
+	"name": "Crimson Serpent Hydra",
+	"variant": "Crimson",
+	"npcs": {
+		"263634": {
+			"name": "Scaled Tyrant"
+		},
+		"272920": {
+			"name": "Vilescar Tyrant"
+		}
+	}
+}

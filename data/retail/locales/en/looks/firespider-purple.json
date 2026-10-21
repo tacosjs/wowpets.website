@@ -1,0 +1,9 @@
+{
+	"name": "Purple Fire Spider",
+	"variant": "Purple",
+	"npcs": {
+		"54322": {
+			"name": "Deth'tilac"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Spirit Elderhorn",
+	"variant": "ghostlymoose",
+	"npcs": {
+		"111463": {
+			"name": "Bulvinkel"
+		}
+	}
+}

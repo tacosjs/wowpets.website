@@ -1,0 +1,97 @@
+{
+	"id": "progenitoraxolotl-red",
+	"family": "hopper",
+	"modelGroup": "ambystans",
+	"npcs": [
+		{
+			"id": 182379,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "dimensional-falls"
+				}
+			]
+		},
+		{
+			"id": 184488,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "dimensional-falls"
+				}
+			]
+		},
+		{
+			"id": 183097,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "dimensional-falls"
+				}
+			]
+		},
+		{
+			"id": 182375,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "dimensional-falls-cavern"
+				}
+			]
+		},
+		{
+			"id": 184628,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "dimensional-falls"
+				}
+			]
+		},
+		{
+			"id": 181495,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "exiles-hollow"
+				}
+			]
+		}
+	]
+}

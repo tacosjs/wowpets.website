@@ -1,0 +1,9 @@
+{
+	"name": "Brown & Tan Mystic Cat",
+	"variant": "Brown & Tan",
+	"npcs": {
+		"50838": {
+			"name": "Tabbs"
+		}
+	}
+}

@@ -1,0 +1,63 @@
+{
+	"name": "Black & White Consumptor",
+	"variant": "Black & White",
+	"npcs": {
+		"238504": {
+			"name": "Restless Consumptor"
+		},
+		"241153": {
+			"name": "Restless Consumptor"
+		},
+		"241570": {
+			"name": "Vicious Consumptor"
+		},
+		"242682": {
+			"name": "Trenchbed Scavenger"
+		},
+		"242685": {
+			"name": "Carrion Consumptor"
+		},
+		"243681": {
+			"name": "Hungry Consumptor"
+		},
+		"244947": {
+			"name": "Encroaching Consumptor"
+		},
+		"247490": {
+			"name": "Mature Comsumptor"
+		},
+		"247491": {
+			"name": "Larval Consumptor"
+		},
+		"248013": {
+			"name": "Spiteful Consumptor"
+		},
+		"248038": {
+			"name": "Ambush Consumptor"
+		},
+		"250562": {
+			"name": "Consumptor"
+		},
+		"254581": {
+			"name": "Mature Dunedweller"
+		},
+		"254583": {
+			"name": "Dunedweller Larva"
+		},
+		"255055": {
+			"name": "Wrathshell Consumptor"
+		},
+		"255547": {
+			"name": "Ambush Consumptor"
+		},
+		"257183": {
+			"name": "Ridgecrawler Pup"
+		},
+		"257184": {
+			"name": "Insatiable Consumptling"
+		},
+		"258200": {
+			"name": "Ingested Consumptor"
+		}
+	}
+}

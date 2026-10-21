@@ -1,0 +1,18 @@
+{
+	"name": "Beige Thunder Lizard",
+	"variant": "Beige",
+	"npcs": {
+		"4726": {
+			"name": "Raging Thunder Lizard"
+		},
+		"4727": {
+			"name": "Elder Thunder Lizard"
+		},
+		"6502": {
+			"name": "Plated Stegodon"
+		},
+		"136034": {
+			"name": "Child of Akunda"
+		}
+	}
+}

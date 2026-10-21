@@ -1,0 +1,12 @@
+{
+	"name": "Rosy-Grey Gryphon",
+	"variant": "Rosy-Grey",
+	"npcs": {
+		"139931": {
+			"name": "Sparkbeak"
+		},
+		"139932": {
+			"name": "Stormflash"
+		}
+	}
+}

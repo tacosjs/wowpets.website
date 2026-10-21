@@ -1,0 +1,22 @@
+{
+	"id": "mouserock-teal-teal-ruff",
+	"family": "rodent",
+	"modelGroup": "rockmice",
+	"npcs": [
+		{
+			"id": 204685,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "warders-teeth"
+				}
+			]
+		}
+	]
+}

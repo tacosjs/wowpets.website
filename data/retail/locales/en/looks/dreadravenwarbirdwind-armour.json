@@ -1,0 +1,30 @@
+{
+	"name": "Armoured Brown Dread Raven",
+	"variant": "Armoured Brown",
+	"npcs": {
+		"83976": {
+			"name": "Dread Raven"
+		},
+		"83982": {
+			"name": "Dread Raven"
+		},
+		"83984": {
+			"name": "Dread Raven"
+		},
+		"84083": {
+			"name": "Dread Raven"
+		},
+		"94495": {
+			"name": "Dread Raven"
+		},
+		"152182": {
+			"name": "Rustfeather"
+		},
+		"153269": {
+			"name": "Rustwing Raven"
+		},
+		"153293": {
+			"name": "Rustwing Scavenger"
+		}
+	}
+}

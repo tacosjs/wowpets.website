@@ -1,0 +1,19 @@
+{
+	"id": "ironhordeclefthoof",
+	"family": "clefthoof",
+	"modelGroup": "ironhordeclefthooves",
+	"npcs": [
+		{
+			"id": 76946,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "blackrock-foundry",
+					"area": "the-breaking-grounds"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

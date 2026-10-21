@@ -1,0 +1,23 @@
+{
+	"id": "silithid02blue",
+	"family": "aqiri",
+	"modelGroup": "ruggedsilithids",
+	"npcs": [
+		{
+			"id": 132580,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "silithus",
+					"area": "hiveregal"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

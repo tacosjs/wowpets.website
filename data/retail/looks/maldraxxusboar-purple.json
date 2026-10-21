@@ -1,0 +1,21 @@
+{
+	"id": "maldraxxusboar-purple",
+	"family": "boar",
+	"modelGroup": "skullboars",
+	"npcs": [
+		{
+			"id": 158752,
+			"tameable": true,
+			"level": {
+				"min": 54,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus"
+				}
+			]
+		}
+	]
+}

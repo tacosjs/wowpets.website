@@ -1,0 +1,23 @@
+{
+	"id": "skeletalraptordark-mount",
+	"family": "raptor",
+	"modelGroup": "saddledskeletalraptors",
+	"npcs": [
+		{
+			"id": 52157,
+			"tameable": true,
+			"level": {
+				"min": 36,
+				"max": 36
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zulgurub",
+					"area": "mandokirs-domain"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

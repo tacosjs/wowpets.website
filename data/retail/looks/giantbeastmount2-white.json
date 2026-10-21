@@ -1,0 +1,22 @@
+{
+	"id": "giantbeastmount2-white",
+	"family": "oxen",
+	"modelGroup": "armouredtauralus",
+	"npcs": [
+		{
+			"id": 170969,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "unyielding-assembly"
+				}
+			]
+		}
+	]
+}

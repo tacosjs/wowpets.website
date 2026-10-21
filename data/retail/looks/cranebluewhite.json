@@ -1,0 +1,81 @@
+{
+	"id": "cranebluewhite",
+	"family": "waterfowl",
+	"modelGroup": "cranes",
+	"npcs": [
+		{
+			"id": 168240,
+			"tameable": true,
+			"level": {
+				"min": 51,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "firstbornes-bounty"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 175653,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 52
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion"
+				}
+			]
+		},
+		{
+			"id": 170460,
+			"tameable": true,
+			"level": {
+				"min": 56,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "the-growthworks-banks-of-life"
+				}
+			]
+		},
+		{
+			"id": 171341,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "de-other-side"
+				}
+			]
+		},
+		{
+			"id": 172983,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "heart-of-the-forest"
+				}
+			]
+		}
+	]
+}

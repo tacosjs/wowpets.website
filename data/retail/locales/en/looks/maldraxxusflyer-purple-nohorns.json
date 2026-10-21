@@ -1,0 +1,15 @@
+{
+	"name": "Purple Death Chimaera",
+	"variant": "Purple",
+	"npcs": {
+		"162589": {
+			"name": "Neonate Bonetooth"
+		},
+		"162624": {
+			"name": "Neonate Bonetooth"
+		},
+		"164587": {
+			"name": "Satiated Sawtooth"
+		}
+	}
+}

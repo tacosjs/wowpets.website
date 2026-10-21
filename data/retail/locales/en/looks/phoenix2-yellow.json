@@ -1,0 +1,42 @@
+{
+	"name": "Light Yellow Phoenix",
+	"variant": "Light Yellow",
+	"npcs": {
+		"181763": {
+			"name": "Lava Phoenix"
+		},
+		"186684": {
+			"name": "Lava Phoenix"
+		},
+		"187923": {
+			"name": "Lava Hatchling"
+		},
+		"187932": {
+			"name": "Lava Phoenix"
+		},
+		"188699": {
+			"name": "Carrion Phoenix"
+		},
+		"189581": {
+			"name": "Lava Fledgling"
+		},
+		"191637": {
+			"name": "Lava Phoenix"
+		},
+		"193234": {
+			"name": "Eldoren the Reborn"
+		},
+		"195448": {
+			"name": "Blazing Firesquall"
+		},
+		"204110": {
+			"name": "Lava Phoenix"
+		},
+		"207337": {
+			"name": "Blazing Flamewing"
+		},
+		"210103": {
+			"name": "Invading Flametail"
+		}
+	}
+}

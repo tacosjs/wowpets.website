@@ -1,0 +1,34 @@
+{
+	"name": "Black Ravasaur",
+	"variant": "Black",
+	"npcs": {
+		"122004": {
+			"name": "Umbra'jin",
+			"title": "The Night Hunter"
+		},
+		"124217": {
+			"name": "Raptor Patriarch"
+		},
+		"125206": {
+			"name": "Sharptooth Scavenger"
+		},
+		"125215": {
+			"name": "Juvenile Sharptooth"
+		},
+		"127123": {
+			"name": "Trained Ravasaur"
+		},
+		"127254": {
+			"name": "Child of Gonk"
+		},
+		"135790": {
+			"name": "Roughscale Stalker"
+		},
+		"140699": {
+			"name": "Bonescreamer"
+		},
+		"148871": {
+			"name": "Voidcrafted Ravasaur"
+		}
+	}
+}

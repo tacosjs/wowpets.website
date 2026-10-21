@@ -1,0 +1,35 @@
+{
+	"id": "magehunterred-pinkflames",
+	"family": "hound",
+	"modelGroup": "runeddemondogs",
+	"npcs": [
+		{
+			"id": 32163,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "icecrown"
+				}
+			]
+		},
+		{
+			"id": 30952,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "icecrown"
+				}
+			]
+		}
+	]
+}

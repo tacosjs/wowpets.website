@@ -1,0 +1,58 @@
+{
+	"id": "progenitorhawk-blue-armor",
+	"family": "birdofprey",
+	"modelGroup": "raptoras",
+	"npcs": [
+		{
+			"id": 180924,
+			"tameable": true,
+			"level": {
+				"min": 61,
+				"max": 61
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "garudeons-nest"
+				}
+			],
+			"keepsName": true,
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 183475,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "the-great-veldt"
+				}
+			]
+		},
+		{
+			"id": 183464,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "the-great-veldt"
+				}
+			]
+		}
+	]
+}

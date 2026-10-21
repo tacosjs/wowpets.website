@@ -1,0 +1,200 @@
+{
+	"id": "chimera2pale",
+	"family": "chimaera",
+	"modelGroup": "rylaks",
+	"npcs": [
+		{
+			"id": 72849,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge"
+				}
+			]
+		},
+		{
+			"id": 78314,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge"
+				}
+			]
+		},
+		{
+			"id": 80321,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "stonefang-ridge"
+				}
+			]
+		},
+		{
+			"id": 80227,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "frostwall"
+				}
+			]
+		},
+		{
+			"id": 80034,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "the-cracking-plains"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 72251,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "the-cracking-plains"
+				}
+			]
+		},
+		{
+			"id": 81548,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "valley-of-destruction"
+				}
+			]
+		},
+		{
+			"id": 74660,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "worgol"
+				}
+			]
+		},
+		{
+			"id": 78320,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "frostwall-garrison"
+				}
+			]
+		},
+		{
+			"id": 89217,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "frostwall-garrison"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 89202,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "frostwall-garrison"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 84998,
+			"tameable": false,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "darktide-roost"
+				}
+			]
+		}
+	]
+}

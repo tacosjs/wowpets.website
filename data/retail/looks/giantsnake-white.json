@@ -1,0 +1,40 @@
+{
+	"id": "giantsnake-white",
+	"family": "serpent",
+	"modelGroup": "cobras",
+	"npcs": [
+		{
+			"id": 262398,
+			"tameable": false,
+			"level": {
+				"min": 92,
+				"max": 92
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "altar-of-fangs"
+				}
+			]
+		},
+		{
+			"id": 270417,
+			"tameable": false,
+			"level": {
+				"min": 92,
+				"max": 92
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "altar-of-fangs"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

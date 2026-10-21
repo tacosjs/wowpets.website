@@ -1,0 +1,16 @@
+{
+	"name": "Purple Cosmic Worm",
+	"variant": "Purple",
+	"npcs": {
+		"237750": {
+			"name": "Ramon'ta the Insatiable"
+		},
+		"241391": {
+			"name": "Ramon'ta the Insatiable"
+		},
+		"245997": {
+			"name": "Malek'ta",
+			"title": "The Jaws of Oblivion"
+		}
+	}
+}

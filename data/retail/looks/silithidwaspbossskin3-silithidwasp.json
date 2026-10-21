@@ -1,0 +1,78 @@
+{
+	"id": "silithidwaspbossskin3-silithidwasp",
+	"family": "wasp",
+	"modelGroup": "wasps",
+	"npcs": [
+		{
+			"id": 50906,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "western-plaguelands"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 65802,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "krasarang-wilds"
+				}
+			]
+		},
+		{
+			"id": 65814,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "krasarang-wilds"
+				}
+			]
+		},
+		{
+			"id": 52376,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulgurub"
+				}
+			]
+		},
+		{
+			"id": 52379,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulgurub"
+				}
+			]
+		}
+	]
+}

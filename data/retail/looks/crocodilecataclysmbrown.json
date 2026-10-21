@@ -1,0 +1,226 @@
+{
+	"id": "crocodilecataclysmbrown",
+	"family": "crocolisk",
+	"modelGroup": "spikedcrocolisks",
+	"npcs": [
+		{
+			"id": 50964,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "wetlands"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 56183,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-jade-forest"
+				}
+			]
+		},
+		{
+			"id": 123655,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "the-rivermarsh"
+				}
+			]
+		},
+		{
+			"id": 120588,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "the-rivermarsh"
+				}
+			]
+		},
+		{
+			"id": 62023,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dread-wastes"
+				}
+			]
+		},
+		{
+			"id": 51675,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "uldum"
+				}
+			]
+		},
+		{
+			"id": 45321,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "uldum"
+				}
+			]
+		},
+		{
+			"id": 162335,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "uldum"
+				}
+			]
+		},
+		{
+			"id": 162334,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "uldum"
+				}
+			]
+		},
+		{
+			"id": 135046,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 135043,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 123654,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "the-rivermarsh"
+				}
+			]
+		},
+		{
+			"id": 44260,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "lost-city-of-the-tolvir"
+				}
+			]
+		},
+		{
+			"id": 179588,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "eye-of-azshara-non-instanced"
+				}
+			]
+		},
+		{
+			"id": 244873,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "swiftclaw-terrace"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		43658,
+		110719
+	]
+}

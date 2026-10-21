@@ -1,0 +1,12 @@
+{
+	"name": "Maroon Thornmaw",
+	"variant": "Maroon",
+	"npcs": {
+		"249343": {
+			"name": "Dionaea"
+		},
+		"249412": {
+			"name": "Surly Thornmaw"
+		}
+	}
+}

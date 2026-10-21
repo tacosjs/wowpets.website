@@ -1,0 +1,27 @@
+{
+	"id": "monkey",
+	"icon": "inv_pet_monkey",
+	"spec": "cunning",
+	"exotic": false,
+	"diet": [
+		"fruit",
+		"fungus"
+	],
+	"abilities": {
+		"basic": "smack",
+		"family": [
+			"primal-agility"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "monkeys"
+		},
+		{
+			"id": "monkeyswithfezzes"
+		},
+		{
+			"id": "marmonis"
+		}
+	]
+}

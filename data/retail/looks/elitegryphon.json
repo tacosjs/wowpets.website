@@ -1,0 +1,359 @@
+{
+	"id": "elitegryphon",
+	"family": "feathermane",
+	"modelGroup": "grandgryphons",
+	"npcs": [
+		{
+			"id": 129001,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "westwind-weald"
+				}
+			]
+		},
+		{
+			"id": 131332,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "placid-spring-brokenbough-roost"
+				}
+			]
+		},
+		{
+			"id": 137724,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar"
+				}
+			]
+		},
+		{
+			"id": 106235,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dalaran-broken-isles"
+				}
+			]
+		},
+		{
+			"id": 110740,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormheim",
+					"area": "stormheim-intro-quest-for-alliance"
+				}
+			]
+		},
+		{
+			"id": 94576,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormheim",
+					"area": "stormheim-intro-quest-for-horde"
+				}
+			]
+		},
+		{
+			"id": 129108,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "roughneck-camp"
+				}
+			]
+		},
+		{
+			"id": 137128,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "westwind-weald"
+				}
+			]
+		},
+		{
+			"id": 129416,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "westwind-weald"
+				}
+			]
+		},
+		{
+			"id": 137398,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound"
+				}
+			]
+		},
+		{
+			"id": 129580,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "anglepoint-bay"
+				}
+			]
+		},
+		{
+			"id": 129427,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "outrigger-point"
+				}
+			]
+		},
+		{
+			"id": 133328,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "hatherford"
+				}
+			]
+		},
+		{
+			"id": 138744,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "winds-redemption-in-boralus"
+				}
+			]
+		},
+		{
+			"id": 141793,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "xibala"
+				}
+			]
+		},
+		{
+			"id": 244547,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "founders-point"
+				}
+			]
+		},
+		{
+			"id": 252513,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "founders-point"
+				}
+			]
+		},
+		{
+			"id": 252511,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "founders-point"
+				}
+			]
+		},
+		{
+			"id": 135025,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "whitegrove-chapel"
+				}
+			]
+		},
+		{
+			"id": 84104,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak"
+				}
+			]
+		},
+		{
+			"id": 138009,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley",
+					"area": "highland-pass"
+				}
+			]
+		},
+		{
+			"id": 193360,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		},
+		{
+			"id": 194586,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "dragonscale-basecamp"
+				}
+			]
+		},
+		{
+			"id": 200300,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "dragonscale-camp"
+				}
+			]
+		}
+	]
+}

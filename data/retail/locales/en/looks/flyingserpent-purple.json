@@ -1,0 +1,12 @@
+{
+	"name": "Purple Skyfiend",
+	"variant": "Purple",
+	"npcs": {
+		"256791": {
+			"name": "Scaleskin Vilewing"
+		},
+		"263900": {
+			"name": "Ravenous Doomscale"
+		}
+	}
+}

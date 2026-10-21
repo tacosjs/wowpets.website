@@ -1,0 +1,25 @@
+{
+	"id": "boggorm-yellow",
+	"family": "worm",
+	"modelGroup": "tidalworms",
+	"npcs": [
+		{
+			"id": 250156,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "maisara-deeps"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		249012
+	]
+}

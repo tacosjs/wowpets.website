@@ -1,0 +1,15 @@
+{
+	"name": "Orange-Blue Basilisk w/ Orange Crest",
+	"variant": "Orange-Blue w/ Orange Crest",
+	"npcs": {
+		"8130": {
+			"name": "Sul'lithuz Hatchling"
+		},
+		"8156": {
+			"name": "Servant of Antu'sul"
+		},
+		"11785": {
+			"name": "Ambereye Basilisk"
+		}
+	}
+}

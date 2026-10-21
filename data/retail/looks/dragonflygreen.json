@@ -1,0 +1,117 @@
+{
+	"id": "dragonflygreen",
+	"family": "wasp",
+	"modelGroup": "hookwasps",
+	"npcs": [
+		{
+			"id": 83681,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ashran",
+					"area": "gorian-falls"
+				}
+			]
+		},
+		{
+			"id": 83447,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "ruins-of-the-first-bastion"
+				}
+			]
+		},
+		{
+			"id": 89789,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaan-jungle",
+					"area": "thornmire"
+				}
+			]
+		},
+		{
+			"id": 86833,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-draenor"
+				}
+			]
+		},
+		{
+			"id": 168361,
+			"tameable": true,
+			"level": {
+				"min": 53,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "plaguefall"
+				}
+			]
+		},
+		{
+			"id": 82039,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-everbloom"
+				}
+			]
+		},
+		{
+			"id": 84308,
+			"tameable": false,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "frostwall-lunarfall-garrisons"
+				},
+				{
+					"zone": "shadowmoon-valley-draenor"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

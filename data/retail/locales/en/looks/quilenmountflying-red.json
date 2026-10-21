@@ -1,0 +1,10 @@
+{
+	"name": "Red & Black Quilen w/ Brown Flight Armour",
+	"variant": "Red & Black w/ Brown Armour",
+	"npcs": {
+		"68079": {
+			"name": "Ro'shak",
+			"title": "The Molten Flare"
+		}
+	}
+}

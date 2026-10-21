@@ -1,0 +1,20 @@
+{
+	"id": "writhes-yellow",
+	"family": "serpent",
+	"modelGroup": "writhingserpents",
+	"npcs": [],
+	"alsoNpcs": [
+		263356,
+		265968,
+		261398,
+		273290,
+		258962,
+		268908,
+		265289,
+		263793,
+		260844,
+		266193,
+		270261,
+		267180
+	]
+}

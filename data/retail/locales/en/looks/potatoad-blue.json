@@ -1,0 +1,42 @@
+{
+	"name": "Blue & Green Potatoad",
+	"variant": "Blue & Green",
+	"npcs": {
+		"237204": {
+			"name": "Surly Potatoad"
+		},
+		"237825": {
+			"name": "Tamed Potatoad"
+		},
+		"242755": {
+			"name": "Enspored Potatoad"
+		},
+		"248471": {
+			"name": "Petalscaled Potatoad"
+		},
+		"249167": {
+			"name": "Misty Potatoad"
+		},
+		"250185": {
+			"name": "Bulb-eye Potatoad"
+		},
+		"250273": {
+			"name": "Cascade Potatoad"
+		},
+		"251915": {
+			"name": "Foraging Potatoad"
+		},
+		"256060": {
+			"name": "Plodding Potatoad"
+		},
+		"256104": {
+			"name": "Plodding Potatoad"
+		},
+		"256364": {
+			"name": "Misthop Potatoad"
+		},
+		"258090": {
+			"name": "Bulb-eye Potatoad"
+		}
+	}
+}

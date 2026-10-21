@@ -1,0 +1,77 @@
+{
+	"name": "Spirit Beast",
+	"modelGroups": {
+		"stormrooks": {
+			"name": "Stormrooks"
+		},
+		"spiritdreamowls": {
+			"name": "Spirit Somnowls"
+		},
+		"loatigers": {
+			"name": "Great Spirit Tigers"
+		},
+		"spectralarmoredons": {
+			"name": "Spectral Armoredons"
+		},
+		"astralcloudserpents": {
+			"name": "Astral Cloud Serpents"
+		},
+		"spiritstormwolves": {
+			"name": "Storm Wolves"
+		},
+		"spiritelderhorn": {
+			"name": "Spirit Elderhorns"
+		},
+		"spectralgryphons": {
+			"name": "Spectral Gryphons"
+		},
+		"spiritraptors": {
+			"name": "Spirit Raptors"
+		},
+		"manasabers": {
+			"name": "Mana Sabers"
+		},
+		"spiritfoxes": {
+			"name": "Spirit Foxes"
+		},
+		"spirittigers": {
+			"name": "Spirit Tigers"
+		},
+		"spiritleopards": {
+			"name": "Spirit Leopards"
+		},
+		"spiritwolves": {
+			"name": "Spirit Wolves"
+		},
+		"spectralwolves": {
+			"name": "Spectral Wolves"
+		},
+		"spiritsaberworgs": {
+			"name": "Spirit Saber Worgs"
+		},
+		"spiritporcupines": {
+			"name": "Spirit Porcupines"
+		},
+		"spiritbears": {
+			"name": "Spirit Bears"
+		},
+		"spiritbirds": {
+			"name": "Spirit Birds"
+		},
+		"spiritcrabs": {
+			"name": "Spirit Crabs"
+		},
+		"spiritpangos": {
+			"name": "Spirit Pangos"
+		},
+		"celestialtigers": {
+			"name": "Celestial Tigers"
+		},
+		"celestialyaks": {
+			"name": "Celestial Yaks"
+		},
+		"celestialcranes": {
+			"name": "Celestial Cranes"
+		}
+	}
+}

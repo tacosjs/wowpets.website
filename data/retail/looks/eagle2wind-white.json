@@ -1,0 +1,76 @@
+{
+	"id": "eagle2wind-white",
+	"family": "birdofprey",
+	"modelGroup": "ohunas",
+	"npcs": [
+		{
+			"id": 190942,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "ridgewater-retreat"
+				}
+			]
+		},
+		{
+			"id": 197896,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "ohniri-springs"
+				}
+			]
+		},
+		{
+			"id": 195367,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "steelcliff-passage"
+				}
+			]
+		},
+		{
+			"id": 194607,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "skytop-observatory"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		191201,
+		196059,
+		193306,
+		191245,
+		194913,
+		191802,
+		195731
+	]
+}

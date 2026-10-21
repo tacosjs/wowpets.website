@@ -1,0 +1,42 @@
+{
+	"name": "Blue-Grey Striped Dire Toad",
+	"variant": "Blue-Grey Striped",
+	"npcs": {
+		"120554": {
+			"name": "Spawn of Krag'wa"
+		},
+		"125329": {
+			"name": "Wag'shash the Bold"
+		},
+		"125354": {
+			"name": "Mana-Drained Frog"
+		},
+		"125365": {
+			"name": "Frogmarsh Defender"
+		},
+		"135052": {
+			"name": "Blight Toad"
+		},
+		"148406": {
+			"name": "Spawn of Krag'wa"
+		},
+		"184334": {
+			"name": "Lil' Leaper"
+		},
+		"193422": {
+			"name": "Starving Bullfrog"
+		},
+		"194051": {
+			"name": "Juvenile Flysnatcher"
+		},
+		"196186": {
+			"name": "Veiled Streamhopper"
+		},
+		"214406": {
+			"name": "Shadowstarved Bullfrog"
+		},
+		"220449": {
+			"name": "Shadowstarved Spawnling"
+		}
+	}
+}

@@ -1,0 +1,79 @@
+{
+	"id": "craneyellowwhite",
+	"family": "waterfowl",
+	"modelGroup": "cranes",
+	"npcs": [
+		{
+			"id": 165914,
+			"tameable": true,
+			"level": {
+				"min": 56,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "glittering-falls"
+				}
+			]
+		},
+		{
+			"id": 175651,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion"
+				}
+			]
+		},
+		{
+			"id": 178743,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald"
+				}
+			]
+		},
+		{
+			"id": 165937,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "glitterfall-heights"
+				}
+			]
+		},
+		{
+			"id": 171343,
+			"tameable": false,
+			"level": {
+				"min": 61,
+				"max": 61
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "de-other-side"
+				}
+			]
+		}
+	]
+}

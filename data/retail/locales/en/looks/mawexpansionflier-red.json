@@ -1,0 +1,27 @@
+{
+	"name": "Red Razorwing",
+	"variant": "Red Razorwing",
+	"npcs": {
+		"177196": {
+			"name": "Razorwing Nestguard"
+		},
+		"177319": {
+			"name": "Predatory Razorwing"
+		},
+		"177355": {
+			"name": "Voracious Razorwing"
+		},
+		"178894": {
+			"name": "Razorwing Matriarch"
+		},
+		"180160": {
+			"name": "Reliwik the Defiant"
+		},
+		"230380": {
+			"name": "Gore Beak"
+		},
+		"232006": {
+			"name": "Sha'ryth the Cursed"
+		}
+	}
+}

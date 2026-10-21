@@ -1,0 +1,102 @@
+{
+	"id": "raptor2yellow",
+	"family": "raptor",
+	"modelGroup": "draenorraptors",
+	"npcs": [
+		{
+			"id": 85970,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "gorgrond"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 88495,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "bloodmane-pridelands"
+				}
+			]
+		},
+		{
+			"id": 80694,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 89744,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaan-jungle",
+					"area": "zorammarsh"
+				}
+			]
+		},
+		{
+			"id": 88957,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-draenor"
+				}
+			]
+		},
+		{
+			"id": 105650,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "the-menagerie"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		85565,
+		86425,
+		89745,
+		234997
+	]
+}

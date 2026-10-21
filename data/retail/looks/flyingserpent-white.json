@@ -1,0 +1,34 @@
+{
+	"id": "flyingserpent-white",
+	"family": "chimaera",
+	"modelGroup": "skyfiends",
+	"npcs": [
+		{
+			"id": 263016,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "vaults-of-atalutek"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		261693,
+		259275,
+		261396,
+		256207,
+		259767,
+		259699,
+		253764,
+		259063,
+		253884,
+		263583
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"name": "Green Mammoth w/ Medium Tusks",
+	"variant": "Green",
+	"npcs": {
+		"193395": {
+			"name": "Mosshair Mammoth"
+		},
+		"258213": {
+			"name": "Packpeddle of War",
+			"title": "Repair Vendor"
+		}
+	}
+}

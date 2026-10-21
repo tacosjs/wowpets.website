@@ -1,0 +1,286 @@
+{
+	"id": "duck-green",
+	"family": "waterfowl",
+	"modelGroup": "ducks",
+	"npcs": [
+		{
+			"id": 195014,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "eclipse-lake"
+				}
+			]
+		},
+		{
+			"id": 189508,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "gardens-of-unity"
+				}
+			]
+		},
+		{
+			"id": 196609,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "tyrhold-reservoir"
+				}
+			]
+		},
+		{
+			"id": 196674,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "tyrhold-reservoir"
+				}
+			]
+		},
+		{
+			"id": 197685,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "bluefeather-cliffs"
+				}
+			]
+		},
+		{
+			"id": 187490,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "cloverwood-hollow"
+				}
+			]
+		},
+		{
+			"id": 197355,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "algethar-academy"
+				}
+			]
+		},
+		{
+			"id": 195008,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "eclipse-lake"
+				}
+			]
+		},
+		{
+			"id": 194909,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "stonefray-cliffs"
+				}
+			]
+		},
+		{
+			"id": 190708,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		},
+		{
+			"id": 193636,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		},
+		{
+			"id": 195117,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		},
+		{
+			"id": 192373,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "wild-cliffs"
+				}
+			]
+		},
+		{
+			"id": 187442,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "crumbling-cliffs"
+				}
+			]
+		},
+		{
+			"id": 212495,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "amirdrassil-dragon-isles-zone"
+				}
+			]
+		},
+		{
+			"id": 189028,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 1
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "valdrakken"
+				}
+			]
+		},
+		{
+			"id": 189899,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		},
+		{
+			"id": 195514,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		190660,
+		206073,
+		187547,
+		189248,
+		189992,
+		187451,
+		193721,
+		191857,
+		185638,
+		187468,
+		195433,
+		193097,
+		198184
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"id": "felboarskinblue",
+	"family": "boar",
+	"modelGroup": "felboars",
+	"npcs": [
+		{
+			"id": 50948,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "searing-gorge"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 22180,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blades-edge-mountains"
+				}
+			]
+		}
+	]
+}

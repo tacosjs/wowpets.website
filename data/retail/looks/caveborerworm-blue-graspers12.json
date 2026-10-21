@@ -1,0 +1,97 @@
+{
+	"id": "caveborerworm-blue-graspers12",
+	"family": "worm",
+	"modelGroup": "jawcrawlers",
+	"npcs": [
+		{
+			"id": 229072,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		},
+		{
+			"id": 223931,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "beledars-bounty"
+				}
+			]
+		},
+		{
+			"id": 227980,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		},
+		{
+			"id": 227002,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		},
+		{
+			"id": 225981,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		},
+		{
+			"id": 220626,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nerub-ar-palace"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

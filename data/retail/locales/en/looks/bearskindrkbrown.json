@@ -1,0 +1,9 @@
+{
+	"name": "Dark Brown Bear",
+	"variant": "Dark Brown",
+	"npcs": {
+		"50926": {
+			"name": "Grizzled Ben"
+		}
+	}
+}

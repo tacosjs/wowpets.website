@@ -1,0 +1,9 @@
+{
+	"name": "Red Vulpin",
+	"variant": "Red",
+	"npcs": {
+		"210854": {
+			"name": "Gilnean Fox"
+		}
+	}
+}

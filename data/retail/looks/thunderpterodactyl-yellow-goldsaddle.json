@@ -1,0 +1,67 @@
+{
+	"id": "thunderpterodactyl-yellow-goldsaddle",
+	"family": "pterrordax",
+	"modelGroup": "armouredskyscreamers",
+	"npcs": [
+		{
+			"id": 69772,
+			"tameable": false,
+			"level": {
+				"min": 32,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-thunder",
+					"area": "dawnseeker-promontory"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 69411,
+			"tameable": false,
+			"level": {
+				"min": 32,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-thunder",
+					"area": "zatual"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 69156,
+			"tameable": false,
+			"level": {
+				"min": 32,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-thunder",
+					"area": "zatual"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

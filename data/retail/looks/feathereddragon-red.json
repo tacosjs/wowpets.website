@@ -1,0 +1,42 @@
+{
+	"id": "feathereddragon-red",
+	"family": "lesserdragonkin",
+	"modelGroup": "veilwings",
+	"npcs": [
+		{
+			"id": 172081,
+			"tameable": true,
+			"level": {
+				"min": 61,
+				"max": 61
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "mistveil-tangle"
+				}
+			]
+		},
+		{
+			"id": 173655,
+			"tameable": false,
+			"level": {
+				"min": 51,
+				"max": 61
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "mists-of-tirna-scithe",
+					"area": "mistveil-tangle-mists-of-tirna-scithe"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

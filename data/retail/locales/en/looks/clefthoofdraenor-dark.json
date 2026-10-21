@@ -1,0 +1,12 @@
+{
+	"name": "Tawny-Brown Draenor Clefthoof",
+	"variant": "Tawny-Brown",
+	"npcs": {
+		"78571": {
+			"name": "Witherhide Mother"
+		},
+		"86731": {
+			"name": "Ironhide Bull"
+		}
+	}
+}

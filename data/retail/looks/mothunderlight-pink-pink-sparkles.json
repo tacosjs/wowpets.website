@@ -1,0 +1,72 @@
+{
+	"id": "mothunderlight-pink-pink-sparkles",
+	"family": "moth",
+	"modelGroup": "dustmoths",
+	"npcs": [
+		{
+			"id": 205205,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern"
+				}
+			]
+		},
+		{
+			"id": 230982,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "the-writhing-fields"
+				}
+			]
+		},
+		{
+			"id": 230983,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "the-writhing-fields"
+				}
+			]
+		},
+		{
+			"id": 230925,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "the-writhing-fields"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		205202,
+		202625,
+		204632,
+		205217
+	]
+}

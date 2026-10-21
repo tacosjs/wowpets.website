@@ -1,0 +1,93 @@
+{
+	"id": "seaeel-light",
+	"family": "serpent",
+	"modelGroup": "eelserpents",
+	"npcs": [
+		{
+			"id": 140604,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "umber-shore"
+				}
+			]
+		},
+		{
+			"id": 137183,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "blushwater-brook"
+				}
+			],
+			"keepsName": true,
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 127600,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "rockslip-falls"
+				}
+			]
+		},
+		{
+			"id": 139988,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "stormsong-valley"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 152554,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "azshari-terrace"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		229523,
+		255914,
+		192132
+	]
+}

@@ -1,0 +1,90 @@
+{
+	"id": "poisondartfrog-green",
+	"family": "hopper",
+	"modelGroup": "diretoads",
+	"npcs": [
+		{
+			"id": 256851,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "lake-elrendar"
+				}
+			]
+		},
+		{
+			"id": 250051,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods"
+				}
+			]
+		},
+		{
+			"id": 250141,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "hermits-mooring"
+				}
+			]
+		},
+		{
+			"id": 250053,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods"
+				}
+			]
+		},
+		{
+			"id": 254795,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		250143,
+		243171,
+		253305,
+		249358,
+		254503,
+		260370,
+		245946,
+		264270,
+		262712
+	]
+}

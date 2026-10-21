@@ -1,0 +1,24 @@
+{
+	"id": "mechanicalchicken-black",
+	"family": "mechanical",
+	"modelGroup": "updatedrobotchickens",
+	"npcs": [
+		{
+			"id": 252097,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "razorwind-shores"
+				},
+				{
+					"zone": "founders-point"
+				}
+			]
+		}
+	]
+}

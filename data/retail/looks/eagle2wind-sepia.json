@@ -1,0 +1,237 @@
+{
+	"id": "eagle2wind-sepia",
+	"family": "birdofprey",
+	"modelGroup": "ohunas",
+	"npcs": [
+		{
+			"id": 187226,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "south-hold-gate"
+				}
+			]
+		},
+		{
+			"id": 192978,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		},
+		{
+			"id": 197007,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "ohniri-springs"
+				}
+			]
+		},
+		{
+			"id": 194771,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		},
+		{
+			"id": 187337,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "the-flowing-forest"
+				}
+			]
+		},
+		{
+			"id": 198819,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-forbidden-reach"
+				}
+			]
+		},
+		{
+			"id": 186190,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "timberstep-outpost"
+				}
+			]
+		},
+		{
+			"id": 195483,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "teerakai"
+				}
+			]
+		},
+		{
+			"id": 193065,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "valdrakken"
+				}
+			]
+		},
+		{
+			"id": 193099,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "mountainview-post"
+				}
+			]
+		},
+		{
+			"id": 190132,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		},
+		{
+			"id": 196142,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "timberstep-outpost"
+				}
+			]
+		},
+		{
+			"id": 191802,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "broadhoof-outpost"
+				}
+			]
+		},
+		{
+			"id": 192609,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "stormshroud-peak"
+				}
+			]
+		},
+		{
+			"id": 193341,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "gardens-of-unity"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		191201,
+		196059,
+		197950,
+		193306,
+		191245,
+		194913,
+		195731
+	]
+}

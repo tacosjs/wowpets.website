@@ -1,0 +1,12 @@
+{
+	"name": "Black Aquilon",
+	"variant": "Black",
+	"npcs": {
+		"180146": {
+			"name": "Sputtering Aquilon"
+		},
+		"181212": {
+			"name": "Aquilon Hunter"
+		}
+	}
+}

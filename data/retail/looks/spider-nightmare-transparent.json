@@ -1,0 +1,42 @@
+{
+	"id": "spider-nightmare-transparent",
+	"family": "spider",
+	"modelGroup": "demonspiders",
+	"npcs": [
+		{
+			"id": 169276,
+			"tameable": true,
+			"level": {
+				"min": 55,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "dreamshrine-basin"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 165460,
+			"tameable": true,
+			"level": {
+				"min": 55,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "tirna-vaal"
+				}
+			]
+		}
+	]
+}

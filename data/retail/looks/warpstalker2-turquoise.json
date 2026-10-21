@@ -1,0 +1,114 @@
+{
+	"id": "warpstalker2-turquoise",
+	"family": "warpstalker",
+	"modelGroup": "wirywarpstalkers",
+	"npcs": [
+		{
+			"id": 232257,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "the-merciless-wastes"
+				}
+			]
+		},
+		{
+			"id": 234779,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "north-sufaad"
+				}
+			]
+		},
+		{
+			"id": 233213,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "north-sufaad"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 257445,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm"
+				}
+			]
+		},
+		{
+			"id": 257122,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm"
+				}
+			]
+		},
+		{
+			"id": 236407,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "north-sufaad"
+				}
+			]
+		},
+		{
+			"id": 234960,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "eco-dome-aldani"
+				}
+			]
+		}
+	]
+}

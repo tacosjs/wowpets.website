@@ -1,0 +1,24 @@
+{
+	"id": "thunderlizardprimal-light-horn3-plates2-tail1",
+	"family": "scalehide",
+	"modelGroup": "primalthunderlizards",
+	"npcs": [
+		{
+			"id": 195715,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		198813
+	]
+}

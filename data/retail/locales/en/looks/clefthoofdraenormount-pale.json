@@ -1,0 +1,9 @@
+{
+	"name": "Saddled White Draenor Clefthoof",
+	"variant": "White",
+	"npcs": {
+		"72881": {
+			"name": "Broken Clefthoof"
+		}
+	}
+}

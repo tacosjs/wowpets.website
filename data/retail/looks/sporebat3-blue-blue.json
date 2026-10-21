@@ -1,0 +1,49 @@
+{
+	"id": "sporebat3-blue-blue",
+	"family": "sporebat",
+	"modelGroup": "sporegliders",
+	"npcs": [
+		{
+			"id": 251756,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "the-grudge-pit-non-instanced"
+				}
+			]
+		},
+		{
+			"id": 246106,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "nordrassil-roots"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		237704,
+		246162,
+		260031,
+		250168,
+		243780,
+		256357,
+		256381,
+		257933,
+		254543,
+		264342
+	]
+}

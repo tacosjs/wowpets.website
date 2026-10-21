@@ -1,0 +1,177 @@
+{
+	"id": "kirin-bronze",
+	"family": "stag",
+	"modelGroup": "vorquins",
+	"npcs": [
+		{
+			"id": 181432,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 1
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus"
+				}
+			]
+		},
+		{
+			"id": 197555,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		},
+		{
+			"id": 191748,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "passage-of-time"
+				}
+			]
+		},
+		{
+			"id": 193752,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "ruby-life-pools"
+				}
+			]
+		},
+		{
+			"id": 197438,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "shadow-ledge-shadow-pass"
+				}
+			]
+		},
+		{
+			"id": 191203,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "pleasant-hill-south-hold-gate"
+				}
+			]
+		},
+		{
+			"id": 196632,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "tyrhold-reservoir-gelikyr-gardens"
+				}
+			]
+		},
+		{
+			"id": 195048,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "eclipse-lake"
+				}
+			]
+		},
+		{
+			"id": 187336,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "the-flowing-forest"
+				}
+			]
+		},
+		{
+			"id": 198415,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus"
+				}
+			]
+		},
+		{
+			"id": 188929,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "valdrakken"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		191317,
+		191204,
+		196517,
+		195047,
+		190944,
+		187575
+	]
+}

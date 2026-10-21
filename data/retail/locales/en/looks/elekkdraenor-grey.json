@@ -1,0 +1,39 @@
+{
+	"name": "Grey Elekk",
+	"variant": "Grey",
+	"npcs": {
+		"73960": {
+			"name": "Elekk"
+		},
+		"78385": {
+			"name": "Pearltusk Grazer"
+		},
+		"79148": {
+			"name": "Phantom Pearltusk"
+		},
+		"80175": {
+			"name": "Elekk"
+		},
+		"81083": {
+			"name": "Elekk Grazer"
+		},
+		"81084": {
+			"name": "Elekk"
+		},
+		"81085": {
+			"name": "Elekk Calf"
+		},
+		"82174": {
+			"name": "Domesticated Elekk"
+		},
+		"82258": {
+			"name": "Phantom Pearltusk"
+		},
+		"82452": {
+			"name": "Ancient Pearltusk"
+		},
+		"87698": {
+			"name": "Rockhide Bull"
+		}
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"name": "Crimson, Magenta & Blue Mandragora",
+	"variant": "Crimson, Magenta & Blue",
+	"npcs": {
+		"81983": {
+			"name": "Verdant Mandragora"
+		},
+		"83530": {
+			"name": "Hyacinth Mandragora"
+		},
+		"83683": {
+			"name": "Mandragoraster"
+		},
+		"92332": {
+			"name": "Hulking Gnarlvine"
+		},
+		"99362": {
+			"name": "Kudzilla"
+		},
+		"115001": {
+			"name": "Hulking Gnarlvine"
+		},
+		"170448": {
+			"name": "Flourishing Hydra"
+		},
+		"248577": {
+			"name": "Rootbound Horror"
+		},
+		"249168": {
+			"name": "Mistvale Terror"
+		},
+		"250324": {
+			"name": "Rootcoil Hydra"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Blue Raptor",
+	"variant": "Blue",
+	"npcs": {
+		"87084": {
+			"name": "Riplash"
+		},
+		"187256": {
+			"name": "Time-Lost Raptor"
+		}
+	}
+}

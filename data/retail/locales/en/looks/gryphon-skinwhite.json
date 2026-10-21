@@ -1,0 +1,9 @@
+{
+	"name": "White Classic Gryphon",
+	"variant": "White",
+	"npcs": {
+		"16874": {
+			"name": "Snowblind"
+		}
+	}
+}

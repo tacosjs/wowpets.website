@@ -1,0 +1,70 @@
+{
+	"name": "Grey Bear",
+	"variant": "Grey",
+	"npcs": {
+		"1196": {
+			"name": "Ice Claw Bear"
+		},
+		"2354": {
+			"name": "Vicious Gray Bear"
+		},
+		"2356": {
+			"name": "Elder Gray Bear"
+		},
+		"5268": {
+			"name": "Ironfur Bear"
+		},
+		"7443": {
+			"name": "Shardtooth Mauler"
+		},
+		"7446": {
+			"name": "Rabid Shardtooth"
+		},
+		"22136": {
+			"name": "Dubu"
+		},
+		"93318": {
+			"name": "Ashmaw Mauler"
+		},
+		"93330": {
+			"name": "Gorecrazed Mauler"
+		},
+		"97220": {
+			"name": "Arru",
+			"title": "The Terror"
+		},
+		"106288": {
+			"name": "Sylvan Bear"
+		},
+		"106467": {
+			"name": "Vale Bear"
+		},
+		"109694": {
+			"name": "Frantic Mauler"
+		},
+		"128093": {
+			"name": "Old Frostclaw"
+		},
+		"140063": {
+			"name": "Smashmaw the Man-Eater"
+		},
+		"140066": {
+			"name": "Axeclaw"
+		},
+		"155054": {
+			"name": "Honey-Crazed Denmother"
+		},
+		"223935": {
+			"name": "Highland Bear"
+		},
+		"226179": {
+			"name": "Highland Bear"
+		},
+		"227552": {
+			"name": "Immature Kodiak"
+		},
+		"227605": {
+			"name": "Immature Kodiak"
+		}
+	}
+}

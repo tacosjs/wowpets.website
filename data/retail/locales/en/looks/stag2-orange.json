@@ -1,0 +1,34 @@
+{
+	"name": "Orange Stag",
+	"variant": "Orange",
+	"npcs": {
+		"103546": {
+			"name": "Redhoof the Ancient",
+			"title": "Sablehorn Elder"
+		},
+		"108890": {
+			"name": "Runewood Greatstag"
+		},
+		"110042": {
+			"name": "Heartwood Stag"
+		},
+		"127806": {
+			"name": "Mountain Greatstag"
+		},
+		"140085": {
+			"name": "Pinegraze Greatstag"
+		},
+		"140250": {
+			"name": "Pinegraze Stag"
+		},
+		"149662": {
+			"name": "Grimhorn"
+		},
+		"191541": {
+			"name": "Craggy Stag"
+		},
+		"214224": {
+			"name": "Sun-Crested Stag"
+		}
+	}
+}

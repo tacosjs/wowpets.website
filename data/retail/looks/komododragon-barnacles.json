@@ -1,0 +1,68 @@
+{
+	"id": "komododragon-barnacles",
+	"family": "lizard",
+	"modelGroup": "saurolisks",
+	"npcs": [
+		{
+			"id": 136901,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "southport-relief"
+				}
+			]
+		},
+		{
+			"id": 130508,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "southport-relief"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 131252,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "dewscale-grotto"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 137098,
+			"tameable": true,
+			"level": {
+				"min": 51,
+				"max": 51
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "tol-dagor"
+				}
+			]
+		}
+	]
+}

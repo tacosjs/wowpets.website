@@ -1,0 +1,166 @@
+{
+	"id": "foxwyvern-black",
+	"family": "feathermane",
+	"modelGroup": "slyverns",
+	"npcs": [
+		{
+			"id": 195708,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "slyvern-plunge"
+				}
+			]
+		},
+		{
+			"id": 196057,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "the-storm-scar"
+				}
+			]
+		},
+		{
+			"id": 192169,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "apex-canopy"
+				}
+			]
+		},
+		{
+			"id": 192938,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "primordial-vale"
+				}
+			]
+		},
+		{
+			"id": 189852,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "emerald-gardens"
+				}
+			]
+		},
+		{
+			"id": 193438,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "slyvern-plunge"
+				}
+			]
+		},
+		{
+			"id": 194102,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 190964,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "teerakai"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 187489,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "sundapple-copse"
+				}
+			]
+		},
+		{
+			"id": 193068,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "slyvern-plunge"
+				}
+			]
+		}
+	]
+}

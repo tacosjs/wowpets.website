@@ -1,0 +1,60 @@
+{
+	"id": "maldraxxusflyer-purple-nohorns",
+	"family": "chimaera",
+	"modelGroup": "deathchimaeras",
+	"npcs": [
+		{
+			"id": 164587,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "the-stabbing-wastes"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 162624,
+			"tameable": true,
+			"level": {
+				"min": 53,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "the-stabbing-wastes"
+				}
+			]
+		},
+		{
+			"id": 162589,
+			"tameable": true,
+			"level": {
+				"min": 53,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "the-stabbing-wastes"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		162300,
+		167448,
+		170823,
+		170780,
+		170822
+	]
+}

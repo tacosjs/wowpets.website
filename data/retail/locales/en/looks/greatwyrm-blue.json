@@ -1,0 +1,12 @@
+{
+	"name": "Great Blue Mana Wyrm",
+	"variant": "Blue",
+	"npcs": {
+		"203734": {
+			"name": "Mana Wyrm"
+		},
+		"204649": {
+			"name": "Spiraling Lightwyrm"
+		}
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"id": "progenitorsnail-blue",
+	"family": "carapid",
+	"modelGroup": "helicids",
+	"npcs": [
+		{
+			"id": 181558,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis"
+				}
+			]
+		},
+		{
+			"id": 181559,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		178831,
+		185510
+	]
+}

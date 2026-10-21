@@ -1,0 +1,12 @@
+{
+	"name": "Armoured Red Raptora",
+	"variant": "Red",
+	"npcs": {
+		"181352": {
+			"name": "Bitterbeak"
+		},
+		"183291": {
+			"name": "Proto-Ancient Raptora"
+		}
+	}
+}

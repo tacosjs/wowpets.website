@@ -1,0 +1,162 @@
+{
+	"id": "dragonhawk2-orange",
+	"family": "dragonhawk",
+	"modelGroup": "greaterdragonhawks",
+	"npcs": [
+		{
+			"id": 253985,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods"
+				}
+			]
+		},
+		{
+			"id": 253970,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods"
+				}
+			]
+		},
+		{
+			"id": 253950,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods"
+				}
+			]
+		},
+		{
+			"id": 251460,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "isle-of-queldanas-eversong-woods"
+				}
+			]
+		},
+		{
+			"id": 238089,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "sanctum-of-the-sun"
+				}
+			]
+		},
+		{
+			"id": 271028,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "the-stump"
+				}
+			]
+		},
+		{
+			"id": 265480,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "the-stump"
+				}
+			]
+		},
+		{
+			"id": 250995,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "silvermoon-city"
+				}
+			]
+		},
+		{
+			"id": 231606,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "windrunner-spire"
+				}
+			]
+		},
+		{
+			"id": 252171,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods"
+				},
+				{
+					"zone": "harandar"
+				},
+				{
+					"zone": "voidstorm"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		250228
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"id": "giantbeast-green",
+	"family": "oxen",
+	"modelGroup": "tauralus",
+	"npcs": [
+		{
+			"id": 165336,
+			"tameable": true,
+			"level": {
+				"min": 53,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "hall-of-chains"
+				}
+			]
+		}
+	]
+}

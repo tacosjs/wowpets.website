@@ -1,0 +1,15 @@
+{
+	"name": "Green Candlefly w/ Wavy Antennae",
+	"variant": "Green w/ Wavy Antennae",
+	"npcs": {
+		"216055": {
+			"name": "Cavern Glowmite"
+		},
+		"227364": {
+			"name": "Disrupted Glowmite"
+		},
+		"229111": {
+			"name": "Unsettled Glowmite"
+		}
+	}
+}

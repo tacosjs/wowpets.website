@@ -1,0 +1,12 @@
+{
+	"name": "Orange Gorm w/ Horns",
+	"variant": "Orange w/ Horns",
+	"npcs": {
+		"159693": {
+			"name": "Enthralled Gorm"
+		},
+		"164238": {
+			"name": "Deifir the Untamed"
+		}
+	}
+}

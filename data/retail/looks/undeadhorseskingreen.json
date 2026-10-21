@@ -1,0 +1,66 @@
+{
+	"id": "undeadhorseskingreen",
+	"family": "courser",
+	"modelGroup": "skeletalhorses",
+	"npcs": [
+		{
+			"id": 3865,
+			"tameable": false,
+			"level": {
+				"min": 29,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "shadowfang-keep"
+				}
+			]
+		},
+		{
+			"id": 20495,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "netherstorm",
+					"area": "chapel-yard"
+				}
+			]
+		},
+		{
+			"id": 15548,
+			"tameable": false,
+			"level": {
+				"min": 31,
+				"max": 31
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "karazhan",
+					"area": "livery-stables"
+				}
+			]
+		},
+		{
+			"id": 114804,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "return-to-karazhan",
+					"area": "livery-stables-return-to-karazhan"
+				}
+			]
+		}
+	]
+}

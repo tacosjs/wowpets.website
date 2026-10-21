@@ -1,0 +1,53 @@
+{
+	"id": "parrotskinorange",
+	"family": "birdofprey",
+	"modelGroup": "parrots",
+	"npcs": [
+		{
+			"id": 48450,
+			"tameable": true,
+			"level": {
+				"min": 6,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-deadmines"
+				}
+			]
+		},
+		{
+			"id": 61747,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-jade-forest"
+				}
+			]
+		},
+		{
+			"id": 28060,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "cape-of-stranglethorn",
+					"area": "booty-bay"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		10262
+	]
+}

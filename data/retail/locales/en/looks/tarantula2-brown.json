@@ -1,0 +1,57 @@
+{
+	"name": "Brown Tarantula",
+	"variant": "Brown",
+	"npcs": {
+		"616": {
+			"name": "Chatter"
+		},
+		"1195": {
+			"name": "Forest Lurker"
+		},
+		"2349": {
+			"name": "Domesticated Creeper"
+		},
+		"8933": {
+			"name": "Cave Creeper"
+		},
+		"11738": {
+			"name": "Sand Skitterer"
+		},
+		"52146": {
+			"name": "Chitter"
+		},
+		"123813": {
+			"name": "Jungleweb Crawler"
+		},
+		"129913": {
+			"name": "Lurking Tarantula"
+		},
+		"134940": {
+			"name": "Bristlethorn Piercer"
+		},
+		"134942": {
+			"name": "Bristlethorn Spiderling"
+		},
+		"134947": {
+			"name": "Bristlethorn Broodqueen"
+		},
+		"147222": {
+			"name": "Gnollfeaster"
+		},
+		"168724": {
+			"name": "Engorged Fearspinner"
+		},
+		"187672": {
+			"name": "Rustfang Creeper"
+		},
+		"196426": {
+			"name": "Grotto Creeper"
+		},
+		"197408": {
+			"name": "Creeperling"
+		},
+		"201623": {
+			"name": "Nesting Creche Crawler"
+		}
+	}
+}

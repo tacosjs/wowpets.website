@@ -1,0 +1,109 @@
+{
+	"id": "caveborerworm-blue-graspers22",
+	"family": "worm",
+	"modelGroup": "jawcrawlers",
+	"npcs": [
+		{
+			"id": 229074,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		},
+		{
+			"id": 223060,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 228045,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		},
+		{
+			"id": 227470,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		},
+		{
+			"id": 226232,
+			"tameable": false,
+			"level": {
+				"min": 81,
+				"max": 81
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "azj-kahet"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 223080,
+			"tameable": false,
+			"level": {
+				"min": 81,
+				"max": 81
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "azj-kahet"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		218010
+	]
+}

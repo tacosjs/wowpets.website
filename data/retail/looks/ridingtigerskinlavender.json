@@ -1,0 +1,49 @@
+{
+	"id": "ridingtigerskinlavender",
+	"family": "cat",
+	"modelGroup": "sabercats",
+	"npcs": [
+		{
+			"id": 7434,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "winterspring"
+				}
+			]
+		},
+		{
+			"id": 10619,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "winterspring"
+				}
+			]
+		},
+		{
+			"id": 29857,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-storm-peaks"
+				}
+			]
+		}
+	]
+}

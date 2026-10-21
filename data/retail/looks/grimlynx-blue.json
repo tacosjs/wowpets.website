@@ -1,0 +1,52 @@
+{
+	"id": "grimlynx-blue",
+	"family": "whiptail",
+	"modelGroup": "grimlynxes",
+	"npcs": [
+		{
+			"id": 252434,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "the-den"
+				}
+			]
+		},
+		{
+			"id": 251569,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "the-den"
+				}
+			]
+		},
+		{
+			"id": 256948,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "harkuai"
+				}
+			]
+		}
+	]
+}

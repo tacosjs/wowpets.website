@@ -1,0 +1,37 @@
+{
+	"id": "protosheep-blue-flowers1",
+	"family": "gruffhorn",
+	"modelGroup": "mosswools",
+	"npcs": [
+		{
+			"id": 212371,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "rambleshire"
+				}
+			]
+		},
+		{
+			"id": 221413,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "stoneshapers-atrium-dornogal"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"name": "Blue Glowing Dragon Turtle",
+	"variant": "Blue Glowing",
+	"npcs": {
+		"67703": {
+			"name": "Slateshell Wanderer"
+		},
+		"67966": {
+			"name": "Whirl Turtle"
+		},
+		"156376": {
+			"name": "River Terrapin"
+		},
+		"169124": {
+			"name": "Glimmerpool Terrapin"
+		},
+		"169826": {
+			"name": "Glimmerpool Snapjaw"
+		},
+		"170334": {
+			"name": "Glimmerpool Snapper"
+		}
+	}
+}

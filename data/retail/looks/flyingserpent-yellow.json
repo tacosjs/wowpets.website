@@ -1,0 +1,40 @@
+{
+	"id": "flyingserpent-yellow",
+	"family": "chimaera",
+	"modelGroup": "skyfiends",
+	"npcs": [
+		{
+			"id": 255088,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "the-forum"
+				}
+			]
+		},
+		{
+			"id": 261554,
+			"tameable": true,
+			"level": {
+				"min": 91,
+				"max": 91
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "altar-of-fangs"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		261378,
+		266189
+	]
+}

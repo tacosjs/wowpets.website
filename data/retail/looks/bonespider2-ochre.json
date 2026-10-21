@@ -1,0 +1,212 @@
+{
+	"id": "bonespider2-ochre",
+	"family": "spider",
+	"modelGroup": "grandbonespiders",
+	"npcs": [
+		{
+			"id": 1780,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "silverpine-forest"
+				}
+			]
+		},
+		{
+			"id": 56070,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-jade-forest",
+					"area": "the-silkwood"
+				}
+			]
+		},
+		{
+			"id": 46508,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tol-barad-peninsula"
+				}
+			]
+		},
+		{
+			"id": 58459,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms"
+				}
+			]
+		},
+		{
+			"id": 58588,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms"
+				}
+			]
+		},
+		{
+			"id": 97494,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "rockcrawler-chasm"
+				}
+			]
+		},
+		{
+			"id": 254758,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "crypt-of-the-denied"
+				}
+			]
+		},
+		{
+			"id": 107432,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 1
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "rockcrawler-chasm"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 56194,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-jade-forest",
+					"area": "the-silkwood"
+				}
+			]
+		},
+		{
+			"id": 107437,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "rockcrawler-chasm"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 134903,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 30279,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 31
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ahnkahet-the-old-kingdom"
+				}
+			]
+		},
+		{
+			"id": 234673,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "windrunner-spire"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		125132,
+		112370,
+		113417,
+		263653,
+		231010
+	]
+}

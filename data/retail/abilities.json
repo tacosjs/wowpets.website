@@ -33,5 +33,400 @@
 		"id": "dune-strider",
 		"spellId": 280151,
 		"kind": "family"
+	},
+	{
+		"id": "petrifying-gaze",
+		"spellId": 263841,
+		"kind": "family"
+	},
+	{
+		"id": "sonic-screech",
+		"spellId": 344348,
+		"kind": "family"
+	},
+	{
+		"id": "thick-fur",
+		"spellId": 263934,
+		"kind": "family"
+	},
+	{
+		"id": "harden-carapace",
+		"spellId": 90339,
+		"kind": "family"
+	},
+	{
+		"id": "talon-rend",
+		"spellId": 263852,
+		"kind": "family"
+	},
+	{
+		"id": "blood-bolt",
+		"spellId": 288962,
+		"kind": "family"
+	},
+	{
+		"id": "bristle",
+		"spellId": 263869,
+		"kind": "family"
+	},
+	{
+		"id": "hardy",
+		"spellId": 341115,
+		"kind": "family"
+	},
+	{
+		"id": "bulwark",
+		"spellId": 279410,
+		"kind": "family"
+	},
+	{
+		"id": "calcified-carapace",
+		"spellId": 279254,
+		"kind": "family"
+	},
+	{
+		"id": "bloody-screech",
+		"spellId": 24423,
+		"kind": "family"
+	},
+	{
+		"id": "catlike-reflexes",
+		"spellId": 263892,
+		"kind": "family"
+	},
+	{
+		"id": "prowl",
+		"spellId": 24450,
+		"kind": "family"
+	},
+	{
+		"id": "frost-breath",
+		"spellId": 54644,
+		"kind": "family"
+	},
+	{
+		"id": "froststorm-breath",
+		"spellId": 92380,
+		"kind": "family"
+	},
+	{
+		"id": "smack",
+		"spellId": 49966,
+		"kind": "basic"
+	},
+	{
+		"id": "thick-hide",
+		"spellId": 160057,
+		"kind": "family"
+	},
+	{
+		"id": "blood-of-the-rhino",
+		"spellId": 280069,
+		"kind": "family"
+	},
+	{
+		"id": "obsidian-skin",
+		"spellId": 263867,
+		"kind": "family"
+	},
+	{
+		"id": "molten-hide",
+		"spellId": 159788,
+		"kind": "family"
+	},
+	{
+		"id": "fleethoof",
+		"spellId": 341117,
+		"kind": "family"
+	},
+	{
+		"id": "pin",
+		"spellId": 50245,
+		"kind": "family"
+	},
+	{
+		"id": "ankle-crack",
+		"spellId": 50433,
+		"kind": "family"
+	},
+	{
+		"id": "monstrous-bite",
+		"spellId": 54680,
+		"kind": "family"
+	},
+	{
+		"id": "feast",
+		"spellId": 159953,
+		"kind": "family"
+	},
+	{
+		"id": "gore",
+		"spellId": 263861,
+		"kind": "family"
+	},
+	{
+		"id": "dragons-guile",
+		"spellId": 263887,
+		"kind": "family"
+	},
+	{
+		"id": "feather-flurry",
+		"spellId": 263916,
+		"kind": "family"
+	},
+	{
+		"id": "updraft",
+		"spellId": 160007,
+		"kind": "family"
+	},
+	{
+		"id": "agile-reflexes",
+		"spellId": 160011,
+		"kind": "family"
+	},
+	{
+		"id": "silverback",
+		"spellId": 263939,
+		"kind": "family"
+	},
+	{
+		"id": "gruff",
+		"spellId": 263921,
+		"kind": "family"
+	},
+	{
+		"id": "swarm-of-flies",
+		"spellId": 279336,
+		"kind": "family"
+	},
+	{
+		"id": "lock-jaw",
+		"spellId": 263423,
+		"kind": "family"
+	},
+	{
+		"id": "acid-bite",
+		"spellId": 263863,
+		"kind": "family"
+	},
+	{
+		"id": "infected-bite",
+		"spellId": 263853,
+		"kind": "family"
+	},
+	{
+		"id": "shimmering-scales",
+		"spellId": 392622,
+		"kind": "family"
+	},
+	{
+		"id": "grievous-bite",
+		"spellId": 279362,
+		"kind": "family"
+	},
+	{
+		"id": "trample",
+		"spellId": 341118,
+		"kind": "family"
+	},
+	{
+		"id": "defense-matrix",
+		"spellId": 263868,
+		"kind": "family"
+	},
+	{
+		"id": "primal-agility",
+		"spellId": 160044,
+		"kind": "family"
+	},
+	{
+		"id": "serenity-dust",
+		"spellId": 344353,
+		"kind": "family"
+	},
+	{
+		"id": "niuzaos-fortitude",
+		"spellId": 264023,
+		"kind": "family"
+	},
+	{
+		"id": "ancient-hide",
+		"spellId": 279399,
+		"kind": "family"
+	},
+	{
+		"id": "savage-rend",
+		"spellId": 263854,
+		"kind": "family"
+	},
+	{
+		"id": "ravage",
+		"spellId": 263857,
+		"kind": "family"
+	},
+	{
+		"id": "nether-energy",
+		"spellId": 344349,
+		"kind": "family"
+	},
+	{
+		"id": "gruesome-bite",
+		"spellId": 160018,
+		"kind": "family"
+	},
+	{
+		"id": "gnaw",
+		"spellId": 263856,
+		"kind": "family"
+	},
+	{
+		"id": "scale-shield",
+		"spellId": 263865,
+		"kind": "family"
+	},
+	{
+		"id": "deadly-sting",
+		"spellId": 160060,
+		"kind": "family"
+	},
+	{
+		"id": "serpents-swiftness",
+		"spellId": 263904,
+		"kind": "family"
+	},
+	{
+		"id": "solid-shell",
+		"spellId": 160063,
+		"kind": "family"
+	},
+	{
+		"id": "shimmering-shale",
+		"spellId": 279259,
+		"kind": "family"
+	},
+	{
+		"id": "web-spray",
+		"spellId": 160067,
+		"kind": "family"
+	},
+	{
+		"id": "spirit-pulse",
+		"spellId": 344351,
+		"kind": "family"
+	},
+	{
+		"id": "spirit-mend",
+		"spellId": 90361,
+		"kind": "family"
+	},
+	{
+		"id": "spirit-walk",
+		"spellId": 90328,
+		"kind": "family"
+	},
+	{
+		"id": "spore-cloud",
+		"spellId": 344347,
+		"kind": "family"
+	},
+	{
+		"id": "natures-grace",
+		"spellId": 344352,
+		"kind": "family"
+	},
+	{
+		"id": "stone-armor",
+		"spellId": 160049,
+		"kind": "family"
+	},
+	{
+		"id": "eternal-guardian",
+		"spellId": 267922,
+		"kind": "family"
+	},
+	{
+		"id": "dust-cloud",
+		"spellId": 50285,
+		"kind": "family"
+	},
+	{
+		"id": "shell-shield",
+		"spellId": 26064,
+		"kind": "family"
+	},
+	{
+		"id": "warp-time",
+		"spellId": 35346,
+		"kind": "family"
+	},
+	{
+		"id": "toxic-sting",
+		"spellId": 263858,
+		"kind": "family"
+	},
+	{
+		"id": "oiled-feathers",
+		"spellId": 344350,
+		"kind": "family"
+	},
+	{
+		"id": "soothing-waters",
+		"spellId": 344346,
+		"kind": "family"
+	},
+	{
+		"id": "surface-trot",
+		"spellId": 126311,
+		"kind": "family"
+	},
+	{
+		"id": "serrated-strike",
+		"spellId": 1247058,
+		"kind": "family"
+	},
+	{
+		"id": "shadow-jump",
+		"spellId": 1247078,
+		"kind": "family"
+	},
+	{
+		"id": "winged-agility",
+		"spellId": 264360,
+		"kind": "family"
+	},
+	{
+		"id": "acid-spit",
+		"spellId": 263446,
+		"kind": "family"
+	},
+	{
+		"id": "burrow-attack",
+		"spellId": 93433,
+		"kind": "family"
+	},
+	{
+		"id": "rest",
+		"spellId": 94019,
+		"kind": "special"
+	},
+	{
+		"id": "trick",
+		"spellId": 94022,
+		"kind": "special"
+	},
+	{
+		"id": "play",
+		"spellId": 90347,
+		"kind": "special"
+	},
+	{
+		"id": "rest-126364",
+		"spellId": 126364,
+		"kind": "special"
+	},
+	{
+		"id": "trick-126259",
+		"spellId": 126259,
+		"kind": "special"
 	}
 ]

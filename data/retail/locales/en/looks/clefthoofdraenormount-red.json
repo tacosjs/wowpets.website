@@ -1,0 +1,9 @@
+{
+	"name": "Saddled Red Draenor Clefthoof",
+	"variant": "Red",
+	"npcs": {
+		"108181": {
+			"name": "Reassigned Warbeast"
+		}
+	}
+}

@@ -1,0 +1,89 @@
+{
+	"id": "cosmicflyer-purple",
+	"family": "ray",
+	"modelGroup": "cosmicrays",
+	"npcs": [
+		{
+			"id": 230429,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "the-tempest-fields"
+				}
+			]
+		},
+		{
+			"id": 238492,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "ethereum-refinery"
+				}
+			]
+		},
+		{
+			"id": 257575,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm"
+				}
+			]
+		},
+		{
+			"id": 257574,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm"
+				}
+			]
+		},
+		{
+			"id": 239941,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "stareater-pavilion"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		249039,
+		245897,
+		254608,
+		246060,
+		240511,
+		240544,
+		255957
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Brown Spiked Dragon Turtle",
+	"variant": "Brown",
+	"npcs": {
+		"64726": {
+			"name": "Elder Shoreshell Snapper"
+		},
+		"127626": {
+			"name": "Freshwater Snapper"
+		}
+	}
+}

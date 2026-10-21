@@ -1,0 +1,271 @@
+{
+	"id": "thunderhydra-green",
+	"family": "hydra",
+	"modelGroup": "thunderhydras",
+	"npcs": [
+		{
+			"id": 111383,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valsharah"
+				}
+			]
+		},
+		{
+			"id": 129954,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "talgurub"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 81537,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "mistcreep-mire"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 85693,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "mistcreep-mire"
+				}
+			]
+		},
+		{
+			"id": 82050,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "the-writhing-mire"
+				}
+			],
+			"keepsName": true,
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 85429,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "the-writhing-mire"
+				}
+			]
+		},
+		{
+			"id": 80370,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "nagrand-draenor",
+					"area": "the-south-sea-south-of-windroc-bay"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 80541,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nagrand-draenor",
+					"area": "lernaen-shore-and-the-south-sea-south-of-windroc-bay"
+				}
+			]
+		},
+		{
+			"id": 80542,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nagrand-draenor",
+					"area": "lernaen-shore-and-windroc-bay"
+				}
+			]
+		},
+		{
+			"id": 80543,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nagrand-draenor",
+					"area": "lernaen-shore-and-windroc-bay"
+				}
+			]
+		},
+		{
+			"id": 86266,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "everbloom-wilds"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 112861,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna"
+				}
+			]
+		},
+		{
+			"id": 129027,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "shrouded-shore"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 111180,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "vashjir",
+					"area": "shimmering-expanse-vashjir"
+				}
+			]
+		},
+		{
+			"id": 132740,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 131411,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 131410,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		192126
+	]
+}

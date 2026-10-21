@@ -1,0 +1,83 @@
+{
+	"id": "zandalariraptor-brown",
+	"family": "raptor",
+	"modelGroup": "ravasaurs",
+	"npcs": [
+		{
+			"id": 145110,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "mariners-row"
+				}
+			]
+		},
+		{
+			"id": 136426,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "shoaljai-tar-pits-and-the-plains-to-the-south"
+				}
+			]
+		},
+		{
+			"id": 130727,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "shoaljai-tar-pits"
+				}
+			]
+		},
+		{
+			"id": 123096,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "upper-frogmarsh"
+				}
+			]
+		},
+		{
+			"id": 133812,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "the-rivermarsh"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

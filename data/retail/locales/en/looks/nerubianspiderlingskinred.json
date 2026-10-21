@@ -1,0 +1,21 @@
+{
+	"name": "Red Threadling",
+	"variant": "Red Threadling",
+	"npcs": {
+		"26402": {
+			"name": "Anub'ar Ambusher"
+		},
+		"28735": {
+			"name": "Skittering Swarmer"
+		},
+		"29214": {
+			"name": "Anub'ar Assassin"
+		},
+		"32593": {
+			"name": "Skittering Swarmer"
+		},
+		"139873": {
+			"name": "Banechitter"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Orange Dragonhawk",
+	"variant": "Orange",
+	"npcs": {
+		"15649": {
+			"name": "Feral Dragonhawk Hatchling"
+		}
+	}
+}

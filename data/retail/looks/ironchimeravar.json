@@ -1,0 +1,19 @@
+{
+	"id": "ironchimeravar",
+	"family": "chimaera",
+	"modelGroup": "armoredrylaks",
+	"npcs": [
+		{
+			"id": 76874,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "blackrock-foundry",
+					"area": "the-breaking-grounds"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

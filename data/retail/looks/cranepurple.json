@@ -1,0 +1,100 @@
+{
+	"id": "cranepurple",
+	"family": "waterfowl",
+	"modelGroup": "cranes",
+	"npcs": [
+		{
+			"id": 174592,
+			"tameable": true,
+			"level": {
+				"min": 57,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "shimmerbough"
+				}
+			]
+		},
+		{
+			"id": 169762,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald"
+				}
+			]
+		},
+		{
+			"id": 165086,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "elder-stand"
+				}
+			]
+		},
+		{
+			"id": 161889,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "garden-of-night"
+				}
+			]
+		},
+		{
+			"id": 171181,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "de-other-side"
+				}
+			]
+		},
+		{
+			"id": 165087,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "elder-stand"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		162449,
+		174247,
+		172070
+	]
+}

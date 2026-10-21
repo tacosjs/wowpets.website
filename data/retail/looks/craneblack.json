@@ -1,0 +1,106 @@
+{
+	"id": "craneblack",
+	"family": "waterfowl",
+	"modelGroup": "cranes",
+	"npcs": [
+		{
+			"id": 59665,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-jade-forest"
+				}
+			]
+		},
+		{
+			"id": 58885,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "krasarang-wilds"
+				}
+			]
+		},
+		{
+			"id": 139456,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir"
+				}
+			]
+		},
+		{
+			"id": 63584,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-jade-forest"
+				}
+			]
+		},
+		{
+			"id": 59763,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "krasarang-wilds"
+				}
+			]
+		},
+		{
+			"id": 71143,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "timeless-isle"
+				}
+			]
+		},
+		{
+			"id": 118266,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "broken-shore",
+					"area": "jagged-cove"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"name": "White Ravasaur",
+	"variant": "White",
+	"npcs": {
+		"135791": {
+			"name": "Roughscale Hatchling"
+		},
+		"139365": {
+			"name": "Queenfeather",
+			"title": "Savagemane Matriarch"
+		},
+		"145444": {
+			"name": "Ravasaur Fleshripper"
+		},
+		"260320": {
+			"name": "Sava"
+		}
+	}
+}

@@ -1,0 +1,196 @@
+{
+	"id": "alpaca-whiteleather",
+	"family": "camel",
+	"modelGroup": "alpacas",
+	"npcs": [
+		{
+			"id": 143741,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "vulpera-hideaway"
+				}
+			]
+		},
+		{
+			"id": 128848,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "zulahjin"
+				}
+			]
+		},
+		{
+			"id": 126219,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun"
+				}
+			]
+		},
+		{
+			"id": 126217,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun"
+				}
+			]
+		},
+		{
+			"id": 143740,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "vulpera-hideaway"
+				}
+			]
+		},
+		{
+			"id": 128849,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "zulahjin"
+				}
+			]
+		},
+		{
+			"id": 142449,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun"
+				}
+			]
+		},
+		{
+			"id": 147453,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun"
+				}
+			]
+		},
+		{
+			"id": 143700,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "boralus-hatherford"
+				}
+			]
+		},
+		{
+			"id": 147500,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun"
+				}
+			]
+		},
+		{
+			"id": 147499,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun"
+				}
+			]
+		},
+		{
+			"id": 196714,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "forkriver-crossing"
+				}
+			]
+		},
+		{
+			"id": 196715,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "forkriver-crossing"
+				}
+			]
+		}
+	]
+}

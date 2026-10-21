@@ -1,0 +1,138 @@
+{
+	"id": "silkwormblue",
+	"family": "worm",
+	"modelGroup": "silkworms",
+	"npcs": [
+		{
+			"id": 59754,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-jade-forest",
+					"area": "fox-grove"
+				}
+			]
+		},
+		{
+			"id": 66418,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "townlong-steppes"
+				}
+			]
+		},
+		{
+			"id": 67084,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-jade-forest"
+				}
+			]
+		},
+		{
+			"id": 65711,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-jade-forest"
+				}
+			]
+		},
+		{
+			"id": 57404,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds"
+				}
+			]
+		},
+		{
+			"id": 168089,
+			"tameable": false,
+			"level": {
+				"min": 54,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "heart-of-the-forest"
+				}
+			]
+		},
+		{
+			"id": 158852,
+			"tameable": false,
+			"level": {
+				"min": 54,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "gossamer-cliffs"
+				}
+			]
+		},
+		{
+			"id": 194875,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "sylvan-glade"
+				}
+			]
+		},
+		{
+			"id": 205267,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "mysterious-cave"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"name": "White Crocolisk",
+	"variant": "White",
+	"npcs": {
+		"3581": {
+			"name": "Sewer Beast"
+		},
+		"4841": {
+			"name": "Deadmire"
+		},
+		"5053": {
+			"name": "Deviate Crocolisk"
+		},
+		"13596": {
+			"name": "Rotgrip"
+		},
+		"20773": {
+			"name": "Barbscale Crocolisk"
+		},
+		"28317": {
+			"name": "Bushwhacker"
+		},
+		"41420": {
+			"name": "Horrorjaw"
+		}
+	}
+}

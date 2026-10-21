@@ -1,0 +1,29 @@
+{
+	"id": "progenitorwombat-darkred-crest4",
+	"family": "rodent",
+	"modelGroup": "vombatas",
+	"npcs": [
+		{
+			"id": 180961,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "haven"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		178913,
+		181359,
+		185296,
+		185303,
+		182315
+	]
+}

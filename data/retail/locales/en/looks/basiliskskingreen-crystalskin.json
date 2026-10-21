@@ -1,0 +1,9 @@
+{
+	"name": "Green Basilisk w/Blue Fringes",
+	"variant": "Green w/Blue",
+	"npcs": {
+		"1550": {
+			"name": "Thrashtail Basilisk"
+		}
+	}
+}

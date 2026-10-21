@@ -1,0 +1,78 @@
+{
+	"id": "quilin-white",
+	"family": "stonehound",
+	"modelGroup": "quilen",
+	"npcs": [
+		{
+			"id": 131233,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "greater-vigilant"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 61307,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "kun-lai-summit",
+					"area": "seekers-point"
+				}
+			],
+			"keepsName": true,
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 132807,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 59977,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		61945,
+		156046,
+		61455,
+		156324
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"name": "Gold Condor",
+	"variant": "Gold",
+	"npcs": {
+		"428": {
+			"name": "Dire Condor"
+		},
+		"40650": {
+			"name": "Twilight Firebird"
+		},
+		"44184": {
+			"name": "Loch Buzzard"
+		},
+		"57851": {
+			"name": "Thunderbird"
+		},
+		"58111": {
+			"name": "Thunderbird"
+		},
+		"59782": {
+			"name": "Cypress Condor"
+		},
+		"61843": {
+			"name": "Kun-Lai Corpsepicker"
+		},
+		"66368": {
+			"name": "Carrion Vulture"
+		},
+		"84233": {
+			"name": "Thrashtalon Vulture"
+		},
+		"105655": {
+			"name": "Bound Vulture"
+		},
+		"132526": {
+			"name": "Fleshripper Vulture"
+		}
+	}
+}

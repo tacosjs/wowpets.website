@@ -1,0 +1,27 @@
+{
+	"name": "Fiery Draenor Kaliri",
+	"variant": "Fiery",
+	"npcs": {
+		"207096": {
+			"name": "Smoldering Raven"
+		},
+		"207334": {
+			"name": "Blazing Kindlewing"
+		},
+		"207335": {
+			"name": "Blazing Emberwing"
+		},
+		"209098": {
+			"name": "Ashen Emberwing"
+		},
+		"209131": {
+			"name": "Invading Flametalon"
+		},
+		"210298": {
+			"name": "Searing-Sun Crow"
+		},
+		"210305": {
+			"name": "Avius Flamebeak"
+		}
+	}
+}

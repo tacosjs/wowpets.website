@@ -1,0 +1,95 @@
+{
+	"id": "yakblack",
+	"family": "oxen",
+	"modelGroup": "yaks",
+	"npcs": [
+		{
+			"id": 59970,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "kun-lai-summit",
+					"area": "fire-camp-ordo"
+				}
+			]
+		},
+		{
+			"id": 72844,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "timeless-isle"
+				}
+			]
+		},
+		{
+			"id": 66549,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dread-wastes"
+				}
+			]
+		},
+		{
+			"id": 249612,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "razorwind-shores"
+				},
+				{
+					"zone": "founders-point"
+				}
+			]
+		},
+		{
+			"id": 140440,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 140437,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	]
+}

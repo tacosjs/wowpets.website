@@ -1,0 +1,22 @@
+{
+	"id": "harkoa",
+	"family": "spiritbeast",
+	"modelGroup": "spiritleopards",
+	"npcs": [
+		{
+			"id": 32517,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "sholazar-basin"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

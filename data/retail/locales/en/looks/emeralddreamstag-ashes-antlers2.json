@@ -1,0 +1,21 @@
+{
+	"name": "Dark Brown Dreamstag w/ Medium Antlers",
+	"variant": "Dark Brown w/ Medium Antlers",
+	"npcs": {
+		"209492": {
+			"name": "Frightened Gladehart"
+		},
+		"210976": {
+			"name": "Wandering Gladehart"
+		},
+		"211347": {
+			"name": "Rabid Gladehart"
+		},
+		"211767": {
+			"name": "Gentle Gladehart"
+		},
+		"211990": {
+			"name": "Domesticated Dreamstag"
+		}
+	}
+}

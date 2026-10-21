@@ -1,0 +1,36 @@
+{
+	"id": "parrotskinlavender",
+	"family": "birdofprey",
+	"modelGroup": "parrots",
+	"npcs": [
+		{
+			"id": 48449,
+			"tameable": true,
+			"level": {
+				"min": 6,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-deadmines"
+				}
+			]
+		},
+		{
+			"id": 22424,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "terokkar-forest",
+					"area": "the-bone-wastes"
+				}
+			]
+		}
+	]
+}

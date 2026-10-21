@@ -1,0 +1,141 @@
+{
+	"id": "zandalariraptor-black",
+	"family": "raptor",
+	"modelGroup": "ravasaurs",
+	"npcs": [
+		{
+			"id": 140699,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "xibala"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 122004,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "savagelands-lair-of-umbrajin"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 124217,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir"
+				}
+			]
+		},
+		{
+			"id": 135790,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "nathavor"
+				}
+			]
+		},
+		{
+			"id": 125206,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir"
+				}
+			]
+		},
+		{
+			"id": 127254,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "lair-of-gonk"
+				}
+			]
+		},
+		{
+			"id": 127123,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "dazaralor"
+				}
+			]
+		},
+		{
+			"id": 148871,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "the-feeding-grounds"
+				}
+			]
+		},
+		{
+			"id": 125215,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir"
+				}
+			]
+		}
+	]
+}

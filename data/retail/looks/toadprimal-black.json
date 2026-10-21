@@ -1,0 +1,336 @@
+{
+	"id": "toadprimal-black",
+	"family": "lesserdragonkin",
+	"modelGroup": "hornswogs",
+	"npcs": [
+		{
+			"id": 187111,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "wild-coast"
+				}
+			]
+		},
+		{
+			"id": 188043,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "genesis-falls"
+				}
+			]
+		},
+		{
+			"id": 191604,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "roaring-dragonsprings"
+				}
+			]
+		},
+		{
+			"id": 187140,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "wild-coast"
+				}
+			]
+		},
+		{
+			"id": 191479,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "burning-ascent"
+				}
+			]
+		},
+		{
+			"id": 184867,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "wild-coast"
+				}
+			]
+		},
+		{
+			"id": 191060,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "wild-coast"
+				}
+			]
+		},
+		{
+			"id": 193925,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "scalecracker-keep"
+				}
+			]
+		},
+		{
+			"id": 192430,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "burning-ascent"
+				}
+			]
+		},
+		{
+			"id": 186834,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "life-binder-conservatory"
+				}
+			]
+		},
+		{
+			"id": 196398,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "dragonbane-keep"
+				}
+			]
+		},
+		{
+			"id": 190608,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "hornswog-hollow"
+				}
+			]
+		},
+		{
+			"id": 190607,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "hornswog-hollow"
+				}
+			]
+		},
+		{
+			"id": 193926,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "scalecracker-keep"
+				}
+			]
+		},
+		{
+			"id": 192405,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "burning-ascent"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 192402,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "burning-ascent"
+				}
+			]
+		},
+		{
+			"id": 193923,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "scalecracker-keep"
+				}
+			]
+		},
+		{
+			"id": 194003,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "lilac-ramble"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 194922,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "apex-canopy-dragonbane-keep"
+				}
+			]
+		},
+		{
+			"id": 196411,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "dragonbane-keep"
+				}
+			]
+		},
+		{
+			"id": 193120,
+			"tameable": false,
+			"level": {
+				"min": 71,
+				"max": 71
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "hornswog-hollow"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		191563,
+		187574
+	]
+}

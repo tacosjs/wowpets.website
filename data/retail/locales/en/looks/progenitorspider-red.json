@@ -1,0 +1,12 @@
+{
+	"name": "Brown & Black Tarachnid",
+	"variant": "Brown & Black",
+	"npcs": {
+		"178507": {
+			"name": "Drylands Tarachnid"
+		},
+		"185377": {
+			"name": "Captured Tarachnid"
+		}
+	}
+}

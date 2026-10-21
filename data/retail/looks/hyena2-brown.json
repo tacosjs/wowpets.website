@@ -1,0 +1,44 @@
+{
+	"id": "hyena2-brown",
+	"family": "hyena",
+	"modelGroup": "grandhyenas",
+	"npcs": [
+		{
+			"id": 192486,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "big-tree-hills"
+				}
+			]
+		},
+		{
+			"id": 192503,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "fetid-encampment"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		134718,
+		183340,
+		192351,
+		187566,
+		187565
+	]
+}

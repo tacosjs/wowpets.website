@@ -1,0 +1,21 @@
+{
+	"id": "giantboararmoredmountfrost",
+	"family": "boar",
+	"modelGroup": "draenorarmoredboars",
+	"npcs": [
+		{
+			"id": 151623,
+			"tameable": false,
+			"level": {
+				"min": 51,
+				"max": 51
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "mechagon"
+				}
+			]
+		}
+	]
+}

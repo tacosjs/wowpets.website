@@ -1,0 +1,52 @@
+{
+	"id": "armoredon-yellow",
+	"family": "scalehide",
+	"modelGroup": "armoredons",
+	"npcs": [
+		{
+			"id": 196555,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "dragonsprings-summit"
+				}
+			]
+		},
+		{
+			"id": 196655,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "dragonsprings-summit"
+				}
+			]
+		},
+		{
+			"id": 193212,
+			"tameable": false,
+			"level": {
+				"min": 71,
+				"max": 71
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "the-watering-hole"
+				}
+			]
+		}
+	]
+}

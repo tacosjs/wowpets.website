@@ -1,0 +1,73 @@
+{
+	"id": "peacock2-white",
+	"family": "carrionbird",
+	"modelGroup": "peafowl",
+	"npcs": [
+		{
+			"id": 193273,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "gardens-of-unity"
+				}
+			]
+		},
+		{
+			"id": 193609,
+			"tameable": true,
+			"level": {
+				"min": 68,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "ruby-life-pools"
+				}
+			]
+		},
+		{
+			"id": 214949,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "keepers-terrace-dornogal"
+				}
+			]
+		},
+		{
+			"id": 191375,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 68
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "ruby-life-pools"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		192383,
+		197889,
+		212710,
+		227198
+	]
+}

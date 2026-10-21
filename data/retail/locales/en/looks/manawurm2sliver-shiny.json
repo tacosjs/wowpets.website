@@ -1,0 +1,9 @@
+{
+	"name": "Shiny Blue-Silver Mana Wyrm",
+	"variant": "Shiny Blue-Silver",
+	"npcs": {
+		"205300": {
+			"name": "Empowered Wyrmling"
+		}
+	}
+}

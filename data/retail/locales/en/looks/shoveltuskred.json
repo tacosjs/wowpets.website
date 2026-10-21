@@ -1,0 +1,9 @@
+{
+	"name": "Red Shoveltusk",
+	"variant": "Red",
+	"npcs": {
+		"26418": {
+			"name": "Longhoof Grazer"
+		}
+	}
+}

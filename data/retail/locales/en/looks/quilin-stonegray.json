@@ -1,0 +1,79 @@
+{
+	"name": "Grey Stone Quilen",
+	"variant": "Grey Stone",
+	"npcs": {
+		"56274": {
+			"name": "Guardian of the Elders"
+		},
+		"58419": {
+			"name": "Sleeping Guardian"
+		},
+		"58645": {
+			"name": "Ruined Guardian"
+		},
+		"59157": {
+			"name": "Granite Quilen"
+		},
+		"59971": {
+			"name": "Stone Guardian"
+		},
+		"59973": {
+			"name": "Stone Guardian"
+		},
+		"60223": {
+			"name": "Granite Quilen"
+		},
+		"60373": {
+			"name": "Reanimated Quilen"
+		},
+		"60576": {
+			"name": "Stone Quilen"
+		},
+		"60833": {
+			"name": "Frenzied Stone Quilen"
+		},
+		"63155": {
+			"name": "Stone Guardian"
+		},
+		"63510": {
+			"name": "Wulon",
+			"title": "The Granite Sentinel"
+		},
+		"63605": {
+			"name": "Stonebound Watcher"
+		},
+		"64014": {
+			"name": "Quilen Stonemaw"
+		},
+		"64183": {
+			"name": "Enormous Stone Quilen"
+		},
+		"65450": {
+			"name": "Ancient Guardian"
+		},
+		"67833": {
+			"name": "Mercurial Guardian"
+		},
+		"67877": {
+			"name": "Mercurial Visage"
+		},
+		"69240": {
+			"name": "Grave Guardian"
+		},
+		"70327": {
+			"name": "Stone Watcher"
+		},
+		"99675": {
+			"name": "Enormous Stone Quilen"
+		},
+		"139457": {
+			"name": "Stonebound Quilen"
+		},
+		"139480": {
+			"name": "Stonebound Protector"
+		},
+		"156271": {
+			"name": "Guardian of the Vault"
+		}
+	}
+}

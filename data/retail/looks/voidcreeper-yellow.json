@@ -1,0 +1,41 @@
+{
+	"id": "voidcreeper-yellow",
+	"family": "carapid",
+	"modelGroup": "voidcreepers",
+	"npcs": [
+		{
+			"id": 245783,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "lunnall-river"
+				}
+			]
+		},
+		{
+			"id": 239070,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "voidscar-arena"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

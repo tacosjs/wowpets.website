@@ -1,0 +1,197 @@
+{
+	"id": "batskinwhite",
+	"family": "bat",
+	"modelGroup": "bats",
+	"npcs": [
+		{
+			"id": 10357,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "tirisfal-glades"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 50330,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "silverpine-forest"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 11897,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eastern-plaguelands"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 59235,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "krasarang-wilds"
+				}
+			]
+		},
+		{
+			"id": 28233,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldrak"
+				}
+			]
+		},
+		{
+			"id": 61415,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mogushan-palace"
+				}
+			]
+		},
+		{
+			"id": 3868,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "deepholm"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 16180,
+			"tameable": true,
+			"level": {
+				"min": 33,
+				"max": 33
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "karazhan",
+					"area": "servants-quarters"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 28170,
+			"tameable": false,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "sholazar-basin",
+					"area": "the-avalanche"
+				}
+			]
+		},
+		{
+			"id": 70232,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "throne-of-thunder",
+					"area": "sewer-access-point"
+				}
+			]
+		},
+		{
+			"id": 57458,
+			"tameable": false,
+			"level": {
+				"min": 36,
+				"max": 36
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "well-of-eternity"
+				}
+			]
+		},
+		{
+			"id": 57117,
+			"tameable": false,
+			"level": {
+				"min": 36,
+				"max": 36
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "well-of-eternity"
+				}
+			]
+		},
+		{
+			"id": 55453,
+			"tameable": false,
+			"level": {
+				"min": 36,
+				"max": 36
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "well-of-eternity"
+				}
+			]
+		}
+	]
+}

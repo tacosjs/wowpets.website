@@ -1,0 +1,104 @@
+{
+	"id": "horse3-pinto-mane1",
+	"family": "courser",
+	"modelGroup": "horses",
+	"npcs": [
+		{
+			"id": 37785,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 10
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gilneas"
+				}
+			]
+		},
+		{
+			"id": 81307,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "fionas-caravan"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 128441,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "norwington-estate"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 45434,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eastern-plaguelands"
+				}
+			]
+		},
+		{
+			"id": 47666,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tol-barad-peninsula",
+					"area": "rustberg-village"
+				}
+			]
+		},
+		{
+			"id": 55715,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "darkmoon-island",
+					"area": "the-darkmoon-faire"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		26472,
+		48180,
+		174412,
+		142347,
+		137836
+	]
+}

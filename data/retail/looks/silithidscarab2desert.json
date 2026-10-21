@@ -1,0 +1,283 @@
+{
+	"id": "silithidscarab2desert",
+	"family": "beetle",
+	"modelGroup": "grandbeetles",
+	"npcs": [
+		{
+			"id": 47390,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thousand-needles"
+				}
+			]
+		},
+		{
+			"id": 140830,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "zulnazman"
+				}
+			]
+		},
+		{
+			"id": 51674,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "uldum"
+				}
+			]
+		},
+		{
+			"id": 63587,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dread-wastes"
+				}
+			]
+		},
+		{
+			"id": 136663,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun"
+				}
+			]
+		},
+		{
+			"id": 124019,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "brine-basin"
+				}
+			]
+		},
+		{
+			"id": 126893,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "withering-gulch"
+				}
+			]
+		},
+		{
+			"id": 124029,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "blistering-wastes"
+				}
+			]
+		},
+		{
+			"id": 137077,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "bonetrail-gulch"
+				}
+			]
+		},
+		{
+			"id": 137721,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "court-of-zakrajan"
+				}
+			]
+		},
+		{
+			"id": 124211,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "court-of-zakrajan"
+				}
+			]
+		},
+		{
+			"id": 128404,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "port-of-zemlan"
+				}
+			]
+		},
+		{
+			"id": 126645,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun"
+				}
+			]
+		},
+		{
+			"id": 162382,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "uldum"
+				}
+			]
+		},
+		{
+			"id": 140375,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 140377,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 59545,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "temple-of-the-jade-serpent"
+				}
+			]
+		},
+		{
+			"id": 128252,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "port-of-zemlan"
+				}
+			]
+		},
+		{
+			"id": 149615,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "the-shrouded-shore-the-whispering-crag"
+				}
+			]
+		}
+	]
+}

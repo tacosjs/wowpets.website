@@ -1,0 +1,78 @@
+{
+	"id": "aurokkskin",
+	"family": "aqiri",
+	"modelGroup": "workersilithids",
+	"npcs": [
+		{
+			"id": 5458,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaris"
+				}
+			]
+		},
+		{
+			"id": 11733,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "silithus",
+					"area": "hiveregal"
+				}
+			]
+		},
+		{
+			"id": 5247,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "feralas"
+				}
+			]
+		},
+		{
+			"id": 15319,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ruins-of-ahnqiraj"
+				}
+			]
+		},
+		{
+			"id": 131893,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "silithus"
+				}
+			]
+		}
+	]
+}

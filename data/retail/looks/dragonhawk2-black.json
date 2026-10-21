@@ -1,0 +1,80 @@
+{
+	"id": "dragonhawk2-black",
+	"family": "dragonhawk",
+	"modelGroup": "greaterdragonhawks",
+	"npcs": [
+		{
+			"id": 254610,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods"
+				}
+			]
+		},
+		{
+			"id": 250030,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "windrunner-spire-eversong-woods"
+				}
+			]
+		},
+		{
+			"id": 254313,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods"
+				}
+			]
+		},
+		{
+			"id": 250228,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "brightwing-estate"
+				}
+			]
+		},
+		{
+			"id": 259903,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "sunset-strand"
+				}
+			]
+		}
+	]
+}

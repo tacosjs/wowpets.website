@@ -1,0 +1,61 @@
+{
+	"id": "cosmicworm-purple",
+	"family": "worm",
+	"modelGroup": "cosmicworms",
+	"npcs": [
+		{
+			"id": 245997,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "karesh"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 237750,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "fracture-of-laacuna"
+				}
+			],
+			"keepsName": true,
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 241391,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "fracture-of-laacuna"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		256408
+	]
+}

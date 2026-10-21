@@ -1,0 +1,24 @@
+{
+	"name": "Black & Red Cinderbee w/ Long Antennae",
+	"variant": "Black & Red w/ Long Antennae",
+	"npcs": {
+		"215024": {
+			"name": "Cinderbee Drone"
+		},
+		"217897": {
+			"name": "Distressed Hiveworker"
+		},
+		"218016": {
+			"name": "Ravenous Cinderbee"
+		},
+		"219955": {
+			"name": "Cinderbee"
+		},
+		"224081": {
+			"name": "Wavering Drone"
+		},
+		"224096": {
+			"name": "Agitated Hiveworker"
+		}
+	}
+}

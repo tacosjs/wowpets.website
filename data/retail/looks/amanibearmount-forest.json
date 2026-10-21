@@ -1,0 +1,25 @@
+{
+	"id": "amanibearmount-forest",
+	"family": "bear",
+	"modelGroup": "amanibears",
+	"npcs": [
+		{
+			"id": 255794,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "ragemaw-terrace"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		257000
+	]
+}

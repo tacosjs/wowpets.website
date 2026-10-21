@@ -1,0 +1,15 @@
+{
+	"name": "Green Amazard",
+	"variant": "Green",
+	"npcs": {
+		"250151": {
+			"name": "Amazard Chomper"
+		},
+		"253490": {
+			"name": "Snapping Prowler"
+		},
+		"261638": {
+			"name": "Muskmoss Lizard"
+		}
+	}
+}

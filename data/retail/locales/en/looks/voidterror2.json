@@ -1,0 +1,47 @@
+{
+	"name": "Banded Void Hound",
+	"variant": "Banded Void Hound",
+	"npcs": {
+		"11496": {
+			"name": "Immol'thar"
+		},
+		"19980": {
+			"name": "Void Terror"
+		},
+		"20141": {
+			"name": "Hound of Culuthas"
+		},
+		"20866": {
+			"name": "Soul Devourer"
+		},
+		"22500": {
+			"name": "Void Hound"
+		},
+		"22930": {
+			"name": "Yor",
+			"title": "Void Hound of Shaffar"
+		},
+		"25599": {
+			"name": "Cataclysm Hound"
+		},
+		"52363": {
+			"name": "Occu'thar"
+		},
+		"77085": {
+			"name": "Dark Emanation"
+		},
+		"85304": {
+			"name": "Void Beast"
+		},
+		"91009": {
+			"name": "Putre'thar"
+		},
+		"157337": {
+			"name": "Spawn of Shad'har"
+		},
+		"256605": {
+			"name": "Brinkfeaster",
+			"title": "The Terrace Terror"
+		}
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"id": "pandarenserpent-black-blackspec",
+	"family": "lesserdragonkin",
+	"modelGroup": "cloudserpents",
+	"npcs": [
+		{
+			"id": 61848,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "kun-lai-summit",
+					"area": "mount-neverest"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 62448,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "townlong-steppes",
+					"area": "shanze-dao"
+				}
+			]
+		}
+	]
+}

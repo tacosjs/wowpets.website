@@ -1,0 +1,24 @@
+{
+	"name": "Green Spiked Dragon Turtle",
+	"variant": "Green",
+	"npcs": {
+		"56833": {
+			"name": "Krosh"
+		},
+		"72764": {
+			"name": "Great Turtle"
+		},
+		"91785": {
+			"name": "Wandering Shellback"
+		},
+		"111633": {
+			"name": "Wandering Shellback"
+		},
+		"113125": {
+			"name": "Lowland Hardshell"
+		},
+		"134807": {
+			"name": "Ancient Spineshell"
+		}
+	}
+}

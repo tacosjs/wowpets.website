@@ -1,0 +1,184 @@
+{
+	"id": "stag2-brown",
+	"family": "stag",
+	"modelGroup": "greaterstags",
+	"npcs": [
+		{
+			"id": 165730,
+			"tameable": true,
+			"level": {
+				"min": 2,
+				"max": 10
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "exiles-reach",
+					"area": "darkmaul-plains-darkmaul-citadel"
+				}
+			]
+		},
+		{
+			"id": 107758,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormheim",
+					"area": "amberfall-mesa"
+				}
+			]
+		},
+		{
+			"id": 126708,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound"
+				}
+			]
+		},
+		{
+			"id": 137349,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "ashenwood-grove"
+				}
+			]
+		},
+		{
+			"id": 129835,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "glenbrook-hunting-grounds"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 128361,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "glenbrook-hunting-grounds"
+				}
+			]
+		},
+		{
+			"id": 128384,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar"
+				}
+			]
+		},
+		{
+			"id": 142195,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley",
+					"area": "sagehold-mariners-strand"
+				}
+			]
+		},
+		{
+			"id": 109942,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormheim",
+					"area": "storms-reach"
+				}
+			]
+		},
+		{
+			"id": 140251,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 191529,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		},
+		{
+			"id": 214229,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "amirdrassil-dragon-isles-zone"
+				}
+			],
+			"retired": true
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"name": "Grey Umbraclaw",
+	"variant": "Grey",
+	"npcs": {
+		"206472": {
+			"name": "Tamed Umbraclaw"
+		},
+		"212024": {
+			"name": "Umbraclaw Silvercrest"
+		},
+		"212126": {
+			"name": "Silvercrest Elder"
+		},
+		"213808": {
+			"name": "Silvercrest Ancient"
+		}
+	}
+}

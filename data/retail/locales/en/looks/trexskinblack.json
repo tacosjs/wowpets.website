@@ -1,0 +1,12 @@
+{
+	"name": "Black Devilsaur",
+	"variant": "Black",
+	"npcs": {
+		"6499": {
+			"name": "Ironhide Devilsaur"
+		},
+		"20931": {
+			"name": "Tyrantus"
+		}
+	}
+}

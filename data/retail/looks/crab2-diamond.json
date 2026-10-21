@@ -1,0 +1,40 @@
+{
+	"id": "crab2-diamond",
+	"family": "crab",
+	"modelGroup": "grandcrabs",
+	"npcs": [
+		{
+			"id": 210106,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream"
+				}
+			]
+		},
+		{
+			"id": 211551,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

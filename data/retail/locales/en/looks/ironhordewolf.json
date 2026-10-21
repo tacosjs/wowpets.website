@@ -1,0 +1,15 @@
+{
+	"name": "Iron Horde Wolf",
+	"variant": "Iron",
+	"npcs": {
+		"76884": {
+			"name": "Cruelfang"
+		},
+		"85177": {
+			"name": "Iron Wolf"
+		},
+		"91250": {
+			"name": "Iron Warwolf"
+		}
+	}
+}

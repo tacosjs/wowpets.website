@@ -1,0 +1,27 @@
+{
+	"name": "Sparkly Orange Dustmoth",
+	"variant": "Orange",
+	"npcs": {
+		"203903": {
+			"name": "Silt-Horned Moth"
+		},
+		"204632": {
+			"name": "Hungry Sporemoth"
+		},
+		"204639": {
+			"name": "Runaway Meal"
+		},
+		"204689": {
+			"name": "Flittering Lightmoth"
+		},
+		"205217": {
+			"name": "Underlight Duster"
+		},
+		"205811": {
+			"name": "Silt-Horned Moth"
+		},
+		"233612": {
+			"name": "Dazzled Lightmoth"
+		}
+	}
+}

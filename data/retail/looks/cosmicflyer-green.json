@@ -1,0 +1,66 @@
+{
+	"id": "cosmicflyer-green",
+	"family": "ray",
+	"modelGroup": "cosmicrays",
+	"npcs": [
+		{
+			"id": 230365,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "the-merciless-wastes"
+				}
+			]
+		},
+		{
+			"id": 255886,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 249039,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "stormarion-citadel"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		241363,
+		230906,
+		245897,
+		250540,
+		254608,
+		240511,
+		240544,
+		255957
+	]
+}

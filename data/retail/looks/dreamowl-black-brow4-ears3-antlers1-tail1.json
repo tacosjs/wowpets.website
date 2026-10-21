@@ -1,0 +1,24 @@
+{
+	"id": "dreamowl-black-brow4-ears3-antlers1-tail1",
+	"family": "birdofprey",
+	"modelGroup": "dreamowls",
+	"npcs": [
+		{
+			"id": 213544,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		213545
+	]
+}

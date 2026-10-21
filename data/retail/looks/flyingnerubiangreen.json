@@ -1,0 +1,37 @@
+{
+	"id": "flyingnerubiangreen",
+	"family": "bloodbeast",
+	"modelGroup": "classicswarmites",
+	"npcs": [
+		{
+			"id": 24563,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 71
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "borean-tundra",
+					"area": "the-geyser-fields"
+				}
+			]
+		},
+		{
+			"id": 139861,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 71
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions",
+					"area": "skittering-hollow"
+				}
+			]
+		}
+	]
+}

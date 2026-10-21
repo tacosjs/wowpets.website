@@ -1,0 +1,38 @@
+{
+	"id": "progenitorwasp-silver",
+	"family": "wasp",
+	"modelGroup": "vespoids",
+	"npcs": [
+		{
+			"id": 183257,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "fissured-breach"
+				}
+			]
+		},
+		{
+			"id": 183764,
+			"tameable": true,
+			"level": {
+				"min": 61,
+				"max": 61
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "zovaals-grasp"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"name": "Venom-Soaked Brown Amani Eagle",
+	"variant": "Venom-Soaked Brown",
+	"npcs": {
+		"258511": {
+			"name": "Infected Eagle"
+		},
+		"262972": {
+			"name": "Corroded Skystriker"
+		},
+		"265672": {
+			"name": "Acidburned Osprey"
+		},
+		"271067": {
+			"name": "Ravenous Seabird"
+		}
+	}
+}

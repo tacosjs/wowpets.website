@@ -1,0 +1,40 @@
+{
+	"name": "Silver Spider",
+	"variant": "Silver",
+	"npcs": {
+		"159916": {
+			"name": "Boneweave Rampager"
+		},
+		"168644": {
+			"name": "Razorweb Weaver"
+		},
+		"168712": {
+			"name": "Razorweb Lurker"
+		},
+		"168735": {
+			"name": "Wasp Hunter"
+		},
+		"168737": {
+			"name": "Razorweb Matriach"
+		},
+		"168747": {
+			"name": "Venomfang",
+			"title": "Venomous Sniper's Pet"
+		},
+		"170192": {
+			"name": "Shade Hatchling"
+		},
+		"174431": {
+			"name": "Captive Weaver"
+		},
+		"175532": {
+			"name": "Boneweave Ambusher"
+		},
+		"200375": {
+			"name": "Vault Weaver"
+		},
+		"244858": {
+			"name": "Spawn of Shadra"
+		}
+	}
+}

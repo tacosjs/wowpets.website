@@ -1,0 +1,24 @@
+{
+	"id": "maldraxxusflyermount-purple",
+	"family": "chimaera",
+	"modelGroup": "saddleddeathchimaeras",
+	"npcs": [
+		{
+			"id": 167335,
+			"tameable": false,
+			"level": {
+				"min": 53,
+				"max": 55
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		172390
+	]
+}

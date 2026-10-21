@@ -1,0 +1,57 @@
+{
+	"id": "waterstriderorange",
+	"family": "waterstrider",
+	"modelGroup": "waterstriders",
+	"npcs": [
+		{
+			"id": 60411,
+			"tameable": true,
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-wandering-isle-pandaren-starting-zone",
+					"area": "the-singing-pools"
+				}
+			],
+			"level": {
+				"min": 1,
+				"max": 20
+			}
+		},
+		{
+			"id": 66891,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "kun-lai-summit"
+				}
+			]
+		},
+		{
+			"id": 231322,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-wandering-isle-open-zone",
+					"area": "the-singing-pools-the-wandering-isle-open-zone"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		216772,
+		207626,
+		250167,
+		237694
+	]
+}

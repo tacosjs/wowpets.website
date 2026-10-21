@@ -1,0 +1,18 @@
+{
+	"name": "Unbanded Void Hound",
+	"variant": "Unbanded Void Hound",
+	"npcs": {
+		"230427": {
+			"name": "Void Terror"
+		},
+		"232129": {
+			"name": "Shadowhowl"
+		},
+		"240599": {
+			"name": "Darkstep Tracker"
+		},
+		"246572": {
+			"name": "Redeye the Skullchewer"
+		}
+	}
+}

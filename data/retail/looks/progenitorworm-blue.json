@@ -1,0 +1,22 @@
+{
+	"id": "progenitorworm-blue",
+	"family": "worm",
+	"modelGroup": "annelids",
+	"npcs": [
+		{
+			"id": 180706,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "arrangement-index"
+				}
+			]
+		}
+	]
+}

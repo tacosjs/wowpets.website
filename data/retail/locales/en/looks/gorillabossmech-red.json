@@ -1,0 +1,10 @@
+{
+	"name": "Red Cybernetic Gorilla",
+	"variant": "Red Cybernetic Gorilla",
+	"npcs": {
+		"229177": {
+			"name": "Torq",
+			"title": "The Tempest"
+		}
+	}
+}

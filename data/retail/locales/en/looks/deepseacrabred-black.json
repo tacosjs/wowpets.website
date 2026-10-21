@@ -1,0 +1,12 @@
+{
+	"name": "Red-Black Spiked Crab",
+	"variant": "Red-Black",
+	"npcs": {
+		"50952": {
+			"name": "Barnacle Jim"
+		},
+		"134789": {
+			"name": "Monstrous Spineclaw"
+		}
+	}
+}

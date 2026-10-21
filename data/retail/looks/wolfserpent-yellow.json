@@ -1,0 +1,37 @@
+{
+	"id": "wolfserpent-yellow",
+	"family": "lesserdragonkin",
+	"modelGroup": "wilderlings",
+	"npcs": [
+		{
+			"id": 180231,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "glitterfall-heights"
+				}
+			]
+		},
+		{
+			"id": 180232,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "glitterfall-heights"
+				}
+			]
+		}
+	]
+}

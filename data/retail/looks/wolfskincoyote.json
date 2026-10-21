@@ -1,0 +1,294 @@
+{
+	"id": "wolfskincoyote",
+	"family": "wolf",
+	"modelGroup": "wolves",
+	"npcs": [
+		{
+			"id": 2959,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mulgore"
+				}
+			]
+		},
+		{
+			"id": 2958,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mulgore"
+				}
+			]
+		},
+		{
+			"id": 2960,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mulgore"
+				}
+			]
+		},
+		{
+			"id": 834,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "westfall"
+				}
+			]
+		},
+		{
+			"id": 833,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "westfall"
+				}
+			]
+		},
+		{
+			"id": 2729,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "badlands"
+				}
+			]
+		},
+		{
+			"id": 2728,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "badlands"
+				}
+			]
+		},
+		{
+			"id": 2730,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "badlands"
+				}
+			]
+		},
+		{
+			"id": 4950,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dustwallow-marsh"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 20058,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blades-edge-mountains"
+				}
+			]
+		},
+		{
+			"id": 47190,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "uldum",
+					"area": "cradle-of-the-ancients"
+				}
+			]
+		},
+		{
+			"id": 162374,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "uldum",
+					"area": "cradle-of-the-ancients"
+				}
+			]
+		},
+		{
+			"id": 23616,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mulgore"
+				}
+			]
+		},
+		{
+			"id": 23622,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mulgore"
+				}
+			]
+		},
+		{
+			"id": 3939,
+			"tameable": false,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "northern-barrens"
+				}
+			]
+		},
+		{
+			"id": 3915,
+			"tameable": false,
+			"level": {
+				"min": 7,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ashenvale",
+					"area": "astranaar"
+				}
+			]
+		},
+		{
+			"id": 28163,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 32
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "old-hillsbrad-foothills"
+				}
+			]
+		},
+		{
+			"id": 59536,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds",
+					"area": "halfhill"
+				}
+			]
+		},
+		{
+			"id": 59535,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds",
+					"area": "halfhill"
+				}
+			]
+		},
+		{
+			"id": 59533,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds",
+					"area": "halfhill"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,60 @@
+{
+	"id": "progenitorwasp-red",
+	"family": "wasp",
+	"modelGroup": "vespoids",
+	"npcs": [
+		{
+			"id": 178159,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "resonant-peaks"
+				}
+			]
+		},
+		{
+			"id": 183265,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "fissured-breach"
+				}
+			]
+		},
+		{
+			"id": 183921,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "droning-precipice"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		183257
+	]
+}

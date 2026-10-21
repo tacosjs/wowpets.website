@@ -1,0 +1,19 @@
+{
+	"name": "Wiry Red Fox",
+	"variant": "Wiry Red Fox",
+	"npcs": {
+		"251436": {
+			"name": "Ariya",
+			"title": "Kali's Pet"
+		},
+		"265483": {
+			"name": "Sly Fox"
+		},
+		"265667": {
+			"name": "Sly Fox"
+		},
+		"271087": {
+			"name": "Sly Fox"
+		}
+	}
+}

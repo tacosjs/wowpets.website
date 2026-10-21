@@ -1,0 +1,46 @@
+{
+	"name": "Blue Dread Raven",
+	"variant": "Blue",
+	"npcs": {
+		"76253": {
+			"name": "Dread Raven Hatchling"
+		},
+		"79106": {
+			"name": "Nisha",
+			"title": "Rexxar's Mount"
+		},
+		"79486": {
+			"name": "Raketalon"
+		},
+		"80589": {
+			"name": "Dread Raven"
+		},
+		"80687": {
+			"name": "Adolescent Dread Raven"
+		},
+		"81056": {
+			"name": "Dying Beast"
+		},
+		"82670": {
+			"name": "Raketalon"
+		},
+		"84500": {
+			"name": "Dread Raven"
+		},
+		"84872": {
+			"name": "Oskiira the Vengeful"
+		},
+		"145059": {
+			"name": "Cunning Nightwing"
+		},
+		"145061": {
+			"name": "Screeching Nightwing"
+		},
+		"191508": {
+			"name": "Captured Raven"
+		},
+		"191830": {
+			"name": "Dreadsquall Hatchling"
+		}
+	}
+}

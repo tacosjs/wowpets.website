@@ -1,0 +1,12 @@
+{
+	"name": "Magenta Worm",
+	"variant": "Magenta",
+	"npcs": {
+		"49347": {
+			"name": "Coldlurk Burrower"
+		},
+		"51022": {
+			"name": "Chordix"
+		}
+	}
+}

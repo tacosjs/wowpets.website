@@ -1,0 +1,24 @@
+{
+	"name": "Black Pterrordax",
+	"variant": "Black",
+	"npcs": {
+		"120593": {
+			"name": "Nazmani Skyterror"
+		},
+		"126702": {
+			"name": "Primal Skyterror"
+		},
+		"128343": {
+			"name": "Skyterror Hatchling"
+		},
+		"129762": {
+			"name": "Tamed Pterrordax Hatchling"
+		},
+		"134971": {
+			"name": "Rak'jani Defender"
+		},
+		"139546": {
+			"name": "Skyterror Hatchling"
+		}
+	}
+}

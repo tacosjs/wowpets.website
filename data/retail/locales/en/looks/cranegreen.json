@@ -1,0 +1,25 @@
+{
+	"name": "Green Crane",
+	"variant": "Green",
+	"npcs": {
+		"58116": {
+			"name": "Carp Hunter"
+		},
+		"58766": {
+			"name": "Glade Singer"
+		},
+		"59105": {
+			"name": "Wandering Greenback"
+		},
+		"63796": {
+			"name": "Needlebeak",
+			"title": "Lord of the Flock"
+		},
+		"73158": {
+			"name": "Emerald Gander"
+		},
+		"102960": {
+			"name": "Glitterpool Heron"
+		}
+	}
+}

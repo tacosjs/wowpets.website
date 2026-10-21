@@ -1,0 +1,15 @@
+{
+	"name": "Black Hornstrider w/ Regular Horns",
+	"variant": "Black",
+	"npcs": {
+		"192641": {
+			"name": "Swiftfoot Tallstrider"
+		},
+		"195366": {
+			"name": "Swiftfoot Tallstrider"
+		},
+		"195383": {
+			"name": "Swiftfoot Tallstrider"
+		}
+	}
+}

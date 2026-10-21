@@ -1,0 +1,167 @@
+{
+	"id": "scorpionskinblack",
+	"family": "scorpid",
+	"modelGroup": "scorpids",
+	"npcs": [
+		{
+			"id": 5823,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "durotar"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 3281,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "durotar"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 7022,
+			"tameable": true,
+			"level": {
+				"min": 14,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "uldaman"
+				}
+			]
+		},
+		{
+			"id": 8301,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "blasted-lands"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 44587,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaris"
+				}
+			]
+		},
+		{
+			"id": 14476,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "silithus"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 51008,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "thousand-needles"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 9701,
+			"tameable": true,
+			"level": {
+				"min": 19,
+				"max": 29
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blackrock-spire"
+				}
+			]
+		},
+		{
+			"id": 21864,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-outland"
+				}
+			]
+		},
+		{
+			"id": 15317,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "temple-of-ahnqiraj"
+				}
+			]
+		},
+		{
+			"id": 162380,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "uldum",
+					"area": "sahket-wastes"
+				}
+			]
+		}
+	]
+}

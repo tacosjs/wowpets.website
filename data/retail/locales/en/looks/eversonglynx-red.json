@@ -1,0 +1,52 @@
+{
+	"name": "Red Eversong Lynx",
+	"variant": "Red",
+	"npcs": {
+		"232063": {
+			"name": "Apex Lynx"
+		},
+		"236295": {
+			"name": "Forest Lynx"
+		},
+		"243163": {
+			"name": "Sentinel",
+			"title": "Seraphina's Pet"
+		},
+		"246365": {
+			"name": "Encroaching Lynx"
+		},
+		"246580": {
+			"name": "Invasive Lynx"
+		},
+		"247752": {
+			"name": "Farstrider Tracker"
+		},
+		"250033": {
+			"name": "Springpaw Lynx"
+		},
+		"250037": {
+			"name": "Springclaw Elder"
+		},
+		"250039": {
+			"name": "Juvenile Springpaw"
+		},
+		"250227": {
+			"name": "Garden Lynx"
+		},
+		"251455": {
+			"name": "Ambershade Matriarch"
+		},
+		"251459": {
+			"name": "Ambershade Kitten"
+		},
+		"252693": {
+			"name": "Agitated Springpaw"
+		},
+		"253939": {
+			"name": "Springpaw Lynx"
+		},
+		"254241": {
+			"name": "Juvenile Springpaw"
+		}
+	}
+}

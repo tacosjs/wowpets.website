@@ -1,0 +1,44 @@
+{
+	"id": "rocmaldraxxusgreen",
+	"family": "birdofprey",
+	"modelGroup": "deathrocs",
+	"npcs": [
+		{
+			"id": 174024,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "akareks-tears"
+				}
+			]
+		},
+		{
+			"id": 168298,
+			"tameable": false,
+			"level": {
+				"min": 53,
+				"max": 53
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "plaguefall"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		168310,
+		168153,
+		162237,
+		168965,
+		168314,
+		168315
+	]
+}

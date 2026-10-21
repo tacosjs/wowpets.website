@@ -1,0 +1,15 @@
+{
+	"name": "Bronze & Grey Vespoid",
+	"variant": "Bronze & Grey",
+	"npcs": {
+		"178159": {
+			"name": "Vespoid Drone"
+		},
+		"183265": {
+			"name": "Vespoid Hive-Leader"
+		},
+		"183921": {
+			"name": "Irritated Vespoid Drone"
+		}
+	}
+}

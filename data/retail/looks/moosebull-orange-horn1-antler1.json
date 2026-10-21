@@ -1,0 +1,124 @@
+{
+	"id": "moosebull-orange-horn1-antler1",
+	"family": "stag",
+	"modelGroup": "bruffalons",
+	"npcs": [
+		{
+			"id": 187478,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "sylvan-glade"
+				}
+			]
+		},
+		{
+			"id": 195552,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		},
+		{
+			"id": 193507,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		},
+		{
+			"id": 187727,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		},
+		{
+			"id": 197930,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		},
+		{
+			"id": 191238,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		},
+		{
+			"id": 194351,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		},
+		{
+			"id": 214200,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "amirdrassil-dragon-isles-zone"
+				}
+			],
+			"retired": true
+		}
+	],
+	"alsoNpcs": [
+		195261
+	]
+}

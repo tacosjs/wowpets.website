@@ -1,0 +1,48 @@
+{
+	"name": "Grey Nightsaber",
+	"variant": "Grey",
+	"npcs": {
+		"94196": {
+			"name": "Cursed Prowler"
+		},
+		"99480": {
+			"name": "Dakarr"
+		},
+		"100259": {
+			"name": "Illusory Stalker"
+		},
+		"100328": {
+			"name": "Bound Prowler"
+		},
+		"100376": {
+			"name": "Dakarr"
+		},
+		"101077": {
+			"name": "Sekhan"
+		},
+		"135715": {
+			"name": "Ferocious Nightsaber"
+		},
+		"135717": {
+			"name": "Wild Nightsaber"
+		},
+		"135724": {
+			"name": "Brushstalker"
+		},
+		"169052": {
+			"name": "Anima-Starved Matriarch"
+		},
+		"172071": {
+			"name": "Fog-Frenzied Gladestalker"
+		},
+		"173024": {
+			"name": "Darkfang Shadowstalker"
+		},
+		"180567": {
+			"name": "Frenzied Nightclaw"
+		},
+		"210397": {
+			"name": "Infected Nightsaber"
+		}
+	}
+}

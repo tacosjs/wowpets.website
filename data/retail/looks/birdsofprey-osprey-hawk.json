@@ -1,0 +1,353 @@
+{
+	"id": "birdsofprey-osprey-hawk",
+	"family": "birdofprey",
+	"modelGroup": "hawks",
+	"npcs": [
+		{
+			"id": 138286,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "southport-watch"
+				}
+			]
+		},
+		{
+			"id": 126463,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound"
+				}
+			]
+		},
+		{
+			"id": 130359,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar"
+				}
+			]
+		},
+		{
+			"id": 134377,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley",
+					"area": "addington-yards"
+				}
+			]
+		},
+		{
+			"id": 229191,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		},
+		{
+			"id": 226218,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		},
+		{
+			"id": 221897,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "beledars-bounty"
+				}
+			]
+		},
+		{
+			"id": 229135,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		},
+		{
+			"id": 225936,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		},
+		{
+			"id": 227799,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn"
+				}
+			]
+		},
+		{
+			"id": 218524,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "dayspring-fields"
+				}
+			]
+		},
+		{
+			"id": 222310,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn"
+				}
+			]
+		},
+		{
+			"id": 222057,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn"
+				}
+			]
+		},
+		{
+			"id": 223191,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		},
+		{
+			"id": 227027,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		},
+		{
+			"id": 217527,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "golgrins-reach"
+				}
+			]
+		},
+		{
+			"id": 224800,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn"
+				}
+			]
+		},
+		{
+			"id": 215358,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "golgrins-reach"
+				}
+			]
+		},
+		{
+			"id": 227757,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		},
+		{
+			"id": 228999,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		},
+		{
+			"id": 224735,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn"
+				}
+			]
+		},
+		{
+			"id": 221648,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "velhans-claim"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 130497,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "southport-watch"
+				}
+			]
+		},
+		{
+			"id": 130878,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "southport-relief"
+				}
+			]
+		}
+	]
+}

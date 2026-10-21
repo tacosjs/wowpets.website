@@ -1,0 +1,15 @@
+{
+	"name": "Blue Gorm",
+	"variant": "Blue",
+	"npcs": {
+		"163994": {
+			"name": "Dustwilt Gorger"
+		},
+		"165912": {
+			"name": "Roving Gladechewer"
+		},
+		"176338": {
+			"name": "Dustwilt Consumer"
+		}
+	}
+}

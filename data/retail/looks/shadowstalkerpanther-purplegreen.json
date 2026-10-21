@@ -1,0 +1,65 @@
+{
+	"id": "shadowstalkerpanther-purplegreen",
+	"family": "cat",
+	"modelGroup": "panthara",
+	"npcs": [
+		{
+			"id": 124303,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "krokuun"
+				}
+			]
+		},
+		{
+			"id": 124486,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "krokuun"
+				}
+			]
+		},
+		{
+			"id": 122319,
+			"tameable": false,
+			"level": {
+				"min": 47,
+				"max": 47
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-seat-of-the-triumvirate",
+					"area": "shadowguard-incursion"
+				}
+			]
+		},
+		{
+			"id": 216421,
+			"tameable": false,
+			"level": {
+				"min": 51,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "exodar",
+					"area": "traders-tier"
+				}
+			]
+		}
+	]
+}

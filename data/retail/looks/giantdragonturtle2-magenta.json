@@ -1,0 +1,22 @@
+{
+	"id": "giantdragonturtle2-magenta",
+	"family": "turtle",
+	"modelGroup": "stonedragonturtles",
+	"npcs": [
+		{
+			"id": 207285,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "passage-of-time"
+				}
+			]
+		}
+	]
+}

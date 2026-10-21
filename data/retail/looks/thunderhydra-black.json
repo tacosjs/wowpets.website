@@ -1,0 +1,112 @@
+{
+	"id": "thunderhydra-black",
+	"family": "hydra",
+	"modelGroup": "thunderhydras",
+	"npcs": [
+		{
+			"id": 152546,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "ashen-strand"
+				}
+			]
+		},
+		{
+			"id": 152547,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "ashen-strand"
+				}
+			]
+		},
+		{
+			"id": 152548,
+			"tameable": true,
+			"level": {
+				"min": 51,
+				"max": 51
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "ashen-strand"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 224751,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "growling-hollow"
+				}
+			]
+		},
+		{
+			"id": 153801,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "brinestone-cove"
+				}
+			]
+		},
+		{
+			"id": 192126,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores"
+				}
+			]
+		},
+		{
+			"id": 228154,
+			"tameable": false,
+			"level": {
+				"min": 81,
+				"max": 81
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "siren-isle",
+					"area": "deadfin-mire"
+				}
+			]
+		}
+	]
+}

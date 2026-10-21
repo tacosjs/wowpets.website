@@ -1,0 +1,56 @@
+{
+	"id": "grovecrawler-tan",
+	"family": "serpent",
+	"modelGroup": "grovecrawlers",
+	"npcs": [
+		{
+			"id": 250344,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar"
+				}
+			]
+		},
+		{
+			"id": 255079,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "nordrassil-roots"
+				}
+			]
+		},
+		{
+			"id": 253397,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		245659,
+		256695,
+		256700,
+		249163
+	]
+}

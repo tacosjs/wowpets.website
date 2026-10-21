@@ -1,0 +1,12 @@
+{
+	"name": "Electric Yellow Tidal Worm",
+	"variant": "Electric Yellow",
+	"npcs": {
+		"153654": {
+			"name": "Voltscale Guardian"
+		},
+		"224779": {
+			"name": "Galvanized Lurker"
+		}
+	}
+}

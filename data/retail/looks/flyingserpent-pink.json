@@ -1,0 +1,66 @@
+{
+	"id": "flyingserpent-pink",
+	"family": "chimaera",
+	"modelGroup": "skyfiends",
+	"npcs": [
+		{
+			"id": 261789,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "the-serpents-tail"
+				}
+			]
+		},
+		{
+			"id": 261378,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "the-seal-of-wrath"
+				}
+			]
+		},
+		{
+			"id": 261851,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "the-serpents-tail"
+				}
+			]
+		},
+		{
+			"id": 266189,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "midnight-delves"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"id": "resinrhino-pink",
+	"family": "direhorn",
+	"modelGroup": "chloroceroses",
+	"npcs": [
+		{
+			"id": 256540,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "nordrassil-roots"
+				}
+			]
+		},
+		{
+			"id": 251563,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "nordrassil-roots"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		247783,
+		247090
+	]
+}

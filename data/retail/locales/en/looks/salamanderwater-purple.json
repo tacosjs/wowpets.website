@@ -1,0 +1,18 @@
+{
+	"name": "Light Grey Salamanther w/o Gills or Fins",
+	"variant": "Light Grey",
+	"npcs": {
+		"186705": {
+			"name": "Geyser Salamanther"
+		},
+		"200498": {
+			"name": "Gemtooth Neonate"
+		},
+		"204247": {
+			"name": "Frilljaw Neonate"
+		},
+		"211003": {
+			"name": "Coldscale Salamanther"
+		}
+	}
+}

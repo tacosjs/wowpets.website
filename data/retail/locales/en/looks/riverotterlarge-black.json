@@ -1,0 +1,60 @@
+{
+	"name": "Black Ottuk",
+	"variant": "Black",
+	"npcs": {
+		"187580": {
+			"name": "Trapped Ottuk"
+		},
+		"188338": {
+			"name": "Wild Ottuk"
+		},
+		"189490": {
+			"name": "Giant Ottuk Whomper"
+		},
+		"190267": {
+			"name": "Hunting Ottuk"
+		},
+		"190657": {
+			"name": "Trained Ottuk"
+		},
+		"191153": {
+			"name": "Wild Ottuk"
+		},
+		"191615": {
+			"name": "River Ottuk"
+		},
+		"191616": {
+			"name": "Young Ottuk"
+		},
+		"192853": {
+			"name": "Greenbelt Ottuk"
+		},
+		"194438": {
+			"name": "Khomuur"
+		},
+		"195116": {
+			"name": "Playful Ottuk"
+		},
+		"195442": {
+			"name": "Pesky Ottuk"
+		},
+		"196905": {
+			"name": "Big Ttuk"
+		},
+		"197097": {
+			"name": "River Ottuk"
+		},
+		"197846": {
+			"name": "Trained Ottuk"
+		},
+		"198203": {
+			"name": "Sunbathing Ottuk"
+		},
+		"198812": {
+			"name": "River Ottuk"
+		},
+		"244862": {
+			"name": "Otter"
+		}
+	}
+}

@@ -1,0 +1,57 @@
+{
+	"id": "snaplizard-green",
+	"family": "lizard",
+	"modelGroup": "amazards",
+	"npcs": [
+		{
+			"id": 250151,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "shrine-of-filo"
+				}
+			]
+		},
+		{
+			"id": 261638,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "ofis-hut"
+				}
+			]
+		},
+		{
+			"id": 253490,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "the-ring-of-glory-the-whispering-marsh"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		254167,
+		254166,
+		262965
+	]
+}

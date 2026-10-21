@@ -1,0 +1,22 @@
+{
+	"id": "spectralwyvern",
+	"family": "feathermane",
+	"modelGroup": "spectralwindriders",
+	"npcs": [
+		{
+			"id": 231353,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "siren-isle",
+					"area": "ghoststone-diggings"
+				}
+			]
+		}
+	]
+}

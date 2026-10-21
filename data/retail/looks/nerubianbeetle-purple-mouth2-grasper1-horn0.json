@@ -1,0 +1,67 @@
+{
+	"id": "nerubianbeetle-purple-mouth2-grasper1-horn0",
+	"family": "beetle",
+	"modelGroup": "stagshells",
+	"npcs": [
+		{
+			"id": 233327,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 239565,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "the-untamed-valley"
+				}
+			]
+		},
+		{
+			"id": 232093,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		223433,
+		223458,
+		227454,
+		227272,
+		215348,
+		227279,
+		223216,
+		225136,
+		227575,
+		214932
+	]
+}

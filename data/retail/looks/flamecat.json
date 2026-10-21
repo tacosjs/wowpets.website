@@ -1,0 +1,52 @@
+{
+	"id": "flamecat",
+	"family": "cat",
+	"modelGroup": "firecats",
+	"npcs": [
+		{
+			"id": 207084,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "the-smoldering-copse"
+				}
+			]
+		},
+		{
+			"id": 206805,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "fields-of-reverie"
+				}
+			]
+		},
+		{
+			"id": 207144,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "wildfire-canyon"
+				}
+			]
+		}
+	]
+}

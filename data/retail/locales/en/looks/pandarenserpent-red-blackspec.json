@@ -1,0 +1,9 @@
+{
+	"name": "Red Cloud Serpent w/ Dark Sheen",
+	"variant": "Red w/ Dark Sheen",
+	"npcs": {
+		"72876": {
+			"name": "Crimsonscale Firestorm"
+		}
+	}
+}

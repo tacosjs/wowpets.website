@@ -1,0 +1,69 @@
+{
+	"id": "doe-purple",
+	"family": "stag",
+	"modelGroup": "does",
+	"npcs": [
+		{
+			"id": 108313,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormheim",
+					"area": "valley-of-the-sword"
+				}
+			]
+		},
+		{
+			"id": 126966,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "clearspring-pass-and-stagheart-cliffs"
+				}
+			]
+		},
+		{
+			"id": 144839,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "darkshore"
+				}
+			]
+		},
+		{
+			"id": 140273,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		216702,
+		149134
+	]
+}

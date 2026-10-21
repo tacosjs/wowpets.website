@@ -1,0 +1,16 @@
+{
+	"name": "Grey Death Chimaera w/ Horns",
+	"variant": "Grey w/ Horns",
+	"npcs": {
+		"169570": {
+			"name": "Skyripper Hunter"
+		},
+		"172401": {
+			"name": "Kil'mazor",
+			"title": "The Bone Matriarch"
+		},
+		"174455": {
+			"name": "Captive Skyripper"
+		}
+	}
+}

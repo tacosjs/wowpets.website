@@ -1,0 +1,30 @@
+{
+	"name": "White Albatross w/ Orange Feet",
+	"variant": "White w/ Orange Feet",
+	"npcs": {
+		"126387": {
+			"name": "Coastal Scavenger"
+		},
+		"127553": {
+			"name": "Brinebeak"
+		},
+		"136914": {
+			"name": "Brinebeak Albatross"
+		},
+		"139233": {
+			"name": "Gulliver"
+		},
+		"193590": {
+			"name": "Windswept Albatross"
+		},
+		"197936": {
+			"name": "Nesting Seawing"
+		},
+		"227668": {
+			"name": "Seafeather Albatross"
+		},
+		"228155": {
+			"name": "Grimgull"
+		}
+	}
+}

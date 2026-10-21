@@ -1,0 +1,36 @@
+{
+	"id": "wormskinpurple",
+	"family": "worm",
+	"modelGroup": "worms",
+	"npcs": [
+		{
+			"id": 51022,
+			"tameable": true,
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "hillsbrad-foothills"
+				}
+			],
+			"keepsName": true,
+			"level": {
+				"min": 7,
+				"max": 30
+			}
+		},
+		{
+			"id": 49347,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "winterspring"
+				}
+			]
+		}
+	]
+}

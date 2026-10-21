@@ -1,0 +1,24 @@
+{
+	"name": "Black Bruffalon w/ Small Antlers & Shorter Nose Horn",
+	"variant": "Black",
+	"npcs": {
+		"187578": {
+			"name": "Trapped Bruffalon"
+		},
+		"190726": {
+			"name": "Striped Bruffalon"
+		},
+		"193429": {
+			"name": "Ravaged Bruffalon"
+		},
+		"193595": {
+			"name": "Pinehoof Bull"
+		},
+		"195256": {
+			"name": "Plains Moose"
+		},
+		"195530": {
+			"name": "Proudhorn Wanderer"
+		}
+	}
+}

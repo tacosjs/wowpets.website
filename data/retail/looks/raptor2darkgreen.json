@@ -1,0 +1,37 @@
+{
+	"id": "raptor2darkgreen",
+	"family": "raptor",
+	"modelGroup": "draenorraptors",
+	"npcs": [
+		{
+			"id": 86423,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond"
+				}
+			]
+		},
+		{
+			"id": 92694,
+			"tameable": true,
+			"level": {
+				"min": 42,
+				"max": 42
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "tanaan-jungle",
+					"area": "raptors-maw"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

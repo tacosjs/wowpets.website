@@ -1,0 +1,9 @@
+{
+	"name": "Damaged Pink Silithid Colossus",
+	"variant": "Damaged Pink",
+	"npcs": {
+		"50742": {
+			"name": "Qem"
+		}
+	}
+}

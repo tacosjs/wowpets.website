@@ -1,0 +1,21 @@
+{
+	"id": "pandarenserpent-pink",
+	"family": "lesserdragonkin",
+	"modelGroup": "cloudserpents",
+	"npcs": [
+		{
+			"id": 163042,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms"
+				}
+			]
+		}
+	]
+}

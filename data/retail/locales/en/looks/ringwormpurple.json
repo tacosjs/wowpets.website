@@ -1,0 +1,15 @@
+{
+	"name": "Amethyst Shale Worm",
+	"variant": "Amethyst",
+	"npcs": {
+		"101581": {
+			"name": "Tanzanite Borer"
+		},
+		"106630": {
+			"name": "Burrowing Leyworm"
+		},
+		"242548": {
+			"name": "Lurking Phaseburrower"
+		}
+	}
+}

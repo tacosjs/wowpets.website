@@ -1,0 +1,30 @@
+{
+	"name": "Dark Cloudrook",
+	"variant": "Dark",
+	"npcs": {
+		"215658": {
+			"name": "Swift Cloudrook"
+		},
+		"223238": {
+			"name": "Swift Cloudrook"
+		},
+		"224402": {
+			"name": "Wild Cloudrook"
+		},
+		"226153": {
+			"name": "Hungry Cloudrook"
+		},
+		"227215": {
+			"name": "Reborn Cloudrook"
+		},
+		"227849": {
+			"name": "Cloudrook"
+		},
+		"229638": {
+			"name": "Docile Cloudrook"
+		},
+		"229704": {
+			"name": "Docile Cloudrook"
+		}
+	}
+}

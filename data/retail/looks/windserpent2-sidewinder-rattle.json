@@ -1,0 +1,144 @@
+{
+	"id": "windserpent2-sidewinder-rattle",
+	"family": "windserpent",
+	"modelGroup": "grandwindserpents",
+	"npcs": [
+		{
+			"id": 5349,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "feralas"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 4117,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thousand-needles"
+				}
+			]
+		},
+		{
+			"id": 26806,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "grizzly-hills"
+				}
+			]
+		},
+		{
+			"id": 14234,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "dustwallow-marsh"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 29693,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "grizzly-hills"
+				}
+			]
+		},
+		{
+			"id": 5291,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "sunken-temple"
+				}
+			]
+		},
+		{
+			"id": 132412,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "rootway"
+				}
+			]
+		},
+		{
+			"id": 140341,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 140345,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		131554,
+		131558,
+		133321,
+		191645,
+		191647,
+		193169
+	]
+}

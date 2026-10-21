@@ -1,0 +1,66 @@
+{
+	"name": "Silver Wasp",
+	"variant": "Silver",
+	"npcs": {
+		"130329": {
+			"name": "Sandstinger Drone"
+		},
+		"130443": {
+			"name": "Hivemother Kraxi"
+		},
+		"137714": {
+			"name": "Starving Hornet"
+		},
+		"146244": {
+			"name": "Stinging Fiend"
+		},
+		"146247": {
+			"name": "White Death"
+		},
+		"155171": {
+			"name": "The Hivekiller"
+		},
+		"158387": {
+			"name": "Fetid Hornet"
+		},
+		"159708": {
+			"name": "Marrowbore Feaster"
+		},
+		"159714": {
+			"name": "Marrowbore Creeper"
+		},
+		"159753": {
+			"name": "Ravenomous"
+		},
+		"166370": {
+			"name": "Swarm Mother"
+		},
+		"168690": {
+			"name": "Ossein Drone"
+		},
+		"169249": {
+			"name": "Rotsting Drone"
+		},
+		"169512": {
+			"name": "Rotsting Drone"
+		},
+		"169751": {
+			"name": "Ashen Wasp"
+		},
+		"169795": {
+			"name": "Zombified Ashen Wasp"
+		},
+		"194142": {
+			"name": "Intrusive Pupstinger"
+		},
+		"216065": {
+			"name": "Bloatrot Stinger"
+		},
+		"216066": {
+			"name": "Parasitic Wasp"
+		},
+		"220502": {
+			"name": "Invasive Sweet-sting"
+		}
+	}
+}

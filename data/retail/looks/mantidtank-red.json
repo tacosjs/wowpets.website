@@ -1,0 +1,112 @@
+{
+	"id": "mantidtank-red",
+	"family": "aqiri",
+	"modelGroup": "kunchong",
+	"npcs": [
+		{
+			"id": 63697,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "townlong-steppes",
+					"area": "the-feeding-pits"
+				}
+			]
+		},
+		{
+			"id": 63696,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "townlong-steppes",
+					"area": "the-feeding-pits"
+				}
+			]
+		},
+		{
+			"id": 61509,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "townlong-steppes",
+					"area": "niuzao-temple"
+				}
+			]
+		},
+		{
+			"id": 72927,
+			"tameable": true,
+			"level": {
+				"min": 37,
+				"max": 37
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "siege-of-orgrimmar",
+					"area": "chamber-of-the-paragons"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 153278,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms"
+				}
+			]
+		},
+		{
+			"id": 160872,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 64849,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dread-wastes",
+					"area": "clutches-of-shekzeer"
+				}
+			]
+		}
+	]
+}

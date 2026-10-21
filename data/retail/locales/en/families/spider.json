@@ -1,0 +1,56 @@
+{
+	"name": "Spider",
+	"modelGroups": {
+		"undercrawlers": {
+			"name": "Undercrawlers"
+		},
+		"threadlings": {
+			"name": "Threadlings"
+		},
+		"spectralbarbedspiders": {
+			"name": "Spectral Barbed Spiders"
+		},
+		"icespiders": {
+			"name": "Ice Spiders"
+		},
+		"grandtarantulas": {
+			"name": "Tarantulas"
+		},
+		"tarachnids": {
+			"name": "Tarachnids"
+		},
+		"greatspiders": {
+			"name": "Great Spiders"
+		},
+		"demonspiders": {
+			"name": "Demon Spiders"
+		},
+		"grandspiders": {
+			"name": "Tumble-Web Spiders"
+		},
+		"grandbonespiders": {
+			"name": "Bone Spiders"
+		},
+		"grandbarbedspiders": {
+			"name": "Barbed Spiders"
+		},
+		"firespiders": {
+			"name": "Fire Spiders"
+		},
+		"spiders": {
+			"name": "Classic Tumble-Web Spiders"
+		},
+		"bonespiders": {
+			"name": "Classic Bone Spiders"
+		},
+		"tarantulas": {
+			"name": "Classic Tarantulas"
+		},
+		"barbedspiders": {
+			"name": "Classic Barbed Spiders"
+		},
+		"classicthreadlings": {
+			"name": "Classic Threadlings"
+		}
+	}
+}

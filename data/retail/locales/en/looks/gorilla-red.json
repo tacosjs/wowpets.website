@@ -1,0 +1,44 @@
+{
+	"name": "Red Gorilla",
+	"variant": "Red",
+	"npcs": {
+		"5260": {
+			"name": "Groddoc Ape"
+		},
+		"9622": {
+			"name": "U'cha"
+		},
+		"14491": {
+			"name": "Kurmokk"
+		},
+		"15172": {
+			"name": "Glibb",
+			"title": "Bran Bronzebeard's Pet Monkey"
+		},
+		"28213": {
+			"name": "Hardknuckle Matriarch"
+		},
+		"59742": {
+			"name": "Thunderfist Gorilla"
+		},
+		"68351": {
+			"name": "Jungle Stomper"
+		},
+		"130953": {
+			"name": "Da'kani Pugilist"
+		},
+		"136334": {
+			"name": "Prime Thumpknuckle"
+		},
+		"136661": {
+			"name": "Glibb",
+			"title": "Brann Bronzebeard's Pet Monkey"
+		},
+		"137840": {
+			"name": "Da'kani Provocator"
+		},
+		"140084": {
+			"name": "Crushknuckle"
+		}
+	}
+}

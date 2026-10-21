@@ -1,0 +1,22 @@
+{
+	"id": "ridingtigerskindarknosaddle",
+	"family": "cat",
+	"modelGroup": "sabercats",
+	"npcs": [
+		{
+			"id": 2175,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "darkshore"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

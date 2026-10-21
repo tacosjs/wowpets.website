@@ -1,0 +1,50 @@
+{
+	"id": "jailerhound-white",
+	"family": "hound",
+	"modelGroup": "soulseekers",
+	"npcs": [
+		{
+			"id": 164424,
+			"tameable": true,
+			"level": {
+				"min": 55,
+				"max": 58
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-maw",
+					"area": "cocyrus"
+				}
+			]
+		},
+		{
+			"id": 238185,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-maw"
+				}
+			]
+		},
+		{
+			"id": 237975,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-maw"
+				}
+			]
+		}
+	]
+}

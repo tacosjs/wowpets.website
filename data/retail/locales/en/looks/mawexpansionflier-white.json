@@ -1,0 +1,12 @@
+{
+	"name": "Yellow Razorwing",
+	"variant": "Yellow Razorwing",
+	"npcs": {
+		"177356": {
+			"name": "Razorwing Gnasher"
+		},
+		"179359": {
+			"name": "Scavenging Razorwing"
+		}
+	}
+}

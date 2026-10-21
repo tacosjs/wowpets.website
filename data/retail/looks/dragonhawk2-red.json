@@ -1,0 +1,16 @@
+{
+	"id": "dragonhawk2-red",
+	"family": "dragonhawk",
+	"modelGroup": "greaterdragonhawks",
+	"npcs": [],
+	"alsoNpcs": [
+		253985,
+		253970,
+		253950,
+		238089,
+		271028,
+		265480,
+		250228,
+		250995
+	]
+}

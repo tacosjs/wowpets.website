@@ -1,0 +1,52 @@
+{
+	"id": "sheep2-robot",
+	"family": "mechanical",
+	"modelGroup": "robotsheep",
+	"npcs": [
+		{
+			"id": 48873,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "elwynn-forest"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 50594,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "badlands",
+					"area": "fuselight-by-the-sea"
+				}
+			]
+		},
+		{
+			"id": 24715,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "magisters-terrace",
+					"area": "grand-magisters-asylum"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Toxic Green Ultradon",
+	"variant": "Toxic Green Ultradon",
+	"npcs": {
+		"239008": {
+			"name": "Atroxus"
+		},
+		"248014": {
+			"name": "Atroxus"
+		}
+	}
+}

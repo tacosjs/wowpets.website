@@ -1,0 +1,38 @@
+{
+	"id": "horse3-donkey-mane3",
+	"family": "courser",
+	"modelGroup": "horses",
+	"npcs": [
+		{
+			"id": 128838,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound"
+				}
+			]
+		},
+		{
+			"id": 134264,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		174412
+	]
+}

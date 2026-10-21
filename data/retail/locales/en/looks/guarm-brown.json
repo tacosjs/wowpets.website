@@ -1,0 +1,25 @@
+{
+	"name": "Brown Helhound w/ Chains",
+	"variant": "Brown w/ Chains",
+	"npcs": {
+		"166592": {
+			"name": "Trained Hellhound"
+		},
+		"167382": {
+			"name": "Deathfang",
+			"title": "Draka's Companion"
+		},
+		"171450": {
+			"name": "Deathfang",
+			"title": "Draka's Companion"
+		},
+		"177422": {
+			"name": "Girs",
+			"title": "Child of Guarm"
+		},
+		"177443": {
+			"name": "Vargir",
+			"title": "Child of Guarm"
+		}
+	}
+}

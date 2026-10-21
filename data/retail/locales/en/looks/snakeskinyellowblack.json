@@ -1,0 +1,22 @@
+{
+	"name": "Yellow & Black Snake",
+	"variant": "Yellow & Black",
+	"npcs": {
+		"65820": {
+			"name": "Yellowback Water Moccasin"
+		},
+		"67770": {
+			"name": "Acidfang Slitherer"
+		},
+		"140689": {
+			"name": "Dreadfang Slitherer"
+		},
+		"140690": {
+			"name": "Dreadfang Viper"
+		},
+		"142464": {
+			"name": "Moult",
+			"title": "Stalker Mojica's Pet"
+		}
+	}
+}

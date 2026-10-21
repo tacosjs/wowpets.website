@@ -1,0 +1,54 @@
+{
+	"name": "Brown Bone Spider",
+	"variant": "Brown",
+	"npcs": {
+		"1781": {
+			"name": "Skitterweb Lurker"
+		},
+		"47205": {
+			"name": "Domesticated Mine Creeper"
+		},
+		"50764": {
+			"name": "Paraliss"
+		},
+		"50775": {
+			"name": "Likk the Hunter"
+		},
+		"68248": {
+			"name": "Corpse Spider"
+		},
+		"78291": {
+			"name": "Deathweb Crawler"
+		},
+		"78864": {
+			"name": "Deathweb Hatchling"
+		},
+		"78872": {
+			"name": "Klikixx"
+		},
+		"82356": {
+			"name": "Deathweb Hatchling"
+		},
+		"89756": {
+			"name": "Undergrowth Lurker"
+		},
+		"125132": {
+			"name": "Skittering Spiderling"
+		},
+		"132855": {
+			"name": "Ironweb Skitterer"
+		},
+		"134894": {
+			"name": "Ironweb Spinner"
+		},
+		"200349": {
+			"name": "Terrorachna"
+		},
+		"231010": {
+			"name": "Corpse Spider"
+		},
+		"232067": {
+			"name": "Creeping Spindleweb"
+		}
+	}
+}

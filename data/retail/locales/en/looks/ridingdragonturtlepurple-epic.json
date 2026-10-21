@@ -1,0 +1,12 @@
+{
+	"name": "Red Spiked Dragon Turtle",
+	"variant": "Red",
+	"npcs": {
+		"73161": {
+			"name": "Great Turtle Furyshell"
+		},
+		"113189": {
+			"name": "Coastal Snapper"
+		}
+	}
+}

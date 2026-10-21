@@ -1,0 +1,90 @@
+{
+	"id": "berserkerboss-red",
+	"family": "scalehide",
+	"modelGroup": "primalultradons",
+	"npcs": [
+		{
+			"id": 239374,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "obscurion-citadel"
+				}
+			]
+		},
+		{
+			"id": 259745,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "slayers-rise"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 257027,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "the-husk"
+				}
+			]
+		},
+		{
+			"id": 259322,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "hate-spire"
+				}
+			]
+		},
+		{
+			"id": 255149,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "midnight-delves"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,111 @@
+{
+	"id": "pangolin-amber",
+	"family": "scalehide",
+	"modelGroup": "pangos",
+	"npcs": [
+		{
+			"id": 257514,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "speakers-rest"
+				}
+			]
+		},
+		{
+			"id": 257507,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman"
+				}
+			]
+		},
+		{
+			"id": 257506,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "bitterbark"
+				}
+			]
+		},
+		{
+			"id": 237959,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "shrine-of-kulzi"
+				}
+			]
+		},
+		{
+			"id": 252526,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "torwatha"
+				}
+			]
+		},
+		{
+			"id": 255188,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "camp-stonewash-amanizar-village"
+				}
+			]
+		},
+		{
+			"id": 255244,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "torntusk-overlook-amanizar-village"
+				}
+			]
+		}
+	]
+}

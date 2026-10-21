@@ -1,0 +1,178 @@
+{
+	"id": "arcticcondorblue",
+	"family": "carrionbird",
+	"modelGroup": "condors",
+	"npcs": [
+		{
+			"id": 50814,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "silverpine-forest"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 50812,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "stonetalon-mountains"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 75348,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "forbidden-glacier"
+				}
+			]
+		},
+		{
+			"id": 76819,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge"
+				}
+			]
+		},
+		{
+			"id": 74414,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "the-boneslag"
+				}
+			]
+		},
+		{
+			"id": 92117,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "valsharah",
+					"area": "whispering-bluffs"
+				}
+			],
+			"keepsName": true,
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 26483,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dragonblight"
+				},
+				{
+					"zone": "hour-of-twilight"
+				}
+			]
+		},
+		{
+			"id": 39833,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mount-hyjal"
+				}
+			]
+		},
+		{
+			"id": 78108,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "stonefury-cliffs"
+				}
+			]
+		},
+		{
+			"id": 77306,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "bones-of-agurak"
+				}
+			]
+		},
+		{
+			"id": 180851,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-veiled-market",
+					"area": "tazavesh"
+				}
+			]
+		}
+	]
+}

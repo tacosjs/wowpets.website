@@ -1,0 +1,48 @@
+{
+	"id": "ironhordewolf",
+	"family": "wolf",
+	"modelGroup": "ironhordewolves",
+	"npcs": [
+		{
+			"id": 91250,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaan-jungle",
+					"area": "the-iron-front"
+				}
+			]
+		},
+		{
+			"id": 76884,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "blackrock-foundry",
+					"area": "the-breaking-grounds"
+				}
+			]
+		},
+		{
+			"id": 85177,
+			"tameable": false,
+			"level": {
+				"min": 41,
+				"max": 41
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "the-pit"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Purple Mana Saber",
+	"variant": "Purple",
+	"npcs": {
+		"103326": {
+			"name": "Mana Saber"
+		}
+	}
+}

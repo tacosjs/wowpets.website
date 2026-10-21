@@ -1,0 +1,9 @@
+{
+	"name": "Grassy Tan Ramolith - Hornless",
+	"variant": "Grassy Tan - Hornless",
+	"npcs": {
+		"221023": {
+			"name": "Wild Ramolith"
+		}
+	}
+}

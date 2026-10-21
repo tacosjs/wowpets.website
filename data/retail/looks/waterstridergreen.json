@@ -1,0 +1,54 @@
+{
+	"id": "waterstridergreen",
+	"family": "waterstrider",
+	"modelGroup": "waterstriders",
+	"npcs": [
+		{
+			"id": 66892,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "krasarang-wilds"
+				}
+			]
+		},
+		{
+			"id": 151978,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 68353,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "a-little-patience"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		216772,
+		250167,
+		237694
+	]
+}

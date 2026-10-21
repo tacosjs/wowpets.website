@@ -1,0 +1,27 @@
+{
+	"name": "Yellow & Red Wasp",
+	"variant": "Yellow & Red",
+	"npcs": {
+		"122678": {
+			"name": "Venomous Sandstinger"
+		},
+		"146186": {
+			"name": "Firesting Warrior"
+		},
+		"153268": {
+			"name": "Swarm Ravager"
+		},
+		"155049": {
+			"name": "Honey Seeker Stinger"
+		},
+		"157565": {
+			"name": "Ravager Drone"
+		},
+		"169864": {
+			"name": "Scorchwing Drone"
+		},
+		"174392": {
+			"name": "Captive Scorchwing"
+		}
+	}
+}

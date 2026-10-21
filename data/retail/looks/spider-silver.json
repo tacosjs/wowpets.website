@@ -1,0 +1,176 @@
+{
+	"id": "spider-silver",
+	"family": "spider",
+	"modelGroup": "greatspiders",
+	"npcs": [
+		{
+			"id": 170192,
+			"tameable": true,
+			"level": {
+				"min": 54,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus"
+				}
+			]
+		},
+		{
+			"id": 159916,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "bony-spindles"
+				}
+			]
+		},
+		{
+			"id": 174431,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "the-reagentry"
+				}
+			]
+		},
+		{
+			"id": 168712,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "sightless-hold"
+				}
+			]
+		},
+		{
+			"id": 168737,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "sightless-hold"
+				}
+			]
+		},
+		{
+			"id": 168644,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "house-of-eyes"
+				}
+			]
+		},
+		{
+			"id": 168747,
+			"tameable": false,
+			"level": {
+				"min": 53,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "plaguefall"
+				}
+			]
+		},
+		{
+			"id": 168735,
+			"tameable": false,
+			"level": {
+				"min": 54,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "keres-rest-high-stand"
+				}
+			],
+			"retired": true
+		},
+		{
+			"id": 175532,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus"
+				}
+			]
+		},
+		{
+			"id": 200375,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-forbidden-reach",
+					"area": "zskera-vault-az"
+				}
+			]
+		},
+		{
+			"id": 244858,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "wathanan-crypts"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		250045,
+		254818,
+		250046,
+		236640
+	]
+}

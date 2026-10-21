@@ -1,0 +1,124 @@
+{
+	"id": "zandalariraptor-red",
+	"family": "raptor",
+	"modelGroup": "ravasaurs",
+	"npcs": [
+		{
+			"id": 149147,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "savagelands"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 131624,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "xibala"
+				}
+			]
+		},
+		{
+			"id": 127869,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "torgas-rest"
+				}
+			]
+		},
+		{
+			"id": 130722,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "shoaljai-tar-pits"
+				}
+			]
+		},
+		{
+			"id": 127873,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "torgas-rest"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 132071,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "the-sliver"
+				}
+			]
+		},
+		{
+			"id": 127870,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "torgas-rest"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		131560,
+		145110,
+		124226,
+		124217,
+		125206,
+		127254,
+		127123,
+		125215
+	]
+}

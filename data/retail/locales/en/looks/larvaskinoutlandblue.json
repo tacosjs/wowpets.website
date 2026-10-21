@@ -1,0 +1,9 @@
+{
+	"name": "Blue Toothed Larva",
+	"variant": "Blue Toothed Larva",
+	"npcs": {
+		"92538": {
+			"name": "Tarspitter Grub"
+		}
+	}
+}

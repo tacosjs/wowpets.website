@@ -1,0 +1,12 @@
+{
+	"name": "Simple Brown Primal Thunder Lizard",
+	"variant": "Brown",
+	"npcs": {
+		"190009": {
+			"name": "Lizi"
+		},
+		"195716": {
+			"name": "Cragstrike Stomper"
+		}
+	}
+}

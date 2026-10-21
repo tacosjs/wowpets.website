@@ -1,0 +1,12 @@
+{
+	"name": "Armored Brown Maned Wolf",
+	"variant": "Brown",
+	"npcs": {
+		"79755": {
+			"name": "Savage Warwolf"
+		},
+		"86839": {
+			"name": "Savage Warwolf"
+		}
+	}
+}

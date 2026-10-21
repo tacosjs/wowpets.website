@@ -1,0 +1,18 @@
+{
+	"name": "Black Gorm",
+	"variant": "Black",
+	"npcs": {
+		"163370": {
+			"name": "Gormbore"
+		},
+		"164036": {
+			"name": "Darkwarren Slicer"
+		},
+		"169977": {
+			"name": "Ravenous Gorm"
+		},
+		"179405": {
+			"name": "Scenery Chewing Gorm"
+		}
+	}
+}

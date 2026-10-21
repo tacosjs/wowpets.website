@@ -1,0 +1,60 @@
+{
+	"name": "Brown Fox",
+	"variant": "Brown",
+	"npcs": {
+		"43083": {
+			"name": "Redridge Fox"
+		},
+		"44551": {
+			"name": "Rabid Fox"
+		},
+		"47201": {
+			"name": "Desert Fox"
+		},
+		"47676": {
+			"name": "Baradin Fox"
+		},
+		"55565": {
+			"name": "Crane Hunter"
+		},
+		"59110": {
+			"name": "Fox Pup"
+		},
+		"89385": {
+			"name": "Azsuna Fox"
+		},
+		"91265": {
+			"name": "Llothien Fox"
+		},
+		"91267": {
+			"name": "Llothien Kit"
+		},
+		"96265": {
+			"name": "Ashpaw Fox"
+		},
+		"111487": {
+			"name": "Bloodthirsty Fox"
+		},
+		"112008": {
+			"name": "Cliffdweller Fox"
+		},
+		"113184": {
+			"name": "Cunning Bushtail"
+		},
+		"126455": {
+			"name": "Cragbound Fox"
+		},
+		"127602": {
+			"name": "Lucktail"
+		},
+		"138179": {
+			"name": "Snowmelt Fox"
+		},
+		"139080": {
+			"name": "Timbershore Fox"
+		},
+		"145041": {
+			"name": "Swifttail Stalker"
+		}
+	}
+}

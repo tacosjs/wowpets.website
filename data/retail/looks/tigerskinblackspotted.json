@@ -1,0 +1,63 @@
+{
+	"id": "tigerskinblackspotted",
+	"family": "cat",
+	"modelGroup": "cats",
+	"npcs": [
+		{
+			"id": 2032,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "teldrassil"
+				}
+			]
+		},
+		{
+			"id": 2043,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "teldrassil"
+				}
+			]
+		},
+		{
+			"id": 4067,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stonetalon-mountains"
+				}
+			]
+		},
+		{
+			"id": 18982,
+			"tameable": true,
+			"level": {
+				"min": 22,
+				"max": 28
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-black-morass"
+				}
+			]
+		}
+	]
+}

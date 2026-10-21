@@ -1,0 +1,37 @@
+{
+	"id": "fireflyskinamber",
+	"family": "wasp",
+	"modelGroup": "fireflies",
+	"npcs": [
+		{
+			"id": 170768,
+			"tameable": true,
+			"level": {
+				"min": 55,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "shrouded-mire"
+				}
+			]
+		},
+		{
+			"id": 170733,
+			"tameable": true,
+			"level": {
+				"min": 56,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "dusty-burrows"
+				}
+			]
+		}
+	]
+}

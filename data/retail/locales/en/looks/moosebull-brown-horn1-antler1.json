@@ -1,0 +1,16 @@
+{
+	"name": "Brown Bruffalon w/ Large Antlers & Longer Nose Horn",
+	"variant": "Brown",
+	"npcs": {
+		"193385": {
+			"name": "Broadhoof Bull"
+		},
+		"193676": {
+			"name": "Thousandmile",
+			"title": "The Elderbull"
+		},
+		"196096": {
+			"name": "Sandhoof Bull"
+		}
+	}
+}

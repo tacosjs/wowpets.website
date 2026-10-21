@@ -1,0 +1,97 @@
+{
+	"id": "elitegryphon-kultiras",
+	"family": "feathermane",
+	"modelGroup": "grandgryphons",
+	"npcs": [
+		{
+			"id": 191626,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "passage-of-time"
+				}
+			]
+		},
+		{
+			"id": 199192,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus"
+				}
+			]
+		},
+		{
+			"id": 195268,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "eclipse-lake"
+				}
+			]
+		},
+		{
+			"id": 199544,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "gelikyr-gardens-tyrhold-reservoir"
+				}
+			]
+		},
+		{
+			"id": 198417,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus"
+				}
+			]
+		},
+		{
+			"id": 150188,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ruins-of-gilneas"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		244547
+	]
+}

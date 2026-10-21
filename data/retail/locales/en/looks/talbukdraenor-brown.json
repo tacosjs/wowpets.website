@@ -1,0 +1,21 @@
+{
+	"name": "Tan Draenor Talbuk",
+	"variant": "Tan",
+	"npcs": {
+		"50883": {
+			"name": "Pathrunner"
+		},
+		"77187": {
+			"name": "Beloved Talbuk"
+		},
+		"78278": {
+			"name": "Breezestrider Talbuk"
+		},
+		"81940": {
+			"name": "Tan Riding Talbuk"
+		},
+		"213150": {
+			"name": "Swifthorn the Timid"
+		}
+	}
+}

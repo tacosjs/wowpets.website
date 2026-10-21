@@ -1,0 +1,121 @@
+{
+	"id": "monkeyblack",
+	"family": "monkey",
+	"modelGroup": "monkeys",
+	"npcs": [
+		{
+			"id": 34699,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 20
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-lost-isles"
+				}
+			]
+		},
+		{
+			"id": 35812,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 20
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-lost-isles"
+				}
+			]
+		},
+		{
+			"id": 48440,
+			"tameable": true,
+			"level": {
+				"min": 6,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-deadmines"
+				}
+			]
+		},
+		{
+			"id": 43417,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-cape-of-stranglethorn",
+					"area": "jaguero-isle"
+				}
+			]
+		},
+		{
+			"id": 43050,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "northern-stranglethorn"
+				}
+			]
+		},
+		{
+			"id": 52441,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulgurub"
+				}
+			]
+		},
+		{
+			"id": 36383,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 20
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-lost-isles"
+				}
+			]
+		},
+		{
+			"id": 42616,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "northern-stranglethorn",
+					"area": "nesingwarys-expedition"
+				}
+			]
+		}
+	]
+}

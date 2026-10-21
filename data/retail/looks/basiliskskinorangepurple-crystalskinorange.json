@@ -1,0 +1,22 @@
+{
+	"id": "basiliskskinorangepurple-crystalskinorange",
+	"family": "basilisk",
+	"modelGroup": "basilisks",
+	"npcs": [
+		{
+			"id": 11786,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "desolace",
+					"area": "maraudon-entrance"
+				}
+			]
+		}
+	]
+}

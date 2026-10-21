@@ -1,0 +1,24 @@
+{
+	"name": "Black & Purple Runestag w/ Backswept Horns",
+	"variant": "Black & Purple w/ Backswept Horns",
+	"npcs": {
+		"155238": {
+			"name": "Guardian of the Leaf"
+		},
+		"159030": {
+			"name": "Runestag"
+		},
+		"165907": {
+			"name": "Runestag"
+		},
+		"166966": {
+			"name": "Runestag"
+		},
+		"170145": {
+			"name": "Runestag"
+		},
+		"172934": {
+			"name": "Wildbough Runestag"
+		}
+	}
+}

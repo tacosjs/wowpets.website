@@ -1,0 +1,36 @@
+{
+	"id": "hydraskinwhite",
+	"family": "hydra",
+	"modelGroup": "hydras",
+	"npcs": [
+		{
+			"id": 12207,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 31
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maraudon"
+				}
+			]
+		},
+		{
+			"id": 7273,
+			"tameable": true,
+			"level": {
+				"min": 16,
+				"max": 31
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zulfarrak"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

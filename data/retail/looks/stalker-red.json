@@ -1,0 +1,83 @@
+{
+	"id": "stalker-red",
+	"family": "whiptail",
+	"modelGroup": "shredclaws",
+	"npcs": [
+		{
+			"id": 256770,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "the-molt"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 243835,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "voidscar-arena"
+				}
+			]
+		},
+		{
+			"id": 258189,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "the-gorging-pit"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 261076,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "val",
+					"area": "void-acropolis"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		257246,
+		254577,
+		250545,
+		254576,
+		255354,
+		257127,
+		253331,
+		249611,
+		243897
+	]
+}

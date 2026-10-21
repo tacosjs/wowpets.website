@@ -1,0 +1,68 @@
+{
+	"id": "chimeraskinblue",
+	"family": "chimaera",
+	"modelGroup": "chimaeras",
+	"npcs": [
+		{
+			"id": 24673,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "howling-fjord"
+				}
+			]
+		},
+		{
+			"id": 10807,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "winterspring"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 7448,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "winterspring"
+				}
+			]
+		},
+		{
+			"id": 54533,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "feralas"
+				},
+				{
+					"zone": "silithus"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

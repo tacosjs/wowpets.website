@@ -1,0 +1,33 @@
+{
+	"id": "nzothserpent-red",
+	"family": "worm",
+	"modelGroup": "aqiriworms",
+	"npcs": [
+		{
+			"id": 160708,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "vision-of-stormwind"
+				},
+				{
+					"zone": "vision-of-orgrimmar"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		152550,
+		204671
+	]
+}

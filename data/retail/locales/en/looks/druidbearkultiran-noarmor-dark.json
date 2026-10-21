@@ -1,0 +1,13 @@
+{
+	"name": "Dark Thornbear",
+	"variant": "Dark",
+	"npcs": {
+		"134753": {
+			"name": "Cursed Brambleback"
+		},
+		"210989": {
+			"name": "Astera",
+			"title": "Thornborn Spirit"
+		}
+	}
+}

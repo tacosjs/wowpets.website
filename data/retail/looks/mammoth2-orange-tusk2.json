@@ -1,0 +1,95 @@
+{
+	"id": "mammoth2-orange-tusk2",
+	"family": "mammoth",
+	"modelGroup": "mammoths",
+	"npcs": [
+		{
+			"id": 188098,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "the-mallakh"
+				}
+			]
+		},
+		{
+			"id": 258192,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman"
+				}
+			]
+		},
+		{
+			"id": 253098,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "witherbark-bluffs"
+				}
+			]
+		},
+		{
+			"id": 254010,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "atalaman"
+				}
+			]
+		},
+		{
+			"id": 256849,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "witherbark-bluffs"
+				}
+			]
+		},
+		{
+			"id": 261315,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "witherbark-bluffs"
+				}
+			]
+		}
+	]
+}

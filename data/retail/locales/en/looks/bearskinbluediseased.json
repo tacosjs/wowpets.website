@@ -1,0 +1,9 @@
+{
+	"name": "Sickly Grey Bear",
+	"variant": "Sickly Grey",
+	"npcs": {
+		"50931": {
+			"name": "Mange"
+		}
+	}
+}

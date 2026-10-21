@@ -1,0 +1,69 @@
+{
+	"id": "stag2-white",
+	"family": "stag",
+	"modelGroup": "greaterstags",
+	"npcs": [
+		{
+			"id": 140248,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 140091,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 129771,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "drustvar"
+				}
+			]
+		},
+		{
+			"id": 193420,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "creektooth-den"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		127806,
+		142195,
+		149138
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"id": "draenorkalirisungod-nofire",
+	"family": "birdofprey",
+	"modelGroup": "draenorkaliri",
+	"npcs": [
+		{
+			"id": 210595,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "meandering-rootlands"
+				}
+			]
+		},
+		{
+			"id": 211372,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "meandering-rootlands"
+				}
+			]
+		}
+	]
+}

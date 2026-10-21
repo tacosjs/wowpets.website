@@ -1,0 +1,12 @@
+{
+	"name": "Grey & Gold Proto Avian",
+	"variant": "Grey & Gold Proto Avian",
+	"npcs": {
+		"183871": {
+			"name": "Wild Proto Avian"
+		},
+		"183875": {
+			"name": "Wild Proto Avian"
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "gorillabossmech-red",
+	"family": "gorilla",
+	"modelGroup": "cyberneticgorillas",
+	"npcs": [
+		{
+			"id": 229177,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "liberation-of-undermine"
+				}
+			]
+		}
+	]
+}

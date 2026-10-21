@@ -1,0 +1,44 @@
+{
+	"id": "deepseacrabblue-biolucentpurple",
+	"family": "crab",
+	"modelGroup": "spikedcrabs",
+	"npcs": [
+		{
+			"id": 109803,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna"
+				},
+				{
+					"zone": "suramar"
+				}
+			]
+		},
+		{
+			"id": 227625,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "siren-isle"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		111387,
+		111887,
+		41922,
+		257101
+	]
+}

@@ -1,0 +1,171 @@
+{
+	"id": "basilisk2-leystone",
+	"family": "basilisk",
+	"modelGroup": "spinybasilisks",
+	"npcs": [
+		{
+			"id": 98957,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "neltharions-vault-the-slave-enclave"
+				}
+			]
+		},
+		{
+			"id": 91128,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna",
+					"area": "eldranil-shallows"
+				}
+			]
+		},
+		{
+			"id": 97030,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valsharah",
+					"area": "leygazers-den"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 98653,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "bitestone-enclave"
+				}
+			]
+		},
+		{
+			"id": 130581,
+			"tameable": true,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 99793,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar"
+				}
+			]
+		},
+		{
+			"id": 103514,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormheim"
+				},
+				{
+					"zone": "suramar"
+				}
+			]
+		},
+		{
+			"id": 103808,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "moonwhisper-gulch"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 199195,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus"
+				}
+			]
+		},
+		{
+			"id": 104877,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-broken-isles"
+				}
+			]
+		},
+		{
+			"id": 134823,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	]
+}

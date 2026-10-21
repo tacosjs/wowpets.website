@@ -1,0 +1,37 @@
+{
+	"id": "monstrouseel-red-redaura",
+	"family": "serpent",
+	"modelGroup": "electriceels",
+	"npcs": [
+		{
+			"id": 221954,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "silken-ward-twitching-gorge"
+				}
+			]
+		},
+		{
+			"id": 228506,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "twitching-gorge"
+				}
+			]
+		}
+	]
+}

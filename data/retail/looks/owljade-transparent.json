@@ -1,0 +1,36 @@
+{
+	"id": "owljade-transparent",
+	"family": "birdofprey",
+	"modelGroup": "owls",
+	"npcs": [
+		{
+			"id": 34982,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stonetalon-mountains"
+				}
+			]
+		},
+		{
+			"id": 197243,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "forkriver-crossing"
+				}
+			]
+		}
+	]
+}

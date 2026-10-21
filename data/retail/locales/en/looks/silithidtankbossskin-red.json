@@ -1,0 +1,15 @@
+{
+	"name": "Orange Silithid Colossus",
+	"variant": "Orange",
+	"npcs": {
+		"15511": {
+			"name": "Lord Kri"
+		},
+		"50746": {
+			"name": "Bornix the Burrower"
+		},
+		"117490": {
+			"name": "Colossus of Regal"
+		}
+	}
+}

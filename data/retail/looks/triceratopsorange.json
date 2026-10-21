@@ -1,0 +1,232 @@
+{
+	"id": "triceratopsorange",
+	"family": "direhorn",
+	"modelGroup": "direhorns",
+	"npcs": [
+		{
+			"id": 135508,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "savagelands"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 131626,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar"
+				}
+			]
+		},
+		{
+			"id": 127494,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "the-far-reach"
+				}
+			]
+		},
+		{
+			"id": 127824,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "gloomwater-span"
+				}
+			]
+		},
+		{
+			"id": 127514,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "the-far-reach"
+				}
+			]
+		},
+		{
+			"id": 136381,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "plains-of-tojek"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 70493,
+			"tameable": true,
+			"level": {
+				"min": 32,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-thunder"
+				}
+			]
+		},
+		{
+			"id": 70013,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "isle-of-giants"
+				}
+			]
+		},
+		{
+			"id": 70017,
+			"tameable": true,
+			"level": {
+				"min": 36,
+				"max": 36
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "isle-of-giants"
+				}
+			]
+		},
+		{
+			"id": 140305,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "warbeast-kraal"
+				}
+			]
+		},
+		{
+			"id": 128455,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ataldazar"
+				}
+			]
+		},
+		{
+			"id": 127825,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "gloomwater-span"
+				}
+			]
+		},
+		{
+			"id": 127495,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "the-far-reach"
+				}
+			]
+		},
+		{
+			"id": 70185,
+			"tameable": false,
+			"level": {
+				"min": 32,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "isle-of-thunder",
+					"area": "violet-rise"
+				}
+			]
+		},
+		{
+			"id": 69396,
+			"tameable": false,
+			"level": {
+				"min": 34,
+				"max": 37
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "isle-of-thunder"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		67576,
+		70059
+	]
+}

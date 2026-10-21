@@ -1,0 +1,9 @@
+{
+	"name": "Red Python",
+	"variant": "Red",
+	"npcs": {
+		"262102": {
+			"name": "Slithering Coiler"
+		}
+	}
+}

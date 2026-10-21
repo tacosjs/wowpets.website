@@ -1,0 +1,55 @@
+{
+	"id": "mothunderlight-rockbrown-rockbrown-sparkles",
+	"family": "moth",
+	"modelGroup": "dustmoths",
+	"npcs": [
+		{
+			"id": 205122,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "glimmerogg"
+				}
+			]
+		},
+		{
+			"id": 203784,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "fanged-pasture"
+				}
+			]
+		},
+		{
+			"id": 204187,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "glimmerogg"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		201067
+	]
+}

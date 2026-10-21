@@ -1,0 +1,12 @@
+{
+	"name": "Brown Mawrat",
+	"variant": "Brown",
+	"npcs": {
+		"175811": {
+			"name": "Feasting Mawrat"
+		},
+		"175826": {
+			"name": "Gushing Mawrat"
+		}
+	}
+}

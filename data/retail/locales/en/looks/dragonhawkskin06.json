@@ -1,0 +1,12 @@
+{
+	"name": "Grey Dragonhawk",
+	"variant": "Grey",
+	"npcs": {
+		"25161": {
+			"name": "Dawnblade Dragonhawk"
+		},
+		"50353": {
+			"name": "Manas"
+		}
+	}
+}

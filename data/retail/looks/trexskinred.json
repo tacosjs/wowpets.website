@@ -1,0 +1,81 @@
+{
+	"id": "trexskinred",
+	"family": "devilsaur",
+	"modelGroup": "devilsaurs",
+	"npcs": [
+		{
+			"id": 38346,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ungoro-crater"
+				}
+			]
+		},
+		{
+			"id": 50846,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "searing-gorge"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 27483,
+			"tameable": true,
+			"level": {
+				"min": 17,
+				"max": 32
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "draktharon-keep",
+					"area": "raptor-pens"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 6584,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 60
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "ungoro-crater"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 6500,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ungoro-crater"
+				}
+			]
+		}
+	]
+}

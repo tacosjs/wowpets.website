@@ -1,0 +1,46 @@
+{
+	"name": "Amber & Yellow Spider",
+	"variant": "Amber & Yellow",
+	"npcs": {
+		"15952": {
+			"name": "Maexxna"
+		},
+		"17522": {
+			"name": "Myst Spinner"
+		},
+		"20714": {
+			"name": "Ridgespine Stalker"
+		},
+		"20998": {
+			"name": "Ridgespine Horror"
+		},
+		"26625": {
+			"name": "Darkweb Recluse"
+		},
+		"27778": {
+			"name": "Image of Maexxna"
+		},
+		"77565": {
+			"name": "Darksting Venom"
+		},
+		"129833": {
+			"name": "Mossfang Matriarch"
+		},
+		"134932": {
+			"name": "Vileweb Broodqueen"
+		},
+		"141988": {
+			"name": "Skittering Cliffwalker"
+		},
+		"247233": {
+			"name": "Spying Spiderling"
+		},
+		"247385": {
+			"name": "Spooked Spiderling"
+		},
+		"253049": {
+			"name": "Spiderling",
+			"title": "Shadra's Brood"
+		}
+	}
+}

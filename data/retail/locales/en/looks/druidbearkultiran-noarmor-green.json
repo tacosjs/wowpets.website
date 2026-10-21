@@ -1,0 +1,16 @@
+{
+	"name": "Green Thornbear",
+	"variant": "Green",
+	"npcs": {
+		"133501": {
+			"name": "Hexed Brambleback"
+		},
+		"134754": {
+			"name": "Hyo'gi"
+		},
+		"210990": {
+			"name": "Astera",
+			"title": "Thornborn Spirit"
+		}
+	}
+}

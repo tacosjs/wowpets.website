@@ -1,0 +1,9 @@
+{
+	"name": "Red & Black Cave Crab",
+	"variant": "Red & Black",
+	"npcs": {
+		"239229": {
+			"name": "Rusty Trashnester"
+		}
+	}
+}

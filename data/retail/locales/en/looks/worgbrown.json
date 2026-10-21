@@ -1,0 +1,12 @@
+{
+	"name": "Brown Saber Worg",
+	"variant": "Brown",
+	"npcs": {
+		"24516": {
+			"name": "Bjomolf"
+		},
+		"56357": {
+			"name": "Lupello"
+		}
+	}
+}

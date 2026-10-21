@@ -1,0 +1,12 @@
+{
+	"id": "giantsnake-purple",
+	"family": "serpent",
+	"modelGroup": "cobras",
+	"npcs": [],
+	"alsoNpcs": [
+		258955,
+		261124,
+		268911,
+		270768
+	]
+}

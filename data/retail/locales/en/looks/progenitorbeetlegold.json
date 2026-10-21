@@ -1,0 +1,9 @@
+{
+	"name": "Grey & Gold Scarabid",
+	"variant": "Grey & Gold",
+	"npcs": {
+		"181197": {
+			"name": "Scarabid Crawler"
+		}
+	}
+}

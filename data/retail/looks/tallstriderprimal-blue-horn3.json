@@ -1,0 +1,34 @@
+{
+	"id": "tallstriderprimal-blue-horn3",
+	"family": "tallstrider",
+	"modelGroup": "hornstriders",
+	"npcs": [
+		{
+			"id": 212488,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "amirdrassil-dragon-isles-zone"
+				}
+			],
+			"retired": true
+		}
+	],
+	"alsoNpcs": [
+		192641,
+		195366,
+		195383,
+		193301,
+		188089,
+		190909,
+		194926,
+		195459,
+		190029,
+		191338
+	]
+}

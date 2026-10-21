@@ -1,0 +1,24 @@
+{
+	"name": "Yellow Crocolisk",
+	"variant": "Yellow",
+	"npcs": {
+		"1693": {
+			"name": "Loch Crocolisk"
+		},
+		"2635": {
+			"name": "Elder Snapjaw Crocolisk"
+		},
+		"4341": {
+			"name": "Drywallow Crocolisk"
+		},
+		"4343": {
+			"name": "Drywallow Snapper"
+		},
+		"4345": {
+			"name": "Drywallow Daggermaw"
+		},
+		"45807": {
+			"name": "Sawtooth Crocolisk"
+		}
+	}
+}

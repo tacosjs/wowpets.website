@@ -1,0 +1,9 @@
+{
+	"name": "Skeletal Gryphon",
+	"variant": "Skeletal Gryphon",
+	"npcs": {
+		"27241": {
+			"name": "Risen Gryphon"
+		}
+	}
+}

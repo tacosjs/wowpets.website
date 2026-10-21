@@ -1,0 +1,12 @@
+{
+	"name": "Black & Maroon Spider",
+	"variant": "Black & Maroon",
+	"npcs": {
+		"165989": {
+			"name": "Ebon Crawler"
+		},
+		"166005": {
+			"name": "Ebon Crawler Hatchling"
+		}
+	}
+}

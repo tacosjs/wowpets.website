@@ -1,0 +1,61 @@
+{
+	"id": "devilsaptor-lightbloom",
+	"family": "devilsaur",
+	"modelGroup": "devilsaptors",
+	"npcs": [
+		{
+			"id": 237635,
+			"tameable": true,
+			"level": {
+				"min": 82,
+				"max": 92
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "lightbloom-lashra"
+				}
+			]
+		},
+		{
+			"id": 256397,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-gulf-of-memory"
+				}
+			]
+		},
+		{
+			"id": 244887,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "the-blinding-vale"
+				}
+			]
+		},
+		{
+			"id": 241578,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "tranquil-repose"
+				}
+			]
+		}
+	]
+}

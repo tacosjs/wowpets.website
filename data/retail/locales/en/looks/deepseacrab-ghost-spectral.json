@@ -1,0 +1,12 @@
+{
+	"name": "Spectral Spiked Crab",
+	"variant": "deepseacrab_ghost-spectral",
+	"npcs": {
+		"50051": {
+			"name": "Ghostcrawler"
+		},
+		"134795": {
+			"name": "Veiled Hermit"
+		}
+	}
+}

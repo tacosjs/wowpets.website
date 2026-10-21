@@ -1,0 +1,33 @@
+{
+	"id": "ravengodblack",
+	"family": "birdofprey",
+	"modelGroup": "corrupteddreadravens",
+	"npcs": [
+		{
+			"id": 41084,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mount-hyjal",
+					"area": "shrine-of-aviana"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 23035,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "sethekk-halls"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,232 @@
+{
+	"id": "rutaanibird-lightbloom",
+	"family": "carrionbird",
+	"modelGroup": "petalwings",
+	"npcs": [
+		{
+			"id": 256230,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "suncrown-tree"
+				}
+			]
+		},
+		{
+			"id": 242944,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "the-blinding-bloom"
+				}
+			]
+		},
+		{
+			"id": 250822,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "dawnstar-spire"
+				}
+			]
+		},
+		{
+			"id": 237500,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "lightbloom-lashra"
+				}
+			]
+		},
+		{
+			"id": 237590,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "the-blinding-bloom"
+				}
+			]
+		},
+		{
+			"id": 237402,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "goldenbough-pass"
+				}
+			]
+		},
+		{
+			"id": 253238,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "the-blinding-bloom"
+				}
+			]
+		},
+		{
+			"id": 256095,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "the-blinding-bloom"
+				}
+			]
+		},
+		{
+			"id": 256713,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "encroaching-bloom"
+				}
+			]
+		},
+		{
+			"id": 240577,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "lightbloom-lashra"
+				}
+			]
+		},
+		{
+			"id": 236560,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "suncrown-village"
+				}
+			]
+		},
+		{
+			"id": 244533,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "suncrown"
+				}
+			]
+		},
+		{
+			"id": 241465,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "lightbloom-lashra"
+				}
+			]
+		},
+		{
+			"id": 250317,
+			"tameable": true,
+			"level": {
+				"min": 81,
+				"max": 91
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "the-blinding-bloom"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 245484,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-blinding-vale"
+				}
+			]
+		}
+	]
+}

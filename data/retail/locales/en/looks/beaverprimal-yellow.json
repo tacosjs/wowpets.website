@@ -1,0 +1,12 @@
+{
+	"name": "Tan Brown Beaver",
+	"variant": "Tan Brown",
+	"npcs": {
+		"193201": {
+			"name": "Mucka the Raker"
+		},
+		"193219": {
+			"name": "Muckling"
+		}
+	}
+}

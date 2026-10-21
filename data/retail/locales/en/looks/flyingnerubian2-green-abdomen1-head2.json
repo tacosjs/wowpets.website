@@ -1,0 +1,9 @@
+{
+	"name": "Green Swarmite w/ Proboscis & Short Tail",
+	"variant": "Green Swarmite w/ Proboscis & Short Tail",
+	"npcs": {
+		"222572": {
+			"name": "Infesting Latcher"
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"name": "White Wasp",
+	"variant": "White",
+	"npcs": {
+		"5350": {
+			"name": "Qirot"
+		},
+		"15235": {
+			"name": "Vekniss Stinger"
+		},
+		"15325": {
+			"name": "Hive'Zara Wasp"
+		}
+	}
+}

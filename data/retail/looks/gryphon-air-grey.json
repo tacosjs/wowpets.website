@@ -1,0 +1,130 @@
+{
+	"id": "gryphon-air-grey",
+	"family": "feathermane",
+	"modelGroup": "cloudrooks",
+	"npcs": [
+		{
+			"id": 229638,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn"
+				}
+			]
+		},
+		{
+			"id": 229704,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn"
+				}
+			]
+		},
+		{
+			"id": 227849,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "dhar-durgaz"
+				}
+			]
+		},
+		{
+			"id": 226153,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "the-proscenium"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 215658,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "dornogal"
+				}
+			]
+		},
+		{
+			"id": 223238,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "freywold-village"
+				}
+			]
+		},
+		{
+			"id": 224402,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "the-three-shields"
+				}
+			]
+		},
+		{
+			"id": 227215,
+			"tameable": false,
+			"level": {
+				"min": 71,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "the-three-shields"
+				}
+			]
+		}
+	]
+}

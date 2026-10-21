@@ -1,0 +1,131 @@
+{
+	"id": "muskox-white",
+	"family": "oxen",
+	"modelGroup": "musken",
+	"npcs": [
+		{
+			"id": 108538,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormheim"
+				}
+			]
+		},
+		{
+			"id": 108935,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormheim"
+				}
+			]
+		},
+		{
+			"id": 107852,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormheim",
+					"area": "jotunnwood"
+				}
+			]
+		},
+		{
+			"id": 191478,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		},
+		{
+			"id": 140453,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 140450,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 196352,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "ruszathar-reach"
+				}
+			]
+		},
+		{
+			"id": 230140,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "siren-isle",
+					"area": "stormtide-dregs"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		195185,
+		195172,
+		195219,
+		190905,
+		193403,
+		196094,
+		190100
+	]
+}

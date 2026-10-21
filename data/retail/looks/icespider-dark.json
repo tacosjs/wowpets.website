@@ -1,0 +1,67 @@
+{
+	"id": "icespider-dark",
+	"family": "spider",
+	"modelGroup": "icespiders",
+	"npcs": [
+		{
+			"id": 185814,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "shiverweb-vale"
+				}
+			]
+		},
+		{
+			"id": 191716,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "lost-ruins"
+				}
+			]
+		},
+		{
+			"id": 185812,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "shiverweb-vale"
+				}
+			]
+		},
+		{
+			"id": 264724,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "val",
+					"area": "glacial-reservoir"
+				}
+			]
+		}
+	]
+}

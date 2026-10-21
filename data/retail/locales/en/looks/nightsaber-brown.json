@@ -1,0 +1,31 @@
+{
+	"name": "Brown Nightsaber",
+	"variant": "Brown",
+	"npcs": {
+		"94149": {
+			"name": "Pinerock Prowler"
+		},
+		"96268": {
+			"name": "Mountain Prowler"
+		},
+		"99376": {
+			"name": "Deesa",
+			"title": "Apata's Pet"
+		},
+		"99481": {
+			"name": "Pinerock Stalker"
+		},
+		"112910": {
+			"name": "Misthollow Hunter"
+		},
+		"135716": {
+			"name": "Nightsaber Hunter"
+		},
+		"135718": {
+			"name": "Nightsaber Cub"
+		},
+		"135721": {
+			"name": "Asha'ne"
+		}
+	}
+}

@@ -1,0 +1,116 @@
+{
+	"id": "boar2-ivory",
+	"family": "boar",
+	"modelGroup": "boars",
+	"npcs": [
+		{
+			"id": 3100,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "durotar"
+				}
+			]
+		},
+		{
+			"id": 39224,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "durotar"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 3098,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "durotar"
+				}
+			]
+		},
+		{
+			"id": 330,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "elwynn-forest",
+					"area": "the-stonefield-farm"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 524,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "elwynn-forest"
+				}
+			]
+		},
+		{
+			"id": 1689,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dun-morogh"
+				}
+			]
+		},
+		{
+			"id": 113,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "elwynn-forest"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		42504,
+		42859,
+		34647,
+		75061,
+		234995,
+		39889
+	]
+}

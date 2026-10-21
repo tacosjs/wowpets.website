@@ -1,0 +1,21 @@
+{
+	"name": "Red Wasp",
+	"variant": "Red",
+	"npcs": {
+		"5244": {
+			"name": "Zukk'ash Stinger"
+		},
+		"5455": {
+			"name": "Centipaar Wasp"
+		},
+		"5456": {
+			"name": "Centipaar Stinger"
+		},
+		"11732": {
+			"name": "Hive'Regal Spitfire"
+		},
+		"15327": {
+			"name": "Hive'Zara Stinger"
+		}
+	}
+}

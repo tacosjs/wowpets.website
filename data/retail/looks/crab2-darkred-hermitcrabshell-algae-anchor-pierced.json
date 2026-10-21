@@ -1,0 +1,53 @@
+{
+	"id": "crab2-darkred-hermitcrabshell-algae-anchor-pierced",
+	"family": "crab",
+	"modelGroup": "hermitcrabs",
+	"npcs": [
+		{
+			"id": 200907,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-forbidden-reach",
+					"area": "sharpscale-coast"
+				}
+			]
+		},
+		{
+			"id": 228547,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "siren-isle"
+				}
+			]
+		},
+		{
+			"id": 236892,
+			"tameable": false,
+			"level": {
+				"min": 81,
+				"max": 81
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "excavation-site-9"
+				},
+				{
+					"zone": "sidestreet-sluice"
+				}
+			]
+		}
+	]
+}

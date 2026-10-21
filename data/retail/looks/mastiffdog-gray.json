@@ -1,0 +1,202 @@
+{
+	"id": "mastiffdog-gray",
+	"family": "hound",
+	"modelGroup": "mastiffs",
+	"npcs": [
+		{
+			"id": 45367,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ruins-of-gilneas"
+				}
+			]
+		},
+		{
+			"id": 23994,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "howling-fjord"
+				}
+			]
+		},
+		{
+			"id": 51040,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "arathi-highlands",
+					"area": "northfold-manor"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 83815,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ashran",
+					"area": "archmage-overwatch"
+				}
+			]
+		},
+		{
+			"id": 139563,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "mangrove-shore"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 139562,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "mangrove-shore"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 38832,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 10
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gilneas"
+				}
+			]
+		},
+		{
+			"id": 109110,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormheim",
+					"area": "greywatch"
+				}
+			]
+		},
+		{
+			"id": 129075,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "roughneck-camp"
+				}
+			]
+		},
+		{
+			"id": 130038,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley",
+					"area": "addington-yards"
+				}
+			]
+		},
+		{
+			"id": 130452,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley"
+				}
+			]
+		},
+		{
+			"id": 130453,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley",
+					"area": "by-a-house-on-the-western-edge-of-the-amber-waves"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		37718,
+		41561,
+		129857,
+		128551,
+		129070,
+		135773,
+		142016,
+		36405,
+		38468,
+		36713,
+		35631,
+		48124,
+		146827,
+		146828
+	]
+}

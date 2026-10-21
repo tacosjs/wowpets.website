@@ -1,0 +1,21 @@
+{
+	"name": "Dark Blue Blood Tick",
+	"variant": "Dark Blue",
+	"npcs": {
+		"120560": {
+			"name": "Marshfly Dreadtick"
+		},
+		"122335": {
+			"name": "Young Dreadtick"
+		},
+		"127925": {
+			"name": "Dreadtick Leecher"
+		},
+		"133835": {
+			"name": "Feral Bloodswarmer"
+		},
+		"248943": {
+			"name": "Corpsepicker Karion"
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Venom-Soaked Black Draenor Boar",
+	"variant": "Venom-Soaked Black",
+	"npcs": {
+		"261837": {
+			"name": "Corroded Cliffcharger"
+		},
+		"262009": {
+			"name": "Mutated Double-Spine Hog"
+		},
+		"262960": {
+			"name": "Mutated Ravine Hogbeast"
+		}
+	}
+}

@@ -1,0 +1,50 @@
+{
+	"id": "uldumscarab2skinpurple",
+	"family": "beetle",
+	"modelGroup": "grandbeetles",
+	"npcs": [
+		{
+			"id": 46129,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "uldum",
+					"area": "obelisk-of-the-stars"
+				}
+			]
+		},
+		{
+			"id": 140390,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 140389,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	]
+}

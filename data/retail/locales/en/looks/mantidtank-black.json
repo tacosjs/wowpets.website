@@ -1,0 +1,24 @@
+{
+	"name": "Black Kunchong",
+	"variant": "Black",
+	"npcs": {
+		"62164": {
+			"name": "Garalon"
+		},
+		"64717": {
+			"name": "Dread Kunchong"
+		},
+		"139538": {
+			"name": "Wall-Breaker Ha'vik"
+		},
+		"153237": {
+			"name": "Kunchong Hatchling"
+		},
+		"153274": {
+			"name": "Kunchong Hatchling"
+		},
+		"207923": {
+			"name": "Klaxxi Monstrosity"
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name": "Heavenly Black Cloud Serpent",
+	"variant": "Heavenly Black",
+	"npcs": {
+		"55874": {
+			"name": "Zhao-Ren",
+			"title": "The Onyx Serpent"
+		},
+		"56754": {
+			"name": "Azure Serpent"
+		},
+		"62309": {
+			"name": "Hei Feng"
+		},
+		"62442": {
+			"name": "Tsulong"
+		},
+		"63920": {
+			"name": "Hei Feng"
+		}
+	}
+}

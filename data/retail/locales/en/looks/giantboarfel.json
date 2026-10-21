@@ -1,0 +1,13 @@
+{
+	"name": "Fel Draenor Boar",
+	"variant": "Fel Green",
+	"npcs": {
+		"89689": {
+			"name": "Diresnout Felboar"
+		},
+		"118685": {
+			"name": "Felbound Boar",
+			"title": "Felbound Trapper's Pet"
+		}
+	}
+}

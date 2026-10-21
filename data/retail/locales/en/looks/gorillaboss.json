@@ -1,0 +1,12 @@
+{
+	"name": "Epic White Gorilla",
+	"variant": "White",
+	"npcs": {
+		"148117": {
+			"name": "Grong"
+		},
+		"264423": {
+			"name": "Gnok"
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"name": "Orange Fire Spider",
+	"variant": "Orange",
+	"npcs": {
+		"53765": {
+			"name": "Cinderweb Spiderling"
+		},
+		"54321": {
+			"name": "Solix"
+		},
+		"66695": {
+			"name": "Echoweb Hatchling"
+		},
+		"140541": {
+			"name": "Kindleweb Creeper"
+		},
+		"140544": {
+			"name": "Kindleweb Skitterer"
+		}
+	}
+}

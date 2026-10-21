@@ -1,0 +1,18 @@
+{
+	"name": "Red-Brown Death Chimaera",
+	"variant": "Red-Brown",
+	"npcs": {
+		"164312": {
+			"name": "Taloned Flayedwing"
+		},
+		"168258": {
+			"name": "Gristled Hatchling"
+		},
+		"170893": {
+			"name": "Flayedwing Screamer"
+		},
+		"173046": {
+			"name": "Ferocious Nestkeeper"
+		}
+	}
+}

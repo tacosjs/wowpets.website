@@ -1,0 +1,56 @@
+{
+	"id": "druidcatkultiran-noarmor-dark",
+	"family": "cat",
+	"modelGroup": "thornclaws",
+	"npcs": [
+		{
+			"id": 210981,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "sprigling-gloam"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 135868,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "snowmelt-foothills"
+				}
+			]
+		},
+		{
+			"id": 142278,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar"
+				}
+			]
+		}
+	]
+}

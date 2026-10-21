@@ -1,0 +1,9 @@
+{
+	"name": "Black Monkey with Fez",
+	"variant": "Black",
+	"npcs": {
+		"51052": {
+			"name": "Gib the Banana-Hoarder"
+		}
+	}
+}

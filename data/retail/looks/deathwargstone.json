@@ -1,0 +1,91 @@
+{
+	"id": "deathwargstone",
+	"family": "stonehound",
+	"modelGroup": "gargons",
+	"npcs": [
+		{
+			"id": 159441,
+			"tameable": true,
+			"level": {
+				"min": 61,
+				"max": 61
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "dominance-keep"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 159323,
+			"tameable": true,
+			"level": {
+				"min": 61,
+				"max": 61
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "the-upper-reaches"
+				},
+				{
+					"zone": "tower-of-the-damned",
+					"area": "twisting-corridors"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 157477,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "stalkers-lodge"
+				}
+			]
+		},
+		{
+			"id": 164385,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "wanecrypt-hill"
+				}
+			]
+		},
+		{
+			"id": 172785,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "dominance-keep"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		178050,
+		159177
+	]
+}

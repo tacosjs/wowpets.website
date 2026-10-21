@@ -1,0 +1,305 @@
+{
+	"id": "undeadeagle",
+	"family": "birdofprey",
+	"modelGroup": "deathhawks",
+	"npcs": [
+		{
+			"id": 50335,
+			"tameable": true,
+			"level": {
+				"min": 7,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "hillsbrad-foothills"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 93064,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valsharah",
+					"area": "bradensbrook"
+				}
+			]
+		},
+		{
+			"id": 94009,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valsharah",
+					"area": "bradensbrook"
+				}
+			]
+		},
+		{
+			"id": 110332,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valsharah",
+					"area": "temple-of-elune"
+				}
+			]
+		},
+		{
+			"id": 97163,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maw-of-souls"
+				}
+			]
+		},
+		{
+			"id": 105531,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormheim",
+					"area": "tideskorn-harbor"
+				}
+			]
+		},
+		{
+			"id": 91527,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "helheim"
+				}
+			]
+		},
+		{
+			"id": 94383,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valsharah",
+					"area": "radcliffe-landing"
+				}
+			],
+			"keepsName": true,
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 84102,
+			"tameable": true,
+			"level": {
+				"min": 11,
+				"max": 61
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ashran",
+					"area": "ashmaul-burial-grounds"
+				}
+			]
+		},
+		{
+			"id": 44481,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "western-plaguelands"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 29453,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldrak"
+				}
+			]
+		},
+		{
+			"id": 31263,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "icecrown"
+				}
+			]
+		},
+		{
+			"id": 30988,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "icecrown"
+				}
+			]
+		},
+		{
+			"id": 54517,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "end-time",
+					"area": "ruby-dragonshrine"
+				}
+			]
+		},
+		{
+			"id": 103045,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "maw-of-souls",
+					"area": "the-hold"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 71739,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valsharah",
+					"area": "heathrow-manor-bradensbrook"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 146910,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 146885,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 263820,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gnarldor-isle"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

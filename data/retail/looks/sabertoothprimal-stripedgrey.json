@@ -1,0 +1,26 @@
+{
+	"id": "sabertoothprimal-stripedgrey",
+	"family": "cat",
+	"modelGroup": "rockfangs",
+	"npcs": [
+		{
+			"id": 187781,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "rockfang-ravine"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		192181,
+		193881
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"id": "basiliskskinpurple-crystalskinpurple",
+	"family": "basilisk",
+	"modelGroup": "basilisks",
+	"npcs": [
+		{
+			"id": 130598,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "northern-stranglethorn",
+					"area": "yojamba-isle"
+				}
+			]
+		}
+	]
+}

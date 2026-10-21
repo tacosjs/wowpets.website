@@ -1,0 +1,9 @@
+{
+	"name": "Grey Musken w/ Lightning Horns",
+	"variant": "Grey w/ Lightning Horns",
+	"npcs": {
+		"100838": {
+			"name": "Thunderhorn"
+		}
+	}
+}

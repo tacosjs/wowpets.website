@@ -1,0 +1,242 @@
+{
+	"id": "ravager2black",
+	"family": "ravager",
+	"modelGroup": "draenorravagers",
+	"npcs": [
+		{
+			"id": 85756,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ashran"
+				}
+			]
+		},
+		{
+			"id": 86286,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "the-thorn-pits"
+				}
+			]
+		},
+		{
+			"id": 86455,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "the-thorn-pits"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 78931,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "shadowglade"
+				}
+			]
+		},
+		{
+			"id": 80224,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "shadowglade"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 82632,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "bloodmane-pridelands"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 85453,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "camp-thornscar"
+				}
+			]
+		},
+		{
+			"id": 92429,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "tanaan-jungle",
+					"area": "thornmire"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 88523,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-draenor",
+					"area": "gorian-proving-grounds"
+				}
+			]
+		},
+		{
+			"id": 249427,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm"
+				}
+			]
+		},
+		{
+			"id": 252684,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "the-fangfall"
+				}
+			]
+		},
+		{
+			"id": 252466,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "torments-rise"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 253179,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "midnight-delves"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 88582,
+			"tameable": false,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "everbloom-wilds"
+				}
+			]
+		},
+		{
+			"id": 244990,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "gnawing-reach"
+				}
+			]
+		}
+	]
+}

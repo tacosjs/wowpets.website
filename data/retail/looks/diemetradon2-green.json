@@ -1,0 +1,100 @@
+{
+	"id": "diemetradon2-green",
+	"family": "lizard",
+	"modelGroup": "diemetradons",
+	"npcs": [
+		{
+			"id": 126725,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "the-slough"
+				}
+			]
+		},
+		{
+			"id": 126726,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar"
+				}
+			]
+		},
+		{
+			"id": 21408,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-outland"
+				}
+			]
+		},
+		{
+			"id": 21897,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-outland"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 21462,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-outland"
+				}
+			]
+		},
+		{
+			"id": 205856,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "tyrhold-reservoir"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		126722,
+		126562,
+		130756,
+		130753
+	]
+}

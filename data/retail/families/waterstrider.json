@@ -1,0 +1,37 @@
+{
+	"id": "waterstrider",
+	"icon": "inv_pet_waterstrider",
+	"spec": "cunning",
+	"exotic": true,
+	"diet": [
+		"fruit",
+		"fungus"
+	],
+	"abilities": {
+		"basic": "bite",
+		"family": [
+			"soothing-waters",
+			"surface-trot"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "mirestalkers"
+		},
+		{
+			"id": "lapbugs"
+		},
+		{
+			"id": "skitterflies"
+		},
+		{
+			"id": "waterstriders"
+		},
+		{
+			"id": "platedwaterstriders"
+		},
+		{
+			"id": "fenstriders"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"name": "Silver Saurid",
+	"variant": "Silver",
+	"npcs": {
+		"126132": {
+			"name": "Sickly Scavenger"
+		},
+		"126142": {
+			"name": "Bajiatha",
+			"title": "The  Scavenger Matriarch"
+		},
+		"127000": {
+			"name": "Sickly Saurid"
+		},
+		"127907": {
+			"name": "Scattering Grubber"
+		},
+		"130191": {
+			"name": "Clutch Defender"
+		},
+		"139326": {
+			"name": "Invasive Eggsnatcher"
+		}
+	}
+}

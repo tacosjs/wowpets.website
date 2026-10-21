@@ -1,0 +1,77 @@
+{
+	"id": "seaeel-green",
+	"family": "serpent",
+	"modelGroup": "eelserpents",
+	"npcs": [
+		{
+			"id": 130232,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "fogcliff-strand"
+				}
+			]
+		},
+		{
+			"id": 145338,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "azshari-terrace"
+				}
+			]
+		},
+		{
+			"id": 155698,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "azshari-terrace"
+				}
+			]
+		},
+		{
+			"id": 224621,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "bleak-sand"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		263393,
+		255914,
+		192132
+	]
+}

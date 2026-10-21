@@ -1,0 +1,12 @@
+{
+	"name": "Blue Abyss Worm",
+	"variant": "Blue",
+	"npcs": {
+		"140038": {
+			"name": "Abyssal Eel"
+		},
+		"145343": {
+			"name": "Deepcoil Serpent"
+		}
+	}
+}

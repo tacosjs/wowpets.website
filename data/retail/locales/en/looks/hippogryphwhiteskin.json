@@ -1,0 +1,12 @@
+{
+	"name": "Pale Hippogryph",
+	"variant": "Pale",
+	"npcs": {
+		"5347": {
+			"name": "Antilus the Soarer"
+		},
+		"6648": {
+			"name": "Antilos"
+		}
+	}
+}

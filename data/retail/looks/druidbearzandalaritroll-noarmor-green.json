@@ -1,0 +1,22 @@
+{
+	"id": "druidbearzandalaritroll-noarmor-green",
+	"family": "scalehide",
+	"modelGroup": "ankylodons",
+	"npcs": [
+		{
+			"id": 123095,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "the-preserve"
+				}
+			]
+		}
+	]
+}

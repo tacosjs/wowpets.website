@@ -1,0 +1,78 @@
+{
+	"name": "Green Salamanther w/ Gills & Fins",
+	"variant": "Green",
+	"npcs": {
+		"185648": {
+			"name": "Vicious Salamander"
+		},
+		"186701": {
+			"name": "Summoned Scalebiter",
+			"title": "Mudfin Salamancer's Pet"
+		},
+		"190242": {
+			"name": "Slippery Salamanther"
+		},
+		"190243": {
+			"name": "Shifty Salamanther"
+		},
+		"191653": {
+			"name": "Coastal Salamanther"
+		},
+		"191656": {
+			"name": "Young Salamanther"
+		},
+		"191659": {
+			"name": "Prime Salamanther"
+		},
+		"192946": {
+			"name": "Thicket Scalebiter"
+		},
+		"194062": {
+			"name": "Elusive Prime Salamanther"
+		},
+		"195461": {
+			"name": "Shifty Salamanther"
+		},
+		"195492": {
+			"name": "Elusive Deepwater Salamanther"
+		},
+		"195848": {
+			"name": "Springwater Salamanther"
+		},
+		"196968": {
+			"name": "Bound Salamander",
+			"title": "Enraptured Hunter's Pet"
+		},
+		"198376": {
+			"name": "Bitey Hatchling"
+		},
+		"201096": {
+			"name": "Fireborn Salamanther"
+		},
+		"205078": {
+			"name": "Crystal Snapper Matriarch"
+		},
+		"210789": {
+			"name": "Fens Salamanther"
+		},
+		"212145": {
+			"name": "Huntergreen Salamanther"
+		},
+		"217727": {
+			"name": "Ravenous Hungrander"
+		},
+		"224468": {
+			"name": "Salamanther Highmother"
+		},
+		"224622": {
+			"name": "Colossal Salamanther",
+			"title": "Tamed Kobyss Monstrosity"
+		},
+		"225921": {
+			"name": "Dominant Salamanther"
+		},
+		"251394": {
+			"name": "Hungry Scalebiter"
+		}
+	}
+}

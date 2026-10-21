@@ -1,0 +1,204 @@
+{
+	"id": "thunderhydra-blue",
+	"family": "hydra",
+	"modelGroup": "thunderhydras",
+	"npcs": [
+		{
+			"id": 84955,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "south-sea"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 80122,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "nagrand-draenor",
+					"area": "doomtide-cove"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 80401,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaan-jungle"
+				}
+			]
+		},
+		{
+			"id": 80398,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "tanaan-jungle"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 80405,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "tanaan-jungle"
+				}
+			]
+		},
+		{
+			"id": 80404,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "tanaan-jungle"
+				}
+			]
+		},
+		{
+			"id": 80453,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "tanaan-jungle"
+				}
+			]
+		},
+		{
+			"id": 86265,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "everbloom-wilds"
+				}
+			]
+		},
+		{
+			"id": 91792,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "eye-of-azshara"
+				}
+			]
+		},
+		{
+			"id": 120850,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "talfarrak"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 132744,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 132745,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 132746,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		192126
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Brown Skeletal Devilsaur w/ Helmet",
+	"variant": "Brown w/ Helmet",
+	"npcs": {
+		"134852": {
+			"name": "Vilebone Ravager"
+		}
+	}
+}

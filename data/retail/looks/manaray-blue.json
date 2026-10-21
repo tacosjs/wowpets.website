@@ -1,0 +1,36 @@
+{
+	"id": "manaray-blue",
+	"family": "ray",
+	"modelGroup": "manarays",
+	"npcs": [
+		{
+			"id": 119969,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eredath",
+					"area": "triumvirates-end"
+				}
+			]
+		},
+		{
+			"id": 126867,
+			"tameable": false,
+			"level": {
+				"min": 47,
+				"max": 47
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "eredath"
+				}
+			]
+		}
+	]
+}

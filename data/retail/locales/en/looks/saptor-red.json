@@ -1,0 +1,12 @@
+{
+	"name": "Red Saptor",
+	"variant": "Red",
+	"npcs": {
+		"250176": {
+			"name": "Splintclaw Ravager"
+		},
+		"253249": {
+			"name": "Clever Saptor"
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"name": "White Serpent",
+	"variant": "White",
+	"npcs": {
+		"5762": {
+			"name": "Deviate Moccasin"
+		},
+		"7268": {
+			"name": "Sandfury Guardian"
+		},
+		"19784": {
+			"name": "Coilskar Cobra"
+		},
+		"24242": {
+			"name": "Slither"
+		},
+		"29768": {
+			"name": "Unyielding Constrictor"
+		}
+	}
+}

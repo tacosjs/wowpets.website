@@ -1,0 +1,171 @@
+{
+	"id": "batgreen",
+	"family": "bat",
+	"modelGroup": "greaterbats",
+	"npcs": [
+		{
+			"id": 75467,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 31
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "razorfen-kraul"
+				}
+			]
+		},
+		{
+			"id": 97895,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "mucksnout-den"
+				}
+			]
+		},
+		{
+			"id": 96287,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "neltharions-vault"
+				}
+			]
+		},
+		{
+			"id": 126433,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir"
+				}
+			]
+		},
+		{
+			"id": 110729,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dalaran-broken-isles"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 231061,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "chromies-codex"
+				}
+			]
+		},
+		{
+			"id": 144949,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 144956,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 184301,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "uldaman-legacy-of-tyr"
+				}
+			]
+		},
+		{
+			"id": 204109,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "kriegvals-rest"
+				},
+				{
+					"zone": "the-waterworks"
+				}
+			]
+		},
+		{
+			"id": 253473,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "maisara-caverns"
+				}
+			]
+		}
+	]
+}

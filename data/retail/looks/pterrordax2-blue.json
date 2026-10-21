@@ -1,0 +1,173 @@
+{
+	"id": "pterrordax2-blue",
+	"family": "pterrordax",
+	"modelGroup": "pterrordaxes",
+	"npcs": [
+		{
+			"id": 131718,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "skyrender-eyrie"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 128434,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ataldazar"
+				}
+			]
+		},
+		{
+			"id": 122114,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "zebsaur"
+				}
+			]
+		},
+		{
+			"id": 122986,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ataldazar"
+				}
+			]
+		},
+		{
+			"id": 125207,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "nazwatha"
+				}
+			]
+		},
+		{
+			"id": 128658,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "frogmarsh-and-the-shores-of-the-shattered-river"
+				}
+			]
+		},
+		{
+			"id": 128653,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "frogmarsh-and-the-shores-of-the-shattered-river"
+				}
+			]
+		},
+		{
+			"id": 135450,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "ataldazar-non-instanced"
+				}
+			]
+		},
+		{
+			"id": 130197,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "grand-bazaar"
+				}
+			]
+		},
+		{
+			"id": 131836,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "dazaralor"
+				}
+			]
+		},
+		{
+			"id": 128647,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		129762
+	]
+}

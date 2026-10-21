@@ -1,0 +1,15 @@
+{
+	"name": "Black Elderhorn",
+	"variant": "Black",
+	"npcs": {
+		"94694": {
+			"name": "Morashu"
+		},
+		"146109": {
+			"name": "Midnight Charger"
+		},
+		"146112": {
+			"name": "Inkfur Behemoth"
+		}
+	}
+}

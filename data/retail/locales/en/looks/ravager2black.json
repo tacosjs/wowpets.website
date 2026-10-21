@@ -1,0 +1,51 @@
+{
+	"name": "Black Draenor Ravager",
+	"variant": "Black",
+	"npcs": {
+		"78931": {
+			"name": "Shadeback Ravager"
+		},
+		"80224": {
+			"name": "Shadeback Thornmother"
+		},
+		"82632": {
+			"name": "Spineslicer"
+		},
+		"85453": {
+			"name": "Thornscar Ravager"
+		},
+		"85756": {
+			"name": "Onyx Ravager"
+		},
+		"86286": {
+			"name": "Bladefist Ravager"
+		},
+		"86455": {
+			"name": "Brood Mother Xylax"
+		},
+		"88523": {
+			"name": "Ravager Pit Fodder"
+		},
+		"88582": {
+			"name": "Swift Onyx Flayer"
+		},
+		"92429": {
+			"name": "Broodlord Ixkor"
+		},
+		"244990": {
+			"name": "Shadestep Kilivore"
+		},
+		"249427": {
+			"name": "Chittering Kilivore"
+		},
+		"252466": {
+			"name": "Razorshell Ravager"
+		},
+		"252684": {
+			"name": "Marrowmaw Kilivore"
+		},
+		"253179": {
+			"name": "Razorshell Ravager"
+		}
+	}
+}

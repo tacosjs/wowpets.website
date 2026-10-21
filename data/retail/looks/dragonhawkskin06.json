@@ -1,0 +1,36 @@
+{
+	"id": "dragonhawkskin06",
+	"family": "dragonhawk",
+	"modelGroup": "dragonhawks",
+	"npcs": [
+		{
+			"id": 50353,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "winterspring"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 25161,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-queldanas"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Black Panthara w/ Fel-Green Glow",
+	"variant": "Black Panthara w/ Fel-Green Glow",
+	"npcs": {
+		"126198": {
+			"name": "Trench Stalker"
+		},
+		"126208": {
+			"name": "Varga"
+		}
+	}
+}

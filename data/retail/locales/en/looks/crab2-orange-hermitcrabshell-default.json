@@ -1,0 +1,9 @@
+{
+	"name": "Orange Hermit Crab w/ Plain Shell",
+	"variant": "Orange",
+	"npcs": {
+		"224799": {
+			"name": "Shimmering Hermit"
+		}
+	}
+}

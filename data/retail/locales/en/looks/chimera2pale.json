@@ -1,0 +1,43 @@
+{
+	"name": "Pale Rylak",
+	"variant": "Pale",
+	"npcs": {
+		"72251": {
+			"name": "Icewing Rylak"
+		},
+		"72849": {
+			"name": "Driftwatcher Rylak"
+		},
+		"74660": {
+			"name": "Chilltongue",
+			"title": "The Iron Wolf's Mount"
+		},
+		"78314": {
+			"name": "Glacial Icemaw"
+		},
+		"78320": {
+			"name": "Frostwolf Rylak"
+		},
+		"80034": {
+			"name": "Icewing Rylak"
+		},
+		"80227": {
+			"name": "Icewing Drift-Hunter"
+		},
+		"80321": {
+			"name": "Icemaw Matriarch"
+		},
+		"81548": {
+			"name": "Charl Doomwing"
+		},
+		"84998": {
+			"name": "Tamed Rylak"
+		},
+		"89202": {
+			"name": "Icemaw Scavenger"
+		},
+		"89217": {
+			"name": "Icemaw Scavenger"
+		}
+	}
+}

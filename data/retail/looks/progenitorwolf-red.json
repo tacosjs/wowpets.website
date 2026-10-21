@@ -1,0 +1,21 @@
+{
+	"id": "progenitorwolf-red",
+	"family": "wolf",
+	"modelGroup": "lupines",
+	"npcs": [
+		{
+			"id": 180051,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis"
+				}
+			]
+		}
+	]
+}

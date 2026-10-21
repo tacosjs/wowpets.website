@@ -1,0 +1,37 @@
+{
+	"id": "nerubianspiderlingskingrey",
+	"family": "spider",
+	"modelGroup": "classicthreadlings",
+	"npcs": [
+		{
+			"id": 25622,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 71
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "borean-tundra",
+					"area": "the-geyser-fields"
+				}
+			]
+		},
+		{
+			"id": 139858,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 71
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions",
+					"area": "skittering-hollow"
+				}
+			]
+		}
+	]
+}

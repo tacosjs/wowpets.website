@@ -1,0 +1,17 @@
+{
+	"name": "Orange Mechanowolf",
+	"variant": "Orange",
+	"npcs": {
+		"137743": {
+			"name": "V-300 SENTRY"
+		},
+		"139805": {
+			"name": "Mechanical Guardhound",
+			"title": "Venture Co."
+		},
+		"148330": {
+			"name": "V-1337 SENTRY",
+			"title": "Blinky Gizmospark's Minion"
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"id": "spectralporcupinered",
+	"family": "spiritbeast",
+	"modelGroup": "spiritporcupines",
+	"npcs": [
+		{
+			"id": 69947,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

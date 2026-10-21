@@ -1,0 +1,48 @@
+{
+	"name": "Yellow Bee",
+	"variant": "Yellow",
+	"npcs": {
+		"126973": {
+			"name": "Barbthorn Drone"
+		},
+		"126974": {
+			"name": "Barbthorn Worker"
+		},
+		"130664": {
+			"name": "Goldcoat Stinger"
+		},
+		"131377": {
+			"name": "Hive Guardian"
+		},
+		"134155": {
+			"name": "Enraged Swarmer"
+		},
+		"135769": {
+			"name": "Goldcoat Stinger"
+		},
+		"143510": {
+			"name": "Pollen-Coated Drone"
+		},
+		"154112": {
+			"name": "Harvest Pollinator"
+		},
+		"154113": {
+			"name": "Harvest Swarmer"
+		},
+		"154188": {
+			"name": "Juvenile Harvester"
+		},
+		"155069": {
+			"name": "Honeyback Harvester"
+		},
+		"155558": {
+			"name": "Honeyback Harvester"
+		},
+		"180092": {
+			"name": "Giant Hive Guardian"
+		},
+		"212731": {
+			"name": "Irritated Worker Bee"
+		}
+	}
+}

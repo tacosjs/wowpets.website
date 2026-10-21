@@ -1,0 +1,201 @@
+{
+	"id": "voidterror2",
+	"family": "corehound",
+	"modelGroup": "voidhounds",
+	"npcs": [
+		{
+			"id": 77085,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "waning-crescent"
+				}
+			]
+		},
+		{
+			"id": 11496,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "dire-maul",
+					"area": "prison-of-immolthar"
+				}
+			]
+		},
+		{
+			"id": 22500,
+			"tameable": false,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blades-edge-mountains"
+				}
+			]
+		},
+		{
+			"id": 19980,
+			"tameable": false,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blades-edge-mountains"
+				}
+			]
+		},
+		{
+			"id": 20141,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "netherstorm"
+				}
+			]
+		},
+		{
+			"id": 20866,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-arcatraz"
+				}
+			]
+		},
+		{
+			"id": 22930,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "mana-tombs"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 85304,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "pillars-of-fate"
+				}
+			]
+		},
+		{
+			"id": 25599,
+			"tameable": false,
+			"level": {
+				"min": 31,
+				"max": 31
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "sunwell-plateau"
+				}
+			]
+		},
+		{
+			"id": 52363,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "baradin-hold"
+				}
+			]
+		},
+		{
+			"id": 91009,
+			"tameable": false,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "tanaan-jungle",
+					"area": "throne-of-kiljaeden"
+				}
+			]
+		},
+		{
+			"id": 157337,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blackwing-descent",
+					"area": "den-of-the-devourer"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "phase"
+				}
+			]
+		},
+		{
+			"id": 256605,
+			"tameable": false,
+			"level": {
+				"min": 82,
+				"max": 92
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "the-voidspire-voidstorm"
+				}
+			]
+		}
+	]
+}

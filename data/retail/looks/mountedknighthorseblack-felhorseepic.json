@@ -1,0 +1,18 @@
+{
+	"id": "mountedknighthorseblack-felhorseepic",
+	"family": "courser",
+	"modelGroup": "infernalsaddledhorses",
+	"npcs": [
+		{
+			"id": 16151,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "karazhan",
+					"area": "livery-stables"
+				}
+			]
+		}
+	]
+}

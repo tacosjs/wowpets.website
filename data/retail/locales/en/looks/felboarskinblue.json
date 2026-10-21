@@ -1,0 +1,12 @@
+{
+	"name": "Blue & White Felboar",
+	"variant": "Blue & White",
+	"npcs": {
+		"22180": {
+			"name": "Shard-Hide Boar"
+		},
+		"50948": {
+			"name": "Crystalback"
+		}
+	}
+}

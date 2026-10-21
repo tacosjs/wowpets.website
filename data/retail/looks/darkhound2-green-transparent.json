@@ -1,0 +1,21 @@
+{
+	"id": "darkhound2-green-transparent",
+	"family": "hound",
+	"modelGroup": "granddarkhounds",
+	"npcs": [
+		{
+			"id": 16176,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "karazhan"
+				}
+			]
+		}
+	]
+}

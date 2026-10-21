@@ -1,0 +1,41 @@
+{
+	"id": "spidercrab-blackred",
+	"family": "crab",
+	"modelGroup": "spidercrabs",
+	"npcs": [
+		{
+			"id": 152464,
+			"tameable": true,
+			"level": {
+				"min": 51,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "chitterspine-grotto"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 193152,
+			"tameable": false,
+			"level": {
+				"min": 71,
+				"max": 71
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "dragonbane-keep"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		192129
+	]
+}

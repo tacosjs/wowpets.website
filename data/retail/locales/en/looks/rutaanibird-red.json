@@ -1,0 +1,9 @@
+{
+	"name": "Rainbow Petalwing",
+	"variant": "Rainbow",
+	"npcs": {
+		"248070": {
+			"name": "Perturbed Petalwing"
+		}
+	}
+}

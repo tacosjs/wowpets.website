@@ -1,0 +1,71 @@
+{
+	"id": "decomposermediumwhite-face2",
+	"family": "carapid",
+	"modelGroup": "gorms",
+	"npcs": [
+		{
+			"id": 172312,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "mists-of-tirna-scithe"
+				}
+			]
+		},
+		{
+			"id": 165400,
+			"tameable": true,
+			"level": {
+				"min": 56,
+				"max": 56
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "banks-of-life"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 160074,
+			"tameable": true,
+			"level": {
+				"min": 56,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "dusty-burrows"
+				}
+			]
+		},
+		{
+			"id": 170767,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "dusty-burrows"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		169977,
+		165190
+	]
+}

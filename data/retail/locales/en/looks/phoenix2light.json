@@ -1,0 +1,10 @@
+{
+	"name": "Light-Infused Phoenix",
+	"variant": "Light-Infused Phoenix",
+	"npcs": {
+		"246729": {
+			"name": "Light Ember",
+			"title": "Child of Belo'ren"
+		}
+	}
+}

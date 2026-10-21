@@ -1,0 +1,36 @@
+{
+	"name": "Grey Crocolisk",
+	"variant": "Grey",
+	"npcs": {
+		"1150": {
+			"name": "River Crocolisk"
+		},
+		"1152": {
+			"name": "Snapjaw Crocolisk"
+		},
+		"3110": {
+			"name": "Dreadmaw Crocolisk"
+		},
+		"17144": {
+			"name": "Goretooth"
+		},
+		"17952": {
+			"name": "Darkwater Crocolisk"
+		},
+		"24047": {
+			"name": "Amani Crocolisk"
+		},
+		"28002": {
+			"name": "Mangal Crocolisk"
+		},
+		"28325": {
+			"name": "Ravenous Mangal Crocolisk"
+		},
+		"32435": {
+			"name": "Vern"
+		},
+		"134896": {
+			"name": "Sewer Vicejaw"
+		}
+	}
+}

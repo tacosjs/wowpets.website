@@ -1,0 +1,24 @@
+{
+	"name": "Black Yak",
+	"variant": "Black",
+	"npcs": {
+		"59970": {
+			"name": "Ordo Battleyak"
+		},
+		"66549": {
+			"name": "Wasteland Yak"
+		},
+		"72844": {
+			"name": "Ironfur Great Bull"
+		},
+		"140437": {
+			"name": "Slow Olo"
+		},
+		"140440": {
+			"name": "Bloodfur the Gorer"
+		},
+		"249612": {
+			"name": "Pack Yak"
+		}
+	}
+}

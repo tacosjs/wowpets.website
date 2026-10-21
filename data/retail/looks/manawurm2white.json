@@ -1,0 +1,40 @@
+{
+	"id": "manawurm2white",
+	"family": "serpent",
+	"modelGroup": "manawyrms",
+	"npcs": [
+		{
+			"id": 18883,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "netherstorm"
+				}
+			]
+		},
+		{
+			"id": 16491,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "karazhan",
+					"area": "guardians-library"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		19731,
+		180858
+	]
+}

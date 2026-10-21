@@ -1,0 +1,61 @@
+{
+	"id": "devourersmallgreen",
+	"family": "bloodbeast",
+	"modelGroup": "animites",
+	"npcs": [
+		{
+			"id": 171063,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 165076,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "sanguine-depths"
+				}
+			]
+		},
+		{
+			"id": 171062,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		183515,
+		172516,
+		181110,
+		238398,
+		238473
+	]
+}

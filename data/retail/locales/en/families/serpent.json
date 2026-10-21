@@ -1,0 +1,56 @@
+{
+	"name": "Serpent",
+	"modelGroups": {
+		"venomfangs": {
+			"name": "Venomfangs"
+		},
+		"writhingserpents": {
+			"name": "Writhing Serpents"
+		},
+		"eversongmanawyrms": {
+			"name": "Eversong Mana Wyrms"
+		},
+		"grovecrawlers": {
+			"name": "Grovecrawlers"
+		},
+		"greaterelectriceels": {
+			"name": "Greater Electric Eels"
+		},
+		"electriceels": {
+			"name": "Electric Eels"
+		},
+		"rockcobras": {
+			"name": "Rock Cobras"
+		},
+		"greatmanawyrms": {
+			"name": "Great Mana Wyrms"
+		},
+		"viperids": {
+			"name": "Viperids"
+		},
+		"pythons": {
+			"name": "Pythons"
+		},
+		"groundsnakes": {
+			"name": "Ground Snakes"
+		},
+		"abyssworms": {
+			"name": "Abyss Worms"
+		},
+		"eelserpents": {
+			"name": "Eel-Serpents"
+		},
+		"cobras": {
+			"name": "Giant Cobras"
+		},
+		"manawyrms": {
+			"name": "Mana Wyrms"
+		},
+		"arcanewyrms": {
+			"name": "Arcane Wyrms"
+		},
+		"serpents": {
+			"name": "Classic Serpents"
+		}
+	}
+}

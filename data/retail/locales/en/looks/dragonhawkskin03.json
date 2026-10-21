@@ -1,0 +1,15 @@
+{
+	"name": "Pink & Purple Dragonhawk",
+	"variant": "Pink & Purple",
+	"npcs": {
+		"20039": {
+			"name": "Phoenix-Hawk"
+		},
+		"20502": {
+			"name": "Eclipsion Dragonhawk"
+		},
+		"67676": {
+			"name": "Sunreaver Dragonhawk"
+		}
+	}
+}

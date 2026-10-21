@@ -1,0 +1,54 @@
+{
+	"id": "komododragon-darkgreen",
+	"family": "lizard",
+	"modelGroup": "saurolisks",
+	"npcs": [
+		{
+			"id": 126243,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "deathmist-hills"
+				}
+			]
+		},
+		{
+			"id": 128065,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir"
+				}
+			]
+		},
+		{
+			"id": 129554,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "kazai"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		128072
+	]
+}

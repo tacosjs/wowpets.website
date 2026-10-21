@@ -1,0 +1,59 @@
+{
+	"id": "silkworm",
+	"family": "worm",
+	"modelGroup": "silkworms",
+	"npcs": [
+		{
+			"id": 59756,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-jade-forest",
+					"area": "fox-grove"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 167661,
+			"tameable": false,
+			"level": {
+				"min": 54,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "heart-of-the-forest"
+				}
+			]
+		},
+		{
+			"id": 159388,
+			"tameable": false,
+			"level": {
+				"min": 54,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "gossamer-cliffs"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		66418,
+		65650,
+		246574,
+		57403
+	]
+}

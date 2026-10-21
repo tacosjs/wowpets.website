@@ -1,0 +1,9 @@
+{
+	"name": "Plated Red Water Strider",
+	"variant": "Red",
+	"npcs": {
+		"50859": {
+			"name": "Glimmer"
+		}
+	}
+}

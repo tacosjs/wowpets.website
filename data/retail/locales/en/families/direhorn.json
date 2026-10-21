@@ -1,0 +1,14 @@
+{
+	"name": "Direhorn",
+	"modelGroups": {
+		"chloroceroses": {
+			"name": "Chloroceroses"
+		},
+		"direhorns": {
+			"name": "Direhorns"
+		},
+		"armoreddirehorns": {
+			"name": "Armoured Direhorns"
+		}
+	}
+}

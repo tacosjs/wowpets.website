@@ -1,0 +1,13 @@
+{
+	"name": "Black & Grey Vombata w/ Circular Crest",
+	"variant": "Black & Grey",
+	"npcs": {
+		"183052": {
+			"name": "Dimensional Vombata"
+		},
+		"183722": {
+			"name": "Sorranos",
+			"title": "Vombata Prime"
+		}
+	}
+}

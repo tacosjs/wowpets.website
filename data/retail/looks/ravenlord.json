@@ -1,0 +1,202 @@
+{
+	"id": "ravenlord",
+	"family": "birdofprey",
+	"modelGroup": "dreadravens",
+	"npcs": [
+		{
+			"id": 84500,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "talador",
+					"area": "terokkar-refuge"
+				}
+			]
+		},
+		{
+			"id": 80687,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "talon-altar"
+				}
+			]
+		},
+		{
+			"id": 80589,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "spires-of-arak"
+				}
+			]
+		},
+		{
+			"id": 76253,
+			"tameable": true,
+			"level": {
+				"min": 31,
+				"max": 41
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "skyreach"
+				}
+			]
+		},
+		{
+			"id": 191830,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "wild-coast"
+				}
+			]
+		},
+		{
+			"id": 145059,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 145061,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 81056,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "sulfur-basin"
+				}
+			]
+		},
+		{
+			"id": 84872,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "spires-of-arak"
+				}
+			]
+		},
+		{
+			"id": 79106,
+			"tameable": false,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "darktide-roost"
+				}
+			]
+		},
+		{
+			"id": 79486,
+			"tameable": false,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-draenor",
+					"area": "the-ring-of-trials"
+				}
+			]
+		},
+		{
+			"id": 82670,
+			"tameable": false,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-draenor",
+					"area": "the-ring-of-trials"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 191508,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "scalecracker-keep"
+				}
+			]
+		}
+	]
+}

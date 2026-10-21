@@ -1,0 +1,9 @@
+{
+	"name": "Purple Mirestalker",
+	"variant": "Purple",
+	"npcs": {
+		"243778": {
+			"name": "Torbrul"
+		}
+	}
+}

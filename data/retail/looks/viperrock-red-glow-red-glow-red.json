@@ -1,0 +1,140 @@
+{
+	"id": "viperrock-red-glow-red-glow-red",
+	"family": "serpent",
+	"modelGroup": "rockcobras",
+	"npcs": [
+		{
+			"id": 203328,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "molten-overflow"
+				}
+			]
+		},
+		{
+			"id": 204828,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zaralek-cavern"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 204825,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 202302,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "molten-overflow"
+				}
+			]
+		},
+		{
+			"id": 205238,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "molten-overflow"
+				}
+			]
+		},
+		{
+			"id": 203327,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "molten-overflow"
+				}
+			]
+		},
+		{
+			"id": 204831,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "burning-oasis"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 225895,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "nibelgaz-mine"
+				}
+			]
+		}
+	]
+}

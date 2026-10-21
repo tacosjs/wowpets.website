@@ -1,0 +1,39 @@
+{
+	"id": "deepseacrabbiolucentblue",
+	"family": "crab",
+	"modelGroup": "spikedcrabs",
+	"npcs": [
+		{
+			"id": 69384,
+			"tameable": true,
+			"level": {
+				"min": 32,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-thunder"
+				}
+			]
+		},
+		{
+			"id": 134791,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		93058,
+		154936
+	]
+}

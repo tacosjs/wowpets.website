@@ -1,0 +1,12 @@
+{
+	"name": "Tawny Thorntail",
+	"variant": "Tawny",
+	"npcs": {
+		"230847": {
+			"name": "Flickering Ephemera"
+		},
+		"236816": {
+			"name": "Abdi"
+		}
+	}
+}

@@ -1,0 +1,211 @@
+{
+	"id": "hippogryph2aszuna",
+	"family": "feathermane",
+	"modelGroup": "grandhippogryphs",
+	"npcs": [
+		{
+			"id": 89386,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna"
+				}
+			]
+		},
+		{
+			"id": 99222,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna"
+				}
+			]
+		},
+		{
+			"id": 90480,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna"
+				}
+			]
+		},
+		{
+			"id": 112909,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar"
+				}
+			]
+		},
+		{
+			"id": 103549,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar"
+				}
+			]
+		},
+		{
+			"id": 93469,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valsharah",
+					"area": "lorlathil"
+				}
+			]
+		},
+		{
+			"id": 235022,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "razorwing-shores"
+				}
+			]
+		},
+		{
+			"id": 114718,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "crimson-thicket"
+				}
+			]
+		},
+		{
+			"id": 111675,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "meredil"
+				}
+			]
+		},
+		{
+			"id": 111898,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna",
+					"area": "isle-of-the-watchers"
+				}
+			]
+		},
+		{
+			"id": 102024,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "moon-guard-stronghold"
+				}
+			]
+		},
+		{
+			"id": 101780,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "moon-guard-stronghold"
+				}
+			]
+		},
+		{
+			"id": 102712,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "moon-guard-stronghold"
+				}
+			]
+		},
+		{
+			"id": 102034,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "moon-guard-stronghold"
+				}
+			]
+		}
+	]
+}

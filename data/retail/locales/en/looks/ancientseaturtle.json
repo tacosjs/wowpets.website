@@ -1,0 +1,20 @@
+{
+	"name": "Ancient Sea Turtle",
+	"variant": "Not On Fire",
+	"npcs": {
+		"40341": {
+			"name": "Tortolla"
+		},
+		"52414": {
+			"name": "Tor-Tun",
+			"title": "The Slumberer"
+		},
+		"76954": {
+			"name": "Pahboo-Ra",
+			"title": "Son of Ghamoo-Ra"
+		},
+		"249603": {
+			"name": "Protective Turtle"
+		}
+	}
+}

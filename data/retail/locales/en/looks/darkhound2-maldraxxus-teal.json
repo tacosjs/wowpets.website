@@ -1,0 +1,16 @@
+{
+	"name": "Stitched Teal Darkhound",
+	"variant": "Stitched Teal",
+	"npcs": {
+		"162797": {
+			"name": "Deepscar",
+			"title": "Pit Hound"
+		},
+		"169702": {
+			"name": "Sutured Fleshfeaster"
+		},
+		"175265": {
+			"name": "Grimsoul"
+		}
+	}
+}

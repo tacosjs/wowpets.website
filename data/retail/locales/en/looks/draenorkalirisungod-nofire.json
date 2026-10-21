@@ -1,0 +1,12 @@
+{
+	"name": "Orange Draenor Kaliri",
+	"variant": "Orange",
+	"npcs": {
+		"210595": {
+			"name": "Verdant Dream Raven"
+		},
+		"211372": {
+			"name": "Verdant Dream Raven"
+		}
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"name": "Auburn-Grey Quilen",
+	"variant": "Auburn-Grey",
+	"npcs": {
+		"61455": {
+			"name": "Gurthan Quilen",
+			"title": "Gurthan Scrapper's Minion"
+		},
+		"61945": {
+			"name": "Gurthan Iron Maw"
+		},
+		"70209": {
+			"name": "Untrained Quilen"
+		},
+		"71378": {
+			"name": "Quilen Guardian"
+		},
+		"138968": {
+			"name": "Zian-Ti Ironmaw"
+		},
+		"156046": {
+			"name": "Zan-tien Quilen"
+		},
+		"156324": {
+			"name": "Zan-tien Quilen"
+		},
+		"156708": {
+			"name": "Zan-tien Quilen"
+		}
+	}
+}

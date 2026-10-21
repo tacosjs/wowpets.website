@@ -1,0 +1,15 @@
+{
+	"name": "Firecat",
+	"variant": "Firecat",
+	"npcs": {
+		"206805": {
+			"name": "Invading Flameclaw"
+		},
+		"207084": {
+			"name": "Cinderclaw Stalker"
+		},
+		"207144": {
+			"name": "Wildfire Amberpaw"
+		}
+	}
+}

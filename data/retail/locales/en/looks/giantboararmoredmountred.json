@@ -1,0 +1,9 @@
+{
+	"name": "Armored Black Draenor Boar",
+	"variant": "Black",
+	"npcs": {
+		"79483": {
+			"name": "Porkchop"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"name": "White Grub",
+	"variant": "White Grub",
+	"npcs": {
+		"80728": {
+			"name": "Maggot"
+		},
+		"160912": {
+			"name": "Engorged Maggot"
+		},
+		"161566": {
+			"name": "Giant Marrowgrub"
+		},
+		"161570": {
+			"name": "Marrowgrub Nibbler"
+		},
+		"164997": {
+			"name": "Corpse Pincher"
+		},
+		"262757": {
+			"name": "Burrowing Gnat Larvae"
+		}
+	}
+}

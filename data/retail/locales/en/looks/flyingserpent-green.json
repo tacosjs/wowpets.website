@@ -1,0 +1,36 @@
+{
+	"name": "Green Skyfiend",
+	"variant": "Green",
+	"npcs": {
+		"253764": {
+			"name": "Vilescar Skyfiend"
+		},
+		"253884": {
+			"name": "Winged Skyfang"
+		},
+		"256207": {
+			"name": "Screeching Skyfiend"
+		},
+		"259063": {
+			"name": "Winged Skyfang"
+		},
+		"259275": {
+			"name": "Deathcoil Skyfiend"
+		},
+		"259699": {
+			"name": "Swooping Viper"
+		},
+		"259767": {
+			"name": "Shrieking Skyfiend"
+		},
+		"261396": {
+			"name": "Prowling Skyfiend"
+		},
+		"261693": {
+			"name": "Coiling Windlash"
+		},
+		"263583": {
+			"name": "Blisterfang Skyfiend"
+		}
+	}
+}

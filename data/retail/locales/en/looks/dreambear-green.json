@@ -1,0 +1,54 @@
+{
+	"name": "Brown & Green Dream Bear",
+	"variant": "Brown & Green",
+	"npcs": {
+		"207619": {
+			"name": "Evergreen Bristlebruin"
+		},
+		"207789": {
+			"name": "Agitated Bristlebruin"
+		},
+		"209491": {
+			"name": "Frightened Bristlebruin"
+		},
+		"209614": {
+			"name": "Enraged Bristlebruin"
+		},
+		"209616": {
+			"name": "Rampaging Bristlebruin"
+		},
+		"210045": {
+			"name": "Moragh the Slothful"
+		},
+		"210507": {
+			"name": "Stalwart Bristlebruin"
+		},
+		"210593": {
+			"name": "Verdant Bristlebruin"
+		},
+		"210977": {
+			"name": "Displaced Bristlebruin"
+		},
+		"211374": {
+			"name": "Verdant Bristlebruin"
+		},
+		"211902": {
+			"name": "Thicket Bristlebruin"
+		},
+		"212041": {
+			"name": "Elusive Bristlebruin"
+		},
+		"212070": {
+			"name": "Elusive Bramblehide Bristlebruin"
+		},
+		"212090": {
+			"name": "Elusive Blooming Brierhide"
+		},
+		"213539": {
+			"name": "Dreambellow Bristlebruin"
+		},
+		"216697": {
+			"name": "Efflorescent Bristlebruin"
+		}
+	}
+}

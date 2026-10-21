@@ -1,0 +1,12 @@
+{
+	"name": "Yellow & Black Felboar",
+	"variant": "Yellow & Black",
+	"npcs": {
+		"8303": {
+			"name": "Grunter"
+		},
+		"21195": {
+			"name": "Domesticated Felboar"
+		}
+	}
+}

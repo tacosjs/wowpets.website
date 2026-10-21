@@ -1,0 +1,15 @@
+{
+	"name": "Onyx & Topaz Crab w/ Bolts",
+	"variant": "Onyx & Topaz w/ Bolts",
+	"npcs": {
+		"152319": {
+			"name": "Steelplated Hardshell"
+		},
+		"153992": {
+			"name": "Steelplated Hardshell"
+		},
+		"155583": {
+			"name": "Scrapclaw"
+		}
+	}
+}

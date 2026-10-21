@@ -1,0 +1,26 @@
+{
+	"id": "nerubianspiderling2-black-mouth0",
+	"family": "spider",
+	"modelGroup": "threadlings",
+	"npcs": [
+		{
+			"id": 219662,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dalaran"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "phase"
+				}
+			]
+		}
+	]
+}

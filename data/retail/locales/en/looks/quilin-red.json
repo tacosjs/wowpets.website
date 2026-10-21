@@ -1,0 +1,30 @@
+{
+	"name": "Red Quilen",
+	"variant": "Red",
+	"npcs": {
+		"59773": {
+			"name": "Terracotta Guardian"
+		},
+		"60294": {
+			"name": "Gasaran"
+		},
+		"61306": {
+			"name": "Yao"
+		},
+		"61387": {
+			"name": "Quilen Guardian"
+		},
+		"67574": {
+			"name": "Korune Guardian"
+		},
+		"70206": {
+			"name": "Untrained Quilen"
+		},
+		"71491": {
+			"name": "Guardian of Sacrifice"
+		},
+		"139430": {
+			"name": "Zaliz' Eternal Hound"
+		}
+	}
+}

@@ -1,0 +1,57 @@
+{
+	"id": "bloodtick",
+	"family": "bloodbeast",
+	"modelGroup": "bloodticks",
+	"npcs": [
+		{
+			"id": 128699,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "blood-gate"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 239940,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "stareater-pavilion"
+				}
+			]
+		},
+		{
+			"id": 258627,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "stareater-pavilion"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		138727,
+		257466
+	]
+}

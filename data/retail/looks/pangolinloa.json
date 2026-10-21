@@ -1,0 +1,18 @@
+{
+	"id": "pangolinloa",
+	"family": "spiritbeast",
+	"modelGroup": "spiritpangos",
+	"npcs": [
+		{
+			"id": 237956,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "shrine-of-kulzi"
+				}
+			]
+		}
+	]
+}

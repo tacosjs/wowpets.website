@@ -1,0 +1,79 @@
+{
+	"id": "mechanical",
+	"wowId": 154,
+	"icon": "ability_mount_mechastrider",
+	"spec": "cunning",
+	"exotic": false,
+	"requiredSkill": "mechanical",
+	"diet": [
+		"mechanical-bits"
+	],
+	"abilities": {
+		"basic": "bite",
+		"family": [
+			"defense-matrix"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "mechanicaldevilsaurs"
+		},
+		{
+			"id": "aquilons"
+		},
+		{
+			"id": "phalynxes"
+		},
+		{
+			"id": "mechanotigers"
+		},
+		{
+			"id": "updatedrocketchickens"
+		},
+		{
+			"id": "updatedrobotchickens"
+		},
+		{
+			"id": "updatedrobotgorillas"
+		},
+		{
+			"id": "mechanospiders"
+		},
+		{
+			"id": "mechanowolves"
+		},
+		{
+			"id": "mechanoaxebeaks"
+		},
+		{
+			"id": "robotrabbits"
+		},
+		{
+			"id": "robotsquirrels"
+		},
+		{
+			"id": "robotsheep"
+		},
+		{
+			"id": "ironscorpionmounts"
+		},
+		{
+			"id": "ironscorpionbosses"
+		},
+		{
+			"id": "mechanostriders"
+		},
+		{
+			"id": "robotprairiedogs"
+		},
+		{
+			"id": "robotgorillas"
+		},
+		{
+			"id": "robotchickens"
+		},
+		{
+			"id": "rocketchickens"
+		}
+	]
+}

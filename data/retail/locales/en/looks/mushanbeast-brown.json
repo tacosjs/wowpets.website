@@ -1,0 +1,45 @@
+{
+	"name": "Tan Mushan",
+	"variant": "Tan",
+	"npcs": {
+		"56239": {
+			"name": "Adolescent Mushan"
+		},
+		"58424": {
+			"name": "Dustback Mushan"
+		},
+		"58427": {
+			"name": "Young Dustback Mushan"
+		},
+		"58921": {
+			"name": "Thunder"
+		},
+		"58923": {
+			"name": "Little Ben"
+		},
+		"59013": {
+			"name": "Pack Mushan"
+		},
+		"59295": {
+			"name": "Lost Mushan"
+		},
+		"59670": {
+			"name": "Highlands Mushan"
+		},
+		"59671": {
+			"name": "Highlands Calf"
+		},
+		"59857": {
+			"name": "Miss Fanny"
+		},
+		"62029": {
+			"name": "Greatback Mushan"
+		},
+		"156302": {
+			"name": "Highlands Mushan"
+		},
+		"156303": {
+			"name": "Highlands Calf"
+		}
+	}
+}

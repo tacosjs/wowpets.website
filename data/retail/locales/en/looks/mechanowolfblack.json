@@ -1,0 +1,27 @@
+{
+	"name": "Black Mechanowolf",
+	"variant": "Black",
+	"npcs": {
+		"107951": {
+			"name": "Treble"
+		},
+		"148417": {
+			"name": "Remote-Controlled Mechawolf"
+		},
+		"149839": {
+			"name": "Mechanized Scraphound"
+		},
+		"151301": {
+			"name": "Malfunctioning Scraphound"
+		},
+		"151709": {
+			"name": "Energized Scrap Pup"
+		},
+		"151740": {
+			"name": "Malfunctioning Scrap Pup"
+		},
+		"153465": {
+			"name": "Abducted Scraphound"
+		}
+	}
+}

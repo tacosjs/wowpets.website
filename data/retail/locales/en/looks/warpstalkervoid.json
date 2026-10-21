@@ -1,0 +1,38 @@
+{
+	"name": "Void Warp Stalker",
+	"variant": "Void Blue",
+	"npcs": {
+		"119747": {
+			"name": "Voidstalker"
+		},
+		"121629": {
+			"name": "Enthralled Voidstalker"
+		},
+		"121673": {
+			"name": "Voidgorged Stalker"
+		},
+		"122407": {
+			"name": "Warp Stalker"
+		},
+		"126604": {
+			"name": "Curious Voidstalker"
+		},
+		"126885": {
+			"name": "Umbraliss",
+			"title": "Voidstalker Matriarch"
+		},
+		"132400": {
+			"name": "Curious Voidstalker"
+		},
+		"132676": {
+			"name": "Voidstalker",
+			"title": "Umbral Ranger's Pet"
+		},
+		"160341": {
+			"name": "Sewer Beastling"
+		},
+		"254193": {
+			"name": "Summoned Voidstalker"
+		}
+	}
+}

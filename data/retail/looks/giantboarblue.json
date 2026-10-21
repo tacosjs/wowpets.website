@@ -1,0 +1,96 @@
+{
+	"id": "giantboarblue",
+	"family": "boar",
+	"modelGroup": "draenorboars",
+	"npcs": [
+		{
+			"id": 100846,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "azsuna"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 257880,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "spiritpaw-backwoods"
+				}
+			]
+		},
+		{
+			"id": 248500,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "spiritpaw-borough"
+				}
+			]
+		},
+		{
+			"id": 257881,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "spiritpaw-backwoods"
+				}
+			]
+		},
+		{
+			"id": 250116,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman"
+				}
+			]
+		},
+		{
+			"id": 258069,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "shrine-of-filo"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"id": "shadowstalkerpanther-bluepink",
+	"family": "cat",
+	"modelGroup": "panthara",
+	"npcs": [
+		{
+			"id": 126419,
+			"tameable": true,
+			"level": {
+				"min": 47,
+				"max": 47
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "krokuun",
+					"area": "grove-of-naroua"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 126898,
+			"tameable": true,
+			"level": {
+				"min": 47,
+				"max": 47
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "eredath"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 245429,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "tazavesh-karesh"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		127286
+	]
+}

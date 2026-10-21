@@ -1,0 +1,9 @@
+{
+	"name": "White Basilisk w/Purple Fringes",
+	"variant": "White w/Purple",
+	"npcs": {
+		"42543": {
+			"name": "Crystal Gorged Basilisk"
+		}
+	}
+}

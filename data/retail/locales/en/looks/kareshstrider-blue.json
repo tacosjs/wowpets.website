@@ -1,0 +1,21 @@
+{
+	"name": "Blue & Yellow Lapbug",
+	"variant": "Blue & Yellow Lapbug",
+	"npcs": {
+		"230466": {
+			"name": "Lapbug Skitterer"
+		},
+		"232285": {
+			"name": "Lapbug Skitterer"
+		},
+		"238025": {
+			"name": "Lapbug Skitterer"
+		},
+		"238172": {
+			"name": "Sir Cuteington"
+		},
+		"239835": {
+			"name": "Enraged Lapbug Shade"
+		}
+	}
+}

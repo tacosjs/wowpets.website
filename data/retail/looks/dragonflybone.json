@@ -1,0 +1,118 @@
+{
+	"id": "dragonflybone",
+	"family": "wasp",
+	"modelGroup": "hookwasps",
+	"npcs": [
+		{
+			"id": 84909,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "east-of-murkbog"
+				}
+			]
+		},
+		{
+			"id": 84912,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "spires-of-arak"
+				}
+			],
+			"keepsName": true,
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 85532,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak"
+				}
+			]
+		},
+		{
+			"id": 84865,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak"
+				}
+			]
+		},
+		{
+			"id": 84866,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak"
+				}
+			]
+		},
+		{
+			"id": 126369,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "deathmist-hills"
+				}
+			]
+		},
+		{
+			"id": 87540,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

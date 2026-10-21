@@ -1,0 +1,92 @@
+{
+	"id": "serpantskinwhite",
+	"family": "serpent",
+	"modelGroup": "serpents",
+	"npcs": [
+		{
+			"id": 5762,
+			"tameable": true,
+			"level": {
+				"min": 9,
+				"max": 31
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "wailing-caverns"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 7268,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zulfarrak"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 19784,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-outland"
+				}
+			]
+		},
+		{
+			"id": 29768,
+			"tameable": false,
+			"level": {
+				"min": 21,
+				"max": 31
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "gundrak"
+				}
+			]
+		},
+		{
+			"id": 24242,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zulaman"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

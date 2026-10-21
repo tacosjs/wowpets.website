@@ -1,0 +1,9 @@
+{
+	"name": "Collared Turquoise Warp Stalker",
+	"variant": "Collared Turquoise",
+	"npcs": {
+		"246051": {
+			"name": "Alloyed Voidcrawler"
+		}
+	}
+}

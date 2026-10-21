@@ -1,0 +1,21 @@
+{
+	"name": "Orange Hornswog",
+	"variant": "Orange",
+	"npcs": {
+		"191608": {
+			"name": "The Great Swog"
+		},
+		"193521": {
+			"name": "Shy Croaklet"
+		},
+		"193539": {
+			"name": "Shy Croaker"
+		},
+		"200275": {
+			"name": "Invasive Hornswog"
+		},
+		"201186": {
+			"name": "Shimmermaw Jr."
+		}
+	}
+}

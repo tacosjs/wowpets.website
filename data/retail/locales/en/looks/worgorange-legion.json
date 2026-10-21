@@ -1,0 +1,9 @@
+{
+	"name": "Tan Dire Worg",
+	"variant": "Tan",
+	"npcs": {
+		"111206": {
+			"name": "Saberfang Worg"
+		}
+	}
+}

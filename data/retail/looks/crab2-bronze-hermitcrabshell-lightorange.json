@@ -1,0 +1,39 @@
+{
+	"id": "crab2-bronze-hermitcrabshell-lightorange",
+	"family": "crab",
+	"modelGroup": "hermitcrabs",
+	"npcs": [
+		{
+			"id": 251462,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "isle-of-queldanas-eversong-woods"
+				}
+			]
+		},
+		{
+			"id": 250061,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		224799
+	]
+}

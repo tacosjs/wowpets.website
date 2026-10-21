@@ -1,0 +1,59 @@
+{
+	"name": "Feathermane",
+	"modelGroups": {
+		"grandwindriders": {
+			"name": "Wind Riders"
+		},
+		"cloudrooks": {
+			"name": "Cloudrooks"
+		},
+		"umbraclaws": {
+			"name": "Umbraclaws"
+		},
+		"slyverns": {
+			"name": "Slyverns"
+		},
+		"owlsteeds": {
+			"name": "Owl Steeds"
+		},
+		"larions": {
+			"name": "Larions"
+		},
+		"grandhippogryphs": {
+			"name": "Hippogryphs"
+		},
+		"hippogryphs": {
+			"name": "Classic Hippogryphs"
+		},
+		"owlcats": {
+			"name": "Owlcats"
+		},
+		"wolfhawks": {
+			"name": "Wolfhawks"
+		},
+		"gryphons": {
+			"name": "Classic Gryphons"
+		},
+		"grandgryphons": {
+			"name": "Gryphons"
+		},
+		"windriders": {
+			"name": "Classic Wind Riders"
+		},
+		"wildhammergryphons": {
+			"name": "Wildhammer Gryphons"
+		},
+		"razorwings": {
+			"name": "Razorwings"
+		},
+		"skeletalgryphons": {
+			"name": "Skeletal Gryphons"
+		},
+		"saddledskeletalgryphons": {
+			"name": "Saddled Skeletal Gryphons"
+		},
+		"spectralwindriders": {
+			"name": "Spectral Wind Riders"
+		}
+	}
+}

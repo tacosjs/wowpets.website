@@ -1,0 +1,198 @@
+{
+	"id": "turtleprimal-brown",
+	"family": "turtle",
+	"modelGroup": "smoothdragonturtles",
+	"npcs": [
+		{
+			"id": 192637,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		},
+		{
+			"id": 197864,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "misty-canyon"
+				}
+			]
+		},
+		{
+			"id": 192775,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		},
+		{
+			"id": 196286,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "veiled-ossuary"
+				}
+			]
+		},
+		{
+			"id": 196063,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "the-storm-scar"
+				}
+			]
+		},
+		{
+			"id": 197041,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "ruszathar-reach"
+				}
+			]
+		},
+		{
+			"id": 214214,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "amirdrassil-dragon-isles-zone"
+				}
+			]
+		},
+		{
+			"id": 250163,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman"
+				}
+			]
+		},
+		{
+			"id": 260368,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "gnarldor-isle"
+				}
+			]
+		},
+		{
+			"id": 235442,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "razorwing-shores"
+				}
+			]
+		},
+		{
+			"id": 267548,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gnarldor-isle"
+				}
+			]
+		},
+		{
+			"id": 263823,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gnarldor-isle"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		191404,
+		194045,
+		191329,
+		210195,
+		210782,
+		210783,
+		210449,
+		210410,
+		262977,
+		197403,
+		269750
+	]
+}

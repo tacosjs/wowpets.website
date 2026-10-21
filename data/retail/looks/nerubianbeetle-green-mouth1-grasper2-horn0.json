@@ -1,0 +1,126 @@
+{
+	"id": "nerubianbeetle-green-mouth1-grasper2-horn0",
+	"family": "beetle",
+	"modelGroup": "stagshells",
+	"npcs": [
+		{
+			"id": 225865,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet"
+				}
+			]
+		},
+		{
+			"id": 225698,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet"
+				}
+			]
+		},
+		{
+			"id": 216340,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "city-of-echoes",
+					"area": "echoing-overlook"
+				}
+			]
+		},
+		{
+			"id": 215991,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "eastern-span"
+				}
+			]
+		},
+		{
+			"id": 216537,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn"
+				},
+				{
+					"zone": "the-ringing-deeps"
+				},
+				{
+					"zone": "hallowfall"
+				},
+				{
+					"zone": "azj-kahet"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 216205,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nerub-ar-palace"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 220409,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "city-of-threads"
+				}
+			]
+		}
+	]
+}

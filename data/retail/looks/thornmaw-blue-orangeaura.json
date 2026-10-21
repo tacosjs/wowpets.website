@@ -1,0 +1,22 @@
+{
+	"id": "thornmaw-blue-orangeaura",
+	"family": "scalehide",
+	"modelGroup": "thornmaws",
+	"npcs": [
+		{
+			"id": 255847,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "shrouded-grove"
+				}
+			]
+		}
+	]
+}

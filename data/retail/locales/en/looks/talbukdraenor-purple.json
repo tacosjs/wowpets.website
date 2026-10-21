@@ -1,0 +1,27 @@
+{
+	"name": "Purple Draenor Talbuk",
+	"variant": "Purple",
+	"npcs": {
+		"76442": {
+			"name": "Maa'run"
+		},
+		"78275": {
+			"name": "Silverpelt Doe"
+		},
+		"78957": {
+			"name": "Sparkle"
+		},
+		"78958": {
+			"name": "Baby Talbuk"
+		},
+		"82031": {
+			"name": "Pearlfur Grazer"
+		},
+		"85205": {
+			"name": "Saal'ti"
+		},
+		"86801": {
+			"name": "Young Silverpelt"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Grey Lynx",
+	"variant": "Grey Lynx",
+	"npcs": {
+		"225948": {
+			"name": "Caesper"
+		},
+		"227335": {
+			"name": "Emery"
+		}
+	}
+}

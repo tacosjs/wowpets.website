@@ -1,0 +1,110 @@
+{
+	"id": "basilisk2-felslate",
+	"family": "basilisk",
+	"modelGroup": "spinybasilisks",
+	"npcs": [
+		{
+			"id": 118252,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "broken-shore",
+					"area": "darkstone-isle"
+				}
+			]
+		},
+		{
+			"id": 104895,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-broken-isles"
+				}
+			]
+		},
+		{
+			"id": 119139,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "broken-shore",
+					"area": "cinder-run"
+				}
+			]
+		},
+		{
+			"id": 120968,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "broken-shore",
+					"area": "cinder-run"
+				}
+			]
+		},
+		{
+			"id": 118993,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 47
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "broken-shore",
+					"area": "jagged-cove"
+				}
+			]
+		},
+		{
+			"id": 126197,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "antoran-wastes"
+				}
+			]
+		},
+		{
+			"id": 101868,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "felsoul-hold"
+				}
+			]
+		}
+	]
+}

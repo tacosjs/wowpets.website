@@ -1,0 +1,30 @@
+{
+	"name": "Black Death Roc",
+	"variant": "Black",
+	"npcs": {
+		"162237": {
+			"name": "Plagueroc"
+		},
+		"168036": {
+			"name": "Marrowjaw"
+		},
+		"168153": {
+			"name": "Plagueroc"
+		},
+		"168310": {
+			"name": "Plagueroc"
+		},
+		"168314": {
+			"name": "Plagueroc"
+		},
+		"168315": {
+			"name": "Plagueroc"
+		},
+		"168965": {
+			"name": "Plagueroc"
+		},
+		"170781": {
+			"name": "Wretched Deathroc"
+		}
+	}
+}

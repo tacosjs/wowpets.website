@@ -1,0 +1,15 @@
+{
+	"name": "Stormy Dark Grey Saber Worg",
+	"variant": "Stormy Dark Grey",
+	"npcs": {
+		"58456": {
+			"name": "Thundermaw"
+		},
+		"58768": {
+			"name": "Cracklefang"
+		},
+		"156778": {
+			"name": "Thundermaw"
+		}
+	}
+}

@@ -1,0 +1,37 @@
+{
+	"id": "maldraxxusboar-green",
+	"family": "boar",
+	"modelGroup": "skullboars",
+	"npcs": [
+		{
+			"id": 166930,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "the-temple-of-courage"
+				}
+			]
+		},
+		{
+			"id": 168192,
+			"tameable": true,
+			"level": {
+				"min": 54,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "valley-of-a-thousand-legs"
+				}
+			]
+		}
+	]
+}

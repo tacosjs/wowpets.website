@@ -1,0 +1,40 @@
+{
+	"id": "clefthoof",
+	"wowId": 43,
+	"icon": "inv_clefthoofdraenormount_blue",
+	"spec": "ferocity",
+	"exotic": true,
+	"diet": [
+		"bread",
+		"cheese",
+		"fruit",
+		"fungus"
+	],
+	"abilities": {
+		"basic": "smack",
+		"family": [
+			"thick-hide",
+			"blood-of-the-rhino"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "rhinos"
+		},
+		{
+			"id": "draenorclefthooves"
+		},
+		{
+			"id": "draenorsaddledclefthooves"
+		},
+		{
+			"id": "ironhordeclefthooves"
+		},
+		{
+			"id": "woollyrhinos"
+		},
+		{
+			"id": "clefthooves"
+		}
+	]
+}

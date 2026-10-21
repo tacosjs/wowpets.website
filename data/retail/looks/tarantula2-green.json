@@ -1,0 +1,278 @@
+{
+	"id": "tarantula2-green",
+	"family": "spider",
+	"modelGroup": "grandtarantulas",
+	"npcs": [
+		{
+			"id": 2001,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "teldrassil"
+				}
+			]
+		},
+		{
+			"id": 1994,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "teldrassil"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 1998,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "teldrassil"
+				}
+			]
+		},
+		{
+			"id": 2000,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "teldrassil"
+				}
+			]
+		},
+		{
+			"id": 1986,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "teldrassil"
+				}
+			]
+		},
+		{
+			"id": 1999,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "teldrassil"
+				}
+			]
+		},
+		{
+			"id": 3820,
+			"tameable": true,
+			"level": {
+				"min": 7,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ashenvale"
+				}
+			]
+		},
+		{
+			"id": 4007,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stonetalon-mountains"
+				}
+			]
+		},
+		{
+			"id": 50770,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "arathi-highlands",
+					"area": "thoradins-wall"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 2350,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hillsbrad-foothills"
+				},
+				{
+					"zone": "old-hillsbrad-foothills"
+				}
+			]
+		},
+		{
+			"id": 48248,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "swamp-of-sorrows"
+				}
+			]
+		},
+		{
+			"id": 1822,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "western-plaguelands"
+				}
+			]
+		},
+		{
+			"id": 168850,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "the-banewood"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 156636,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "the-banewood"
+				}
+			]
+		},
+		{
+			"id": 142438,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "arathi-highlands"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 186702,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "kargpaws-den"
+				}
+			]
+		},
+		{
+			"id": 134946,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 134948,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		196426,
+		197408
+	]
+}

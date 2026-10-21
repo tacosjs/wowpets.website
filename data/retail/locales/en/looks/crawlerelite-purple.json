@@ -1,0 +1,15 @@
+{
+	"name": "Purple Dire Ravager",
+	"variant": "Purple",
+	"npcs": {
+		"19349": {
+			"name": "Thornfang Ravager"
+		},
+		"50727": {
+			"name": "Strix the Barbed"
+		},
+		"50728": {
+			"name": "Deathstrike"
+		}
+	}
+}

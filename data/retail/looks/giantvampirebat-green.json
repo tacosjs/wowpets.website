@@ -1,0 +1,111 @@
+{
+	"id": "giantvampirebat-green",
+	"family": "bat",
+	"modelGroup": "dredbats",
+	"npcs": [
+		{
+			"id": 168679,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 57
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "pridefall-hamlet-decimated-crossroad"
+				}
+			]
+		},
+		{
+			"id": 168722,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 57
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "pridefall-hamlet-decimated-crossroad"
+				}
+			]
+		},
+		{
+			"id": 156395,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 58
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "grove-of-terror-the-banewood"
+				}
+			]
+		},
+		{
+			"id": 156077,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 59
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "various-locations"
+				}
+			]
+		},
+		{
+			"id": 161206,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "chalice-district"
+				}
+			]
+		},
+		{
+			"id": 159178,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "dominance-keep"
+				}
+			]
+		},
+		{
+			"id": 168591,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "sanguine-depths"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"id": "waterstriderwhite",
+	"family": "waterstrider",
+	"modelGroup": "waterstriders",
+	"npcs": [
+		{
+			"id": 66882,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "townlong-steppes"
+				}
+			]
+		},
+		{
+			"id": 112331,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar"
+				}
+			]
+		},
+		{
+			"id": 232728,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "the-oasis"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		250167,
+		256368,
+		237694
+	]
+}

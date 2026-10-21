@@ -1,0 +1,21 @@
+{
+	"name": "Grey Doe",
+	"variant": "Grey",
+	"npcs": {
+		"112827": {
+			"name": "Shieldscar Doe"
+		},
+		"127611": {
+			"name": "Redwood Guardian"
+		},
+		"140262": {
+			"name": "Runehoof Doe"
+		},
+		"149134": {
+			"name": "Trapped Doe"
+		},
+		"197652": {
+			"name": "Grey Tailed Doe"
+		}
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"id": "protoram-grey-horn0-bristle1",
+	"family": "gruffhorn",
+	"modelGroup": "ramoliths",
+	"npcs": [
+		{
+			"id": 221526,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn"
+				}
+			]
+		},
+		{
+			"id": 225040,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn"
+				}
+			]
+		},
+		{
+			"id": 221642,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		227756
+	]
+}

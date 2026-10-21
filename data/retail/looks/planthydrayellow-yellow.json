@@ -1,0 +1,28 @@
+{
+	"id": "planthydrayellow-yellow",
+	"family": "hydra",
+	"modelGroup": "mandragoras",
+	"npcs": [
+		{
+			"id": 140050,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "cracked-coast"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		85760,
+		256234,
+		248577,
+		250324
+	]
+}

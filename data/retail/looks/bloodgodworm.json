@@ -1,0 +1,27 @@
+{
+	"id": "bloodgodworm",
+	"family": "worm",
+	"modelGroup": "bloodworms",
+	"npcs": [
+		{
+			"id": 136461,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "uldir",
+					"area": "the-festering-core"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

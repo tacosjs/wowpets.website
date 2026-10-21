@@ -1,0 +1,26 @@
+{
+	"id": "silithidscarabskinblack",
+	"family": "beetle",
+	"modelGroup": "beetles",
+	"npcs": [
+		{
+			"id": 16698,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "naxxramas"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

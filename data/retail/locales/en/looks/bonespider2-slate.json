@@ -1,0 +1,63 @@
+{
+	"name": "Green-Grey Bone Spider",
+	"variant": "Green-Grey",
+	"npcs": {
+		"28921": {
+			"name": "Hadronox"
+		},
+		"44906": {
+			"name": "Skitterweb Matriarch"
+		},
+		"46507": {
+			"name": "Darkwood Broodmother"
+		},
+		"48268": {
+			"name": "Battle Creeper"
+		},
+		"58475": {
+			"name": "Ashweb Piercer"
+		},
+		"61981": {
+			"name": "Dreadspinner Tender"
+		},
+		"62000": {
+			"name": "Dreadspinner"
+		},
+		"65622": {
+			"name": "Weeping Widow"
+		},
+		"65653": {
+			"name": "Weeping Widow"
+		},
+		"74584": {
+			"name": "Plague-Rotted Webslinger"
+		},
+		"112370": {
+			"name": "Ruins Recluse"
+		},
+		"132319": {
+			"name": "Bilefang Mother"
+		},
+		"134904": {
+			"name": "Nightlurker"
+		},
+		"189822": {
+			"name": "Shas'ith"
+		},
+		"189825": {
+			"name": "Ravenous Nestling"
+		},
+		"203342": {
+			"name": "Calcifying Crawler"
+		},
+		"203343": {
+			"name": "Bone Collector"
+		},
+		"203348": {
+			"name": "Osseous Broodmother"
+		},
+		"204435": {
+			"name": "Sneaky Darkfang"
+		}
+	}
+}

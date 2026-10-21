@@ -1,0 +1,18 @@
+{
+	"id": "trigoreboss",
+	"family": "hydra",
+	"modelGroup": "trigores",
+	"npcs": [
+		{
+			"id": 238015,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "the-gorging-pit"
+				}
+			]
+		}
+	]
+}

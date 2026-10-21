@@ -1,0 +1,30 @@
+{
+	"name": "Blue & White Dreamrunner w/ Blue Aura",
+	"variant": "Blue & White w/ Blue Aura",
+	"npcs": {
+		"89384": {
+			"name": "Wild Manarunner"
+		},
+		"104815": {
+			"name": "Jojo the Palestrider"
+		},
+		"112533": {
+			"name": "Ethereal Sunrunner"
+		},
+		"112636": {
+			"name": "Sinister Leyrunner"
+		},
+		"117206": {
+			"name": "Strange Horse"
+		},
+		"130350": {
+			"name": "Guardian of the Spring"
+		},
+		"140756": {
+			"name": "Guardian of the Spring"
+		},
+		"157973": {
+			"name": "Cloudrift Runner"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Red Diemetradon",
+	"variant": "Red",
+	"npcs": {
+		"9318": {
+			"name": "Incendosaur"
+		},
+		"126637": {
+			"name": "Kandak"
+		}
+	}
+}

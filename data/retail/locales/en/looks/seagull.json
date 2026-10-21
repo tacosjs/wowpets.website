@@ -1,0 +1,63 @@
+{
+	"name": "Seagull",
+	"variant": "Seagull",
+	"npcs": {
+		"47680": {
+			"name": "Rustberg Gull"
+		},
+		"48155": {
+			"name": "Saltspray Gull"
+		},
+		"56751": {
+			"name": "Emperor Tern"
+		},
+		"66451": {
+			"name": "Gilded Tern"
+		},
+		"70172": {
+			"name": "Shrimp Stuffed Seagull"
+		},
+		"73531": {
+			"name": "Highwind Albatross"
+		},
+		"91787": {
+			"name": "Cove Seagull"
+		},
+		"92912": {
+			"name": "Swoopfisher Gull"
+		},
+		"97809": {
+			"name": "Coastal Seagull"
+		},
+		"102741": {
+			"name": "Highcliff Gull"
+		},
+		"111404": {
+			"name": "Salty Seagull"
+		},
+		"111570": {
+			"name": "Cove Gull"
+		},
+		"111643": {
+			"name": "Cove Seagull"
+		},
+		"118275": {
+			"name": "Isle Seagull"
+		},
+		"123210": {
+			"name": "Seabreeze Gull"
+		},
+		"124996": {
+			"name": "Alabaster Gull"
+		},
+		"125500": {
+			"name": "Alabaster Gull"
+		},
+		"141877": {
+			"name": "Shallows Seagull"
+		},
+		"250149": {
+			"name": "Sea Gull"
+		}
+	}
+}

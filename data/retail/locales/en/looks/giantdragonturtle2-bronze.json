@@ -1,0 +1,15 @@
+{
+	"name": "Gold & Brown Stone Turtle",
+	"variant": "Gold & Brown",
+	"npcs": {
+		"163556": {
+			"name": "Lumbering Crystalback"
+		},
+		"170005": {
+			"name": "Glimmerpool Crystalback"
+		},
+		"210508": {
+			"name": "Voracious Mikanji"
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"id": "windserpent3mount-pink",
+	"family": "windserpent",
+	"modelGroup": "harnessedskyfangs",
+	"npcs": [
+		{
+			"id": 257864,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "blistering-terrace"
+				}
+			]
+		}
+	]
+}

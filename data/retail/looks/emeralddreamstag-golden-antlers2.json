@@ -1,0 +1,79 @@
+{
+	"id": "emeralddreamstag-golden-antlers2",
+	"family": "stag",
+	"modelGroup": "dreamstags",
+	"npcs": [
+		{
+			"id": 208231,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "ancient-bough"
+				}
+			]
+		},
+		{
+			"id": 212061,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 210774,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "singing-fen-meandering-rootlands"
+				}
+			]
+		},
+		{
+			"id": 210284,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "shallow-crossing"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		211990,
+		216699,
+		211767,
+		211347,
+		209492,
+		210976
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"id": "hydraskinwhite-ghost",
+	"family": "hydra",
+	"modelGroup": "hydras",
+	"npcs": [
+		{
+			"id": 29033,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "sholazar-basin",
+					"area": "bittertide-lake"
+				}
+			],
+			"keepsName": true,
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

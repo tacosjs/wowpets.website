@@ -1,0 +1,87 @@
+{
+	"id": "rocketchicken2-mechanicalchicken-classic",
+	"family": "mechanical",
+	"modelGroup": "updatedrocketchickens",
+	"npcs": [
+		{
+			"id": 151159,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mechagon"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 38224,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 20
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-lost-isles"
+				}
+			]
+		},
+		{
+			"id": 252358,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "razorwind-shores"
+				},
+				{
+					"zone": "founders-point"
+				}
+			]
+		},
+		{
+			"id": 151296,
+			"tameable": false,
+			"level": {
+				"min": 52,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "mechagon"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 227213,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "opportunity-point"
+				}
+			]
+		}
+	]
+}

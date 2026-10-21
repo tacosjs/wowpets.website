@@ -1,0 +1,22 @@
+{
+	"id": "skeletalraptorpet",
+	"family": "raptor",
+	"modelGroup": "skeletalraptors",
+	"npcs": [
+		{
+			"id": 126117,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "terrace-of-sorrows"
+				}
+			]
+		}
+	]
+}

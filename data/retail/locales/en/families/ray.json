@@ -1,0 +1,23 @@
+{
+	"name": "Ray",
+	"modelGroups": {
+		"cosmicrays": {
+			"name": "Cosmic Rays"
+		},
+		"shalewings": {
+			"name": "Shalewings"
+		},
+		"fathomrays": {
+			"name": "Fathom Rays"
+		},
+		"manarays": {
+			"name": "Mana Rays"
+		},
+		"netherrays": {
+			"name": "Nether Rays"
+		},
+		"mantacorns": {
+			"name": "Mantacorns"
+		}
+	}
+}

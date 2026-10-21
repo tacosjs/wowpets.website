@@ -1,0 +1,15 @@
+{
+	"name": "Green Serpent Hydra",
+	"variant": "Green",
+	"npcs": {
+		"254288": {
+			"name": "Vilescar Tyrant"
+		},
+		"261943": {
+			"name": "Shredscale Hydra"
+		},
+		"265335": {
+			"name": "Ssak'mozek"
+		}
+	}
+}

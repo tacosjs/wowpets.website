@@ -1,0 +1,20 @@
+{
+	"name": "Gruffhorns",
+	"modelGroups": {
+		"mosswools": {
+			"name": "Mosswools"
+		},
+		"ramoliths": {
+			"name": "Ramoliths"
+		},
+		"argalis": {
+			"name": "Argalis"
+		},
+		"greaterrams": {
+			"name": "Rams"
+		},
+		"goats": {
+			"name": "Goats"
+		}
+	}
+}

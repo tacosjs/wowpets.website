@@ -1,0 +1,27 @@
+{
+	"name": "Black Crane",
+	"variant": "Black",
+	"npcs": {
+		"58885": {
+			"name": "Sha-Haunted Crane"
+		},
+		"59665": {
+			"name": "Crested Bandit Crane"
+		},
+		"59763": {
+			"name": "Great Crane"
+		},
+		"63584": {
+			"name": "Corrupted Crane"
+		},
+		"71143": {
+			"name": "Windfeather Chick"
+		},
+		"118266": {
+			"name": "Saltwater Crane"
+		},
+		"139456": {
+			"name": "Mistdown Riverhunter"
+		}
+	}
+}

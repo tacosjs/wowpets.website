@@ -1,0 +1,70 @@
+{
+	"id": "pandarenserpent-red-redspec",
+	"family": "lesserdragonkin",
+	"modelGroup": "cloudserpents",
+	"npcs": [
+		{
+			"id": 231324,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-wandering-isle-open-zone"
+				}
+			]
+		},
+		{
+			"id": 66216,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "pandaria"
+				}
+			]
+		},
+		{
+			"id": 62598,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "townlong-steppes",
+					"area": "shanze-dao"
+				}
+			]
+		},
+		{
+			"id": 61410,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-jade-forest",
+					"area": "the-arboretum"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		58213,
+		58214,
+		58217
+	]
+}

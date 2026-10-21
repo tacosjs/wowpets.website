@@ -1,0 +1,49 @@
+{
+	"id": "firefly2-green-antenna3",
+	"family": "moth",
+	"modelGroup": "candleflies",
+	"npcs": [
+		{
+			"id": 223831,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "the-warrens"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 221304,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		251825
+	]
+}

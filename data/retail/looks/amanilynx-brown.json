@@ -1,0 +1,298 @@
+{
+	"id": "amanilynx-brown",
+	"family": "cat",
+	"modelGroup": "amanilynxes",
+	"npcs": [
+		{
+			"id": 255137,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "temple-of-halazzi"
+				}
+			]
+		},
+		{
+			"id": 250091,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman"
+				}
+			]
+		},
+		{
+			"id": 255415,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "amanizar-village"
+				}
+			]
+		},
+		{
+			"id": 236186,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "numazon-crypts"
+				}
+			]
+		},
+		{
+			"id": 250297,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "amani-pass"
+				}
+			]
+		},
+		{
+			"id": 241420,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "temple-of-halazzi"
+				}
+			]
+		},
+		{
+			"id": 247744,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "witherbark-bluffs"
+				}
+			]
+		},
+		{
+			"id": 253070,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "witherbark-bluffs"
+				}
+			]
+		},
+		{
+			"id": 247743,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "witherbark-bluffs"
+				}
+			]
+		},
+		{
+			"id": 255459,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "amanizar-village"
+				}
+			]
+		},
+		{
+			"id": 245190,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "den-of-nalorakk"
+				}
+			]
+		},
+		{
+			"id": 236187,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "temple-of-halazzi"
+				}
+			]
+		},
+		{
+			"id": 253382,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "shadebasin-watch-amanizar-village"
+				}
+			]
+		},
+		{
+			"id": 255834,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "swiftclaw-terrace"
+				}
+			]
+		},
+		{
+			"id": 247741,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "witherbark-bluffs"
+				}
+			]
+		},
+		{
+			"id": 253064,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "witherbark-bluffs"
+				}
+			]
+		},
+		{
+			"id": 255089,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "amanizar-village"
+				}
+			]
+		},
+		{
+			"id": 257460,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "speakers-rest"
+				}
+			]
+		},
+		{
+			"id": 257452,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "silvermoon-city"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		242226,
+		244029,
+		255496,
+		255497,
+		254405,
+		265617
+	]
+}

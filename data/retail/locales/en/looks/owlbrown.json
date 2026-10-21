@@ -1,0 +1,30 @@
+{
+	"name": "Brown Owl",
+	"variant": "Brown",
+	"npcs": {
+		"17034": {
+			"name": "Female Kaliri Hatchling"
+		},
+		"17035": {
+			"name": "Kaliri Matriarch"
+		},
+		"17128": {
+			"name": "Windroc"
+		},
+		"17129": {
+			"name": "Greater Windroc"
+		},
+		"18220": {
+			"name": "Ravenous Windroc"
+		},
+		"40194": {
+			"name": "Vale Owl"
+		},
+		"42659": {
+			"name": "Hyjal Screecher"
+		},
+		"213155": {
+			"name": "Soaring Windroc"
+		}
+	}
+}

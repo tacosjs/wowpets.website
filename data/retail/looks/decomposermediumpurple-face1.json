@@ -1,0 +1,27 @@
+{
+	"id": "decomposermediumpurple-face1",
+	"family": "carapid",
+	"modelGroup": "gorms",
+	"npcs": [
+		{
+			"id": 160076,
+			"tameable": true,
+			"level": {
+				"min": 56,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "dusty-burrows"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		169972,
+		169976,
+		170933
+	]
+}

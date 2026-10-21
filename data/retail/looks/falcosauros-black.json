@@ -1,0 +1,67 @@
+{
+	"id": "falcosauros-black",
+	"family": "raptor",
+	"modelGroup": "falcosaurs",
+	"npcs": [
+		{
+			"id": 115666,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna",
+					"area": "alluvanons-delta"
+				}
+			]
+		},
+		{
+			"id": 115670,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "azsuna",
+					"area": "alluvanons-delta"
+				}
+			]
+		},
+		{
+			"id": 115675,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna",
+					"area": "alluvanons-delta"
+				}
+			]
+		},
+		{
+			"id": 115674,
+			"tameable": true,
+			"level": {
+				"min": 46,
+				"max": 46
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "azsuna",
+					"area": "alluvanons-delta"
+				}
+			]
+		}
+	]
+}

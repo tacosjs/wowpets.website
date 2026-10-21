@@ -1,0 +1,52 @@
+{
+	"id": "tallstriderprimal-black-horn1",
+	"family": "tallstrider",
+	"modelGroup": "hornstriders",
+	"npcs": [
+		{
+			"id": 192641,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 62
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "steelcliff-passage"
+				}
+			]
+		},
+		{
+			"id": 195383,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 62
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "steelcliff-passage"
+				}
+			]
+		},
+		{
+			"id": 195366,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 62
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "steelcliff-passage"
+				}
+			]
+		}
+	]
+}

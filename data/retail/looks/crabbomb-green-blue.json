@@ -1,0 +1,23 @@
+{
+	"id": "crabbomb-green-blue",
+	"family": "crab",
+	"modelGroup": "bombcrabs",
+	"npcs": [
+		{
+			"id": 231017,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "undermine",
+					"area": "blackwater-marina"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

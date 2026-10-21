@@ -1,0 +1,18 @@
+{
+	"name": "Dark Pink Pig",
+	"variant": "Dark Pink",
+	"npcs": {
+		"56132": {
+			"name": "Thunderfoot Pig"
+		},
+		"220309": {
+			"name": "Big Bacon"
+		},
+		"221158": {
+			"name": "Terry Tails"
+		},
+		"221159": {
+			"name": "Lieutenant Porkensworth"
+		}
+	}
+}

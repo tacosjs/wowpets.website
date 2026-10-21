@@ -1,0 +1,55 @@
+{
+	"name": "Black Rugged Scorpion",
+	"variant": "Black",
+	"npcs": {
+		"47749": {
+			"name": "Dreadstalker",
+			"title": "Scorpion-Lord Namkhare's Pet"
+		},
+		"51403": {
+			"name": "Madexx"
+		},
+		"53127": {
+			"name": "Fire Scorpion"
+		},
+		"53128": {
+			"name": "Giant Fire Scorpion"
+		},
+		"53240": {
+			"name": "Emberspit Scorpion"
+		},
+		"63586": {
+			"name": "Onyx Venomtail"
+		},
+		"63726": {
+			"name": "Mutating Scorpid"
+		},
+		"63833": {
+			"name": "Mutating Scorpid"
+		},
+		"64983": {
+			"name": "Amber-Fed Hatchling"
+		},
+		"108014": {
+			"name": "Azureback Broodmother"
+		},
+		"129259": {
+			"name": "Deathsnap Elder"
+		},
+		"136336": {
+			"name": "Scorpox"
+		},
+		"140106": {
+			"name": "Deathsting Broodwatcher"
+		},
+		"140108": {
+			"name": "Deathsting Scorpid"
+		},
+		"152757": {
+			"name": "Atekhramun"
+		},
+		"152768": {
+			"name": "Venomtail Scorpid"
+		}
+	}
+}

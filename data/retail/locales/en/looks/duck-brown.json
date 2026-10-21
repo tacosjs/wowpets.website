@@ -1,0 +1,51 @@
+{
+	"name": "Brown Duck",
+	"variant": "Brown",
+	"npcs": {
+		"187451": {
+			"name": "Territorial Woodwing"
+		},
+		"187547": {
+			"name": "Jadethroat Mallard"
+		},
+		"189362": {
+			"name": "Forkriver Mallard"
+		},
+		"189835": {
+			"name": "Woodwing Quacker"
+		},
+		"192947": {
+			"name": "Bluebill Waddler"
+		},
+		"193097": {
+			"name": "Peaceful Duck"
+		},
+		"194696": {
+			"name": "Blue-footed Waterfowl"
+		},
+		"194722": {
+			"name": "Dubious Duck"
+		},
+		"195310": {
+			"name": "Oasis Mallard"
+		},
+		"195433": {
+			"name": "Messenger Mallard"
+		},
+		"195513": {
+			"name": "Bluebill Waddler"
+		},
+		"196240": {
+			"name": "Whitecrested Waddler"
+		},
+		"197821": {
+			"name": "Springs Waterfowl"
+		},
+		"211885": {
+			"name": "Admiral Peppers"
+		},
+		"245034": {
+			"name": "Duck"
+		}
+	}
+}

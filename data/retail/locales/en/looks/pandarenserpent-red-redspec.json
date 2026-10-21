@@ -1,0 +1,19 @@
+{
+	"name": "Red Cloud Serpent w/ Red Sheen",
+	"variant": "Red w/ Red Sheen",
+	"npcs": {
+		"61410": {
+			"name": "Young Cloud Serpent"
+		},
+		"62598": {
+			"name": "Wild Cloudrunner"
+		},
+		"66216": {
+			"name": "Mishi",
+			"title": "Lorewalker Cho's Companion"
+		},
+		"231324": {
+			"name": "Watchful Cloud Serpent"
+		}
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"name": "Purple Rylak",
+	"variant": "Purple",
+	"npcs": {
+		"148787": {
+			"name": "Alash'anir",
+			"title": "Venom and Storm"
+		}
+	}
+}

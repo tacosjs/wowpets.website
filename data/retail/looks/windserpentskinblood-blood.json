@@ -1,0 +1,35 @@
+{
+	"id": "windserpentskinblood-blood",
+	"family": "windserpent",
+	"modelGroup": "bloodwindserpents",
+	"npcs": [
+		{
+			"id": 140361,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 140362,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	]
+}

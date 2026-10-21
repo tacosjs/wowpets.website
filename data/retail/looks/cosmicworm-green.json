@@ -1,0 +1,55 @@
+{
+	"id": "cosmicworm-green",
+	"family": "worm",
+	"modelGroup": "cosmicworms",
+	"npcs": [
+		{
+			"id": 242260,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "naakroa"
+				}
+			]
+		},
+		{
+			"id": 256408,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "twilight-highlands"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 264576,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "naigtal"
+				}
+			]
+		}
+	]
+}

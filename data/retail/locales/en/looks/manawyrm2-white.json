@@ -1,0 +1,36 @@
+{
+	"name": "Pale Gold Eversong Mana Wyrm",
+	"variant": "Pale Gold",
+	"npcs": {
+		"237399": {
+			"name": "Invasive Light Wyrm"
+		},
+		"237408": {
+			"name": "Light Wyrm"
+		},
+		"238087": {
+			"name": "Agitated Wyrm"
+		},
+		"241374": {
+			"name": "Scintillant Wyrm"
+		},
+		"250024": {
+			"name": "Lightscale Nibbler"
+		},
+		"250025": {
+			"name": "Gorged Lightscale"
+		},
+		"250869": {
+			"name": "Anguish-Imbued Wyrm"
+		},
+		"250878": {
+			"name": "Docile Light Wyrm"
+		},
+		"251053": {
+			"name": "Docile Mana Wyrm"
+		},
+		"260159": {
+			"name": "Volatile Light Wyrm"
+		}
+	}
+}

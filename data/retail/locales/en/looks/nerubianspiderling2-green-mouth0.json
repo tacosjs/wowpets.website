@@ -1,0 +1,21 @@
+{
+	"name": "Green Threadling w/ No Mandibles",
+	"variant": "Green w/ No Mandibles",
+	"npcs": {
+		"208241": {
+			"name": "Ankle Biter"
+		},
+		"215532": {
+			"name": "Spored Threadling"
+		},
+		"216155": {
+			"name": "Skittering Ambusher"
+		},
+		"217137": {
+			"name": "Invasive Nestling"
+		},
+		"250910": {
+			"name": "Ankle Biter"
+		}
+	}
+}

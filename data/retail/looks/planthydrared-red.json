@@ -1,0 +1,211 @@
+{
+	"id": "planthydrared-red",
+	"family": "hydra",
+	"modelGroup": "mandragoras",
+	"npcs": [
+		{
+			"id": 75207,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "iyun-weald"
+				}
+			]
+		},
+		{
+			"id": 85760,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "deeproot"
+				}
+			]
+		},
+		{
+			"id": 84391,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "naielles-watch"
+				}
+			]
+		},
+		{
+			"id": 84403,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nagrand",
+					"area": "cerulean-lagoon"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 88150,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "deeproot"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 169207,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 58
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "tirna-vaal"
+				}
+			]
+		},
+		{
+			"id": 169206,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 58
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "tirna-vaal"
+				}
+			]
+		},
+		{
+			"id": 88800,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "moiras-reach"
+				}
+			]
+		},
+		{
+			"id": 81791,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "moiras-reach"
+				}
+			]
+		},
+		{
+			"id": 80466,
+			"tameable": false,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "tanaan-jungle",
+					"area": "thornmire"
+				}
+			]
+		},
+		{
+			"id": 107479,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "emerald-dreamway"
+				}
+			]
+		},
+		{
+			"id": 139577,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley",
+					"area": "burton-farmstead"
+				}
+			]
+		},
+		{
+			"id": 207926,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "emerald-dream"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		169836,
+		252847,
+		248577
+	]
+}

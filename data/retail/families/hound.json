@@ -1,0 +1,53 @@
+{
+	"id": "hound",
+	"wowId": 52,
+	"icon": "inv_pet_mastiff",
+	"spec": "cunning",
+	"exotic": false,
+	"diet": [
+		"bread",
+		"cheese",
+		"fish",
+		"fruit",
+		"fungus",
+		"meat"
+	],
+	"abilities": {
+		"basic": "bite",
+		"family": [
+			"lock-jaw"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "bakars"
+		},
+		{
+			"id": "helheimhounds"
+		},
+		{
+			"id": "soulseekers"
+		},
+		{
+			"id": "infernalhellhounds"
+		},
+		{
+			"id": "skeletalhellhounds"
+		},
+		{
+			"id": "beastabominations"
+		},
+		{
+			"id": "granddarkhounds"
+		},
+		{
+			"id": "mastiffs"
+		},
+		{
+			"id": "runeddemondogs"
+		},
+		{
+			"id": "darkhounds"
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"id": "batgreen-epicbatmountblackwings",
+	"family": "bat",
+	"modelGroup": "greaterbats",
+	"npcs": [
+		{
+			"id": 128547,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "redrock-mines"
+				}
+			]
+		},
+		{
+			"id": 128290,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "hireeks-lair"
+				}
+			]
+		}
+	]
+}

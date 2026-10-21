@@ -1,0 +1,110 @@
+{
+	"id": "nerubianspiderling2-green-mouth0",
+	"family": "spider",
+	"modelGroup": "threadlings",
+	"npcs": [
+		{
+			"id": 217137,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "mmarl"
+				}
+			]
+		},
+		{
+			"id": 208241,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "skittering-breach"
+				},
+				{
+					"zone": "earthcrawl-mines"
+				},
+				{
+					"zone": "the-dread-pit"
+				},
+				{
+					"zone": "the-spiral-weave"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 216155,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "skittering-breach"
+				},
+				{
+					"zone": "earthcrawl-mines"
+				},
+				{
+					"zone": "the-dread-pit"
+				},
+				{
+					"zone": "the-spiral-weave"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 215532,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "pillar-nest-vosh"
+				}
+			]
+		},
+		{
+			"id": 250910,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-gulf-of-memory"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		219662
+	]
+}

@@ -1,0 +1,348 @@
+{
+	"id": "bonespider2-grey",
+	"family": "spider",
+	"modelGroup": "grandbonespiders",
+	"npcs": [
+		{
+			"id": 50765,
+			"tameable": true,
+			"level": {
+				"min": 7,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "hillsbrad-foothills",
+					"area": "azurelode-mine"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 84097,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ashran",
+					"area": "ashmaul-burial-grounds"
+				}
+			]
+		},
+		{
+			"id": 84190,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ashran",
+					"area": "ashmaul-burial-grounds"
+				}
+			]
+		},
+		{
+			"id": 32475,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "zuldrak"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 30206,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "icecrown"
+				}
+			]
+		},
+		{
+			"id": 31747,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "icecrown"
+				}
+			]
+		},
+		{
+			"id": 132317,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "bleak-hills-mine"
+				}
+			]
+		},
+		{
+			"id": 125130,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "wayward-thicket"
+				}
+			]
+		},
+		{
+			"id": 65658,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-jade-forest"
+				}
+			]
+		},
+		{
+			"id": 130233,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "arid-basin"
+				}
+			]
+		},
+		{
+			"id": 129505,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "court-of-zakrajan"
+				}
+			]
+		},
+		{
+			"id": 129500,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "court-of-zakrajan"
+				}
+			]
+		},
+		{
+			"id": 124262,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "arid-basin"
+				}
+			]
+		},
+		{
+			"id": 113417,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "telotharan"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 134902,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 74412,
+			"tameable": false,
+			"level": {
+				"min": 17,
+				"max": 32
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "razorfen-downs"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 129498,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "court-of-zakrajan"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 129497,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "court-of-zakrajan"
+				}
+			]
+		},
+		{
+			"id": 203480,
+			"tameable": false,
+			"level": {
+				"min": 72,
+				"max": 72
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "the-crystal-fields"
+				}
+			]
+		},
+		{
+			"id": 262134,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "ruukjars-clutch"
+				}
+			]
+		},
+		{
+			"id": 262124,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "ruukjars-clutch"
+				}
+			]
+		},
+		{
+			"id": 262136,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "ruukjars-clutch"
+				}
+			]
+		}
+	]
+}

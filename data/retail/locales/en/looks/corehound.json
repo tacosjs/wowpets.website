@@ -1,0 +1,60 @@
+{
+	"name": "Orange Core Hound",
+	"variant": "Orange",
+	"npcs": {
+		"10430": {
+			"name": "The Beast"
+		},
+		"11671": {
+			"name": "Core Hound"
+		},
+		"11672": {
+			"name": "Core Rager"
+		},
+		"11673": {
+			"name": "Ancient Core Hound"
+		},
+		"11982": {
+			"name": "Magmadar"
+		},
+		"21837": {
+			"name": "Summoned Wrath Hound"
+		},
+		"29312": {
+			"name": "Lavanthor"
+		},
+		"39348": {
+			"name": "Smolderos the Carbonizer"
+		},
+		"39700": {
+			"name": "Beauty"
+		},
+		"46910": {
+			"name": "Core Hound"
+		},
+		"50842": {
+			"name": "Magmagan"
+		},
+		"52766": {
+			"name": "Lylagar"
+		},
+		"52795": {
+			"name": "Brimstone Hound"
+		},
+		"53134": {
+			"name": "Ancient Core Hound"
+		},
+		"143416": {
+			"name": "Ancient Core Hound"
+		},
+		"180091": {
+			"name": "Ancient Core Hound"
+		},
+		"203660": {
+			"name": "Flowfy"
+		},
+		"210288": {
+			"name": "Ancient Core Hound"
+		}
+	}
+}

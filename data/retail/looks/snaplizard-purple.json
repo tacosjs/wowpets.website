@@ -1,0 +1,42 @@
+{
+	"id": "snaplizard-purple",
+	"family": "lizard",
+	"modelGroup": "amazards",
+	"npcs": [
+		{
+			"id": 236169,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "temple-of-janalai"
+				}
+			]
+		},
+		{
+			"id": 257523,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "camp-stonewash"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		254167,
+		254166,
+		262965
+	]
+}

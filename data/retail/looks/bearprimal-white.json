@@ -1,0 +1,36 @@
+{
+	"id": "bearprimal-white",
+	"family": "bear",
+	"modelGroup": "primalbears",
+	"npcs": [
+		{
+			"id": 194224,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "shifting-sands"
+				}
+			]
+		},
+		{
+			"id": 194035,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		}
+	]
+}

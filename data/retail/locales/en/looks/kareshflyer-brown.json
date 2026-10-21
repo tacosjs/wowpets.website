@@ -1,0 +1,15 @@
+{
+	"name": "Amber K",
+	"variant": "Amber",
+	"npcs": {
+		"230464": {
+			"name": "Domineering K'arroc"
+		},
+		"238547": {
+			"name": "Enraged K'arroc Shade"
+		},
+		"249806": {
+			"name": "Soaring K'aaroc"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Purple Boss Wasp",
+	"variant": "Purple",
+	"npcs": {
+		"50895": {
+			"name": "Volux"
+		},
+		"52442": {
+			"name": "Florawing Hive Queen"
+		}
+	}
+}

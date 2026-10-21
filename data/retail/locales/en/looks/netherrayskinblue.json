@@ -1,0 +1,16 @@
+{
+	"name": "Green Nether Ray",
+	"variant": "Green",
+	"npcs": {
+		"17731": {
+			"name": "Fen Ray"
+		},
+		"20196": {
+			"name": "Bloodthirsty Marshfang"
+		},
+		"21128": {
+			"name": "Coilfang Ray",
+			"title": "Observer's Pet"
+		}
+	}
+}

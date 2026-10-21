@@ -1,0 +1,24 @@
+{
+	"name": "Indigo Stagshell w/ Small Mandibles, No Graspers, No Horn",
+	"variant": "Indigo w/ Small Mandibles, No Graspers, No Horn",
+	"npcs": {
+		"207165": {
+			"name": "Shadow-Sour Mite"
+		},
+		"215608": {
+			"name": "Siegehold Drone"
+		},
+		"221704": {
+			"name": "Siegehold Drone"
+		},
+		"223613": {
+			"name": "Weave Drone"
+		},
+		"227618": {
+			"name": "Weave Drone"
+		},
+		"228427": {
+			"name": "Stagshell Swarmer"
+		}
+	}
+}

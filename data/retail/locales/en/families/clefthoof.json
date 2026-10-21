@@ -1,0 +1,23 @@
+{
+	"name": "Clefthoof",
+	"modelGroups": {
+		"rhinos": {
+			"name": "Rhinos"
+		},
+		"draenorclefthooves": {
+			"name": "Draenor Clefthooves"
+		},
+		"draenorsaddledclefthooves": {
+			"name": "Saddled Draenor Clefthooves"
+		},
+		"ironhordeclefthooves": {
+			"name": "Iron Horde Clefthooves"
+		},
+		"woollyrhinos": {
+			"name": "Woolly Rhinos"
+		},
+		"clefthooves": {
+			"name": "Outland Clefthooves"
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": "pandarenserpent-red-blackspec",
+	"family": "lesserdragonkin",
+	"modelGroup": "cloudserpents",
+	"npcs": [
+		{
+			"id": 72876,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "timeless-isle"
+				}
+			]
+		}
+	]
+}

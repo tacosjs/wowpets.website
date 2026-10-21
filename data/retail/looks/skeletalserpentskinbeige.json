@@ -1,0 +1,119 @@
+{
+	"id": "skeletalserpentskinbeige",
+	"family": "windserpent",
+	"modelGroup": "skeletalwindserpents",
+	"npcs": [
+		{
+			"id": 9397,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaris"
+				}
+			]
+		},
+		{
+			"id": 23204,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "terokkar-forest"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 8440,
+			"tameable": true,
+			"level": {
+				"min": 32,
+				"max": 32
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "sunken-temple",
+					"area": "sanctum-of-the-fallen-god"
+				}
+			]
+		},
+		{
+			"id": 80643,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "sethekk-hollow"
+				}
+			]
+		},
+		{
+			"id": 28671,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zuldrak",
+					"area": "altar-of-quetzlun"
+				}
+			]
+		},
+		{
+			"id": 26632,
+			"tameable": false,
+			"level": {
+				"min": 32,
+				"max": 32
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "draktharon-keep",
+					"area": "draktharon-overlook"
+				}
+			]
+		},
+		{
+			"id": 261874,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-venomous-abyss"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

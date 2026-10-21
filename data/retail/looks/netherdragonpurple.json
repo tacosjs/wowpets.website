@@ -1,0 +1,22 @@
+{
+	"id": "netherdragonpurple",
+	"family": "serpent",
+	"modelGroup": "arcanewyrms",
+	"npcs": [
+		{
+			"id": 25721,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "borean-tundra",
+					"area": "coldarra"
+				}
+			]
+		}
+	]
+}

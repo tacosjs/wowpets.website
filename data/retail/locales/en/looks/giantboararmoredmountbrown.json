@@ -1,0 +1,13 @@
+{
+	"name": "Armored Grey-Brown  Draenor Boar",
+	"variant": "Grey-Brown",
+	"npcs": {
+		"83804": {
+			"name": "Ashmaul Gutwrencher"
+		},
+		"85279": {
+			"name": "Fungore",
+			"title": "Ribchewer's Latest Companion"
+		}
+	}
+}

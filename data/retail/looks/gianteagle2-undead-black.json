@@ -1,0 +1,21 @@
+{
+	"id": "gianteagle2-undead-black",
+	"family": "birdofprey",
+	"modelGroup": "amanieagles",
+	"npcs": [
+		{
+			"id": 249020,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "maisara-caverns"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"id": "giantsnake-black-purpleaura",
+	"family": "serpent",
+	"modelGroup": "cobras",
+	"npcs": [
+		{
+			"id": 173855,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "dusky-grotto"
+				}
+			],
+			"keepsName": true,
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

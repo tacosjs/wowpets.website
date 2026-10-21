@@ -1,0 +1,85 @@
+{
+	"name": "Black Draenor Boar",
+	"variant": "Black",
+	"npcs": {
+		"75037": {
+			"name": "Unbroken Goresnout"
+		},
+		"75241": {
+			"name": "Bladespire Goresnout"
+		},
+		"76208": {
+			"name": "Razortusk the Untamed"
+		},
+		"76914": {
+			"name": "Coldtusk"
+		},
+		"77124": {
+			"name": "Crag Goretusk"
+		},
+		"77129": {
+			"name": "Elder Crag Goretusk"
+		},
+		"82532": {
+			"name": "Krush"
+		},
+		"82617": {
+			"name": "Slogtusk the Corpse-Eater"
+		},
+		"83719": {
+			"name": "Wild Goreger"
+		},
+		"89171": {
+			"name": "Gorian Battle Boar"
+		},
+		"107503": {
+			"name": "Spinetusk Piglet"
+		},
+		"127699": {
+			"name": "Tamed Boar"
+		},
+		"138675": {
+			"name": "Gorged Boar"
+		},
+		"140097": {
+			"name": "Great Dirtbelly"
+		},
+		"140102": {
+			"name": "Razorhog"
+		},
+		"153206": {
+			"name": "Ol' Big Tusk",
+			"title": "The Trogg Gorer"
+		},
+		"153238": {
+			"name": "Tamed Boar"
+		},
+		"154679": {
+			"name": "Lil' Tusk"
+		},
+		"242165": {
+			"name": "Tearful Boar"
+		},
+		"243532": {
+			"name": "Grazing Boar"
+		},
+		"243631": {
+			"name": "Agitated Boar"
+		},
+		"258980": {
+			"name": "Gully Hog"
+		},
+		"260372": {
+			"name": "Mulchtusk Scavenger"
+		},
+		"260827": {
+			"name": "Snuffling Boar"
+		},
+		"261305": {
+			"name": "Mulchtusk Scavenger"
+		},
+		"261317": {
+			"name": "Emaciated Truffle Hog"
+		}
+	}
+}

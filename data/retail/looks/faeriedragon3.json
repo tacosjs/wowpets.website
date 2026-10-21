@@ -1,0 +1,99 @@
+{
+	"id": "faeriedragon3",
+	"family": "lesserdragonkin",
+	"modelGroup": "dreamfeydarters",
+	"npcs": [
+		{
+			"id": 208235,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "ancient-bough"
+				}
+			]
+		},
+		{
+			"id": 213647,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 207617,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream"
+				}
+			]
+		},
+		{
+			"id": 206511,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "shallow-crossing"
+				}
+			]
+		},
+		{
+			"id": 213547,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream"
+				}
+			]
+		},
+		{
+			"id": 210872,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "rootwoven-strand"
+				}
+			]
+		}
+	]
+}

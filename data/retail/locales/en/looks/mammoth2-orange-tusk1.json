@@ -1,0 +1,21 @@
+{
+	"name": "Orange Mammoth w/ Shorter Tusks",
+	"variant": "Orange",
+	"npcs": {
+		"187573": {
+			"name": "Trapped Mammoth"
+		},
+		"189218": {
+			"name": "Highland Mammoth"
+		},
+		"194307": {
+			"name": "Highland Mammoth"
+		},
+		"194815": {
+			"name": "Auburntusk Adolescent"
+		},
+		"195194": {
+			"name": "Highland Mammoth"
+		}
+	}
+}

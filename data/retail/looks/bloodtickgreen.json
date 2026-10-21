@@ -1,0 +1,81 @@
+{
+	"id": "bloodtickgreen",
+	"family": "bloodbeast",
+	"modelGroup": "bloodticks",
+	"npcs": [
+		{
+			"id": 126749,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "primal-wetlands"
+				}
+			]
+		},
+		{
+			"id": 134057,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "primal-wetlands"
+				}
+			]
+		},
+		{
+			"id": 243738,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm"
+				}
+			]
+		},
+		{
+			"id": 250634,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "the-gorging-pit"
+				}
+			]
+		},
+		{
+			"id": 238476,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "the-bladeburrows"
+				}
+			]
+		}
+	]
+}

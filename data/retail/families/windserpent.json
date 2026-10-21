@@ -1,0 +1,44 @@
+{
+	"id": "windserpent",
+	"wowId": 26,
+	"icon": "ability_hunter_pet_windserpent",
+	"spec": "ferocity",
+	"exotic": false,
+	"diet": [
+		"bread",
+		"cheese",
+		"fish"
+	],
+	"abilities": {
+		"basic": "bite",
+		"family": [
+			"winged-agility"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "skyfangs"
+		},
+		{
+			"id": "harnessedskyfangs"
+		},
+		{
+			"id": "etherwyrms"
+		},
+		{
+			"id": "skeletalwindserpents"
+		},
+		{
+			"id": "grandwindserpents"
+		},
+		{
+			"id": "spikedwindserpents"
+		},
+		{
+			"id": "bloodwindserpents"
+		},
+		{
+			"id": "windserpents"
+		}
+	]
+}

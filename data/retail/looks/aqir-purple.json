@@ -1,0 +1,136 @@
+{
+	"id": "aqir-purple",
+	"family": "aqiri",
+	"modelGroup": "aqirgoliaths",
+	"npcs": [
+		{
+			"id": 154353,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "uldum"
+				}
+			]
+		},
+		{
+			"id": 163025,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "uldum",
+					"area": "obelisk-of-the-moon"
+				}
+			]
+		},
+		{
+			"id": 158530,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "uldum",
+					"area": "chamber-of-the-moon"
+				}
+			]
+		},
+		{
+			"id": 163259,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "uldum",
+					"area": "ruins-of-ammon"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 162173,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "uldum"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 163268,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "uldum",
+					"area": "ruins-of-ammon"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 154576,
+			"tameable": true,
+			"level": {
+				"min": 51,
+				"max": 51
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "uldum"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 161218,
+			"tameable": false,
+			"level": {
+				"min": 52,
+				"max": 52
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-waking-city",
+					"area": "nyalotha"
+				}
+			]
+		}
+	]
+}

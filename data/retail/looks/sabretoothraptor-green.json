@@ -1,0 +1,29 @@
+{
+	"id": "sabretoothraptor-green",
+	"family": "raptor",
+	"modelGroup": "dreamtalons",
+	"npcs": [
+		{
+			"id": 210051,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "the-emerald-dream"
+				}
+			],
+			"keepsName": true
+		}
+	],
+	"alsoNpcs": [
+		210230,
+		212043,
+		210229,
+		210005,
+		211447
+	]
+}

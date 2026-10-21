@@ -1,0 +1,15 @@
+{
+	"name": "Green & Red Bombshell Crab",
+	"variant": "Green & Red",
+	"npcs": {
+		"232318": {
+			"name": "Bombshell"
+		},
+		"232419": {
+			"name": "Bombshell"
+		},
+		"232420": {
+			"name": "Bombshell"
+		}
+	}
+}

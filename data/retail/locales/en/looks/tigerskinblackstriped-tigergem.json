@@ -1,0 +1,9 @@
+{
+	"name": "White-Striped Black Mystic Cat",
+	"variant": "White-Striped Black",
+	"npcs": {
+		"50833": {
+			"name": "Duskcoat"
+		}
+	}
+}

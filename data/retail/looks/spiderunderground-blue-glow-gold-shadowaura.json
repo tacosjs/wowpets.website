@@ -1,0 +1,23 @@
+{
+	"id": "spiderunderground-blue-glow-gold-shadowaura",
+	"family": "spider",
+	"modelGroup": "undercrawlers",
+	"npcs": [
+		{
+			"id": 216039,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "pillar-nest-xesh"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

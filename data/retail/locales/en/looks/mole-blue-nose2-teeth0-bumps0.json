@@ -1,0 +1,21 @@
+{
+	"name": "Blue Mole w/ Large Nose, No Teeth",
+	"variant": "Blue w/ Large Nose, No Teeth",
+	"npcs": {
+		"211977": {
+			"name": "Pack Mole"
+		},
+		"213834": {
+			"name": "Candleclaw Mole"
+		},
+		"215743": {
+			"name": "Waxtail Snuffler"
+		},
+		"227184": {
+			"name": "Mudnose Mole Pup"
+		},
+		"229814": {
+			"name": "Enraged Snuffler"
+		}
+	}
+}

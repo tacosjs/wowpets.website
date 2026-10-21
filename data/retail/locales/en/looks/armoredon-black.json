@@ -1,0 +1,18 @@
+{
+	"name": "Black Armoredon",
+	"variant": "Black",
+	"npcs": {
+		"190339": {
+			"name": "Horned Armoredon"
+		},
+		"193417": {
+			"name": "Young Horned Armoredon"
+		},
+		"194692": {
+			"name": "Horned Armoredon"
+		},
+		"196134": {
+			"name": "Injured Young Horned Armoredon"
+		}
+	}
+}

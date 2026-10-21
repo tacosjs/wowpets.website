@@ -1,0 +1,169 @@
+{
+	"id": "owl2-blue",
+	"family": "birdofprey",
+	"modelGroup": "wardenowls",
+	"npcs": [
+		{
+			"id": 171997,
+			"tameable": true,
+			"level": {
+				"min": 2,
+				"max": 10
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "exiles-reach",
+					"area": "killclaws-lair-darkmaul-citadel"
+				}
+			]
+		},
+		{
+			"id": 89391,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna",
+					"area": "old-coast-path"
+				}
+			]
+		},
+		{
+			"id": 112010,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna",
+					"area": "isle-of-the-watchers"
+				}
+			]
+		},
+		{
+			"id": 113127,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar"
+				}
+			]
+		},
+		{
+			"id": 103540,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar"
+				}
+			]
+		},
+		{
+			"id": 193259,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		},
+		{
+			"id": 190218,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		},
+		{
+			"id": 194698,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		},
+		{
+			"id": 194752,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		},
+		{
+			"id": 217148,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "amirdrassil-dragon-isles-zone",
+					"area": "terrace-of-the-moon"
+				}
+			]
+		},
+		{
+			"id": 197174,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		216710,
+		235452
+	]
+}

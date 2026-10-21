@@ -1,0 +1,49 @@
+{
+	"id": "silithidtankbossskin-red",
+	"family": "aqiri",
+	"modelGroup": "bosssilithids",
+	"npcs": [
+		{
+			"id": 50746,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "silithus",
+					"area": "hiveregal"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 15511,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "temple-of-ahnqiraj"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 117490,
+			"tameable": false,
+			"level": {
+				"min": 48,
+				"max": 48
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "silithus",
+					"area": "hiveregal"
+				}
+			]
+		}
+	]
+}

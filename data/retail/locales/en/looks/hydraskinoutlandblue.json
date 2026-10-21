@@ -1,0 +1,12 @@
+{
+	"name": "Blue Outland Hydra",
+	"variant": "Blue",
+	"npcs": {
+		"18213": {
+			"name": "Mire Hydra"
+		},
+		"18214": {
+			"name": "Fenclaw Thrasher"
+		}
+	}
+}

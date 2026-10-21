@@ -1,0 +1,12 @@
+{
+	"name": "Purple Swarmite w/ Pedipalps & Short Tail",
+	"variant": "Purple w/ Pedipalps & Short Tail",
+	"npcs": {
+		"215386": {
+			"name": "Spored Gnasher"
+		},
+		"218091": {
+			"name": "Rak-Ush Bloodwing"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Dark Brown Death Boar",
+	"variant": "Dark Brown",
+	"npcs": {
+		"165566": {
+			"name": "Deadeye"
+		},
+		"175097": {
+			"name": "Skeletal Steed"
+		}
+	}
+}

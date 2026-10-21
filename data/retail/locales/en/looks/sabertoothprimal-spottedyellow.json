@@ -1,0 +1,39 @@
+{
+	"name": "Spotted Yellow Rockfang",
+	"variant": "Spotted Yellow",
+	"npcs": {
+		"186498": {
+			"name": "Rora"
+		},
+		"187474": {
+			"name": "Spotted Rockfang"
+		},
+		"187487": {
+			"name": "Spotted Prowler"
+		},
+		"192644": {
+			"name": "Mountain Stonefang"
+		},
+		"195365": {
+			"name": "Mountain Stonefang"
+		},
+		"195382": {
+			"name": "Mountain Stonefang"
+		},
+		"195460": {
+			"name": "Spotted Prowler"
+		},
+		"197376": {
+			"name": "Alpha Mountain Stonefang"
+		},
+		"205763": {
+			"name": "Mountain Stonefang"
+		},
+		"233282": {
+			"name": "Sharptooth Stalker"
+		},
+		"245427": {
+			"name": "Plains Rockfang"
+		}
+	}
+}

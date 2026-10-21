@@ -1,0 +1,12 @@
+{
+	"name": "Olive Void Creeper",
+	"variant": "Olive Void Creeper",
+	"npcs": {
+		"239070": {
+			"name": "Toxic Creeper"
+		},
+		"245783": {
+			"name": "Void Creeper"
+		}
+	}
+}

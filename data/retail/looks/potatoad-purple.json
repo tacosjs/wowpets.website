@@ -1,0 +1,79 @@
+{
+	"id": "potatoad-purple",
+	"family": "hopper",
+	"modelGroup": "potatoads",
+	"npcs": [
+		{
+			"id": 244349,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "ahlua-wetland"
+				}
+			]
+		},
+		{
+			"id": 249962,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "vale-of-mists"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 256528,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-gulf-of-memory"
+				}
+			]
+		},
+		{
+			"id": 251305,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "nordrassil-roots"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		258090,
+		250185,
+		250273,
+		242755,
+		251915,
+		256364,
+		248471,
+		237204,
+		249167,
+		237825
+	]
+}

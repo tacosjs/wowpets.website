@@ -1,0 +1,19 @@
+{
+	"name": "Armoured Fel Dread Raven",
+	"variant": "Armoured Fel",
+	"npcs": {
+		"91539": {
+			"name": "Fel Raven"
+		},
+		"93952": {
+			"name": "Fel Raven"
+		},
+		"95053": {
+			"name": "Deathtalon",
+			"title": "Avatar of Iskar"
+		},
+		"95328": {
+			"name": "Fel Raven"
+		}
+	}
+}

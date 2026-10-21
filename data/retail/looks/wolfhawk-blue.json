@@ -1,0 +1,22 @@
+{
+	"id": "wolfhawk-blue",
+	"family": "feathermane",
+	"modelGroup": "wolfhawks",
+	"npcs": [
+		{
+			"id": 121625,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "eye-of-azshara-non-instanced"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

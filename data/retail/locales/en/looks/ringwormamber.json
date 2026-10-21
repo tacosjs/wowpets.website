@@ -1,0 +1,25 @@
+{
+	"name": "Amber Shale Worm",
+	"variant": "Amber",
+	"npcs": {
+		"62324": {
+			"name": "Norvakess",
+			"title": "Terror of the Dread Wastes"
+		},
+		"63007": {
+			"name": "Kyparite"
+		},
+		"65229": {
+			"name": "Kypa'rak"
+		},
+		"65231": {
+			"name": "Kypari Crawler"
+		},
+		"71578": {
+			"name": "Amber Parasite"
+		},
+		"133562": {
+			"name": "Endurite Gyreworm"
+		}
+	}
+}

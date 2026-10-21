@@ -1,0 +1,84 @@
+{
+	"id": "horse2-green",
+	"family": "courser",
+	"modelGroup": "dreamrunners",
+	"npcs": [
+		{
+			"id": 109819,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valsharah"
+				}
+			]
+		},
+		{
+			"id": 112640,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna",
+					"area": "eldranil-peak"
+				}
+			]
+		},
+		{
+			"id": 115119,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valsharah",
+					"area": "field-of-dreamers"
+				}
+			]
+		},
+		{
+			"id": 248457,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "farstrider-hold"
+				}
+			]
+		},
+		{
+			"id": 247602,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "lake-elrendar"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		117206
+	]
+}

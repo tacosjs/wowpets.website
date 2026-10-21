@@ -1,0 +1,9 @@
+{
+	"name": "Pink Cloud Serpent",
+	"variant": "Pink",
+	"npcs": {
+		"163042": {
+			"name": "Ivory Cloud Serpent"
+		}
+	}
+}

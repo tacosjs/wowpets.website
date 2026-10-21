@@ -1,0 +1,14 @@
+{
+	"name": "Hyena",
+	"modelGroups": {
+		"goblinhyenas": {
+			"name": "Goblin Hyenas"
+		},
+		"grandhyenas": {
+			"name": "Hyenas"
+		},
+		"hyenas": {
+			"name": "Classic Hyenas"
+		}
+	}
+}

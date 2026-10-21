@@ -1,0 +1,109 @@
+{
+	"id": "porcupinered",
+	"family": "rodent",
+	"modelGroup": "porcupines",
+	"npcs": [
+		{
+			"id": 161131,
+			"tameable": true,
+			"level": {
+				"min": 2,
+				"max": 5
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "exiles-reach",
+					"area": "abandoned-camp"
+				}
+			]
+		},
+		{
+			"id": 172029,
+			"tameable": true,
+			"level": {
+				"min": 2,
+				"max": 10
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "exiles-reach",
+					"area": "darkmaul-bridge"
+				}
+			]
+		},
+		{
+			"id": 126991,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "clearspring-pass"
+				}
+			]
+		},
+		{
+			"id": 65839,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "kun-lai-summit"
+				}
+			]
+		},
+		{
+			"id": 125401,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "hawthornes-plot"
+				}
+			]
+		},
+		{
+			"id": 65118,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dread-wastes"
+				}
+			]
+		},
+		{
+			"id": 146131,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	]
+}

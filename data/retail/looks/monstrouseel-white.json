@@ -1,0 +1,21 @@
+{
+	"id": "monstrouseel-white",
+	"family": "serpent",
+	"modelGroup": "electriceels",
+	"npcs": [
+		{
+			"id": 130234,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar"
+				}
+			]
+		}
+	]
+}

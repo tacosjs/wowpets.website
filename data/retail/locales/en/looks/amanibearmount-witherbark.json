@@ -1,0 +1,12 @@
+{
+	"name": "Grey Amani Bear w/ Blue Armour & Shield",
+	"variant": "Grey Amani Bear w/ Blue Armour & Shield",
+	"npcs": {
+		"257000": {
+			"name": "War Bear"
+		},
+		"263381": {
+			"name": "Angry Amani Warbear"
+		}
+	}
+}

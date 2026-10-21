@@ -1,0 +1,110 @@
+{
+	"id": "undeadbeast",
+	"family": "hound",
+	"modelGroup": "beastabominations",
+	"npcs": [
+		{
+			"id": 28207,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "sholazar-basin",
+					"area": "the-avalanche"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 28211,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "sholazar-basin",
+					"area": "the-avalanche"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 32280,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "icecrown",
+					"area": "corprethar"
+				}
+			]
+		},
+		{
+			"id": 30432,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "icecrown",
+					"area": "the-underhalls"
+				}
+			]
+		},
+		{
+			"id": 37217,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "icecrown-citadel"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 37025,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "icecrown-citadel"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 15932,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "naxxramas",
+					"area": "construct-quarter"
+				}
+			]
+		}
+	]
+}

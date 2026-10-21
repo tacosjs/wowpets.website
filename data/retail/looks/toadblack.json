@@ -1,0 +1,72 @@
+{
+	"id": "toadblack",
+	"family": "hopper",
+	"modelGroup": "toads",
+	"npcs": [
+		{
+			"id": 75588,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 31
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "razorfen-kraul"
+				}
+			]
+		},
+		{
+			"id": 88674,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak"
+				}
+			]
+		},
+		{
+			"id": 72775,
+			"tameable": true,
+			"level": {
+				"min": 38,
+				"max": 38
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "timeless-isle",
+					"area": "croaking-hollow"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 89749,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "fangrila"
+				},
+				{
+					"zone": "tanaan-jungle",
+					"area": "zorammarsh"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		127612
+	]
+}

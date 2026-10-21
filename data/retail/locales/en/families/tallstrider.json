@@ -1,0 +1,20 @@
+{
+	"name": "Tallstrider",
+	"modelGroups": {
+		"armouredhawkstriders": {
+			"name": "Armoured Hawkstriders"
+		},
+		"hawkstriders": {
+			"name": "Hawkstriders"
+		},
+		"hornstriders": {
+			"name": "Hornstriders"
+		},
+		"grandtallstriders": {
+			"name": "Tallstriders"
+		},
+		"tallstriders": {
+			"name": "Classic Tallstriders"
+		}
+	}
+}

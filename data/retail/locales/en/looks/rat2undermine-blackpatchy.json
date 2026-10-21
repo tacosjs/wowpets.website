@@ -1,0 +1,9 @@
+{
+	"name": "Black & White Rat",
+	"variant": "Black & White",
+	"npcs": {
+		"230867": {
+			"name": "Trackpit King"
+		}
+	}
+}

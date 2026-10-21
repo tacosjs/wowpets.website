@@ -1,0 +1,12 @@
+{
+	"name": "Mottled Dark Red Spider Crab",
+	"variant": "Mottled Dark Red",
+	"npcs": {
+		"152462": {
+			"name": "Chitterspine Ambusher"
+		},
+		"153812": {
+			"name": "Chitterspine Lurker"
+		}
+	}
+}

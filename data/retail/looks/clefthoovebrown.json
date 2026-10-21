@@ -1,0 +1,49 @@
+{
+	"id": "clefthoovebrown",
+	"family": "clefthoof",
+	"modelGroup": "clefthooves",
+	"npcs": [
+		{
+			"id": 18205,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-outland"
+				}
+			]
+		},
+		{
+			"id": 19183,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-outland"
+				}
+			]
+		},
+		{
+			"id": 22135,
+			"tameable": false,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blades-edge-mountains"
+				}
+			]
+		}
+	]
+}

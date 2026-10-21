@@ -1,0 +1,9 @@
+{
+	"name": "Sickly Black Bear",
+	"variant": "Sickly Black",
+	"npcs": {
+		"107596": {
+			"name": "Grimrot"
+		}
+	}
+}

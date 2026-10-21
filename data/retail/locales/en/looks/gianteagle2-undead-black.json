@@ -1,0 +1,9 @@
+{
+	"name": "Undead Dark Grey Amani Eagle",
+	"variant": "Undead Dark Grey Amani Eagle",
+	"npcs": {
+		"249020": {
+			"name": "Hexbound Eagle"
+		}
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"id": "giraffeskinstriped",
+	"family": "stag",
+	"modelGroup": "giraffes",
+	"npcs": [
+		{
+			"id": 55602,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "darkmoon-island",
+					"area": "the-darkmoon-faire"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		28129
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"id": "hawkstrider-purple",
+	"family": "tallstrider",
+	"modelGroup": "hawkstriders",
+	"npcs": [
+		{
+			"id": 256834,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods"
+				}
+			]
+		},
+		{
+			"id": 256841,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		256862,
+		250229,
+		251055,
+		250566,
+		251733,
+		243832,
+		251271,
+		257954,
+		246895,
+		254722,
+		244918,
+		264269,
+		252715
+	]
+}

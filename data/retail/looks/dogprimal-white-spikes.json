@@ -1,0 +1,54 @@
+{
+	"id": "dogprimal-white-spikes",
+	"family": "hound",
+	"modelGroup": "bakars",
+	"npcs": [
+		{
+			"id": 193053,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "slyvern-plunge"
+				}
+			]
+		},
+		{
+			"id": 193401,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		},
+		{
+			"id": 190745,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "imbu"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		196083
+	]
+}

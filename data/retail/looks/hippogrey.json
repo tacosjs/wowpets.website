@@ -1,0 +1,36 @@
+{
+	"id": "hippogrey",
+	"family": "riverbeast",
+	"modelGroup": "riverbeasts",
+	"npcs": [
+		{
+			"id": 79662,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "talador"
+				}
+			]
+		},
+		{
+			"id": 92981,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaan-jungle",
+					"area": "thundertail-wallow"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,322 @@
+{
+	"id": "minespider2-cave",
+	"family": "spider",
+	"modelGroup": "grandspiders",
+	"npcs": [
+		{
+			"id": 36813,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 10
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gilneas"
+				}
+			]
+		},
+		{
+			"id": 44130,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 10
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gilneas"
+				}
+			]
+		},
+		{
+			"id": 16352,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ghostlands"
+				}
+			]
+		},
+		{
+			"id": 16351,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ghostlands"
+				}
+			]
+		},
+		{
+			"id": 16350,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ghostlands"
+				}
+			]
+		},
+		{
+			"id": 51987,
+			"tameable": true,
+			"level": {
+				"min": 2,
+				"max": 31
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "deadwind-pass"
+				}
+			]
+		},
+		{
+			"id": 51983,
+			"tameable": true,
+			"level": {
+				"min": 2,
+				"max": 31
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "deadwind-pass"
+				}
+			]
+		},
+		{
+			"id": 4040,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "wetlands"
+				}
+			]
+		},
+		{
+			"id": 42879,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-hinterlands"
+				}
+			]
+		},
+		{
+			"id": 217,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "duskwood"
+				}
+			]
+		},
+		{
+			"id": 210832,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ruins-of-gilneas",
+					"area": "the-blackwald"
+				}
+			]
+		},
+		{
+			"id": 137967,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley",
+					"area": "saltstone-mine"
+				}
+			]
+		},
+		{
+			"id": 128612,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "forge-of-aeons"
+				}
+			]
+		},
+		{
+			"id": 42689,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 1
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-hinterlands"
+				}
+			]
+		},
+		{
+			"id": 76104,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 41
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "shadowmoon-burial-grounds"
+				}
+			]
+		},
+		{
+			"id": 134909,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 70227,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "throne-of-thunder",
+					"area": "sewer-access-point"
+				}
+			]
+		},
+		{
+			"id": 92532,
+			"tameable": false,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaan-jungle",
+					"area": "ironmongers-hold"
+				}
+			]
+		},
+		{
+			"id": 155063,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 146156,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "council-chambers"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 205085,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "mysterious-cave"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		160394,
+		160433,
+		77006
+	]
+}

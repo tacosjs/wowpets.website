@@ -1,0 +1,126 @@
+{
+	"id": "jailerhound-black",
+	"family": "hound",
+	"modelGroup": "soulseekers",
+	"npcs": [
+		{
+			"id": 165974,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-maw",
+					"area": "crucible-of-the-damned-planes-of-torment"
+				}
+			]
+		},
+		{
+			"id": 168533,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-maw",
+					"area": "detrithos"
+				}
+			]
+		},
+		{
+			"id": 168584,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-maw",
+					"area": "detrithos"
+				}
+			]
+		},
+		{
+			"id": 167947,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-maw",
+					"area": "the-tremaculum-detrithos"
+				}
+			]
+		},
+		{
+			"id": 164046,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-maw"
+				}
+			]
+		},
+		{
+			"id": 173640,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-maw",
+					"area": "perdition-hold"
+				}
+			]
+		},
+		{
+			"id": 160786,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-maw",
+					"area": "raveners-lament"
+				}
+			]
+		},
+		{
+			"id": 175968,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "the-maw",
+					"area": "cocyrus"
+				}
+			]
+		}
+	]
+}

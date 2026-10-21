@@ -1,0 +1,53 @@
+{
+	"name": "Worm",
+	"modelGroups": {
+		"mukleeches": {
+			"name": "Mukleeches"
+		},
+		"consumptors": {
+			"name": "Consumptors"
+		},
+		"cosmicworms": {
+			"name": "Cosmic Worms"
+		},
+		"jawcrawlers": {
+			"name": "Jawcrawlers"
+		},
+		"annelids": {
+			"name": "Annelids"
+		},
+		"tidalworms": {
+			"name": "Tidal Worms"
+		},
+		"jormungar": {
+			"name": "Jormungar"
+		},
+		"silkworms": {
+			"name": "Silkworms"
+		},
+		"worms": {
+			"name": "Classic Worms"
+		},
+		"grubs": {
+			"name": "Grubs"
+		},
+		"larvae": {
+			"name": "Classic Grubs"
+		},
+		"toothedlarvae": {
+			"name": "Fanged Grubs"
+		},
+		"aqiriworms": {
+			"name": "Aqiri Worms"
+		},
+		"spikedgrubs": {
+			"name": "Spiked Grubs"
+		},
+		"bloodworms": {
+			"name": "Blood Worms"
+		},
+		"seaslugs": {
+			"name": "Sea Slugs"
+		}
+	}
+}

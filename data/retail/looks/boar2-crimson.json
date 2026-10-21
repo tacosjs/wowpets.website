@@ -1,0 +1,112 @@
+{
+	"id": "boar2-crimson",
+	"family": "boar",
+	"modelGroup": "boars",
+	"npcs": [
+		{
+			"id": 38141,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "durotar"
+				}
+			]
+		},
+		{
+			"id": 1985,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "teldrassil"
+				}
+			]
+		},
+		{
+			"id": 157,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "westfall"
+				}
+			]
+		},
+		{
+			"id": 547,
+			"tameable": true,
+			"level": {
+				"min": 7,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "redridge-mountains"
+				}
+			]
+		},
+		{
+			"id": 5992,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blasted-lands"
+				}
+			]
+		},
+		{
+			"id": 234959,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "siren-isle",
+					"area": "ghoststone-diggings"
+				}
+			]
+		},
+		{
+			"id": 47818,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "orgrimmar"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		42504,
+		42859,
+		75061,
+		75536
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"id": "mawexpansionbear-light",
+	"family": "scalehide",
+	"modelGroup": "shardhides",
+	"npcs": [
+		{
+			"id": 178526,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "korthia",
+					"area": "maulers-outlook"
+				}
+			]
+		},
+		{
+			"id": 177302,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "korthia",
+					"area": "windswept-aerie"
+				}
+			]
+		}
+	]
+}

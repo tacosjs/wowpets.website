@@ -1,0 +1,15 @@
+{
+	"name": "Radioactive Green Rat",
+	"variant": "Radioactive Green",
+	"npcs": {
+		"228494": {
+			"name": "Radioactive Rat"
+		},
+		"234550": {
+			"name": "Radioactive Scraptooth"
+		},
+		"239325": {
+			"name": "Radioactive Subject"
+		}
+	}
+}

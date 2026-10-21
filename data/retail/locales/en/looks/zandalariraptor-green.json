@@ -1,0 +1,37 @@
+{
+	"name": "Green Ravasaur",
+	"variant": "Green",
+	"npcs": {
+		"120587": {
+			"name": "Rivermarsh Raptor"
+		},
+		"122504": {
+			"name": "Savagemane Ravasaur"
+		},
+		"123649": {
+			"name": "Juvenile Raptor"
+		},
+		"124226": {
+			"name": "Raptor Matriarch"
+		},
+		"131560": {
+			"name": "Feral Ravasaur"
+		},
+		"136023": {
+			"name": "Child of Gonk"
+		},
+		"148353": {
+			"name": "Tamed Ravasaur",
+			"title": "Dinohunter Wildbeard's Pet"
+		},
+		"151892": {
+			"name": "Lurking Savagemane Juvenile"
+		},
+		"204458": {
+			"name": "Un'Gorian Raptor"
+		},
+		"238341": {
+			"name": "Rooftop Raptor"
+		}
+	}
+}

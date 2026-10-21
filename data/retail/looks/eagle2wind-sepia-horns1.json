@@ -1,0 +1,72 @@
+{
+	"id": "eagle2wind-sepia-horns1",
+	"family": "birdofprey",
+	"modelGroup": "ohunas",
+	"npcs": [
+		{
+			"id": 189373,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		},
+		{
+			"id": 188717,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "field-of-ferocity"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 191102,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores"
+				},
+				{
+					"zone": "thaldraszus"
+				}
+			]
+		},
+		{
+			"id": 195591,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		}
+	]
+}

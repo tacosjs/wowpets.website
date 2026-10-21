@@ -1,0 +1,42 @@
+{
+	"id": "darkhound2-maldraxxus-olive",
+	"family": "hound",
+	"modelGroup": "granddarkhounds",
+	"npcs": [
+		{
+			"id": 169872,
+			"tameable": false,
+			"level": {
+				"min": 52,
+				"max": 54
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "house-of-the-chosen"
+				}
+			]
+		},
+		{
+			"id": 170159,
+			"tameable": false,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "theater-of-pain"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		169825,
+		177130,
+		180220
+	]
+}

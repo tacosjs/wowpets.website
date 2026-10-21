@@ -1,0 +1,88 @@
+{
+	"id": "decomposerflierblue",
+	"family": "wasp",
+	"modelGroup": "gormwasps",
+	"npcs": [
+		{
+			"id": 171328,
+			"tameable": true,
+			"level": {
+				"min": 55,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "gormhive"
+				}
+			]
+		},
+		{
+			"id": 165427,
+			"tameable": true,
+			"level": {
+				"min": 56,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "banks-of-life"
+				}
+			]
+		},
+		{
+			"id": 166499,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "tirna-scithe"
+				}
+			]
+		},
+		{
+			"id": 163322,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "gormhive-defense-wall"
+				}
+			]
+		},
+		{
+			"id": 163660,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "gormhive-defense-wall"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		163616,
+		168008,
+		179385,
+		179386
+	]
+}

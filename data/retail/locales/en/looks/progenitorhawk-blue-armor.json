@@ -1,0 +1,16 @@
+{
+	"name": "Armoured Grey Raptora",
+	"variant": "Grey",
+	"npcs": {
+		"180924": {
+			"name": "Garudeon",
+			"title": "Raptora Prime"
+		},
+		"183464": {
+			"name": "Fleet-footed Raptora"
+		},
+		"183475": {
+			"name": "Fleet-Feather"
+		}
+	}
+}

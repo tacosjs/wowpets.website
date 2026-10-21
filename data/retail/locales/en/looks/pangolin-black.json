@@ -1,0 +1,27 @@
+{
+	"name": "Black Pango",
+	"variant": "Black",
+	"npcs": {
+		"237958": {
+			"name": "Shrine Pango"
+		},
+		"253304": {
+			"name": "Paingolin"
+		},
+		"253993": {
+			"name": "Scaley Scratcher"
+		},
+		"255022": {
+			"name": "Pango Behemoth"
+		},
+		"257508": {
+			"name": "Juvenile Pango"
+		},
+		"257516": {
+			"name": "Territorial Pango"
+		},
+		"257518": {
+			"name": "Territorial Pango"
+		}
+	}
+}

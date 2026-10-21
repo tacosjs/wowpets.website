@@ -1,0 +1,42 @@
+{
+	"id": "decomposerflieryellow",
+	"family": "wasp",
+	"modelGroup": "gormwasps",
+	"npcs": [
+		{
+			"id": 165404,
+			"tameable": true,
+			"level": {
+				"min": 55,
+				"max": 57
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 163390,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "gormhive"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		166499,
+		179385,
+		179386
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Pale Pink Serpent Hydra",
+	"variant": "Pale Pink Serpent Hydra",
+	"npcs": {
+		"259445": {
+			"name": "Rav'i"
+		},
+		"261503": {
+			"name": "Frightmaw"
+		}
+	}
+}

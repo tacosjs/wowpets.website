@@ -1,0 +1,15 @@
+{
+	"name": "Magenta Mana Ray",
+	"variant": "Magenta",
+	"npcs": {
+		"122022": {
+			"name": "Umbralfin"
+		},
+		"123511": {
+			"name": "Arcfin Mana Ray"
+		},
+		"234284": {
+			"name": "Escaped Creature"
+		}
+	}
+}

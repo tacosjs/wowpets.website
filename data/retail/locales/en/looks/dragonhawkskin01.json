@@ -1,0 +1,12 @@
+{
+	"name": "Orange & Red Dragonhawk",
+	"variant": "Orange & Red",
+	"npcs": {
+		"15650": {
+			"name": "Crazed Dragonhawk"
+		},
+		"167343": {
+			"name": "Dragonhawk"
+		}
+	}
+}

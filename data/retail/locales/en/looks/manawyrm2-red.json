@@ -1,0 +1,12 @@
+{
+	"name": "Red-Gold Eversong Mana Wyrm",
+	"variant": "Red-Gold",
+	"npcs": {
+		"250188": {
+			"name": "Mana Monitor"
+		},
+		"250882": {
+			"name": "Amber Wyrm"
+		}
+	}
+}

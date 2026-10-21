@@ -1,0 +1,27 @@
+{
+	"id": "spectralspider",
+	"family": "spider",
+	"modelGroup": "spectralbarbedspiders",
+	"npcs": [
+		{
+			"id": 206180,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "little-scales-daycare"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

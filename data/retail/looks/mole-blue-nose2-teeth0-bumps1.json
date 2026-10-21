@@ -1,0 +1,29 @@
+{
+	"id": "mole-blue-nose2-teeth0-bumps1",
+	"family": "rodent",
+	"modelGroup": "moles",
+	"npcs": [
+		{
+			"id": 230919,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "the-verdant-gutters"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		213834,
+		229814,
+		215743,
+		227184,
+		211977
+	]
+}

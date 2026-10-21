@@ -1,0 +1,42 @@
+{
+	"name": "Spotted Blue Dire Toad",
+	"variant": "Spotted Blue",
+	"npcs": {
+		"243171": {
+			"name": "Gloombelly Toad"
+		},
+		"245946": {
+			"name": "Sunbath Froglet"
+		},
+		"249358": {
+			"name": "Poisonous Passhopper"
+		},
+		"250142": {
+			"name": "Poisonous Hoplet"
+		},
+		"250143": {
+			"name": "Bog Hopper"
+		},
+		"253305": {
+			"name": "Poison Dart Frog"
+		},
+		"254503": {
+			"name": "Vile Cursed Toad"
+		},
+		"255417": {
+			"name": "Ich'loka"
+		},
+		"257428": {
+			"name": "Poisonous Hoplet"
+		},
+		"260370": {
+			"name": "Grumpy Bullfrog"
+		},
+		"262712": {
+			"name": "Warty Bullfrog"
+		},
+		"264270": {
+			"name": "Gloombelly Toad"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"id": "automatonflier",
+	"family": "mechanical",
+	"modelGroup": "aquilons",
+	"npcs": [],
+	"alsoNpcs": [
+		181213
+	]
+}

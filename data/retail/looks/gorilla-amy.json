@@ -1,0 +1,68 @@
+{
+	"id": "gorilla-amy",
+	"family": "mechanical",
+	"modelGroup": "updatedrobotgorillas",
+	"npcs": [
+		{
+			"id": 107836,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ungoro-crater",
+					"area": "fungal-rock"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 151634,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mechagon",
+					"area": "the-heaps"
+				}
+			]
+		},
+		{
+			"id": 9623,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ungoro-crater",
+					"area": "fungal-rock"
+				}
+			]
+		},
+		{
+			"id": 145790,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "krazzlefrazz-outpost"
+				}
+			]
+		}
+	]
+}

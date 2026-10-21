@@ -1,0 +1,65 @@
+{
+	"id": "thunderisleyoungbirdpurple",
+	"family": "carrionbird",
+	"modelGroup": "flightlessteroclaws",
+	"npcs": [
+		{
+			"id": 158110,
+			"tameable": true,
+			"level": {
+				"min": 51,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "korinnas-conservatory"
+				}
+			]
+		},
+		{
+			"id": 169983,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion"
+				}
+			]
+		},
+		{
+			"id": 169965,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion"
+				}
+			]
+		},
+		{
+			"id": 175039,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "korinnas-reliquary"
+				}
+			]
+		}
+	]
+}

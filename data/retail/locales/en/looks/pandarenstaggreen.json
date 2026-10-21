@@ -1,0 +1,15 @@
+{
+	"name": "Patterned Green-Brown Stag",
+	"variant": "Patterned Green-Brown",
+	"npcs": {
+		"58489": {
+			"name": "Wilderland Stag"
+		},
+		"66421": {
+			"name": "Painted Stag"
+		},
+		"66605": {
+			"name": "Ancient Stag"
+		}
+	}
+}

@@ -1,0 +1,73 @@
+{
+	"id": "magehunterblue-lowflames",
+	"family": "hound",
+	"modelGroup": "runeddemondogs",
+	"npcs": [
+		{
+			"id": 25718,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "borean-tundra"
+				}
+			]
+		},
+		{
+			"id": 26730,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-nexus"
+				}
+			]
+		},
+		{
+			"id": 51045,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "winterspring"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 53414,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-nexus"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "phase"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		25355,
+		26281
+	]
+}

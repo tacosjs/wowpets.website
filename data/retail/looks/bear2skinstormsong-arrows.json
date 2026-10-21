@@ -1,0 +1,23 @@
+{
+	"id": "bear2skinstormsong-arrows",
+	"family": "bear",
+	"modelGroup": "bears",
+	"npcs": [
+		{
+			"id": 141239,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "stormsong-valley",
+					"area": "roaring-highland"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

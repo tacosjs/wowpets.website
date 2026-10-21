@@ -1,0 +1,57 @@
+{
+	"id": "mothardenweald-blue",
+	"family": "moth",
+	"modelGroup": "ardenmoths",
+	"npcs": [
+		{
+			"id": 166304,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "mists-of-tirna-scithe"
+				}
+			]
+		},
+		{
+			"id": 166456,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "furrowed-glen"
+				}
+			]
+		},
+		{
+			"id": 161882,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "garden-of-night"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		169303,
+		174248,
+		168306,
+		182343
+	]
+}

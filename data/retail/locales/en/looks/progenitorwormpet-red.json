@@ -1,0 +1,12 @@
+{
+	"name": "Bronze & Grey Viperid",
+	"variant": "Bronze & Grey",
+	"npcs": {
+		"181086": {
+			"name": "Desert Viperid"
+		},
+		"185511": {
+			"name": "Sandskim Serpent"
+		}
+	}
+}

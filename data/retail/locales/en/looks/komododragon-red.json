@@ -1,0 +1,21 @@
+{
+	"name": "Maroon Saurolisk",
+	"variant": "Maroon",
+	"npcs": {
+		"123647": {
+			"name": "Saurolisk"
+		},
+		"124300": {
+			"name": "Saurolisk Patriarch"
+		},
+		"124302": {
+			"name": "Saurolisk Youngling"
+		},
+		"124375": {
+			"name": "Overstuffed Saurolisk"
+		},
+		"133862": {
+			"name": "Horned Leguaan"
+		}
+	}
+}

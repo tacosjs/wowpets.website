@@ -1,0 +1,87 @@
+{
+	"id": "spider-burgundy",
+	"family": "spider",
+	"modelGroup": "greatspiders",
+	"npcs": [
+		{
+			"id": 155795,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "dredhollow"
+				}
+			]
+		},
+		{
+			"id": 155770,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "dredhollow"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 169841,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "forgotten-chamber"
+				}
+			]
+		},
+		{
+			"id": 169840,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "forgotten-chamber"
+				}
+			]
+		},
+		{
+			"id": 159265,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "dominance-keep"
+				}
+			]
+		}
+	]
+}

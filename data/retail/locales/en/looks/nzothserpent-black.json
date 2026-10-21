@@ -1,0 +1,18 @@
+{
+	"name": "Black Aqiri Worm",
+	"variant": "Black Aqiri Worm",
+	"npcs": {
+		"152550": {
+			"name": "Great Worm from Beyond"
+		},
+		"204671": {
+			"name": "Leeching Parasite"
+		},
+		"210539": {
+			"name": "Corridor Creeper"
+		},
+		"220616": {
+			"name": "Corridor Sleeper"
+		}
+	}
+}

@@ -1,0 +1,39 @@
+{
+	"name": "Green Bat",
+	"variant": "Green",
+	"npcs": {
+		"75467": {
+			"name": "Cave Bat"
+		},
+		"96287": {
+			"name": "Great Cavernbat"
+		},
+		"97895": {
+			"name": "Duskwing Shrieker"
+		},
+		"110729": {
+			"name": "Sewer Screecher"
+		},
+		"126433": {
+			"name": "Bloodscreecher Wanderer"
+		},
+		"144949": {
+			"name": "Canopy Stalker"
+		},
+		"144956": {
+			"name": "Razorbite"
+		},
+		"184301": {
+			"name": "Cavern Seeker"
+		},
+		"204109": {
+			"name": "Cavernous Shrieker"
+		},
+		"231061": {
+			"name": "Phantasmal Bloodfang"
+		},
+		"253473": {
+			"name": "Gloomwing Bat"
+		}
+	}
+}

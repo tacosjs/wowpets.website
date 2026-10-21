@@ -1,0 +1,23 @@
+{
+	"id": "clefthoofdraenormount-red",
+	"family": "clefthoof",
+	"modelGroup": "draenorsaddledclefthooves",
+	"npcs": [
+		{
+			"id": 108181,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "tanaan-jungle",
+					"area": "ironhold-harbor"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

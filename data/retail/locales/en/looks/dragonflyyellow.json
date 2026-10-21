@@ -1,0 +1,24 @@
+{
+	"name": "Yellow Hook Wasp",
+	"variant": "Yellow",
+	"npcs": {
+		"81557": {
+			"name": "Golden Pollinator"
+		},
+		"83520": {
+			"name": "Stoneshard Hunter"
+		},
+		"84852": {
+			"name": "Heartsting Pollinator"
+		},
+		"85526": {
+			"name": "Amberspike Drone"
+		},
+		"86264": {
+			"name": "Everbloom Wasp"
+		},
+		"86834": {
+			"name": "Venombore Hive Guard"
+		}
+	}
+}

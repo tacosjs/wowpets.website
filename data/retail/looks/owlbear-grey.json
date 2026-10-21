@@ -1,0 +1,73 @@
+{
+	"id": "owlbear-grey",
+	"family": "feathermane",
+	"modelGroup": "umbraclaws",
+	"npcs": [
+		{
+			"id": 213808,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "the-emerald-dream"
+				}
+			]
+		},
+		{
+			"id": 212126,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "whorlwing-basin"
+				}
+			]
+		},
+		{
+			"id": 206472,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "eye-of-ysera"
+				}
+			]
+		},
+		{
+			"id": 212024,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "whorlwing-basin"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		211342,
+		216712,
+		216695,
+		212065,
+		212040
+	]
+}

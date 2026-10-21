@@ -1,0 +1,15 @@
+{
+	"name": "Dark Brown Dream Bear",
+	"variant": "Dark Brown",
+	"npcs": {
+		"210848": {
+			"name": "Cave Bristlebruin"
+		},
+		"211141": {
+			"name": "Cragcoat Bristlebruin"
+		},
+		"213542": {
+			"name": "Dreambellow Matriarch"
+		}
+	}
+}

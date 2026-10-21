@@ -1,0 +1,12 @@
+{
+	"name": "Yellow Magma Shalewing",
+	"variant": "Yellow",
+	"npcs": {
+		"204311": {
+			"name": "Contaminated Shalewing"
+		},
+		"215794": {
+			"name": "Dusty Shalewing"
+		}
+	}
+}

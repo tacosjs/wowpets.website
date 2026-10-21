@@ -1,0 +1,34 @@
+{
+	"name": "Blue Silkworm",
+	"variant": "Blue",
+	"npcs": {
+		"57404": {
+			"name": "Silky"
+		},
+		"59754": {
+			"name": "Mottled Caterpillar"
+		},
+		"65711": {
+			"name": "Siftworm"
+		},
+		"66418": {
+			"name": "Spotted Caterpillar"
+		},
+		"67084": {
+			"name": "Giant Siftworm"
+		},
+		"158852": {
+			"name": "Silkstrider Grub"
+		},
+		"168089": {
+			"name": "Silkstrider Grub"
+		},
+		"194875": {
+			"name": "Surprised Silkworm"
+		},
+		"205267": {
+			"name": "Pipsee",
+			"title": "Melati's Pet"
+		}
+	}
+}

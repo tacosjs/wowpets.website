@@ -1,0 +1,12 @@
+{
+	"name": "Venom-Soaked Grey-Brown  Draenor Boar",
+	"variant": "Venom-Soaked Grey-Brown",
+	"npcs": {
+		"258504": {
+			"name": "Implanted Boar"
+		},
+		"261481": {
+			"name": "Frenzied Boar"
+		}
+	}
+}

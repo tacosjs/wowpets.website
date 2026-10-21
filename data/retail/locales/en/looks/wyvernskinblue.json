@@ -1,0 +1,9 @@
+{
+	"name": "Blue Wyvern",
+	"variant": "Blue",
+	"npcs": {
+		"5928": {
+			"name": "Sorrow Wing"
+		}
+	}
+}

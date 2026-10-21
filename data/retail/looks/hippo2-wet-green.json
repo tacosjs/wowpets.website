@@ -1,0 +1,74 @@
+{
+	"id": "hippo2-wet-green",
+	"family": "riverbeast",
+	"modelGroup": "stockyriverbeasts",
+	"npcs": [
+		{
+			"id": 192652,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "clearwater-basin"
+				}
+			]
+		},
+		{
+			"id": 235013,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "razorwing-shores"
+				}
+			]
+		},
+		{
+			"id": 195969,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "iskaara"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		124631,
+		124084,
+		123731,
+		192594,
+		194079,
+		194075,
+		191686,
+		194145,
+		192597,
+		196017,
+		191684,
+		191687,
+		194144,
+		194078,
+		126628,
+		192596
+	]
+}

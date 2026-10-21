@@ -1,0 +1,48 @@
+{
+	"name": "Camo Dragon Turtle",
+	"variant": "Camo",
+	"npcs": {
+		"56447": {
+			"name": "Muck Snapper"
+		},
+		"58218": {
+			"name": "Saltback Turtle"
+		},
+		"58219": {
+			"name": "Saltback Yearling"
+		},
+		"58431": {
+			"name": "Bulgeback Tortoise"
+		},
+		"59084": {
+			"name": "Pearly Tortoise"
+		},
+		"61619": {
+			"name": "Rankbite Tortoise"
+		},
+		"66099": {
+			"name": "Riverbank Barbshell"
+		},
+		"74722": {
+			"name": "Razorshell Snapjaw"
+		},
+		"89696": {
+			"name": "Horned Leatherback"
+		},
+		"110050": {
+			"name": "Stillwater Snapper"
+		},
+		"112802": {
+			"name": "Mar'tura"
+		},
+		"112948": {
+			"name": "Glitterpool Snapper"
+		},
+		"122263": {
+			"name": "Spineshell Snapjaw"
+		},
+		"167348": {
+			"name": "Turtle"
+		}
+	}
+}

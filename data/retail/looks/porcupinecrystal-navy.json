@@ -1,0 +1,29 @@
+{
+	"id": "porcupinecrystal-navy",
+	"family": "rodent",
+	"modelGroup": "floweringcrystalspines",
+	"npcs": [
+		{
+			"id": 190288,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 65
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "whelp-daycare"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		195305,
+		190743,
+		192882,
+		193891,
+		195541
+	]
+}

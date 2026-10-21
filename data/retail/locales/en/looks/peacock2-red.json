@@ -1,0 +1,12 @@
+{
+	"name": "Scarlet Peafowl",
+	"variant": "Scarlet",
+	"npcs": {
+		"226561": {
+			"name": "Blazefeather Peacock"
+		},
+		"226562": {
+			"name": "Blazefeather Peacock"
+		}
+	}
+}

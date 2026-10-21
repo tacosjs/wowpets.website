@@ -1,0 +1,12 @@
+{
+	"name": "Black Ram",
+	"variant": "Black",
+	"npcs": {
+		"2098": {
+			"name": "Ram"
+		},
+		"41539": {
+			"name": "Stolen Ram"
+		}
+	}
+}

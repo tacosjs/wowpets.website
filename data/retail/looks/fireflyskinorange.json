@@ -1,0 +1,36 @@
+{
+	"id": "fireflyskinorange",
+	"family": "wasp",
+	"modelGroup": "fireflies",
+	"npcs": [
+		{
+			"id": 77314,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "swamplight-cave"
+				}
+			]
+		},
+		{
+			"id": 91118,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valsharah"
+				}
+			]
+		}
+	]
+}

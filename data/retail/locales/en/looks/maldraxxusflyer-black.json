@@ -1,0 +1,18 @@
+{
+	"name": "Black Death Chimaera w/ Horns",
+	"variant": "Black w/ Horns",
+	"npcs": {
+		"167448": {
+			"name": "Flayedwing Harrier"
+		},
+		"170780": {
+			"name": "Flayedwing Wraith"
+		},
+		"170822": {
+			"name": "Flayedwing Wraith"
+		},
+		"170823": {
+			"name": "Flayedwing Wraith"
+		}
+	}
+}

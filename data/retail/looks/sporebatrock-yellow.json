@@ -1,0 +1,42 @@
+{
+	"id": "sporebatrock-yellow",
+	"family": "ray",
+	"modelGroup": "shalewings",
+	"npcs": [
+		{
+			"id": 204311,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "sulfur-wastes"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 215794,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "the-rumbling-wastes"
+				}
+			]
+		}
+	]
+}

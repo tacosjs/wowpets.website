@@ -1,0 +1,10 @@
+{
+	"name": "Green Parrot",
+	"variant": "Green",
+	"npcs": {
+		"136582": {
+			"name": "Jade Hurricane",
+			"title": "Parrot for Hire"
+		}
+	}
+}

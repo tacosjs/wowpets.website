@@ -1,0 +1,30 @@
+{
+	"name": "Black Monkey",
+	"variant": "Black",
+	"npcs": {
+		"34699": {
+			"name": "Bomb-Throwing Monkey"
+		},
+		"35812": {
+			"name": "Smart Mining Monkey"
+		},
+		"36383": {
+			"name": "Jumping Monkey"
+		},
+		"42616": {
+			"name": "Spanks"
+		},
+		"43050": {
+			"name": "Vale Howler"
+		},
+		"43417": {
+			"name": "Skymane Bonobo"
+		},
+		"48440": {
+			"name": "Mining Monkey"
+		},
+		"52441": {
+			"name": "Curious Jungle Monkey"
+		}
+	}
+}

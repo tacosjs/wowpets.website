@@ -1,0 +1,9 @@
+{
+	"name": "Light Grey Helhound",
+	"variant": "Light Grey",
+	"npcs": {
+		"168862": {
+			"name": "Hulking Doomfang"
+		}
+	}
+}

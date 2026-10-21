@@ -1,0 +1,26 @@
+{
+	"id": "thornmaw-red",
+	"family": "scalehide",
+	"modelGroup": "thornmaws",
+	"npcs": [
+		{
+			"id": 256075,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "veilroot-clearing"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		251914,
+		249412
+	]
+}

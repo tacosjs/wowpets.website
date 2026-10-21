@@ -1,0 +1,51 @@
+{
+	"id": "darkhound2-maldraxxus-teal",
+	"family": "hound",
+	"modelGroup": "granddarkhounds",
+	"npcs": [
+		{
+			"id": 175265,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "maldraxxus"
+				}
+			]
+		},
+		{
+			"id": 169702,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "the-stitchyard"
+				}
+			]
+		},
+		{
+			"id": 162797,
+			"tameable": false,
+			"level": {
+				"min": 53,
+				"max": 54
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "theater-of-pain"
+				}
+			]
+		}
+	]
+}

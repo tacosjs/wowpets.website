@@ -1,0 +1,9 @@
+{
+	"name": "Purple Gorm w/ Horns",
+	"variant": "Purple w/ Horns",
+	"npcs": {
+		"160076": {
+			"name": "Gorm Borer"
+		}
+	}
+}

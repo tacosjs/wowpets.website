@@ -1,0 +1,22 @@
+{
+	"id": "nerubianspiderlingskinblue",
+	"family": "spider",
+	"modelGroup": "classicthreadlings",
+	"npcs": [
+		{
+			"id": 139875,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 71
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions",
+					"area": "skittering-hollow"
+				}
+			]
+		}
+	]
+}

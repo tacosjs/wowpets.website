@@ -1,0 +1,114 @@
+{
+	"id": "compy-green",
+	"family": "raptor",
+	"modelGroup": "saurids",
+	"npcs": [
+		{
+			"id": 128435,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ataldazar"
+				}
+			]
+		},
+		{
+			"id": 135490,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "ataldazar-non-instanced"
+				}
+			]
+		},
+		{
+			"id": 139488,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "antulmita-plateau"
+				}
+			]
+		},
+		{
+			"id": 126331,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "the-zocalo"
+				}
+			]
+		},
+		{
+			"id": 136566,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "shatterstone-harbor"
+				}
+			]
+		},
+		{
+			"id": 133443,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zandalar"
+				}
+			]
+		},
+		{
+			"id": 180510,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-veiled-market",
+					"area": "tazavesh"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		126653,
+		128585
+	]
+}

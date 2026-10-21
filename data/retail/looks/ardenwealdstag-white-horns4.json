@@ -1,0 +1,54 @@
+{
+	"id": "ardenwealdstag-white-horns4",
+	"family": "stag",
+	"modelGroup": "runestags",
+	"npcs": [
+		{
+			"id": 166735,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "mistveil-tangle"
+				}
+			]
+		},
+		{
+			"id": 164873,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "de-other-side"
+				}
+			]
+		},
+		{
+			"id": 172067,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "misteveil-tangle"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		166187
+	]
+}

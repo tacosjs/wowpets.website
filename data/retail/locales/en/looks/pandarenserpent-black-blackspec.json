@@ -1,0 +1,12 @@
+{
+	"name": "Black Cloud Serpent w/ Dark Sheen",
+	"variant": "Black w/ Dark Sheen",
+	"npcs": {
+		"61848": {
+			"name": "Wild Onyx Serpent"
+		},
+		"62448": {
+			"name": "Onyx Stormclaw"
+		}
+	}
+}

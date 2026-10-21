@@ -1,0 +1,21 @@
+{
+	"name": "Green Sporebat",
+	"variant": "Green",
+	"npcs": {
+		"17724": {
+			"name": "Underbat"
+		},
+		"18129": {
+			"name": "Greater Sporebat"
+		},
+		"20387": {
+			"name": "Young Sporebat"
+		},
+		"84639": {
+			"name": "Sporebat"
+		},
+		"265791": {
+			"name": "Sporeray Elder"
+		}
+	}
+}

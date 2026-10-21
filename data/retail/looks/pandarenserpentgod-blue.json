@@ -1,0 +1,23 @@
+{
+	"id": "pandarenserpentgod-blue",
+	"family": "lesserdragonkin",
+	"modelGroup": "celestialcloudserpents",
+	"npcs": [
+		{
+			"id": 157162,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms",
+					"area": "the-hall-of-the-serpent"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

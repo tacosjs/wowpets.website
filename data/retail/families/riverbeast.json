@@ -1,0 +1,25 @@
+{
+	"id": "riverbeast",
+	"icon": "inv_hippo_green",
+	"spec": "tenacity",
+	"exotic": false,
+	"diet": [
+		"bread",
+		"fruit",
+		"fungus"
+	],
+	"abilities": {
+		"basic": "bite",
+		"family": [
+			"gruesome-bite"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "stockyriverbeasts"
+		},
+		{
+			"id": "riverbeasts"
+		}
+	]
+}

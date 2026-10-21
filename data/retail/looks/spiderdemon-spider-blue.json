@@ -1,0 +1,64 @@
+{
+	"id": "spiderdemon-spider-blue",
+	"family": "spider",
+	"modelGroup": "demonspiders",
+	"npcs": [
+		{
+			"id": 120667,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "broken-shore"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 107778,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dalaran-broken-isles"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 224077,
+			"tameable": false,
+			"level": {
+				"min": 81,
+				"max": 81
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zekvirs-lair"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

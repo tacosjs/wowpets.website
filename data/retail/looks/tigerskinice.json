@@ -1,0 +1,23 @@
+{
+	"id": "tigerskinice",
+	"family": "cat",
+	"modelGroup": "cats",
+	"npcs": [
+		{
+			"id": 50819,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "winterspring",
+					"area": "frostsaber-rock"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

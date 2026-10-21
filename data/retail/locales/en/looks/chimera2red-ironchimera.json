@@ -1,0 +1,9 @@
+{
+	"name": "Armored Red Rylak w/ Engines",
+	"variant": "Red w/ Engines",
+	"npcs": {
+		"83591": {
+			"name": "Tura'aka"
+		}
+	}
+}

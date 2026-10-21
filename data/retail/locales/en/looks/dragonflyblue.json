@@ -1,0 +1,18 @@
+{
+	"name": "Blue Hook Wasp",
+	"variant": "Blue",
+	"npcs": {
+		"85695": {
+			"name": "Mistcreep Stinger"
+		},
+		"85807": {
+			"name": "Weald Stinger"
+		},
+		"86835": {
+			"name": "Xelganak"
+		},
+		"89837": {
+			"name": "Icespine Drone"
+		}
+	}
+}

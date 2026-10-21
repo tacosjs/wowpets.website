@@ -1,0 +1,15 @@
+{
+	"name": "Darker Green Riverbeast",
+	"variant": "Darker Green",
+	"npcs": {
+		"192652": {
+			"name": "Clearwater Bull"
+		},
+		"195969": {
+			"name": "Hungry Hungry Riverbeast"
+		},
+		"235013": {
+			"name": "Pygmy Hippo"
+		}
+	}
+}

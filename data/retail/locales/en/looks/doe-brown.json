@@ -1,0 +1,57 @@
+{
+	"name": "Dark Brown Doe",
+	"variant": "Dark Brown",
+	"npcs": {
+		"103805": {
+			"name": "Sablehorn Doe"
+		},
+		"107755": {
+			"name": "Amberfall Doe"
+		},
+		"126709": {
+			"name": "Noblehoof Doe"
+		},
+		"128385": {
+			"name": "Lowlands Doe"
+		},
+		"129764": {
+			"name": "Hexcrazed Doe"
+		},
+		"132797": {
+			"name": "Pinegraze Calf"
+		},
+		"137336": {
+			"name": "Ashenwood Doe"
+		},
+		"140086": {
+			"name": "Pinegraze Courser"
+		},
+		"142183": {
+			"name": "Riverland Doe"
+		},
+		"165727": {
+			"name": "Plains Doe"
+		},
+		"191496": {
+			"name": "Pinehoof Doe"
+		},
+		"191544": {
+			"name": "Brambledoe"
+		},
+		"191558": {
+			"name": "Brambledoe"
+		},
+		"196414": {
+			"name": "Pinehoof Doe"
+		},
+		"235017": {
+			"name": "Doe"
+		},
+		"252837": {
+			"name": "Sunset Doe"
+		},
+		"253923": {
+			"name": "Sunset Doe"
+		}
+	}
+}

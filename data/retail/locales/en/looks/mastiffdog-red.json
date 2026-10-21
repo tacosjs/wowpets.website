@@ -1,0 +1,33 @@
+{
+	"name": "Red Mastiff",
+	"variant": "Red",
+	"npcs": {
+		"51031": {
+			"name": "Tracker"
+		},
+		"58674": {
+			"name": "Angry Hound"
+		},
+		"58876": {
+			"name": "Starving Hound"
+		},
+		"59309": {
+			"name": "Obedient Hound"
+		},
+		"129166": {
+			"name": "Howler"
+		},
+		"136469": {
+			"name": "Lil' Red"
+		},
+		"141118": {
+			"name": "Yard Dog"
+		},
+		"142119": {
+			"name": "Meershers"
+		},
+		"143592": {
+			"name": "Milford"
+		}
+	}
+}

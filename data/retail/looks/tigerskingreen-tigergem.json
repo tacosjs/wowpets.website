@@ -1,0 +1,22 @@
+{
+	"id": "tigerskingreen-tigergem",
+	"family": "cat",
+	"modelGroup": "hunchedcats",
+	"npcs": [
+		{
+			"id": 50837,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "swamp-of-sorrows"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

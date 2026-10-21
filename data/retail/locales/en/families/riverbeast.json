@@ -1,0 +1,11 @@
+{
+	"name": "Riverbeasts",
+	"modelGroups": {
+		"stockyriverbeasts": {
+			"name": "Stocky Riverbeasts"
+		},
+		"riverbeasts": {
+			"name": "Riverbeasts"
+		}
+	}
+}

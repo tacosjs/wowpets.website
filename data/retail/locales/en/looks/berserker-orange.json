@@ -1,0 +1,27 @@
+{
+	"name": "Orange Ultradon",
+	"variant": "Orange Ultradon",
+	"npcs": {
+		"242481": {
+			"name": "Bitter Beast"
+		},
+		"244624": {
+			"name": "Ultradon Tyrant"
+		},
+		"244963": {
+			"name": "Sulking Ultradon"
+		},
+		"247944": {
+			"name": "Hatecrusher Ultradon"
+		},
+		"249620": {
+			"name": "Captured Ultradon"
+		},
+		"257115": {
+			"name": "Wrathstomp Ultradon"
+		},
+		"257960": {
+			"name": "Wrathstomp Ultradon"
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"name": "Green Swarmite w/ Proboscis & Long Tail",
+	"variant": "Green w/ Proboscis & Long Tail",
+	"npcs": {
+		"217040": {
+			"name": "Noth Venomsprayer"
+		},
+		"218380": {
+			"name": "Vigilant Nestguard"
+		},
+		"220399": {
+			"name": "Cache Courier"
+		},
+		"223117": {
+			"name": "Discordant Swarmite"
+		}
+	}
+}

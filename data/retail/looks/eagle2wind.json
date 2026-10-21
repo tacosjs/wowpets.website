@@ -1,0 +1,160 @@
+{
+	"id": "eagle2wind",
+	"family": "birdofprey",
+	"modelGroup": "ohunas",
+	"npcs": [
+		{
+			"id": 198112,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus"
+				}
+			]
+		},
+		{
+			"id": 192375,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "steelcliff-passage"
+				}
+			]
+		},
+		{
+			"id": 187496,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "sylvan-glade"
+				}
+			]
+		},
+		{
+			"id": 189521,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "gardens-of-unity"
+				}
+			]
+		},
+		{
+			"id": 198418,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus"
+				}
+			]
+		},
+		{
+			"id": 187472,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "passage-of-time"
+				}
+			]
+		},
+		{
+			"id": 187825,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "passage-of-time"
+				}
+			]
+		},
+		{
+			"id": 212503,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "amirdrassil-dragon-isles-zone"
+				}
+			]
+		},
+		{
+			"id": 183542,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		195002,
+		195456,
+		194849,
+		195045,
+		194750,
+		195208,
+		191201,
+		195004,
+		196059,
+		193306,
+		191588,
+		191245,
+		187548,
+		195483,
+		194913,
+		193099,
+		196142,
+		191802,
+		190132,
+		195731
+	]
+}

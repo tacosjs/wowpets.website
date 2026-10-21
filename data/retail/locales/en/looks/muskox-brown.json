@@ -1,0 +1,39 @@
+{
+	"name": "Brown Musken",
+	"variant": "Brown",
+	"npcs": {
+		"103786": {
+			"name": "Well-Fed Musken"
+		},
+		"107805": {
+			"name": "Plains Runehorn Bull"
+		},
+		"140449": {
+			"name": "Thickflank"
+		},
+		"140452": {
+			"name": "Pikehorn the Sleeper"
+		},
+		"189935": {
+			"name": "Pack Beast"
+		},
+		"190100": {
+			"name": "Pack Musken"
+		},
+		"190905": {
+			"name": "Meadowhoof Musken"
+		},
+		"195172": {
+			"name": "Grasslands Musken"
+		},
+		"195185": {
+			"name": "Grasslands Calf"
+		},
+		"195219": {
+			"name": "Grasslands Stomper"
+		},
+		"196054": {
+			"name": "Sunbelt Musken"
+		}
+	}
+}

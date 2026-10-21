@@ -1,0 +1,15 @@
+{
+	"id": "horse3-palamino-mane1",
+	"family": "courser",
+	"modelGroup": "horses",
+	"npcs": [],
+	"alsoNpcs": [
+		37785,
+		26472,
+		123212,
+		142455,
+		244688,
+		47666,
+		55715
+	]
+}

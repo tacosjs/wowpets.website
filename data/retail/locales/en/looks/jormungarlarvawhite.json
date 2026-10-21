@@ -1,0 +1,43 @@
+{
+	"name": "White Jormungar",
+	"variant": "White",
+	"npcs": {
+		"26359": {
+			"name": "Ice Heart Jormungar Spawn"
+		},
+		"51028": {
+			"name": "The Deep Tunneler"
+		},
+		"73227": {
+			"name": "Wastes Rockworm",
+			"title": "Child of Shui Halad"
+		},
+		"78213": {
+			"name": "Snow Lurker"
+		},
+		"84799": {
+			"name": "Adolescent Snow Lurker"
+		},
+		"106192": {
+			"name": "Pale Icecarver"
+		},
+		"111735": {
+			"name": "Rock Worm Broodling"
+		},
+		"117344": {
+			"name": "Fel Infused Wormling"
+		},
+		"140976": {
+			"name": "Bore Worm"
+		},
+		"173834": {
+			"name": "Chilled Crustburster"
+		},
+		"186391": {
+			"name": "Vicious Ice Slitherer"
+		},
+		"199332": {
+			"name": "Lakefrost Larva"
+		}
+	}
+}

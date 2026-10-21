@@ -1,0 +1,22 @@
+{
+	"id": "sporebat2-blue",
+	"family": "sporebat",
+	"modelGroup": "draenorsporebats",
+	"npcs": [
+		{
+			"id": 82323,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "umbrafen"
+				}
+			]
+		}
+	]
+}

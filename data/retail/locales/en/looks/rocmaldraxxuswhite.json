@@ -1,0 +1,25 @@
+{
+	"name": "Dark Grey Death Roc",
+	"variant": "Dark Grey",
+	"npcs": {
+		"168424": {
+			"name": "Battlesewn Roc"
+		},
+		"168857": {
+			"name": "Stitched-Wing Hauler"
+		},
+		"169704": {
+			"name": "Stitched-Wing Hauler"
+		},
+		"171782": {
+			"name": "Battlesewn Roc"
+		},
+		"173075": {
+			"name": "Marrow",
+			"title": "Alexandros Morgraine's Pet"
+		},
+		"175990": {
+			"name": "Salvage Hauler"
+		}
+	}
+}

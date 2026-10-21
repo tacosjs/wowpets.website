@@ -1,0 +1,60 @@
+{
+	"name": "Green & Brown Duck",
+	"variant": "Green & Brown",
+	"npcs": {
+		"187442": {
+			"name": "Waking Duck"
+		},
+		"187490": {
+			"name": "Duck"
+		},
+		"189028": {
+			"name": "Emerald Mallard"
+		},
+		"189508": {
+			"name": "Ambercrowned Mallard"
+		},
+		"189899": {
+			"name": "Duck"
+		},
+		"190708": {
+			"name": "Jadethroat Mallard"
+		},
+		"192373": {
+			"name": "Verdant Mallard"
+		},
+		"193636": {
+			"name": "Pinewing Mallard"
+		},
+		"194909": {
+			"name": "Feather Ruffling Duck"
+		},
+		"195008": {
+			"name": "Emerald Mallard"
+		},
+		"195014": {
+			"name": "Adventurous Mallard"
+		},
+		"195117": {
+			"name": "Pond Duck"
+		},
+		"195514": {
+			"name": "Nubagh"
+		},
+		"196609": {
+			"name": "Buffleheaded Waterfowl"
+		},
+		"196674": {
+			"name": "Buffleheaded Waterfowl"
+		},
+		"197355": {
+			"name": "Duck"
+		},
+		"197685": {
+			"name": "Cliffs Mallard"
+		},
+		"212495": {
+			"name": "Shadelapper Duck"
+		}
+	}
+}

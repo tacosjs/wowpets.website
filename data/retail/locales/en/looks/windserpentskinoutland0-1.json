@@ -1,0 +1,9 @@
+{
+	"name": "Red & Grey Spiked Wind Serpent",
+	"variant": "Red & Grey",
+	"npcs": {
+		"50784": {
+			"name": "Anith"
+		}
+	}
+}

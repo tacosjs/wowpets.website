@@ -1,0 +1,12 @@
+{
+	"name": "Red Spiked Wind Serpent",
+	"variant": "Red",
+	"npcs": {
+		"20749": {
+			"name": "Scalewing Serpent"
+		},
+		"23162": {
+			"name": "Vakkiz the Windrager"
+		}
+	}
+}

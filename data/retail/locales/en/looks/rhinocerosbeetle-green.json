@@ -1,0 +1,33 @@
+{
+	"name": "Green Rhinoceros Beetle",
+	"variant": "Green",
+	"npcs": {
+		"193705": {
+			"name": "Bustled Beetle"
+		},
+		"195709": {
+			"name": "Gorging Stagbeetle"
+		},
+		"198791": {
+			"name": "Scalecrawler Beetle"
+		},
+		"200910": {
+			"name": "Pestilent Pincher"
+		},
+		"203026": {
+			"name": "Pestilent Pincher"
+		},
+		"240871": {
+			"name": "Swiftsting"
+		},
+		"250509": {
+			"name": "Smoldering Beetle"
+		},
+		"256766": {
+			"name": "Rootforage Beetle"
+		},
+		"256870": {
+			"name": "Smoldering Beetle"
+		}
+	}
+}

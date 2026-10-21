@@ -1,0 +1,16 @@
+{
+	"name": "Black Thornclaw",
+	"variant": "Black",
+	"npcs": {
+		"135868": {
+			"name": "Greenstalker"
+		},
+		"142278": {
+			"name": "Hexed Thornclaw"
+		},
+		"210981": {
+			"name": "Liliuna",
+			"title": "Thornborn Spirit"
+		}
+	}
+}

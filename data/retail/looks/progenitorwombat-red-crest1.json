@@ -1,0 +1,22 @@
+{
+	"id": "progenitorwombat-red-crest1",
+	"family": "rodent",
+	"modelGroup": "vombatas",
+	"npcs": [
+		{
+			"id": 178935,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "genesis-fields-the-great-veldt"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,177 @@
+{
+	"id": "bee-red",
+	"family": "wasp",
+	"modelGroup": "bees",
+	"npcs": [
+		{
+			"id": 127333,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "barbthorn-ridge"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 141901,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley"
+				}
+			]
+		},
+		{
+			"id": 132341,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley",
+					"area": "rosalines-apiary"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 134519,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley",
+					"area": "rosalines-apiary"
+				}
+			]
+		},
+		{
+			"id": 190543,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "ruby-life-pools"
+				}
+			]
+		},
+		{
+			"id": 193809,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "shadow-ledge"
+				}
+			]
+		},
+		{
+			"id": 155045,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 155559,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley",
+					"area": "honeyback-hatchery"
+				}
+			]
+		},
+		{
+			"id": 190810,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "ruby-life-pools"
+				}
+			]
+		},
+		{
+			"id": 190811,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "ruby-life-pools"
+				}
+			]
+		},
+		{
+			"id": 190809,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "ruby-life-pools"
+				}
+			]
+		}
+	]
+}

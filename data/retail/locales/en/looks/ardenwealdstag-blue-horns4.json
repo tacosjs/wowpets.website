@@ -1,0 +1,15 @@
+{
+	"name": "Purple & Teal Runestag w/ Webbed Horns",
+	"variant": "Purple & Teal w/ Webbed Horns",
+	"npcs": {
+		"165092": {
+			"name": "Forest Guardian"
+		},
+		"165093": {
+			"name": "Wounded Forest Guardian"
+		},
+		"170695": {
+			"name": "Runestag Bull"
+		}
+	}
+}

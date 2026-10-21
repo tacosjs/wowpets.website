@@ -1,0 +1,87 @@
+{
+	"id": "darkhound2-maldraxxus-green",
+	"family": "hound",
+	"modelGroup": "granddarkhounds",
+	"npcs": [
+		{
+			"id": 165349,
+			"tameable": true,
+			"level": {
+				"min": 53,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "hall-of-chains-separation-chamber"
+				}
+			]
+		},
+		{
+			"id": 169825,
+			"tameable": true,
+			"level": {
+				"min": 53,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "house-of-constructs"
+				}
+			]
+		},
+		{
+			"id": 172628,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "ossein-foundry"
+				}
+			]
+		},
+		{
+			"id": 177130,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-maw",
+					"area": "desmotaeron"
+				}
+			]
+		},
+		{
+			"id": 180220,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-maw",
+					"area": "the-beastwarrens"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

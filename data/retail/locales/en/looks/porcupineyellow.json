@@ -1,0 +1,15 @@
+{
+	"name": "Yellow Porcupine",
+	"variant": "Yellow",
+	"npcs": {
+		"58411": {
+			"name": "Docile Porcupine"
+		},
+		"146139": {
+			"name": "Goldspine"
+		},
+		"156759": {
+			"name": "Docile Porcupine"
+		}
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"id": "deepseacrabred-biolucentblue",
+	"family": "crab",
+	"modelGroup": "spikedcrabs",
+	"npcs": [
+		{
+			"id": 58880,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "krasarang-wilds"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		61090,
+		216963,
+		257101
+	]
+}

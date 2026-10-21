@@ -1,0 +1,12 @@
+{
+	"name": "Grey Mammoth w/ Medium Tusks",
+	"variant": "Grey",
+	"npcs": {
+		"248678": {
+			"name": "Hulking Juggernaut"
+		},
+		"263826": {
+			"name": "Roasted Mammoth"
+		}
+	}
+}

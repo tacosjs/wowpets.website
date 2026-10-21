@@ -1,0 +1,9 @@
+{
+	"name": "Smouldering Elekk",
+	"variant": "Smouldering",
+	"npcs": {
+		"85180": {
+			"name": "Irontusk Trampler"
+		}
+	}
+}

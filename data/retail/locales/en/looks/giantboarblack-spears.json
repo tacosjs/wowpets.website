@@ -1,0 +1,9 @@
+{
+	"name": "Wounded Black Draenor Boar",
+	"variant": "Wounded Black",
+	"npcs": {
+		"127800": {
+			"name": "Chartusk"
+		}
+	}
+}

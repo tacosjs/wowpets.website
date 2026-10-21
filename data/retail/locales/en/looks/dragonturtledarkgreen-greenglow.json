@@ -1,0 +1,15 @@
+{
+	"name": "Grey & Dark Green Dragon Turtle w/ Glow",
+	"variant": "Grey & Dark Green w/ Glow",
+	"npcs": {
+		"158772": {
+			"name": "Eternal Terrapin"
+		},
+		"168428": {
+			"name": "Riverfall Terrapin"
+		},
+		"168502": {
+			"name": "Riverfall Snapper"
+		}
+	}
+}

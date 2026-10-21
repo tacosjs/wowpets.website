@@ -1,0 +1,22 @@
+{
+	"name": "Dark Grey Gargon",
+	"variant": "Dark Grey",
+	"npcs": {
+		"157465": {
+			"name": "Fiendish Stonestalker",
+			"title": "Malevolent Stonekeeper's Pet"
+		},
+		"158702": {
+			"name": "Lurking Monitor"
+		},
+		"169104": {
+			"name": "Chiseled Bandog"
+		},
+		"172092": {
+			"name": "Messenger Eater"
+		},
+		"173393": {
+			"name": "Stonehide Mauler"
+		}
+	}
+}

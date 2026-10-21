@@ -1,0 +1,18 @@
+{
+	"name": "White Vulture",
+	"variant": "White",
+	"npcs": {
+		"2931": {
+			"name": "Zaricotl"
+		},
+		"137211": {
+			"name": "Scorched Roc"
+		},
+		"140799": {
+			"name": "Driftstalker"
+		},
+		"140800": {
+			"name": "Cloudwing the Killthief"
+		}
+	}
+}

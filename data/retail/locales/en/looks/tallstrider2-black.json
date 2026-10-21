@@ -1,0 +1,16 @@
+{
+	"name": "Grey Tallstrider",
+	"variant": "Grey",
+	"npcs": {
+		"2956": {
+			"name": "Adult Plainstrider"
+		},
+		"3245": {
+			"name": "Ornery Plainstrider"
+		},
+		"24740": {
+			"name": "Goodie",
+			"title": "Elenna Edune's Pet"
+		}
+	}
+}

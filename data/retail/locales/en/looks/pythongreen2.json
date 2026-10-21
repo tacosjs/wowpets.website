@@ -1,0 +1,21 @@
+{
+	"name": "Grey-Green Python",
+	"variant": "Grey-Green",
+	"npcs": {
+		"261122": {
+			"name": "Agitated Python"
+		},
+		"261177": {
+			"name": "Swarming Chestbiter"
+		},
+		"265051": {
+			"name": "Burrow Python"
+		},
+		"270233": {
+			"name": "Venomspawn Snapper"
+		},
+		"270254": {
+			"name": "Venomspawn Snapper"
+		}
+	}
+}

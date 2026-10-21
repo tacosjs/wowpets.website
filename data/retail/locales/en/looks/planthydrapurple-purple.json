@@ -1,0 +1,75 @@
+{
+	"name": "Purple & Dark Blue Mandragora",
+	"variant": "Purple & Dark Blue",
+	"npcs": {
+		"82530": {
+			"name": "Mandragora"
+		},
+		"84399": {
+			"name": "Vicious Mandragora"
+		},
+		"84890": {
+			"name": "Festerbloom"
+		},
+		"85377": {
+			"name": "Rotvine"
+		},
+		"86260": {
+			"name": "Wild Mandragora"
+		},
+		"115853": {
+			"name": "Doomlash"
+		},
+		"167726": {
+			"name": "Rootwrithe"
+		},
+		"169836": {
+			"name": "Invasive Terror"
+		},
+		"172992": {
+			"name": "Overgrown Hydra"
+		},
+		"173714": {
+			"name": "Mistveil Nightblossom"
+		},
+		"200981": {
+			"name": "Apiazhus"
+		},
+		"253311": {
+			"name": "Grumpy"
+		},
+		"253313": {
+			"name": "Grumpy"
+		},
+		"254620": {
+			"name": "F'liks"
+		},
+		"254621": {
+			"name": "T'omm"
+		},
+		"254622": {
+			"name": "N'ala"
+		},
+		"254658": {
+			"name": "N'ala"
+		},
+		"254659": {
+			"name": "T'omm"
+		},
+		"254660": {
+			"name": "F'lix"
+		},
+		"254661": {
+			"name": "Grumpy"
+		},
+		"254662": {
+			"name": "F'liks"
+		},
+		"254663": {
+			"name": "T'omm"
+		},
+		"254664": {
+			"name": "N'ala"
+		}
+	}
+}

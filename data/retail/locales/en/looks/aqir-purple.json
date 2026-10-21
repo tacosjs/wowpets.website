@@ -1,0 +1,30 @@
+{
+	"name": "Purple Aqir Goliath",
+	"variant": "Purple",
+	"npcs": {
+		"154353": {
+			"name": "Aqir Goliath"
+		},
+		"154576": {
+			"name": "Aqir Titanus"
+		},
+		"158530": {
+			"name": "Aqir Hive Guardian"
+		},
+		"161218": {
+			"name": "Aqir Crusher"
+		},
+		"162173": {
+			"name": "R'krox the Runt"
+		},
+		"163025": {
+			"name": "Aqir Goliath"
+		},
+		"163259": {
+			"name": "Goliath Hatchling"
+		},
+		"163268": {
+			"name": "Titanus Young"
+		}
+	}
+}

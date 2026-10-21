@@ -1,0 +1,12 @@
+{
+	"name": "Orange & Green Marsuul",
+	"variant": "Orange & Green",
+	"npcs": {
+		"119968": {
+			"name": "Flashfoot Marsuul"
+		},
+		"126445": {
+			"name": "Puckish Marsuul"
+		}
+	}
+}

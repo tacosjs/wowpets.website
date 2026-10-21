@@ -1,0 +1,43 @@
+{
+	"name": "Black Devilsaur",
+	"variant": "Black",
+	"npcs": {
+		"69148": {
+			"name": "Bloodrender Devilsaur"
+		},
+		"69406": {
+			"name": "Mighty Devilsaur"
+		},
+		"70005": {
+			"name": "Young Primal Devilsaur"
+		},
+		"70008": {
+			"name": "Primal Devilsaur"
+		},
+		"111860": {
+			"name": "Bo'lan the Marked"
+		},
+		"118267": {
+			"name": "Tyrantus"
+		},
+		"123502": {
+			"name": "King K'tal"
+		},
+		"130736": {
+			"name": "Zulajin"
+		},
+		"131632": {
+			"name": "Xibalan Apex"
+		},
+		"132286": {
+			"name": "Defiant Devilsaur"
+		},
+		"233272": {
+			"name": "Young Devilsaur"
+		},
+		"251474": {
+			"name": "Tyrantus",
+			"title": "Kieupid's Pet"
+		}
+	}
+}

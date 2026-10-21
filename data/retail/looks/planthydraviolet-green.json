@@ -1,0 +1,21 @@
+{
+	"id": "planthydraviolet-green",
+	"family": "hydra",
+	"modelGroup": "mandragoras",
+	"npcs": [
+		{
+			"id": 128125,
+			"tameable": false,
+			"level": {
+				"min": 51,
+				"max": 56
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "forge-of-aeons"
+				}
+			]
+		}
+	]
+}

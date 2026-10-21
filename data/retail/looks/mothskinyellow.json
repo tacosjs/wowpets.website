@@ -1,0 +1,98 @@
+{
+	"id": "mothskinyellow",
+	"family": "moth",
+	"modelGroup": "moths",
+	"npcs": [
+		{
+			"id": 27421,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "grizzly-hills"
+				}
+			]
+		},
+		{
+			"id": 18438,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "terokkar-forest",
+					"area": "cenarion-thicket"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 18469,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "terokkar-forest"
+				}
+			]
+		},
+		{
+			"id": 21839,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blades-edge-mountains"
+				}
+			]
+		},
+		{
+			"id": 21373,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blades-edge-mountains"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 63725,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dread-wastes"
+				}
+			]
+		}
+	]
+}

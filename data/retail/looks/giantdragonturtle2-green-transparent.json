@@ -1,0 +1,28 @@
+{
+	"id": "giantdragonturtle2-green-transparent",
+	"family": "turtle",
+	"modelGroup": "stonedragonturtles",
+	"npcs": [
+		{
+			"id": 161527,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "aspirants-crucible"
+				}
+			],
+			"keepsName": true,
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

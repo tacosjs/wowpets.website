@@ -1,0 +1,77 @@
+{
+	"id": "decomposersmallgreen",
+	"family": "carapid",
+	"modelGroup": "gormlings",
+	"npcs": [
+		{
+			"id": 160713,
+			"tameable": false,
+			"level": {
+				"min": 55,
+				"max": 55
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "crumbled-ridge"
+				}
+			]
+		},
+		{
+			"id": 164802,
+			"tameable": false,
+			"level": {
+				"min": 55,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "heartwood-grove"
+				}
+			]
+		},
+		{
+			"id": 174458,
+			"tameable": false,
+			"level": {
+				"min": 57,
+				"max": 57
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "mistveil-tangle"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 161457,
+			"tameable": false,
+			"level": {
+				"min": 57,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "tirna-noch-forests-edge"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		163987,
+		171194,
+		155219
+	]
+}

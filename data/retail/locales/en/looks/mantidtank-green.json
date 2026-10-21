@@ -1,0 +1,21 @@
+{
+	"name": "Green Kunchong",
+	"variant": "Green",
+	"npcs": {
+		"56877": {
+			"name": "Raigonn",
+			"note": "Final boss of Gate of the Setting Sun."
+		},
+		"65520": {
+			"name": "Massive Ik'thik Kunchong",
+			"note": "Only around while the Stoneplow quest chain is in progress."
+		},
+		"139537": {
+			"name": "Zara'thik Kunchong",
+			"note": "Can show up on any island during a mantid invasion."
+		},
+		"244260": {
+			"name": "Chitigoth"
+		}
+	}
+}

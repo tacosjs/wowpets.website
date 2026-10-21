@@ -1,0 +1,36 @@
+{
+	"name": "Blond Bat",
+	"variant": "White",
+	"npcs": {
+		"75247": {
+			"name": "Groyat, the Blind Hunter"
+		},
+		"80242": {
+			"name": "Chillfang"
+		},
+		"87085": {
+			"name": "Rakkiri"
+		},
+		"97381": {
+			"name": "Screek"
+		},
+		"144951": {
+			"name": "Palefur Devourer"
+		},
+		"144957": {
+			"name": "Shali'i"
+		},
+		"204523": {
+			"name": "Blind Seeker"
+		},
+		"205417": {
+			"name": "Cave Screecher"
+		},
+		"245900": {
+			"name": "Giant Bat"
+		},
+		"254690": {
+			"name": "Elder Mournbat"
+		}
+	}
+}

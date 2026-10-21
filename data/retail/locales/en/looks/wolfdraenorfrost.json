@@ -1,0 +1,115 @@
+{
+	"name": "Silver Maned Wolf",
+	"variant": "Silver",
+	"npcs": {
+		"72991": {
+			"name": "Orphaned Frost Wolf"
+		},
+		"73323": {
+			"name": "Frost Wolf"
+		},
+		"73571": {
+			"name": "Snowpaw",
+			"title": "Urukag's Companion"
+		},
+		"74032": {
+			"name": "Frost Wolf"
+		},
+		"74265": {
+			"name": "Frost Wolf"
+		},
+		"74496": {
+			"name": "Frost Wolf"
+		},
+		"74544": {
+			"name": "Frost Wolf"
+		},
+		"74695": {
+			"name": "Icefang",
+			"title": "Ligra's Companion"
+		},
+		"74748": {
+			"name": "Frost Wolf"
+		},
+		"75672": {
+			"name": "Frost Wolf"
+		},
+		"76080": {
+			"name": "Frost Wolf",
+			"title": "Frostwolf Warrior's Companion"
+		},
+		"76150": {
+			"name": "Frost Wolf"
+		},
+		"76241": {
+			"name": "Nightstalker",
+			"title": "Durotan's Companion"
+		},
+		"76337": {
+			"name": "Frost Wolf"
+		},
+		"76593": {
+			"name": "Frost Wolf"
+		},
+		"76597": {
+			"name": "Frost Wolf Alpha"
+		},
+		"76705": {
+			"name": "Frostfang Howler"
+		},
+		"76707": {
+			"name": "Frostfang Alpha"
+		},
+		"76897": {
+			"name": "Shivertail's Mother"
+		},
+		"77409": {
+			"name": "Guard Wolf"
+		},
+		"77886": {
+			"name": "Frost Wolf"
+		},
+		"78894": {
+			"name": "Frost Wolf Howler"
+		},
+		"78910": {
+			"name": "Frostwolf Howler"
+		},
+		"80572": {
+			"name": "Frostwall Wolf"
+		},
+		"84793": {
+			"name": "Frost Wolf"
+		},
+		"92906": {
+			"name": "Frostwolf"
+		},
+		"104226": {
+			"name": "Gloomfang"
+		},
+		"112497": {
+			"name": "Maia the White"
+		},
+		"123352": {
+			"name": "Snowpelt Howler"
+		},
+		"131262": {
+			"name": "Pack Leader Asenya"
+		},
+		"139913": {
+			"name": "Captain"
+		},
+		"140293": {
+			"name": "Snowfur Snarler"
+		},
+		"140295": {
+			"name": "Snowfur Pup"
+		},
+		"195956": {
+			"name": "Nova"
+		},
+		"211623": {
+			"name": "Memory of Death"
+		}
+	}
+}

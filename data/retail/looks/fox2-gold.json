@@ -1,0 +1,63 @@
+{
+	"id": "fox2-gold",
+	"family": "fox",
+	"modelGroup": "vulpin",
+	"npcs": [
+		{
+			"id": 169114,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion"
+				}
+			]
+		},
+		{
+			"id": 168943,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion"
+				}
+			]
+		},
+		{
+			"id": 168436,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion"
+				}
+			]
+		},
+		{
+			"id": 170333,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion"
+				}
+			]
+		}
+	]
+}

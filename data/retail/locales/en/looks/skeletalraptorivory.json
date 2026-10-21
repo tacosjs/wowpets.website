@@ -1,0 +1,33 @@
+{
+	"name": "White Skeletal Raptor",
+	"variant": "White",
+	"npcs": {
+		"70534": {
+			"name": "Skeletal Lasher"
+		},
+		"129410": {
+			"name": "Risen Ravasaur"
+		},
+		"135742": {
+			"name": "Risen Anklebiter"
+		},
+		"135743": {
+			"name": "Risen Ravasaur"
+		},
+		"137487": {
+			"name": "Skeletal Hunting Raptor"
+		},
+		"168986": {
+			"name": "Skeletal Raptor"
+		},
+		"171583": {
+			"name": "Resurfaced Predator"
+		},
+		"180853": {
+			"name": "Skeletal Lasher"
+		},
+		"232957": {
+			"name": "Skeletal Lasher"
+		}
+	}
+}

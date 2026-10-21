@@ -1,0 +1,22 @@
+{
+	"id": "blindcaveskipper-yellow-orangeaura",
+	"family": "hopper",
+	"modelGroup": "skippers",
+	"npcs": [
+		{
+			"id": 252998,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "shrouded-grove"
+				}
+			]
+		}
+	]
+}

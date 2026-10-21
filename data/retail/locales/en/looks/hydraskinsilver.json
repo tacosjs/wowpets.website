@@ -1,0 +1,13 @@
+{
+	"name": "Grey Hydra",
+	"variant": "Grey",
+	"npcs": {
+		"28003": {
+			"name": "Bittertide Hydra"
+		},
+		"55457": {
+			"name": "Gleok",
+			"title": "The Untamable"
+		}
+	}
+}

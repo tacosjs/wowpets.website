@@ -1,0 +1,9 @@
+{
+	"name": "Brown Thunder Lizard",
+	"variant": "Brown",
+	"npcs": {
+		"5832": {
+			"name": "Thunderstomp"
+		}
+	}
+}

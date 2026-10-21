@@ -1,0 +1,101 @@
+{
+	"id": "nerubianspiderlingskinbrown",
+	"family": "spider",
+	"modelGroup": "classicthreadlings",
+	"npcs": [
+		{
+			"id": 26676,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 71
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dragonblight",
+					"area": "icemist-village"
+				}
+			]
+		},
+		{
+			"id": 28369,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 71
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldrak",
+					"area": "draksotra"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 28258,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 71
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldrak",
+					"area": "kolramas"
+				}
+			]
+		},
+		{
+			"id": 24566,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 71
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "borean-tundra",
+					"area": "warsong-hold"
+				}
+			]
+		},
+		{
+			"id": 139860,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 71
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions",
+					"area": "skittering-hollow"
+				}
+			]
+		},
+		{
+			"id": 30178,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ahnkahet-the-old-kingdom"
+				}
+			]
+		}
+	]
+}

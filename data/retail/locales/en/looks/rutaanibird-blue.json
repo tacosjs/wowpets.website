@@ -1,0 +1,60 @@
+{
+	"name": "Lavender Petalwing",
+	"variant": "Lavender",
+	"npcs": {
+		"237709": {
+			"name": "Pilfering Petalwing"
+		},
+		"242945": {
+			"name": "Coasting Petalwing"
+		},
+		"243770": {
+			"name": "Blossom-bound Fledgling"
+		},
+		"246713": {
+			"name": "Harmonious Petalwing"
+		},
+		"247665": {
+			"name": "Behemoth Petalwing"
+		},
+		"247666": {
+			"name": "Behemoth Petalwing"
+		},
+		"247772": {
+			"name": "Territorial Petalwing"
+		},
+		"248475": {
+			"name": "Preening Petalwing"
+		},
+		"249107": {
+			"name": "Territorial Petalwing"
+		},
+		"249164": {
+			"name": "Vale Petalwing"
+		},
+		"250193": {
+			"name": "Iridescent Petalwing"
+		},
+		"253881": {
+			"name": "Glimmering Petalwing"
+		},
+		"256353": {
+			"name": "Valesoar Petalwing"
+		},
+		"256354": {
+			"name": "Valesoar Petalwing"
+		},
+		"256545": {
+			"name": "Iridescent Petalwing"
+		},
+		"256671": {
+			"name": "Iridescent Petalwing"
+		},
+		"256805": {
+			"name": "Valesoar Petalwing"
+		},
+		"259972": {
+			"name": "Lightsick Petalwing"
+		}
+	}
+}

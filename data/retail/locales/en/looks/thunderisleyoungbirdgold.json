@@ -1,0 +1,12 @@
+{
+	"name": "Gold Flightless Teroclaw",
+	"variant": "Gold",
+	"npcs": {
+		"159289": {
+			"name": "Juvenile Cloudfeather"
+		},
+		"169179": {
+			"name": "Goldenplume Juvenile"
+		}
+	}
+}

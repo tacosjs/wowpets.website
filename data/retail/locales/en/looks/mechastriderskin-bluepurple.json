@@ -1,0 +1,9 @@
+{
+	"name": "Blue-Purple Mechanostrider",
+	"variant": "Blue-Purple",
+	"npcs": {
+		"108106": {
+			"name": "Sentient Mechanostrider"
+		}
+	}
+}

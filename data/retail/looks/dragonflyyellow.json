@@ -1,0 +1,100 @@
+{
+	"id": "dragonflyyellow",
+	"family": "wasp",
+	"modelGroup": "hookwasps",
+	"npcs": [
+		{
+			"id": 81557,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond"
+				}
+			]
+		},
+		{
+			"id": 84852,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "tangleheart"
+				}
+			]
+		},
+		{
+			"id": 83520,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "overlook-ruins"
+				}
+			]
+		},
+		{
+			"id": 85526,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "the-writhing-mire"
+				}
+			]
+		},
+		{
+			"id": 86264,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "everbloom-wilds"
+				}
+			]
+		},
+		{
+			"id": 86834,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nagrand-draenor"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		83681,
+		83447,
+		89789
+	]
+}

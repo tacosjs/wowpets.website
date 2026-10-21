@@ -1,0 +1,12 @@
+{
+	"name": "Darker Russet Riverbeast",
+	"variant": "Darker Russet",
+	"npcs": {
+		"141977": {
+			"name": "Milden Mud Snout"
+		},
+		"192651": {
+			"name": "Clearwater Riverbeast"
+		}
+	}
+}

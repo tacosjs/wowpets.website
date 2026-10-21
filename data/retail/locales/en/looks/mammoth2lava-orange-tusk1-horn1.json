@@ -1,0 +1,12 @@
+{
+	"name": "Orange Magmammoth w/ Shorter Tusks & Large Spikes",
+	"variant": "Orange",
+	"npcs": {
+		"180705": {
+			"name": "Magmammoth Calf"
+		},
+		"211057": {
+			"name": "Zaqali Dreamcrusher"
+		}
+	}
+}

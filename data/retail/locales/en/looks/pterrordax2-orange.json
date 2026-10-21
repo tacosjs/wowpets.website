@@ -1,0 +1,12 @@
+{
+	"name": "Orange Pterrordax",
+	"variant": "Orange",
+	"npcs": {
+		"125488": {
+			"name": "Messenger Beast"
+		},
+		"133854": {
+			"name": "Wild Pterrorchick"
+		}
+	}
+}

@@ -1,0 +1,84 @@
+{
+	"name": "Blue Skipper",
+	"variant": "Blue",
+	"npcs": {
+		"213700": {
+			"name": "Stream Skipper"
+		},
+		"214801": {
+			"name": "Skipper"
+		},
+		"214960": {
+			"name": "Bubbling Mudskip"
+		},
+		"219353": {
+			"name": "Skipper"
+		},
+		"219843": {
+			"name": "Terrace Skipper"
+		},
+		"220022": {
+			"name": "Skipper"
+		},
+		"220275": {
+			"name": "King Splash"
+		},
+		"220590": {
+			"name": "Curious Cave Skipper"
+		},
+		"220736": {
+			"name": "Ravenous Flopper"
+		},
+		"221927": {
+			"name": "Wax-addled Hopper"
+		},
+		"223704": {
+			"name": "Swale Hopper"
+		},
+		"224578": {
+			"name": "Croaking Sandskipper"
+		},
+		"224789": {
+			"name": "Juvenile Sandskipper"
+		},
+		"226417": {
+			"name": "Furious Skipper"
+		},
+		"226625": {
+			"name": "Cave Skipper"
+		},
+		"227325": {
+			"name": "Bubbling Mudskip"
+		},
+		"229812": {
+			"name": "Warbling Mudskip"
+		},
+		"230917": {
+			"name": "Briny Skipfin"
+		},
+		"230918": {
+			"name": "Briny Skippling"
+		},
+		"237282": {
+			"name": "Lil' Skipper"
+		},
+		"237583": {
+			"name": "Gurgling Skipper"
+		},
+		"245117": {
+			"name": "Pesky Sludger"
+		},
+		"250333": {
+			"name": "Stream Skipper"
+		},
+		"256227": {
+			"name": "Tiny Cavern Skipper"
+		},
+		"256365": {
+			"name": "Valeflow Skipper"
+		},
+		"257106": {
+			"name": "Sightless Skipper"
+		}
+	}
+}

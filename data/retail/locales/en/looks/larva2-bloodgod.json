@@ -1,0 +1,12 @@
+{
+	"name": "Red & White Grub",
+	"variant": "Red & White Grub",
+	"npcs": {
+		"130909": {
+			"name": "Fetid Maggot"
+		},
+		"169830": {
+			"name": "Parasitic Burster"
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"name": "Grey-Bronze Mechanical Spider",
+	"variant": "Grey-Bronze",
+	"npcs": {
+		"114993": {
+			"name": "Silver Arachnodrone"
+		},
+		"149843": {
+			"name": "Motoegg Tender"
+		},
+		"151672": {
+			"name": "Mecharantula"
+		},
+		"152992": {
+			"name": "Rampaging Motospider"
+		}
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"id": "windserpentskinoutland4-5",
+	"family": "windserpent",
+	"modelGroup": "spikedwindserpents",
+	"npcs": [
+		{
+			"id": 50786,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "stonetalon-mountains",
+					"area": "boulderslide-cavern"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

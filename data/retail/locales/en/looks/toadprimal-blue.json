@@ -1,0 +1,27 @@
+{
+	"name": "Blue Hornswog",
+	"variant": "Blue",
+	"npcs": {
+		"185715": {
+			"name": "Instatiable Hornswog"
+		},
+		"187574": {
+			"name": "Trapped Hornswog"
+		},
+		"189026": {
+			"name": "Nibbling Hornswog"
+		},
+		"189314": {
+			"name": "Encroaching Hornswog"
+		},
+		"191561": {
+			"name": "Cascade Swog"
+		},
+		"191563": {
+			"name": "Swoglet"
+		},
+		"193479": {
+			"name": "Swarming Swoglet"
+		}
+	}
+}

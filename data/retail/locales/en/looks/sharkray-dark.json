@@ -1,0 +1,12 @@
+{
+	"name": "Dark Teal Fathom Ray w/ Night Blue Stripes",
+	"variant": "Dark Teal w/ Night Blue Stripes",
+	"npcs": {
+		"150373": {
+			"name": "Bloated Sky Ray"
+		},
+		"211030": {
+			"name": "Mantle Ray"
+		}
+	}
+}

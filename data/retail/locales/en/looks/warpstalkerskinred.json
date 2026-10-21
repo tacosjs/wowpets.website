@@ -1,0 +1,21 @@
+{
+	"name": "Red Warp Stalker",
+	"variant": "Red",
+	"npcs": {
+		"22255": {
+			"name": "Daggertail Lizard"
+		},
+		"51017": {
+			"name": "Gezan"
+		},
+		"51021": {
+			"name": "Vorticus"
+		},
+		"79745": {
+			"name": "Forest Stalker"
+		},
+		"93003": {
+			"name": "Tanaan Gloomhunter"
+		}
+	}
+}

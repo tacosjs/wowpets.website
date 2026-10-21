@@ -1,0 +1,168 @@
+{
+	"id": "warpstalkervoid",
+	"family": "warpstalker",
+	"modelGroup": "warpstalkers",
+	"npcs": [
+		{
+			"id": 121673,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eredath",
+					"area": "shadowguard-incursion-eredath"
+				}
+			]
+		},
+		{
+			"id": 119747,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eredath",
+					"area": "oronaar-collapse"
+				}
+			]
+		},
+		{
+			"id": 122407,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-seat-of-the-triumvirate",
+					"area": "shadowguard-incursion"
+				}
+			]
+		},
+		{
+			"id": 126885,
+			"tameable": true,
+			"level": {
+				"min": 47,
+				"max": 47
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "eredath",
+					"area": "umbra-hollows"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 160341,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "vision-of-stormwind"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 132400,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "telogrus-rift"
+				}
+			]
+		},
+		{
+			"id": 126604,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "telogrus-rift"
+				}
+			]
+		},
+		{
+			"id": 121629,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eredath",
+					"area": "shadowguard-incursion-eredath"
+				}
+			]
+		},
+		{
+			"id": 132676,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "telogrus-rift"
+				}
+			]
+		},
+		{
+			"id": 254193,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods"
+				},
+				{
+					"zone": "zulaman"
+				},
+				{
+					"zone": "harandar"
+				},
+				{
+					"zone": "voidstorm"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

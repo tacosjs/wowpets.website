@@ -1,0 +1,18 @@
+{
+	"name": "Crimson Cobra",
+	"variant": "Crimson",
+	"npcs": {
+		"261484": {
+			"name": "Ravenous Hatchling"
+		},
+		"264655": {
+			"name": "Lurking Thorntail"
+		},
+		"268979": {
+			"name": "Newborn Cobra"
+		},
+		"270767": {
+			"name": "Newborn Snake"
+		}
+	}
+}

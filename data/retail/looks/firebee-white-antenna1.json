@@ -1,0 +1,52 @@
+{
+	"id": "firebee-white-antenna1",
+	"family": "wasp",
+	"modelGroup": "cinderbees",
+	"npcs": [
+		{
+			"id": 221126,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "cinderwold"
+				}
+			]
+		},
+		{
+			"id": 223044,
+			"tameable": false,
+			"level": {
+				"min": 81,
+				"max": 81
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "cinderwold"
+				}
+			]
+		},
+		{
+			"id": 223073,
+			"tameable": false,
+			"level": {
+				"min": 81,
+				"max": 81
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "cinderwold"
+				}
+			]
+		}
+	]
+}

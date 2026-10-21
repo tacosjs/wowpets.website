@@ -1,0 +1,15 @@
+{
+	"name": "Brown Porcupine",
+	"variant": "Brown",
+	"npcs": {
+		"64745": {
+			"name": "Lowland Porcupine"
+		},
+		"113122": {
+			"name": "Suramar Cliffquill"
+		},
+		"125453": {
+			"name": "Quillrat Matriarch"
+		}
+	}
+}

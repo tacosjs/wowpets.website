@@ -1,0 +1,17 @@
+{
+	"name": "Foxes",
+	"modelGroups": {
+		"thorntails": {
+			"name": "Thorntails"
+		},
+		"vulpin": {
+			"name": "Vulpin"
+		},
+		"foxes": {
+			"name": "Classic Foxes"
+		},
+		"wiryfoxes": {
+			"name": "Wiry Foxes"
+		}
+	}
+}

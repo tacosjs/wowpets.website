@@ -1,0 +1,40 @@
+{
+	"id": "windserpentskinoutland",
+	"family": "windserpent",
+	"modelGroup": "spikedwindserpents",
+	"npcs": [
+		{
+			"id": 20749,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blades-edge-mountains"
+				}
+			]
+		},
+		{
+			"id": 23162,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "terokkar-forest"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

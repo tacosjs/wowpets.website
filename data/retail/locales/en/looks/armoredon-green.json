@@ -1,0 +1,12 @@
+{
+	"name": "Green Armoredon",
+	"variant": "Green",
+	"npcs": {
+		"193723": {
+			"name": "Mossy Armoredon"
+		},
+		"196272": {
+			"name": "Lost Armoredon"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Grey Skeletal Raptor",
+	"variant": "Grey",
+	"npcs": {
+		"44226": {
+			"name": "Sarltooth"
+		}
+	}
+}

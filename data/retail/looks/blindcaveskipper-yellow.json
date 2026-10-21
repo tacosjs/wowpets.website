@@ -1,0 +1,54 @@
+{
+	"id": "blindcaveskipper-yellow",
+	"family": "hopper",
+	"modelGroup": "skippers",
+	"npcs": [
+		{
+			"id": 225933,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "lightless-channels"
+				}
+			]
+		},
+		{
+			"id": 219011,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "the-verdant-gutters"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		226625,
+		214960,
+		224578,
+		215790,
+		224789,
+		220736,
+		226421,
+		229812,
+		226929,
+		227325,
+		214801,
+		237583,
+		250333,
+		256227,
+		257106
+	]
+}

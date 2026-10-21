@@ -1,0 +1,9 @@
+{
+	"name": "Black Devilsaur w/ Black & Copper Armour",
+	"variant": "Black w/ Black & Copper Armour",
+	"npcs": {
+		"69161": {
+			"name": "Oondasta"
+		}
+	}
+}

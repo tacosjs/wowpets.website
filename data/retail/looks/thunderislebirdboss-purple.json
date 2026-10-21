@@ -1,0 +1,76 @@
+{
+	"id": "thunderislebirdboss-purple",
+	"family": "carrionbird",
+	"modelGroup": "teroclaws",
+	"npcs": [
+		{
+			"id": 158256,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "agthias-repose"
+				}
+			]
+		},
+		{
+			"id": 168402,
+			"tameable": true,
+			"level": {
+				"min": 51,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "greatwing-roost"
+				}
+			],
+			"keepsName": true,
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 164391,
+			"tameable": true,
+			"level": {
+				"min": 61,
+				"max": 61
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "shimmerbough"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 168475,
+			"tameable": false,
+			"level": {
+				"min": 55,
+				"max": 55
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		170067
+	]
+}

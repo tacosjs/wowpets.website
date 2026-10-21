@@ -1,0 +1,12 @@
+{
+	"name": "Blue Gorm w/ Horns",
+	"variant": "Blue w/ Horns",
+	"npcs": {
+		"163992": {
+			"name": "Dustwilt Scythehorn"
+		},
+		"168897": {
+			"name": "Shellguard Defender"
+		}
+	}
+}

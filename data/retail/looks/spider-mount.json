@@ -1,0 +1,37 @@
+{
+	"id": "spider-mount",
+	"family": "spider",
+	"modelGroup": "greatspiders",
+	"npcs": [
+		{
+			"id": 165989,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "feeders-thicket"
+				}
+			]
+		},
+		{
+			"id": 166005,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "feeders-thicket"
+				}
+			]
+		}
+	]
+}

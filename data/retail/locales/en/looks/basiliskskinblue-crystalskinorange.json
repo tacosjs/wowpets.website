@@ -1,0 +1,9 @@
+{
+	"name": "Blue Basilisk w/Orange Fringes",
+	"variant": "Blue w/Orange",
+	"npcs": {
+		"44113": {
+			"name": "Ironjaw Behemoth"
+		}
+	}
+}

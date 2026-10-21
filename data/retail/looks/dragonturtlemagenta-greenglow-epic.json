@@ -1,0 +1,22 @@
+{
+	"id": "dragonturtlemagenta-greenglow-epic",
+	"family": "turtle",
+	"modelGroup": "spikeddragonturtles",
+	"npcs": [
+		{
+			"id": 163500,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "garden-of-edenia"
+				}
+			]
+		}
+	]
+}

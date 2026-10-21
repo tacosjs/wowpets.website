@@ -1,0 +1,26 @@
+{
+	"name": "Crab",
+	"modelGroups": {
+		"bombcrabs": {
+			"name": "Bombshell Crabs"
+		},
+		"cavecrabs": {
+			"name": "Cave Crabs"
+		},
+		"spidercrabs": {
+			"name": "Spider Crabs"
+		},
+		"hermitcrabs": {
+			"name": "Hermit Crabs"
+		},
+		"grandcrabs": {
+			"name": "Crabs"
+		},
+		"spikedcrabs": {
+			"name": "Spiked Crabs"
+		},
+		"crabs": {
+			"name": "Classic Crabs"
+		}
+	}
+}

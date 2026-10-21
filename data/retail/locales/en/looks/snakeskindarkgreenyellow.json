@@ -1,0 +1,15 @@
+{
+	"name": "Dark Green & Yellow Snake",
+	"variant": "Dark Green & Yellow",
+	"npcs": {
+		"59769": {
+			"name": "Bamboo Python"
+		},
+		"132835": {
+			"name": "Dreadfang Snake"
+		},
+		"140691": {
+			"name": "Giant Dreadfang"
+		}
+	}
+}

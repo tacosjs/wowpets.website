@@ -1,0 +1,21 @@
+{
+	"id": "horse2bastion-purple",
+	"family": "courser",
+	"modelGroup": "dreamrunners",
+	"npcs": [
+		{
+			"id": 170183,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion"
+				}
+			]
+		}
+	]
+}

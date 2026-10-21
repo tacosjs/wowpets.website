@@ -1,0 +1,22 @@
+{
+	"id": "pterrordax2-yellow-blacksaddle",
+	"family": "pterrordax",
+	"modelGroup": "harnessedpterrordaxes",
+	"npcs": [
+		{
+			"id": 129761,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "crackling-ridge"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,120 @@
+{
+	"id": "dogprimal-brown",
+	"family": "hound",
+	"modelGroup": "bakars",
+	"npcs": [
+		{
+			"id": 194807,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		},
+		{
+			"id": 197569,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "teerakai"
+				}
+			]
+		},
+		{
+			"id": 186167,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "maruukai"
+				}
+			]
+		},
+		{
+			"id": 196650,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "maruukai"
+				}
+			]
+		},
+		{
+			"id": 184656,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "timberstep-outpost"
+				}
+			]
+		},
+		{
+			"id": 192997,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "maruukai"
+				}
+			]
+		},
+		{
+			"id": 191063,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		194786,
+		196082,
+		195221,
+		196085,
+		193208,
+		193197,
+		195479,
+		191803
+	]
+}

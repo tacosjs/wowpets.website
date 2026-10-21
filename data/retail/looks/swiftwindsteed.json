@@ -1,0 +1,22 @@
+{
+	"id": "swiftwindsteed",
+	"family": "stag",
+	"modelGroup": "windsteeds",
+	"npcs": [
+		{
+			"id": 231258,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-wandering-isle-open-zone",
+					"area": "ridge-of-laughing-winds"
+				}
+			]
+		}
+	]
+}

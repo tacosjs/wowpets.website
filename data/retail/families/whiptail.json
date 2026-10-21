@@ -1,0 +1,28 @@
+{
+	"id": "whiptail",
+	"icon": "inv_stalkermount_red",
+	"spec": "ferocity",
+	"exotic": true,
+	"diet": [
+		"fish",
+		"raw-fish",
+		"meat",
+		"raw-meat"
+	],
+	"abilities": {
+		"basic": "claw",
+		"family": [
+			"serrated-strike",
+			"shadow-jump",
+			"prowl"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "shredclaws"
+		},
+		{
+			"id": "grimlynxes"
+		}
+	]
+}

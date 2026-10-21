@@ -1,0 +1,93 @@
+{
+	"name": "Darker Black Riverbeast",
+	"variant": "Darker Black",
+	"npcs": {
+		"123731": {
+			"name": "Riverbeast"
+		},
+		"123736": {
+			"name": "Riverbeast Calf"
+		},
+		"124084": {
+			"name": "Protective Riverbeast"
+		},
+		"124631": {
+			"name": "Frogmarsh Riverbeast"
+		},
+		"126628": {
+			"name": "Sick Riverbeast"
+		},
+		"187462": {
+			"name": "Distressed Riverbeast Calf"
+		},
+		"187467": {
+			"name": "Distressed Riverbeast"
+		},
+		"189463": {
+			"name": "Waterback Rambler"
+		},
+		"189465": {
+			"name": "Waterback Stomper"
+		},
+		"189468": {
+			"name": "Waterback Savage"
+		},
+		"189469": {
+			"name": "Waterback Calf"
+		},
+		"190144": {
+			"name": "Fretful Riverbeast Elder"
+		},
+		"190282": {
+			"name": "Deepwood Riverbeast"
+		},
+		"190301": {
+			"name": "Fretful Riverbeast Calf"
+		},
+		"191684": {
+			"name": "Riverbeast Calf"
+		},
+		"191686": {
+			"name": "Mature Riverbeast"
+		},
+		"191687": {
+			"name": "Riverbeast Elder"
+		},
+		"192594": {
+			"name": "Lounging Mudstomper"
+		},
+		"192596": {
+			"name": "Mudstomper Calf"
+		},
+		"192597": {
+			"name": "Mudstomper Bull"
+		},
+		"194075": {
+			"name": "Mature Riverbeast"
+		},
+		"194078": {
+			"name": "Riverbeast Elder"
+		},
+		"194079": {
+			"name": "Mature Riverbeast"
+		},
+		"194144": {
+			"name": "Riverbeast Elder"
+		},
+		"194145": {
+			"name": "Mature Riverbeast"
+		},
+		"194663": {
+			"name": "Mirror Lurker"
+		},
+		"194665": {
+			"name": "Mirror Lurker Calf"
+		},
+		"194666": {
+			"name": "Mirror Lurker Elder"
+		},
+		"196017": {
+			"name": "Pudgy Riverbeast"
+		}
+	}
+}

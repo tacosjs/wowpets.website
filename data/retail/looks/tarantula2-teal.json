@@ -1,0 +1,11 @@
+{
+	"id": "tarantula2-teal",
+	"family": "spider",
+	"modelGroup": "grandtarantulas",
+	"npcs": [],
+	"alsoNpcs": [
+		196426,
+		203970,
+		197408
+	]
+}

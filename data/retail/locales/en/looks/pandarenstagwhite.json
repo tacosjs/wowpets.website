@@ -1,0 +1,27 @@
+{
+	"name": "Patterned White Stag",
+	"variant": "Patterned White",
+	"npcs": {
+		"59104": {
+			"name": "Shrine Elk"
+		},
+		"93313": {
+			"name": "Gleamhoof Stag"
+		},
+		"93327": {
+			"name": "Frenzybound Stag"
+		},
+		"107487": {
+			"name": "Starbuck"
+		},
+		"109695": {
+			"name": "Frantic Stag"
+		},
+		"139280": {
+			"name": "Sythian the Swift"
+		},
+		"140261": {
+			"name": "Runehoof Buck"
+		}
+	}
+}

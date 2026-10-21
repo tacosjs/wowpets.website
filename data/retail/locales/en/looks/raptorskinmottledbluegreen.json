@@ -1,0 +1,27 @@
+{
+	"name": "Blue Raptor",
+	"variant": "Blue",
+	"npcs": {
+		"730": {
+			"name": "Tethis"
+		},
+		"3633": {
+			"name": "Deviate Slayer"
+		},
+		"3637": {
+			"name": "Deviate Guardian"
+		},
+		"6506": {
+			"name": "Ravasaur Runner"
+		},
+		"9684": {
+			"name": "Lar'korwi"
+		},
+		"29334": {
+			"name": "Gundrak Raptor"
+		},
+		"41342": {
+			"name": "Mottled Screecher"
+		}
+	}
+}

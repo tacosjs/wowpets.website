@@ -1,0 +1,27 @@
+{
+	"name": "Black Fen Strider",
+	"variant": "Black",
+	"npcs": {
+		"17882": {
+			"name": "The Black Stalker"
+		},
+		"22056": {
+			"name": "Coilfang Strider"
+		},
+		"22299": {
+			"name": "Spore Strider"
+		},
+		"79334": {
+			"name": "No'losh"
+		},
+		"82933": {
+			"name": "The Ebon Hunter"
+		},
+		"84642": {
+			"name": "Pond Skipper"
+		},
+		"84643": {
+			"name": "Deep Strider"
+		}
+	}
+}

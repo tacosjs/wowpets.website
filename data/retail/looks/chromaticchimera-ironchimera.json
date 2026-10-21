@@ -1,0 +1,22 @@
+{
+	"id": "chromaticchimera-ironchimera",
+	"family": "chimaera",
+	"modelGroup": "armoredrylaks",
+	"npcs": [
+		{
+			"id": 80098,
+			"tameable": true,
+			"level": {
+				"min": 37,
+				"max": 42
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "upper-blackrock-spire",
+					"area": "blackrock-stadium"
+				}
+			]
+		}
+	]
+}

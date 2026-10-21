@@ -1,0 +1,24 @@
+{
+	"name": "Purple Tallstrider",
+	"variant": "Purple",
+	"npcs": {
+		"22807": {
+			"name": "Lost Torranche"
+		},
+		"50884": {
+			"name": "Dustflight the Cowardly"
+		},
+		"50886": {
+			"name": "Seawing"
+		},
+		"55440": {
+			"name": "Violet"
+		},
+		"56753": {
+			"name": "Hornbill Strider"
+		},
+		"83708": {
+			"name": "Peckers the Majestic"
+		}
+	}
+}

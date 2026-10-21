@@ -1,0 +1,9 @@
+{
+	"name": "Yellow Core Hound",
+	"variant": "Yellow",
+	"npcs": {
+		"41166": {
+			"name": "Gomegaz"
+		}
+	}
+}

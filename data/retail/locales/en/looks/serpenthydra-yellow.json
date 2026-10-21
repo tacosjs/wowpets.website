@@ -1,0 +1,9 @@
+{
+	"name": "Orange Serpent Hydra",
+	"variant": "Orange",
+	"npcs": {
+		"261142": {
+			"name": "Destra"
+		}
+	}
+}

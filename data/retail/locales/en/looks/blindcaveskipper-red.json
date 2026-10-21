@@ -1,0 +1,9 @@
+{
+	"name": "Red Skipper",
+	"variant": "Red",
+	"npcs": {
+		"228465": {
+			"name": "The Captain"
+		}
+	}
+}

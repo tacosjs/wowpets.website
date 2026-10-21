@@ -1,0 +1,26 @@
+{
+	"id": "mawroach-blue2",
+	"family": "beetle",
+	"modelGroup": "mawroaches",
+	"npcs": [
+		{
+			"id": 179812,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "korthia",
+					"area": "seekers-quorum"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		169747,
+		171525
+	]
+}

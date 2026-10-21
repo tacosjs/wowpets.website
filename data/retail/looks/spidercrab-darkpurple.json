@@ -1,0 +1,85 @@
+{
+	"id": "spidercrab-darkpurple",
+	"family": "crab",
+	"modelGroup": "spidercrabs",
+	"npcs": [
+		{
+			"id": 152461,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "chitterspine-caverns"
+				}
+			]
+		},
+		{
+			"id": 153966,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "chitterspine-grotto"
+				}
+			]
+		},
+		{
+			"id": 153804,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "brinestone-cove"
+				}
+			]
+		},
+		{
+			"id": 203105,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "glitterspore-lake"
+				}
+			]
+		},
+		{
+			"id": 231986,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "siren-isle",
+					"area": "stormtide-dregs"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		192129
+	]
+}

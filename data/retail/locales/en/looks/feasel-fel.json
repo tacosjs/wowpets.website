@@ -1,0 +1,9 @@
+{
+	"name": "Fel-Grey Marsuul",
+	"variant": "Fel-Grey",
+	"npcs": {
+		"124278": {
+			"name": "Felscarred Marsuul"
+		}
+	}
+}

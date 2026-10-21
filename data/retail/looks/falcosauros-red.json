@@ -1,0 +1,67 @@
+{
+	"id": "falcosauros-red",
+	"family": "raptor",
+	"modelGroup": "falcosaurs",
+	"npcs": [
+		{
+			"id": 115663,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormheim",
+					"area": "gull-rock"
+				}
+			]
+		},
+		{
+			"id": 115667,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "stormheim",
+					"area": "gull-rock"
+				}
+			]
+		},
+		{
+			"id": 115678,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormheim",
+					"area": "gull-rock"
+				}
+			]
+		},
+		{
+			"id": 115671,
+			"tameable": true,
+			"level": {
+				"min": 46,
+				"max": 46
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "stormheim",
+					"area": "gull-rock"
+				}
+			]
+		}
+	]
+}

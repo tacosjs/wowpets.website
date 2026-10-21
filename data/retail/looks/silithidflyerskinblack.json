@@ -1,0 +1,22 @@
+{
+	"id": "silithidflyerskinblack",
+	"family": "wasp",
+	"modelGroup": "wasps",
+	"npcs": [
+		{
+			"id": 14475,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "silithus"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

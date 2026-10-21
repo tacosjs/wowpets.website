@@ -1,0 +1,26 @@
+{
+	"id": "tallstriderprimal-white-horn3",
+	"family": "tallstrider",
+	"modelGroup": "hornstriders",
+	"npcs": [
+		{
+			"id": 191103,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		192641,
+		195383,
+		195366
+	]
+}

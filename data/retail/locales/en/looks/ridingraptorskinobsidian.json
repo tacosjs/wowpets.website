@@ -1,0 +1,27 @@
+{
+	"name": "Black Raptor",
+	"variant": "Black",
+	"npcs": {
+		"6508": {
+			"name": "Venomhide Ravasaur"
+		},
+		"23873": {
+			"name": "Goreclaw the Ravenous"
+		},
+		"34158": {
+			"name": "Young Venomhide Ravasaur"
+		},
+		"34543": {
+			"name": "Fez"
+		},
+		"37989": {
+			"name": "Swiftclaw"
+		},
+		"50865": {
+			"name": "Saurix"
+		},
+		"69183": {
+			"name": "Maturing Raptor"
+		}
+	}
+}

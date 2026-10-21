@@ -1,0 +1,91 @@
+{
+	"id": "tigerskinsnow",
+	"family": "cat",
+	"modelGroup": "cats",
+	"npcs": [
+		{
+			"id": 42170,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dun-morogh"
+				}
+			]
+		},
+		{
+			"id": 1201,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dun-morogh"
+				}
+			]
+		},
+		{
+			"id": 42171,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dun-morogh"
+				}
+			]
+		},
+		{
+			"id": 42286,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dun-morogh"
+				}
+			]
+		},
+		{
+			"id": 29327,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldrak"
+				}
+			]
+		},
+		{
+			"id": 70595,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blood-in-the-snow"
+				}
+			]
+		}
+	]
+}

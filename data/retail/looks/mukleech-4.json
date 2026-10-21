@@ -1,0 +1,40 @@
+{
+	"id": "mukleech-4",
+	"family": "worm",
+	"modelGroup": "mukleeches",
+	"npcs": [
+		{
+			"id": 255139,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "leech-bog"
+				}
+			]
+		},
+		{
+			"id": 242033,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "zulaman"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		250153,
+		257363
+	]
+}

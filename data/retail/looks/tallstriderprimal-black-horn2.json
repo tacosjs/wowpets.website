@@ -1,0 +1,27 @@
+{
+	"id": "tallstriderprimal-black-horn2",
+	"family": "tallstrider",
+	"modelGroup": "hornstriders",
+	"npcs": [
+		{
+			"id": 193177,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "apex-canopy"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		192641,
+		195383,
+		195366
+	]
+}

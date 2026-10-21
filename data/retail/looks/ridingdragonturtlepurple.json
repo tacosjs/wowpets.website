@@ -1,0 +1,83 @@
+{
+	"id": "ridingdragonturtlepurple",
+	"family": "turtle",
+	"modelGroup": "dragonturtles",
+	"npcs": [
+		{
+			"id": 139235,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "fizzsprings-resort"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 56256,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds",
+					"area": "grassy-cline"
+				}
+			]
+		},
+		{
+			"id": 62160,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dread-wastes"
+				}
+			]
+		},
+		{
+			"id": 134801,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 63987,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		130160
+	]
+}

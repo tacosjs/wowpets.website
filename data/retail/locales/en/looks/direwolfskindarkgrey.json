@@ -1,0 +1,16 @@
+{
+	"name": "Dark Grey Worg",
+	"variant": "Dark Grey",
+	"npcs": {
+		"8211": {
+			"name": "Old Cliff Jumper"
+		},
+		"47815": {
+			"name": "Grimfang",
+			"title": "Ormak's Pet"
+		},
+		"50922": {
+			"name": "Warg"
+		}
+	}
+}

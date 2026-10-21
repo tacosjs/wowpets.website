@@ -1,0 +1,40 @@
+{
+	"name": "Brown Lynx",
+	"variant": "Brown",
+	"npcs": {
+		"15652": {
+			"name": "Elder Springpaw"
+		},
+		"16347": {
+			"name": "Starving Ghostclaw"
+		},
+		"16348": {
+			"name": "Ghostclaw Lynx"
+		},
+		"16349": {
+			"name": "Ghostclaw Ravager"
+		},
+		"20671": {
+			"name": "Ripfang Lynx"
+		},
+		"21022": {
+			"name": "Grovestalker Lynx"
+		},
+		"24043": {
+			"name": "Amani Lynx"
+		},
+		"24530": {
+			"name": "Amani Elder Lynx"
+		},
+		"38046": {
+			"name": "Wildmane Cat"
+		},
+		"44188": {
+			"name": "Bobcat"
+		},
+		"251345": {
+			"name": "FlowerPawa",
+			"title": "Madelia's Pet"
+		}
+	}
+}

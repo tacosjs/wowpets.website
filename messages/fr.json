@@ -24,5 +24,10 @@
   "zone_kind_scenario": "Scénario",
   "condition_quest": "N’apparaît que pendant une quête.",
   "condition_invasion": "N’apparaît que lors d’une invasion.",
-  "condition_summoned": "Invoqué ou apparu lors d’un événement."
+  "condition_summoned": "Invoqué ou apparu lors d’un événement.",
+  "zone_kind_battleground": "Champ de bataille",
+  "zone_kind_warfront": "Front de guerre",
+  "zone_kind_delve": "Gouffre",
+  "condition_phase": "N’apparaît que dans une phase de quête.",
+  "npc_retired": "N’est plus présent dans le jeu."
 }

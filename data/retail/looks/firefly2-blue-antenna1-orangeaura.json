@@ -1,0 +1,22 @@
+{
+	"id": "firefly2-blue-antenna1-orangeaura",
+	"family": "moth",
+	"modelGroup": "candleflies",
+	"npcs": [
+		{
+			"id": 250742,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "den-of-echoes"
+				}
+			]
+		}
+	]
+}

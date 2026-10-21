@@ -1,0 +1,37 @@
+{
+	"name": "Black Wolf",
+	"variant": "Black",
+	"npcs": {
+		"2680": {
+			"name": "Vilebranch Wolf Pup"
+		},
+		"2681": {
+			"name": "Vilebranch Raiding Wolf"
+		},
+		"4244": {
+			"name": "Shadow"
+		},
+		"5356": {
+			"name": "Snarler"
+		},
+		"20330": {
+			"name": "Bloodmaul Battle Worg"
+		},
+		"21956": {
+			"name": "Rema",
+			"title": "The Den Mother"
+		},
+		"26047": {
+			"name": "Warsong Worg"
+		},
+		"26380": {
+			"name": "Lak'tuk"
+		},
+		"26381": {
+			"name": "Gar'mak"
+		},
+		"43340": {
+			"name": "Blackrock Battle Worg"
+		}
+	}
+}

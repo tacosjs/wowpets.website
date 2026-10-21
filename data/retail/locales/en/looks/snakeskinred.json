@@ -1,0 +1,15 @@
+{
+	"name": "Red Snake",
+	"variant": "Red",
+	"npcs": {
+		"29630": {
+			"name": "Fanged Pit Viper"
+		},
+		"40280": {
+			"name": "Swarming Serpent"
+		},
+		"140692": {
+			"name": "Bloodbore"
+		}
+	}
+}

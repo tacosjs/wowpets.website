@@ -1,0 +1,70 @@
+{
+	"id": "maldraxxusflyer-red-nohorns",
+	"family": "chimaera",
+	"modelGroup": "deathchimaeras",
+	"npcs": [
+		{
+			"id": 168258,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 173046,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "bony-spindles"
+				}
+			]
+		},
+		{
+			"id": 164312,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus"
+				}
+			]
+		},
+		{
+			"id": 170893,
+			"tameable": false,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "house-of-the-chosen"
+				}
+			]
+		}
+	]
+}

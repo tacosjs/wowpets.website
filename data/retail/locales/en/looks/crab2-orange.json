@@ -1,0 +1,36 @@
+{
+	"name": "Orange Crab",
+	"variant": "Orange",
+	"npcs": {
+		"123236": {
+			"name": "Scuttlestep Crab"
+		},
+		"123293": {
+			"name": "Royal Sand Crab"
+		},
+		"127526": {
+			"name": "Scavenging Snapclaw"
+		},
+		"130812": {
+			"name": "Coral Scuttler"
+		},
+		"131675": {
+			"name": "Sandskitter Crab"
+		},
+		"134934": {
+			"name": "Hardshell Pincher"
+		},
+		"139647": {
+			"name": "Crusty Sean"
+		},
+		"234030": {
+			"name": "Supermarket Crab"
+		},
+		"251705": {
+			"name": "Hungry Hatchling"
+		},
+		"252222": {
+			"name": "Carnivorous Crab"
+		}
+	}
+}

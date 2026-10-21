@@ -1,0 +1,19 @@
+{
+	"name": "Red-Grey Shredclaw",
+	"variant": "Red-Grey",
+	"npcs": {
+		"243835": {
+			"name": "Savage Shredclaw"
+		},
+		"256770": {
+			"name": "Bilemaw the Gluttonous",
+			"title": "Apex Predator"
+		},
+		"258189": {
+			"name": "Enraged Bloodclaw"
+		},
+		"261076": {
+			"name": "Starved Shredclaw"
+		}
+	}
+}

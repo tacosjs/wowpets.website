@@ -1,0 +1,43 @@
+{
+	"name": "Green Stagshell w/ Large Mandibles, Small Graspers, Horn",
+	"variant": "Green w/ Large Mandibles, Small Graspers, Horn",
+	"npcs": {
+		"214932": {
+			"name": "Beetle of Burden"
+		},
+		"214935": {
+			"name": "Stalwart Hauler"
+		},
+		"215348": {
+			"name": "Feral Stagshell"
+		},
+		"216044": {
+			"name": "Maddened Siegebomber"
+		},
+		"223216": {
+			"name": "Siege Hauler"
+		},
+		"223433": {
+			"name": "Isolated Crawler"
+		},
+		"223458": {
+			"name": "Pet Stagshell"
+		},
+		"225136": {
+			"name": "Skittershaw Beetle"
+		},
+		"225297": {
+			"name": "Rak-Ahat Silkhauler"
+		},
+		"227272": {
+			"name": "Book Beetle"
+		},
+		"227454": {
+			"name": "Black Blood Hauler"
+		},
+		"227575": {
+			"name": "Armored Shellguard",
+			"title": "Zek'vir's Heralds"
+		}
+	}
+}

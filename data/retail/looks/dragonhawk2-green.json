@@ -1,0 +1,113 @@
+{
+	"id": "dragonhawk2-green",
+	"family": "dragonhawk",
+	"modelGroup": "greaterdragonhawks",
+	"npcs": [
+		{
+			"id": 236165,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "temple-of-janalai"
+				}
+			]
+		},
+		{
+			"id": 257520,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "leech-bog"
+				}
+			]
+		},
+		{
+			"id": 250111,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman"
+				}
+			]
+		},
+		{
+			"id": 259914,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ritual-site-broken-throne"
+				}
+			]
+		},
+		{
+			"id": 255821,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "temple-of-janalai"
+				}
+			]
+		},
+		{
+			"id": 254196,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 255653,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 95
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ritual-site-broken-throne"
+				}
+			]
+		}
+	]
+}

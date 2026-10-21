@@ -1,0 +1,52 @@
+{
+	"id": "eversonglynx-tan",
+	"family": "cat",
+	"modelGroup": "eversonglynxes",
+	"npcs": [
+		{
+			"id": 251457,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "isle-of-queldanas-eversong-woods"
+				}
+			]
+		},
+		{
+			"id": 240416,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "west-sanctum"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		242604,
+		242603,
+		246365,
+		246580,
+		254241,
+		250039,
+		250037,
+		253939,
+		250033,
+		252693,
+		251260,
+		250227,
+		243706
+	]
+}

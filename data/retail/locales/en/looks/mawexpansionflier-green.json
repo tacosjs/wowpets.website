@@ -1,0 +1,12 @@
+{
+	"name": "Green Razorwing",
+	"variant": "Green Razorwing",
+	"npcs": {
+		"177374": {
+			"name": "Razorwing Hatchling"
+		},
+		"178906": {
+			"name": "Grimtalon"
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Red Pango",
+	"variant": "Red",
+	"npcs": {
+		"255091": {
+			"name": "Tal'zi"
+		},
+		"257512": {
+			"name": "Foraging Pango"
+		},
+		"257517": {
+			"name": "Territorial Pango"
+		}
+	}
+}

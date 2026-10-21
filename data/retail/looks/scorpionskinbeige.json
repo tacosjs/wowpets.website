@@ -1,0 +1,65 @@
+{
+	"id": "scorpionskinbeige",
+	"family": "scorpid",
+	"modelGroup": "scorpids",
+	"npcs": [
+		{
+			"id": 3125,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "durotar"
+				}
+			]
+		},
+		{
+			"id": 3124,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "durotar"
+				}
+			]
+		},
+		{
+			"id": 51002,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "searing-gorge",
+					"area": "firewatch-ridge"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 15336,
+			"tameable": true,
+			"level": {
+				"min": 31,
+				"max": 31
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ruins-of-ahnqiraj"
+				}
+			]
+		}
+	]
+}

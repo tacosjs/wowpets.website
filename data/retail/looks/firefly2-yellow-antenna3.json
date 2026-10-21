@@ -1,0 +1,70 @@
+{
+	"id": "firefly2-yellow-antenna3",
+	"family": "moth",
+	"modelGroup": "candleflies",
+	"npcs": [
+		{
+			"id": 225515,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet"
+				}
+			]
+		},
+		{
+			"id": 213960,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "the-warrens"
+				}
+			]
+		},
+		{
+			"id": 214963,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "shimmermist-falls"
+				}
+			]
+		},
+		{
+			"id": 256056,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "veilroot-clearing"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		223831,
+		221304
+	]
+}

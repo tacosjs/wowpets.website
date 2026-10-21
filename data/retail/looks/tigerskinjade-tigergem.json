@@ -1,0 +1,21 @@
+{
+	"id": "tigerskinjade-tigergem",
+	"family": "cat",
+	"modelGroup": "hunchedcats",
+	"npcs": [
+		{
+			"id": 55236,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-jade-forest"
+				}
+			]
+		}
+	]
+}

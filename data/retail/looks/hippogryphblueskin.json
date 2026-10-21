@@ -1,0 +1,72 @@
+{
+	"id": "hippogryphblueskin",
+	"family": "feathermane",
+	"modelGroup": "hippogryphs",
+	"npcs": [
+		{
+			"id": 12676,
+			"tameable": true,
+			"level": {
+				"min": 7,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ashenvale",
+					"area": "nightsong-woods"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 5304,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "feralas"
+				}
+			]
+		},
+		{
+			"id": 90816,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 60
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "feralas",
+					"area": "ruins-of-isildien"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 16098,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "dire-maul"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

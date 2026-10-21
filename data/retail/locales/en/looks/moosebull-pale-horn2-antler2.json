@@ -1,0 +1,9 @@
+{
+	"name": "Grey Bruffalon w/ Small Antlers & Shorter Nose Horn",
+	"variant": "Grey",
+	"npcs": {
+		"216704": {
+			"name": "Migrating Bruffalon"
+		}
+	}
+}

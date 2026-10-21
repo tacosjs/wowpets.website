@@ -1,0 +1,30 @@
+{
+	"name": "Silver-Grey Owlcat",
+	"variant": "Silver-Grey",
+	"npcs": {
+		"103511": {
+			"name": "Lost Feathermane Kitten"
+		},
+		"103711": {
+			"name": "Feathermane Kitten"
+		},
+		"104368": {
+			"name": "Curious Owlkitten"
+		},
+		"104478": {
+			"name": "Lost Owlkitten"
+		},
+		"105563": {
+			"name": "Enthralled Feathermane Kitten"
+		},
+		"109351": {
+			"name": "Veil Prowler"
+		},
+		"110253": {
+			"name": "Moonfeather Prowler"
+		},
+		"116675": {
+			"name": "Defiant Feathermane Kitten"
+		}
+	}
+}

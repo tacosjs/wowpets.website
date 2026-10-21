@@ -1,0 +1,12 @@
+{
+	"name": "Armoured Brown Direhorn",
+	"variant": "Armoured Brown",
+	"npcs": {
+		"69277": {
+			"name": "Defiant Direhorn"
+		},
+		"69795": {
+			"name": "Zandalari Battlebeast"
+		}
+	}
+}

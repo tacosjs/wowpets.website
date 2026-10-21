@@ -1,0 +1,94 @@
+{
+	"id": "ravager2white",
+	"family": "ravager",
+	"modelGroup": "draenorravagers",
+	"npcs": [
+		{
+			"id": 86294,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "the-thorn-pits"
+				}
+			]
+		},
+		{
+			"id": 88630,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak"
+				}
+			]
+		},
+		{
+			"id": 254970,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm"
+				}
+			]
+		},
+		{
+			"id": 248940,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm"
+				}
+			]
+		},
+		{
+			"id": 235415,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "the-ingress"
+				}
+			]
+		},
+		{
+			"id": 248447,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "the-molt"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"name": "Black Rylak",
+	"variant": "Black",
+	"npcs": {
+		"75280": {
+			"name": "Darkwing Matron"
+		},
+		"78183": {
+			"name": "Injured Darkwing Glider"
+		},
+		"78508": {
+			"name": "Darkwing Rylak"
+		},
+		"78521": {
+			"name": "Darkwing Rylak"
+		},
+		"78524": {
+			"name": "Darkwing Rylak"
+		},
+		"78547": {
+			"name": "Baby Rylak"
+		},
+		"78550": {
+			"name": "Controlled Darkwing"
+		},
+		"78899": {
+			"name": "Darktide Matriarch"
+		},
+		"84002": {
+			"name": "Darkwing Matron"
+		},
+		"84927": {
+			"name": "Darkwing Whelpling"
+		},
+		"85357": {
+			"name": "Darkwing Adolescent"
+		},
+		"89201": {
+			"name": "Darkwing Scavenger"
+		},
+		"89224": {
+			"name": "Darkwing Scavenger"
+		},
+		"90141": {
+			"name": "Gok'tal"
+		}
+	}
+}

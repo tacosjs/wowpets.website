@@ -1,0 +1,105 @@
+{
+	"id": "triceratopsgreen",
+	"family": "direhorn",
+	"modelGroup": "direhorns",
+	"npcs": [
+		{
+			"id": 124399,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "primal-wetlands"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 70012,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "isle-of-giants"
+				}
+			]
+		},
+		{
+			"id": 70016,
+			"tameable": true,
+			"level": {
+				"min": 36,
+				"max": 36
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "isle-of-giants"
+				}
+			]
+		},
+		{
+			"id": 131352,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "dolwatha"
+				}
+			]
+		},
+		{
+			"id": 121688,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "warbeast-kraal"
+				}
+			]
+		},
+		{
+			"id": 151278,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "savagelands"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		130712,
+		130743,
+		122060,
+		131626,
+		67576,
+		122059,
+		70059
+	]
+}

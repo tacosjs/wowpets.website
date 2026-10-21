@@ -1,0 +1,72 @@
+{
+	"id": "progenitorspider-dark",
+	"family": "spider",
+	"modelGroup": "tarachnids",
+	"npcs": [
+		{
+			"id": 181685,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "resonant-peaks"
+				}
+			]
+		},
+		{
+			"id": 185675,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "deserted-overlook"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 181687,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "resonant-peaks"
+				}
+			]
+		},
+		{
+			"id": 178509,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "deserted-overlook"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Lavender Stagshell w/ Large Mandibles, Small Graspers, No Horn",
+	"variant": "Lavender w/ Large Mandibles, Small Graspers, No Horn",
+	"npcs": {
+		"232093": {
+			"name": "Sureki Swarmer"
+		},
+		"233327": {
+			"name": "Sureki Drone"
+		},
+		"239565": {
+			"name": "Sureki Sporesniffer"
+		}
+	}
+}

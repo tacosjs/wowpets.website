@@ -1,0 +1,15 @@
+{
+	"name": "Red Fathom Ray w/ Blue Stripes",
+	"variant": "Red w/ Blue Stripes",
+	"npcs": {
+		"152291": {
+			"name": "Deepglider"
+		},
+		"154419": {
+			"name": "Enraged Fathom Ray"
+		},
+		"210050": {
+			"name": "Bloodstripe Great Ray"
+		}
+	}
+}

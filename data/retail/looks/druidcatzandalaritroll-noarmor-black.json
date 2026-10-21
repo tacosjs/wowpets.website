@@ -1,0 +1,65 @@
+{
+	"id": "druidcatzandalaritroll-noarmor-black",
+	"family": "lizard",
+	"modelGroup": "sabertusks",
+	"npcs": [
+		{
+			"id": 129337,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar"
+				}
+			]
+		},
+		{
+			"id": 123135,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "rootway"
+				}
+			]
+		},
+		{
+			"id": 132022,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "rootway"
+				}
+			]
+		},
+		{
+			"id": 129338,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar"
+				}
+			]
+		}
+	]
+}

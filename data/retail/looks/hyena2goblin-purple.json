@@ -1,0 +1,37 @@
+{
+	"id": "hyena2goblin-purple",
+	"family": "hyena",
+	"modelGroup": "goblinhyenas",
+	"npcs": [
+		{
+			"id": 238611,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "undermine",
+					"area": "slam-central-station"
+				}
+			]
+		},
+		{
+			"id": 230945,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "undermine",
+					"area": "slam-central-station"
+				}
+			]
+		}
+	]
+}

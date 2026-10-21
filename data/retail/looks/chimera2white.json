@@ -1,0 +1,22 @@
+{
+	"id": "chimera2white",
+	"family": "chimaera",
+	"modelGroup": "rylaks",
+	"npcs": [
+		{
+			"id": 77140,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

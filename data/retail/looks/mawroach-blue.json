@@ -1,0 +1,52 @@
+{
+	"id": "mawroach-blue",
+	"family": "beetle",
+	"modelGroup": "mawroaches",
+	"npcs": [
+		{
+			"id": 169747,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-maw",
+					"area": "raveners-lament-marrows-coppice"
+				}
+			]
+		},
+		{
+			"id": 172946,
+			"tameable": true,
+			"level": {
+				"min": 61,
+				"max": 61
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-maw",
+					"area": "raveners-lament"
+				}
+			]
+		},
+		{
+			"id": 171525,
+			"tameable": true,
+			"level": {
+				"min": 61,
+				"max": 61
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-maw",
+					"area": "raveners-lament-marrows-coppice"
+				}
+			]
+		}
+	]
+}

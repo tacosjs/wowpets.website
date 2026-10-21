@@ -1,0 +1,52 @@
+{
+	"id": "unicornskinbrownzebra",
+	"family": "courser",
+	"modelGroup": "zhevras",
+	"npcs": [
+		{
+			"id": 44166,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "northern-barrens"
+				}
+			]
+		},
+		{
+			"id": 3426,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "northern-barrens"
+				},
+				{
+					"zone": "southern-barrens"
+				}
+			]
+		},
+		{
+			"id": 3242,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "northern-barrens"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"name": "Red Rylak",
+	"variant": "Red",
+	"npcs": {
+		"72273": {
+			"name": "Twinbreath Skystalker"
+		},
+		"77091": {
+			"name": "Wild Rylak"
+		},
+		"80241": {
+			"name": "Blazing Pyreclaw"
+		},
+		"83389": {
+			"name": "Ironwing Flamespitter"
+		},
+		"84644": {
+			"name": "Vilewing Rylak"
+		},
+		"85184": {
+			"name": "Iron Banshee"
+		},
+		"86373": {
+			"name": "Ironwing Flamespitter"
+		},
+		"87343": {
+			"name": "Flamewing Skytalon"
+		},
+		"95327": {
+			"name": "Doomwing Rylak"
+		}
+	}
+}

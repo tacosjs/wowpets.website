@@ -1,0 +1,15 @@
+{
+	"name": "Black Threadling w/ Long Mandibles",
+	"variant": "Black w/ Long Mandibles",
+	"npcs": {
+		"218725": {
+			"name": "Arachnoid Scrounger"
+		},
+		"223067": {
+			"name": "Elusive Kaheti Ambusher"
+		},
+		"223076": {
+			"name": "Elusive Kaheti Undercrawler"
+		}
+	}
+}

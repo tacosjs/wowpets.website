@@ -1,0 +1,41 @@
+{
+	"id": "flyingnerubian2-black-abdomen2-head1",
+	"family": "bloodbeast",
+	"modelGroup": "swarmites",
+	"npcs": [
+		{
+			"id": 215411,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "the-silken-path"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 227874,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "skittering-breach"
+				}
+			]
+		}
+	]
+}

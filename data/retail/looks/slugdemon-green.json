@@ -1,0 +1,41 @@
+{
+	"id": "slugdemon-green",
+	"family": "worm",
+	"modelGroup": "spikedgrubs",
+	"npcs": [
+		{
+			"id": 124446,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eredath",
+					"area": "arinor-gardens"
+				}
+			]
+		},
+		{
+			"id": 172064,
+			"tameable": false,
+			"level": {
+				"min": 53,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "plaguefall"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

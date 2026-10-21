@@ -1,0 +1,223 @@
+{
+	"id": "crocodilecataclysmpale",
+	"family": "crocolisk",
+	"modelGroup": "spikedcrocolisks",
+	"npcs": [
+		{
+			"id": 14233,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "dustwallow-marsh"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 125250,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "nazwatha"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 125205,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "nazagal"
+				}
+			]
+		},
+		{
+			"id": 125212,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "nazwatha"
+				}
+			]
+		},
+		{
+			"id": 127267,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "burial-mound"
+				}
+			]
+		},
+		{
+			"id": 127268,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "burial-mound"
+				}
+			]
+		},
+		{
+			"id": 46317,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "uldum"
+				}
+			]
+		},
+		{
+			"id": 127482,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "tol-dagor",
+					"area": "sodden-depths"
+				}
+			]
+		},
+		{
+			"id": 162336,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "uldum"
+				}
+			]
+		},
+		{
+			"id": 244874,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "atalaman-zulaman"
+				}
+			]
+		},
+		{
+			"id": 130644,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 135044,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 125213,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "nazwatha"
+				}
+			]
+		},
+		{
+			"id": 180017,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eye-of-azshara-non-instanced"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		45896,
+		43658,
+		51675,
+		58455,
+		162335,
+		156760,
+		110719,
+		179588
+	]
+}

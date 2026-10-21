@@ -1,0 +1,42 @@
+{
+	"name": "Black Gorilla",
+	"variant": "Black",
+	"npcs": {
+		"1516": {
+			"name": "Konda"
+		},
+		"1559": {
+			"name": "King Mukla"
+		},
+		"2521": {
+			"name": "Skymane Gorilla"
+		},
+		"28096": {
+			"name": "Hardknuckle Charger"
+		},
+		"55117": {
+			"name": "Gargantua"
+		},
+		"59747": {
+			"name": "Thunderfist Matriarch"
+		},
+		"129005": {
+			"name": "King Kooba"
+		},
+		"130486": {
+			"name": "Wild Thumpknuckle"
+		},
+		"130512": {
+			"name": "Juvenile Thumpknuckle"
+		},
+		"139435": {
+			"name": "Ridgeback Gorilla"
+		},
+		"140168": {
+			"name": "Elder Chest-Thump"
+		},
+		"209113": {
+			"name": "Nuoberon"
+		}
+	}
+}

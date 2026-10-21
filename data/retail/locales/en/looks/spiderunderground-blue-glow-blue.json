@@ -1,0 +1,15 @@
+{
+	"name": "Black Undercrawler w/ Blue Glow",
+	"variant": "Black Undercrawler w/ Blue Glow",
+	"npcs": {
+		"216561": {
+			"name": "Gahn'dante"
+		},
+		"235379": {
+			"name": "Sureki Undercrawler"
+		},
+		"238932": {
+			"name": "Sureki Undercrawler"
+		}
+	}
+}

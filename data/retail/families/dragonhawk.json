@@ -1,0 +1,25 @@
+{
+	"id": "dragonhawk",
+	"icon": "ability_hunter_pet_dragonhawk",
+	"spec": "tenacity",
+	"exotic": false,
+	"diet": [
+		"fish",
+		"fruit",
+		"meat"
+	],
+	"abilities": {
+		"basic": "bite",
+		"family": [
+			"dragons-guile"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "greaterdragonhawks"
+		},
+		{
+			"id": "dragonhawks"
+		}
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"id": "flyingserpent-purple",
+	"family": "chimaera",
+	"modelGroup": "skyfiends",
+	"npcs": [
+		{
+			"id": 256791,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "gate-of-the-eastern-fang"
+				}
+			]
+		},
+		{
+			"id": 263900,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-venomous-abyss"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		261693,
+		259275,
+		261396,
+		256207,
+		259767,
+		259699,
+		253764,
+		253884,
+		259063,
+		263583
+	]
+}

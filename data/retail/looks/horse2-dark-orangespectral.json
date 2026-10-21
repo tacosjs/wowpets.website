@@ -1,0 +1,21 @@
+{
+	"id": "horse2-dark-orangespectral",
+	"family": "courser",
+	"modelGroup": "dreamrunners",
+	"npcs": [
+		{
+			"id": 127615,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "invasion-point-bonich"
+				}
+			]
+		}
+	]
+}

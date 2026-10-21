@@ -1,0 +1,82 @@
+{
+	"id": "lightningworg-black",
+	"family": "spiritbeast",
+	"modelGroup": "spiritstormwolves",
+	"npcs": [
+		{
+			"id": 151144,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-storm-peaks",
+					"area": "temple-of-storms"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 216017,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn"
+				}
+			]
+		},
+		{
+			"id": 214971,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "ironwold"
+				}
+			]
+		},
+		{
+			"id": 233274,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "undermine",
+					"area": "bilgewater-flats"
+				}
+			]
+		},
+		{
+			"id": 222797,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "cinderwold"
+				}
+			]
+		}
+	]
+}

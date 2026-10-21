@@ -1,0 +1,33 @@
+{
+	"name": "Red Shale Spider",
+	"variant": "Red",
+	"npcs": {
+		"42845": {
+			"name": "Rock Borer"
+		},
+		"43917": {
+			"name": "Rock Borer"
+		},
+		"44425": {
+			"name": "Crimson Shale Spider"
+		},
+		"47072": {
+			"name": "Amthea"
+		},
+		"49816": {
+			"name": "Deep Spider"
+		},
+		"51066": {
+			"name": "Crystalfang"
+		},
+		"51069": {
+			"name": "Scintillex"
+		},
+		"67759": {
+			"name": "Agitated Shale Spider"
+		},
+		"134521": {
+			"name": "Enraged Nibbler"
+		}
+	}
+}

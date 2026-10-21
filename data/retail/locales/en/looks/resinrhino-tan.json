@@ -1,0 +1,24 @@
+{
+	"name": "Tan Chloroceros",
+	"variant": "Tan",
+	"npcs": {
+		"244371": {
+			"name": "Ahl'ua Chloroceros"
+		},
+		"251562": {
+			"name": "Groveherd Chloroceros"
+		},
+		"251724": {
+			"name": "Sporegorger Choloroceros"
+		},
+		"255971": {
+			"name": "Lightmaddened Chloroceros"
+		},
+		"256541": {
+			"name": "Groveheard Chloroceros"
+		},
+		"258648": {
+			"name": "Old Nay'kune"
+		}
+	}
+}

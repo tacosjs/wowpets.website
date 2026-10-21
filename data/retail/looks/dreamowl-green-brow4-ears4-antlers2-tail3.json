@@ -1,0 +1,71 @@
+{
+	"id": "dreamowl-green-brow4-ears4-antlers2-tail3",
+	"family": "birdofprey",
+	"modelGroup": "dreamowls",
+	"npcs": [
+		{
+			"id": 208234,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "ancient-bough"
+				}
+			]
+		},
+		{
+			"id": 211154,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "twisting-wood"
+				}
+			]
+		},
+		{
+			"id": 210047,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "viridescent-thicket"
+				}
+			]
+		},
+		{
+			"id": 209876,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "meandering-rootlands"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		216707,
+		210531
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"name": "Turquoise Shale Worm",
+	"variant": "Turquoise",
+	"npcs": {
+		"42766": {
+			"name": "Gorged Gyreworm"
+		},
+		"42925": {
+			"name": "Ravenous Tunneler"
+		},
+		"43031": {
+			"name": "Agitated Tunneler"
+		},
+		"44257": {
+			"name": "Gyreworm"
+		},
+		"44259": {
+			"name": "Gorged Gyreworm"
+		},
+		"172635": {
+			"name": "Stygian Shardworm"
+		},
+		"204434": {
+			"name": "Diganthor"
+		},
+		"205613": {
+			"name": "Crystal Wormling"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Purple-Orange Candlefly w/ Feathery Antennae",
+	"variant": "Purple-Orange w/ Feathery Antennae",
+	"npcs": {
+		"214821": {
+			"name": "Stillpond Sparkbug"
+		},
+		"230920": {
+			"name": "Fluttering Glowmite"
+		}
+	}
+}

@@ -1,0 +1,50 @@
+{
+	"id": "mothskincyan",
+	"family": "moth",
+	"modelGroup": "moths",
+	"npcs": [
+		{
+			"id": 76668,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "talador"
+				}
+			]
+		},
+		{
+			"id": 77331,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "talador"
+				}
+			]
+		},
+		{
+			"id": 77328,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "talador",
+					"area": "duskfall-island"
+				}
+			]
+		}
+	]
+}

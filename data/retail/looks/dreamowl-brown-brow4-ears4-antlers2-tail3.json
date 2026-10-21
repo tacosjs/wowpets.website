@@ -1,0 +1,46 @@
+{
+	"id": "dreamowl-brown-brow4-ears4-antlers2-tail3",
+	"family": "birdofprey",
+	"modelGroup": "dreamowls",
+	"npcs": [
+		{
+			"id": 210882,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "springrain-river"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 207623,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "amirdrassil-whorlwing-basin"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		210531,
+		209676
+	]
+}

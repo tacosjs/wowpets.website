@@ -1,0 +1,46 @@
+{
+	"id": "manawyrm2-red",
+	"family": "serpent",
+	"modelGroup": "eversongmanawyrms",
+	"npcs": [
+		{
+			"id": 250882,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 83
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "silvermoon-city"
+				}
+			]
+		},
+		{
+			"id": 250188,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "brightwing-estate"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		238087,
+		242521,
+		242520,
+		250025,
+		250024,
+		251053,
+		250318
+	]
+}

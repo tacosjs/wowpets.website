@@ -1,0 +1,25 @@
+{
+	"id": "caveborerworm-brown-graspers12",
+	"family": "worm",
+	"modelGroup": "jawcrawlers",
+	"npcs": [
+		{
+			"id": 224536,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "sanguine-grasps"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		219970
+	]
+}

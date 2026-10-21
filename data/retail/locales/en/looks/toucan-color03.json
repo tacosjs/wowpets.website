@@ -1,0 +1,15 @@
+{
+	"name": "Red Axebeak",
+	"variant": "Red",
+	"npcs": {
+		"130832": {
+			"name": "Salteyed Axebeak"
+		},
+		"130846": {
+			"name": "Salteyed Axebeak"
+		},
+		"134780": {
+			"name": "Enticed Axebeak"
+		}
+	}
+}

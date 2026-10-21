@@ -1,0 +1,13 @@
+{
+	"id": "pig2-pink",
+	"family": "boar",
+	"modelGroup": "pigs",
+	"npcs": [],
+	"alsoNpcs": [
+		25362,
+		137457,
+		214928,
+		214926,
+		129501
+	]
+}

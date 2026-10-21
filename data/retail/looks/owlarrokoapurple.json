@@ -1,0 +1,68 @@
+{
+	"id": "owlarrokoapurple",
+	"family": "birdofprey",
+	"modelGroup": "owls",
+	"npcs": [
+		{
+			"id": 21904,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "sethekk-halls"
+				}
+			]
+		},
+		{
+			"id": 21804,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "terokkar-forest"
+				}
+			]
+		},
+		{
+			"id": 22337,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "terokkar-forest"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 20109,
+			"tameable": false,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blades-edge-mountains"
+				}
+			]
+		}
+	]
+}

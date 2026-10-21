@@ -1,0 +1,24 @@
+{
+	"name": "Purple Outland Basilisk",
+	"variant": "Purple",
+	"npcs": {
+		"20607": {
+			"name": "Craghide Basilisk"
+		},
+		"21816": {
+			"name": "Ironspine Chomper"
+		},
+		"21854": {
+			"name": "Ironspine Petrifier"
+		},
+		"70858": {
+			"name": "Daggermaw Icegazer"
+		},
+		"71721": {
+			"name": "Canyon Icemother"
+		},
+		"75421": {
+			"name": "Icebrood Pup"
+		}
+	}
+}

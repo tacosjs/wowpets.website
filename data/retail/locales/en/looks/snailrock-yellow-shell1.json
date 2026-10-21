@@ -1,0 +1,12 @@
+{
+	"name": "Orange Crystalline Snail",
+	"variant": "Orange",
+	"npcs": {
+		"203238": {
+			"name": "Temporal Infused Rock Snail"
+		},
+		"204616": {
+			"name": "Tricky"
+		}
+	}
+}

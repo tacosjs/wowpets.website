@@ -1,0 +1,15 @@
+{
+	"name": "Green Jawcrawler w/ No Graspers",
+	"variant": "Green w/ No Graspers",
+	"npcs": {
+		"216387": {
+			"name": "Razorling"
+		},
+		"226193": {
+			"name": "Invasive Jawgrub"
+		},
+		"227780": {
+			"name": "Sandboring Hatchling"
+		}
+	}
+}

@@ -1,0 +1,125 @@
+{
+	"id": "rhinocerosbeetle-white",
+	"family": "beetle",
+	"modelGroup": "rhinocerosbeetles",
+	"npcs": [
+		{
+			"id": 186456,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "lilac-ramble"
+				}
+			]
+		},
+		{
+			"id": 193996,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "shady-sanctuary"
+				}
+			]
+		},
+		{
+			"id": 207625,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "barrows-of-reverie"
+				}
+			]
+		},
+		{
+			"id": 227439,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		},
+		{
+			"id": 198244,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 1
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus"
+				}
+			]
+		},
+		{
+			"id": 197439,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 1
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "shadow-ledge"
+				}
+			]
+		},
+		{
+			"id": 196616,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 1
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "tyrhold-reservoir"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		195304,
+		207072,
+		256344,
+		256349,
+		256345,
+		248127,
+		256225,
+		251251,
+		237249,
+		250335,
+		256304,
+		209504,
+		240871
+	]
+}

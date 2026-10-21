@@ -1,0 +1,46 @@
+{
+	"name": "Black Amazard",
+	"variant": "Black",
+	"npcs": {
+		"242024": {
+			"name": "The Snapping Scourge"
+		},
+		"248597": {
+			"name": "Mot'amra",
+			"title": "Loa of Pestilence"
+		},
+		"250152": {
+			"name": "Dreadmaw Amazard"
+		},
+		"253491": {
+			"name": "Snapping Matriarch"
+		},
+		"254166": {
+			"name": "Murkfen Amazard"
+		},
+		"254167": {
+			"name": "Enraged Amazard"
+		},
+		"256894": {
+			"name": "Gored Snapper"
+		},
+		"257525": {
+			"name": "Amazard Gnasher"
+		},
+		"257527": {
+			"name": "Cragspine Amazard"
+		},
+		"257529": {
+			"name": "Stonemaw Amazard"
+		},
+		"261267": {
+			"name": "Protective Amazard"
+		},
+		"261650": {
+			"name": "Bonesnapper Lizard"
+		},
+		"262965": {
+			"name": "Spined Snapper"
+		}
+	}
+}

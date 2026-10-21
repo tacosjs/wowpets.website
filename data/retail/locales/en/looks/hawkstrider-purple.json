@@ -1,0 +1,12 @@
+{
+	"name": "Purple Hawkstrider",
+	"variant": "Purple",
+	"npcs": {
+		"256834": {
+			"name": "Resplendent Hawkstrider"
+		},
+		"256841": {
+			"name": "Resplendent Hawkstrider"
+		}
+	}
+}

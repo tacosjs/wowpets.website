@@ -1,0 +1,26 @@
+{
+	"id": "capybara-red",
+	"family": "rodent",
+	"modelGroup": "capybaras",
+	"npcs": [
+		{
+			"id": 255136,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		257928,
+		256516,
+		246535
+	]
+}

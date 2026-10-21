@@ -1,0 +1,21 @@
+{
+	"id": "mammoth2-gray-tusk6",
+	"family": "mammoth",
+	"modelGroup": "mammoths",
+	"npcs": [
+		{
+			"id": 191995,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		}
+	]
+}

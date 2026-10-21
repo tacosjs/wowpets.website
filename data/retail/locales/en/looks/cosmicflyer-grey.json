@@ -1,0 +1,33 @@
+{
+	"name": "Blue Cosmic Ray",
+	"variant": "Blue",
+	"npcs": {
+		"230906": {
+			"name": "Siltwing Hunter"
+		},
+		"240511": {
+			"name": "Twilight Ray"
+		},
+		"240544": {
+			"name": "Vicious Ray"
+		},
+		"241363": {
+			"name": "Siltwing Hunter"
+		},
+		"245897": {
+			"name": "Nether Ray"
+		},
+		"246060": {
+			"name": "Stormray Ramora"
+		},
+		"250540": {
+			"name": "Seeking Stormray"
+		},
+		"254608": {
+			"name": "Seeking Stormray"
+		},
+		"255957": {
+			"name": "Corrupted Ray"
+		}
+	}
+}

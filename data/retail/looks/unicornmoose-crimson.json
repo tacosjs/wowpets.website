@@ -1,0 +1,66 @@
+{
+	"id": "unicornmoose-crimson",
+	"family": "stag",
+	"modelGroup": "shalehorns",
+	"npcs": [
+		{
+			"id": 224586,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "the-aegis-wall"
+				}
+			]
+		},
+		{
+			"id": 214764,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn"
+				}
+			]
+		},
+		{
+			"id": 221786,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "the-fangs-hallowfall"
+				}
+			],
+			"keepsName": true
+		}
+	],
+	"alsoNpcs": [
+		212701,
+		223042,
+		212702,
+		227935,
+		228874,
+		227933,
+		227999,
+		226252,
+		226117,
+		226116,
+		226115,
+		223079
+	]
+}

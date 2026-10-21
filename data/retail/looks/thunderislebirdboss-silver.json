@@ -1,0 +1,56 @@
+{
+	"id": "thunderislebirdboss-silver",
+	"family": "carrionbird",
+	"modelGroup": "teroclaws",
+	"npcs": [
+		{
+			"id": 170932,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "garden-of-respite"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 169313,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion"
+				}
+			]
+		},
+		{
+			"id": 170386,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "everdawn-terrace"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		159192,
+		169050
+	]
+}

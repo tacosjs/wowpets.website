@@ -1,0 +1,27 @@
+{
+	"name": "Orange Boar",
+	"variant": "Orange",
+	"npcs": {
+		"157": {
+			"name": "Goretusk"
+		},
+		"547": {
+			"name": "Great Goretusk"
+		},
+		"1985": {
+			"name": "Thistle Boar"
+		},
+		"5992": {
+			"name": "Ashmane Boar"
+		},
+		"38141": {
+			"name": "Docile Island Boar"
+		},
+		"47818": {
+			"name": "Tusker"
+		},
+		"234959": {
+			"name": "Sirentusk Piglet"
+		}
+	}
+}

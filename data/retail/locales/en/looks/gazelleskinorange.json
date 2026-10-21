@@ -1,0 +1,24 @@
+{
+	"name": "Tan & Black Gazelle",
+	"variant": "Tan & Black",
+	"npcs": {
+		"45302": {
+			"name": "Sunchaser Gazelle"
+		},
+		"58454": {
+			"name": "Fairlands Gazelle"
+		},
+		"130316": {
+			"name": "Ringhorn Strider"
+		},
+		"130317": {
+			"name": "Ringhorn Fawn"
+		},
+		"134699": {
+			"name": "Ambermane Buck"
+		},
+		"156788": {
+			"name": "Fairlands Gazelle"
+		}
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"id": "dreambear-blue",
+	"family": "bear",
+	"modelGroup": "dreambears",
+	"npcs": [
+		{
+			"id": 213608,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "meandering-rootlands"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

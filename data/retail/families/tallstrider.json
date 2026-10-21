@@ -1,0 +1,36 @@
+{
+	"id": "tallstrider",
+	"wowId": 12,
+	"icon": "ability_hunter_pet_tallstrider",
+	"spec": "ferocity",
+	"exotic": false,
+	"diet": [
+		"bread",
+		"cheese",
+		"fruit",
+		"fungus"
+	],
+	"abilities": {
+		"basic": "claw",
+		"family": [
+			"dust-cloud"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "armouredhawkstriders"
+		},
+		{
+			"id": "hawkstriders"
+		},
+		{
+			"id": "hornstriders"
+		},
+		{
+			"id": "grandtallstriders"
+		},
+		{
+			"id": "tallstriders"
+		}
+	]
+}

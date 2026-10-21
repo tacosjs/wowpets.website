@@ -1,0 +1,143 @@
+{
+	"id": "basilisk-outlandyellow",
+	"family": "basilisk",
+	"modelGroup": "outlandbasilisks",
+	"npcs": [
+		{
+			"id": 19730,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zangarmarsh"
+				}
+			]
+		},
+		{
+			"id": 19729,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zangarmarsh"
+				}
+			]
+		},
+		{
+			"id": 20283,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zangarmarsh"
+				}
+			]
+		},
+		{
+			"id": 19706,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zangarmarsh"
+				}
+			]
+		},
+		{
+			"id": 20279,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zangarmarsh"
+				}
+			]
+		},
+		{
+			"id": 20280,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zangarmarsh"
+				}
+			]
+		},
+		{
+			"id": 74962,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "sulfur-basin"
+				}
+			]
+		},
+		{
+			"id": 20924,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blades-edge-mountains"
+				}
+			]
+		},
+		{
+			"id": 20783,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "netherstorm"
+				}
+			],
+			"keepsName": true,
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		86134
+	]
+}

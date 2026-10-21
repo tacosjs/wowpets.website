@@ -1,0 +1,73 @@
+{
+	"id": "nzothserpent-black",
+	"family": "worm",
+	"modelGroup": "aqiriworms",
+	"npcs": [
+		{
+			"id": 152550,
+			"tameable": false,
+			"level": {
+				"min": 52,
+				"max": 52
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "uldum"
+				},
+				{
+					"zone": "vale-of-eternal-blossoms"
+				}
+			]
+		},
+		{
+			"id": 204671,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-black-empire"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 210539,
+			"tameable": false,
+			"level": {
+				"min": 81,
+				"max": 81
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "darkflame-cleft",
+					"area": "lightless-depths"
+				}
+			]
+		},
+		{
+			"id": 220616,
+			"tameable": false,
+			"level": {
+				"min": 81,
+				"max": 81
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "darkflame-cleft",
+					"area": "sprawling-trackyard"
+				}
+			]
+		}
+	]
+}

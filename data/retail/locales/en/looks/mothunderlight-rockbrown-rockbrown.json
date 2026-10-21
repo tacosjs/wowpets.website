@@ -1,0 +1,9 @@
+{
+	"name": "Brown Dustmoth w/ Orange Glow",
+	"variant": "Brown w/ Orange Glow",
+	"npcs": {
+		"205191": {
+			"name": "Rockhusk Flickerwing"
+		}
+	}
+}

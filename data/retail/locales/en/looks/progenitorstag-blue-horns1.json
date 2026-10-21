@@ -1,0 +1,15 @@
+{
+	"name": "Grey Cervid w/ Long Swept Horns",
+	"variant": "Grey",
+	"npcs": {
+		"178099": {
+			"name": "Cervid Protector"
+		},
+		"182272": {
+			"name": "Ravenous Cervid"
+		},
+		"184524": {
+			"name": "Dimensional Cervid"
+		}
+	}
+}

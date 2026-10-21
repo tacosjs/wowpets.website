@@ -1,0 +1,100 @@
+{
+	"name": "Blue & White Crab",
+	"variant": "Blue & White",
+	"npcs": {
+		"126449": {
+			"name": "Siltspitter"
+		},
+		"126642": {
+			"name": "Sandyback Crab"
+		},
+		"127496": {
+			"name": "Sandy Snapper"
+		},
+		"128942": {
+			"name": "Mudfisher Crab"
+		},
+		"131013": {
+			"name": "Dazarian Snapper"
+		},
+		"137255": {
+			"name": "Derelict Hexapod"
+		},
+		"137763": {
+			"name": "Coral Snapper"
+		},
+		"141872": {
+			"name": "Shallows Softshell"
+		},
+		"145337": {
+			"name": "Sandclaw Crab"
+		},
+		"149680": {
+			"name": "Overfed Crawler"
+		},
+		"153462": {
+			"name": "Coral Snapper"
+		},
+		"155943": {
+			"name": "Tamed Sandclaw"
+		},
+		"182439": {
+			"name": "Snappy Sidewalker",
+			"title": "Cliffdrip Snapstrider's Pet"
+		},
+		"188328": {
+			"name": "Crab"
+		},
+		"191457": {
+			"name": "Hardback Crab"
+		},
+		"191762": {
+			"name": "Weathered Crab"
+		},
+		"197955": {
+			"name": "Snipshell Nibbler"
+		},
+		"198313": {
+			"name": "Le'val Skulltler"
+		},
+		"198314": {
+			"name": "Le'val Spineshell"
+		},
+		"199773": {
+			"name": "Hardback Skitterer"
+		},
+		"200249": {
+			"name": "Weathered Crab"
+		},
+		"214436": {
+			"name": "Pearlfin Clawclacker"
+		},
+		"222156": {
+			"name": "Scavenging Sandsnapper"
+		},
+		"222312": {
+			"name": "Scavenging Sandsnapper"
+		},
+		"224508": {
+			"name": "Tidal Sandsnapper"
+		},
+		"224876": {
+			"name": "Scavenging Sandsnapper"
+		},
+		"225889": {
+			"name": "Angry Sandsnapper"
+		},
+		"227201": {
+			"name": "Tidal Sandsnapper"
+		},
+		"250103": {
+			"name": "Seaside Crab"
+		},
+		"254969": {
+			"name": "Prowl Crawler"
+		},
+		"261126": {
+			"name": "Blueblood Crawler"
+		}
+	}
+}

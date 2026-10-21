@@ -1,0 +1,66 @@
+{
+	"id": "flyingnerubianyellow",
+	"family": "bloodbeast",
+	"modelGroup": "classicswarmites",
+	"npcs": [
+		{
+			"id": 25445,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 71
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "borean-tundra",
+					"area": "warsong-hold"
+				}
+			]
+		},
+		{
+			"id": 139876,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 71
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions",
+					"area": "skittering-hollow"
+				}
+			]
+		},
+		{
+			"id": 25582,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 71
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "borean-tundra",
+					"area": "valiance-keep"
+				}
+			]
+		},
+		{
+			"id": 55573,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azjol-nerub"
+				}
+			]
+		}
+	]
+}

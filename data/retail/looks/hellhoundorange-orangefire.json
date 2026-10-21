@@ -1,0 +1,123 @@
+{
+	"id": "hellhoundorange-orangefire",
+	"family": "hound",
+	"modelGroup": "infernalhellhounds",
+	"npcs": [
+		{
+			"id": 61658,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ragefire-chasm"
+				}
+			]
+		},
+		{
+			"id": 54339,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "molten-front",
+					"area": "ashen-fields"
+				}
+			]
+		},
+		{
+			"id": 53152,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "molten-front",
+					"area": "the-molten-flow"
+				}
+			]
+		},
+		{
+			"id": 53694,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "firelands"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 71009,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "northern-barrens"
+				}
+			]
+		},
+		{
+			"id": 140562,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 140564,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 207429,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "dragon-isles",
+					"area": "active-dreamsurge-portal-location"
+				}
+			]
+		}
+	]
+}

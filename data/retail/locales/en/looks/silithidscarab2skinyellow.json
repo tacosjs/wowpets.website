@@ -1,0 +1,24 @@
+{
+	"name": "Orange & Blue Beetle",
+	"variant": "Orange & Blue",
+	"npcs": {
+		"6555": {
+			"name": "Gorishi Tunneler"
+		},
+		"10177": {
+			"name": "Spire Scarab"
+		},
+		"11726": {
+			"name": "Hive'Zora Tunneler"
+		},
+		"140376": {
+			"name": "Duneshell Scarab"
+		},
+		"140378": {
+			"name": "Duneshell Broodwatcher"
+		},
+		"140591": {
+			"name": "Qiraji Scarab"
+		}
+	}
+}

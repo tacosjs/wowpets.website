@@ -1,0 +1,22 @@
+{
+	"id": "flyingnerubian2-black-abdomen3-head3",
+	"family": "bloodbeast",
+	"modelGroup": "swarmites",
+	"npcs": [
+		{
+			"id": 221669,
+			"tameable": false,
+			"level": {
+				"min": 81,
+				"max": 81
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nerub-ar-palace",
+					"area": "the-narthex"
+				}
+			]
+		}
+	]
+}

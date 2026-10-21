@@ -1,0 +1,9 @@
+{
+	"name": "Ghostly Tan Bat",
+	"variant": "Ghostly Tan",
+	"npcs": {
+		"50328": {
+			"name": "Fangor"
+		}
+	}
+}

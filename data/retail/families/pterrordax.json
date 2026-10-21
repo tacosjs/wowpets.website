@@ -1,0 +1,41 @@
+{
+	"id": "pterrordax",
+	"wowId": 290,
+	"icon": "inv_pterrordax2mount_yellow",
+	"spec": "cunning",
+	"exotic": true,
+	"diet": [
+		"fish",
+		"raw-fish",
+		"fruit",
+		"meat",
+		"raw-meat"
+	],
+	"abilities": {
+		"basic": "bite",
+		"family": [
+			"ancient-hide",
+			"updraft"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "pterrordaxes"
+		},
+		{
+			"id": "armouredpterrordaxes"
+		},
+		{
+			"id": "harnessedpterrordaxes"
+		},
+		{
+			"id": "oldpterrordaxes"
+		},
+		{
+			"id": "skyscreamers"
+		},
+		{
+			"id": "armouredskyscreamers"
+		}
+	]
+}

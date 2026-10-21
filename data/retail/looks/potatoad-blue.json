@@ -1,0 +1,183 @@
+{
+	"id": "potatoad-blue",
+	"family": "hopper",
+	"modelGroup": "potatoads",
+	"npcs": [
+		{
+			"id": 250185,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar"
+				}
+			]
+		},
+		{
+			"id": 258090,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar"
+				}
+			]
+		},
+		{
+			"id": 250273,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "nordrassil-roots"
+				}
+			]
+		},
+		{
+			"id": 242755,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "fungal-cleft"
+				}
+			]
+		},
+		{
+			"id": 251915,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "naitheren-grotto"
+				}
+			]
+		},
+		{
+			"id": 256364,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "vale-of-mists-blossoming-terrace"
+				}
+			]
+		},
+		{
+			"id": 248471,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "den-of-echoes"
+				}
+			]
+		},
+		{
+			"id": 256060,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar"
+				}
+			]
+		},
+		{
+			"id": 256104,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar"
+				}
+			]
+		},
+		{
+			"id": 237204,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "amirdrassil-roots"
+				}
+			]
+		},
+		{
+			"id": 249167,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 1
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "vale-of-mists"
+				}
+			]
+		},
+		{
+			"id": 237825,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "harathir"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,130 @@
+{
+	"id": "uldumscarab2skinyellow",
+	"family": "beetle",
+	"modelGroup": "grandbeetles",
+	"npcs": [
+		{
+			"id": 51053,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "eastern-plaguelands"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 47801,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "uldum"
+				}
+			]
+		},
+		{
+			"id": 162363,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "uldum",
+					"area": "neferset-city"
+				}
+			]
+		},
+		{
+			"id": 162767,
+			"tameable": true,
+			"level": {
+				"min": 53,
+				"max": 60
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "valley-of-a-thousand-legs"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 227808,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "lights-blooming"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 140385,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 140386,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 207826,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "isaecs-folly"
+				}
+			]
+		}
+	]
+}

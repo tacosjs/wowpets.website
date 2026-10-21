@@ -1,0 +1,27 @@
+{
+	"name": "Brown Rock Snail",
+	"variant": "Brown",
+	"npcs": {
+		"202525": {
+			"name": "Slime Time Live"
+		},
+		"203081": {
+			"name": "Slimes"
+		},
+		"203126": {
+			"name": "Mudslick Snail"
+		},
+		"203278": {
+			"name": "Big Ol' Bessie"
+		},
+		"204554": {
+			"name": "Slimes"
+		},
+		"205169": {
+			"name": "Dirt Shell Snail"
+		},
+		"250339": {
+			"name": "Mosscoil Snail"
+		}
+	}
+}

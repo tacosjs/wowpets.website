@@ -1,0 +1,106 @@
+{
+	"id": "windserpent2-black-rattle",
+	"family": "windserpent",
+	"modelGroup": "grandwindserpents",
+	"npcs": [
+		{
+			"id": 5056,
+			"tameable": true,
+			"level": {
+				"min": 9,
+				"max": 31
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "wailing-caverns"
+				}
+			]
+		},
+		{
+			"id": 37557,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "southern-barrens"
+				}
+			]
+		},
+		{
+			"id": 191645,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores"
+				}
+			]
+		},
+		{
+			"id": 191647,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores"
+				}
+			]
+		},
+		{
+			"id": 140336,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 140334,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 185592,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "smoldering-perch"
+				}
+			]
+		}
+	]
+}

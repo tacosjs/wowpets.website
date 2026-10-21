@@ -1,0 +1,10 @@
+{
+	"name": "Striped Grey Rockfang",
+	"variant": "Striped Grey",
+	"npcs": {
+		"187781": {
+			"name": "Hamett",
+			"title": "Rockfang Matriarch"
+		}
+	}
+}

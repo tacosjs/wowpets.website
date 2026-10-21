@@ -1,0 +1,50 @@
+{
+	"id": "hopper",
+	"wowId": 291,
+	"icon": "inv_pet_toad_green",
+	"spec": "tenacity",
+	"exotic": false,
+	"diet": [
+		"fish",
+		"raw-fish",
+		"fruit",
+		"fungus",
+		"meat",
+		"raw-meat"
+	],
+	"abilities": {
+		"basic": "smack",
+		"family": [
+			"swarm-of-flies"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "potatoads"
+		},
+		{
+			"id": "skippers"
+		},
+		{
+			"id": "bufonids"
+		},
+		{
+			"id": "gromits"
+		},
+		{
+			"id": "ardenwealdtoads"
+		},
+		{
+			"id": "diretoads"
+		},
+		{
+			"id": "toads"
+		},
+		{
+			"id": "loatoads"
+		},
+		{
+			"id": "ambystans"
+		}
+	]
+}

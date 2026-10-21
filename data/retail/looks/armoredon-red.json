@@ -1,0 +1,21 @@
+{
+	"id": "armoredon-red",
+	"family": "scalehide",
+	"modelGroup": "armoredons",
+	"npcs": [
+		{
+			"id": 193725,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		}
+	]
+}

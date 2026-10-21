@@ -1,0 +1,24 @@
+{
+	"name": "Blue Warp Stalker",
+	"variant": "Blue",
+	"npcs": {
+		"41645": {
+			"name": "Chasm Stalker"
+		},
+		"86774": {
+			"name": "Aogexon"
+		},
+		"119884": {
+			"name": "Ancient Ruinstalker"
+		},
+		"216107": {
+			"name": "Azeek"
+		},
+		"230710": {
+			"name": "Lassoed Stalker"
+		},
+		"233584": {
+			"name": "Recovered Stalker"
+		}
+	}
+}

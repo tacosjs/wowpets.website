@@ -1,0 +1,50 @@
+{
+	"id": "pandarenserpent-black-yellowspec",
+	"family": "lesserdragonkin",
+	"modelGroup": "cloudserpents",
+	"npcs": [
+		{
+			"id": 138971,
+			"tameable": true,
+			"level": {
+				"min": 11,
+				"max": 61
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 63895,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "townlong-steppes"
+				}
+			]
+		},
+		{
+			"id": 62586,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "townlong-steppes",
+					"area": "shanze-dao"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Grand Spectral Wyvern",
+	"variant": "Grand Spectral Wyvern",
+	"npcs": {
+		"230827": {
+			"name": "Stormtouched Pridetalon"
+		}
+	}
+}

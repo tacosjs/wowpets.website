@@ -1,0 +1,60 @@
+{
+	"id": "rat2undermine-white",
+	"family": "rodent",
+	"modelGroup": "rats",
+	"npcs": [
+		{
+			"id": 239324,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "undermine",
+					"area": "the-vatworks"
+				}
+			]
+		},
+		{
+			"id": 250534,
+			"tameable": false,
+			"level": {
+				"min": 92,
+				"max": 92
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "eversong-woods"
+				},
+				{
+					"zone": "zulaman"
+				},
+				{
+					"zone": "harandar"
+				},
+				{
+					"zone": "voidstorm"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 259838,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "zulaman"
+				}
+			]
+		}
+	]
+}

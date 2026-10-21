@@ -1,0 +1,22 @@
+{
+	"id": "basiliskskinpurple-crystalskin",
+	"family": "basilisk",
+	"modelGroup": "basilisks",
+	"npcs": [
+		{
+			"id": 51013,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 35
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "townlong-steppes"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

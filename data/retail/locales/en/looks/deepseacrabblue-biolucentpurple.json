@@ -1,0 +1,12 @@
+{
+	"name": "Blue Spiked Crab w/ Purple Markings",
+	"variant": "Blue w/ Purple Markings",
+	"npcs": {
+		"109803": {
+			"name": "Leyscar Scuttler"
+		},
+		"227625": {
+			"name": "Seafury Spiker"
+		}
+	}
+}

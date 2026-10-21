@@ -1,0 +1,15 @@
+{
+	"name": "Green & Scarlet Lapbug",
+	"variant": "Green & Scarlet Lapbug",
+	"npcs": {
+		"238165": {
+			"name": "Le Chef"
+		},
+		"238174": {
+			"name": "Mysterious Myrtelle"
+		},
+		"238180": {
+			"name": "Bosun Bonny"
+		}
+	}
+}

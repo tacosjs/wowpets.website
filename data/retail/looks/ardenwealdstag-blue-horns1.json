@@ -1,0 +1,29 @@
+{
+	"id": "ardenwealdstag-blue-horns1",
+	"family": "stag",
+	"modelGroup": "runestags",
+	"npcs": [
+		{
+			"id": 165106,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "elder-stand"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		159029,
+		170205,
+		166967,
+		165908,
+		170144
+	]
+}

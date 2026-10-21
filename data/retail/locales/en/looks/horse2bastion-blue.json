@@ -1,0 +1,21 @@
+{
+	"name": "Milky-Blue Dreamrunner w/ Blue Horn",
+	"variant": "Milky-Blue w/ Blue Horn",
+	"npcs": {
+		"168407": {
+			"name": "Stray Cloudracer"
+		},
+		"168638": {
+			"name": "Wild Cloudracer"
+		},
+		"169195": {
+			"name": "Roaming Cloudracer"
+		},
+		"169509": {
+			"name": "Spirited Cloudracer"
+		},
+		"170248": {
+			"name": "Swift Cloudracer"
+		}
+	}
+}

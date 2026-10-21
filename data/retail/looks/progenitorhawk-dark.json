@@ -1,0 +1,126 @@
+{
+	"id": "progenitorhawk-dark",
+	"family": "birdofprey",
+	"modelGroup": "raptoras",
+	"npcs": [
+		{
+			"id": 179004,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "untamed-verdure"
+				}
+			]
+		},
+		{
+			"id": 183274,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "fissured-breach"
+				}
+			]
+		},
+		{
+			"id": 183284,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "fissured-breach"
+				}
+			]
+		},
+		{
+			"id": 180052,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis"
+				}
+			]
+		},
+		{
+			"id": 185266,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "catalyst-gardens-plain-of-actualization"
+				}
+			]
+		},
+		{
+			"id": 183440,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "genesis-fields"
+				}
+			]
+		},
+		{
+			"id": 182314,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "genesis-fields-cradle-of-nascence"
+				}
+			]
+		},
+		{
+			"id": 183505,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "genesis-fields"
+				}
+			]
+		}
+	]
+}

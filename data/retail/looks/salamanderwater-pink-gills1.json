@@ -1,0 +1,136 @@
+{
+	"id": "salamanderwater-pink-gills1",
+	"family": "lizard",
+	"modelGroup": "salamanthers",
+	"npcs": [
+		{
+			"id": 212502,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "amirdrassil-dragon-isles-zone"
+				}
+			]
+		},
+		{
+			"id": 212144,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "haven-cascades"
+				}
+			]
+		},
+		{
+			"id": 220775,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "bleak-sand"
+				}
+			]
+		},
+		{
+			"id": 190389,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "reedwhistle-bay"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 193163,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "emerald-gardens"
+				}
+			]
+		},
+		{
+			"id": 217743,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "salien-gutters"
+				}
+			]
+		},
+		{
+			"id": 193123,
+			"tameable": false,
+			"level": {
+				"min": 71,
+				"max": 71
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "mirror-of-the-sky"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		191653,
+		190243,
+		195461,
+		190242,
+		195848,
+		191656,
+		201096,
+		200477,
+		210788,
+		251394,
+		198376,
+		196968,
+		195074,
+		191659,
+		186701,
+		185648,
+		195492,
+		194062
+	]
+}

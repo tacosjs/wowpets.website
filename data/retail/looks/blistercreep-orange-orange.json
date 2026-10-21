@@ -1,0 +1,13 @@
+{
+	"id": "blistercreep-orange-orange",
+	"family": "bloodbeast",
+	"modelGroup": "blistercreeps",
+	"npcs": [],
+	"alsoNpcs": [
+		257898,
+		250564,
+		248021,
+		255546,
+		254711
+	]
+}

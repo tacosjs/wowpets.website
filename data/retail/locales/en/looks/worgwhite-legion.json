@@ -1,0 +1,15 @@
+{
+	"name": "Light Grey Dire Worg",
+	"variant": "Light Grey",
+	"npcs": {
+		"92599": {
+			"name": "Bloodstalker Alpha"
+		},
+		"108790": {
+			"name": "Den Mother Ylva"
+		},
+		"139385": {
+			"name": "Deepfang"
+		}
+	}
+}

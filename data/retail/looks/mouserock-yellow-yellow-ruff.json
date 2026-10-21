@@ -1,0 +1,43 @@
+{
+	"id": "mouserock-yellow-yellow-ruff",
+	"family": "rodent",
+	"modelGroup": "rockmice",
+	"npcs": [
+		{
+			"id": 205001,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "mysterious-cave"
+				}
+			],
+			"keepsName": true,
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 204167,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "glimmerogg"
+				}
+			]
+		}
+	]
+}

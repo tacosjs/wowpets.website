@@ -1,0 +1,16 @@
+{
+	"name": "Teal Rhinoceros Beetle",
+	"variant": "Teal",
+	"npcs": {
+		"186725": {
+			"name": "Trrsha",
+			"title": "Grrlgllmesh's Pet"
+		},
+		"207567": {
+			"name": "Juicy Beetle"
+		},
+		"258343": {
+			"name": "Underroot Beetle"
+		}
+	}
+}

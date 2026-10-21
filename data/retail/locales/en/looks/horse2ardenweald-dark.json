@@ -1,0 +1,9 @@
+{
+	"name": "Purple Ardenweald Dreamrunner",
+	"variant": "Purple",
+	"npcs": {
+		"168135": {
+			"name": "Night Mare"
+		}
+	}
+}

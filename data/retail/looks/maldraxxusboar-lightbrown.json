@@ -1,0 +1,124 @@
+{
+	"id": "maldraxxusboar-lightbrown",
+	"family": "boar",
+	"modelGroup": "skullboars",
+	"npcs": [
+		{
+			"id": 169184,
+			"tameable": true,
+			"level": {
+				"min": 54,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus"
+				}
+			]
+		},
+		{
+			"id": 169234,
+			"tameable": true,
+			"level": {
+				"min": 54,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus"
+				}
+			]
+		},
+		{
+			"id": 168677,
+			"tameable": true,
+			"level": {
+				"min": 54,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus"
+				}
+			]
+		},
+		{
+			"id": 168388,
+			"tameable": true,
+			"level": {
+				"min": 54,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus"
+				}
+			]
+		},
+		{
+			"id": 169190,
+			"tameable": true,
+			"level": {
+				"min": 54,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus"
+				}
+			]
+		},
+		{
+			"id": 175162,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "glutharns-decay"
+				}
+			]
+		},
+		{
+			"id": 174391,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "the-reagentry"
+				}
+			]
+		},
+		{
+			"id": 166559,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		168192
+	]
+}

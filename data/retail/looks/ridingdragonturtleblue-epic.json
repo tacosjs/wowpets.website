@@ -1,0 +1,38 @@
+{
+	"id": "ridingdragonturtleblue-epic",
+	"family": "turtle",
+	"modelGroup": "spikeddragonturtles",
+	"npcs": [
+		{
+			"id": 64726,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "kun-lai-summit"
+				}
+			]
+		},
+		{
+			"id": 127626,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley"
+				},
+				{
+					"zone": "tiragarde-sound"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Indigo Umbraclaw",
+	"variant": "Indigo",
+	"npcs": {
+		"210070": {
+			"name": "Mosa Umbramane"
+		}
+	}
+}

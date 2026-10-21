@@ -1,0 +1,26 @@
+{
+	"id": "druidtravelkultirannoarmor-blue",
+	"family": "stag",
+	"modelGroup": "thornbucks",
+	"npcs": [
+		{
+			"id": 210984,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

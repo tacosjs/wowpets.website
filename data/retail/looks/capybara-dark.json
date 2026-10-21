@@ -1,0 +1,57 @@
+{
+	"id": "capybara-dark",
+	"family": "rodent",
+	"modelGroup": "capybaras",
+	"npcs": [
+		{
+			"id": 258215,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman"
+				}
+			]
+		},
+		{
+			"id": 261626,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "ofis-hut"
+				}
+			]
+		},
+		{
+			"id": 256516,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "shrine-of-filo"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		250101,
+		256882,
+		257928,
+		263042
+	]
+}

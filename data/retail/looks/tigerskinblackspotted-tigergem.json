@@ -1,0 +1,31 @@
+{
+	"id": "tigerskinblackspotted-tigergem",
+	"family": "cat",
+	"modelGroup": "hunchedcats",
+	"npcs": [
+		{
+			"id": 28404,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldrak"
+				}
+			]
+		},
+		{
+			"id": 34035,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "ulduar"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"name": "Olive-Green Spiny Basilisk",
+	"variant": "Olive-Green",
+	"npcs": {
+		"107965": {
+			"name": "Canyon Rockeater"
+		},
+		"130333": {
+			"name": "Gritplate Basilisk"
+		},
+		"130584": {
+			"name": "Gorespike"
+		},
+		"134822": {
+			"name": "Gritplate Matriarch"
+		},
+		"188039": {
+			"name": "Muckjaw Basilisk"
+		},
+		"190333": {
+			"name": "Oversized Basilisk"
+		},
+		"193579": {
+			"name": "Muckjaw Basilisk"
+		},
+		"196176": {
+			"name": "Mosshide Basilisk"
+		},
+		"217523": {
+			"name": "Riplisk Hatchling"
+		},
+		"226700": {
+			"name": "Mudstone Basilisk"
+		}
+	}
+}

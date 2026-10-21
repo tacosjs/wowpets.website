@@ -1,0 +1,12 @@
+{
+	"name": "Yellow-Brown Skipper",
+	"variant": "Yellow-Brown",
+	"npcs": {
+		"219011": {
+			"name": "Gulping Mudskip"
+		},
+		"225933": {
+			"name": "Glowshade Ambusher"
+		}
+	}
+}

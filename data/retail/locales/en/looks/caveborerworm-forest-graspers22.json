@@ -1,0 +1,15 @@
+{
+	"name": "Green Jawcrawler w/ Full Graspers",
+	"variant": "Green w/ Full Graspers",
+	"npcs": {
+		"225488": {
+			"name": "Mycotic Jawcrawler"
+		},
+		"227778": {
+			"name": "Sandgorged Jawcrawler"
+		},
+		"229206": {
+			"name": "Thickhide Behemoth"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Maroon-Grey Gryphon",
+	"variant": "Maroon-Grey",
+	"npcs": {
+		"142088": {
+			"name": "Whirlwing"
+		},
+		"199555": {
+			"name": "Skyfeather Matriarch"
+		}
+	}
+}

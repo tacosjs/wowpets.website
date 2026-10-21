@@ -1,0 +1,82 @@
+{
+	"id": "guarm-brown",
+	"family": "hound",
+	"modelGroup": "helheimhounds",
+	"npcs": [
+		{
+			"id": 166592,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "theater-of-pain"
+				}
+			]
+		},
+		{
+			"id": 177422,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-maw",
+					"area": "helgarde-keep"
+				}
+			]
+		},
+		{
+			"id": 177443,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-maw",
+					"area": "helgarde-keep"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 167382,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "stonevigil-overlook"
+				}
+			]
+		},
+		{
+			"id": 171450,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "maldraxxus"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Beige Chimaera",
+	"variant": "Beige",
+	"npcs": {
+		"8764": {
+			"name": "Mistwing Ravager"
+		},
+		"142713": {
+			"name": "Displaced Chimaera"
+		}
+	}
+}

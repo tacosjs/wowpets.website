@@ -1,0 +1,12 @@
+{
+	"name": "Golden Brown Dream Bear",
+	"variant": "Golden Brown",
+	"npcs": {
+		"209936": {
+			"name": "Greedy Gessie"
+		},
+		"210953": {
+			"name": "Serene Bristlebruin"
+		}
+	}
+}

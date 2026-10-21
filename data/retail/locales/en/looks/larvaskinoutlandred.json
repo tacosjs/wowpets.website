@@ -1,0 +1,30 @@
+{
+	"name": "Red Toothed Larva",
+	"variant": "Red Toothed Larva",
+	"npcs": {
+		"21395": {
+			"name": "Protean Spawn"
+		},
+		"36059": {
+			"name": "Blood-filled Leech"
+		},
+		"63865": {
+			"name": "Amber Parasite"
+		},
+		"69627": {
+			"name": "Amber Parasite"
+		},
+		"94688": {
+			"name": "Diseased Grub"
+		},
+		"102883": {
+			"name": "Voracious Grub"
+		},
+		"107029": {
+			"name": "Blood Maggots"
+		},
+		"116951": {
+			"name": "Bone Crawler Grub"
+		}
+	}
+}

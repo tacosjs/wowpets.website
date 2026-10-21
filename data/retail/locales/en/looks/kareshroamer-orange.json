@@ -1,0 +1,12 @@
+{
+	"name": "Orange Slateback",
+	"variant": "Orange",
+	"npcs": {
+		"230457": {
+			"name": "Slateback Roamer"
+		},
+		"237311": {
+			"name": "Stupefied Slateback"
+		}
+	}
+}

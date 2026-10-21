@@ -1,0 +1,21 @@
+{
+	"name": "Grey-Blue Panthara w/ Cyan Glow",
+	"variant": "Grey-Blue Panthara w/ Cyan Glow",
+	"npcs": {
+		"119874": {
+			"name": "Shadowseeker Panthara"
+		},
+		"122408": {
+			"name": "Shadow Stalker"
+		},
+		"123508": {
+			"name": "Manafeeder Panthara"
+		},
+		"127286": {
+			"name": "Dazed Panthara"
+		},
+		"128317": {
+			"name": "Shadow Stalker"
+		}
+	}
+}

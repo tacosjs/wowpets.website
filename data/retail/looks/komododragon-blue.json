@@ -1,0 +1,82 @@
+{
+	"id": "komododragon-blue",
+	"family": "lizard",
+	"modelGroup": "saurolisks",
+	"npcs": [
+		{
+			"id": 139161,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "umber-shore"
+				}
+			]
+		},
+		{
+			"id": 130019,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "shatterstone-harbor"
+				}
+			]
+		},
+		{
+			"id": 141641,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley",
+					"area": "scalespine-hill"
+				}
+			]
+		},
+		{
+			"id": 151998,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mechagon",
+					"area": "scrapbone-den"
+				}
+			]
+		},
+		{
+			"id": 141716,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley",
+					"area": "scalespine-hill"
+				}
+			]
+		}
+	]
+}

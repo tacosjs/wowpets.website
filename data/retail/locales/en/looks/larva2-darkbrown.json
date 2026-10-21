@@ -1,0 +1,24 @@
+{
+	"name": "Brown Grub",
+	"variant": "Brown Grub",
+	"npcs": {
+		"15333": {
+			"name": "Silicate Feeder"
+		},
+		"64661": {
+			"name": "Maggot"
+		},
+		"160916": {
+			"name": "Feeding Maggot"
+		},
+		"216957": {
+			"name": "Sweetshine Grub"
+		},
+		"218049": {
+			"name": "Wriggling Grub"
+		},
+		"234196": {
+			"name": "Squishy Grub"
+		}
+	}
+}

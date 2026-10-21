@@ -1,0 +1,17 @@
+{
+	"name": "Thundering Blue Cloud Serpent",
+	"variant": "Thundering Blue",
+	"npcs": {
+		"69099": {
+			"name": "Nalak",
+			"title": "The Storm Lord"
+		},
+		"69562": {
+			"name": "Nalak",
+			"title": "The Storm Lord"
+		},
+		"110675": {
+			"name": "Thunder Serpent Nalak'Ra"
+		}
+	}
+}

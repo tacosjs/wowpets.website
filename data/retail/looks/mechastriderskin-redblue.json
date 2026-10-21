@@ -1,0 +1,23 @@
+{
+	"id": "mechastriderskin-redblue",
+	"family": "mechanical",
+	"modelGroup": "mechanostriders",
+	"npcs": [
+		{
+			"id": 45399,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "loch-modan",
+					"area": "ironwing-cavern"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

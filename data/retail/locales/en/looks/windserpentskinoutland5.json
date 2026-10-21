@@ -1,0 +1,12 @@
+{
+	"name": "White Spiked Wind Serpent",
+	"variant": "White",
+	"npcs": {
+		"18185": {
+			"name": "Feralfen Serpent Spirit"
+		},
+		"28477": {
+			"name": "Scion of Quetz'lun"
+		}
+	}
+}

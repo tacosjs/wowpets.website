@@ -1,0 +1,43 @@
+{
+	"name": "Red Direhorn",
+	"variant": "Red",
+	"npcs": {
+		"69193": {
+			"name": "Loa-Infused Bloodhorn"
+		},
+		"70014": {
+			"name": "Primal Direhorn Hatchling"
+		},
+		"70018": {
+			"name": "Primal Direhorn"
+		},
+		"122224": {
+			"name": "Direhorn Bull"
+		},
+		"123426": {
+			"name": "Direhorn Juvenile"
+		},
+		"123487": {
+			"name": "Direhorn Patriarch"
+		},
+		"123809": {
+			"name": "Cinderscale Direhorn"
+		},
+		"127276": {
+			"name": "Cinderscale Youngling"
+		},
+		"131628": {
+			"name": "Direhorn Bull"
+		},
+		"133163": {
+			"name": "Tia'Kawan",
+			"title": "The Ill-Tempered"
+		},
+		"180495": {
+			"name": "Enraged Direhorn"
+		},
+		"233294": {
+			"name": "Ruby Direhorn"
+		}
+	}
+}

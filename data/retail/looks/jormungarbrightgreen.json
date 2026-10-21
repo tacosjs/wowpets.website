@@ -1,0 +1,90 @@
+{
+	"id": "jormungarbrightgreen",
+	"family": "worm",
+	"modelGroup": "jormungar",
+	"npcs": [
+		{
+			"id": 94687,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "whitewater-wash"
+				}
+			]
+		},
+		{
+			"id": 91916,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ashran",
+					"area": "amberlight-cavern"
+				}
+			]
+		},
+		{
+			"id": 102918,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "earthmothers-bounty"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 140985,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 195093,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"id": "skeletalserpentskinbeige-transparent",
+	"family": "windserpent",
+	"modelGroup": "skeletalwindserpents",
+	"npcs": [
+		{
+			"id": 92937,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaan-jungle",
+					"area": "ruins-of-kranak"
+				}
+			],
+			"keepsName": true,
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 90782,
+			"tameable": true,
+			"level": {
+				"min": 42,
+				"max": 42
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "tanaan-jungle",
+					"area": "ruins-of-kranak"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

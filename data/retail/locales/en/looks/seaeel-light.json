@@ -1,0 +1,21 @@
+{
+	"name": "Tan Eel-Serpent",
+	"variant": "Tan",
+	"npcs": {
+		"127600": {
+			"name": "Venomscale Slitherer"
+		},
+		"137183": {
+			"name": "Honey-Coated Slitherer"
+		},
+		"139988": {
+			"name": "Sandfang"
+		},
+		"140604": {
+			"name": "Coastal Trapfang"
+		},
+		"152554": {
+			"name": "Abyssal Spawn"
+		}
+	}
+}

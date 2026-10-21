@@ -1,0 +1,12 @@
+{
+	"name": "Maroon-Black Dreamrunner w/ Amber Aura",
+	"variant": "Maroon-Black w/ Amber Aura",
+	"npcs": {
+		"109349": {
+			"name": "Veil Shadowrunner"
+		},
+		"110350": {
+			"name": "Tormented Shadowrunner"
+		}
+	}
+}

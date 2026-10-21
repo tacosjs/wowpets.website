@@ -1,0 +1,15 @@
+{
+	"name": "Pale Soulseeker",
+	"variant": "Pale",
+	"npcs": {
+		"164424": {
+			"name": "Mawsworn Seeker"
+		},
+		"237975": {
+			"name": "Spooked Shadehound"
+		},
+		"238185": {
+			"name": "Scavenging Shadehound"
+		}
+	}
+}

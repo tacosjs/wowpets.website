@@ -1,0 +1,54 @@
+{
+	"id": "grovecrawler-purple",
+	"family": "serpent",
+	"modelGroup": "grovecrawlers",
+	"npcs": [
+		{
+			"id": 256700,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar"
+				}
+			]
+		},
+		{
+			"id": 254197,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods"
+				},
+				{
+					"zone": "zulaman"
+				},
+				{
+					"zone": "harandar"
+				},
+				{
+					"zone": "voidstorm"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		245659,
+		250327,
+		249163
+	]
+}

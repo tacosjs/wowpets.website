@@ -1,0 +1,85 @@
+{
+	"id": "decomposerlargeblue",
+	"family": "carapid",
+	"modelGroup": "greatergorms",
+	"npcs": [
+		{
+			"id": 172120,
+			"tameable": false,
+			"level": {
+				"min": 56,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "gormhive"
+				}
+			]
+		},
+		{
+			"id": 160145,
+			"tameable": false,
+			"level": {
+				"min": 56,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "dusty-burrows"
+				}
+			]
+		},
+		{
+			"id": 160070,
+			"tameable": false,
+			"level": {
+				"min": 56,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "dusty-burrows"
+				}
+			]
+		},
+		{
+			"id": 160143,
+			"tameable": false,
+			"level": {
+				"min": 56,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "dusty-burrows"
+				}
+			]
+		},
+		{
+			"id": 169042,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "gormhive"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		165418
+	]
+}

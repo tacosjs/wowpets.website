@@ -1,0 +1,58 @@
+{
+	"id": "giantsnake-yellow2",
+	"family": "serpent",
+	"modelGroup": "cobras",
+	"npcs": [
+		{
+			"id": 265049,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-grudge-pit"
+				}
+			]
+		},
+		{
+			"id": 261372,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "zailzar-span-blistering-terrace"
+				}
+			]
+		},
+		{
+			"id": 263824,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gnarldor-isle"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		268979
+	]
+}

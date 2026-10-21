@@ -1,0 +1,15 @@
+{
+	"name": "Green Skipper",
+	"variant": "Green",
+	"npcs": {
+		"215790": {
+			"name": "Grotto Skipper"
+		},
+		"231197": {
+			"name": "Bubbles"
+		},
+		"260174": {
+			"name": "Abominable Blunder"
+		}
+	}
+}

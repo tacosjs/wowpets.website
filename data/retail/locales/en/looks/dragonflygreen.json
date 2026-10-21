@@ -1,0 +1,27 @@
+{
+	"name": "Green Hook Wasp",
+	"variant": "Green",
+	"npcs": {
+		"82039": {
+			"name": "Rockspine Stinger"
+		},
+		"83447": {
+			"name": "Scavenger Wasp"
+		},
+		"83681": {
+			"name": "Buzzing Venomfly"
+		},
+		"84308": {
+			"name": "Ravager Wasp"
+		},
+		"86833": {
+			"name": "Venombore Drone"
+		},
+		"89789": {
+			"name": "Bloodfang Swarmer"
+		},
+		"168361": {
+			"name": "Fen Hornet"
+		}
+	}
+}

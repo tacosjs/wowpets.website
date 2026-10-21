@@ -1,0 +1,37 @@
+{
+	"id": "mawexpansionflier-green",
+	"family": "feathermane",
+	"modelGroup": "razorwings",
+	"npcs": [
+		{
+			"id": 178906,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "korthia",
+					"area": "windswept-aerie"
+				}
+			]
+		},
+		{
+			"id": 177374,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "korthia",
+					"area": "windswept-aerie"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,96 @@
+{
+	"id": "nerubianspiderling2-purple-mouth1",
+	"family": "spider",
+	"modelGroup": "threadlings",
+	"npcs": [
+		{
+			"id": 226013,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet"
+				}
+			]
+		},
+		{
+			"id": 229679,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "old-sacrificial-pit-city-of-threads"
+				}
+			]
+		},
+		{
+			"id": 221131,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "tenirs-ascent"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 227661,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "salien-gutters"
+				}
+			]
+		},
+		{
+			"id": 219739,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nerub-ar-palace"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		219664,
+		216555,
+		218011,
+		223684
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"id": "basiliskskinred-crystalskinorange",
+	"family": "basilisk",
+	"modelGroup": "basilisks",
+	"npcs": [
+		{
+			"id": 11785,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "desolace",
+					"area": "maraudon-entrance"
+				}
+			]
+		},
+		{
+			"id": 8156,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zulfarrak"
+				}
+			]
+		},
+		{
+			"id": 8130,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zulfarrak"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"name": "Mammoths",
+	"modelGroups": {
+		"mammoths": {
+			"name": "Mammoths"
+		},
+		"magmammoths": {
+			"name": "Magmammoths"
+		},
+		"classicmammoths": {
+			"name": "Classic Mammoths"
+		},
+		"draenorelekks": {
+			"name": "Elekks"
+		},
+		"ironhordeelekks": {
+			"name": "Iron Horde Elekks"
+		},
+		"classicelekks": {
+			"name": "Classic Elekks"
+		}
+	}
+}

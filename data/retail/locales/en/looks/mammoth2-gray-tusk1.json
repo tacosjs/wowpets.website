@@ -1,0 +1,9 @@
+{
+	"name": "Grey Mammoth w/ Shorter Tusks",
+	"variant": "Grey",
+	"npcs": {
+		"242168": {
+			"name": "Jubilant Calf"
+		}
+	}
+}

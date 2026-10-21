@@ -1,0 +1,22 @@
+{
+	"id": "bloodtrollbeast-phaselost",
+	"family": "bloodbeast",
+	"modelGroup": "crawgs",
+	"npcs": [
+		{
+			"id": 238478,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "tazavesh-karesh"
+				}
+			]
+		}
+	]
+}

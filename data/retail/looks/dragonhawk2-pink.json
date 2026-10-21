@@ -1,0 +1,68 @@
+{
+	"id": "dragonhawk2-pink",
+	"family": "dragonhawk",
+	"modelGroup": "greaterdragonhawks",
+	"npcs": [
+		{
+			"id": 236166,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "temple-of-janalai"
+				}
+			]
+		},
+		{
+			"id": 242397,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "camp-stonewash"
+				}
+			]
+		},
+		{
+			"id": 255264,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman"
+				}
+			]
+		},
+		{
+			"id": 250112,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		255821
+	]
+}

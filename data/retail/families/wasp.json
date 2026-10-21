@@ -1,0 +1,54 @@
+{
+	"id": "wasp",
+	"wowId": 44,
+	"icon": "ability_hunter_pet_wasp",
+	"spec": "ferocity",
+	"exotic": false,
+	"diet": [
+		"bread",
+		"cheese",
+		"fruit",
+		"fungus"
+	],
+	"abilities": {
+		"basic": "smack",
+		"family": [
+			"toxic-sting"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "cinderbees"
+		},
+		{
+			"id": "vespoids"
+		},
+		{
+			"id": "corpseflies"
+		},
+		{
+			"id": "gormwasps"
+		},
+		{
+			"id": "aqirfliers"
+		},
+		{
+			"id": "sturdywasps"
+		},
+		{
+			"id": "bees"
+		},
+		{
+			"id": "hookwasps"
+		},
+		{
+			"id": "fireflies"
+		},
+		{
+			"id": "wasps"
+		},
+		{
+			"id": "bosswasps"
+		}
+	]
+}

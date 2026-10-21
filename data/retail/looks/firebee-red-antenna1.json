@@ -1,0 +1,42 @@
+{
+	"id": "firebee-red-antenna1",
+	"family": "wasp",
+	"modelGroup": "cinderbees",
+	"npcs": [
+		{
+			"id": 222820,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "cinderwold"
+				}
+			]
+		},
+		{
+			"id": 215575,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "cinderbrew-meadery",
+					"area": "the-flaming-taps"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

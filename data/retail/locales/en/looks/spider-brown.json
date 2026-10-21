@@ -1,0 +1,36 @@
+{
+	"name": "Brown Spider",
+	"variant": "Brown",
+	"npcs": {
+		"159886": {
+			"name": "Sister Chelicerae"
+		},
+		"159895": {
+			"name": "Chelicerae's Children"
+		},
+		"168837": {
+			"name": "Stealthling"
+		},
+		"236640": {
+			"name": "Dustseeker Spiderling"
+		},
+		"238739": {
+			"name": "Squatter"
+		},
+		"247603": {
+			"name": "Enclave Lurker"
+		},
+		"249397": {
+			"name": "Enclave Skitterer"
+		},
+		"250045": {
+			"name": "Duskleg Lurker"
+		},
+		"250046": {
+			"name": "Duskling Skitterer"
+		},
+		"254818": {
+			"name": "Duskling Skitterer"
+		}
+	}
+}

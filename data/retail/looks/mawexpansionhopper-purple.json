@@ -1,0 +1,68 @@
+{
+	"id": "mawexpansionhopper-purple",
+	"family": "hopper",
+	"modelGroup": "gromits",
+	"npcs": [
+		{
+			"id": 178528,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "korthia",
+					"area": "maulers-outlook"
+				}
+			]
+		},
+		{
+			"id": 177336,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "korthia",
+					"area": "gromit-hollow"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 230377,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "eco-dome-rhovan"
+				}
+			]
+		},
+		{
+			"id": 230384,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "eco-dome-rhovan"
+				}
+			]
+		}
+	]
+}

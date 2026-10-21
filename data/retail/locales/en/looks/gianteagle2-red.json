@@ -1,0 +1,12 @@
+{
+	"name": "Red Amani Eagle",
+	"variant": "Red",
+	"npcs": {
+		"244763": {
+			"name": "Blush Pinebeak"
+		},
+		"245619": {
+			"name": "Watchful Nestguard"
+		}
+	}
+}

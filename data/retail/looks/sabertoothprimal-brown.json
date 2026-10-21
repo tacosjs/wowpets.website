@@ -1,0 +1,75 @@
+{
+	"id": "sabertoothprimal-brown",
+	"family": "cat",
+	"modelGroup": "rockfangs",
+	"npcs": [
+		{
+			"id": 192182,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "life-binder-conservatory"
+				}
+			]
+		},
+		{
+			"id": 192949,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		},
+		{
+			"id": 188274,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "rockfang-ravine"
+				}
+			]
+		},
+		{
+			"id": 212501,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "amirdrassil-dragon-isles-zone"
+				}
+			],
+			"retired": true
+		}
+	],
+	"alsoNpcs": [
+		193384,
+		185903,
+		193536,
+		187452,
+		199190,
+		192181,
+		193881
+	]
+}

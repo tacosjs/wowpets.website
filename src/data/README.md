@@ -26,6 +26,10 @@ data/<version>/
 3. Optional: add the same file under `locales/fr/` with whatever is translated.
 4. Run `pnpm data:check`. Every error names the file and the key path.
 
+## Retail import
+
+`pnpm import:retail [--family wolf,aqiri]` refreshes Retail from Petopia (facts only) and game data. It's safe to re-run: our notes and translations are never overwritten. See [ADR 0006](../../docs/adr/0006-retail-import-petopia-facts.md). Responses are cached in `.cache/import/`, and each run writes a report to `.cache/import/retail-report.json`.
+
 ## Code
 
 - `dataset.ts`: parses one version's files into indexes.

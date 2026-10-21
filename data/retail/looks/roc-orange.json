@@ -1,0 +1,98 @@
+{
+	"id": "roc-orange",
+	"family": "birdofprey",
+	"modelGroup": "rocs",
+	"npcs": [
+		{
+			"id": 104310,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "windripper-peak"
+				}
+			]
+		},
+		{
+			"id": 104481,
+			"tameable": true,
+			"level": {
+				"min": 47,
+				"max": 47
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "alawashtes-nest"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 183984,
+			"tameable": true,
+			"level": {
+				"min": 62,
+				"max": 72
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "bluefeather-cliffs"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 153964,
+			"tameable": false,
+			"level": {
+				"min": 2,
+				"max": 10
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "exiles-reach",
+					"area": "harpy-roost"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 104827,
+			"tameable": false,
+			"level": {
+				"min": 47,
+				"max": 47
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "alawashtes-nest"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

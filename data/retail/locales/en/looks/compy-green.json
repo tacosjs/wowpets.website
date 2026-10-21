@@ -1,0 +1,27 @@
+{
+	"name": "Green Saurid",
+	"variant": "Green",
+	"npcs": {
+		"126331": {
+			"name": "Thieving Snapper"
+		},
+		"128435": {
+			"name": "Toxic Saurid"
+		},
+		"133443": {
+			"name": "Child of Jani"
+		},
+		"135490": {
+			"name": "Toxic Saurid"
+		},
+		"136566": {
+			"name": "Thieving Snapper"
+		},
+		"139488": {
+			"name": "Roaming Saurid"
+		},
+		"180510": {
+			"name": "Toxic Saurid"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Orange Firefly",
+	"variant": "Orange",
+	"npcs": {
+		"77314": {
+			"name": "Swamplighter Queen"
+		},
+		"91118": {
+			"name": "Stinger Wasp"
+		}
+	}
+}

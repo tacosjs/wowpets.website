@@ -1,0 +1,41 @@
+{
+	"id": "giantboargrey-venom",
+	"family": "boar",
+	"modelGroup": "draenorboars",
+	"npcs": [
+		{
+			"id": 261481,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "the-serpents-tail"
+				}
+			]
+		},
+		{
+			"id": 258504,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "the-forum"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		262009,
+		262960
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Ghostly Purple Jormungar",
+	"variant": "Ghostly Purple",
+	"npcs": {
+		"30423": {
+			"name": "Disembodied Jormungar"
+		}
+	}
+}

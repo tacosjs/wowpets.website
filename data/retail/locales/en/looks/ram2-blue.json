@@ -1,0 +1,12 @@
+{
+	"name": "Blue-Grey Ram",
+	"variant": "Blue-Grey",
+	"npcs": {
+		"26426": {
+			"name": "Arctic Ram"
+		},
+		"29958": {
+			"name": "Tundra Ram"
+		}
+	}
+}

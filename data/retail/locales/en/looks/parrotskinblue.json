@@ -1,0 +1,16 @@
+{
+	"name": "Blue Parrot",
+	"variant": "Blue",
+	"npcs": {
+		"10262": {
+			"name": "Opus"
+		},
+		"25111": {
+			"name": "Treasure",
+			"title": "The Maiden's Fancy"
+		},
+		"32481": {
+			"name": "Aotona"
+		}
+	}
+}

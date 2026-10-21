@@ -1,0 +1,22 @@
+{
+	"id": "boar2-ivory-armor1-dark-redeyes",
+	"family": "boar",
+	"modelGroup": "boars",
+	"npcs": [
+		{
+			"id": 228601,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "siren-isle",
+					"area": "tempests-crest"
+				}
+			]
+		}
+	]
+}

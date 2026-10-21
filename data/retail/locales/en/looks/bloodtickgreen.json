@@ -1,0 +1,21 @@
+{
+	"name": "Green Blood Tick",
+	"variant": "Green",
+	"npcs": {
+		"126749": {
+			"name": "Dreadtick Latcher"
+		},
+		"134057": {
+			"name": "Dreadtick Latcher"
+		},
+		"238476": {
+			"name": "Vicious Karion"
+		},
+		"243738": {
+			"name": "Feasting Karion"
+		},
+		"250634": {
+			"name": "Karion"
+		}
+	}
+}

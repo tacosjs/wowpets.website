@@ -1,0 +1,258 @@
+{
+	"id": "giantwasp-yellow",
+	"family": "wasp",
+	"modelGroup": "sturdywasps",
+	"npcs": [
+		{
+			"id": 128974,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "xalvor"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 140275,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley",
+					"area": "rosalines-apiary"
+				}
+			]
+		},
+		{
+			"id": 133901,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "whistlebloom-oasis"
+				}
+			]
+		},
+		{
+			"id": 129288,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "whistlebloom-oasis"
+				}
+			]
+		},
+		{
+			"id": 157567,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms",
+					"area": "winterbough-glade"
+				}
+			]
+		},
+		{
+			"id": 159756,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "bony-spindles"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 222936,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "priory-of-the-sacred-flame",
+					"area": "sanctified-grounds"
+				}
+			]
+		},
+		{
+			"id": 220500,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "priory-of-the-sacred-flame-hallowfall"
+				}
+			]
+		},
+		{
+			"id": 252683,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "the-fangfall"
+				}
+			]
+		},
+		{
+			"id": 257150,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm"
+				}
+			]
+		},
+		{
+			"id": 257140,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm"
+				}
+			]
+		},
+		{
+			"id": 257946,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "shrine-of-filo"
+				}
+			]
+		},
+		{
+			"id": 146187,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 137054,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "verdant-plateau"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 160906,
+			"tameable": false,
+			"level": {
+				"min": 52,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms",
+					"area": "winterbough-glade"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		168579,
+		216288,
+		253499,
+		250127,
+		253620,
+		254681,
+		250546,
+		254682,
+		261682,
+		259955,
+		255549
+	]
+}

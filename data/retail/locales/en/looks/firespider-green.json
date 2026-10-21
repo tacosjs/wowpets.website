@@ -1,0 +1,33 @@
+{
+	"name": "Green Fire Spider",
+	"variant": "Green",
+	"npcs": {
+		"53743": {
+			"name": "Cinderweb Broodling"
+		},
+		"53753": {
+			"name": "Cinderweb Broodling"
+		},
+		"54323": {
+			"name": "Kirix"
+		},
+		"64323": {
+			"name": "Echoweb Toxiclaw"
+		},
+		"75258": {
+			"name": "Deathweb Hatchling"
+		},
+		"75273": {
+			"name": "Deathweb Crawler"
+		},
+		"77957": {
+			"name": "Deathweb Hatchling"
+		},
+		"89791": {
+			"name": "Demonfang Crawler"
+		},
+		"91485": {
+			"name": "Felspider"
+		}
+	}
+}

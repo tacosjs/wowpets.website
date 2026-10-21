@@ -1,8 +1,47 @@
 {
 	"name": "Wolves",
 	"modelGroups": {
-		"saber-worgs": {
+		"saberworgs": {
 			"name": "Saber Worgs"
+		},
+		"lupines": {
+			"name": "Lupines"
+		},
+		"draenorwolves": {
+			"name": "Maned Wolves"
+		},
+		"direworgs": {
+			"name": "Dire Worgs"
+		},
+		"scarredworgs": {
+			"name": "Scarred Worgs"
+		},
+		"draenorsaddledwolves": {
+			"name": "Maned Wolves w/Saddle"
+		},
+		"draenorarmoredwolves": {
+			"name": "Maned Wolves w/Armor"
+		},
+		"ironhordewolves": {
+			"name": "Iron Horde Wolves"
+		},
+		"wolves": {
+			"name": "Classic Wolves"
+		},
+		"worgs": {
+			"name": "Classic Worgs"
+		},
+		"saddledworgs": {
+			"name": "Saddled Worgs"
+		},
+		"korkronwolves": {
+			"name": "Kor'kron Wolves"
+		},
+		"stormwolves": {
+			"name": "Storm Wolves"
+		},
+		"hordebannerwolves": {
+			"name": "Horde Banner Wolves"
 		}
 	}
 }

@@ -1,0 +1,24 @@
+{
+	"id": "warpstalker",
+	"icon": "ability_hunter_pet_warpstalker",
+	"spec": "cunning",
+	"exotic": false,
+	"diet": [
+		"fish",
+		"fruit"
+	],
+	"abilities": {
+		"basic": "bite",
+		"family": [
+			"warp-time"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "wirywarpstalkers"
+		},
+		{
+			"id": "warpstalkers"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Brown & Grey Worg",
+	"variant": "Brown & Grey",
+	"npcs": {
+		"10220": {
+			"name": "Halycon"
+		},
+		"18670": {
+			"name": "Ironjaw"
+		},
+		"50916": {
+			"name": "Lamepaw the Whimperer"
+		}
+	}
+}

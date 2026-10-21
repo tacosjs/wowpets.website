@@ -1,0 +1,140 @@
+{
+	"id": "elekkdraenor-pale",
+	"family": "mammoth",
+	"modelGroup": "draenorelekks",
+	"npcs": [
+		{
+			"id": 75484,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "drybone-hollow"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 87699,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor"
+				}
+			]
+		},
+		{
+			"id": 87700,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor"
+				}
+			]
+		},
+		{
+			"id": 78459,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-draenor"
+				}
+			]
+		},
+		{
+			"id": 78462,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-draenor"
+				}
+			]
+		},
+		{
+			"id": 87083,
+			"tameable": true,
+			"level": {
+				"min": 42,
+				"max": 42
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "hills-of-valuun"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 83664,
+			"tameable": false,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "talador",
+					"area": "shattrath-port-authority"
+				}
+			]
+		},
+		{
+			"id": 81745,
+			"tameable": false,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "talador",
+					"area": "auchindoun-talador"
+				}
+			]
+		},
+		{
+			"id": 259365,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "grief-spire"
+				}
+			]
+		}
+	]
+}

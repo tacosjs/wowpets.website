@@ -1,0 +1,22 @@
+{
+	"name": "Stone Gargon",
+	"variant": "Stone",
+	"npcs": {
+		"157477": {
+			"name": "Inert Stonestalker"
+		},
+		"159323": {
+			"name": "Stoneward Trampler"
+		},
+		"159441": {
+			"name": "Rockbreaker",
+			"title": "Carved of Many"
+		},
+		"164385": {
+			"name": "Shaping Gargon"
+		},
+		"172785": {
+			"name": "Unfinished Granitefur"
+		}
+	}
+}

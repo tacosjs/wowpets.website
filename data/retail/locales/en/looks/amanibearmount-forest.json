@@ -1,0 +1,10 @@
+{
+	"name": "Yellow Amani Bear w/ Purple Armour & Shield",
+	"variant": "Yellow Amani Bear w/ Purple Armour & Shield",
+	"npcs": {
+		"255794": {
+			"name": "Lil'Jiko",
+			"title": "Elder Thak's Companion"
+		}
+	}
+}

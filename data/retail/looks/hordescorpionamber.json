@@ -1,0 +1,151 @@
+{
+	"id": "hordescorpionamber",
+	"family": "scorpid",
+	"modelGroup": "ruggedscorpions",
+	"npcs": [
+		{
+			"id": 63728,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "dread-wastes"
+				}
+			]
+		},
+		{
+			"id": 65632,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "dread-wastes"
+				}
+			]
+		},
+		{
+			"id": 62759,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dread-wastes"
+				}
+			]
+		},
+		{
+			"id": 64982,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dread-wastes"
+				}
+			]
+		},
+		{
+			"id": 63978,
+			"tameable": true,
+			"level": {
+				"min": 36,
+				"max": 36
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 217742,
+			"tameable": true,
+			"level": {
+				"min": 73,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "the-earthenworks"
+				}
+			]
+		},
+		{
+			"id": 98406,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "neltharions-lair",
+					"area": "the-lost-road"
+				}
+			]
+		},
+		{
+			"id": 140161,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 68117,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dread-wastes"
+				}
+			]
+		},
+		{
+			"id": 160867,
+			"tameable": false,
+			"level": {
+				"min": 52,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms",
+					"area": "ruins-of-guo-lai"
+				}
+			]
+		}
+	]
+}

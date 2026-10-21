@@ -1,0 +1,73 @@
+{
+	"name": "Green Cataclysm Crocolisk",
+	"variant": "Green",
+	"npcs": {
+		"2476": {
+			"name": "Gosh-Haldir",
+			"title": "The Clutch Mother"
+		},
+		"36882": {
+			"name": "Swamp Crocolisk"
+		},
+		"37078": {
+			"name": "Swamp Crocolisk"
+		},
+		"44108": {
+			"name": "Swamp Crocolisk"
+		},
+		"45896": {
+			"name": "Marsh Crocolisk"
+		},
+		"54558": {
+			"name": "Bog Crocolisk"
+		},
+		"58455": {
+			"name": "Stillwater Crocodile"
+		},
+		"58804": {
+			"name": "Toothrow Skulker"
+		},
+		"60201": {
+			"name": "Mortbreath Snapper"
+		},
+		"60282": {
+			"name": "Desperate Mortbreath"
+		},
+		"67922": {
+			"name": "Muckmaw Crocolisk"
+		},
+		"67946": {
+			"name": "Goremaw"
+		},
+		"118255": {
+			"name": "Seascale Crocolisk"
+		},
+		"123090": {
+			"name": "Angry Dreadcroc"
+		},
+		"126723": {
+			"name": "Primal Snapjaw"
+		},
+		"128620": {
+			"name": "Diremaw"
+		},
+		"130639": {
+			"name": "Vicejaw Chomper"
+		},
+		"132031": {
+			"name": "Marsh Snapjaw"
+		},
+		"146794": {
+			"name": "Lake Crocolisk"
+		},
+		"156760": {
+			"name": "Stillwater Crocolisk"
+		},
+		"210841": {
+			"name": "Swamp Crocolisk"
+		},
+		"227145": {
+			"name": "Waterworks Crocolisk"
+		}
+	}
+}

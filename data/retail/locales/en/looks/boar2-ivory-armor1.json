@@ -1,0 +1,12 @@
+{
+	"name": "Pale Boar w/ Bronze Armour",
+	"variant": "Pale",
+	"npcs": {
+		"50946": {
+			"name": "Hogzilla"
+		},
+		"74620": {
+			"name": "Battle Boar"
+		}
+	}
+}

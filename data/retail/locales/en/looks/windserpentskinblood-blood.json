@@ -1,0 +1,12 @@
+{
+	"name": "Blood Wind Serpent",
+	"variant": "Blood Wind Serpent",
+	"npcs": {
+		"140361": {
+			"name": "Darkshadow the Omen"
+		},
+		"140362": {
+			"name": "Shimmerwing"
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": "monstrouseel-green",
+	"family": "serpent",
+	"modelGroup": "electriceels",
+	"npcs": [
+		{
+			"id": 113137,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna"
+				}
+			]
+		}
+	]
+}

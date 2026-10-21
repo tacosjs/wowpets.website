@@ -1,0 +1,10 @@
+{
+	"name": "Pale Thornclaw",
+	"variant": "Pale",
+	"npcs": {
+		"210983": {
+			"name": "Liliuna",
+			"title": "Thornborn Spirit"
+		}
+	}
+}

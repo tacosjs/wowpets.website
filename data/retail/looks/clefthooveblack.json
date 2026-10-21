@@ -1,0 +1,21 @@
+{
+	"id": "clefthooveblack",
+	"family": "clefthoof",
+	"modelGroup": "clefthooves",
+	"npcs": [
+		{
+			"id": 17133,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-outland"
+				}
+			]
+		}
+	]
+}

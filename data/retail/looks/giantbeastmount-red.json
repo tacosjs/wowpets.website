@@ -1,0 +1,25 @@
+{
+	"id": "giantbeastmount-red",
+	"family": "oxen",
+	"modelGroup": "saddledtauralus",
+	"npcs": [
+		{
+			"id": 180488,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-maw",
+					"area": "cocyrus"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		175478
+	]
+}

@@ -1,0 +1,213 @@
+{
+	"id": "hordescorpion",
+	"family": "scorpid",
+	"modelGroup": "ruggedscorpions",
+	"npcs": [
+		{
+			"id": 85562,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "sulfur-basin"
+				}
+			]
+		},
+		{
+			"id": 50154,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "uldum",
+					"area": "sahket-wastes"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 51673,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "uldum"
+				}
+			]
+		},
+		{
+			"id": 122749,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "dead-mans-pass"
+				}
+			]
+		},
+		{
+			"id": 123571,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "dead-mans-pass"
+				}
+			]
+		},
+		{
+			"id": 137332,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "arid-basin"
+				}
+			]
+		},
+		{
+			"id": 131897,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "silithus"
+				}
+			]
+		},
+		{
+			"id": 162378,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "uldum"
+				}
+			]
+		},
+		{
+			"id": 132887,
+			"tameable": false,
+			"level": {
+				"min": 9,
+				"max": 49
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 140107,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 123572,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "dead-mans-pass"
+				}
+			]
+		},
+		{
+			"id": 122750,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "dead-mans-pass"
+				}
+			]
+		},
+		{
+			"id": 124810,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "scorched-sands-arena"
+				}
+			]
+		},
+		{
+			"id": 201852,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "mysterious-cave"
+				}
+			]
+		}
+	]
+}

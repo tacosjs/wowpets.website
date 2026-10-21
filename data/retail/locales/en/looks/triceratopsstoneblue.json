@@ -1,0 +1,9 @@
+{
+	"name": "Blue Stone Direhorn",
+	"variant": "Blue Stone",
+	"npcs": {
+		"207286": {
+			"name": "Un'Gorian Protohorn"
+		}
+	}
+}

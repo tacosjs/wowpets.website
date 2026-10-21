@@ -1,0 +1,21 @@
+{
+	"id": "protosheep-sand-flowers0",
+	"family": "gruffhorn",
+	"modelGroup": "mosswools",
+	"npcs": [
+		{
+			"id": 222419,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn"
+				}
+			]
+		}
+	]
+}

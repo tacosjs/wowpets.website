@@ -1,0 +1,24 @@
+{
+	"name": "Purple Tarantula",
+	"variant": "Purple",
+	"npcs": {
+		"189859": {
+			"name": "Cavern Lurker"
+		},
+		"207252": {
+			"name": "Vision of Stalking"
+		},
+		"207298": {
+			"name": "Cave Scuttler"
+		},
+		"207300": {
+			"name": "Hecutta"
+		},
+		"210785": {
+			"name": "Fens Lurker"
+		},
+		"213668": {
+			"name": "Invasive Tarantula"
+		}
+	}
+}

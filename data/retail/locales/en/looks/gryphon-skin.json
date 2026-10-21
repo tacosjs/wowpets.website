@@ -1,0 +1,45 @@
+{
+	"name": "Brown Classic Gryphon",
+	"variant": "Brown",
+	"npcs": {
+		"2473": {
+			"name": "Granistad"
+		},
+		"2474": {
+			"name": "Kurdros"
+		},
+		"2657": {
+			"name": "Trained Razorbeak"
+		},
+		"2658": {
+			"name": "Razorbeak Gryphon"
+		},
+		"2659": {
+			"name": "Razorbeak Skylord"
+		},
+		"8276": {
+			"name": "Soaring Razorbeak"
+		},
+		"9526": {
+			"name": "Enraged Gryphon"
+		},
+		"36416": {
+			"name": "Jankie's Mount"
+		},
+		"42716": {
+			"name": "Stormbeak"
+		},
+		"46158": {
+			"name": "Untamed Gryphon"
+		},
+		"49251": {
+			"name": "Wild Gryphon"
+		},
+		"58782": {
+			"name": "Theramore Gryphon"
+		},
+		"112667": {
+			"name": "Dawnfeather Gryphon"
+		}
+	}
+}

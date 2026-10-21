@@ -1,0 +1,15 @@
+{
+	"name": "Gold Dragon Turtle",
+	"variant": "Gold",
+	"npcs": {
+		"124581": {
+			"name": "Spineshell Snapper"
+		},
+		"130776": {
+			"name": "Enriched Rockshell"
+		},
+		"152384": {
+			"name": "Snapshell Hatchling"
+		}
+	}
+}

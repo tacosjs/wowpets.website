@@ -1,0 +1,12 @@
+{
+	"name": "Lavender Talbuk",
+	"variant": "Lavender",
+	"npcs": {
+		"17130": {
+			"name": "Talbuk Stag"
+		},
+		"18964": {
+			"name": "Injured Talbuk"
+		}
+	}
+}

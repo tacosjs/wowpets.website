@@ -1,0 +1,18 @@
+{
+	"name": "Brown Rhino",
+	"variant": "Brown",
+	"npcs": {
+		"187960": {
+			"name": "Sunhide Stomphoof"
+		},
+		"190953": {
+			"name": "Sunhide Stomphoof"
+		},
+		"191481": {
+			"name": "Stomphoof Calf"
+		},
+		"265686": {
+			"name": "Crushfoot"
+		}
+	}
+}

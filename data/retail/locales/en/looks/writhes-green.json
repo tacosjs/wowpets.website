@@ -1,0 +1,45 @@
+{
+	"name": "Green Writhing Serpents",
+	"variant": "Green",
+	"npcs": {
+		"253765": {
+			"name": "Brood Watcher"
+		},
+		"256773": {
+			"name": "Devouring Writhe"
+		},
+		"257894": {
+			"name": "Writhing Young"
+		},
+		"258549": {
+			"name": "Newborn Corpseburster"
+		},
+		"260872": {
+			"name": "Writhing Neonate"
+		},
+		"260903": {
+			"name": "Zor'zinix"
+		},
+		"261377": {
+			"name": "Preying Writhe"
+		},
+		"261488": {
+			"name": "Writhing Behemoth"
+		},
+		"263572": {
+			"name": "Devouring Writhe"
+		},
+		"263793": {
+			"name": "Fledgling Corpseburster"
+		},
+		"263879": {
+			"name": "Writhing Young"
+		},
+		"265289": {
+			"name": "Fledgling Corpseburster"
+		},
+		"268973": {
+			"name": "Newborn Writhe"
+		}
+	}
+}

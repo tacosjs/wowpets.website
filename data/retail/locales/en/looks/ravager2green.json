@@ -1,0 +1,24 @@
+{
+	"name": "Green Draenor Ravager",
+	"variant": "Green",
+	"npcs": {
+		"85779": {
+			"name": "Verdant Ravager"
+		},
+		"89741": {
+			"name": "Bloodfang Ravager"
+		},
+		"243766": {
+			"name": "Kilivore Screamer"
+		},
+		"248025": {
+			"name": "Kilivore Hunter"
+		},
+		"254974": {
+			"name": "Ravenous Kilivore"
+		},
+		"255548": {
+			"name": "Kilivore Hunter"
+		}
+	}
+}

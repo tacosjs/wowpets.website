@@ -1,0 +1,15 @@
+{
+	"name": "Apricot Dreamrunner w/ Blue Horn",
+	"variant": "Apricot w/ Blue Horn",
+	"npcs": {
+		"168359": {
+			"name": "Swift Skymane"
+		},
+		"169099": {
+			"name": "Wild Skymane"
+		},
+		"170247": {
+			"name": "Spirited Skymane"
+		}
+	}
+}

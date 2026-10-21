@@ -1,0 +1,26 @@
+{
+	"id": "arathilynx-gold",
+	"family": "cat",
+	"modelGroup": "arathilynxes",
+	"npcs": [
+		{
+			"id": 218887,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "torchlight-mine"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		216057,
+		225424
+	]
+}

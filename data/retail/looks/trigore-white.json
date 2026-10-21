@@ -1,0 +1,87 @@
+{
+	"id": "trigore-white",
+	"family": "hydra",
+	"modelGroup": "trigores",
+	"npcs": [
+		{
+			"id": 248938,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm"
+				}
+			]
+		},
+		{
+			"id": 246459,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "voidstorm"
+				}
+			]
+		},
+		{
+			"id": 255355,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "voidstorm"
+				}
+			]
+		},
+		{
+			"id": 239417,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "the-howling-ridge"
+				}
+			]
+		},
+		{
+			"id": 235804,
+			"tameable": false,
+			"level": {
+				"min": 95,
+				"max": 95
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "the-howling-ridge"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		244946,
+		253165,
+		250638,
+		248906,
+		260954,
+		255545
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"id": "mechanowolforange",
+	"family": "mechanical",
+	"modelGroup": "mechanowolves",
+	"npcs": [
+		{
+			"id": 137743,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "rusted-vault"
+				}
+			]
+		},
+		{
+			"id": 139805,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 148330,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "predator-pass"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		153465,
+		151709,
+		151740,
+		151301,
+		149839
+	]
+}

@@ -1,0 +1,170 @@
+{
+	"id": "maldraxxusflyer-black-nohorns",
+	"family": "chimaera",
+	"modelGroup": "deathchimaeras",
+	"npcs": [
+		{
+			"id": 164829,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "house-of-the-chosen-ossein-foundry"
+				}
+			]
+		},
+		{
+			"id": 162259,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus"
+				}
+			]
+		},
+		{
+			"id": 162258,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus"
+				}
+			]
+		},
+		{
+			"id": 170785,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "bleak-redoubt"
+				}
+			]
+		},
+		{
+			"id": 162588,
+			"tameable": true,
+			"level": {
+				"min": 54,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "maldraxxus"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 162300,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "house-of-rituals"
+				}
+			]
+		},
+		{
+			"id": 166423,
+			"tameable": false,
+			"level": {
+				"min": 52,
+				"max": 54
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "theater-of-pain"
+				}
+			]
+		},
+		{
+			"id": 166421,
+			"tameable": false,
+			"level": {
+				"min": 52,
+				"max": 54
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "theater-of-pain"
+				}
+			]
+		},
+		{
+			"id": 166519,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "the-stitchyard"
+				}
+			]
+		},
+		{
+			"id": 168946,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "zerekriss"
+				}
+			]
+		},
+		{
+			"id": 167629,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "house-of-rituals"
+				}
+			]
+		}
+	]
+}

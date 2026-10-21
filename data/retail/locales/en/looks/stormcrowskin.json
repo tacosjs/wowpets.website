@@ -1,0 +1,18 @@
+{
+	"name": "Classic Black Stormraven",
+	"variant": "Black Raven",
+	"npcs": {
+		"20327": {
+			"name": "Grishna Raven"
+		},
+		"21042": {
+			"name": "Dire Raven"
+		},
+		"23132": {
+			"name": "Brood of Anzu"
+		},
+		"23945": {
+			"name": "Fjord Crow"
+		}
+	}
+}

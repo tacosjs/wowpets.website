@@ -1,0 +1,22 @@
+{
+	"id": "bearice-blue",
+	"family": "bear",
+	"modelGroup": "icebears",
+	"npcs": [
+		{
+			"id": 192043,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "winterpelt-hollow"
+				}
+			]
+		}
+	]
+}

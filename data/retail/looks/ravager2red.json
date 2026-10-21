@@ -1,0 +1,66 @@
+{
+	"id": "ravager2red",
+	"family": "ravager",
+	"modelGroup": "draenorravagers",
+	"npcs": [
+		{
+			"id": 78856,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "bloodthorn-hill"
+				}
+			]
+		},
+		{
+			"id": 78857,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "bloodthorn-hill"
+				}
+			]
+		},
+		{
+			"id": 88578,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak"
+				}
+			]
+		},
+		{
+			"id": 90266,
+			"tameable": false,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "everbloom-wilds"
+				}
+			]
+		}
+	]
+}

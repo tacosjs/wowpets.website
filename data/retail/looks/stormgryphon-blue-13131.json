@@ -1,0 +1,158 @@
+{
+	"id": "stormgryphon-blue-13131",
+	"family": "spiritbeast",
+	"modelGroup": "stormrooks",
+	"npcs": [
+		{
+			"id": 212705,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-rookery",
+					"area": "storm-rookery"
+				}
+			]
+		},
+		{
+			"id": 224688,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "oath-gate"
+				}
+			]
+		},
+		{
+			"id": 223031,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 223070,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "isle-of-dorn"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 224831,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "oath-gate"
+				}
+			]
+		},
+		{
+			"id": 214948,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "dornogal"
+				}
+			]
+		},
+		{
+			"id": 215762,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-rookery",
+					"area": "storm-rookery"
+				}
+			]
+		},
+		{
+			"id": 216900,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "dhar-oztan"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 224830,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "oath-gate"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		213428
+	]
+}

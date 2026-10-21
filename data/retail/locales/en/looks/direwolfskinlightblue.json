@@ -1,0 +1,27 @@
+{
+	"name": "Silver-Grey Worg",
+	"variant": "Silver-Grey",
+	"npcs": {
+		"521": {
+			"name": "Lupos"
+		},
+		"1132": {
+			"name": "Timber"
+		},
+		"3056": {
+			"name": "Ghost Howl"
+		},
+		"10981": {
+			"name": "Frostwolf"
+		},
+		"12121": {
+			"name": "Drakan"
+		},
+		"12122": {
+			"name": "Duros"
+		},
+		"14339": {
+			"name": "Death Howl"
+		}
+	}
+}

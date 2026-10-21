@@ -1,0 +1,92 @@
+{
+	"id": "crab2-teal",
+	"family": "crab",
+	"modelGroup": "grandcrabs",
+	"npcs": [
+		{
+			"id": 127259,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "freehold-non-instanced"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 169435,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "grizzly-hills",
+					"area": "venture-bay"
+				}
+			]
+		},
+		{
+			"id": 229087,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "tranquil-strand"
+				}
+			]
+		},
+		{
+			"id": 123289,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		129318,
+		145337,
+		189313,
+		193604,
+		197955,
+		188328,
+		193236,
+		225889,
+		222312,
+		224876,
+		222156,
+		227201,
+		224508,
+		227664,
+		254969,
+		256712,
+		155943,
+		190133,
+		182439
+	]
+}

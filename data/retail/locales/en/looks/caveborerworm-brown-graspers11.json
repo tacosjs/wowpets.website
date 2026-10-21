@@ -1,0 +1,18 @@
+{
+	"name": "Brown Jawcrawler w/ Stunted Graspers",
+	"variant": "Brown w/ Stunted Graspers",
+	"npcs": {
+		"217264": {
+			"name": "Displaced Jawgrub"
+		},
+		"218009": {
+			"name": "Snapjaw Ploughworm"
+		},
+		"220261": {
+			"name": "Captured Jawgrub"
+		},
+		"223782": {
+			"name": "Snapjaw Ploughworm"
+		}
+	}
+}

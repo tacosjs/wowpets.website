@@ -1,0 +1,31 @@
+{
+	"id": "pythonpink",
+	"family": "serpent",
+	"modelGroup": "pythons",
+	"npcs": [
+		{
+			"id": 262102,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-darkway"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		261122,
+		265051,
+		261177
+	]
+}

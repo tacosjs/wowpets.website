@@ -1,0 +1,37 @@
+{
+	"id": "thunderlizardprimal-black-horn3-plates2-tail1",
+	"family": "scalehide",
+	"modelGroup": "primalthunderlizards",
+	"npcs": [
+		{
+			"id": 191057,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "thunderspine-ridge"
+				}
+			]
+		},
+		{
+			"id": 198813,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-forbidden-reach",
+					"area": "the-old-weyrn-grounds"
+				}
+			]
+		}
+	]
+}

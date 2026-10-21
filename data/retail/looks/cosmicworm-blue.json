@@ -1,0 +1,9 @@
+{
+	"id": "cosmicworm-blue",
+	"family": "worm",
+	"modelGroup": "cosmicworms",
+	"npcs": [],
+	"alsoNpcs": [
+		256408
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"id": "corehound-fel-glow-orange-fire-orange",
+	"family": "corehound",
+	"modelGroup": "corehounds",
+	"npcs": [
+		{
+			"id": 41166,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blasted-lands"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

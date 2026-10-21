@@ -1,0 +1,15 @@
+{
+	"name": "Icy Blue Draenor Ravager",
+	"variant": "Icy Blue",
+	"npcs": {
+		"80779": {
+			"name": "Icespine Ravager"
+		},
+		"80782": {
+			"name": "Icespine Stinger"
+		},
+		"90591": {
+			"name": "Hivelord Ik'rix"
+		}
+	}
+}

@@ -1,0 +1,50 @@
+{
+	"id": "quilin-cobalt2",
+	"family": "stonehound",
+	"modelGroup": "quilen",
+	"npcs": [
+		{
+			"id": 136550,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar"
+				}
+			]
+		},
+		{
+			"id": 127805,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "warport-rastari"
+				}
+			]
+		},
+		{
+			"id": 60051,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "mogushan-vaults"
+				}
+			],
+			"keepsName": true
+		}
+	],
+	"alsoNpcs": [
+		50843
+	]
+}

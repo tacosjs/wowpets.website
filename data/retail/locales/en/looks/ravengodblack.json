@@ -1,0 +1,13 @@
+{
+	"name": "Corrupted Raven Lord",
+	"variant": "Corrupted Raven Lord",
+	"npcs": {
+		"23035": {
+			"name": "Anzu"
+		},
+		"41084": {
+			"name": "Blaithe",
+			"title": "Aviana's Consort"
+		}
+	}
+}

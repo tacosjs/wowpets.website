@@ -1,0 +1,33 @@
+{
+	"name": "Blue Larion",
+	"variant": "Blue",
+	"npcs": {
+		"157761": {
+			"name": "Larion Sire"
+		},
+		"158767": {
+			"name": "Tamed Larion"
+		},
+		"160569": {
+			"name": "Swiftwing Larion"
+		},
+		"164819": {
+			"name": "Ariella"
+		},
+		"169471": {
+			"name": "Aurumane Hunter"
+		},
+		"169504": {
+			"name": "Argentwing Patriarch"
+		},
+		"170326": {
+			"name": "Argentwing Hunter"
+		},
+		"172045": {
+			"name": "Highwind Larion"
+		},
+		"174289": {
+			"name": "Argentwing Packmate"
+		}
+	}
+}

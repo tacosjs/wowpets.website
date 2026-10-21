@@ -1,0 +1,87 @@
+{
+	"id": "stag",
+	"wowId": 151,
+	"icon": "inv_talbukdraenor_white",
+	"spec": "tenacity",
+	"exotic": false,
+	"diet": [
+		"bread",
+		"cheese",
+		"fruit",
+		"fungus"
+	],
+	"abilities": {
+		"basic": "smack",
+		"family": [
+			"natures-grace"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "windsteeds"
+		},
+		{
+			"id": "slatebacks"
+		},
+		{
+			"id": "winterveilstags"
+		},
+		{
+			"id": "shalehorns"
+		},
+		{
+			"id": "dreamstags"
+		},
+		{
+			"id": "thornbucks"
+		},
+		{
+			"id": "vorquins"
+		},
+		{
+			"id": "bruffalons"
+		},
+		{
+			"id": "cervids"
+		},
+		{
+			"id": "runestags"
+		},
+		{
+			"id": "ruggedtalbuks"
+		},
+		{
+			"id": "greaterstags"
+		},
+		{
+			"id": "elderhorn"
+		},
+		{
+			"id": "does"
+		},
+		{
+			"id": "stags"
+		},
+		{
+			"id": "draenortalbuks"
+		},
+		{
+			"id": "talbuks"
+		},
+		{
+			"id": "gazelles"
+		},
+		{
+			"id": "reindeer"
+		},
+		{
+			"id": "giraffes"
+		},
+		{
+			"id": "celestialwindsteeds"
+		},
+		{
+			"id": "deepstriders"
+		}
+	]
+}

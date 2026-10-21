@@ -1,0 +1,56 @@
+{
+	"id": "snapdragon-darkpurple",
+	"family": "lizard",
+	"modelGroup": "snapdragons",
+	"npcs": [
+		{
+			"id": 152358,
+			"tameable": true,
+			"level": {
+				"min": 51,
+				"max": 51
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "naranan"
+				}
+			]
+		},
+		{
+			"id": 156099,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar"
+				}
+			]
+		},
+		{
+			"id": 154752,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "naranan-world-quest-phase"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		193873,
+		257830,
+		190193
+	]
+}

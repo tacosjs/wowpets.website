@@ -1,0 +1,37 @@
+{
+	"id": "giantboararmoredmountbrown",
+	"family": "boar",
+	"modelGroup": "draenorarmoredboars",
+	"npcs": [
+		{
+			"id": 83804,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ashran",
+					"area": "brutes-rise"
+				}
+			]
+		},
+		{
+			"id": 85279,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "beastwatch"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Green Thunder Lizard",
+	"variant": "Green",
+	"npcs": {
+		"6583": {
+			"name": "Gruff"
+		},
+		"37208": {
+			"name": "Thunderhead"
+		}
+	}
+}

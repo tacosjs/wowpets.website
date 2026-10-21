@@ -1,0 +1,9 @@
+{
+	"name": "White Cat",
+	"variant": "White",
+	"npcs": {
+		"7430": {
+			"name": "Young Frostsaber"
+		}
+	}
+}

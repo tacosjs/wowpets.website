@@ -1,0 +1,18 @@
+{
+	"name": "Stone Saurolisk",
+	"variant": "Stone",
+	"npcs": {
+		"123727": {
+			"name": "Stonescale Saurolisk"
+		},
+		"214284": {
+			"name": "Saurlosik Ambusher"
+		},
+		"214581": {
+			"name": "Stormtop Terralisk"
+		},
+		"224725": {
+			"name": "Saurolisk Ambusher"
+		}
+	}
+}

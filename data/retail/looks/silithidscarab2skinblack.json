@@ -1,0 +1,195 @@
+{
+	"id": "silithidscarab2skinblack",
+	"family": "beetle",
+	"modelGroup": "grandbeetles",
+	"npcs": [
+		{
+			"id": 21306,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hellfire-peninsula"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 7269,
+			"tameable": true,
+			"level": {
+				"min": 14,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulfarrak"
+				}
+			]
+		},
+		{
+			"id": 8932,
+			"tameable": true,
+			"level": {
+				"min": 19,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blackrock-depths"
+				}
+			]
+		},
+		{
+			"id": 15168,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 25
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ruins-of-ahnqiraj"
+				}
+			]
+		},
+		{
+			"id": 15316,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "temple-of-ahnqiraj"
+				}
+			]
+		},
+		{
+			"id": 187415,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "bluefeather-cliffs"
+				}
+			]
+		},
+		{
+			"id": 65936,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "southern-barrens"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 25295,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "borean-tundra"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 140371,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 140326,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 140324,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 13160,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dire-maul"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		140830,
+		5409
+	]
+}

@@ -1,0 +1,104 @@
+{
+	"id": "owlblack",
+	"family": "birdofprey",
+	"modelGroup": "owls",
+	"npcs": [
+		{
+			"id": 44020,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "duskwood"
+				}
+			]
+		},
+		{
+			"id": 17053,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hellfire-peninsula"
+				}
+			]
+		},
+		{
+			"id": 17039,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hellfire-peninsula",
+					"area": "den-of-haalesh"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 18257,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nagrand-outland"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 19055,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nagrand-outland"
+				}
+			],
+			"keepsName": true,
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 42660,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mount-hyjal"
+				}
+			]
+		}
+	]
+}

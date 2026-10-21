@@ -1,0 +1,115 @@
+{
+	"id": "manaray-dark",
+	"family": "ray",
+	"modelGroup": "manarays",
+	"npcs": [
+		{
+			"id": 165025,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "glutharns-decay"
+				}
+			]
+		},
+		{
+			"id": 173582,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "the-reagentry"
+				}
+			]
+		},
+		{
+			"id": 236900,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "eco-dome-primus"
+				}
+			]
+		},
+		{
+			"id": 236848,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "the-atrium"
+				}
+			]
+		},
+		{
+			"id": 236766,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "glutharns-decay"
+				}
+			]
+		},
+		{
+			"id": 236976,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "the-oasis"
+				}
+			]
+		},
+		{
+			"id": 236963,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "the-oasis"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		169129
+	]
+}

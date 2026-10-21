@@ -1,0 +1,9 @@
+{
+	"name": "Black Swarmite w/ Fangs & Long Tail",
+	"variant": "Black Swarmite w/ Fangs & Long Tail",
+	"npcs": {
+		"221669": {
+			"name": "Blight Swarmer"
+		}
+	}
+}

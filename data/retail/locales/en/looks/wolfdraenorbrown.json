@@ -1,0 +1,100 @@
+{
+	"name": "Brown Maned Wolf",
+	"variant": "Brown",
+	"npcs": {
+		"75431": {
+			"name": "Windfang Runner"
+		},
+		"75434": {
+			"name": "Windfang Matriarch"
+		},
+		"79682": {
+			"name": "Vol'jin's Pride Snarler"
+		},
+		"80263": {
+			"name": "Shagor"
+		},
+		"81902": {
+			"name": "Nagrand Prowler"
+		},
+		"82205": {
+			"name": "Lupe"
+		},
+		"82209": {
+			"name": "Loup"
+		},
+		"82626": {
+			"name": "Axefall Snarler"
+		},
+		"82766": {
+			"name": "Jo'kar"
+		},
+		"83887": {
+			"name": "Wolf"
+		},
+		"86414": {
+			"name": "Nagrand Savager"
+		},
+		"86656": {
+			"name": "Nagrand Savager"
+		},
+		"86851": {
+			"name": "Young Snarler"
+		},
+		"86931": {
+			"name": "Direfang Prowler"
+		},
+		"86932": {
+			"name": "Direfang Alpha"
+		},
+		"87307": {
+			"name": "Spectral Savager"
+		},
+		"94098": {
+			"name": "Icefang Howler"
+		},
+		"97957": {
+			"name": "Icefang Packleader"
+		},
+		"98273": {
+			"name": "Icefang Howler"
+		},
+		"100698": {
+			"name": "Sif",
+			"title": "Nimi Brightcastle's Pet"
+		},
+		"107669": {
+			"name": "Starving Wolf"
+		},
+		"124814": {
+			"name": "Hexed Howler"
+		},
+		"126738": {
+			"name": "Wendy"
+		},
+		"126740": {
+			"name": "Rusty"
+		},
+		"129167": {
+			"name": "Muttley"
+		},
+		"136205": {
+			"name": "Coldtooth Howler"
+		},
+		"136206": {
+			"name": "Coldtooth Pup"
+		},
+		"140067": {
+			"name": "Rustpelt Alpha"
+		},
+		"140069": {
+			"name": "Rustpelt Wolf"
+		},
+		"144494": {
+			"name": "Coppertooth Pup"
+		},
+		"150108": {
+			"name": "Mistfang Alpha"
+		}
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"id": "cranedarkpurple",
+	"family": "waterfowl",
+	"modelGroup": "cranes",
+	"npcs": [
+		{
+			"id": 175654,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion"
+				}
+			]
+		},
+		{
+			"id": 172072,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "mistveil-tangle"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,60 @@
+{
+	"name": "Blue Fey Darter",
+	"variant": "Blue",
+	"npcs": {
+		"3815": {
+			"name": "Blink Dragon"
+		},
+		"4016": {
+			"name": "Fey Dragon"
+		},
+		"4017": {
+			"name": "Wily Fey Dragon"
+		},
+		"4066": {
+			"name": "Nal'taszar"
+		},
+		"5278": {
+			"name": "Sprite Darter"
+		},
+		"5912": {
+			"name": "Deviate Faerie Dragon"
+		},
+		"7997": {
+			"name": "Captured Sprite Darter"
+		},
+		"14398": {
+			"name": "Eldreth Darter"
+		},
+		"80173": {
+			"name": "Squiggy"
+		},
+		"81069": {
+			"name": "Fey Darter"
+		},
+		"82190": {
+			"name": "Fey Darter"
+		},
+		"83936": {
+			"name": "Fey Darter Adolescent"
+		},
+		"91493": {
+			"name": "Pydarter"
+		},
+		"98008": {
+			"name": "Brightwing"
+		},
+		"118122": {
+			"name": "Faerie Dragon"
+		},
+		"188869": {
+			"name": "Fey Dreamwing"
+		},
+		"197036": {
+			"name": "Fey Dreamwing"
+		},
+		"199548": {
+			"name": "Cave Faerie"
+		}
+	}
+}

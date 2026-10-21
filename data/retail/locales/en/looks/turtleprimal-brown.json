@@ -1,0 +1,42 @@
+{
+	"name": "Pale Turtle",
+	"variant": "Pale",
+	"npcs": {
+		"192637": {
+			"name": "Clearwater Turtle"
+		},
+		"192775": {
+			"name": "Greenbelt Turtle"
+		},
+		"196063": {
+			"name": "Sandshell Snapper"
+		},
+		"196286": {
+			"name": "Highland Snapper Hatchling"
+		},
+		"197041": {
+			"name": "Sunshell Turtle"
+		},
+		"197864": {
+			"name": "Dragonshell Snapper"
+		},
+		"214214": {
+			"name": "Vigilant Turtle"
+		},
+		"235442": {
+			"name": "Turtle"
+		},
+		"250163": {
+			"name": "Spikeshell Snapper"
+		},
+		"260368": {
+			"name": "Armored Snacktooth"
+		},
+		"263823": {
+			"name": "Cracked Soupshell"
+		},
+		"267548": {
+			"name": "Artolla's Lost Turtle"
+		}
+	}
+}

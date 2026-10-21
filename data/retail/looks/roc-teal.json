@@ -1,0 +1,37 @@
+{
+	"id": "roc-teal",
+	"family": "birdofprey",
+	"modelGroup": "rocs",
+	"npcs": [
+		{
+			"id": 98743,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "the-haglands"
+				}
+			]
+		},
+		{
+			"id": 120226,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "broken-shore",
+					"area": "deadwood-landing"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"id": "parrotskingray",
+	"family": "birdofprey",
+	"modelGroup": "parrots",
+	"npcs": [
+		{
+			"id": 48451,
+			"tameable": true,
+			"level": {
+				"min": 6,
+				"max": 29
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-deadmines",
+					"area": "ironclad-cove"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

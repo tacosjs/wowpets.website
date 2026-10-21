@@ -1,0 +1,36 @@
+{
+	"id": "hydraskinsilver",
+	"family": "hydra",
+	"modelGroup": "hydras",
+	"npcs": [
+		{
+			"id": 28003,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "sholazar-basin"
+				}
+			]
+		},
+		{
+			"id": 55457,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "darkmoon-island",
+					"area": "the-darkmoon-faire"
+				}
+			]
+		}
+	]
+}

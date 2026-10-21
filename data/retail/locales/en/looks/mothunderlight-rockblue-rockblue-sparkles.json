@@ -1,0 +1,18 @@
+{
+	"name": "Sparkly Dark Brown Dustmoth w/ Blue Body & Glow",
+	"variant": "Dark Brown w/ Blue Body & Glow",
+	"npcs": {
+		"200120": {
+			"name": "Underlight Moth"
+		},
+		"201068": {
+			"name": "Preying Dustmoth"
+		},
+		"202841": {
+			"name": "Lightbound Swarmer"
+		},
+		"203851": {
+			"name": "Underlight Moth"
+		}
+	}
+}

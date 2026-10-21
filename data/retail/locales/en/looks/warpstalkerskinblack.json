@@ -1,0 +1,36 @@
+{
+	"name": "Black Warp Stalker",
+	"variant": "Black",
+	"npcs": {
+		"23163": {
+			"name": "Gezzarak the Huntress"
+		},
+		"32751": {
+			"name": "Backbiter"
+		},
+		"51018": {
+			"name": "Zormus"
+		},
+		"75483": {
+			"name": "Shaded Plainsstalker"
+		},
+		"77443": {
+			"name": "Darkwoods Stalker"
+		},
+		"80082": {
+			"name": "Cave Hunter"
+		},
+		"83553": {
+			"name": "Insha'tar"
+		},
+		"86773": {
+			"name": "Deadly Gloomstalker"
+		},
+		"87086": {
+			"name": "Gezz'ran"
+		},
+		"93236": {
+			"name": "Shadowthrash"
+		}
+	}
+}

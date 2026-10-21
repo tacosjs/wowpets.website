@@ -1,0 +1,68 @@
+{
+	"id": "scorpionskinsilver",
+	"family": "scorpid",
+	"modelGroup": "scorpids",
+	"npcs": [
+		{
+			"id": 51007,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "badlands"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 11737,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "silithus"
+				}
+			]
+		},
+		{
+			"id": 11735,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "silithus"
+				}
+			]
+		},
+		{
+			"id": 5937,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "thousand-needles"
+				}
+			],
+			"keepsName": true
+		}
+	],
+	"alsoNpcs": [
+		13160
+	]
+}

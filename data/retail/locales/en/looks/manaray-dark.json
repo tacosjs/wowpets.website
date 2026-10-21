@@ -1,0 +1,27 @@
+{
+	"name": "Dark Grey & Purple Manaray",
+	"variant": "Dark Grey & Purple",
+	"npcs": {
+		"165025": {
+			"name": "Panicked Necroray"
+		},
+		"173582": {
+			"name": "Escaped Blightray"
+		},
+		"236766": {
+			"name": "Calmed Necroray"
+		},
+		"236848": {
+			"name": "Curious Necroray"
+		},
+		"236900": {
+			"name": "Curious Necroray"
+		},
+		"236963": {
+			"name": "Necroray Pup"
+		},
+		"236976": {
+			"name": "Necroray Pup"
+		}
+	}
+}

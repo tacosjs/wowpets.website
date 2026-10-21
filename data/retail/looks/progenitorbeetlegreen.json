@@ -1,0 +1,43 @@
+{
+	"id": "progenitorbeetlegreen",
+	"family": "beetle",
+	"modelGroup": "scarabids",
+	"npcs": [
+		{
+			"id": 181385,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis"
+				}
+			]
+		},
+		{
+			"id": 181493,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		182820
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Grey Scorpid",
+	"variant": "Grey",
+	"npcs": {
+		"44599": {
+			"name": "Duneclaw Broodlord"
+		},
+		"51000": {
+			"name": "Blackshell the Impenetrable"
+		},
+		"51010": {
+			"name": "Snips"
+		}
+	}
+}

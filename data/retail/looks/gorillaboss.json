@@ -1,0 +1,32 @@
+{
+	"id": "gorillaboss",
+	"family": "gorilla",
+	"modelGroup": "bossgorillas",
+	"npcs": [
+		{
+			"id": 148117,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "battle-of-dazaralor"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 264423,
+			"tameable": false,
+			"level": {
+				"min": 92,
+				"max": 92
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-ring-of-glory"
+				}
+			]
+		}
+	]
+}

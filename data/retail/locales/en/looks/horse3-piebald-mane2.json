@@ -1,0 +1,9 @@
+{
+	"name": "Piebald Horse w/ Long Mane",
+	"variant": "Piebald w/ Long Mane",
+	"npcs": {
+		"150581": {
+			"name": "Hurricane"
+		}
+	}
+}

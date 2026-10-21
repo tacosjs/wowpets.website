@@ -1,0 +1,24 @@
+{
+	"name": "Magma Tarantula",
+	"variant": "Magma",
+	"npcs": {
+		"5857": {
+			"name": "Searing Lava Spider"
+		},
+		"5858": {
+			"name": "Greater Lava Spider"
+		},
+		"8277": {
+			"name": "Rekk'tilac"
+		},
+		"191672": {
+			"name": "Lava Tarantula"
+		},
+		"200978": {
+			"name": "Pyrachniss"
+		},
+		"202913": {
+			"name": "Fiery Hatchling"
+		}
+	}
+}

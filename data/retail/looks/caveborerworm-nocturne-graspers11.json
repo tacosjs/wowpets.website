@@ -1,0 +1,35 @@
+{
+	"id": "caveborerworm-nocturne-graspers11",
+	"family": "worm",
+	"modelGroup": "jawcrawlers",
+	"npcs": [
+		{
+			"id": 238931,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		},
+		{
+			"id": 232160,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		}
+	]
+}

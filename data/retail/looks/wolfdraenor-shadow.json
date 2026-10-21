@@ -1,0 +1,134 @@
+{
+	"id": "wolfdraenor-shadow",
+	"family": "spiritbeast",
+	"modelGroup": "spiritwolves",
+	"npcs": [
+		{
+			"id": 88708,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 88710,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor"
+				}
+			]
+		},
+		{
+			"id": 73693,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "deadwalker-pass"
+				}
+			]
+		},
+		{
+			"id": 78798,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "shazgul"
+				}
+			]
+		},
+		{
+			"id": 74698,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "anguish-fortress"
+				}
+			]
+		},
+		{
+			"id": 82373,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaan-jungle",
+					"area": "umbral-halls"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "phase"
+				}
+			]
+		},
+		{
+			"id": 85082,
+			"tameable": false,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "pillars-of-fate"
+				}
+			]
+		},
+		{
+			"id": 89277,
+			"tameable": false,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "frostwall-lunarfall-garrisons"
+				},
+				{
+					"zone": "shadowmoon-valley-draenor"
+				}
+			]
+		}
+	]
+}

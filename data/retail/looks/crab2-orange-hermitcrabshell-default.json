@@ -1,0 +1,21 @@
+{
+	"id": "crab2-orange-hermitcrabshell-default",
+	"family": "crab",
+	"modelGroup": "hermitcrabs",
+	"npcs": [
+		{
+			"id": 224799,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn"
+				}
+			]
+		}
+	]
+}

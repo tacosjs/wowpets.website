@@ -1,0 +1,126 @@
+{
+	"id": "elekkwild-pink",
+	"family": "mammoth",
+	"modelGroup": "classicelekks",
+	"npcs": [
+		{
+			"id": 21250,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blackrock-depths",
+					"area": "the-grim-guzzler"
+				},
+				{
+					"zone": "terokkar-forest"
+				}
+			]
+		},
+		{
+			"id": 23528,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-exodar"
+				}
+			]
+		},
+		{
+			"id": 23507,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "elwynn-forest"
+				}
+			]
+		},
+		{
+			"id": 23531,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods-classic"
+				}
+			]
+		},
+		{
+			"id": 23529,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thunder-bluff"
+				}
+			]
+		},
+		{
+			"id": 23527,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "darnassus"
+				},
+				{
+					"zone": "shattrath-city-outland"
+				}
+			]
+		},
+		{
+			"id": 23530,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tirisfal-glades"
+				}
+			]
+		},
+		{
+			"id": 220052,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mycomancer-cavern"
+				}
+			]
+		}
+	]
+}

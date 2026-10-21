@@ -1,0 +1,142 @@
+{
+	"id": "corehoundsmall",
+	"family": "corehound",
+	"modelGroup": "blazehounds",
+	"npcs": [
+		{
+			"id": 204378,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "molten-overflow"
+				}
+			]
+		},
+		{
+			"id": 204377,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "molten-overflow"
+				}
+			]
+		},
+		{
+			"id": 202770,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "igiras-watch"
+				}
+			]
+		},
+		{
+			"id": 199823,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "igiras-watch-zaqali-caldera"
+				}
+			]
+		},
+		{
+			"id": 200450,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "suffusion-camp-frostburn"
+				}
+			]
+		},
+		{
+			"id": 144159,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blackrock-mountain",
+					"area": "shadowforge-city"
+				}
+			]
+		},
+		{
+			"id": 201906,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "zaqali-caldera"
+				}
+			]
+		},
+		{
+			"id": 205045,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "zaqali-caldera"
+				}
+			]
+		},
+		{
+			"id": 202279,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "molten-overflow"
+				}
+			]
+		}
+	]
+}

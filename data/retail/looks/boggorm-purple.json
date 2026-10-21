@@ -1,0 +1,25 @@
+{
+	"id": "boggorm-purple",
+	"family": "worm",
+	"modelGroup": "tidalworms",
+	"npcs": [
+		{
+			"id": 250158,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "maisara-deeps"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		249012
+	]
+}

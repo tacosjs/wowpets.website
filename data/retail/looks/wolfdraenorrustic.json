@@ -1,0 +1,140 @@
+{
+	"id": "wolfdraenorrustic",
+	"family": "wolf",
+	"modelGroup": "draenorwolves",
+	"npcs": [
+		{
+			"id": 124885,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "shrouded-foothills"
+				}
+			]
+		},
+		{
+			"id": 125464,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "watchers-wood"
+				}
+			]
+		},
+		{
+			"id": 135197,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "whitegrove-chapel"
+				}
+			]
+		},
+		{
+			"id": 137461,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "corlain"
+				}
+			]
+		},
+		{
+			"id": 136416,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley",
+					"area": "beryl-meadow"
+				}
+			]
+		},
+		{
+			"id": 136418,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley",
+					"area": "beryl-meadow"
+				}
+			]
+		},
+		{
+			"id": 100890,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "jandvik"
+				}
+			]
+		},
+		{
+			"id": 255805,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "razorwind-shores"
+				}
+			]
+		},
+		{
+			"id": 140074,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	]
+}

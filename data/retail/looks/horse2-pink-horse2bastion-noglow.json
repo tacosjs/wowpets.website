@@ -1,0 +1,27 @@
+{
+	"id": "horse2-pink-horse2bastion-noglow",
+	"family": "courser",
+	"modelGroup": "dreamrunners",
+	"npcs": [
+		{
+			"id": 256859,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "azurebreeze-coast"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		256858,
+		250195,
+		252713
+	]
+}

@@ -1,0 +1,70 @@
+{
+	"id": "mothskinwhite",
+	"family": "moth",
+	"modelGroup": "moths",
+	"npcs": [
+		{
+			"id": 25498,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "borean-tundra",
+					"area": "gammoth"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 82192,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "the-shimmer-mor"
+				}
+			]
+		},
+		{
+			"id": 57422,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds",
+					"area": "silken-fields"
+				}
+			]
+		},
+		{
+			"id": 65984,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		56172
+	]
+}

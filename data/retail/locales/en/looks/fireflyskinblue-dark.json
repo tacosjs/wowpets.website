@@ -1,0 +1,12 @@
+{
+	"name": "Blue Firefly",
+	"variant": "Blue",
+	"npcs": {
+		"76438": {
+			"name": "Kliaa"
+		},
+		"82371": {
+			"name": "Swamplighter Drone"
+		}
+	}
+}

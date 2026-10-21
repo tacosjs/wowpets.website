@@ -1,0 +1,9 @@
+{
+	"name": "Cursed Crab",
+	"variant": "Cursed",
+	"npcs": {
+		"143928": {
+			"name": "Cursed Snapclaw"
+		}
+	}
+}

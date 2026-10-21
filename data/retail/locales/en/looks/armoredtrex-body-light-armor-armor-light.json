@@ -1,0 +1,9 @@
+{
+	"name": "Dark Skeletal Devilsaur w/ Light Armour",
+	"variant": "Dark Skeletal Devilsaur w/ Light Armour",
+	"npcs": {
+		"206052": {
+			"name": "Chronosaurus"
+		}
+	}
+}

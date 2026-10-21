@@ -1,0 +1,10 @@
+{
+	"name": "Indigo Flowering Crystalspine",
+	"variant": "Indigo",
+	"npcs": {
+		"190288": {
+			"name": "Sir Pringly",
+			"title": "Agapanthus's Companion"
+		}
+	}
+}

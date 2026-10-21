@@ -1,0 +1,21 @@
+{
+	"id": "pterrordaxskinbrown",
+	"family": "pterrordax",
+	"modelGroup": "oldpterrordaxes",
+	"npcs": [
+		{
+			"id": 9166,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ungoro-crater"
+				}
+			]
+		}
+	]
+}

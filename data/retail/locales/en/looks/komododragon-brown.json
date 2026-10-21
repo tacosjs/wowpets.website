@@ -1,0 +1,15 @@
+{
+	"name": "Ochre & Black Saurolisk",
+	"variant": "Ochre & Black",
+	"npcs": {
+		"127290": {
+			"name": "Mugg"
+		},
+		"127776": {
+			"name": "Scaleclaw Broodmother"
+		},
+		"152001": {
+			"name": "Bonepicker"
+		}
+	}
+}

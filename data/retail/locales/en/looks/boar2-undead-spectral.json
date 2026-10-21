@@ -1,0 +1,13 @@
+{
+	"name": "Spectral Boar",
+	"variant": "Spectral Boar",
+	"npcs": {
+		"232204": {
+			"name": "Ghost Boar",
+			"title": "Ghostmaker's Minion"
+		},
+		"263817": {
+			"name": "Butchered Mulchtusk"
+		}
+	}
+}

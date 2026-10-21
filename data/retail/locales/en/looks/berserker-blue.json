@@ -1,0 +1,33 @@
+{
+	"name": "Blue Ultradon",
+	"variant": "Blue Ultradon",
+	"npcs": {
+		"243281": {
+			"name": "Hulking Ultradon"
+		},
+		"243813": {
+			"name": "Feral Ultradon"
+		},
+		"247945": {
+			"name": "Griefcrusher Ultradon"
+		},
+		"250535": {
+			"name": "Menacing Ultradon"
+		},
+		"257269": {
+			"name": "Baby Ultradon"
+		},
+		"257764": {
+			"name": "Menacing Ultradon"
+		},
+		"257955": {
+			"name": "Gluttonous Ultradon"
+		},
+		"257958": {
+			"name": "Unruly Ultradon"
+		},
+		"258226": {
+			"name": "Rampaging Ultradon"
+		}
+	}
+}

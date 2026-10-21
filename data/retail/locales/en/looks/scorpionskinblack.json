@@ -1,0 +1,39 @@
+{
+	"name": "Black Scorpid",
+	"variant": "Black",
+	"npcs": {
+		"3281": {
+			"name": "Sarkoth"
+		},
+		"5823": {
+			"name": "Death Flayer"
+		},
+		"7022": {
+			"name": "Venomlash Scorpid"
+		},
+		"8301": {
+			"name": "Clack the Reaver"
+		},
+		"9701": {
+			"name": "Spire Scorpid"
+		},
+		"14476": {
+			"name": "Krellack"
+		},
+		"15317": {
+			"name": "Qiraji Scorpion"
+		},
+		"21864": {
+			"name": "Scorchshell Pincer"
+		},
+		"44587": {
+			"name": "Duneclaw Stalker"
+		},
+		"51008": {
+			"name": "The Barbed Horror"
+		},
+		"162380": {
+			"name": "Venomblood Scorpid"
+		}
+	}
+}

@@ -1,0 +1,42 @@
+{
+	"name": "Amber-Brown Shredclaw",
+	"variant": "Amber-Brown",
+	"npcs": {
+		"243897": {
+			"name": "Voidstalker"
+		},
+		"250545": {
+			"name": "Stalking Shredclaw"
+		},
+		"250633": {
+			"name": "Shredclaw"
+		},
+		"250637": {
+			"name": "Shredclaw"
+		},
+		"253331": {
+			"name": "Captured Shredclaw"
+		},
+		"254576": {
+			"name": "Stalking Shredclaw"
+		},
+		"254577": {
+			"name": "Spiteful Shredclaw"
+		},
+		"255354": {
+			"name": "Starving Shredclaw"
+		},
+		"257127": {
+			"name": "Barbtooth Bloodtracker"
+		},
+		"257241": {
+			"name": "Ripfang Shredclaw"
+		},
+		"257244": {
+			"name": "Vicious Shredclaw"
+		},
+		"257496": {
+			"name": "Roaming Shredclaw"
+		}
+	}
+}

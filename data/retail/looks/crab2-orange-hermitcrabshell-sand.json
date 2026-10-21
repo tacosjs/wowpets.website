@@ -1,0 +1,25 @@
+{
+	"id": "crab2-orange-hermitcrabshell-sand",
+	"family": "crab",
+	"modelGroup": "hermitcrabs",
+	"npcs": [
+		{
+			"id": 131693,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		128631,
+		142577
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"name": "Black Primal Bear",
+	"variant": "Black",
+	"npcs": {
+		"186457": {
+			"name": "Grove Forager"
+		},
+		"189741": {
+			"name": "Lumbering Mauler"
+		},
+		"190663": {
+			"name": "Shadehide Mauler"
+		},
+		"190731": {
+			"name": "Thickmane Bear"
+		},
+		"191199": {
+			"name": "Hillside Forager"
+		},
+		"191240": {
+			"name": "Hillside Forager"
+		},
+		"191535": {
+			"name": "Blackpaw Bear"
+		},
+		"191665": {
+			"name": "Rumbling Blackpaw"
+		},
+		"192377": {
+			"name": "Mountainside Grizzly"
+		},
+		"193827": {
+			"name": "Stormed Blackpaw"
+		},
+		"193830": {
+			"name": "Stormed Blackpaw"
+		},
+		"194439": {
+			"name": "Thickmane Matriarch"
+		},
+		"195635": {
+			"name": "Time-Charged Bear"
+		},
+		"197436": {
+			"name": "Shadehide Forager"
+		},
+		"197663": {
+			"name": "Grizzled Mauler"
+		},
+		"212499": {
+			"name": "Dapplecoat Bear"
+		}
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"id": "shoveltuskblack",
+	"family": "oxen",
+	"modelGroup": "shoveltusks",
+	"npcs": [
+		{
+			"id": 23691,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "howling-fjord"
+				}
+			]
+		},
+		{
+			"id": 29487,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "howling-fjord",
+					"area": "cauldros-isle"
+				}
+			]
+		}
+	]
+}

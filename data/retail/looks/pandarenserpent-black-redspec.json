@@ -1,0 +1,36 @@
+{
+	"id": "pandarenserpent-black-redspec",
+	"family": "lesserdragonkin",
+	"modelGroup": "cloudserpents",
+	"npcs": [
+		{
+			"id": 138972,
+			"tameable": true,
+			"level": {
+				"min": 11,
+				"max": 61
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 62585,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "townlong-steppes",
+					"area": "shanze-dao"
+				}
+			]
+		}
+	]
+}

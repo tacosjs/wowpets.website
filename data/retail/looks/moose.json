@@ -1,0 +1,83 @@
+{
+	"id": "moose",
+	"family": "stag",
+	"modelGroup": "elderhorn",
+	"npcs": [
+		{
+			"id": 93856,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "sylvan-falls"
+				}
+			]
+		},
+		{
+			"id": 94151,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "pinerock-basin"
+				}
+			]
+		},
+		{
+			"id": 96267,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "pinerock-basin"
+				}
+			]
+		},
+		{
+			"id": 95043,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "highmountain"
+				}
+			]
+		},
+		{
+			"id": 146111,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		152092
+	]
+}

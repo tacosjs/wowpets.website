@@ -1,0 +1,282 @@
+{
+	"id": "yakgrey",
+	"family": "oxen",
+	"modelGroup": "yaks",
+	"npcs": [
+		{
+			"id": 59523,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "kun-lai-summit",
+					"area": "kun-lai-pass"
+				}
+			]
+		},
+		{
+			"id": 72842,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "timeless-isle"
+				}
+			]
+		},
+		{
+			"id": 57853,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 20
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-wandering-isle-pandaren-starting-zone",
+					"area": "the-dai-lo-farmstead"
+				}
+			]
+		},
+		{
+			"id": 57258,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 20
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-wandering-isle-pandaren-starting-zone",
+					"area": "the-rows"
+				}
+			]
+		},
+		{
+			"id": 57709,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 20
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-wandering-isle-pandaren-starting-zone",
+					"area": "the-singing-pools"
+				}
+			]
+		},
+		{
+			"id": 59499,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 20
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-wandering-isle-pandaren-starting-zone",
+					"area": "the-dai-lo-farmstead"
+				}
+			]
+		},
+		{
+			"id": 57743,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 20
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-wandering-isle-pandaren-starting-zone",
+					"area": "by-wreck-of-the-skyseeker"
+				}
+			]
+		},
+		{
+			"id": 140435,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 140438,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 58908,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds",
+					"area": "verdant-belt"
+				}
+			]
+		},
+		{
+			"id": 58909,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds",
+					"area": "verdant-belt"
+				}
+			]
+		},
+		{
+			"id": 61635,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "townlong-steppes",
+					"area": "niuzao-temple"
+				}
+			]
+		},
+		{
+			"id": 60300,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "kun-lai-summit",
+					"area": "gate-of-the-august-celestials"
+				}
+			]
+		},
+		{
+			"id": 70416,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "townlong-steppes",
+					"area": "niuzao-temple"
+				}
+			]
+		},
+		{
+			"id": 231867,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-wandering-isle-open-zone",
+					"area": "the-dawning-valley-the-wandering-isle-open-zone"
+				}
+			]
+		},
+		{
+			"id": 229269,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-wandering-isle-open-zone",
+					"area": "teeming-burrow"
+				}
+			]
+		},
+		{
+			"id": 248875,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-wandering-isle-open-zone",
+					"area": "the-rows-the-wandering-isle-open-zone"
+				}
+			]
+		},
+		{
+			"id": 231866,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-wandering-isle-open-zone",
+					"area": "the-dawning-valley-the-wandering-isle-open-zone"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		66595,
+		251800,
+		249612,
+		59648,
+		59491,
+		58925
+	]
+}

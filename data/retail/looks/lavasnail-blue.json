@@ -1,0 +1,70 @@
+{
+	"id": "lavasnail-blue",
+	"family": "carapid",
+	"modelGroup": "magmasnails",
+	"npcs": [
+		{
+			"id": 191790,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores"
+				}
+			]
+		},
+		{
+			"id": 193175,
+			"tameable": true,
+			"level": {
+				"min": 62,
+				"max": 72
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "the-waking-shores"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 224581,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn"
+				}
+			]
+		},
+		{
+			"id": 195967,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "iskaara"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

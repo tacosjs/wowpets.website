@@ -1,0 +1,29 @@
+{
+	"id": "tripod2-purple",
+	"family": "waterstrider",
+	"modelGroup": "mirestalkers",
+	"npcs": [
+		{
+			"id": 243778,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "the-grudge-pit-non-instanced"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		254203,
+		256380,
+		248890,
+		249166,
+		264326
+	]
+}

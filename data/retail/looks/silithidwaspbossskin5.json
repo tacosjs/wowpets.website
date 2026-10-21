@@ -1,0 +1,33 @@
+{
+	"id": "silithidwaspbossskin5",
+	"family": "wasp",
+	"modelGroup": "bosswasps",
+	"npcs": [
+		{
+			"id": 50905,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "felwood"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 15509,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "temple-of-ahnqiraj"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

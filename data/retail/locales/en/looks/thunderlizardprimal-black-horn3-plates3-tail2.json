@@ -1,0 +1,18 @@
+{
+	"name": "Black Primal Thunder Lizard w/ Electric Horn, Electric Plates & Tail Spikes",
+	"variant": "Black",
+	"npcs": {
+		"191825": {
+			"name": "Thunder Lizard Alpha"
+		},
+		"193148": {
+			"name": "Thunderous Matriarch"
+		},
+		"195465": {
+			"name": "Elusive Tempest Lizard"
+		},
+		"196913": {
+			"name": "Mara'nar the Thunderous"
+		}
+	}
+}

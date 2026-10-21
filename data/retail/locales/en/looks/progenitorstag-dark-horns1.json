@@ -1,0 +1,12 @@
+{
+	"name": "Black Cervid w/ Long Swept Horns",
+	"variant": "Black",
+	"npcs": {
+		"180049": {
+			"name": "Cervid Grazer"
+		},
+		"180050": {
+			"name": "Cervid Protector"
+		}
+	}
+}

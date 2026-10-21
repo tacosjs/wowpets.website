@@ -1,0 +1,44 @@
+{
+	"name": "Brown Crawg",
+	"variant": "Brown",
+	"npcs": {
+		"128426": {
+			"name": "Gutrip",
+			"title": "The Hungry"
+		},
+		"128780": {
+			"name": "Battle Crawg"
+		},
+		"128808": {
+			"name": "Crawgling"
+		},
+		"128930": {
+			"name": "Rohnkor"
+		},
+		"133173": {
+			"name": "Vicious War Crawg"
+		},
+		"135047": {
+			"name": "Suppressed Crawg"
+		},
+		"136796": {
+			"name": "Smuggled Crawg"
+		},
+		"138491": {
+			"name": "Vicious War Crawg"
+		},
+		"138812": {
+			"name": "Bloodraging Crawg"
+		},
+		"139059": {
+			"name": "Bloodthirsty Crawg"
+		},
+		"140149": {
+			"name": "Released Crawg"
+		},
+		"232098": {
+			"name": "\"Chowdar\"",
+			"title": "Escaped Auction Parcel #8675308"
+		}
+	}
+}

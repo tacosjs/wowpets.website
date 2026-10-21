@@ -1,0 +1,45 @@
+{
+	"name": "Red-Black Bat",
+	"variant": "Red-Black",
+	"npcs": {
+		"79895": {
+			"name": "Echo Hunter"
+		},
+		"84935": {
+			"name": "Eyeless"
+		},
+		"92627": {
+			"name": "Rendrak"
+		},
+		"127265": {
+			"name": "Bloodscreecher Broodling"
+		},
+		"128071": {
+			"name": "Tamed Warspawn"
+		},
+		"139837": {
+			"name": "Riding Bat"
+		},
+		"144944": {
+			"name": "Thirsting Bloodsucker"
+		},
+		"144954": {
+			"name": "Bloodgorger"
+		},
+		"144955": {
+			"name": "Zal'zi the Bloodgorged"
+		},
+		"235198": {
+			"name": "Courier Bat"
+		},
+		"244857": {
+			"name": "Child of Hir'eek"
+		},
+		"250047": {
+			"name": "Ghostwing Bat"
+		},
+		"251339": {
+			"name": "Ornery Winebat"
+		}
+	}
+}

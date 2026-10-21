@@ -1,0 +1,88 @@
+{
+	"id": "progenitorstag-red-horns2",
+	"family": "stag",
+	"modelGroup": "cervids",
+	"npcs": [
+		{
+			"id": 181383,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "provis-fauna"
+				}
+			]
+		},
+		{
+			"id": 185297,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis"
+				}
+			]
+		},
+		{
+			"id": 185301,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 182316,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "genesis-fields-cradle-of-nascence"
+				}
+			]
+		},
+		{
+			"id": 182423,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "dimensional-falls-cavern"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		178098
+	]
+}

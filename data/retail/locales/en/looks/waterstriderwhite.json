@@ -1,0 +1,15 @@
+{
+	"name": "Coral Water Strider",
+	"variant": "Coral",
+	"npcs": {
+		"66882": {
+			"name": "Sea Strider"
+		},
+		"112331": {
+			"name": "Skittering Riverbug"
+		},
+		"232728": {
+			"name": "Stuck Lapbug"
+		}
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"id": "ravager",
+	"wowId": 31,
+	"icon": "ability_hunter_pet_ravager",
+	"spec": "ferocity",
+	"exotic": false,
+	"diet": [
+		"meat"
+	],
+	"abilities": {
+		"basic": "bite",
+		"family": [
+			"ravage"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "draenorravagers"
+		},
+		{
+			"id": "ravagers"
+		},
+		{
+			"id": "extraspikyravagers"
+		}
+	]
+}

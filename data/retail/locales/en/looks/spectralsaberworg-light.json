@@ -1,0 +1,10 @@
+{
+	"name": "Stormy Grey Saber Worg",
+	"variant": "Stormy Grey",
+	"npcs": {
+		"157279": {
+			"name": "Stormhowl",
+			"title": "Thundermaw Alpha"
+		}
+	}
+}

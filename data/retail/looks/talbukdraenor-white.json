@@ -1,0 +1,68 @@
+{
+	"id": "talbukdraenor-white",
+	"family": "stag",
+	"modelGroup": "draenortalbuks",
+	"npcs": [
+		{
+			"id": 86727,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-draenor"
+				}
+			]
+		},
+		{
+			"id": 82415,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor"
+				}
+			]
+		},
+		{
+			"id": 85832,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor"
+				}
+			]
+		},
+		{
+			"id": 251458,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "suns-reach-sanctum"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		78274,
+		78277
+	]
+}

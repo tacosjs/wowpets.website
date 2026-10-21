@@ -1,0 +1,221 @@
+{
+	"id": "ramprimal-yellow",
+	"family": "gruffhorn",
+	"modelGroup": "argalis",
+	"npcs": [
+		{
+			"id": 214222,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "amirdrassil-dragon-isles-zone"
+				}
+			]
+		},
+		{
+			"id": 264658,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "the-forum"
+				}
+			]
+		},
+		{
+			"id": 191763,
+			"tameable": false,
+			"level": {
+				"min": 58,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-forbidden-reach",
+					"area": "stormsunder-crater"
+				}
+			]
+		},
+		{
+			"id": 188210,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "valdrakken"
+				}
+			]
+		},
+		{
+			"id": 195710,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "teerakai"
+				}
+			]
+		},
+		{
+			"id": 193009,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "timberstep-outpost"
+				}
+			]
+		},
+		{
+			"id": 195841,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "passage-of-time"
+				}
+			]
+		},
+		{
+			"id": 189733,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "passage-of-time"
+				}
+			]
+		},
+		{
+			"id": 186298,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "wanderers-steppe"
+				}
+			]
+		},
+		{
+			"id": 196040,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "thunderspine-ridge"
+				}
+			]
+		},
+		{
+			"id": 192559,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "wild-cliffs"
+				}
+			]
+		},
+		{
+			"id": 200250,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-forbidden-reach",
+					"area": "stormsunder-crater"
+				}
+			]
+		},
+		{
+			"id": 198803,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-forbidden-reach",
+					"area": "caldera-of-the-menders"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		196882,
+		191554,
+		195036,
+		194726,
+		195040,
+		193309,
+		191553,
+		196821,
+		195909,
+		202506,
+		202510,
+		255811,
+		260369,
+		193199,
+		196488,
+		196917,
+		194061,
+		198823
+	]
+}

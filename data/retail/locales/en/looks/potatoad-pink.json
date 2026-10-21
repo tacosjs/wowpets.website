@@ -1,0 +1,12 @@
+{
+	"name": "Red & Green Potatoad",
+	"variant": "Red & Green",
+	"npcs": {
+		"244325": {
+			"name": "Toxic Potatotoad"
+		},
+		"246715": {
+			"name": "Aggressive Potatoad"
+		}
+	}
+}

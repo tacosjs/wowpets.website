@@ -1,0 +1,52 @@
+{
+	"id": "argustalbuk-blue-horn2",
+	"family": "stag",
+	"modelGroup": "ruggedtalbuks",
+	"npcs": [
+		{
+			"id": 123527,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eredath",
+					"area": "conservatory-of-the-arcane"
+				}
+			]
+		},
+		{
+			"id": 122363,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eredath",
+					"area": "azurelight-square"
+				}
+			]
+		},
+		{
+			"id": 126945,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eredath",
+					"area": "azurelight-square"
+				}
+			]
+		}
+	]
+}

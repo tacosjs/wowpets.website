@@ -1,0 +1,15 @@
+{
+	"name": "Yellow-Grey Saurid",
+	"variant": "Yellow-Grey",
+	"npcs": {
+		"131623": {
+			"name": "Xibalan Saurid"
+		},
+		"134046": {
+			"name": "Enthralled Saurid"
+		},
+		"134047": {
+			"name": "Enthralled Saurid"
+		}
+	}
+}

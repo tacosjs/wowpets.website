@@ -1,0 +1,78 @@
+{
+	"id": "tigerskinyellow",
+	"family": "cat",
+	"modelGroup": "cats",
+	"npcs": [
+		{
+			"id": 5865,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "northern-barrens"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 62131,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "northern-barrens"
+				}
+			]
+		},
+		{
+			"id": 2732,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "badlands"
+				}
+			]
+		},
+		{
+			"id": 2731,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "badlands"
+				}
+			]
+		},
+		{
+			"id": 2734,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "badlands"
+				}
+			]
+		}
+	]
+}

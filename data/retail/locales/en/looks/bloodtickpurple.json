@@ -1,0 +1,12 @@
+{
+	"name": "Purple Blood Tick",
+	"variant": "Purple",
+	"npcs": {
+		"133357": {
+			"name": "Tamed Bloodswarmer"
+		},
+		"242421": {
+			"name": "Voidborn Infester"
+		}
+	}
+}

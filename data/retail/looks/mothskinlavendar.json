@@ -1,0 +1,55 @@
+{
+	"id": "mothskinlavendar",
+	"family": "moth",
+	"modelGroup": "moths",
+	"npcs": [
+		{
+			"id": 77441,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "talador",
+					"area": "deathweb-hollow"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 79595,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "talador"
+				}
+			]
+		},
+		{
+			"id": 86757,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-draenor"
+				}
+			]
+		}
+	]
+}

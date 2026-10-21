@@ -1,0 +1,33 @@
+{
+	"name": "Gold Slyvern",
+	"variant": "Gold",
+	"npcs": {
+		"187455": {
+			"name": "Amberfur Prowler"
+		},
+		"191051": {
+			"name": "Nimblewing Slyvern"
+		},
+		"193353": {
+			"name": "Plainsbound Slyvern"
+		},
+		"194568": {
+			"name": "Restless Slyvern"
+		},
+		"197871": {
+			"name": "Canyon Glider"
+		},
+		"197962": {
+			"name": "Valley Slyvern"
+		},
+		"202436": {
+			"name": "Elusive Frenzied Amberfur"
+		},
+		"203675": {
+			"name": "Goldenfur Skyfox"
+		},
+		"212490": {
+			"name": "Coastwinged Slyvern"
+		}
+	}
+}

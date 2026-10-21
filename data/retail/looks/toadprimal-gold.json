@@ -1,0 +1,62 @@
+{
+	"id": "toadprimal-gold",
+	"family": "lesserdragonkin",
+	"modelGroup": "hornswogs",
+	"npcs": [
+		{
+			"id": 187324,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "shifting-sands"
+				}
+			]
+		},
+		{
+			"id": 200276,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-forbidden-reach",
+					"area": "hornswog-grounds"
+				}
+			]
+		},
+		{
+			"id": 196403,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "upper-frostlands"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		191561,
+		189570,
+		192374,
+		196571,
+		191563,
+		198419,
+		187574,
+		193479
+	]
+}

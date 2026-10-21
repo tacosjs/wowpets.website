@@ -1,0 +1,21 @@
+{
+	"name": "White Condor",
+	"variant": "White",
+	"npcs": {
+		"14268": {
+			"name": "Lord Condar"
+		},
+		"26174": {
+			"name": "Carrion Condor"
+		},
+		"26838": {
+			"name": "Dreadtalon"
+		},
+		"59251": {
+			"name": "Trenchwing Scavenger"
+		},
+		"72650": {
+			"name": "Trained Bonestripper"
+		}
+	}
+}

@@ -1,0 +1,187 @@
+{
+	"id": "triceratopsred",
+	"family": "direhorn",
+	"modelGroup": "direhorns",
+	"npcs": [
+		{
+			"id": 122224,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar"
+				}
+			]
+		},
+		{
+			"id": 131628,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar"
+				}
+			]
+		},
+		{
+			"id": 123809,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "antulmita-plateau"
+				}
+			]
+		},
+		{
+			"id": 123487,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "the-shattered-river"
+				}
+			]
+		},
+		{
+			"id": 69193,
+			"tameable": true,
+			"level": {
+				"min": 32,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-thunder"
+				}
+			]
+		},
+		{
+			"id": 70014,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "isle-of-giants"
+				}
+			]
+		},
+		{
+			"id": 70018,
+			"tameable": true,
+			"level": {
+				"min": 36,
+				"max": 36
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "isle-of-giants"
+				}
+			]
+		},
+		{
+			"id": 133163,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "zuldazar"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 127276,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "antulmita-plateau"
+				}
+			]
+		},
+		{
+			"id": 123426,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "the-shattered-river"
+				}
+			]
+		},
+		{
+			"id": 180495,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-veiled-market",
+					"area": "tazavesh"
+				}
+			]
+		},
+		{
+			"id": 233294,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "undermine",
+					"area": "bilgewater-flats"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		70493,
+		131352,
+		70059
+	]
+}

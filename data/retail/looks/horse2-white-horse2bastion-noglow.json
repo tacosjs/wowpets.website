@@ -1,0 +1,52 @@
+{
+	"id": "horse2-white-horse2bastion-noglow",
+	"family": "courser",
+	"modelGroup": "dreamrunners",
+	"npcs": [
+		{
+			"id": 256858,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "tranquil-repose"
+				}
+			]
+		},
+		{
+			"id": 250195,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "brightwing-estate"
+				}
+			]
+		},
+		{
+			"id": 252713,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "tranquil-repose"
+				}
+			]
+		}
+	]
+}

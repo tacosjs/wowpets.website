@@ -1,0 +1,44 @@
+{
+	"id": "tidalguardian-yellow",
+	"family": "worm",
+	"modelGroup": "tidalworms",
+	"npcs": [
+		{
+			"id": 153654,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "chitterspine-caverns"
+				}
+			]
+		},
+		{
+			"id": 224779,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "ancient-falls-opportunity-point"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		214594,
+		223058,
+		224350,
+		153890,
+		223078
+	]
+}

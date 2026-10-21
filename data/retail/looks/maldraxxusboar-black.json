@@ -1,0 +1,36 @@
+{
+	"id": "maldraxxusboar-black",
+	"family": "boar",
+	"modelGroup": "skullboars",
+	"npcs": [
+		{
+			"id": 165473,
+			"tameable": true,
+			"level": {
+				"min": 54,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus"
+				}
+			]
+		},
+		{
+			"id": 166676,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "the-stitchyard"
+				}
+			]
+		}
+	]
+}

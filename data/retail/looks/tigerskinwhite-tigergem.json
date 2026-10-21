@@ -1,0 +1,49 @@
+{
+	"id": "tigerskinwhite-tigergem",
+	"family": "cat",
+	"modelGroup": "hunchedcats",
+	"npcs": [
+		{
+			"id": 54688,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "end-time"
+				}
+			]
+		},
+		{
+			"id": 54699,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "end-time"
+				}
+			]
+		},
+		{
+			"id": 59544,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "temple-of-the-jade-serpent"
+				}
+			]
+		}
+	]
+}

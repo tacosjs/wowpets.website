@@ -1,0 +1,79 @@
+{
+	"id": "warpstalkerskinred",
+	"family": "warpstalker",
+	"modelGroup": "warpstalkers",
+	"npcs": [
+		{
+			"id": 51017,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "felwood"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 51021,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "badlands"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 22255,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blades-edge-mountains"
+				}
+			]
+		},
+		{
+			"id": 79745,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "talador"
+				}
+			]
+		},
+		{
+			"id": 93003,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaan-jungle"
+				}
+			]
+		}
+	]
+}

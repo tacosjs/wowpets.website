@@ -1,0 +1,9 @@
+{
+	"name": "Green Basilisk w/Jade Fringes",
+	"variant": "Green w/Jade",
+	"npcs": {
+		"4863": {
+			"name": "Jadespine Basilisk"
+		}
+	}
+}

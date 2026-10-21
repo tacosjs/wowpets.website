@@ -1,0 +1,44 @@
+{
+	"name": "Raptor",
+	"modelGroups": {
+		"saptors": {
+			"name": "Saptors"
+		},
+		"dreamtalons": {
+			"name": "Dreamtalons"
+		},
+		"saddledskeletalraptors": {
+			"name": "Saddled Skeletal Raptors"
+		},
+		"skeletalraptors": {
+			"name": "Skeletal Raptors"
+		},
+		"ravasaurs": {
+			"name": "Ravasaurs"
+		},
+		"saurids": {
+			"name": "Saurids"
+		},
+		"armouredravasaurs": {
+			"name": "Armoured Ravasaurs"
+		},
+		"falcosaurs": {
+			"name": "Falcosaurs"
+		},
+		"draenorraptors": {
+			"name": "Raptors"
+		},
+		"raptors": {
+			"name": "Classic Raptors"
+		},
+		"spikedraptors": {
+			"name": "Spiky Raptors"
+		},
+		"saddledraptors": {
+			"name": "Saddled Classic Raptors"
+		},
+		"armoredraptors": {
+			"name": "Armoured Classic Raptors"
+		}
+	}
+}

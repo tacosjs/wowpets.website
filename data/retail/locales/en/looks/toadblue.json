@@ -1,0 +1,39 @@
+{
+	"name": "Blue Toad",
+	"variant": "Blue",
+	"npcs": {
+		"72777": {
+			"name": "Gulp Frog"
+		},
+		"73805": {
+			"name": "Corrupted Toad"
+		},
+		"74176": {
+			"name": "Gloomshade Gulper"
+		},
+		"79524": {
+			"name": "Hypnocroak"
+		},
+		"79660": {
+			"name": "Shimmering Croaker"
+		},
+		"105014": {
+			"name": "Territorial Croaker"
+		},
+		"109303": {
+			"name": "Striped-Back Bullfrog"
+		},
+		"111197": {
+			"name": "Anax"
+		},
+		"111216": {
+			"name": "Ambervale Darter"
+		},
+		"127612": {
+			"name": "Echoing Croaker"
+		},
+		"140938": {
+			"name": "Croaker"
+		}
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"name": "Darker Grey & Tan Riverbeast",
+	"variant": "Darker Grey & Tan",
+	"npcs": {
+		"123651": {
+			"name": "Muddy Riverbeast"
+		},
+		"130754": {
+			"name": "Muddy Riverbeast"
+		},
+		"130757": {
+			"name": "Muddy Riverbeast"
+		},
+		"132244": {
+			"name": "Kiboku",
+			"title": "The Hillshaker"
+		},
+		"188704": {
+			"name": "Maneet",
+			"title": "Terror of the Swamp"
+		},
+		"193240": {
+			"name": "Riverwalker Tamopo",
+			"title": "Terror of the Shallows"
+		}
+	}
+}

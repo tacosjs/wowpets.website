@@ -1,0 +1,68 @@
+{
+	"id": "progenitorworm-darkred-moss",
+	"family": "worm",
+	"modelGroup": "annelids",
+	"npcs": [
+		{
+			"id": 182363,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "catalyst-gardens"
+				}
+			]
+		},
+		{
+			"id": 184804,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "untamed-verdure"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 183748,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "untamed-verdure"
+				}
+			]
+		},
+		{
+			"id": 183749,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "untamed-verdure"
+				}
+			]
+		}
+	]
+}

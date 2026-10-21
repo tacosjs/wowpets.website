@@ -1,0 +1,27 @@
+{
+	"name": "Blue Dreamsaber",
+	"variant": "Blue",
+	"npcs": {
+		"206551": {
+			"name": "Dreamsaber"
+		},
+		"210975": {
+			"name": "Listless Dreamsaber"
+		},
+		"212062": {
+			"name": "Elusive Dreamsaber"
+		},
+		"212066": {
+			"name": "Elusive Moonfang Dreamsaber"
+		},
+		"212588": {
+			"name": "Shiversnap Prowler"
+		},
+		"216691": {
+			"name": "Efflorescent Dreamsaber"
+		},
+		"216843": {
+			"name": "Awakened Dreamsaber"
+		}
+	}
+}

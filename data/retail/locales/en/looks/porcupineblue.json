@@ -1,0 +1,15 @@
+{
+	"name": "Gray Porcupine",
+	"variant": "Gray",
+	"npcs": {
+		"59772": {
+			"name": "Smoky Porcupine"
+		},
+		"146134": {
+			"name": "Speedy"
+		},
+		"146178": {
+			"name": "Azurespine"
+		}
+	}
+}

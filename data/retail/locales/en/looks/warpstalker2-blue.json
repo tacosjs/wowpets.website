@@ -1,0 +1,12 @@
+{
+	"name": "Ice Blue Wiry Warp Stalker",
+	"variant": "Ice Blue",
+	"npcs": {
+		"259106": {
+			"name": "Hal'hadar Leystalker"
+		},
+		"265254": {
+			"name": "Hal'hadar Leystalker"
+		}
+	}
+}

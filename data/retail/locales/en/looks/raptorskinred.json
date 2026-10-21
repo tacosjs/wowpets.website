@@ -1,0 +1,42 @@
+{
+	"name": "Red Raptor",
+	"variant": "Red",
+	"npcs": {
+		"1016": {
+			"name": "Highland Lashtail"
+		},
+		"3122": {
+			"name": "Bloodtalon Taillasher"
+		},
+		"3123": {
+			"name": "Bloodtalon Scythemaw"
+		},
+		"4351": {
+			"name": "Bloodfen Raptor"
+		},
+		"4352": {
+			"name": "Bloodfen Screecher"
+		},
+		"4356": {
+			"name": "Bloodfen Razormaw"
+		},
+		"4357": {
+			"name": "Bloodfen Lashtail"
+		},
+		"23741": {
+			"name": "Captured Raptor"
+		},
+		"36541": {
+			"name": "Subject Four"
+		},
+		"37083": {
+			"name": "Terrortooth Runner"
+		},
+		"37956": {
+			"name": "Bloodtalon Raptor"
+		},
+		"249608": {
+			"name": "Raging Raptor"
+		}
+	}
+}

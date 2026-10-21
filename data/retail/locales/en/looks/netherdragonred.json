@@ -1,0 +1,12 @@
+{
+	"name": "Red Arcane Wyrm",
+	"variant": "Red",
+	"npcs": {
+		"26761": {
+			"name": "Crazed Mana-Wyrm"
+		},
+		"50737": {
+			"name": "Acroniss"
+		}
+	}
+}

@@ -1,0 +1,99 @@
+{
+	"id": "eagle2wind-white-horns1",
+	"family": "birdofprey",
+	"modelGroup": "ohunas",
+	"npcs": [
+		{
+			"id": 188088,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "northern-part-of-the-zone"
+				}
+			]
+		},
+		{
+			"id": 212504,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "amirdrassil-dragon-isles-zone"
+				}
+			]
+		},
+		{
+			"id": 181215,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "maruukai"
+				}
+			]
+		},
+		{
+			"id": 193379,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "shikaar-highlands"
+				}
+			]
+		},
+		{
+			"id": 190022,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "ohniri-springs"
+				}
+			]
+		},
+		{
+			"id": 191355,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		191102,
+		195591
+	]
+}

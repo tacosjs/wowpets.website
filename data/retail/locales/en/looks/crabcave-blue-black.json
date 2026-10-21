@@ -1,0 +1,9 @@
+{
+	"name": "Blue & Black Cave Crab",
+	"variant": "Blue & Black",
+	"npcs": {
+		"239210": {
+			"name": "Fluorescent Trashpicker"
+		}
+	}
+}

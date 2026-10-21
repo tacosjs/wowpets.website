@@ -1,0 +1,163 @@
+{
+	"id": "rhinocerosbeetle-green",
+	"family": "beetle",
+	"modelGroup": "rhinocerosbeetles",
+	"npcs": [
+		{
+			"id": 193705,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "chittering-caverns"
+				}
+			]
+		},
+		{
+			"id": 195709,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "sylvan-glade"
+				}
+			]
+		},
+		{
+			"id": 198791,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-forbidden-reach"
+				}
+			]
+		},
+		{
+			"id": 256766,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "veilroot-clearing"
+				}
+			]
+		},
+		{
+			"id": 250509,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "den-of-echoes"
+				}
+			]
+		},
+		{
+			"id": 256870,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "teldrassil-roots"
+				}
+			]
+		},
+		{
+			"id": 203026,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-forbidden-reach",
+					"area": "caldera-of-the-menders"
+				}
+			]
+		},
+		{
+			"id": 200910,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-forbidden-reach",
+					"area": "caldera-of-the-menders"
+				}
+			]
+		},
+		{
+			"id": 240871,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "harmara"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		195360,
+		192379,
+		189574,
+		187484,
+		186714,
+		207072,
+		248127,
+		256225,
+		251251,
+		237249,
+		250335,
+		256303,
+		256304,
+		209504,
+		195400
+	]
+}

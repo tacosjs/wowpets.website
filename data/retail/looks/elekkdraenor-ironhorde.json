@@ -1,0 +1,22 @@
+{
+	"id": "elekkdraenor-ironhorde",
+	"family": "mammoth",
+	"modelGroup": "draenorelekks",
+	"npcs": [
+		{
+			"id": 85180,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "the-pit"
+				}
+			]
+		}
+	]
+}

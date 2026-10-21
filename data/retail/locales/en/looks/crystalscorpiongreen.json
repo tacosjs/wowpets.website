@@ -1,0 +1,21 @@
+{
+	"name": "Emerald Scorpion",
+	"variant": "Emerald",
+	"npcs": {
+		"108360": {
+			"name": "Acidmaw Scorpid"
+		},
+		"254094": {
+			"name": "Klaxid Moltling"
+		},
+		"255521": {
+			"name": "Shardstinger Hatchling"
+		},
+		"257110": {
+			"name": "Crystalback Klaxid"
+		},
+		"257136": {
+			"name": "Crystalback Klaxid"
+		}
+	}
+}

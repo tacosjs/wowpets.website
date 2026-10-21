@@ -1,0 +1,16 @@
+{
+	"name": "Orange Magmammoth w/ Shorter Tusks & Small Spikes",
+	"variant": "Orange Magmammoth w/ Shorter Tusks & Small Spikes",
+	"npcs": {
+		"191677": {
+			"name": "Magmammoth Calf"
+		},
+		"194625": {
+			"name": "Tame Magmammoth"
+		},
+		"197224": {
+			"name": "Tamed Magmammoth Calf",
+			"title": "Dragonbane Protector's Pet"
+		}
+	}
+}

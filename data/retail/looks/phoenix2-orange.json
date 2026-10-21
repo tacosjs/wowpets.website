@@ -1,0 +1,53 @@
+{
+	"id": "phoenix2-orange",
+	"family": "birdofprey",
+	"modelGroup": "phoenixes",
+	"npcs": [
+		{
+			"id": 195409,
+			"tameable": true,
+			"level": {
+				"min": 62,
+				"max": 72
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "nokhudon-hold"
+				}
+			]
+		},
+		{
+			"id": 246873,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods"
+				},
+				{
+					"zone": "zulaman"
+				},
+				{
+					"zone": "harandar"
+				},
+				{
+					"zone": "voidstorm"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		204110
+	]
+}

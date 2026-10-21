@@ -1,0 +1,39 @@
+{
+	"id": "warpstalkervoid-purpleaura",
+	"family": "warpstalker",
+	"modelGroup": "warpstalkers",
+	"npcs": [
+		{
+			"id": 225138,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "sanguine-grasps"
+				}
+			],
+			"retired": true
+		},
+		{
+			"id": 225139,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "sanguine-grasps"
+				}
+			],
+			"retired": true
+		}
+	]
+}

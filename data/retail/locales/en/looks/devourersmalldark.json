@@ -1,0 +1,51 @@
+{
+	"name": "Dark Blue Animite",
+	"variant": "Dark Blue Animite",
+	"npcs": {
+		"159676": {
+			"name": "Animus Mite"
+		},
+		"160421": {
+			"name": "Devourer Mite"
+		},
+		"160758": {
+			"name": "Enticed Mite"
+		},
+		"160811": {
+			"name": "Encroaching Mite"
+		},
+		"160812": {
+			"name": "Encroaching Mite"
+		},
+		"163961": {
+			"name": "Invasive Mite"
+		},
+		"168374": {
+			"name": "Thirsting Mite"
+		},
+		"168802": {
+			"name": "Experiment Subject"
+		},
+		"181110": {
+			"name": "Scavenging Animite"
+		},
+		"181723": {
+			"name": "Insatiable Mite"
+		},
+		"183515": {
+			"name": "Ravenous Mite"
+		},
+		"184588": {
+			"name": "Insatiable Mite"
+		},
+		"232806": {
+			"name": "Rift Mite"
+		},
+		"235051": {
+			"name": "Webbed Devourer"
+		},
+		"238398": {
+			"name": "Hungry Trashmite"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Red Butterfly",
+	"variant": "Red",
+	"npcs": {
+		"211020": {
+			"name": "Dizzying Flutterer"
+		}
+	}
+}

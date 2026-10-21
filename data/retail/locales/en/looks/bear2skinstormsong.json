@@ -1,0 +1,33 @@
+{
+	"name": "Tawny Bear",
+	"variant": "Tawny",
+	"npcs": {
+		"134262": {
+			"name": "Honey Bear"
+		},
+		"139793": {
+			"name": "Barbedclaw Grizzly"
+		},
+		"140061": {
+			"name": "Grizzlefur Den-Mother"
+		},
+		"140064": {
+			"name": "Bloodsoaked Grizzlefur"
+		},
+		"221690": {
+			"name": "Strength of Beledar"
+		},
+		"224106": {
+			"name": "Hallowfall Bear"
+		},
+		"224109": {
+			"name": "Hallowfall Matriarch"
+		},
+		"224496": {
+			"name": "Hallowfall Bear"
+		},
+		"256589": {
+			"name": "Void-Corrupted Matriarch"
+		}
+	}
+}

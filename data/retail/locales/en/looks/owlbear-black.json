@@ -1,0 +1,9 @@
+{
+	"name": "Dark Umbraclaw",
+	"variant": "Dark",
+	"npcs": {
+		"212028": {
+			"name": "Umbraclaw Forager"
+		}
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"id": "dogprimal-red-spikes",
+	"family": "hound",
+	"modelGroup": "bakars",
+	"npcs": [
+		{
+			"id": 193168,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "toghusuq-village"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 194047,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		},
+		{
+			"id": 196697,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "eons-fringe"
+				}
+			]
+		}
+	]
+}

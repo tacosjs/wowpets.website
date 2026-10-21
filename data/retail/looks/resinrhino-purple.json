@@ -1,0 +1,41 @@
+{
+	"id": "resinrhino-purple",
+	"family": "direhorn",
+	"modelGroup": "chloroceroses",
+	"npcs": [
+		{
+			"id": 251561,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "harkuai"
+				}
+			]
+		},
+		{
+			"id": 237711,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "blooming-lattice"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		247783,
+		247090
+	]
+}

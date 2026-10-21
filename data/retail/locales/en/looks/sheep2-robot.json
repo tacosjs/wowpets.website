@@ -1,0 +1,16 @@
+{
+	"name": "Robotic Sheep",
+	"variant": "sheep2_robot",
+	"npcs": {
+		"24715": {
+			"name": "High Explosive Sheep",
+			"title": "Zelfan's Companion"
+		},
+		"48873": {
+			"name": "Tekton"
+		},
+		"50594": {
+			"name": "Exploding Sheep"
+		}
+	}
+}

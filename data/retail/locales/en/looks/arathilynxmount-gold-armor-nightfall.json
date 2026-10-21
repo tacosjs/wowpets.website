@@ -1,0 +1,10 @@
+{
+	"name": "Amber Lynx w/ Pale Armor",
+	"variant": "Amber Lynx w/ Pale Armor",
+	"npcs": {
+		"241341": {
+			"name": "Stoutheart",
+			"title": "Meradyth's Companion"
+		}
+	}
+}

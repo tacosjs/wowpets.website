@@ -1,0 +1,33 @@
+{
+	"name": "Light Brown Eagle",
+	"variant": "Light Brown",
+	"npcs": {
+		"44628": {
+			"name": "Golden Eagle"
+		},
+		"55443": {
+			"name": "Goldwing"
+		},
+		"58457": {
+			"name": "Silkfeather Hawk"
+		},
+		"60866": {
+			"name": "Upland Eagle"
+		},
+		"89829": {
+			"name": "Highcrag Eagle"
+		},
+		"97124": {
+			"name": "Spitefeather"
+		},
+		"112328": {
+			"name": "Canyon Soarer"
+		},
+		"156931": {
+			"name": "Silkfeather Hawk"
+		},
+		"164827": {
+			"name": "Sharpbeak Hawk"
+		}
+	}
+}

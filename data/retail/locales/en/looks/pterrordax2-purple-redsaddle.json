@@ -1,0 +1,12 @@
+{
+	"name": "Purple Pterrordax w/ Harness & Red Saddle",
+	"variant": "Purple Pterrordax w/ Harness & Red Saddle",
+	"npcs": {
+		"129759": {
+			"name": "Imprisoned Pterrordax"
+		},
+		"135537": {
+			"name": "Wounded Pterrordax"
+		}
+	}
+}

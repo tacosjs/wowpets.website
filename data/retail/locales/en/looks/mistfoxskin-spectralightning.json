@@ -1,0 +1,9 @@
+{
+	"name": "Lightning Spirit Fox",
+	"variant": "Lightning Spirit",
+	"npcs": {
+		"118244": {
+			"name": "Lightning Paw"
+		}
+	}
+}

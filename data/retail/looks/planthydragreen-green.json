@@ -1,0 +1,118 @@
+{
+	"id": "planthydragreen-green",
+	"family": "hydra",
+	"modelGroup": "mandragoras",
+	"npcs": [
+		{
+			"id": 80699,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "affliction-ridge"
+				}
+			]
+		},
+		{
+			"id": 84406,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "steamscar-rise"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 82722,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "murkbog"
+				}
+			]
+		},
+		{
+			"id": 256234,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "harandar"
+				}
+			]
+		},
+		{
+			"id": 249329,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "gloom-mire"
+				}
+			]
+		},
+		{
+			"id": 84309,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostwall",
+					"area": "lunarfall"
+				}
+			]
+		},
+		{
+			"id": 82396,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "affliction-ridge"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		252847,
+		248577,
+		169207,
+		169206
+	]
+}

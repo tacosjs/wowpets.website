@@ -1,0 +1,34 @@
+{
+	"name": "Buff Elekk",
+	"variant": "Buff",
+	"npcs": {
+		"75484": {
+			"name": "Kuu'rat",
+			"title": "The Ivory Death"
+		},
+		"78459": {
+			"name": "Tenderhoof Meadowstomper"
+		},
+		"78462": {
+			"name": "Territorial Meadowstomper"
+		},
+		"81745": {
+			"name": "Elekk"
+		},
+		"83664": {
+			"name": "Domesticated Elekk"
+		},
+		"87083": {
+			"name": "Great-Tusk"
+		},
+		"87699": {
+			"name": "Rockhide Calf"
+		},
+		"87700": {
+			"name": "Rockhide Grazer"
+		},
+		"259365": {
+			"name": "War Elekk"
+		}
+	}
+}

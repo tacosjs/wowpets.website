@@ -1,0 +1,30 @@
+{
+	"name": "Brown Vulture",
+	"variant": "Brown",
+	"npcs": {
+		"199": {
+			"name": "Young Fleshripper"
+		},
+		"1109": {
+			"name": "Fleshripper"
+		},
+		"4695": {
+			"name": "Carrion Horror"
+		},
+		"47202": {
+			"name": "Diseased Vulture"
+		},
+		"51726": {
+			"name": "Greater Roc"
+		},
+		"51760": {
+			"name": "Carrion Bird"
+		},
+		"142400": {
+			"name": "Farmland Scavenger"
+		},
+		"157143": {
+			"name": "Arid Bonepicker"
+		}
+	}
+}

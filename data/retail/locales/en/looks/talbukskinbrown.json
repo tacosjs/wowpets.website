@@ -1,0 +1,9 @@
+{
+	"name": "Brown Talbuk",
+	"variant": "Brown",
+	"npcs": {
+		"17131": {
+			"name": "Talbuk Thorngrazer"
+		}
+	}
+}

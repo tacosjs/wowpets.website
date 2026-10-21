@@ -1,0 +1,180 @@
+{
+	"id": "rhinocerosbeetle-violet",
+	"family": "beetle",
+	"modelGroup": "rhinocerosbeetles",
+	"npcs": [
+		{
+			"id": 186050,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 65
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "valdrakken"
+				}
+			]
+		},
+		{
+			"id": 196498,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "veiled-ossuary"
+				}
+			]
+		},
+		{
+			"id": 189762,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "passage-of-time"
+				}
+			]
+		},
+		{
+			"id": 189750,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "passage-of-time"
+				}
+			]
+		},
+		{
+			"id": 210799,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream"
+				}
+			]
+		},
+		{
+			"id": 192410,
+			"tameable": false,
+			"level": {
+				"min": 58,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-forbidden-reach",
+					"area": "the-old-weyrn-grounds"
+				}
+			]
+		},
+		{
+			"id": 194957,
+			"tameable": false,
+			"level": {
+				"min": 58,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-forbidden-reach",
+					"area": "caldera-of-the-menders"
+				}
+			]
+		},
+		{
+			"id": 199844,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-forbidden-reach",
+					"area": "caldera-of-the-menders"
+				}
+			]
+		},
+		{
+			"id": 203027,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-forbidden-reach",
+					"area": "caldera-of-the-menders"
+				}
+			]
+		},
+		{
+			"id": 195417,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "steelcliff-passage"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		196489,
+		193705,
+		195709,
+		196639,
+		194054,
+		187484,
+		195380,
+		186714,
+		207072,
+		256344,
+		256349,
+		256345,
+		248127,
+		256324,
+		251251,
+		245957,
+		237249,
+		250335,
+		256304,
+		256303,
+		209504,
+		240871
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"name": "Orange Doe",
+	"variant": "Orange",
+	"npcs": {
+		"108891": {
+			"name": "Runewood Doe"
+		},
+		"110043": {
+			"name": "Heartwood Doe"
+		},
+		"127807": {
+			"name": "Mountain Doe"
+		},
+		"140087": {
+			"name": "Pinegraze Doe"
+		},
+		"214223": {
+			"name": "Sun-Crested Doe"
+		}
+	}
+}

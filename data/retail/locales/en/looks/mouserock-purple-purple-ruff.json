@@ -1,0 +1,9 @@
+{
+	"name": "Purple Rock Mouse w/ Neck Ruff",
+	"variant": "Purple",
+	"npcs": {
+		"205204": {
+			"name": "Lugear Mouse"
+		}
+	}
+}

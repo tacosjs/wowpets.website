@@ -1,0 +1,63 @@
+{
+	"id": "serpantskinbrown",
+	"family": "serpent",
+	"modelGroup": "serpents",
+	"npcs": [
+		{
+			"id": 40657,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaris"
+				}
+			]
+		},
+		{
+			"id": 28011,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "sholazar-basin"
+				}
+			]
+		},
+		{
+			"id": 52224,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "northern-stranglethorn"
+				}
+			]
+		},
+		{
+			"id": 52173,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "northern-stranglethorn"
+				}
+			]
+		}
+	]
+}

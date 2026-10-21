@@ -1,0 +1,82 @@
+{
+	"id": "hyena2goblin-yellow",
+	"family": "hyena",
+	"modelGroup": "goblinhyenas",
+	"npcs": [
+		{
+			"id": 225789,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "undermine",
+					"area": "the-heaps-undermine"
+				}
+			]
+		},
+		{
+			"id": 225726,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "undermine",
+					"area": "venturewood"
+				}
+			]
+		},
+		{
+			"id": 238607,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "undermine",
+					"area": "the-heaps-undermine"
+				}
+			]
+		},
+		{
+			"id": 230995,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "undermine"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 227737,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "undermine",
+					"area": "venture-plaza"
+				}
+			]
+		}
+	]
+}

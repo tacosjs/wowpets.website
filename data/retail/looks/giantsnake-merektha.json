@@ -1,0 +1,18 @@
+{
+	"id": "giantsnake-merektha",
+	"family": "serpent",
+	"modelGroup": "cobras",
+	"npcs": [
+		{
+			"id": 133384,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "temple-of-sethraliss"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

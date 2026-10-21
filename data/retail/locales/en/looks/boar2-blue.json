@@ -1,0 +1,48 @@
+{
+	"name": "Black Boar",
+	"variant": "Black",
+	"npcs": {
+		"119": {
+			"name": "Longsnout"
+		},
+		"708": {
+			"name": "Small Crag Boar"
+		},
+		"1125": {
+			"name": "Crag Boar"
+		},
+		"3099": {
+			"name": "Dire Mottled Boar"
+		},
+		"22141": {
+			"name": "Quilbeast"
+		},
+		"34647": {
+			"name": "Barrens Boar"
+		},
+		"42357": {
+			"name": "Hulking Goretusk"
+		},
+		"43621": {
+			"name": "Targol"
+		},
+		"44089": {
+			"name": "Blackbelly Forager"
+		},
+		"46575": {
+			"name": "Darktusk Boar"
+		},
+		"75061": {
+			"name": "Young Boar"
+		},
+		"75536": {
+			"name": "Penned Squealer"
+		},
+		"229527": {
+			"name": "Sirentusk"
+		},
+		"234995": {
+			"name": "Wild Boar"
+		}
+	}
+}

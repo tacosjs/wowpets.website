@@ -1,0 +1,26 @@
+{
+	"id": "eagle2wind-horns1",
+	"family": "birdofprey",
+	"modelGroup": "ohunas",
+	"npcs": [
+		{
+			"id": 195876,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-nokhud-offensive"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		189373,
+		191102,
+		195591
+	]
+}

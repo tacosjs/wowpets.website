@@ -1,0 +1,27 @@
+{
+	"name": "Foggy Infernal Hellhound",
+	"variant": "Foggy",
+	"npcs": {
+		"91384": {
+			"name": "Helhound"
+		},
+		"97119": {
+			"name": "Shroud Hound"
+		},
+		"101971": {
+			"name": "Skeletal Misthound"
+		},
+		"105532": {
+			"name": "Helhound"
+		},
+		"114534": {
+			"name": "Helhound"
+		},
+		"115026": {
+			"name": "Helhound"
+		},
+		"138851": {
+			"name": "Soul Hunter"
+		}
+	}
+}

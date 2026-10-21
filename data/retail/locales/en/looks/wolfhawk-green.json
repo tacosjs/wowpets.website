@@ -1,0 +1,12 @@
+{
+	"name": "Green Wolfhawk",
+	"variant": "Green",
+	"npcs": {
+		"121624": {
+			"name": "Mavarnir"
+		},
+		"233293": {
+			"name": "Shaggy Greenwing"
+		}
+	}
+}

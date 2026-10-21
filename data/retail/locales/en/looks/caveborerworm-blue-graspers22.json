@@ -1,0 +1,24 @@
+{
+	"name": "Blue Jawcrawler w/ Full Graspers",
+	"variant": "Blue w/ Full Graspers",
+	"npcs": {
+		"223060": {
+			"name": "Elusive Cavern Borer"
+		},
+		"223080": {
+			"name": "Elusive Steelclaw Borer"
+		},
+		"226232": {
+			"name": "Elusive Razormouth Steelhide"
+		},
+		"227470": {
+			"name": "Siltbrood Jawcrawler"
+		},
+		"228045": {
+			"name": "Hilltop Broodmother"
+		},
+		"229074": {
+			"name": "Acidbreath Broodmother"
+		}
+	}
+}

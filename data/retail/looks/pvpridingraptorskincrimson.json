@@ -1,0 +1,10 @@
+{
+	"id": "pvpridingraptorskincrimson",
+	"family": "raptor",
+	"modelGroup": "armoredraptors",
+	"npcs": [],
+	"alsoNpcs": [
+		64638,
+		66142
+	]
+}

@@ -1,0 +1,71 @@
+{
+	"id": "thunderislebirdboss-green",
+	"family": "carrionbird",
+	"modelGroup": "teroclaws",
+	"npcs": [
+		{
+			"id": 77626,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "talador",
+					"area": "aruunas-desolation"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 79920,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "talador"
+				}
+			]
+		},
+		{
+			"id": 170860,
+			"tameable": true,
+			"level": {
+				"min": 57,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald"
+				}
+			]
+		},
+		{
+			"id": 70134,
+			"tameable": false,
+			"level": {
+				"min": 37,
+				"max": 37
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "throne-of-thunder",
+					"area": "roost-of-ji-kun"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,66 @@
+{
+	"id": "talbukdraenor-red",
+	"family": "stag",
+	"modelGroup": "draenortalbuks",
+	"npcs": [
+		{
+			"id": 78277,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-draenor"
+				}
+			]
+		},
+		{
+			"id": 78279,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-draenor"
+				}
+			]
+		},
+		{
+			"id": 82116,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-draenor",
+					"area": "lonely-falls"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 86729,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "nagrand-draenor"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

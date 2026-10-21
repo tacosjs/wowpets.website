@@ -1,0 +1,54 @@
+{
+	"name": "Brown Stag",
+	"variant": "Brown",
+	"npcs": {
+		"3816": {
+			"name": "Wild Buck"
+		},
+		"4018": {
+			"name": "Antlered Courser"
+		},
+		"4019": {
+			"name": "Great Courser"
+		},
+		"8761": {
+			"name": "Mosshoof Courser"
+		},
+		"26363": {
+			"name": "Tallhorn Stag"
+		},
+		"31236": {
+			"name": "Dappled Stag"
+		},
+		"33311": {
+			"name": "Darkshore Stag"
+		},
+		"34318": {
+			"name": "Whitetail Stag"
+		},
+		"35096": {
+			"name": "Weakened Mosshoof Stag"
+		},
+		"37786": {
+			"name": "Brown Stag"
+		},
+		"39588": {
+			"name": "Hyjal Stag"
+		},
+		"40193": {
+			"name": "Sharphorn Stag"
+		},
+		"46970": {
+			"name": "Highland Elk"
+		},
+		"47263": {
+			"name": "Fleeing Stag"
+		},
+		"48184": {
+			"name": "Hill Stag"
+		},
+		"140735": {
+			"name": "Whitetail Stag"
+		}
+	}
+}

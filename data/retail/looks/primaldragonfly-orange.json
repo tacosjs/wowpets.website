@@ -1,0 +1,154 @@
+{
+	"id": "primaldragonfly-orange",
+	"family": "waterstrider",
+	"modelGroup": "skitterflies",
+	"npcs": [
+		{
+			"id": 198592,
+			"tameable": true,
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "serene-dreams-spa"
+				}
+			],
+			"level": {
+				"min": 1,
+				"max": 1
+			}
+		},
+		{
+			"id": 189051,
+			"tameable": true,
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "tyrhold-reservoir"
+				}
+			],
+			"level": {
+				"min": 1,
+				"max": 1
+			}
+		},
+		{
+			"id": 191061,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "gorloc-shore"
+				}
+			]
+		},
+		{
+			"id": 191365,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "the-cascades"
+				}
+			]
+		},
+		{
+			"id": 193302,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "the-cascades"
+				}
+			]
+		},
+		{
+			"id": 184856,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "wild-coast"
+				}
+			]
+		},
+		{
+			"id": 184855,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "wild-coast"
+				}
+			]
+		},
+		{
+			"id": 190362,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "halls-of-infusion"
+				}
+			]
+		},
+		{
+			"id": 193030,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "valdrakken"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		189614,
+		183986,
+		192376,
+		183541,
+		196190,
+		185644,
+		189368,
+		191730,
+		193703,
+		185643,
+		198420
+	]
+}

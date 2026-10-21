@@ -1,0 +1,241 @@
+{
+	"id": "hyena2-dark",
+	"family": "hyena",
+	"modelGroup": "grandhyenas",
+	"npcs": [
+		{
+			"id": 4688,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "desolace"
+				}
+			]
+		},
+		{
+			"id": 35811,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "desolace"
+				}
+			]
+		},
+		{
+			"id": 4690,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "desolace"
+				}
+			]
+		},
+		{
+			"id": 4689,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "desolace"
+				}
+			]
+		},
+		{
+			"id": 4250,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "thousand-needles"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 27294,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dragonblight"
+				}
+			]
+		},
+		{
+			"id": 45202,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "uldum"
+				}
+			]
+		},
+		{
+			"id": 195273,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "darktooth-pond"
+				}
+			]
+		},
+		{
+			"id": 195272,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "darktooth-pond"
+				}
+			]
+		},
+		{
+			"id": 197667,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		},
+		{
+			"id": 195150,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "traitors-rest"
+				}
+			]
+		},
+		{
+			"id": 225697,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "the-verdant-gutters-gutterside-rocket-station"
+				}
+			]
+		},
+		{
+			"id": 225852,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "undermine",
+					"area": "tailgate-park"
+				}
+			]
+		},
+		{
+			"id": 60800,
+			"tameable": false,
+			"level": {
+				"min": 20,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "kun-lai-summit"
+				}
+			]
+		},
+		{
+			"id": 185691,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 69
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "brackenhide-hollow"
+				}
+			]
+		},
+		{
+			"id": 197123,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "brackenhide-hollow-the-azure-span"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		187565
+	]
+}

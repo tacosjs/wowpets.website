@@ -1,0 +1,128 @@
+{
+	"id": "sabertoothprimal-stripedorange",
+	"family": "cat",
+	"modelGroup": "rockfangs",
+	"npcs": [
+		{
+			"id": 195319,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "temporal-conflux"
+				}
+			]
+		},
+		{
+			"id": 196515,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "veiled-ossuary"
+				}
+			]
+		},
+		{
+			"id": 194085,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				},
+				{
+					"zone": "thaldraszus"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 194873,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "sylvan-glade"
+				}
+			]
+		},
+		{
+			"id": 195472,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "steelcliff-passage"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 190161,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		},
+		{
+			"id": 193666,
+			"tameable": false,
+			"level": {
+				"min": 71,
+				"max": 71
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "steelcliff-passage"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		187452,
+		192181,
+		193881
+	]
+}

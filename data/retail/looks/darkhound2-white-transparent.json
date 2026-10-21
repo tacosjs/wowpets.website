@@ -1,0 +1,36 @@
+{
+	"id": "darkhound2-white-transparent",
+	"family": "hound",
+	"modelGroup": "granddarkhounds",
+	"npcs": [
+		{
+			"id": 16178,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "karazhan"
+				}
+			]
+		},
+		{
+			"id": 157332,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "dredgewood-the-banewood"
+				}
+			]
+		}
+	]
+}

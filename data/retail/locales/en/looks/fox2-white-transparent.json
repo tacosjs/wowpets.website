@@ -1,0 +1,9 @@
+{
+	"name": "Spectral White Vulpin",
+	"variant": "Spectral White",
+	"npcs": {
+		"161530": {
+			"name": "Cloudtail"
+		}
+	}
+}

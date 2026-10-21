@@ -1,0 +1,67 @@
+{
+	"id": "falcosauros-green",
+	"family": "raptor",
+	"modelGroup": "falcosaurs",
+	"npcs": [
+		{
+			"id": 115664,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valsharah",
+					"area": "verdant-cliffs"
+				}
+			]
+		},
+		{
+			"id": 115668,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "valsharah",
+					"area": "verdant-cliffs"
+				}
+			]
+		},
+		{
+			"id": 115676,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valsharah",
+					"area": "verdant-cliffs"
+				}
+			]
+		},
+		{
+			"id": 115672,
+			"tameable": true,
+			"level": {
+				"min": 46,
+				"max": 46
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "valsharah",
+					"area": "verdant-cliffs"
+				}
+			]
+		}
+	]
+}

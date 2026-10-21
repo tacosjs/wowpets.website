@@ -1,0 +1,36 @@
+{
+	"name": "Black Slyvern",
+	"variant": "Black",
+	"npcs": {
+		"187489": {
+			"name": "Slyvern Pup"
+		},
+		"189852": {
+			"name": "Shadepelt Prowler"
+		},
+		"190964": {
+			"name": "Primal Slyvern"
+		},
+		"192169": {
+			"name": "Mature Slyvern"
+		},
+		"192938": {
+			"name": "Nimblewing Striker"
+		},
+		"193068": {
+			"name": "Sylvie"
+		},
+		"193438": {
+			"name": "Snowypelt Slyvern"
+		},
+		"194102": {
+			"name": "Elusive Elder Slyvern"
+		},
+		"195708": {
+			"name": "Ailing Snowypelt Slyvern"
+		},
+		"196057": {
+			"name": "Coastal Slyvern"
+		}
+	}
+}

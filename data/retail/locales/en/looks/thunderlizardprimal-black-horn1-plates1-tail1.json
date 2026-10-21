@@ -1,0 +1,15 @@
+{
+	"name": "Simple Black Primal Thunder Lizard",
+	"variant": "Black",
+	"npcs": {
+		"191827": {
+			"name": "Thunder Lizard"
+		},
+		"193307": {
+			"name": "Thunder Lizard Calf"
+		},
+		"193859": {
+			"name": "Elusive Thunder Lizard"
+		}
+	}
+}

@@ -1,0 +1,134 @@
+{
+	"id": "pythonbrown",
+	"family": "serpent",
+	"modelGroup": "pythons",
+	"npcs": [
+		{
+			"id": 70448,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "throne-of-thunder",
+					"area": "grand-overlook"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 72841,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "timeless-isle"
+				}
+			]
+		},
+		{
+			"id": 87039,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nagrand-draenor"
+				}
+			]
+		},
+		{
+			"id": 92607,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaan-jungle",
+					"area": "zorammarsh"
+				}
+			]
+		},
+		{
+			"id": 89697,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaan-jungle",
+					"area": "zorammarsh"
+				}
+			]
+		},
+		{
+			"id": 123358,
+			"tameable": true,
+			"level": {
+				"min": 48,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "port-of-zemlan"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 135789,
+			"tameable": true,
+			"level": {
+				"min": 49,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "nathavor"
+				}
+			]
+		},
+		{
+			"id": 126894,
+			"tameable": true,
+			"level": {
+				"min": 49,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,35 @@
+{
+	"id": "hippogryphpurpleskin",
+	"family": "feathermane",
+	"modelGroup": "hippogryphs",
+	"npcs": [
+		{
+			"id": 5300,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "feralas"
+				}
+			]
+		},
+		{
+			"id": 108366,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "azsuna"
+				}
+			]
+		}
+	]
+}

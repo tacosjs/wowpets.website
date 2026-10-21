@@ -1,0 +1,27 @@
+{
+	"id": "rat2undermine-blackpatchy",
+	"family": "rodent",
+	"modelGroup": "rats",
+	"npcs": [
+		{
+			"id": 230867,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "undermine",
+					"area": "slam-central-station"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		234292,
+		235875,
+		235876
+	]
+}

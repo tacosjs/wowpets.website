@@ -1,0 +1,41 @@
+{
+	"id": "elitehippogryph",
+	"family": "feathermane",
+	"modelGroup": "grandhippogryphs",
+	"npcs": [
+		{
+			"id": 216706,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "amirdrassil-dragon-isles-zone",
+					"area": "viridescent-thicket-amirdrassil-dragon-isles-zone"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 233291,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "undermine",
+					"area": "bilgewater-flats"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		235022
+	]
+}

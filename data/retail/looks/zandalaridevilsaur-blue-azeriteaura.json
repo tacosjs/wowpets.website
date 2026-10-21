@@ -1,0 +1,23 @@
+{
+	"id": "zandalaridevilsaur-blue-azeriteaura",
+	"family": "devilsaur",
+	"modelGroup": "zandalaridevilsaurs",
+	"npcs": [
+		{
+			"id": 222690,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "ancient-falls"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

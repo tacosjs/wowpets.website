@@ -1,0 +1,105 @@
+{
+	"id": "tallstrider2-purple",
+	"family": "tallstrider",
+	"modelGroup": "grandtallstriders",
+	"npcs": [
+		{
+			"id": 50884,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "stonetalon-mountains"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 22807,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "terokkar-forest"
+				}
+			]
+		},
+		{
+			"id": 50886,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "swamp-of-sorrows",
+					"area": "misty-reed-strand"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 56753,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds",
+					"area": "singing-marshes"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 83708,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "korgalls-hovel"
+				}
+			]
+		},
+		{
+			"id": 55440,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "darkmoon-island",
+					"area": "the-darkmoon-faire"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		235000
+	]
+}

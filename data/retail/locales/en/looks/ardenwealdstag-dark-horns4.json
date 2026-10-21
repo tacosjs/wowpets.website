@@ -1,0 +1,15 @@
+{
+	"name": "Black & Purple Runestag w/ Webbed Horns",
+	"variant": "Black & Purple w/ Webbed Horns",
+	"npcs": {
+		"166187": {
+			"name": "Runestag"
+		},
+		"172073": {
+			"name": "Hazebroken Guardian"
+		},
+		"174356": {
+			"name": "Runestag"
+		}
+	}
+}

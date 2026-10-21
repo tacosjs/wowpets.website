@@ -1,0 +1,139 @@
+{
+	"id": "komododragon-orange",
+	"family": "lizard",
+	"modelGroup": "saurolisks",
+	"npcs": [
+		{
+			"id": 123714,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "blushwater-brook"
+				}
+			]
+		},
+		{
+			"id": 133356,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "blushwater-brook"
+				}
+			],
+			"keepsName": true,
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 127854,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "blood-coast"
+				}
+			]
+		},
+		{
+			"id": 127132,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "primal-wetlands"
+				}
+			]
+		},
+		{
+			"id": 141832,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley",
+					"area": "scalespine-hill"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 126984,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "arid-basin"
+				}
+			]
+		},
+		{
+			"id": 152035,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mechagon",
+					"area": "sourback-hideout"
+				}
+			]
+		},
+		{
+			"id": 126802,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "mistfall-cleft"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		123647,
+		124300,
+		124302
+	]
+}

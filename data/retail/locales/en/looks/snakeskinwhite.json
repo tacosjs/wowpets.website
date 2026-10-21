@@ -1,0 +1,12 @@
+{
+	"name": "White Snake",
+	"variant": "White",
+	"npcs": {
+		"8886": {
+			"name": "Deviate Python"
+		},
+		"140695": {
+			"name": "Albino Dreadfang"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Black & Yellow Cinderbee w/ Short Antennae",
+	"variant": "Black & Yellow Cinderbee w/ Short Antennae",
+	"npcs": {
+		"218865": {
+			"name": "Bee-let"
+		},
+		"223498": {
+			"name": "Bee-let"
+		}
+	}
+}

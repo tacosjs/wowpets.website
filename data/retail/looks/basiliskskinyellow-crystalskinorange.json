@@ -1,0 +1,21 @@
+{
+	"id": "basiliskskinyellow-crystalskinorange",
+	"family": "basilisk",
+	"modelGroup": "basilisks",
+	"npcs": [
+		{
+			"id": 56650,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-jade-forest"
+				}
+			]
+		}
+	]
+}

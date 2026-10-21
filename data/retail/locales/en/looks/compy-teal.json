@@ -1,0 +1,27 @@
+{
+	"name": "Teal Saurid",
+	"variant": "Teal",
+	"npcs": {
+		"58071": {
+			"name": "Trained Saurid"
+		},
+		"69244": {
+			"name": "Fierce Anklebiter"
+		},
+		"126631": {
+			"name": "Wild Saurid"
+		},
+		"127278": {
+			"name": "Skittering Feeder"
+		},
+		"127279": {
+			"name": "Skittering Feeder"
+		},
+		"130589": {
+			"name": "Roaming Nibbler"
+		},
+		"136018": {
+			"name": "Child of Jani"
+		}
+	}
+}

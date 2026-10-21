@@ -1,0 +1,12 @@
+{
+	"name": "Brown Mole w/ Small Nose, No Teeth",
+	"variant": "Brown w/ Small Nose, No Teeth",
+	"npcs": {
+		"213973": {
+			"name": "Snuffle Pup"
+		},
+		"219623": {
+			"name": "Flickerflame Dirtclaw"
+		}
+	}
+}

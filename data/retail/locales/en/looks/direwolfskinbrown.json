@@ -1,0 +1,12 @@
+{
+	"name": "Brown Worg",
+	"variant": "Brown",
+	"npcs": {
+		"17548": {
+			"name": "Tito"
+		},
+		"19458": {
+			"name": "Ripp"
+		}
+	}
+}

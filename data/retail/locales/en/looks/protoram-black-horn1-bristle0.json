@@ -1,0 +1,12 @@
+{
+	"name": "Mossy Brown Ramolith - Smaller Horns",
+	"variant": "Mossy Brown - Smaller Horns",
+	"npcs": {
+		"218191": {
+			"name": "Moss-Draped Ramolith"
+		},
+		"223187": {
+			"name": "Moss-Draped Ramolith"
+		}
+	}
+}

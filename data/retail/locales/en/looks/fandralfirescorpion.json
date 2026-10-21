@@ -1,0 +1,18 @@
+{
+	"name": "Fire Scorpion",
+	"variant": "Fiery",
+	"npcs": {
+		"105141": {
+			"name": "Emberspit Scorpion"
+		},
+		"123636": {
+			"name": "Lost Emberspit Scorpion"
+		},
+		"211242": {
+			"name": "Roiling Deathstalker"
+		},
+		"213696": {
+			"name": "Molten Scorpid"
+		}
+	}
+}

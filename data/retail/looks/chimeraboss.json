@@ -1,0 +1,49 @@
+{
+	"id": "chimeraboss",
+	"family": "hydra",
+	"modelGroup": "chimerichydras",
+	"npcs": [
+		{
+			"id": 133298,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "uldir",
+					"area": "gallery-of-failures"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 237658,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "rift-of-aln"
+				}
+			]
+		},
+		{
+			"id": 241323,
+			"tameable": false,
+			"level": {
+				"min": 93,
+				"max": 93
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "rift-of-aln"
+				}
+			]
+		}
+	]
+}

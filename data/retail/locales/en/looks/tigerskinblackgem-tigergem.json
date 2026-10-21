@@ -1,0 +1,20 @@
+{
+	"name": "Obsidian Mystic Cat",
+	"variant": "Obsidian",
+	"npcs": {
+		"28115": {
+			"name": "Soo-holu"
+		},
+		"30001": {
+			"name": "Blackmaw",
+			"title": "Andurg's Pet"
+		},
+		"50815": {
+			"name": "Skarr"
+		},
+		"141168": {
+			"name": "Fluffy",
+			"title": "Kae't Manaslayer's Pet"
+		}
+	}
+}

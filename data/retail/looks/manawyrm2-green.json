@@ -1,0 +1,83 @@
+{
+	"id": "manawyrm2-green",
+	"family": "serpent",
+	"modelGroup": "eversongmanawyrms",
+	"npcs": [
+		{
+			"id": 255709,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "murder-row"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 236085,
+			"tameable": false,
+			"level": {
+				"min": 79,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "murder-row"
+				}
+			]
+		},
+		{
+			"id": 239629,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "murder-row"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 236902,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "murder-row"
+				}
+			]
+		},
+		{
+			"id": 234660,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "murder-row"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Blue Skyscreamer w/ Gold Harness",
+	"variant": "Blue Skyscreamer w/ Gold Harness",
+	"npcs": {
+		"70146": {
+			"name": "Thunderwing"
+		}
+	}
+}

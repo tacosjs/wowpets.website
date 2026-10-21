@@ -1,0 +1,45 @@
+{
+	"id": "mole-blue-nose1-teeth1-bumps1",
+	"family": "rodent",
+	"modelGroup": "moles",
+	"npcs": [
+		{
+			"id": 219799,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "brunwins-terrace"
+				}
+			]
+		},
+		{
+			"id": 218211,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "mourning-rise"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		213834,
+		229814,
+		215743,
+		230919,
+		227184,
+		211977
+	]
+}

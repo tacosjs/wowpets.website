@@ -1,0 +1,48 @@
+{
+	"name": "Brown Rugged Scorpion",
+	"variant": "Brown",
+	"npcs": {
+		"50154": {
+			"name": "Madexx"
+		},
+		"51673": {
+			"name": "Venomscale Spitter"
+		},
+		"85562": {
+			"name": "Skittering Doomstinger"
+		},
+		"122749": {
+			"name": "Deathsnap Caretaker"
+		},
+		"122750": {
+			"name": "Deathsnap Hatchling"
+		},
+		"123571": {
+			"name": "Deathsnap Carver"
+		},
+		"123572": {
+			"name": "Deathsnap Hatchling"
+		},
+		"124810": {
+			"name": "Scorpid Hatchling"
+		},
+		"131897": {
+			"name": "Stonelash Pincer"
+		},
+		"132887": {
+			"name": "Deathsting Hatchling"
+		},
+		"137332": {
+			"name": "Scorpashi Duneclaw"
+		},
+		"140107": {
+			"name": "Deathsting Lasher"
+		},
+		"162378": {
+			"name": "Venomscale Spitter"
+		},
+		"201852": {
+			"name": "Plagued Clicker"
+		}
+	}
+}

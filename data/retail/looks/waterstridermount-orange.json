@@ -1,0 +1,35 @@
+{
+	"id": "waterstridermount-orange",
+	"family": "waterstrider",
+	"modelGroup": "platedwaterstriders",
+	"npcs": [
+		{
+			"id": 60804,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "kun-lai-summit"
+				}
+			]
+		},
+		{
+			"id": 63755,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dread-wastes"
+				}
+			]
+		}
+	]
+}

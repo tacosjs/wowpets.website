@@ -1,0 +1,122 @@
+{
+	"id": "ridingdragonturtlegreen-epic",
+	"family": "turtle",
+	"modelGroup": "spikeddragonturtles",
+	"npcs": [
+		{
+			"id": 89891,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna",
+					"area": "hatecoil-warcamp"
+				}
+			]
+		},
+		{
+			"id": 134906,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "tol-dagor-non-instanced"
+				}
+			]
+		},
+		{
+			"id": 66462,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "townlong-steppes"
+				}
+			]
+		},
+		{
+			"id": 110838,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna",
+					"area": "timeworn-strand"
+				}
+			]
+		},
+		{
+			"id": 127477,
+			"tameable": true,
+			"level": {
+				"min": 51,
+				"max": 51
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "tol-dagor"
+				}
+			]
+		},
+		{
+			"id": 134805,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 63311,
+			"tameable": false,
+			"level": {
+				"min": 37,
+				"max": 37
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "arena-of-annihilation"
+				}
+			]
+		},
+		{
+			"id": 96053,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "the-veiled-isles"
+				}
+			]
+		}
+	]
+}

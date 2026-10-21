@@ -1,0 +1,12 @@
+{
+	"name": "Red Cinderbee w/ Long Antennae",
+	"variant": "Red w/ Long Antennae",
+	"npcs": {
+		"215575": {
+			"name": "Bee Line"
+		},
+		"222820": {
+			"name": "Cinderbee Knight"
+		}
+	}
+}

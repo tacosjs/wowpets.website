@@ -1,0 +1,53 @@
+{
+	"id": "tallstrider2-ivory",
+	"family": "tallstrider",
+	"modelGroup": "grandtallstriders",
+	"npcs": [
+		{
+			"id": 2957,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mulgore"
+				}
+			]
+		},
+		{
+			"id": 3246,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "northern-barrens"
+				}
+			]
+		},
+		{
+			"id": 113091,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-nightmare",
+					"area": "mulgore-the-emerald-nightmare"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		234999
+	]
+}

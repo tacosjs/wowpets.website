@@ -1,0 +1,18 @@
+{
+	"name": "White Stag",
+	"variant": "White",
+	"npcs": {
+		"129771": {
+			"name": "Athair"
+		},
+		"140091": {
+			"name": "Snowhoof"
+		},
+		"140248": {
+			"name": "Moonchaser the Swift"
+		},
+		"193420": {
+			"name": "Dessicated Deer"
+		}
+	}
+}

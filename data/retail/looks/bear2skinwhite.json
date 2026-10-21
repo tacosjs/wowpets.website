@@ -1,0 +1,251 @@
+{
+	"id": "bear2skinwhite",
+	"family": "bear",
+	"modelGroup": "bears",
+	"npcs": [
+		{
+			"id": 1961,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dun-morogh"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 24547,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "howling-fjord",
+					"area": "garvans-reef"
+				}
+			],
+			"keepsName": true,
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 139278,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "stagheart-cliffs"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 26482,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dragonblight"
+				}
+			]
+		},
+		{
+			"id": 48765,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "winterspring"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 7444,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "winterspring"
+				}
+			]
+		},
+		{
+			"id": 10806,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "winterspring"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 29319,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldrak"
+				}
+			]
+		},
+		{
+			"id": 29562,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-storm-peaks"
+				}
+			]
+		},
+		{
+			"id": 33053,
+			"tameable": false,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "darkshore"
+				}
+			]
+		},
+		{
+			"id": 140147,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 140148,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 27274,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "grizzly-hills"
+				}
+			]
+		},
+		{
+			"id": 29994,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-storm-peaks",
+					"area": "camp-tunkalo"
+				}
+			]
+		},
+		{
+			"id": 99638,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "the-menagerie"
+				}
+			]
+		},
+		{
+			"id": 216753,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "amirdrassil-dragon-isles-zone"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		224106,
+		224496,
+		224109,
+		249359
+	]
+}

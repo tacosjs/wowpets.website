@@ -1,0 +1,319 @@
+{
+	"id": "tarantula2-grey",
+	"family": "spider",
+	"modelGroup": "grandtarantulas",
+	"npcs": [
+		{
+			"id": 7319,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "teldrassil"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 14266,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "loch-modan"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 14279,
+			"tameable": true,
+			"level": {
+				"min": 7,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "hillsbrad-foothills"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 3821,
+			"tameable": true,
+			"level": {
+				"min": 7,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ashenvale"
+				}
+			]
+		},
+		{
+			"id": 3819,
+			"tameable": true,
+			"level": {
+				"min": 7,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ashenvale"
+				}
+			]
+		},
+		{
+			"id": 4005,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stonetalon-mountains"
+				}
+			]
+		},
+		{
+			"id": 2565,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "arathi-highlands"
+				}
+			]
+		},
+		{
+			"id": 2563,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "arathi-highlands"
+				}
+			]
+		},
+		{
+			"id": 14472,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "silithus"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 18983,
+			"tameable": true,
+			"level": {
+				"min": 22,
+				"max": 28
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-black-morass"
+				}
+			]
+		},
+		{
+			"id": 129805,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "shrouded-foothills"
+				}
+			],
+			"keepsName": true,
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 136341,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "terrace-of-the-fang"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 142333,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "arathi-highlands"
+				}
+			]
+		},
+		{
+			"id": 132766,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "battle-of-stromgarde"
+				}
+			]
+		},
+		{
+			"id": 132760,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "battle-of-stromgarde"
+				}
+			]
+		},
+		{
+			"id": 142334,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "battle-of-stromgarde"
+				}
+			]
+		},
+		{
+			"id": 7411,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "teldrassil",
+					"area": "the-oracle-glade"
+				}
+			]
+		},
+		{
+			"id": 134949,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 134905,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 20027,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-black-morass"
+				}
+			]
+		},
+		{
+			"id": 184303,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "uldaman-legacy-of-tyr"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		196426,
+		197408
+	]
+}

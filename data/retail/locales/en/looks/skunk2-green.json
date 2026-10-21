@@ -1,0 +1,9 @@
+{
+	"name": "Green Skunk",
+	"variant": "Green",
+	"npcs": {
+		"210075": {
+			"name": "Henri Snufftail"
+		}
+	}
+}

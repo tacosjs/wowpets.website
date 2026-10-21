@@ -1,0 +1,21 @@
+{
+	"id": "sandreaverskin-orange2",
+	"family": "aqiri",
+	"modelGroup": "sandreavers",
+	"npcs": [
+		{
+			"id": 15348,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "ruins-of-ahnqiraj"
+				}
+			],
+			"keepsName": true
+		}
+	],
+	"alsoNpcs": [
+		87251
+	]
+}

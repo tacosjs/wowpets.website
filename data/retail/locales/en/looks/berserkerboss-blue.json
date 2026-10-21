@@ -1,0 +1,40 @@
+{
+	"name": "Primal Blue Ultradon",
+	"variant": "Primal Blue Ultradon",
+	"npcs": {
+		"235498": {
+			"name": "Slavering Ultradon"
+		},
+		"240665": {
+			"name": "Voidborn Berserker"
+		},
+		"241617": {
+			"name": "Voidmarked Behemoth"
+		},
+		"243145": {
+			"name": "Relentless Ultradon"
+		},
+		"245937": {
+			"name": "Controlled Slaughterclaw"
+		},
+		"246916": {
+			"name": "Eminent Ultradon"
+		},
+		"247960": {
+			"name": "Rampaging Ultradon"
+		},
+		"249190": {
+			"name": "Dredonus"
+		},
+		"251439": {
+			"name": "Unshackled Ultradon"
+		},
+		"256607": {
+			"name": "Supreme Ultradon"
+		},
+		"259746": {
+			"name": "Griefspine Ultradon",
+			"title": "Alliance Guardian"
+		}
+	}
+}

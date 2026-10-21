@@ -1,0 +1,9 @@
+{
+	"name": "Orange Hermit Crab w/ Sandy Shell",
+	"variant": "Orange",
+	"npcs": {
+		"131693": {
+			"name": "Freshwater Hermit"
+		}
+	}
+}

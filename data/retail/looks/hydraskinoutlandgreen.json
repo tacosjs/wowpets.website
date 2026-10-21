@@ -1,0 +1,36 @@
+{
+	"id": "hydraskinoutlandgreen",
+	"family": "hydra",
+	"modelGroup": "outlandhydras",
+	"npcs": [
+		{
+			"id": 18105,
+			"tameable": true,
+			"level": {
+				"min": 12,
+				"max": 32
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-underbog"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 22884,
+			"tameable": true,
+			"level": {
+				"min": 32,
+				"max": 32
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "black-temple"
+				}
+			]
+		}
+	]
+}

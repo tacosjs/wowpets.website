@@ -1,0 +1,36 @@
+{
+	"name": "Black Bee",
+	"variant": "Black",
+	"npcs": {
+		"134147": {
+			"name": "Beehemoth"
+		},
+		"153365": {
+			"name": "Honeyback Hivemother"
+		},
+		"154114": {
+			"name": "Harvest Warden"
+		},
+		"155173": {
+			"name": "Honeyback Usurper"
+		},
+		"232152": {
+			"name": "Queen Bee"
+		},
+		"232208": {
+			"name": "Queen Bee"
+		},
+		"232395": {
+			"name": "Queen Bee"
+		},
+		"232601": {
+			"name": "Queen Bee"
+		},
+		"232605": {
+			"name": "Queen Bee"
+		},
+		"232613": {
+			"name": "Queen Bee"
+		}
+	}
+}

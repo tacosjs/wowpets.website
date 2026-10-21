@@ -1,0 +1,26 @@
+{
+	"id": "horse3-piebald-mane3",
+	"family": "courser",
+	"modelGroup": "horses",
+	"npcs": [
+		{
+			"id": 128478,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "norwington-estate"
+				}
+			],
+			"keepsName": true
+		}
+	],
+	"alsoNpcs": [
+		174412
+	]
+}

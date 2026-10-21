@@ -1,0 +1,133 @@
+{
+	"id": "faeriedragonmount",
+	"family": "lesserdragonkin",
+	"modelGroup": "feywings",
+	"npcs": [
+		{
+			"id": 82213,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "the-draakorium"
+				}
+			]
+		},
+		{
+			"id": 82195,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "the-draakorium"
+				}
+			]
+		},
+		{
+			"id": 82044,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor"
+				}
+			]
+		},
+		{
+			"id": 79673,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "the-shimmer-moor"
+				}
+			]
+		},
+		{
+			"id": 82096,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "the-draakorium"
+				}
+			]
+		},
+		{
+			"id": 71260,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 65
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "twilight-glade"
+				}
+			]
+		},
+		{
+			"id": 82762,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 65
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "talador"
+				},
+				{
+					"zone": "shadowmoon-valley"
+				},
+				{
+					"zone": "tanaan-jungle"
+				}
+			]
+		},
+		{
+			"id": 81930,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 65
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond"
+				},
+				{
+					"zone": "shadowmoon-valley"
+				}
+			]
+		}
+	]
+}

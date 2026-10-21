@@ -1,0 +1,18 @@
+{
+	"id": "molemountbasic-brown-saddle-red-nose1-teeth2",
+	"family": "rodent",
+	"modelGroup": "saddledmoles",
+	"npcs": [
+		{
+			"id": 210153,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "darkflame-cleft",
+					"area": "sprawling-trackyard"
+				}
+			]
+		}
+	]
+}

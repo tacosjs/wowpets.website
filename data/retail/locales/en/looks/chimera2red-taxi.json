@@ -1,0 +1,9 @@
+{
+	"name": "Saddled Red Rylak",
+	"variant": "Red",
+	"npcs": {
+		"77122": {
+			"name": "Thunderlord War Rylak"
+		}
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"name": "White Trigore",
+	"variant": "White",
+	"npcs": {
+		"235804": {
+			"name": "Malador",
+			"title": "Decimus' Watchdog"
+		},
+		"239417": {
+			"name": "Malador",
+			"title": "Decimus' Watchdog"
+		},
+		"246459": {
+			"name": "Fortamus"
+		},
+		"248938": {
+			"name": "Albino Trigore"
+		},
+		"255355": {
+			"name": "Trigore Primarch"
+		}
+	}
+}

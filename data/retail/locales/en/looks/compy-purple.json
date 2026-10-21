@@ -1,0 +1,15 @@
+{
+	"name": "Purple Saurid",
+	"variant": "Purple",
+	"npcs": {
+		"69311": {
+			"name": "Loa-Infused Saurid"
+		},
+		"126689": {
+			"name": "Sickly Saurid"
+		},
+		"137545": {
+			"name": "Coastal Saurid"
+		}
+	}
+}

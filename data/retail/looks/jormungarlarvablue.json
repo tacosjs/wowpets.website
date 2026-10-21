@@ -1,0 +1,340 @@
+{
+	"id": "jormungarlarvablue",
+	"family": "worm",
+	"modelGroup": "jormungar",
+	"npcs": [
+		{
+			"id": 25454,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "borean-tundra"
+				}
+			]
+		},
+		{
+			"id": 26293,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "dragonblight"
+				},
+				{
+					"zone": "hour-of-twilight"
+				}
+			]
+		},
+		{
+			"id": 30093,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldrak"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 30422,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-storm-peaks"
+				}
+			]
+		},
+		{
+			"id": 29390,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-storm-peaks"
+				}
+			]
+		},
+		{
+			"id": 30148,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-storm-peaks"
+				}
+			]
+		},
+		{
+			"id": 82616,
+			"tameable": true,
+			"level": {
+				"min": 41,
+				"max": 41
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "stonefury-cliffs"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 190730,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 140984,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 30014,
+			"tameable": false,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zuldrak"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 34799,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "crusaders-coliseum-trial-of-the-crusader"
+				}
+			]
+		},
+		{
+			"id": 34137,
+			"tameable": false,
+			"level": {
+				"min": 31,
+				"max": 31
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ulduar"
+				}
+			]
+		},
+		{
+			"id": 32882,
+			"tameable": false,
+			"level": {
+				"min": 32,
+				"max": 32
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ulduar"
+				}
+			]
+		},
+		{
+			"id": 82202,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-draenor",
+					"area": "hemets-happy-hunting-grounds"
+				}
+			]
+		},
+		{
+			"id": 88928,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-draenor",
+					"area": "hemets-happy-hunting-grounds"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 88929,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-draenor",
+					"area": "hemets-happy-hunting-grounds"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 88927,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-draenor",
+					"area": "hemets-happy-hunting-grounds"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 82711,
+			"tameable": false,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "stonefury-cliffs"
+				}
+			]
+		},
+		{
+			"id": 190319,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		},
+		{
+			"id": 193585,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		},
+		{
+			"id": 195012,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		215733
+	]
+}

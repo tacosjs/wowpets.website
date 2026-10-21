@@ -1,0 +1,75 @@
+{
+	"id": "ringwormred",
+	"family": "shalebeast",
+	"modelGroup": "gyreworms",
+	"npcs": [
+		{
+			"id": 43438,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "the-stonecore",
+					"area": "the-winding-halls"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 106665,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna",
+					"area": "leyhollow"
+				}
+			],
+			"keepsName": true,
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 44258,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "deepholm",
+					"area": "crumbling-depths"
+				}
+			]
+		},
+		{
+			"id": 48533,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "deepholm",
+					"area": "crumbling-depths"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

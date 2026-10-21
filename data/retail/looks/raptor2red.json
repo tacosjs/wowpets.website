@@ -1,0 +1,139 @@
+{
+	"id": "raptor2red",
+	"family": "raptor",
+	"modelGroup": "draenorraptors",
+	"npcs": [
+		{
+			"id": 85565,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "sulfur-basin"
+				}
+			]
+		},
+		{
+			"id": 86425,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond"
+				}
+			]
+		},
+		{
+			"id": 89742,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaan-jungle",
+					"area": "zorammarsh"
+				}
+			]
+		},
+		{
+			"id": 89745,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaan-jungle",
+					"area": "zorammarsh"
+				}
+			]
+		},
+		{
+			"id": 88951,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "nagrand-draenor"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 142312,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "battle-of-stromgarde"
+				}
+			]
+		},
+		{
+			"id": 142437,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "arathi-highlands"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 234997,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "razorwind-shores"
+				}
+			]
+		},
+		{
+			"id": 118269,
+			"tameable": false,
+			"level": {
+				"min": 63,
+				"max": 63
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ungoro-crater",
+					"area": "the-marshlands"
+				}
+			]
+		}
+	]
+}

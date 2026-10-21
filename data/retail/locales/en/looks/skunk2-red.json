@@ -1,0 +1,9 @@
+{
+	"name": "Orange Skunk",
+	"variant": "Orange",
+	"npcs": {
+		"211072": {
+			"name": "Smolderfur Skulker"
+		}
+	}
+}

@@ -1,0 +1,113 @@
+{
+	"id": "tripodblack",
+	"family": "waterstrider",
+	"modelGroup": "fenstriders",
+	"npcs": [
+		{
+			"id": 17882,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "the-underbog"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 79334,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "talador",
+					"area": "zangarra"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 22056,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "serpentshrine-cavern"
+				}
+			]
+		},
+		{
+			"id": 22299,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-underbog"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 82933,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "forlorn-delta"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 84643,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-draenor",
+					"area": "zangar-shore"
+				}
+			]
+		},
+		{
+			"id": 84642,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-draenor",
+					"area": "zangar-shore"
+				}
+			]
+		}
+	]
+}

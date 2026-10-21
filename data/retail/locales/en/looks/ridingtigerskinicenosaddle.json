@@ -1,0 +1,9 @@
+{
+	"name": "Icy Blue Saber Cat",
+	"variant": "Icy Blue",
+	"npcs": {
+		"7432": {
+			"name": "Frostsaber Stalker"
+		}
+	}
+}

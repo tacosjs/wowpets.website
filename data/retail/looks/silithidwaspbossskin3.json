@@ -1,0 +1,21 @@
+{
+	"id": "silithidwaspbossskin3",
+	"family": "wasp",
+	"modelGroup": "bosswasps",
+	"npcs": [
+		{
+			"id": 28086,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "sholazar-basin"
+				}
+			]
+		}
+	]
+}

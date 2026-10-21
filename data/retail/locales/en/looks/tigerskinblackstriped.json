@@ -1,0 +1,24 @@
+{
+	"name": "White-Striped Black Cat",
+	"variant": "White-Striped Black",
+	"npcs": {
+		"2070": {
+			"name": "Moonstalker Runt"
+		},
+		"2237": {
+			"name": "Moonstalker Sire"
+		},
+		"21723": {
+			"name": "Blackwind Sabercat"
+		},
+		"33127": {
+			"name": "Moonstalker"
+		},
+		"33131": {
+			"name": "Great Moonstalker Spirit"
+		},
+		"140738": {
+			"name": "Moonstalker"
+		}
+	}
+}

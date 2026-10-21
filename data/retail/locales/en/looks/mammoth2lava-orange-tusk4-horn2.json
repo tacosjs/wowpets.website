@@ -1,0 +1,12 @@
+{
+	"name": "Orange Magmammoth w/ Medium Tusks & Small Spikes",
+	"variant": "Orange",
+	"npcs": {
+		"191678": {
+			"name": "Magmammoth Crusher"
+		},
+		"193861": {
+			"name": "Elusive Magmammoth"
+		}
+	}
+}

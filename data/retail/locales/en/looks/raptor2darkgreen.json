@@ -1,0 +1,12 @@
+{
+	"name": "Dark Green Raptor",
+	"variant": "Dark Green",
+	"npcs": {
+		"86423": {
+			"name": "Jungle Wastetalon"
+		},
+		"92694": {
+			"name": "The Goreclaw"
+		}
+	}
+}

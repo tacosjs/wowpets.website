@@ -1,0 +1,49 @@
+{
+	"id": "lesserdragonkin",
+	"wowId": 303,
+	"icon": "inv_misc_head_dragon_nexus",
+	"spec": "ferocity",
+	"exotic": false,
+	"requiredSkill": "lesser-dragonkin",
+	"diet": [
+		"fish",
+		"raw-fish",
+		"meat",
+		"raw-meat"
+	],
+	"abilities": {
+		"basic": "claw",
+		"family": [
+			"shimmering-scales"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "dreamfeydarters"
+		},
+		{
+			"id": "feydarters"
+		},
+		{
+			"id": "veilwings"
+		},
+		{
+			"id": "hornswogs"
+		},
+		{
+			"id": "cloudserpents"
+		},
+		{
+			"id": "celestialcloudserpents"
+		},
+		{
+			"id": "feywings"
+		},
+		{
+			"id": "harnessedfeywings"
+		},
+		{
+			"id": "wilderlings"
+		}
+	]
+}

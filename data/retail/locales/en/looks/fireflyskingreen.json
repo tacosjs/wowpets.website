@@ -1,0 +1,39 @@
+{
+	"name": "Green Firefly",
+	"variant": "Green",
+	"npcs": {
+		"17732": {
+			"name": "Lykul Wasp"
+		},
+		"18132": {
+			"name": "Umbraglow Stinger"
+		},
+		"20198": {
+			"name": "Fenglow Stinger"
+		},
+		"44620": {
+			"name": "Marsh Hornet"
+		},
+		"48038": {
+			"name": "Ironwood Buzzer"
+		},
+		"56283": {
+			"name": "Tigerfly"
+		},
+		"59351": {
+			"name": "Emerald Fenfly"
+		},
+		"59768": {
+			"name": "Jadeglow Wasp"
+		},
+		"62386": {
+			"name": "Sapfly"
+		},
+		"109158": {
+			"name": "Underglow Locust"
+		},
+		"173114": {
+			"name": "Invasive Decayfly"
+		}
+	}
+}

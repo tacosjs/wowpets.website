@@ -1,0 +1,190 @@
+{
+	"id": "manawurm2black",
+	"family": "serpent",
+	"modelGroup": "manawyrms",
+	"npcs": [
+		{
+			"id": 16492,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "karazhan",
+					"area": "the-menagerie-karazhan"
+				}
+			]
+		},
+		{
+			"id": 41374,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "halls-of-origination",
+					"area": "seat-of-destruction"
+				}
+			]
+		},
+		{
+			"id": 41212,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "halls-of-origination",
+					"area": "seat-of-destruction"
+				}
+			]
+		},
+		{
+			"id": 113202,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "all-in"
+				}
+			]
+		},
+		{
+			"id": 191033,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "azure-archives"
+				}
+			]
+		},
+		{
+			"id": 18879,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "netherstorm"
+				}
+			]
+		},
+		{
+			"id": 70507,
+			"tameable": false,
+			"level": {
+				"min": 37,
+				"max": 37
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "throne-of-thunder",
+					"area": "forgotten-depths"
+				}
+			]
+		},
+		{
+			"id": 102351,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-arcway",
+					"area": "forgotten-library"
+				}
+			]
+		},
+		{
+			"id": 114770,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "suramar-city"
+				}
+			]
+		},
+		{
+			"id": 112955,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-nighthold",
+					"area": "shaldorei-terrace"
+				}
+			]
+		},
+		{
+			"id": 126788,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "telogrus-rift"
+				}
+			]
+		},
+		{
+			"id": 121674,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eredath",
+					"area": "shadowguard-incursion-eredath"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		122015,
+		19731,
+		180858,
+		190947
+	]
+}

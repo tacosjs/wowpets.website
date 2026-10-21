@@ -1,0 +1,34 @@
+{
+	"name": "Orange Firehawk",
+	"variant": "Orange Firehawk",
+	"npcs": {
+		"52649": {
+			"name": "Millagazor"
+		},
+		"52660": {
+			"name": "Fire Hawk"
+		},
+		"53102": {
+			"name": "Inferno Hawk"
+		},
+		"53245": {
+			"name": "Fire Hawk"
+		},
+		"53249": {
+			"name": "Fire Hawk Matriarch"
+		},
+		"53267": {
+			"name": "Andrazor",
+			"title": "Lord of Cinders"
+		},
+		"53648": {
+			"name": "Inferno Hawk"
+		},
+		"53786": {
+			"name": "Blazing Monstrosity"
+		},
+		"53791": {
+			"name": "Blazing Monstrosity"
+		}
+	}
+}

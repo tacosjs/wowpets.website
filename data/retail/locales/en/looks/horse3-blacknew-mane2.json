@@ -1,0 +1,9 @@
+{
+	"name": "Black Horse w/ Long Mane",
+	"variant": "Black w/ Long Mane",
+	"npcs": {
+		"210835": {
+			"name": "Wild Horse"
+		}
+	}
+}

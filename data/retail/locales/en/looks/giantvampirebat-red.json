@@ -1,0 +1,19 @@
+{
+	"name": "Red Dredbat",
+	"variant": "Red",
+	"npcs": {
+		"163059": {
+			"name": "Duskterror",
+			"title": "Terror of the Banewood"
+		},
+		"163166": {
+			"name": "Dreadbat Fearfeaster"
+		},
+		"165290": {
+			"name": "Harika the Horrid"
+		},
+		"178283": {
+			"name": "Scorched Dredbat"
+		}
+	}
+}

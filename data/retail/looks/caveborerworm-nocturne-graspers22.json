@@ -1,0 +1,51 @@
+{
+	"id": "caveborerworm-nocturne-graspers22",
+	"family": "worm",
+	"modelGroup": "jawcrawlers",
+	"npcs": [
+		{
+			"id": 218010,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "rak-ush"
+				}
+			]
+		},
+		{
+			"id": 214081,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "the-wormlands"
+				}
+			]
+		},
+		{
+			"id": 237452,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		}
+	]
+}

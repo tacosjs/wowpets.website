@@ -1,0 +1,57 @@
+{
+	"id": "dragonflyshadow",
+	"family": "wasp",
+	"modelGroup": "hookwasps",
+	"npcs": [
+		{
+			"id": 83444,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "murkbog"
+				}
+			]
+		},
+		{
+			"id": 84905,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "east-of-murkbog"
+				}
+			]
+		},
+		{
+			"id": 88041,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "east-of-murkbog"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

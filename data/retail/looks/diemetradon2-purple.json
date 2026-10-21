@@ -1,0 +1,23 @@
+{
+	"id": "diemetradon2-purple",
+	"family": "lizard",
+	"modelGroup": "diemetradons",
+	"npcs": [
+		{
+			"id": 152114,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "the-slough"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

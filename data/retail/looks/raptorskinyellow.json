@@ -1,0 +1,64 @@
+{
+	"id": "raptorskinyellow",
+	"family": "raptor",
+	"modelGroup": "raptors",
+	"npcs": [
+		{
+			"id": 2561,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "arathi-highlands"
+				}
+			]
+		},
+		{
+			"id": 2559,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "arathi-highlands"
+				}
+			]
+		},
+		{
+			"id": 1140,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "wetlands"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 65428,
+			"tameable": false,
+			"level": {
+				"min": 20,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "kun-lai-summit"
+				}
+			]
+		}
+	]
+}

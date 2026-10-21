@@ -1,0 +1,49 @@
+{
+	"id": "tier2ridingdirewolfskingray",
+	"family": "wolf",
+	"modelGroup": "saddledworgs",
+	"npcs": [
+		{
+			"id": 67344,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "krasarang-wilds"
+				}
+			]
+		},
+		{
+			"id": 68793,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "krasarang-wilds"
+				}
+			]
+		},
+		{
+			"id": 68157,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "krasarang-wilds"
+				}
+			]
+		}
+	]
+}

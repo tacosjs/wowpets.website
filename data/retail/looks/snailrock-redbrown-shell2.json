@@ -1,0 +1,69 @@
+{
+	"id": "snailrock-redbrown-shell2",
+	"family": "carapid",
+	"modelGroup": "rocksnails",
+	"npcs": [
+		{
+			"id": 227794,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn"
+				}
+			]
+		},
+		{
+			"id": 204553,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "glimmerogg"
+				}
+			]
+		},
+		{
+			"id": 203080,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "cascades-column"
+				}
+			]
+		},
+		{
+			"id": 202526,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "glimmerogg"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		202621
+	]
+}

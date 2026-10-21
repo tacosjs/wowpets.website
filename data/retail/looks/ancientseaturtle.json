@@ -1,0 +1,65 @@
+{
+	"id": "ancientseaturtle",
+	"family": "turtle",
+	"modelGroup": "ancientturtles",
+	"npcs": [
+		{
+			"id": 76954,
+			"tameable": true,
+			"level": {
+				"min": 11,
+				"max": 31
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blackfathom-deeps",
+					"area": "the-pool-of-askar"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 40341,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "mount-hyjal"
+				}
+			]
+		},
+		{
+			"id": 52414,
+			"tameable": false,
+			"level": {
+				"min": 36,
+				"max": 36
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zulgurub"
+				}
+			]
+		},
+		{
+			"id": 249603,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidscar-arena"
+				}
+			]
+		}
+	]
+}

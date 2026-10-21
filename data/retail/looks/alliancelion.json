@@ -1,0 +1,142 @@
+{
+	"id": "alliancelion",
+	"family": "cat",
+	"modelGroup": "grandlions",
+	"npcs": [
+		{
+			"id": 50159,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "twilight-highlands"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 157121,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "uldum",
+					"area": "surveyors-outpost"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 151809,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "uldum",
+					"area": "surveyors-outpost"
+				}
+			]
+		},
+		{
+			"id": 151948,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "uldum",
+					"area": "surveyors-outpost"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 48168,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "uldum"
+				}
+			]
+		},
+		{
+			"id": 46325,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "uldum",
+					"area": "ramkahen"
+				}
+			]
+		},
+		{
+			"id": 103631,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "the-menagerie"
+				}
+			]
+		},
+		{
+			"id": 162939,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "uldum",
+					"area": "ramkahen"
+				}
+			]
+		},
+		{
+			"id": 161113,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "vision-of-the-twisting-sands"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"name": "Blue Candlefly w/ Feathery Antennae",
+	"variant": "Blue w/ Feathery Antennae",
+	"npcs": {
+		"225231": {
+			"name": "Charmed Glowmite"
+		},
+		"251825": {
+			"name": "Shimmerspore Hatchling"
+		},
+		"256361": {
+			"name": "Valeflutter Firefly"
+		},
+		"256417": {
+			"name": "Seekmist Hatchling"
+		}
+	}
+}

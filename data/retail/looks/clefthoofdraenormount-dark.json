@@ -1,0 +1,37 @@
+{
+	"id": "clefthoofdraenormount-dark",
+	"family": "clefthoof",
+	"modelGroup": "draenorsaddledclefthooves",
+	"npcs": [
+		{
+			"id": 90124,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaan-jungle",
+					"area": "ironhold-harbor"
+				}
+			]
+		},
+		{
+			"id": 78364,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "rooters-pass"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,157 @@
+{
+	"id": "mistfoxskinarctic",
+	"family": "fox",
+	"modelGroup": "foxes",
+	"npcs": [
+		{
+			"id": 57797,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 20
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-wandering-isle-pandaren-starting-zone",
+					"area": "the-dawning-valley"
+				}
+			]
+		},
+		{
+			"id": 53704,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 20
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-wandering-isle-pandaren-starting-zone",
+					"area": "the-dawning-valley"
+				}
+			]
+		},
+		{
+			"id": 51077,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "elwynn-forest"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 45335,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ruins-of-gilneas"
+				}
+			]
+		},
+		{
+			"id": 110501,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "snowblind-cliffs-mesa"
+				}
+			]
+		},
+		{
+			"id": 49565,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "winterspring",
+					"area": "the-hidden-grove"
+				}
+			]
+		},
+		{
+			"id": 231153,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-wandering-isle-open-zone",
+					"area": "the-dawning-valley-the-wandering-isle-open-zone"
+				}
+			]
+		},
+		{
+			"id": 145030,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 145033,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 49161,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "winterspring"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		99647,
+		210854
+	]
+}

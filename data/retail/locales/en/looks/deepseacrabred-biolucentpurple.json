@@ -1,0 +1,12 @@
+{
+	"name": "Red Spiked Crab w/ Purple Markings",
+	"variant": "Red w/ Purple Markings",
+	"npcs": {
+		"58809": {
+			"name": "Glade Pincher"
+		},
+		"61091": {
+			"name": "Elder Viseclaw"
+		}
+	}
+}

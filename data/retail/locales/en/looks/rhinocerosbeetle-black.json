@@ -1,0 +1,48 @@
+{
+	"name": "Black Rhinoceros Beetle",
+	"variant": "Black",
+	"npcs": {
+		"189574": {
+			"name": "Terrace Stagbeetle"
+		},
+		"192379": {
+			"name": "Mountain Scarab"
+		},
+		"193643": {
+			"name": "Sand Burrower"
+		},
+		"194054": {
+			"name": "Mistbeetle"
+		},
+		"195360": {
+			"name": "Mountain Scarab"
+		},
+		"195380": {
+			"name": "Thaldraszian Hoverbug"
+		},
+		"195400": {
+			"name": "Swarming Mountain Scarab"
+		},
+		"196489": {
+			"name": "Algath'ar Gemshell"
+		},
+		"196639": {
+			"name": "Mistbeetle"
+		},
+		"198792": {
+			"name": "Dragonbane Beetle"
+		},
+		"202812": {
+			"name": "Infused Beetle"
+		},
+		"210943": {
+			"name": "Hissing Skitterbug"
+		},
+		"245527": {
+			"name": "Spineshield Beetle"
+		},
+		"245957": {
+			"name": "Underrift Beetle"
+		}
+	}
+}

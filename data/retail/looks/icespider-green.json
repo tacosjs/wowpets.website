@@ -1,0 +1,26 @@
+{
+	"id": "icespider-green",
+	"family": "spider",
+	"modelGroup": "icespiders",
+	"npcs": [
+		{
+			"id": 185811,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "shiverweb-vale"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		191716,
+		185812
+	]
+}

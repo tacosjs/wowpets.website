@@ -1,0 +1,15 @@
+{
+	"name": "Azerite Shale Worm",
+	"variant": "Azerite",
+	"npcs": {
+		"134005": {
+			"name": "Shalebiter"
+		},
+		"152136": {
+			"name": "Azerite Gorger"
+		},
+		"152836": {
+			"name": "Azerite Borer"
+		}
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"id": "deepseacrabred-black",
+	"family": "crab",
+	"modelGroup": "spikedcrabs",
+	"npcs": [
+		{
+			"id": 50952,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "thousand-needles"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 134789,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	]
+}

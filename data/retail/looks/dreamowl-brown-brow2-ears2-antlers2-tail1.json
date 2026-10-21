@@ -1,0 +1,43 @@
+{
+	"id": "dreamowl-brown-brow2-ears2-antlers2-tail1",
+	"family": "birdofprey",
+	"modelGroup": "dreamowls",
+	"npcs": [
+		{
+			"id": 210942,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "viridescent-thicket-peridot-coast"
+				}
+			]
+		},
+		{
+			"id": 209676,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "eye-of-ysera"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		209975,
+		212085,
+		210530,
+		213544
+	]
+}

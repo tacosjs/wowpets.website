@@ -1,0 +1,24 @@
+{
+	"name": "Red & Grey Ambystan",
+	"variant": "Red & Grey Ambystan",
+	"npcs": {
+		"181495": {
+			"name": "Qie"
+		},
+		"182375": {
+			"name": "E'rnee Duplicate"
+		},
+		"182379": {
+			"name": "E'rnee"
+		},
+		"183097": {
+			"name": "E'rnee"
+		},
+		"184488": {
+			"name": "E'rnee"
+		},
+		"184628": {
+			"name": "E'rnee Duplicate"
+		}
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"id": "fox2-white-transparent",
+	"family": "fox",
+	"modelGroup": "vulpin",
+	"npcs": [
+		{
+			"id": 161530,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "aspirants-crucible"
+				}
+			],
+			"keepsName": true,
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

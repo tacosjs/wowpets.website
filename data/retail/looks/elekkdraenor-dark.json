@@ -1,0 +1,158 @@
+{
+	"id": "elekkdraenor-dark",
+	"family": "mammoth",
+	"modelGroup": "draenorelekks",
+	"npcs": [
+		{
+			"id": 86743,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "nagrand-draenor"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 78387,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor"
+				}
+			]
+		},
+		{
+			"id": 78371,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor"
+				}
+			]
+		},
+		{
+			"id": 73686,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "gloomshade-grove-plains-of-serenity"
+				}
+			]
+		},
+		{
+			"id": 79149,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "the-burial-fields"
+				}
+			]
+		},
+		{
+			"id": 86852,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-draenor"
+				}
+			]
+		},
+		{
+			"id": 82173,
+			"tameable": false,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "great-tree-valuundira"
+				}
+			]
+		},
+		{
+			"id": 82172,
+			"tameable": false,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "hills-of-valuun"
+				}
+			]
+		},
+		{
+			"id": 81828,
+			"tameable": false,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "eventide-landing"
+				}
+			]
+		},
+		{
+			"id": 83704,
+			"tameable": false,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "talador",
+					"area": "shattrath-port-authority"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		87699,
+		259365
+	]
+}

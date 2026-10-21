@@ -1,0 +1,373 @@
+{
+	"id": "hyena2-orange",
+	"family": "hyena",
+	"modelGroup": "grandhyenas",
+	"npcs": [
+		{
+			"id": 4316,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "northern-barrens"
+				}
+			]
+		},
+		{
+			"id": 37086,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "southern-barrens"
+				}
+			]
+		},
+		{
+			"id": 5426,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaris"
+				}
+			]
+		},
+		{
+			"id": 50855,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "burning-steppes"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 45204,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "uldum"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 124287,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun"
+				}
+			]
+		},
+		{
+			"id": 124683,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "bonetrail-gulch"
+				}
+			]
+		},
+		{
+			"id": 124681,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "bonetrail-gulch"
+				}
+			]
+		},
+		{
+			"id": 138342,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "bouldered-bluffs"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 130405,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "bouldered-bluffs"
+				}
+			]
+		},
+		{
+			"id": 142755,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "bouldered-bluffs"
+				}
+			]
+		},
+		{
+			"id": 130406,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "bouldered-bluffs"
+				}
+			]
+		},
+		{
+			"id": 142780,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun"
+				}
+			]
+		},
+		{
+			"id": 135338,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "exiles-enclave"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 134744,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "the-eternal-spring"
+				}
+			]
+		},
+		{
+			"id": 135339,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "exiles-enclave"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 126644,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "arid-basin"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 78489,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blasted-lands",
+					"area": "dreadmaul-outpost"
+				}
+			]
+		},
+		{
+			"id": 191978,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "timbertooth-trail"
+				}
+			]
+		},
+		{
+			"id": 48199,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "uldum"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 48209,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "uldum"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 186665,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 68
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "brackenhide-hollow"
+				}
+			]
+		},
+		{
+			"id": 194855,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "fetid-encampment"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		192503,
+		225815,
+		235303,
+		230667,
+		185691,
+		187566,
+		187565,
+		197389,
+		197123
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"name": "Pale Direhorn",
+	"variant": "Pale",
+	"npcs": {
+		"69246": {
+			"name": "Hatchling Direhorn"
+		},
+		"70015": {
+			"name": "Primal Direhorn Hatchling"
+		},
+		"70019": {
+			"name": "Primal Direhorn"
+		},
+		"130741": {
+			"name": "Nol'ixwan",
+			"title": "The Ancient"
+		},
+		"133527": {
+			"name": "Juba the Scarred"
+		},
+		"136022": {
+			"name": "Child of Torcali"
+		}
+	}
+}

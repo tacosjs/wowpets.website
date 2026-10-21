@@ -1,0 +1,27 @@
+{
+	"id": "fox2-teal",
+	"family": "fox",
+	"modelGroup": "vulpin",
+	"npcs": [
+		{
+			"id": 166301,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "mists-of-tirna-scithe"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		166972,
+		166290,
+		163093,
+		170068
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Green Candlefly w/ Feathery Antennae",
+	"variant": "Green w/ Feathery Antennae",
+	"npcs": {
+		"221304": {
+			"name": "Frenzied Glowmite"
+		},
+		"223831": {
+			"name": "Firefly"
+		}
+	}
+}

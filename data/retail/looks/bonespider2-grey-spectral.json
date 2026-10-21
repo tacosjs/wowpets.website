@@ -1,0 +1,25 @@
+{
+	"id": "bonespider2-grey-spectral",
+	"family": "spider",
+	"modelGroup": "grandbonespiders",
+	"npcs": [
+		{
+			"id": 96323,
+			"tameable": false,
+			"level": {
+				"min": 40,
+				"max": 60
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "frostwall-lunarfall-garrisons"
+				},
+				{
+					"zone": "shadowmoon-valley-draenor"
+				}
+			]
+		}
+	]
+}

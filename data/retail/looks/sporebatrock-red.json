@@ -1,0 +1,177 @@
+{
+	"id": "sporebatrock-red",
+	"family": "ray",
+	"modelGroup": "shalewings",
+	"npcs": [
+		{
+			"id": 208662,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "slagfell-hold"
+				}
+			]
+		},
+		{
+			"id": 204381,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "molten-overflow"
+				}
+			]
+		},
+		{
+			"id": 210064,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "the-char"
+				}
+			]
+		},
+		{
+			"id": 211755,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "eye-of-ysera"
+				}
+			]
+		},
+		{
+			"id": 211651,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "eye-of-ysera"
+				}
+			]
+		},
+		{
+			"id": 202303,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "molten-overflow"
+				}
+			]
+		},
+		{
+			"id": 205235,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "molten-overflow"
+				}
+			]
+		},
+		{
+			"id": 207090,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "skystone-falls"
+				}
+			]
+		},
+		{
+			"id": 207560,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "eye-of-ysera"
+				}
+			]
+		},
+		{
+			"id": 207025,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "slagfell-hold"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 208187,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "eye-of-ysera"
+				}
+			]
+		}
+	]
+}

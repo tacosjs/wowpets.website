@@ -1,0 +1,10 @@
+{
+	"name": "Spirit Leopard",
+	"variant": "harkoa",
+	"npcs": {
+		"32517": {
+			"name": "Loque'nahak",
+			"title": "Mate of Har'koa"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Classic Grey Beetle",
+	"variant": "Steel Grey & Maroon",
+	"npcs": {
+		"16698": {
+			"name": "Corpse Scarab"
+		}
+	}
+}

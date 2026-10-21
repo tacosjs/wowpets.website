@@ -1,0 +1,116 @@
+{
+	"id": "aqirscarab-purple",
+	"family": "beetle",
+	"modelGroup": "aqirscarabs",
+	"npcs": [
+		{
+			"id": 161280,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "uldum"
+				}
+			]
+		},
+		{
+			"id": 163154,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "uldum",
+					"area": "orsis"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 159405,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-city",
+					"area": "obsidian-overlook"
+				}
+			]
+		},
+		{
+			"id": 161217,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-city",
+					"area": "nyalotha"
+				}
+			]
+		},
+		{
+			"id": 162664,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-city",
+					"area": "nyalotha"
+				}
+			]
+		},
+		{
+			"id": 158477,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "uldum",
+					"area": "makers-ascent-obelisk-of-the-moon"
+				}
+			]
+		},
+		{
+			"id": 158527,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "uldum",
+					"area": "makers-ascent-obelisk-of-the-moon"
+				}
+			]
+		}
+	]
+}

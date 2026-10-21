@@ -1,0 +1,24 @@
+{
+	"name": "Brown Threadling",
+	"variant": "Brown Threadling",
+	"npcs": {
+		"24566": {
+			"name": "Nerub'ar Skitterer"
+		},
+		"26676": {
+			"name": "Anub'ar Invader"
+		},
+		"28258": {
+			"name": "Hath'ar Skimmer"
+		},
+		"28369": {
+			"name": "Burning Skimmer"
+		},
+		"30178": {
+			"name": "Ahn'kahar Swarmer"
+		},
+		"139860": {
+			"name": "Voru'kar Skitterer"
+		}
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"id": "pterrordax2-black",
+	"family": "pterrordax",
+	"modelGroup": "pterrordaxes",
+	"npcs": [
+		{
+			"id": 120593,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "shattered-river-zuljan-ruins"
+				}
+			]
+		},
+		{
+			"id": 126702,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "the-rivermarsh"
+				}
+			]
+		},
+		{
+			"id": 128343,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "at-the-primal-wetlands"
+				}
+			]
+		},
+		{
+			"id": 139546,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir"
+				}
+			]
+		},
+		{
+			"id": 134971,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "crackling-ridge"
+				}
+			]
+		},
+		{
+			"id": 129762,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "crackling-ridge"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"id": "unicornskinpurplezebra",
+	"family": "courser",
+	"modelGroup": "zhevras",
+	"npcs": [
+		{
+			"id": 5831,
+			"tameable": true,
+			"level": {
+				"min": 7,
+				"max": 32
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "northern-barrens"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 105644,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "the-menagerie"
+				}
+			]
+		}
+	]
+}

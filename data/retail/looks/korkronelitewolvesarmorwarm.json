@@ -1,0 +1,27 @@
+{
+	"id": "korkronelitewolvesarmorwarm",
+	"family": "wolf",
+	"modelGroup": "korkronwolves",
+	"npcs": [
+		{
+			"id": 71923,
+			"tameable": true,
+			"level": {
+				"min": 37,
+				"max": 37
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "siege-of-orgrimmar",
+					"area": "the-valley-of-strength"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

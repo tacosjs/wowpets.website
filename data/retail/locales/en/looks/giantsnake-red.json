@@ -1,0 +1,9 @@
+{
+	"name": "Red Cobra",
+	"variant": "Red",
+	"npcs": {
+		"261552": {
+			"name": "Bloodletter"
+		}
+	}
+}

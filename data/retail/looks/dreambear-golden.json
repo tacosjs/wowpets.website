@@ -1,0 +1,52 @@
+{
+	"id": "dreambear-golden",
+	"family": "bear",
+	"modelGroup": "dreambears",
+	"npcs": [
+		{
+			"id": 209936,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "haven-cascades"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 210953,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "root-bound-sanctuary"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		216697,
+		212070,
+		212041,
+		209614,
+		209616,
+		210977,
+		209491,
+		210507
+	]
+}

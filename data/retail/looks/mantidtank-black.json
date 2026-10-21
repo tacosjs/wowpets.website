@@ -1,0 +1,91 @@
+{
+	"id": "mantidtank-black",
+	"family": "aqiri",
+	"modelGroup": "kunchong",
+	"npcs": [
+		{
+			"id": 64717,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "dread-wastes",
+					"area": "clutches-of-shekzeer"
+				}
+			]
+		},
+		{
+			"id": 139538,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 62164,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "heart-of-fear",
+					"area": "dread-terrace"
+				}
+			]
+		},
+		{
+			"id": 153237,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms",
+					"area": "setting-sun-garrison"
+				}
+			]
+		},
+		{
+			"id": 153274,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms"
+				}
+			]
+		},
+		{
+			"id": 207923,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "tyrhold-reservoir"
+				}
+			]
+		}
+	]
+}

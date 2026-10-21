@@ -1,0 +1,10 @@
+{
+	"name": "Pale Pink Skyfiend",
+	"variant": "Pale Pink",
+	"npcs": {
+		"263016": {
+			"name": "Susarikk",
+			"title": "Spawn of the First Clutch"
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"id": "arathilynxmount-nightfall-armor-nightfall",
+	"family": "cat",
+	"modelGroup": "armoredlynxes",
+	"npcs": [],
+	"alsoNpcs": [
+		242998,
+		233262,
+		240907
+	]
+}

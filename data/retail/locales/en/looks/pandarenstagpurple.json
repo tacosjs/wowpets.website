@@ -1,0 +1,12 @@
+{
+	"name": "Patterned Puce Stag",
+	"variant": "Patterned Puce",
+	"npcs": {
+		"140268": {
+			"name": "Ano Forest-Keeper"
+		},
+		"140272": {
+			"name": "Forest-Strider"
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "hexeagle-black",
+	"family": "birdofprey",
+	"modelGroup": "hexedamanieagles",
+	"npcs": [
+		{
+			"id": 247572,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "maisara-caverns"
+				}
+			]
+		}
+	]
+}

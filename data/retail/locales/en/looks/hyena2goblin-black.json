@@ -1,0 +1,24 @@
+{
+	"name": "Beige Goblin Hyena w/ Black Armor",
+	"variant": "Beige w/ Black Armor",
+	"npcs": {
+		"227771": {
+			"name": "Watchful Hyena"
+		},
+		"229252": {
+			"name": "Darkfuse Hyena"
+		},
+		"231930": {
+			"name": "Obedient-ish Predator"
+		},
+		"231935": {
+			"name": "Junkyard Hyena"
+		},
+		"233786": {
+			"name": "Discontent Detector"
+		},
+		"235505": {
+			"name": "Darkfuse Cackler"
+		}
+	}
+}

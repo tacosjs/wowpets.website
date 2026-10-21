@@ -1,0 +1,82 @@
+{
+	"id": "hellhoundgreen-nofire",
+	"family": "hound",
+	"modelGroup": "infernalhellhounds",
+	"npcs": [
+		{
+			"id": 77026,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "talador",
+					"area": "telmor"
+				}
+			]
+		},
+		{
+			"id": 85828,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "talador",
+					"area": "gulrok"
+				}
+			]
+		},
+		{
+			"id": 79110,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "talador",
+					"area": "gulrok"
+				}
+			]
+		},
+		{
+			"id": 116115,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "crimson-thicket"
+				}
+			]
+		},
+		{
+			"id": 115755,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "felborne-outpost"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"name": "Rusty Mechanowolf",
+	"variant": "Rusty",
+	"npcs": {
+		"144246": {
+			"name": "K.U.-J.0."
+		},
+		"150254": {
+			"name": "Scraphound"
+		},
+		"150785": {
+			"name": "Chattertooth"
+		},
+		"229283": {
+			"name": "Scraps"
+		},
+		"234480": {
+			"name": "M.A.G.N.O."
+		}
+	}
+}

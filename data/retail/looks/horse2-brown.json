@@ -1,0 +1,40 @@
+{
+	"id": "horse2-brown",
+	"family": "courser",
+	"modelGroup": "dreamrunners",
+	"npcs": [
+		{
+			"id": 112637,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna",
+					"area": "eldranil-peak"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 91308,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		117206
+	]
+}

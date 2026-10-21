@@ -1,0 +1,13 @@
+{
+	"name": "Orange Phoenix",
+	"variant": "Orange",
+	"npcs": {
+		"195409": {
+			"name": "Makhra the Ashtouched",
+			"title": "Corrupted Child of Ohn'ahra"
+		},
+		"246873": {
+			"name": "Summoned Blazewing"
+		}
+	}
+}

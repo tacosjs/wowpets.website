@@ -1,0 +1,36 @@
+{
+	"id": "deepseacrab-ghost-spectral",
+	"family": "spiritbeast",
+	"modelGroup": "spiritcrabs",
+	"npcs": [
+		{
+			"id": 50051,
+			"tameable": true,
+			"level": {
+				"min": 38,
+				"max": 38
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "abyssal-depths"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 134795,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	]
+}

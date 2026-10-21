@@ -1,0 +1,21 @@
+{
+	"name": "Chartreuse Dreamrunner w/ Yellow Aura",
+	"variant": "Chartreuse w/ Yellow Aura",
+	"npcs": {
+		"109819": {
+			"name": "Wild Dreamrunner"
+		},
+		"112640": {
+			"name": "Charlie"
+		},
+		"115119": {
+			"name": "Injured Dreamrunner"
+		},
+		"247602": {
+			"name": "Spirit of Lake Elrendar"
+		},
+		"248457": {
+			"name": "Legendary Spirit"
+		}
+	}
+}

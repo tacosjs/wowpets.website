@@ -1,0 +1,17 @@
+{
+	"id": "mechadevilsaur-yellow",
+	"family": "mechanical",
+	"modelGroup": "mechanicaldevilsaurs",
+	"npcs": [
+		{
+			"id": 229181,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "liberation-of-undermine"
+				}
+			]
+		}
+	]
+}

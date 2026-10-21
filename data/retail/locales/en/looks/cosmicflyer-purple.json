@@ -1,0 +1,21 @@
+{
+	"name": "Purple Cosmic Ray",
+	"variant": "Purple",
+	"npcs": {
+		"230429": {
+			"name": "Voidglass Swooper"
+		},
+		"238492": {
+			"name": "Gale Stormray"
+		},
+		"239941": {
+			"name": "Wrathful Flyer"
+		},
+		"257574": {
+			"name": "Hungering Stormray"
+		},
+		"257575": {
+			"name": "Hungering Stormray"
+		}
+	}
+}

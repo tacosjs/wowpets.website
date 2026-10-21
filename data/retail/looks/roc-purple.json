@@ -1,0 +1,140 @@
+{
+	"id": "roc-purple",
+	"family": "birdofprey",
+	"modelGroup": "rocs",
+	"npcs": [
+		{
+			"id": 97345,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "darkfeather-valley"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 94986,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "highmountain"
+				}
+			]
+		},
+		{
+			"id": 108060,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "highmountain"
+				}
+			]
+		},
+		{
+			"id": 111975,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-emerald-nightmare"
+				}
+			]
+		},
+		{
+			"id": 184152,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "bluefeather-cliffs"
+				}
+			]
+		},
+		{
+			"id": 188288,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "bluefeather-cliffs"
+				}
+			]
+		},
+		{
+			"id": 184151,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "bluefeather-cliffs"
+				}
+			]
+		},
+		{
+			"id": 184481,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "bluefeather-cliffs"
+				}
+			]
+		},
+		{
+			"id": 185524,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "bluefeather-cliffs"
+				}
+			]
+		}
+	]
+}

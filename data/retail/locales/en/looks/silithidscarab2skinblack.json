@@ -1,0 +1,43 @@
+{
+	"name": "Grey & Red Beetle",
+	"variant": "Grey & Red",
+	"npcs": {
+		"7269": {
+			"name": "Scarab"
+		},
+		"8932": {
+			"name": "Borer Beetle"
+		},
+		"13160": {
+			"name": "Carrion Swarmer"
+		},
+		"15168": {
+			"name": "Vile Scarab"
+		},
+		"15316": {
+			"name": "Qiraji Scarab"
+		},
+		"21306": {
+			"name": "Cursed Scarab"
+		},
+		"25295": {
+			"name": "Nerub'ar Swarmer"
+		},
+		"65936": {
+			"name": "Harvester Swarm",
+			"title": "Silithid Harvester's Guardian"
+		},
+		"140324": {
+			"name": "Stonehusk Harvester"
+		},
+		"140326": {
+			"name": "Stonehusk Swarmer"
+		},
+		"140371": {
+			"name": "Egg-Tender Ny'xik"
+		},
+		"187415": {
+			"name": "Rocdrop Pudgepin"
+		}
+	}
+}

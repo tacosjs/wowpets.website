@@ -1,0 +1,21 @@
+{
+	"id": "mothskinyellow-bluewings",
+	"family": "moth",
+	"modelGroup": "moths",
+	"npcs": [
+		{
+			"id": 65799,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "krasarang-wilds"
+				}
+			]
+		}
+	]
+}

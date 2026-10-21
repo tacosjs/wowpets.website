@@ -1,0 +1,24 @@
+{
+	"name": "Black Gorm w/ Modified Head",
+	"variant": "Black w/ Modified Head",
+	"npcs": {
+		"163186": {
+			"name": "Gorm Secretor"
+		},
+		"164038": {
+			"name": "Darkwarren Spitter"
+		},
+		"164642": {
+			"name": "Bloodraged Spitter"
+		},
+		"169823": {
+			"name": "Gorm Behemoth"
+		},
+		"169974": {
+			"name": "Corrosive Gorm"
+		},
+		"169975": {
+			"name": "Gorm Spitter"
+		}
+	}
+}

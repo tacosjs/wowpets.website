@@ -1,0 +1,43 @@
+{
+	"name": "Crimson Wind Serpent",
+	"variant": "Crimson",
+	"npcs": {
+		"5307": {
+			"name": "Vale Screecher"
+		},
+		"45447": {
+			"name": "Arikara"
+		},
+		"130568": {
+			"name": "Razorwing Hatchling"
+		},
+		"131554": {
+			"name": "Invasive Razorwing"
+		},
+		"131555": {
+			"name": "Gloomtail"
+		},
+		"131558": {
+			"name": "Invasive Razorwing"
+		},
+		"132410": {
+			"name": "Feathered Viper"
+		},
+		"133321": {
+			"name": "Razorwing Defender",
+			"title": "Invasive Species Alpha"
+		},
+		"140359": {
+			"name": "Thunderhawk Devourer"
+		},
+		"140360": {
+			"name": "Sunback"
+		},
+		"151891": {
+			"name": "Lurking Razorwing Hatchling"
+		},
+		"193169": {
+			"name": "Juvenile Wind Serpent"
+		}
+	}
+}

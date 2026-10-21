@@ -1,0 +1,21 @@
+{
+	"name": "Blue Wasp",
+	"variant": "Blue",
+	"npcs": {
+		"50906": {
+			"name": "Mutilax"
+		},
+		"52376": {
+			"name": "Florawing Needler"
+		},
+		"52379": {
+			"name": "Venomtip Needler"
+		},
+		"65802": {
+			"name": "Krasari Hissing Wasp"
+		},
+		"65814": {
+			"name": "Krasari Hissing Waspling"
+		}
+	}
+}

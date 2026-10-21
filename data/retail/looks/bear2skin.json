@@ -1,0 +1,490 @@
+{
+	"id": "bear2skin",
+	"family": "bear",
+	"modelGroup": "bears",
+	"npcs": [
+		{
+			"id": 17345,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bloodmyst-isle"
+				}
+			]
+		},
+		{
+			"id": 17347,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bloodmyst-isle"
+				}
+			]
+		},
+		{
+			"id": 822,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "elwynn-forest"
+				}
+			]
+		},
+		{
+			"id": 33009,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "darkshore"
+				}
+			]
+		},
+		{
+			"id": 33905,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "darkshore"
+				}
+			]
+		},
+		{
+			"id": 1778,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "silverpine-forest"
+				}
+			]
+		},
+		{
+			"id": 2165,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "darkshore"
+				}
+			]
+		},
+		{
+			"id": 44638,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "loch-modan"
+				}
+			]
+		},
+		{
+			"id": 33978,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "darkshore"
+				}
+			]
+		},
+		{
+			"id": 34417,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "darkshore"
+				}
+			]
+		},
+		{
+			"id": 3810,
+			"tameable": true,
+			"level": {
+				"min": 7,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ashenvale"
+				}
+			]
+		},
+		{
+			"id": 34500,
+			"tameable": true,
+			"level": {
+				"min": 7,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ashenvale",
+					"area": "the-shady-nook"
+				}
+			]
+		},
+		{
+			"id": 24633,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "howling-fjord"
+				}
+			]
+		},
+		{
+			"id": 109521,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormheim",
+					"area": "bronzeleaf-thicket"
+				}
+			]
+		},
+		{
+			"id": 27131,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "grizzly-hills"
+				}
+			]
+		},
+		{
+			"id": 131697,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley"
+				}
+			]
+		},
+		{
+			"id": 136591,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley",
+					"area": "dire-hills"
+				}
+			]
+		},
+		{
+			"id": 106804,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "feathermane-hunting-grounds"
+				}
+			]
+		},
+		{
+			"id": 103785,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valsharah"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 144993,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "darkshore"
+				}
+			]
+		},
+		{
+			"id": 227652,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		},
+		{
+			"id": 248375,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "spiritpaw-borough"
+				}
+			]
+		},
+		{
+			"id": 257253,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "solemn-valley"
+				}
+			]
+		},
+		{
+			"id": 33903,
+			"tameable": false,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "darkshore"
+				}
+			]
+		},
+		{
+			"id": 33024,
+			"tameable": false,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "darkshore"
+				}
+			]
+		},
+		{
+			"id": 132849,
+			"tameable": false,
+			"level": {
+				"min": 9,
+				"max": 49
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 112644,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "emerald-dreamway"
+				}
+			]
+		},
+		{
+			"id": 109967,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormheim",
+					"area": "storms-reach"
+				}
+			]
+		},
+		{
+			"id": 140059,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 10204,
+			"tameable": false,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "blades-edge-mountains"
+				}
+			]
+		},
+		{
+			"id": 136301,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley",
+					"area": "windshorn-hills"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 259847,
+			"tameable": false,
+			"level": {
+				"min": 83,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-arcantina"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		227255,
+		227483,
+		226179,
+		223935,
+		227552,
+		227484,
+		227605,
+		227265,
+		250099,
+		249359,
+		250043,
+		250044,
+		254815,
+		255140,
+		250098,
+		155052,
+		240728,
+		249022,
+		241808
+	]
+}

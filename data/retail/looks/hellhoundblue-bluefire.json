@@ -1,0 +1,51 @@
+{
+	"id": "hellhoundblue-bluefire",
+	"family": "hound",
+	"modelGroup": "infernalhellhounds",
+	"npcs": [
+		{
+			"id": 126263,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "barrowknoll-cemetary"
+				}
+			]
+		},
+		{
+			"id": 168453,
+			"tameable": true,
+			"level": {
+				"min": 53,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "glutharns-decay"
+				}
+			]
+		},
+		{
+			"id": 140559,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	]
+}

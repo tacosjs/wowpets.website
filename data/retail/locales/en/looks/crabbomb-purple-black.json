@@ -1,0 +1,12 @@
+{
+	"name": "Orange & Black Bombshell Crab",
+	"variant": "Orange & Black",
+	"npcs": {
+		"229647": {
+			"name": "Cranky Bombling"
+		},
+		"229650": {
+			"name": "Resourceful Bombshell"
+		}
+	}
+}

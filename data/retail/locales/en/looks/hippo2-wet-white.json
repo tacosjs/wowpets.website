@@ -1,0 +1,9 @@
+{
+	"name": "Grey Riverbeast",
+	"variant": "Grey",
+	"npcs": {
+		"192833": {
+			"name": "Greenbelt Calf"
+		}
+	}
+}

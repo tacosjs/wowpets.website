@@ -1,0 +1,24 @@
+{
+	"name": "Diseased Black Wolf",
+	"variant": "Diseased",
+	"npcs": {
+		"1766": {
+			"name": "Rabid Worg"
+		},
+		"1817": {
+			"name": "Diseased Wolf"
+		},
+		"8959": {
+			"name": "Felpaw Wolf"
+		},
+		"8960": {
+			"name": "Felpaw Scavenger"
+		},
+		"23232": {
+			"name": "Mutant War Hound"
+		},
+		"46570": {
+			"name": "Putrid Worg"
+		}
+	}
+}

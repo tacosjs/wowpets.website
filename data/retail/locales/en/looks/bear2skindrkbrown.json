@@ -1,0 +1,74 @@
+{
+	"name": "Russet Brown Bear",
+	"variant": "Russet Brown",
+	"npcs": {
+		"3809": {
+			"name": "Ashenvale Bear"
+		},
+		"11956": {
+			"name": "Great Bear Spirit"
+		},
+		"17348": {
+			"name": "Elder Brown Bear"
+		},
+		"26644": {
+			"name": "Ursus Mauler"
+		},
+		"40819": {
+			"name": "Pacified Hyjal Bear"
+		},
+		"64976": {
+			"name": "Brownie",
+			"title": "Clog Den's Pet"
+		},
+		"90134": {
+			"name": "Llothien Grizzly"
+		},
+		"108499": {
+			"name": "Mountain Grizzly"
+		},
+		"108823": {
+			"name": "Halfdan",
+			"title": "Huntress Estrid's Pet"
+		},
+		"126929": {
+			"name": "Monstrous Grizzly"
+		},
+		"129002": {
+			"name": "Scruffhide Bear"
+		},
+		"130085": {
+			"name": "Enthralled Ashclaw"
+		},
+		"140058": {
+			"name": "Grizzlefur Patriarch"
+		},
+		"140060": {
+			"name": "Grizzlefur Bear"
+		},
+		"155052": {
+			"name": "Honey-Crazed Bear"
+		},
+		"186284": {
+			"name": "Gutchewer Bear"
+		},
+		"197134": {
+			"name": "Gutchewer Bear"
+		},
+		"241808": {
+			"name": "Territorial Matriarch"
+		},
+		"248374": {
+			"name": "Village Strongpaw"
+		},
+		"249022": {
+			"name": "Bramblemaw Bear"
+		},
+		"250098": {
+			"name": "Veinripper Matriarch"
+		},
+		"255140": {
+			"name": "Veinripper Matriarch"
+		}
+	}
+}

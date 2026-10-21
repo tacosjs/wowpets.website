@@ -1,0 +1,55 @@
+{
+	"id": "crabbomb-yellow-red",
+	"family": "crab",
+	"modelGroup": "bombcrabs",
+	"npcs": [
+		{
+			"id": 232318,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "undermine",
+					"area": "the-gallagio"
+				}
+			]
+		},
+		{
+			"id": 232419,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "undermine",
+					"area": "the-gallagio"
+				}
+			]
+		},
+		{
+			"id": 232420,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "undermine",
+					"area": "the-gallagio"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		238625
+	]
+}

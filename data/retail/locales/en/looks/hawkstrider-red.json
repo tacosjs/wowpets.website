@@ -1,0 +1,9 @@
+{
+	"name": "Red Hawkstrider",
+	"variant": "Red",
+	"npcs": {
+		"247384": {
+			"name": "Saddled Hawkstrider"
+		}
+	}
+}

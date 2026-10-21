@@ -1,0 +1,12 @@
+{
+	"name": "Blue Worm",
+	"variant": "Blue",
+	"npcs": {
+		"11789": {
+			"name": "Deep Borer"
+		},
+		"51026": {
+			"name": "Gnath"
+		}
+	}
+}

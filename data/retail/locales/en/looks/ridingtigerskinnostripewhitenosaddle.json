@@ -1,0 +1,9 @@
+{
+	"name": "White Saber Cat",
+	"variant": "White",
+	"npcs": {
+		"7433": {
+			"name": "Frostsaber Huntress"
+		}
+	}
+}

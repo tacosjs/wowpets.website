@@ -1,0 +1,46 @@
+{
+	"name": "Brown & Grey Snapdragon",
+	"variant": "Brown & Grey",
+	"npcs": {
+		"152363": {
+			"name": "Savage Snapdragon"
+		},
+		"153959": {
+			"name": "Savage Snapdragon"
+		},
+		"154181": {
+			"name": "Juvenile Snapdragon"
+		},
+		"154182": {
+			"name": "Broken Snapdragon"
+		},
+		"154756": {
+			"name": "Razortooth Snapdragon"
+		},
+		"155914": {
+			"name": "Zan'jir Snapdragon"
+		},
+		"156097": {
+			"name": "Savage Snapdragon"
+		},
+		"190193": {
+			"name": "Bound Shoresnapper",
+			"title": "Windyfin Squallstalker's Pet"
+		},
+		"193873": {
+			"name": "Elusive Snapdragon"
+		},
+		"233699": {
+			"name": "Churlish Snapdragon"
+		},
+		"235216": {
+			"name": "Starving Snapdragon Runt"
+		},
+		"235243": {
+			"name": "Maturing Prismatic Snapdragon"
+		},
+		"257830": {
+			"name": "Deeplurk Snapdragon"
+		}
+	}
+}

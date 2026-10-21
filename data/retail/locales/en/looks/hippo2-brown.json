@@ -1,0 +1,12 @@
+{
+	"name": "Rusty Riverbeast",
+	"variant": "Rusty",
+	"npcs": {
+		"128667": {
+			"name": "Sandscale Riverbeast"
+		},
+		"130022": {
+			"name": "Saltscale Riverbeast"
+		}
+	}
+}

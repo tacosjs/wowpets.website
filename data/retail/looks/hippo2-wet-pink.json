@@ -1,0 +1,81 @@
+{
+	"id": "hippo2-wet-pink",
+	"family": "riverbeast",
+	"modelGroup": "stockyriverbeasts",
+	"npcs": [
+		{
+			"id": 192654,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "clearwater-basin"
+				}
+			]
+		},
+		{
+			"id": 192834,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		},
+		{
+			"id": 129645,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "freehold"
+				}
+			]
+		},
+		{
+			"id": 194357,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "thunderspine-ridge"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		190282,
+		192594,
+		194079,
+		194075,
+		191686,
+		194145,
+		192597,
+		196017,
+		191684,
+		191687,
+		194144,
+		194078,
+		235013,
+		192596
+	]
+}

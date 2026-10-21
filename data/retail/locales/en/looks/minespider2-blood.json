@@ -1,0 +1,31 @@
+{
+	"name": "Red-Olive Spider",
+	"variant": "Red-Olive",
+	"npcs": {
+		"471": {
+			"name": "Mother Fang"
+		},
+		"574": {
+			"name": "Naraxis"
+		},
+		"20682": {
+			"name": "Terokkarantula"
+		},
+		"58568": {
+			"name": "Ashweb Hatchling"
+		},
+		"67087": {
+			"name": "Ashweb Hatchling"
+		},
+		"67099": {
+			"name": "Succula",
+			"title": "Waterbite Widow"
+		},
+		"113157": {
+			"name": "Spider"
+		},
+		"134908": {
+			"name": "Bloodfang"
+		}
+	}
+}

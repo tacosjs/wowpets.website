@@ -1,0 +1,22 @@
+{
+	"id": "trexskingreen",
+	"family": "devilsaur",
+	"modelGroup": "devilsaurs",
+	"npcs": [
+		{
+			"id": 32485,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "sholazar-basin"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

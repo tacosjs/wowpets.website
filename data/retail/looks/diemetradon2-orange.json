@@ -1,0 +1,10 @@
+{
+	"id": "diemetradon2-orange",
+	"family": "lizard",
+	"modelGroup": "diemetradons",
+	"npcs": [],
+	"alsoNpcs": [
+		144496,
+		123098
+	]
+}

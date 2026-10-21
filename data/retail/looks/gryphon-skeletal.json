@@ -1,0 +1,22 @@
+{
+	"id": "gryphon-skeletal",
+	"family": "feathermane",
+	"modelGroup": "skeletalgryphons",
+	"npcs": [
+		{
+			"id": 27241,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dragonblight",
+					"area": "wintergarde-keep"
+				}
+			]
+		}
+	]
+}

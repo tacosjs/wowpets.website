@@ -1,0 +1,18 @@
+{
+	"name": "Dark Brown Toad",
+	"variant": "Dark Brown",
+	"npcs": {
+		"72775": {
+			"name": "Bufo"
+		},
+		"75588": {
+			"name": "Grotto Toad"
+		},
+		"88674": {
+			"name": "Darkhide Leaper"
+		},
+		"89749": {
+			"name": "Marsh Gulper"
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"name": "Black Gazelle",
+	"variant": "Black",
+	"npcs": {
+		"4166": {
+			"name": "Gazelle"
+		},
+		"62763": {
+			"name": "Rikkilea Strider"
+		},
+		"134690": {
+			"name": "Ambermane Gazelle"
+		},
+		"134698": {
+			"name": "Ambermane Fawn"
+		}
+	}
+}

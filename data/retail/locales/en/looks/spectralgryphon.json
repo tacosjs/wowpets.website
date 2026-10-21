@@ -1,0 +1,9 @@
+{
+	"name": "Spectral Gryphon",
+	"variant": "spectralgryphon",
+	"npcs": {
+		"121567": {
+			"name": "Lost Spectral Gryphon"
+		}
+	}
+}

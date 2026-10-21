@@ -1,0 +1,22 @@
+{
+	"id": "argustalbuk-purple-horn2",
+	"family": "stag",
+	"modelGroup": "ruggedtalbuks",
+	"npcs": [
+		{
+			"id": 121564,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eredath",
+					"area": "isolon-basin"
+				}
+			]
+		}
+	]
+}

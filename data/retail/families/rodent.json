@@ -1,0 +1,58 @@
+{
+	"id": "rodent",
+	"wowId": 127,
+	"icon": "inv_pet_porcupine",
+	"spec": "cunning",
+	"exotic": false,
+	"diet": [
+		"fungus"
+	],
+	"abilities": {
+		"basic": "claw",
+		"family": [
+			"gnaw",
+			"rest-126364"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "capybaras"
+		},
+		{
+			"id": "rats"
+		},
+		{
+			"id": "moles"
+		},
+		{
+			"id": "saddledmoles"
+		},
+		{
+			"id": "skunks"
+		},
+		{
+			"id": "rockmice"
+		},
+		{
+			"id": "ottuks"
+		},
+		{
+			"id": "floweringcrystalspines"
+		},
+		{
+			"id": "beavers"
+		},
+		{
+			"id": "vombatas"
+		},
+		{
+			"id": "mawrats"
+		},
+		{
+			"id": "marsuul"
+		},
+		{
+			"id": "porcupines"
+		}
+	]
+}

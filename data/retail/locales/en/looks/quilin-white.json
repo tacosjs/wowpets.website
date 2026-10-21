@@ -1,0 +1,18 @@
+{
+	"name": "Purple-Grey Quilen",
+	"variant": "Purple-Grey",
+	"npcs": {
+		"59977": {
+			"name": "Dagou"
+		},
+		"61307": {
+			"name": "Yachi"
+		},
+		"131233": {
+			"name": "Lei-zhi"
+		},
+		"132807": {
+			"name": "Zian-Ti Quilen"
+		}
+	}
+}

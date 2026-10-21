@@ -1,0 +1,24 @@
+{
+	"name": "Green Diemetradon",
+	"variant": "Green",
+	"npcs": {
+		"21408": {
+			"name": "Felfire Diemetradon"
+		},
+		"21462": {
+			"name": "Greater Felfire Diemetradon"
+		},
+		"21897": {
+			"name": "Felspine the Greater"
+		},
+		"126725": {
+			"name": "Elder Diemetradon"
+		},
+		"126726": {
+			"name": "Young Diemetradon"
+		},
+		"205856": {
+			"name": "Un'Gorian Diemetradon"
+		}
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"id": "wyvernskinblue",
+	"family": "feathermane",
+	"modelGroup": "windriders",
+	"npcs": [
+		{
+			"id": 5928,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "stonetalon-mountains",
+					"area": "mirkfallon-lake"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

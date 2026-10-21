@@ -1,0 +1,163 @@
+{
+	"id": "tallstrider2-brown",
+	"family": "tallstrider",
+	"modelGroup": "grandtallstriders",
+	"npcs": [
+		{
+			"id": 17374,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 10
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azuremyst-isle"
+				}
+			]
+		},
+		{
+			"id": 167349,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 10
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "exiles-reach"
+				}
+			]
+		},
+		{
+			"id": 17373,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 10
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azuremyst-isle"
+				}
+			]
+		},
+		{
+			"id": 17372,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 10
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azuremyst-isle"
+				}
+			]
+		},
+		{
+			"id": 2955,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mulgore"
+				}
+			]
+		},
+		{
+			"id": 39337,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "durotar"
+				}
+			]
+		},
+		{
+			"id": 32997,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "darkshore",
+					"area": "grove-of-the-ancients"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 2321,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "darkshore"
+				}
+			]
+		},
+		{
+			"id": 3244,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "northern-barrens"
+				}
+			]
+		},
+		{
+			"id": 37085,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "southern-barrens"
+				}
+			]
+		},
+		{
+			"id": 234999,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "razorwing-shores"
+				}
+			]
+		}
+	]
+}

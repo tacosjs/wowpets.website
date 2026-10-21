@@ -1,0 +1,21 @@
+{
+	"name": "Red Darkhound",
+	"variant": "Red",
+	"npcs": {
+		"8921": {
+			"name": "Bloodhound"
+		},
+		"8922": {
+			"name": "Bloodhound Mastiff"
+		},
+		"9042": {
+			"name": "Verek"
+		},
+		"16181": {
+			"name": "Rokad the Ravager"
+		},
+		"144122": {
+			"name": "Bloodhound Mastiff"
+		}
+	}
+}

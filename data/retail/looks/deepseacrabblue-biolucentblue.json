@@ -1,0 +1,158 @@
+{
+	"id": "deepseacrabblue-biolucentblue",
+	"family": "crab",
+	"modelGroup": "spikedcrabs",
+	"npcs": [
+		{
+			"id": 111647,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eye-of-azshara-non-instanced"
+				}
+			]
+		},
+		{
+			"id": 134907,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "tol-dagor-non-instanced"
+				}
+			]
+		},
+		{
+			"id": 127381,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "tol-dagor"
+				}
+			]
+		},
+		{
+			"id": 63347,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dread-wastes"
+				}
+			]
+		},
+		{
+			"id": 60401,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "krasarang-wilds",
+					"area": "narsong-trench"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 99504,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "azuregale-bay"
+				}
+			]
+		},
+		{
+			"id": 102819,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "muddledeep-cavern"
+				}
+			]
+		},
+		{
+			"id": 141643,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-great-sea",
+					"area": "the-great-sea-quest-instance"
+				}
+			]
+		},
+		{
+			"id": 91793,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eye-of-azshara"
+				}
+			]
+		},
+		{
+			"id": 232080,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "siren-isle",
+					"area": "stormtide-dregs"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		93058,
+		154936
+	]
+}

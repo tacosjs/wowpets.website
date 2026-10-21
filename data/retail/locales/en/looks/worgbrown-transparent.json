@@ -1,0 +1,9 @@
+{
+	"name": "Ghostly Brown Saber Worg",
+	"variant": "Ghostly Brown",
+	"npcs": {
+		"50915": {
+			"name": "Snort"
+		}
+	}
+}

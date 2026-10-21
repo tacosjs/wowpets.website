@@ -1,0 +1,95 @@
+{
+	"id": "silithidscarab2skinyellow",
+	"family": "beetle",
+	"modelGroup": "grandbeetles",
+	"npcs": [
+		{
+			"id": 6555,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ungoro-crater"
+				}
+			]
+		},
+		{
+			"id": 11726,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "silithus"
+				}
+			]
+		},
+		{
+			"id": 10177,
+			"tameable": true,
+			"level": {
+				"min": 19,
+				"max": 29
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blackrock-spire"
+				}
+			]
+		},
+		{
+			"id": 140591,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "uldir",
+					"area": "archives-of-eternity"
+				}
+			]
+		},
+		{
+			"id": 140376,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 140378,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		5409
+	]
+}

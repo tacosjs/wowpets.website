@@ -1,0 +1,70 @@
+{
+	"id": "fox2-blue",
+	"family": "fox",
+	"modelGroup": "vulpin",
+	"npcs": [
+		{
+			"id": 164922,
+			"tameable": true,
+			"level": {
+				"min": 55,
+				"max": 56
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "heartwood-grove-spirit-glen"
+				}
+			]
+		},
+		{
+			"id": 160715,
+			"tameable": true,
+			"level": {
+				"min": 55,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "heartwood-grove-crumbled-ridge"
+				}
+			]
+		},
+		{
+			"id": 170070,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald"
+				}
+			]
+		},
+		{
+			"id": 165251,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mists-of-tirna-scithe"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

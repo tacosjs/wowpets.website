@@ -1,0 +1,37 @@
+{
+	"id": "zandalaridevilsaur-blue-silverarmour",
+	"family": "devilsaur",
+	"modelGroup": "armoreddevilsaurs",
+	"npcs": [
+		{
+			"id": 146826,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "crosswind-commons"
+				}
+			]
+		},
+		{
+			"id": 147930,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "warbeast-kraal"
+				}
+			]
+		}
+	]
+}

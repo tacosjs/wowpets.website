@@ -1,0 +1,10 @@
+{
+	"name": "Venom-Soaked Green Turtle",
+	"variant": "Venom-Soaked Green",
+	"npcs": {
+		"265237": {
+			"name": "Lockjaw",
+			"title": "The Snapper"
+		}
+	}
+}

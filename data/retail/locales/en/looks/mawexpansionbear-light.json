@@ -1,0 +1,12 @@
+{
+	"name": "Pale Yellow & Brown Shardhide",
+	"variant": "Pale Yellow & Brown",
+	"npcs": {
+		"177302": {
+			"name": "Shardhide Growler"
+		},
+		"178526": {
+			"name": "Shardhide Cub"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Black Boar w/ Steel Armour",
+	"variant": "Black",
+	"npcs": {
+		"230141": {
+			"name": "Tracking Stonesniffer"
+		}
+	}
+}

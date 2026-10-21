@@ -1,0 +1,12 @@
+{
+	"name": "Dark Red Parrot",
+	"variant": "Dark Red",
+	"npcs": {
+		"48137": {
+			"name": "Monstrous Macaw"
+		},
+		"60198": {
+			"name": "Crimson Lory"
+		}
+	}
+}

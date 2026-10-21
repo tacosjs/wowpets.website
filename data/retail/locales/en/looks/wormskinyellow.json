@@ -1,0 +1,18 @@
+{
+	"name": "Gold Worm",
+	"variant": "Gold",
+	"npcs": {
+		"14237": {
+			"name": "Oozeworm"
+		},
+		"14477": {
+			"name": "Grubthor"
+		},
+		"15630": {
+			"name": "Spawn of Fankriss"
+		},
+		"51029": {
+			"name": "Parasitus"
+		}
+	}
+}

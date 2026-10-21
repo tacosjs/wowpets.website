@@ -1,0 +1,137 @@
+{
+	"id": "bear2skinblackdiseased",
+	"family": "bear",
+	"modelGroup": "bears",
+	"npcs": [
+		{
+			"id": 1797,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "silverpine-forest"
+				}
+			]
+		},
+		{
+			"id": 153266,
+			"tameable": true,
+			"level": {
+				"min": 7,
+				"max": 10
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "exiles-reach",
+					"area": "killclaws-lair"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 1815,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "western-plaguelands"
+				}
+			]
+		},
+		{
+			"id": 42336,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blasted-lands"
+				}
+			]
+		},
+		{
+			"id": 168855,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 58
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "the-banewood"
+				}
+			]
+		},
+		{
+			"id": 210395,
+			"tameable": true,
+			"level": {
+				"min": 51,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bloodmyst-isle"
+				}
+			]
+		},
+		{
+			"id": 250108,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "maisara-deeps"
+				}
+			]
+		},
+		{
+			"id": 140160,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 140159,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	]
+}

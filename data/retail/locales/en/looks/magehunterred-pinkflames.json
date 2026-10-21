@@ -1,0 +1,12 @@
+{
+	"name": "Red Runehound w/ Pink Flames",
+	"variant": "Red w/ Pink Flames",
+	"npcs": {
+		"30952": {
+			"name": "Hungering Plaguehound"
+		},
+		"32163": {
+			"name": "Grimkor's Hound"
+		}
+	}
+}

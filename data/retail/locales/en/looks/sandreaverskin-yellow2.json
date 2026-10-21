@@ -1,0 +1,15 @@
+{
+	"name": "Striped Yellow Sandreaver",
+	"variant": "Striped Yellow",
+	"npcs": {
+		"15510": {
+			"name": "Fankriss the Unyielding"
+		},
+		"83448": {
+			"name": "Scavenging Crawler"
+		},
+		"87253": {
+			"name": "Sandreaver Drone"
+		}
+	}
+}

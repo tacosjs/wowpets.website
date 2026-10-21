@@ -1,0 +1,45 @@
+{
+	"name": "Grey-Brown Bat",
+	"variant": "Grey-Brown",
+	"npcs": {
+		"75466": {
+			"name": "Vile Bat"
+		},
+		"79643": {
+			"name": "Frostwing Screecher"
+		},
+		"80192": {
+			"name": "Icecave Bat"
+		},
+		"123423": {
+			"name": "River Shrieker"
+		},
+		"126353": {
+			"name": "Woodland Bat"
+		},
+		"144948": {
+			"name": "Leatherwing Hunter"
+		},
+		"223167": {
+			"name": "Shacklefang Leafnose"
+		},
+		"236645": {
+			"name": "Shadetooth Bat"
+		},
+		"242227": {
+			"name": "Nightshade Flutterer"
+		},
+		"249421": {
+			"name": "Venomous Mournbat"
+		},
+		"250048": {
+			"name": "Ghostwing Screecher"
+		},
+		"250876": {
+			"name": "Terrinor"
+		},
+		"250902": {
+			"name": "Cavernous Shrieker"
+		}
+	}
+}

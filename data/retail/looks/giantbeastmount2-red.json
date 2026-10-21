@@ -1,0 +1,56 @@
+{
+	"id": "giantbeastmount2-red",
+	"family": "oxen",
+	"modelGroup": "armouredtauralus",
+	"npcs": [
+		{
+			"id": 170955,
+			"tameable": false,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "house-of-the-chosen"
+				}
+			]
+		},
+		{
+			"id": 170971,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "unfallens-sanctum"
+				}
+			]
+		},
+		{
+			"id": 180307,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "korthia",
+					"area": "windswept-aerie"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		170923,
+		170969
+	]
+}

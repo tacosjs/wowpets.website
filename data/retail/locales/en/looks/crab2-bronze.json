@@ -1,0 +1,115 @@
+{
+	"name": "Bronze Crab",
+	"variant": "Bronze",
+	"npcs": {
+		"830": {
+			"name": "Sand Crawler"
+		},
+		"922": {
+			"name": "Silt Crawler"
+		},
+		"1088": {
+			"name": "Monstrous Crawler"
+		},
+		"6250": {
+			"name": "Crawler"
+		},
+		"17216": {
+			"name": "Skittering Crawler"
+		},
+		"17217": {
+			"name": "Barbed Crawler"
+		},
+		"33712": {
+			"name": "Golden Crawler"
+		},
+		"40685": {
+			"name": "Splitclaw Skitterer"
+		},
+		"40764": {
+			"name": "Desert Crawler"
+		},
+		"47817": {
+			"name": "Scuttler"
+		},
+		"51714": {
+			"name": "King Crawler"
+		},
+		"55475": {
+			"name": "Darkmoon Tide Crawler"
+		},
+		"59511": {
+			"name": "Cattail Crab"
+		},
+		"87268": {
+			"name": "Sunset Crawler"
+		},
+		"87283": {
+			"name": "Elder Sunset Crawler"
+		},
+		"89216": {
+			"name": "Clearwater Sandcrawler"
+		},
+		"104585": {
+			"name": "Brinescuttle Crab"
+		},
+		"128623": {
+			"name": "Harbor Crab"
+		},
+		"129318": {
+			"name": "Sandskitter Crab"
+		},
+		"169434": {
+			"name": "Scuttleclaw Skimmer"
+		},
+		"169436": {
+			"name": "Scuttleclaw Sandshell"
+		},
+		"189313": {
+			"name": "Coastal Crab"
+		},
+		"190133": {
+			"name": "Conscripted Crab",
+			"title": "Soggymaw Crabtrapper's Pet"
+		},
+		"193236": {
+			"name": "Shackled Crab"
+		},
+		"193604": {
+			"name": "Sandsifting Crawler"
+		},
+		"197898": {
+			"name": "Shore Crab"
+		},
+		"215548": {
+			"name": "Crabby Relicseeker"
+		},
+		"223057": {
+			"name": "Trained Sandsnapper"
+		},
+		"224454": {
+			"name": "Scuttling Sandshell"
+		},
+		"229820": {
+			"name": "Wandering Scuttleshell"
+		},
+		"235014": {
+			"name": "Crab"
+		},
+		"250104": {
+			"name": "Crab"
+		},
+		"250105": {
+			"name": "Nibbler Crab"
+		},
+		"254198": {
+			"name": "Kelp Crab"
+		},
+		"261125": {
+			"name": "Shoreline Scuttler"
+		},
+		"265333": {
+			"name": "Whelkshell Hulk"
+		}
+	}
+}

@@ -1,0 +1,37 @@
+{
+	"id": "mammoth2lava-orange-tusk1-horn1",
+	"family": "mammoth",
+	"modelGroup": "magmammoths",
+	"npcs": [
+		{
+			"id": 180705,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "scalecracker-keep"
+				}
+			]
+		},
+		{
+			"id": 211057,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "skystone-falls"
+				}
+			]
+		}
+	]
+}

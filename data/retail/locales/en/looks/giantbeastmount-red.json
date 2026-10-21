@@ -1,0 +1,9 @@
+{
+	"name": "Saddled Dark Red Tauralus",
+	"variant": "Dark Red",
+	"npcs": {
+		"180488": {
+			"name": "Maldraxxi Tauralus"
+		}
+	}
+}

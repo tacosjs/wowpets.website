@@ -1,0 +1,40 @@
+{
+	"id": "fireflyskinblue-dark",
+	"family": "wasp",
+	"modelGroup": "fireflies",
+	"npcs": [
+		{
+			"id": 76438,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 82371,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		170451,
+		123116
+	]
+}

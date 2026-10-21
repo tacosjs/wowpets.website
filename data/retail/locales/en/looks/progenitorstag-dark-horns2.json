@@ -1,0 +1,12 @@
+{
+	"name": "Black Cervid w/ Curled Horns",
+	"variant": "Black",
+	"npcs": {
+		"178098": {
+			"name": "Cervid Grazer"
+		},
+		"181260": {
+			"name": "Native Cervid"
+		}
+	}
+}

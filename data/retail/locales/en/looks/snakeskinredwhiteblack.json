@@ -1,0 +1,19 @@
+{
+	"name": "Red, White & Black Snake",
+	"variant": "Red, White & Black",
+	"npcs": {
+		"23026": {
+			"name": "Twilight Serpent"
+		},
+		"44595": {
+			"name": "Sand Slitherer"
+		},
+		"128115": {
+			"name": "Swamp Serpent"
+		},
+		"140693": {
+			"name": "Hisskarath",
+			"title": "Dreadfang Egg-Mother"
+		}
+	}
+}

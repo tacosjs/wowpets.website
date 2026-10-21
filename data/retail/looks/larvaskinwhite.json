@@ -1,0 +1,21 @@
+{
+	"id": "larvaskinwhite",
+	"family": "worm",
+	"modelGroup": "larvae",
+	"npcs": [
+		{
+			"id": 68221,
+			"tameable": false,
+			"level": {
+				"min": 37,
+				"max": 37
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "throne-of-thunder"
+				}
+			]
+		}
+	]
+}

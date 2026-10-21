@@ -1,0 +1,72 @@
+{
+	"name": "Blue Glimmerfly",
+	"variant": "Blue",
+	"npcs": {
+		"156571": {
+			"name": "Sparkling Glimmerfly"
+		},
+		"157725": {
+			"name": "Eternal Glimmerfly"
+		},
+		"157962": {
+			"name": "Fluttering Glimmerfly"
+		},
+		"158509": {
+			"name": "Effervescent Glimmerfly"
+		},
+		"163474": {
+			"name": "Summerfly"
+		},
+		"163480": {
+			"name": "Agitated Glimmerfly"
+		},
+		"168268": {
+			"name": "Spiritwing Glimmerfly"
+		},
+		"168497": {
+			"name": "Spiritwing Darter"
+		},
+		"169158": {
+			"name": "Glimmerfly Darter"
+		},
+		"169191": {
+			"name": "Frenzied Glimmerfly"
+		},
+		"169193": {
+			"name": "Behemoth Glimmerfly"
+		},
+		"169263": {
+			"name": "Spiritwing Duster"
+		},
+		"169555": {
+			"name": "Glimmerfly Duster"
+		},
+		"169692": {
+			"name": "Glimmerfly Flutterer"
+		},
+		"170244": {
+			"name": "Spiritwing Monarch"
+		},
+		"170328": {
+			"name": "Monarch Glimmerfly"
+		},
+		"170329": {
+			"name": "Enamored Darter"
+		},
+		"170330": {
+			"name": "Enamored Glimmerfly"
+		},
+		"170331": {
+			"name": "Enamored Spiritwing"
+		},
+		"170395": {
+			"name": "Spiritwing Flutterer"
+		},
+		"170397": {
+			"name": "Spiritwing Emperor"
+		},
+		"170399": {
+			"name": "Eternal Flutterer"
+		}
+	}
+}

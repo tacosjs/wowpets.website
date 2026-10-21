@@ -1,0 +1,41 @@
+{
+	"id": "guarm",
+	"family": "hound",
+	"modelGroup": "helheimhounds",
+	"npcs": [
+		{
+			"id": 92040,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "helheim"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 177441,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-maw",
+					"area": "helgarde-keep"
+				}
+			],
+			"keepsName": true
+		}
+	],
+	"alsoNpcs": [
+		172388
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"id": "clefthoovered",
+	"family": "clefthoof",
+	"modelGroup": "clefthooves",
+	"npcs": [
+		{
+			"id": 18398,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nagrand-outland",
+					"area": "laughing-skull-ruins"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

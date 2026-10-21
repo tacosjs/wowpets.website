@@ -1,0 +1,28 @@
+{
+	"name": "Brown Wyvern",
+	"variant": "Brown",
+	"npcs": {
+		"4012": {
+			"name": "Pridewing Wyvern"
+		},
+		"4014": {
+			"name": "Pridewing Consort"
+		},
+		"9297": {
+			"name": "Enraged Wyvern"
+		},
+		"22268": {
+			"name": "Leokk"
+		},
+		"35556": {
+			"name": "Thunk's Wyvern",
+			"title": "Flight Master"
+		},
+		"47485": {
+			"name": "Highperch Wind Rider"
+		},
+		"64957": {
+			"name": "Vicious Wyvern"
+		}
+	}
+}

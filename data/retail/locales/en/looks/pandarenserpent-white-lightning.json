@@ -1,0 +1,15 @@
+{
+	"name": "Thundering White Cloud Serpent",
+	"variant": "Thundering White",
+	"npcs": {
+		"154761": {
+			"name": "Rajani Warserpent"
+		},
+		"156389": {
+			"name": "Rajani Warserpent"
+		},
+		"156416": {
+			"name": "Rajani Warserpent"
+		}
+	}
+}

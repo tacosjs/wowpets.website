@@ -1,0 +1,9 @@
+{
+	"name": "Green Chimaera",
+	"variant": "Green",
+	"npcs": {
+		"8660": {
+			"name": "The Evalcharr"
+		}
+	}
+}

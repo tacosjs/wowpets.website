@@ -1,0 +1,12 @@
+{
+	"name": "Blooming Blue Mosswool",
+	"variant": "Blooming Blue Mosswool",
+	"npcs": {
+		"212371": {
+			"name": "Lethargic Mosswool"
+		},
+		"221413": {
+			"name": "Parched Mosswool"
+		}
+	}
+}

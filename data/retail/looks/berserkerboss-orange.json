@@ -1,0 +1,42 @@
+{
+	"id": "berserkerboss-orange",
+	"family": "scalehide",
+	"modelGroup": "primalultradons",
+	"npcs": [
+		{
+			"id": 239923,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "nexus-point-midar"
+				}
+			]
+		},
+		{
+			"id": 245226,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "stormarion-citadel"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

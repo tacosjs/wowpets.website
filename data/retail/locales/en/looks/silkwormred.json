@@ -1,0 +1,25 @@
+{
+	"name": "Red Silkworm",
+	"variant": "Red",
+	"npcs": {
+		"59002": {
+			"name": "Mutated Silkworm",
+			"title": "Brood of Mothran"
+		},
+		"72908": {
+			"name": "Spotted Swarmer"
+		},
+		"141986": {
+			"name": "Foul Larva"
+		},
+		"246574": {
+			"name": "Sungrub"
+		},
+		"247389": {
+			"name": "Mulch Muncher"
+		},
+		"252151": {
+			"name": "Basincrawler Grub"
+		}
+	}
+}

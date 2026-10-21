@@ -1,0 +1,24 @@
+{
+	"name": "Red Draenor Boar",
+	"variant": "Red",
+	"npcs": {
+		"89688": {
+			"name": "Hulking Diretusk"
+		},
+		"92875": {
+			"name": "Diretusk Piglet"
+		},
+		"92876": {
+			"name": "Diretusk Sow"
+		},
+		"92887": {
+			"name": "Steelsnout"
+		},
+		"140181": {
+			"name": "Cragtusk"
+		},
+		"140183": {
+			"name": "Old Muckhide"
+		}
+	}
+}

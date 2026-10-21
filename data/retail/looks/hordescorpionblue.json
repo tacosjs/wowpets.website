@@ -1,0 +1,175 @@
+{
+	"id": "hordescorpionblue",
+	"family": "scorpid",
+	"modelGroup": "ruggedscorpions",
+	"npcs": [
+		{
+			"id": 108009,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "neltharions-vault"
+				}
+			]
+		},
+		{
+			"id": 96021,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "neltharions-vault"
+				}
+			]
+		},
+		{
+			"id": 61299,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "townlong-steppes"
+				}
+			]
+		},
+		{
+			"id": 51404,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "uldum",
+					"area": "sahket-wastes"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 137217,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun"
+				}
+			]
+		},
+		{
+			"id": 122153,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "zulahjin"
+				}
+			]
+		},
+		{
+			"id": 215830,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "the-rumbling-wastes"
+				}
+			]
+		},
+		{
+			"id": 226573,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "the-hallowfall-gate"
+				}
+			]
+		},
+		{
+			"id": 140112,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 135728,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "scorched-sands-arena"
+				}
+			]
+		},
+		{
+			"id": 161382,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms",
+					"area": "ruins-of-guo-lai"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

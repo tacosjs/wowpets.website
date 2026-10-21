@@ -1,0 +1,27 @@
+{
+	"name": "Blue Mushan",
+	"variant": "Blue",
+	"npcs": {
+		"58924": {
+			"name": "Ting Ting"
+		},
+		"59599": {
+			"name": "Miss Fifi"
+		},
+		"60739": {
+			"name": "Steppebeast"
+		},
+		"63729": {
+			"name": "Bluehide Mushan"
+		},
+		"66213": {
+			"name": "Koukou"
+		},
+		"66463": {
+			"name": "Longshadow Bull"
+		},
+		"66599": {
+			"name": "Greatback Calf"
+		}
+	}
+}

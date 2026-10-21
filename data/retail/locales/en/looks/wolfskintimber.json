@@ -1,0 +1,48 @@
+{
+	"name": "Grey Wolf",
+	"variant": "Grey",
+	"npcs": {
+		"299": {
+			"name": "Young Wolf"
+		},
+		"525": {
+			"name": "Mangy Wolf"
+		},
+		"1508": {
+			"name": "Young Scavenger"
+		},
+		"1509": {
+			"name": "Ragged Scavenger"
+		},
+		"1922": {
+			"name": "Gray Forest Wolf"
+		},
+		"5286": {
+			"name": "Longtooth Runner"
+		},
+		"10644": {
+			"name": "Mist Howler"
+		},
+		"22142": {
+			"name": "Zakk"
+		},
+		"34729": {
+			"name": "Charlie"
+		},
+		"41478": {
+			"name": "Snow Tracker Wolf"
+		},
+		"43291": {
+			"name": "Wilson"
+		},
+		"131729": {
+			"name": "Lyco"
+		},
+		"132644": {
+			"name": "Wolf Pup"
+		},
+		"137267": {
+			"name": "Lyco"
+		}
+	}
+}

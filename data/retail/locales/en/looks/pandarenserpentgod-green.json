@@ -1,0 +1,18 @@
+{
+	"name": "Heavenly Green Cloud Serpent",
+	"variant": "Heavenly Green Cloud Serpent",
+	"npcs": {
+		"56762": {
+			"name": "Yu'lon",
+			"title": "The Jade Serpent"
+		},
+		"56779": {
+			"name": "Yu'lon",
+			"title": "The Jade Serpent"
+		},
+		"71955": {
+			"name": "Yu'lon",
+			"title": "The Jade Serpent"
+		}
+	}
+}

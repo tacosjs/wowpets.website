@@ -1,0 +1,175 @@
+{
+	"id": "sabertoothprimal-spottedyellow",
+	"family": "cat",
+	"modelGroup": "rockfangs",
+	"npcs": [
+		{
+			"id": 195382,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 65
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "steelcliff-passage"
+				}
+			]
+		},
+		{
+			"id": 195365,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 65
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "steelcliff-passage"
+				}
+			]
+		},
+		{
+			"id": 192644,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 65
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "steelcliff-passage"
+				}
+			]
+		},
+		{
+			"id": 187487,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "sylvan-glade"
+				}
+			]
+		},
+		{
+			"id": 195460,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		},
+		{
+			"id": 187474,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		},
+		{
+			"id": 205763,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "the-flowing-forest"
+				}
+			]
+		},
+		{
+			"id": 186498,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 1
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "shady-sanctuary"
+				}
+			]
+		},
+		{
+			"id": 197376,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "steelcliff-passage"
+				}
+			]
+		},
+		{
+			"id": 245427,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "tazavesh-karesh"
+				}
+			]
+		},
+		{
+			"id": 233282,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "undermine",
+					"area": "bilgewater-flats"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		192182,
+		192181,
+		193881
+	]
+}

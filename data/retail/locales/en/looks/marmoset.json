@@ -1,0 +1,28 @@
+{
+	"name": "Brown Marmoni",
+	"variant": "Brown Marmoni",
+	"npcs": {
+		"184463": {
+			"name": "Mischievous Marmoni"
+		},
+		"184861": {
+			"name": "Distressed Marmoni"
+		},
+		"185327": {
+			"name": "Fruit-Throwing Marmoni"
+		},
+		"185600": {
+			"name": "Mosey",
+			"title": "Seeing Eye Marmoni"
+		},
+		"188057": {
+			"name": "Curious Marmoni"
+		},
+		"192175": {
+			"name": "Lively Marmoni"
+		},
+		"195242": {
+			"name": "Distressed Marmoni"
+		}
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"id": "tripod2-red",
+	"family": "waterstrider",
+	"modelGroup": "mirestalkers",
+	"npcs": [
+		{
+			"id": 250226,
+			"tameable": true,
+			"level": {
+				"min": 82,
+				"max": 92
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "harandar"
+				}
+			],
+			"keepsName": true
+		}
+	],
+	"alsoNpcs": [
+		249413,
+		264326
+	]
+}

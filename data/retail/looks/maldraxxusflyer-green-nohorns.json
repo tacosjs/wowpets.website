@@ -1,0 +1,54 @@
+{
+	"id": "maldraxxusflyer-green-nohorns",
+	"family": "chimaera",
+	"modelGroup": "deathchimaeras",
+	"npcs": [
+		{
+			"id": 170456,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus"
+				}
+			]
+		},
+		{
+			"id": 165957,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "the-necrotic-wake"
+				}
+			]
+		},
+		{
+			"id": 165634,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "temple-of-courage"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		162300
+	]
+}

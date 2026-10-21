@@ -1,0 +1,36 @@
+{
+	"name": "Olive Sporeglider w/ Orange Glow",
+	"variant": "Olive w/ Orange Glow",
+	"npcs": {
+		"237704": {
+			"name": "Cleftling Sporeglider"
+		},
+		"249409": {
+			"name": "Vigilant Sporeglider"
+		},
+		"249849": {
+			"name": "Ha'kalawe"
+		},
+		"250168": {
+			"name": "Latticewing Sporeglider"
+		},
+		"255876": {
+			"name": "Lightsick Sporeglider"
+		},
+		"256061": {
+			"name": "Scavenging Sporeglider"
+		},
+		"256246": {
+			"name": "Fungal Sporewing"
+		},
+		"257933": {
+			"name": "Den Sporeglider"
+		},
+		"260031": {
+			"name": "Latticewing Sporeglider"
+		},
+		"264342": {
+			"name": "Sporebat"
+		}
+	}
+}

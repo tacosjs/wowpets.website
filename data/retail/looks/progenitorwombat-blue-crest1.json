@@ -1,0 +1,55 @@
+{
+	"id": "progenitorwombat-blue-crest1",
+	"family": "rodent",
+	"modelGroup": "vombatas",
+	"npcs": [
+		{
+			"id": 181580,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis"
+				}
+			]
+		},
+		{
+			"id": 185662,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "faiths-repose"
+				}
+			]
+		},
+		{
+			"id": 181581,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

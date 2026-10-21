@@ -1,0 +1,24 @@
+{
+	"name": "Black Musken",
+	"variant": "Black",
+	"npcs": {
+		"107803": {
+			"name": "Wild Plains Runehorn"
+		},
+		"107808": {
+			"name": "Plains Runehorn Calf"
+		},
+		"140456": {
+			"name": "Bramblefur Musken"
+		},
+		"140458": {
+			"name": "Bramblefur Bull"
+		},
+		"193403": {
+			"name": "Plains Musken"
+		},
+		"196897": {
+			"name": "Old Arbhog"
+		}
+	}
+}

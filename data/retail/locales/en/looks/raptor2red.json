@@ -1,0 +1,33 @@
+{
+	"name": "Red Raptor",
+	"variant": "Red",
+	"npcs": {
+		"85565": {
+			"name": "Desert Wastetalon"
+		},
+		"86425": {
+			"name": "Gorgrond Wastetalon"
+		},
+		"88951": {
+			"name": "Vileclaw"
+		},
+		"89742": {
+			"name": "Scaleclaw Devourer"
+		},
+		"89745": {
+			"name": "Scaleclaw Hatchling"
+		},
+		"118269": {
+			"name": "Queen Zavra"
+		},
+		"142312": {
+			"name": "Skullripper"
+		},
+		"142437": {
+			"name": "Skullripper"
+		},
+		"234997": {
+			"name": "Domesticated Raptor"
+		}
+	}
+}

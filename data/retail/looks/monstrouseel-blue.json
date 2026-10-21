@@ -1,0 +1,37 @@
+{
+	"id": "monstrouseel-blue",
+	"family": "serpent",
+	"modelGroup": "electriceels",
+	"npcs": [
+		{
+			"id": 41646,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "abyssal-depths",
+					"area": "abandoned-reed-deepfin-ridge"
+				}
+			]
+		},
+		{
+			"id": 41927,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "abyssal-depths",
+					"area": "underlight-canyon"
+				}
+			]
+		}
+	]
+}

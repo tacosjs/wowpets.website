@@ -1,0 +1,75 @@
+{
+	"id": "gianteagle2-orange",
+	"family": "birdofprey",
+	"modelGroup": "amanieagles",
+	"npcs": [
+		{
+			"id": 253173,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "spiritpaw-borough"
+				}
+			]
+		},
+		{
+			"id": 258943,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "path-of-whispers"
+				}
+			]
+		},
+		{
+			"id": 261666,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle"
+				}
+			]
+		},
+		{
+			"id": 236131,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "akilzons-reach"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		243679,
+		254629,
+		254628,
+		255042,
+		254646,
+		255490,
+		241816
+	]
+}

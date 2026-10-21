@@ -1,0 +1,67 @@
+{
+	"id": "firefly2-blue-antenna3",
+	"family": "moth",
+	"modelGroup": "candleflies",
+	"npcs": [
+		{
+			"id": 256417,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "vale-of-mists"
+				}
+			]
+		},
+		{
+			"id": 251825,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "harkuai"
+				}
+			]
+		},
+		{
+			"id": 256361,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "the-grudge-pit-non-instanced"
+				}
+			]
+		},
+		{
+			"id": 225231,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "camp-murroch"
+				}
+			]
+		}
+	]
+}

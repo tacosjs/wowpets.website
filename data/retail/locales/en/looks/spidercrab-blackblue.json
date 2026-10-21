@@ -1,0 +1,18 @@
+{
+	"name": "Black Spider Crab w/ Blue Luminescence",
+	"variant": "Black w/ Blue Luminescence",
+	"npcs": {
+		"152463": {
+			"name": "Chitterspine Deeplurker"
+		},
+		"153814": {
+			"name": "Chitterspine Guillotine"
+		},
+		"192129": {
+			"name": "Skittering Chitterspine"
+		},
+		"227569": {
+			"name": "Storm-Touched Clawfiend"
+		}
+	}
+}

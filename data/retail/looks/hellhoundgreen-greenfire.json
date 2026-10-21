@@ -1,0 +1,184 @@
+{
+	"id": "hellhoundgreen-greenfire",
+	"family": "hound",
+	"modelGroup": "infernalhellhounds",
+	"npcs": [
+		{
+			"id": 78457,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "talador",
+					"area": "the-burning-front"
+				}
+			]
+		},
+		{
+			"id": 78432,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "talador",
+					"area": "west-of-tomb-of-lights"
+				}
+			]
+		},
+		{
+			"id": 73325,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "icescar-boneyard"
+				}
+			]
+		},
+		{
+			"id": 104323,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "bloodhunt-highland"
+				}
+			]
+		},
+		{
+			"id": 91707,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "talador",
+					"area": "court-of-souls"
+				}
+			]
+		},
+		{
+			"id": 79506,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "talador",
+					"area": "court-of-souls"
+				}
+			]
+		},
+		{
+			"id": 125936,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "argus",
+					"area": "invasions"
+				}
+			]
+		},
+		{
+			"id": 126072,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "antoran-wastes"
+				}
+			]
+		},
+		{
+			"id": 115601,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "broken-shore",
+					"area": "the-pit-of-agony"
+				}
+			]
+		},
+		{
+			"id": 116527,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormheim",
+					"area": "gloomshore"
+				}
+			]
+		},
+		{
+			"id": 140558,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 267359,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "cursed-keepsake"
+				}
+			]
+		}
+	]
+}

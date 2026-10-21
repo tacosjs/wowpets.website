@@ -1,0 +1,37 @@
+{
+	"id": "cosmicflyer-phaselost",
+	"family": "ray",
+	"modelGroup": "cosmicrays",
+	"npcs": [
+		{
+			"id": 232111,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "karesh"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 241673,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "overlook-zoshuul"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"name": "Brown Scarab w/ Yellow Spots",
+	"variant": "Brown w/ Yellow Spots",
+	"npcs": {
+		"47801": {
+			"name": "Temple Scarab"
+		},
+		"51053": {
+			"name": "Quirix"
+		},
+		"140385": {
+			"name": "Gemshell Broodkeeper"
+		},
+		"140386": {
+			"name": "Topaz Borer"
+		},
+		"162363": {
+			"name": "Temple Scarab"
+		},
+		"162767": {
+			"name": "Pesticide"
+		},
+		"207826": {
+			"name": "Ravageant"
+		},
+		"227808": {
+			"name": "Ravageling"
+		}
+	}
+}

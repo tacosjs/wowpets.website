@@ -1,0 +1,18 @@
+{
+	"name": "Tan Stagshell w/ Small Mandibles, Large Graspers, No Horn",
+	"variant": "Tan w/ Small Mandibles, Large Graspers, No Horn",
+	"npcs": {
+		"225552": {
+			"name": "Scavenger Stagshell"
+		},
+		"226005": {
+			"name": "Scavenger Stagshell"
+		},
+		"226173": {
+			"name": "Dirtcrusted Stagshell"
+		},
+		"229423": {
+			"name": "Dirtcrusted Stagshell"
+		}
+	}
+}

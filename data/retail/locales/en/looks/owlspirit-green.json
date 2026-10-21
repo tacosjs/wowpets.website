@@ -1,0 +1,13 @@
+{
+	"name": "Spectral Green Owl",
+	"variant": "owlspirit_green",
+	"npcs": {
+		"54116": {
+			"name": "Dori'thur",
+			"title": "Tyrande's Companion"
+		},
+		"54320": {
+			"name": "Ban'thalos"
+		}
+	}
+}

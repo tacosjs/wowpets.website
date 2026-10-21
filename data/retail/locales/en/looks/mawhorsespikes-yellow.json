@@ -1,0 +1,9 @@
+{
+	"name": "Golden Gloomcharger",
+	"variant": "Golden Gloomcharger",
+	"npcs": {
+		"179460": {
+			"name": "Fallen Charger"
+		}
+	}
+}

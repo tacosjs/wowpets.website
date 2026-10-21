@@ -1,0 +1,22 @@
+{
+	"id": "carrionbirdskinoutlandyellow",
+	"family": "carrionbird",
+	"modelGroup": "twoheadedvultures",
+	"npcs": [
+		{
+			"id": 8299,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "blasted-lands"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

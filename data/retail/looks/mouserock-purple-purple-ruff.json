@@ -1,0 +1,25 @@
+{
+	"id": "mouserock-purple-purple-ruff",
+	"family": "rodent",
+	"modelGroup": "rockmice",
+	"npcs": [
+		{
+			"id": 205204,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		205001,
+		204167
+	]
+}

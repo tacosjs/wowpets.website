@@ -1,0 +1,35 @@
+{
+	"id": "hawkstrider-red",
+	"family": "tallstrider",
+	"modelGroup": "hawkstriders",
+	"npcs": [
+		{
+			"id": 247384,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "tranquil-repose"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		256862,
+		256835,
+		256834,
+		256841,
+		250229,
+		251055,
+		243832,
+		257954,
+		246895,
+		254722,
+		244918
+	]
+}

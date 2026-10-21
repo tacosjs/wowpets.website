@@ -1,0 +1,28 @@
+{
+	"name": "Orange Turtle",
+	"variant": "Orange",
+	"npcs": {
+		"2505": {
+			"name": "Saltwater Snapjaw"
+		},
+		"4825": {
+			"name": "Aku'mai Snapjaw"
+		},
+		"14223": {
+			"name": "Cranky Benj"
+		},
+		"22885": {
+			"name": "Dragon Turtle",
+			"title": "Coilskar Harpooner's Pet"
+		},
+		"38845": {
+			"name": "Child of Volcanoth"
+		},
+		"45950": {
+			"name": "Sorrowmurk Snapjaw"
+		},
+		"56081": {
+			"name": "Optimistic Benj"
+		}
+	}
+}

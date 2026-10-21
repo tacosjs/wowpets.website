@@ -1,0 +1,49 @@
+{
+	"name": "Wiry Void Stalker",
+	"variant": "Void Blue",
+	"npcs": {
+		"232193": {
+			"name": "Stalker of the Wastes"
+		},
+		"237753": {
+			"name": "Void Stalker"
+		},
+		"238576": {
+			"name": "Malanore"
+		},
+		"239427": {
+			"name": "Vengeful Shredclaw"
+		},
+		"241997": {
+			"name": "Trained Voidcrawler"
+		},
+		"244099": {
+			"name": "Prowling Voidstalker"
+		},
+		"246578": {
+			"name": "Voidclaw Hexathor"
+		},
+		"251119": {
+			"name": "Roark",
+			"title": "Riftwalker Aelix's Pet"
+		},
+		"251584": {
+			"name": "Prowling Voidstalker"
+		},
+		"254709": {
+			"name": "Prowling Voidstalker"
+		},
+		"256601": {
+			"name": "Voidstalker"
+		},
+		"256604": {
+			"name": "Voidstalker"
+		},
+		"257883": {
+			"name": "Spite-Bound Voidcrawler"
+		},
+		"271206": {
+			"name": "Voidstalker"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Bronze & Magenta Stone Turtle",
+	"variant": "Bronze & Magenta",
+	"npcs": {
+		"207285": {
+			"name": "Un'Gorian Protoshell"
+		}
+	}
+}

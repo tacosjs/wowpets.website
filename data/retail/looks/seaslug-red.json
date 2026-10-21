@@ -1,0 +1,114 @@
+{
+	"id": "seaslug-red",
+	"family": "worm",
+	"modelGroup": "seaslugs",
+	"npcs": [
+		{
+			"id": 227367,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "salien-gutters"
+				}
+			]
+		},
+		{
+			"id": 144644,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "nazjatar"
+				}
+			]
+		},
+		{
+			"id": 250060,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "isle-of-queldanas-eversong-woods"
+				}
+			]
+		},
+		{
+			"id": 244505,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "sunset-strand"
+				}
+			]
+		},
+		{
+			"id": 244731,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "sunset-strand"
+				}
+			]
+		},
+		{
+			"id": 263925,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ritual-site-daggerspine-point"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 259984,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ritual-site-daggerspine-point"
+				}
+			]
+		}
+	]
+}

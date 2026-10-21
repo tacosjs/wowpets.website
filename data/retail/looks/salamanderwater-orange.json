@@ -1,0 +1,71 @@
+{
+	"id": "salamanderwater-orange",
+	"family": "lizard",
+	"modelGroup": "salamanthers",
+	"npcs": [
+		{
+			"id": 224464,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		},
+		{
+			"id": 229067,
+			"tameable": true,
+			"level": {
+				"min": 78,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		},
+		{
+			"id": 229068,
+			"tameable": true,
+			"level": {
+				"min": 78,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		},
+		{
+			"id": 187338,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "shifting-sands"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		191653,
+		193700,
+		191656,
+		193854,
+		214835
+	]
+}

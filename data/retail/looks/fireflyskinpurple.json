@@ -1,0 +1,36 @@
+{
+	"id": "fireflyskinpurple",
+	"family": "wasp",
+	"modelGroup": "fireflies",
+	"npcs": [
+		{
+			"id": 18133,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zangarmarsh"
+				}
+			]
+		},
+		{
+			"id": 65617,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds",
+					"area": "paoquan-hollow"
+				}
+			]
+		}
+	]
+}

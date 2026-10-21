@@ -1,0 +1,9 @@
+{
+	"name": "White Arcane Wyrm",
+	"variant": "White",
+	"npcs": {
+		"25711": {
+			"name": "Spirit of the North"
+		}
+	}
+}

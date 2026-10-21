@@ -1,0 +1,22 @@
+{
+	"id": "owlbear-blue",
+	"family": "feathermane",
+	"modelGroup": "umbraclaws",
+	"npcs": [
+		{
+			"id": 210070,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "meandering-rootlands"
+				}
+			]
+		}
+	]
+}

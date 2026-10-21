@@ -1,0 +1,33 @@
+{
+	"name": "Orange Skitterfly",
+	"variant": "Orange",
+	"npcs": {
+		"184855": {
+			"name": "Salty Skitterfly"
+		},
+		"184856": {
+			"name": "Salty Skitterbug"
+		},
+		"189051": {
+			"name": "Reservoir Darter"
+		},
+		"190362": {
+			"name": "Dazzling Dragonfly"
+		},
+		"191061": {
+			"name": "Pool Skimmer"
+		},
+		"191365": {
+			"name": "Proto Dragonfly"
+		},
+		"193030": {
+			"name": "Skitterfly"
+		},
+		"193302": {
+			"name": "Proto Dragonfly"
+		},
+		"198592": {
+			"name": "Hot Springs Damselfly"
+		}
+	}
+}

@@ -1,0 +1,85 @@
+{
+	"id": "arcticcondorwhite",
+	"family": "carrionbird",
+	"modelGroup": "condors",
+	"npcs": [
+		{
+			"id": 14268,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "loch-modan"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 26174,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "borean-tundra"
+				}
+			]
+		},
+		{
+			"id": 26838,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "dragonblight",
+					"area": "the-dragon-wastes"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 59251,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "krasarang-wilds"
+				}
+			]
+		},
+		{
+			"id": 72650,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		75348,
+		74414,
+		77306
+	]
+}

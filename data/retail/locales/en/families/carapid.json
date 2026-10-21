@@ -1,0 +1,29 @@
+{
+	"name": "Carapid",
+	"modelGroups": {
+		"voidcreepers": {
+			"name": "Void Creepers"
+		},
+		"rocksnails": {
+			"name": "Rock Snails"
+		},
+		"magmasnails": {
+			"name": "Magma Snails"
+		},
+		"helicids": {
+			"name": "Helicids"
+		},
+		"gorms": {
+			"name": "Gorms"
+		},
+		"krolusks": {
+			"name": "Krolusks"
+		},
+		"greatergorms": {
+			"name": "Greater Gorms"
+		},
+		"gormlings": {
+			"name": "Gormlings"
+		}
+	}
+}

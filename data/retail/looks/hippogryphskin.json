@@ -1,0 +1,68 @@
+{
+	"id": "hippogryphskin",
+	"family": "feathermane",
+	"modelGroup": "hippogryphs",
+	"npcs": [
+		{
+			"id": 6375,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azshara"
+				}
+			]
+		},
+		{
+			"id": 35446,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "desolace"
+				}
+			]
+		},
+		{
+			"id": 36227,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "desolace"
+				}
+			]
+		},
+		{
+			"id": 9527,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "various"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

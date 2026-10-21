@@ -1,0 +1,24 @@
+{
+	"name": "Silver Phalynx",
+	"variant": "Silver",
+	"npcs": {
+		"159835": {
+			"name": "Gatamatos"
+		},
+		"160089": {
+			"name": "Chamber Guardian"
+		},
+		"160426": {
+			"name": "Converted Clawguard"
+		},
+		"171300": {
+			"name": "Malfunctioning Clawguard"
+		},
+		"178354": {
+			"name": "Gatamatos"
+		},
+		"178359": {
+			"name": "Battleready Phalynx"
+		}
+	}
+}

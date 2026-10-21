@@ -1,0 +1,51 @@
+{
+	"name": "Grey-Brown Spider",
+	"variant": "Grey-Brown",
+	"npcs": {
+		"1504": {
+			"name": "Young Night Web Spider"
+		},
+		"1824": {
+			"name": "Plague Lurker"
+		},
+		"15975": {
+			"name": "Carrion Spinner"
+		},
+		"16179": {
+			"name": "Hyakiss the Lurker"
+		},
+		"22044": {
+			"name": "Cavern Crawler"
+		},
+		"44284": {
+			"name": "Northridge Spider"
+		},
+		"59488": {
+			"name": "Spider Mite"
+		},
+		"77006": {
+			"name": "Corpse Skitterling"
+		},
+		"86552": {
+			"name": "Gorged Burster"
+		},
+		"129626": {
+			"name": "Enthralled Mossfang"
+		},
+		"129860": {
+			"name": "Enthralled Spiderling"
+		},
+		"134899": {
+			"name": "Venomfang Lurker"
+		},
+		"134901": {
+			"name": "Venomfang Spiderling"
+		},
+		"137000": {
+			"name": "Cellar Crawler"
+		},
+		"141981": {
+			"name": "Damplight Skitterer"
+		}
+	}
+}

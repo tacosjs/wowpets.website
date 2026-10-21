@@ -1,0 +1,21 @@
+{
+	"name": "Dark Turtle",
+	"variant": "Dark",
+	"npcs": {
+		"191305": {
+			"name": "The Great Shellkhan"
+		},
+		"193133": {
+			"name": "Sunscale Behemoth"
+		},
+		"211032": {
+			"name": "Darkshell Snapper"
+		},
+		"214226": {
+			"name": "Shadechaser Snapper"
+		},
+		"214227": {
+			"name": "Shadechaser Turtle"
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"id": "kirin-black",
+	"family": "stag",
+	"modelGroup": "vorquins",
+	"npcs": [
+		{
+			"id": 193577,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "genesis-falls"
+				}
+			]
+		},
+		{
+			"id": 188524,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "apex-canopy"
+				}
+			]
+		},
+		{
+			"id": 190944,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		},
+		{
+			"id": 193130,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "pleasant-hill"
+				}
+			]
+		},
+		{
+			"id": 193143,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "steelcliff-passage"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		196517,
+		191624,
+		187575,
+		195518,
+		193855
+	]
+}

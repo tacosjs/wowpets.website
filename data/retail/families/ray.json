@@ -1,0 +1,37 @@
+{
+	"id": "ray",
+	"wowId": 34,
+	"icon": "ability_hunter_pet_netherray",
+	"spec": "ferocity",
+	"exotic": false,
+	"diet": [
+		"fungus",
+		"meat"
+	],
+	"abilities": {
+		"basic": "bite",
+		"family": [
+			"nether-energy"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "cosmicrays"
+		},
+		{
+			"id": "shalewings"
+		},
+		{
+			"id": "fathomrays"
+		},
+		{
+			"id": "manarays"
+		},
+		{
+			"id": "netherrays"
+		},
+		{
+			"id": "mantacorns"
+		}
+	]
+}

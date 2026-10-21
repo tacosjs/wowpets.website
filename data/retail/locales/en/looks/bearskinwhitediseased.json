@@ -1,0 +1,9 @@
+{
+	"name": "Sickly White Bear",
+	"variant": "Sickly White",
+	"npcs": {
+		"50930": {
+			"name": "Hibernus the Sleeper"
+		}
+	}
+}

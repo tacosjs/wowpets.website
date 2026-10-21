@@ -1,0 +1,49 @@
+{
+	"name": "Black Pig",
+	"variant": "Black",
+	"npcs": {
+		"25362": {
+			"name": "Warsong Swine"
+		},
+		"56253": {
+			"name": "Jian"
+		},
+		"56254": {
+			"name": "Ling"
+		},
+		"70149": {
+			"name": "Ting"
+		},
+		"122399": {
+			"name": "Pig"
+		},
+		"124170": {
+			"name": "Fallhaven Pig"
+		},
+		"124548": {
+			"name": "Betsy",
+			"title": "Shelvey's Prized Pig"
+		},
+		"129501": {
+			"name": "Stockyard Pig"
+		},
+		"137457": {
+			"name": "Stray Truffle-Hunter"
+		},
+		"142403": {
+			"name": "Wild Hog"
+		},
+		"214926": {
+			"name": "Stonehoofed Piglet"
+		},
+		"214928": {
+			"name": "Stonehoofed Hog"
+		},
+		"219681": {
+			"name": "Mr. Pepper"
+		},
+		"220305": {
+			"name": "Little Charger"
+		}
+	}
+}

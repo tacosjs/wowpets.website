@@ -1,0 +1,15 @@
+{
+	"name": "White Tallstrider",
+	"variant": "White",
+	"npcs": {
+		"2957": {
+			"name": "Elder Plainstrider"
+		},
+		"3246": {
+			"name": "Fleeting Plainstrider"
+		},
+		"113091": {
+			"name": "Tainted Plainstrider"
+		}
+	}
+}

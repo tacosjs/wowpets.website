@@ -1,0 +1,82 @@
+{
+	"id": "riverotterlarge-brown",
+	"family": "rodent",
+	"modelGroup": "ottuks",
+	"npcs": [
+		{
+			"id": 196093,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		},
+		{
+			"id": 193491,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		},
+		{
+			"id": 193409,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		},
+		{
+			"id": 188104,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "dragonscale-basecamp"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		189490,
+		192853,
+		197097,
+		198203,
+		198812,
+		199784,
+		244862,
+		191456,
+		195442,
+		191615,
+		187580,
+		188338,
+		191153,
+		191616,
+		198811,
+		195116
+	]
+}

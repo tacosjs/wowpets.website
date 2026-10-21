@@ -1,0 +1,217 @@
+{
+	"id": "crab2-sapphire",
+	"family": "crab",
+	"modelGroup": "grandcrabs",
+	"npcs": [
+		{
+			"id": 2233,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "darkshore"
+				}
+			]
+		},
+		{
+			"id": 34369,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "darkshore"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 831,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "westfall"
+				}
+			]
+		},
+		{
+			"id": 3812,
+			"tameable": true,
+			"level": {
+				"min": 7,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ashenvale"
+				}
+			]
+		},
+		{
+			"id": 41295,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "wetlands"
+				}
+			]
+		},
+		{
+			"id": 2544,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-cape-of-stranglethorn"
+				}
+			]
+		},
+		{
+			"id": 111784,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-broken-isles"
+				}
+			]
+		},
+		{
+			"id": 26521,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dragonblight",
+					"area": "kiliuas-atoll"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 242034,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "broken-throne"
+				}
+			]
+		},
+		{
+			"id": 246074,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "broken-throne"
+				}
+			]
+		},
+		{
+			"id": 42339,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormwind-city"
+				}
+			]
+		},
+		{
+			"id": 40271,
+			"tameable": false,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "darkshore"
+				}
+			]
+		},
+		{
+			"id": 126451,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		189313,
+		193604,
+		197955,
+		188328,
+		193236,
+		225889,
+		224876,
+		222312,
+		222156,
+		224508,
+		227201,
+		254969,
+		260081,
+		59511,
+		55475,
+		190133,
+		182439
+	]
+}

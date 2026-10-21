@@ -1,0 +1,31 @@
+{
+	"name": "Grey-Green Darkhound",
+	"variant": "Grey-Green",
+	"npcs": {
+		"22394": {
+			"name": "Deathshadow Hound"
+		},
+		"30157": {
+			"name": "Nikita",
+			"title": "Jessica Morris's Companion"
+		},
+		"224623": {
+			"name": "Snarling Mongrel"
+		},
+		"225255": {
+			"name": "Snarling Mongrel"
+		},
+		"225445": {
+			"name": "Learned Mongrel"
+		},
+		"225612": {
+			"name": "Skulking Mongrel"
+		},
+		"229098": {
+			"name": "Cowed Mongrel"
+		},
+		"229099": {
+			"name": "Cowed Mongrel"
+		}
+	}
+}

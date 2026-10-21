@@ -1,0 +1,10 @@
+{
+	"id": "mawroach-orange",
+	"family": "beetle",
+	"modelGroup": "mawroaches",
+	"npcs": [],
+	"alsoNpcs": [
+		169747,
+		171525
+	]
+}

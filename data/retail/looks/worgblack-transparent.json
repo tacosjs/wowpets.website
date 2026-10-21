@@ -1,0 +1,22 @@
+{
+	"id": "worgblack-transparent",
+	"family": "wolf",
+	"modelGroup": "saberworgs",
+	"npcs": [
+		{
+			"id": 50908,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "tirisfal-glades"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"id": "faeriedragon2-orange",
+	"family": "lesserdragonkin",
+	"modelGroup": "feydarters",
+	"npcs": [
+		{
+			"id": 193224,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "ancient-bough-thaldraszus"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		5912,
+		199548,
+		197036,
+		188869
+	]
+}

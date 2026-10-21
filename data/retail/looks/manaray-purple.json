@@ -1,0 +1,41 @@
+{
+	"id": "manaray-purple",
+	"family": "ray",
+	"modelGroup": "manarays",
+	"npcs": [
+		{
+			"id": 122410,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-seat-of-the-triumvirate",
+					"area": "shadowguard-incursion"
+				}
+			]
+		},
+		{
+			"id": 119748,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eredath"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		123511,
+		173582,
+		234284
+	]
+}

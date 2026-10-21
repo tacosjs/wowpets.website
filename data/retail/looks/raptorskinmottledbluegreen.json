@@ -1,0 +1,112 @@
+{
+	"id": "raptorskinmottledbluegreen",
+	"family": "raptor",
+	"modelGroup": "raptors",
+	"npcs": [
+		{
+			"id": 3633,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "wailing-caverns"
+				}
+			]
+		},
+		{
+			"id": 3637,
+			"tameable": true,
+			"level": {
+				"min": 8,
+				"max": 31
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "wailing-caverns"
+				}
+			]
+		},
+		{
+			"id": 41342,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "wetlands"
+				}
+			]
+		},
+		{
+			"id": 730,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "northern-stranglethorn"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 9684,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ungoro-crater"
+				}
+			],
+			"keepsName": true,
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 6506,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ungoro-crater"
+				}
+			]
+		},
+		{
+			"id": 29334,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldrak"
+				}
+			]
+		}
+	]
+}

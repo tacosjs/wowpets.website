@@ -1,0 +1,9 @@
+{
+	"name": "Silver Cobra",
+	"variant": "Silver",
+	"npcs": {
+		"127169": {
+			"name": "Colossal Water Cobra"
+		}
+	}
+}

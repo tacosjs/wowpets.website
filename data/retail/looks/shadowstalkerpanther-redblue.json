@@ -1,0 +1,22 @@
+{
+	"id": "shadowstalkerpanther-redblue",
+	"family": "cat",
+	"modelGroup": "panthara",
+	"npcs": [
+		{
+			"id": 130943,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "krokuun",
+					"area": "grove-of-naroua"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"id": "dreamsaber-purple",
+	"family": "cat",
+	"modelGroup": "dreamsabers",
+	"npcs": [
+		{
+			"id": 210335,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "shoreline-roots-fields-of-reverie"
+				}
+			]
+		},
+		{
+			"id": 210046,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "viridescent-thicket"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		206551,
+		216691,
+		212062,
+		212066,
+		212588,
+		210975
+	]
+}

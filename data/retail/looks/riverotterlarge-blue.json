@@ -1,0 +1,138 @@
+{
+	"id": "riverotterlarge-blue",
+	"family": "rodent",
+	"modelGroup": "ottuks",
+	"npcs": [
+		{
+			"id": 192854,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "clearwater-basin"
+				}
+			]
+		},
+		{
+			"id": 194242,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		},
+		{
+			"id": 187811,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		},
+		{
+			"id": 199784,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-forbidden-reach",
+					"area": "aerie-chasm"
+				}
+			]
+		},
+		{
+			"id": 191456,
+			"tameable": false,
+			"level": {
+				"min": 58,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-forbidden-reach",
+					"area": "morqut-islet"
+				}
+			]
+		},
+		{
+			"id": 194169,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "snowhide-camp"
+				}
+			]
+		},
+		{
+			"id": 196884,
+			"tameable": false,
+			"level": {
+				"min": 65,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "longclaw-island"
+				}
+			]
+		},
+		{
+			"id": 198811,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-forbidden-reach",
+					"area": "morqut-islet"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		189490,
+		197097,
+		198203,
+		198812,
+		195442,
+		191615,
+		197846,
+		190657,
+		187580,
+		191616,
+		190267
+	]
+}

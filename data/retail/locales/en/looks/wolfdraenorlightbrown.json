@@ -1,0 +1,19 @@
+{
+	"name": "Light Brown Maned Wolf",
+	"variant": "Light Brown",
+	"npcs": {
+		"112648": {
+			"name": "Freyja",
+			"title": "Wain's Companion"
+		},
+		"132819": {
+			"name": "Rustpelt Pup"
+		},
+		"136690": {
+			"name": "Snowdrift Prowler"
+		},
+		"140068": {
+			"name": "Rustpelt Snarler"
+		}
+	}
+}

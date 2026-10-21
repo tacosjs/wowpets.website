@@ -1,0 +1,21 @@
+{
+	"name": "Plated Blue Water Strider",
+	"variant": "Blue",
+	"npcs": {
+		"66880": {
+			"name": "Lake Strider"
+		},
+		"209367": {
+			"name": "Territorial Skimmer"
+		},
+		"209521": {
+			"name": "Beadeye Wavestrider"
+		},
+		"216771": {
+			"name": "Luminescent Gloamstrider"
+		},
+		"256537": {
+			"name": "Sporewake Skimmer"
+		}
+	}
+}

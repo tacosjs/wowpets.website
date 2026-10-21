@@ -1,0 +1,107 @@
+{
+	"id": "lionskingold",
+	"family": "cat",
+	"modelGroup": "lions",
+	"npcs": [
+		{
+			"id": 5807,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "mulgore"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 3243,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "northern-barrens"
+				}
+			]
+		},
+		{
+			"id": 3241,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "northern-barrens"
+				}
+			]
+		},
+		{
+			"id": 3425,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "northern-barrens"
+				}
+			]
+		},
+		{
+			"id": 37207,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "southern-barrens"
+				}
+			]
+		},
+		{
+			"id": 40971,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "durotar"
+				}
+			]
+		},
+		{
+			"id": 55444,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "darkmoon-island",
+					"area": "the-darkmoon-faire"
+				}
+			]
+		}
+	]
+}

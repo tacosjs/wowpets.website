@@ -1,0 +1,22 @@
+{
+	"id": "crabcave-red-black",
+	"family": "crab",
+	"modelGroup": "cavecrabs",
+	"npcs": [
+		{
+			"id": 239229,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "undermine",
+					"area": "the-vatworks"
+				}
+			]
+		}
+	]
+}

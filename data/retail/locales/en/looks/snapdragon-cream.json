@@ -1,0 +1,24 @@
+{
+	"name": "Tan & Grey Snapdragon",
+	"variant": "Tan & Grey",
+	"npcs": {
+		"150857": {
+			"name": "Stanley"
+		},
+		"152356": {
+			"name": "Venomous Snapdragon"
+		},
+		"154755": {
+			"name": "Venomspine Snapdragon"
+		},
+		"156101": {
+			"name": "Venomous Snapdragon"
+		},
+		"233698": {
+			"name": "Grouchy Snapdragon"
+		},
+		"246746": {
+			"name": "Bubbles"
+		}
+	}
+}

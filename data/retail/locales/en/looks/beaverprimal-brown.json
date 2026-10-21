@@ -1,0 +1,12 @@
+{
+	"name": "Brown Beaver",
+	"variant": "Brown",
+	"npcs": {
+		"183522": {
+			"name": "Timbertooth Gnasher"
+		},
+		"193037": {
+			"name": "Timbertooth"
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"id": "grimlynx-white",
+	"family": "whiptail",
+	"modelGroup": "grimlynxes",
+	"npcs": [
+		{
+			"id": 248741,
+			"tameable": true,
+			"level": {
+				"min": 85,
+				"max": 92
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "harandar"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

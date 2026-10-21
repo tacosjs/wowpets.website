@@ -1,0 +1,15 @@
+{
+	"name": "Red Nether Ray",
+	"variant": "Red",
+	"npcs": {
+		"21901": {
+			"name": "Netherskate"
+		},
+		"50361": {
+			"name": "Ornat"
+		},
+		"50362": {
+			"name": "Blackbog the Fang"
+		}
+	}
+}

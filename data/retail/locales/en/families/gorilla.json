@@ -1,0 +1,20 @@
+{
+	"name": "Gorillas",
+	"modelGroups": {
+		"cyberneticgorillas": {
+			"name": "Cybernetic Gorillas"
+		},
+		"grandgorillas": {
+			"name": "Gorillas"
+		},
+		"bossgorillas": {
+			"name": "Epic Gorillas"
+		},
+		"gorillas": {
+			"name": "Classic Gorillas"
+		},
+		"undeadgorillas": {
+			"name": "Undead Gorillas"
+		}
+	}
+}

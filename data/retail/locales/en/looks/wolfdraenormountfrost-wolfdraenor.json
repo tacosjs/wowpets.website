@@ -1,0 +1,12 @@
+{
+	"name": "Silver Maned Wolf w/ Blue Bands",
+	"variant": "Silver w/ Blue Bands",
+	"npcs": {
+		"140296": {
+			"name": "Dampfur the Musky"
+		},
+		"167345": {
+			"name": "Wolf"
+		}
+	}
+}

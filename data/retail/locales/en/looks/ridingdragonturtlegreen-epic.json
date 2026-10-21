@@ -1,0 +1,31 @@
+{
+	"name": "Camo Spiked Dragon Turtle",
+	"variant": "Camo",
+	"npcs": {
+		"63311": {
+			"name": "Scar-Shell",
+			"title": "Lang's Pet"
+		},
+		"66462": {
+			"name": "Rankbite Ancient"
+		},
+		"89891": {
+			"name": "Dragon Turtle"
+		},
+		"96053": {
+			"name": "Hell Shell"
+		},
+		"110838": {
+			"name": "Timeworn Greatshell"
+		},
+		"127477": {
+			"name": "Saltwater Snapper"
+		},
+		"134805": {
+			"name": "Wandering Behemoth"
+		},
+		"134906": {
+			"name": "Saltwater Snapper"
+		}
+	}
+}

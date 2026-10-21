@@ -1,0 +1,365 @@
+{
+	"id": "goatblack",
+	"family": "gruffhorn",
+	"modelGroup": "goats",
+	"npcs": [
+		{
+			"id": 107663,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormheim",
+					"area": "vrekt"
+				}
+			]
+		},
+		{
+			"id": 105104,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valsharah",
+					"area": "bradensbrook"
+				}
+			]
+		},
+		{
+			"id": 99636,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "highmountain"
+				}
+			]
+		},
+		{
+			"id": 138316,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound"
+				}
+			]
+		},
+		{
+			"id": 59680,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "kun-lai-summit",
+					"area": "the-burlap-trail"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 60242,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-veiled-stair"
+				},
+				{
+					"zone": "kun-lai-summit"
+				}
+			]
+		},
+		{
+			"id": 66464,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "kun-lai-summit"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 127822,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "highroad-pass"
+				}
+			]
+		},
+		{
+			"id": 69523,
+			"tameable": true,
+			"level": {
+				"min": 32,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-thunder"
+				}
+			]
+		},
+		{
+			"id": 141029,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "stormsong-valley",
+					"area": "millstone-hamlet"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 193612,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		},
+		{
+			"id": 198348,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "camp-nowhere"
+				}
+			]
+		},
+		{
+			"id": 193980,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		},
+		{
+			"id": 193427,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "creektooth-den"
+				}
+			]
+		},
+		{
+			"id": 112453,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valsharah",
+					"area": "bradensbrook"
+				}
+			]
+		},
+		{
+			"id": 140427,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 140425,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 60010,
+			"tameable": false,
+			"level": {
+				"min": 20,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "kun-lai-summit",
+					"area": "knucklethump-hole"
+				}
+			]
+		},
+		{
+			"id": 60748,
+			"tameable": false,
+			"level": {
+				"min": 20,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "kun-lai-summit"
+				}
+			]
+		},
+		{
+			"id": 60668,
+			"tameable": false,
+			"level": {
+				"min": 20,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "kun-lai-summit"
+				}
+			],
+			"retired": true
+		},
+		{
+			"id": 62937,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-veiled-stair",
+					"area": "the-spring-road"
+				}
+			]
+		},
+		{
+			"id": 62938,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-veiled-stair",
+					"area": "tavern-in-the-mists"
+				}
+			]
+		},
+		{
+			"id": 194760,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		},
+		{
+			"id": 193251,
+			"tameable": false,
+			"level": {
+				"min": 71,
+				"max": 71
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		}
+	]
+}

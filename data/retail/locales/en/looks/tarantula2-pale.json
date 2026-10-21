@@ -1,0 +1,12 @@
+{
+	"name": "Pale & Red Tarantula",
+	"variant": "Pale & Red",
+	"npcs": {
+		"191084": {
+			"name": "Spiderling"
+		},
+		"199542": {
+			"name": "Shifting Spawnling"
+		}
+	}
+}

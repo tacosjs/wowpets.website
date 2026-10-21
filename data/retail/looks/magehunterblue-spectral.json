@@ -1,0 +1,22 @@
+{
+	"id": "magehunterblue-spectral",
+	"family": "hound",
+	"modelGroup": "runeddemondogs",
+	"npcs": [
+		{
+			"id": 77402,
+			"tameable": false,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "talador",
+					"area": "angorosh-ruins"
+				}
+			]
+		}
+	]
+}

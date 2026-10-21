@@ -1,0 +1,80 @@
+{
+	"id": "berserkerboss-teal",
+	"family": "scalehide",
+	"modelGroup": "primalultradons",
+	"npcs": [
+		{
+			"id": 257962,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "obscurion-citadel"
+				}
+			]
+		},
+		{
+			"id": 257482,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "voidstorm"
+				}
+			]
+		},
+		{
+			"id": 259369,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "grief-spire"
+				}
+			]
+		},
+		{
+			"id": 235570,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "nexus-point-antius"
+				}
+			]
+		},
+		{
+			"id": 262270,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "val"
+				}
+			]
+		}
+	]
+}

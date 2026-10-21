@@ -1,0 +1,263 @@
+{
+	"id": "deepseacrabgreen",
+	"family": "crab",
+	"modelGroup": "spikedcrabs",
+	"npcs": [
+		{
+			"id": 118725,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "broken-shore",
+					"area": "felfire-pass"
+				}
+			]
+		},
+		{
+			"id": 108163,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna",
+					"area": "dead-mans-bay"
+				}
+			]
+		},
+		{
+			"id": 45087,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blasted-lands"
+				}
+			]
+		},
+		{
+			"id": 50957,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "dustwallow-marsh"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 123455,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "nazagal"
+				}
+			]
+		},
+		{
+			"id": 40238,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shimmering-expanse"
+				}
+			]
+		},
+		{
+			"id": 39418,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shimmering-expanse"
+				}
+			]
+		},
+		{
+			"id": 46606,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tol-barad-peninsula"
+				}
+			]
+		},
+		{
+			"id": 88922,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaan-jungle",
+					"area": "tanaan-channel-coast"
+				}
+			]
+		},
+		{
+			"id": 107846,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "suramar-city"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 137716,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-motherlode"
+				}
+			]
+		},
+		{
+			"id": 227572,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		},
+		{
+			"id": 218885,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		},
+		{
+			"id": 129469,
+			"tameable": false,
+			"level": {
+				"min": 9,
+				"max": 49
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 129471,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 139682,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "crimson-coast"
+				}
+			]
+		},
+		{
+			"id": 41520,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shimmering-expanse",
+					"area": "nespirah"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		111571,
+		134907,
+		46369,
+		127381,
+		154935,
+		154936,
+		219365
+	]
+}

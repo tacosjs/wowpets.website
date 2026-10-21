@@ -1,0 +1,22 @@
+{
+	"id": "horse3-evil-mane3",
+	"family": "courser",
+	"modelGroup": "horses",
+	"npcs": [
+		{
+			"id": 180208,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-maw",
+					"area": "the-beastwarrens"
+				}
+			]
+		}
+	]
+}

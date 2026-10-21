@@ -1,0 +1,40 @@
+{
+	"name": "Green Trigore",
+	"variant": "Green",
+	"npcs": {
+		"244776": {
+			"name": "Terraximus"
+		},
+		"244946": {
+			"name": "Marauding Trigore"
+		},
+		"246622": {
+			"name": "Trigore Denguard",
+			"title": "Brood of Predaxus"
+		},
+		"248906": {
+			"name": "Trigore Shard-Breaker"
+		},
+		"249172": {
+			"name": "Trigore Shard-Breaker"
+		},
+		"249433": {
+			"name": "Predaxian Trigore"
+		},
+		"250638": {
+			"name": "Trigore"
+		},
+		"253165": {
+			"name": "Steeljaw Trigore"
+		},
+		"255545": {
+			"name": "Steeljaw Trigore"
+		},
+		"257371": {
+			"name": "Primal Trigore"
+		},
+		"261074": {
+			"name": "Behemoth Trigore"
+		}
+	}
+}

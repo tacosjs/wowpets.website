@@ -1,0 +1,22 @@
+{
+	"id": "wolfdraenormountred-wolfdraenor",
+	"family": "wolf",
+	"modelGroup": "draenorwolves",
+	"npcs": [
+		{
+			"id": 140300,
+			"tameable": true,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

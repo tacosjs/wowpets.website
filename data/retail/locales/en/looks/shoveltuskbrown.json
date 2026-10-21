@@ -1,0 +1,9 @@
+{
+	"name": "Brown Shoveltusk",
+	"variant": "Brown",
+	"npcs": {
+		"29479": {
+			"name": "Shoveltusk Forager"
+		}
+	}
+}

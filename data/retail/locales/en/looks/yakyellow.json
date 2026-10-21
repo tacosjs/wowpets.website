@@ -1,0 +1,21 @@
+{
+	"name": "Tan Yak",
+	"variant": "Tan",
+	"npcs": {
+		"59600": {
+			"name": "Shaggy"
+		},
+		"60669": {
+			"name": "Long-Haired Yak"
+		},
+		"72843": {
+			"name": "Ironfur Grazer"
+		},
+		"140441": {
+			"name": "Muskflank Calf"
+		},
+		"140443": {
+			"name": "Muskflank Charger"
+		}
+	}
+}

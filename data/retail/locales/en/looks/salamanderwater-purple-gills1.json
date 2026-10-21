@@ -1,0 +1,24 @@
+{
+	"name": "Light Grey Salamanther w/ Gills & Fins",
+	"variant": "Light Grey",
+	"npcs": {
+		"188027": {
+			"name": "Salty Salamander"
+		},
+		"189050": {
+			"name": "Amphibious Siltcrawler"
+		},
+		"195074": {
+			"name": "Glistening Salamanther"
+		},
+		"200477": {
+			"name": "Frilled Gemtooth"
+		},
+		"221076": {
+			"name": "Reekscale"
+		},
+		"221134": {
+			"name": "Night Creeper"
+		}
+	}
+}

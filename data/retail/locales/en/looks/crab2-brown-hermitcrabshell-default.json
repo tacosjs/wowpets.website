@@ -1,0 +1,9 @@
+{
+	"name": "Brown Hermit Crab w/ Plain Shell",
+	"variant": "Brown",
+	"npcs": {
+		"152445": {
+			"name": "Glimmershell Crawler"
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"id": "manaray-black",
+	"family": "ray",
+	"modelGroup": "manarays",
+	"npcs": [
+		{
+			"id": 242352,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "shadow-point"
+				}
+			]
+		}
+	]
+}

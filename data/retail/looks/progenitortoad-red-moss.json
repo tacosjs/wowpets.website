@@ -1,0 +1,23 @@
+{
+	"id": "progenitortoad-red-moss",
+	"family": "hopper",
+	"modelGroup": "bufonids",
+	"npcs": [
+		{
+			"id": 178963,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "the-sepulcher-of-the-first-ones"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

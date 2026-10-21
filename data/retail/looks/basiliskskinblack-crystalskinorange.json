@@ -1,0 +1,22 @@
+{
+	"id": "basiliskskinblack-crystalskinorange",
+	"family": "basilisk",
+	"modelGroup": "basilisks",
+	"npcs": [
+		{
+			"id": 6215,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gnomeregan"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"name": "White Vulpin",
+	"variant": "White",
+	"npcs": {
+		"169921": {
+			"name": "Ghostpelt Vulpin"
+		}
+	}
+}

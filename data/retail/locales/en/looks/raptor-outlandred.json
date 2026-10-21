@@ -1,0 +1,12 @@
+{
+	"name": "Red Spiked Raptor",
+	"variant": "Red",
+	"npcs": {
+		"20751": {
+			"name": "Daggermaw Lashtail"
+		},
+		"37961": {
+			"name": "Corrupted Bloodtalon"
+		}
+	}
+}

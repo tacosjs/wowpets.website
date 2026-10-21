@@ -1,0 +1,9 @@
+{
+	"name": "Olive-Scaled Brown Windsteed",
+	"variant": "Olive-Scaled Brown",
+	"npcs": {
+		"231194": {
+			"name": "Jade-Scaled Windsteed"
+		}
+	}
+}

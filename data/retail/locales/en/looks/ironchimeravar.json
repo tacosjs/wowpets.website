@@ -1,0 +1,9 @@
+{
+	"name": "Tan Armored Rylak",
+	"variant": "Tan",
+	"npcs": {
+		"76874": {
+			"name": "Dreadwing"
+		}
+	}
+}

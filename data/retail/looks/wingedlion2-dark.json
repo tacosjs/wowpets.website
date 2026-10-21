@@ -1,0 +1,38 @@
+{
+	"id": "wingedlion2-dark",
+	"family": "feathermane",
+	"modelGroup": "larions",
+	"npcs": [
+		{
+			"id": 170184,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion"
+				}
+			]
+		},
+		{
+			"id": 163506,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "spires-of-ascension"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		160569
+	]
+}

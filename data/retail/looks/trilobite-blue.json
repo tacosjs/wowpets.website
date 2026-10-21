@@ -1,0 +1,81 @@
+{
+	"id": "trilobite-blue",
+	"family": "carapid",
+	"modelGroup": "krolusks",
+	"npcs": [
+		{
+			"id": 140034,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "tol-dagor-non-instanced"
+				}
+			]
+		},
+		{
+			"id": 230359,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh"
+				}
+			]
+		},
+		{
+			"id": 234858,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "north-sufaad"
+				}
+			]
+		},
+		{
+			"id": 242247,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "scrapdrift-sands"
+				}
+			]
+		},
+		{
+			"id": 229625,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "siren-isle",
+					"area": "ghoststone-diggings"
+				}
+			]
+		}
+	]
+}

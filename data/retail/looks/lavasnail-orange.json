@@ -1,0 +1,146 @@
+{
+	"id": "lavasnail-orange",
+	"family": "carapid",
+	"modelGroup": "magmasnails",
+	"npcs": [
+		{
+			"id": 191628,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores"
+				}
+			]
+		},
+		{
+			"id": 184851,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "wild-coast"
+				}
+			]
+		},
+		{
+			"id": 186833,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "life-binder-conservatory"
+				}
+			]
+		},
+		{
+			"id": 193139,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "dragonbane-keep"
+				}
+			]
+		},
+		{
+			"id": 186622,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "dragonbane-keep"
+				}
+			]
+		},
+		{
+			"id": 225393,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "the-hallowfall-gate"
+				}
+			]
+		},
+		{
+			"id": 214724,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "candleslag-quarry-the-earthenworks"
+				}
+			]
+		},
+		{
+			"id": 225391,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "the-hallowfall-gate"
+				}
+			]
+		},
+		{
+			"id": 219790,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "the-hallowfall-gate-candleslag-quarry"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

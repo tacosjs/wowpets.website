@@ -1,0 +1,40 @@
+{
+	"id": "phoenix2-red",
+	"family": "birdofprey",
+	"modelGroup": "phoenixes",
+	"npcs": [
+		{
+			"id": 199829,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "zaqali-caldera"
+				}
+			]
+		},
+		{
+			"id": 203664,
+			"tameable": false,
+			"level": {
+				"min": 72,
+				"max": 72
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "zaqali-caldera"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		204110
+	]
+}

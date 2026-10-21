@@ -1,0 +1,9 @@
+{
+	"name": "Armoured Grey Dragonhawk",
+	"variant": "Armoured Grey Dragonhawk",
+	"npcs": {
+		"35984": {
+			"name": "Sunreaver Dragonhawk"
+		}
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"name": "Black Spiked Raptor",
+	"variant": "Black",
+	"npcs": {
+		"20716": {
+			"name": "Rek'tor",
+			"title": "Colin O'Rourke's Pet"
+		},
+		"20729": {
+			"name": "Bladespire Ravager"
+		},
+		"22052": {
+			"name": "Daggermaw Blackhide"
+		},
+		"26628": {
+			"name": "Drakkari Scytheclaw"
+		},
+		"36735": {
+			"name": "Teraptor Matriarch"
+		},
+		"38187": {
+			"name": "Spiny Raptor"
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"id": "skeletalwarhorse2-midnight",
+	"family": "courser",
+	"modelGroup": "skeletalwarhorses",
+	"npcs": [
+		{
+			"id": 114264,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "return-to-karazhan",
+					"area": "livery-stables-return-to-karazhan"
+				}
+			]
+		}
+	]
+}

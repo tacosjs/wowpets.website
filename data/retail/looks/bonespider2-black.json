@@ -1,0 +1,262 @@
+{
+	"id": "bonespider2-black",
+	"family": "spider",
+	"modelGroup": "grandbonespiders",
+	"npcs": [
+		{
+			"id": 50759,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "stonetalon-mountains",
+					"area": "sishir-canyon"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 74583,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "razorfen-downs"
+				}
+			]
+		},
+		{
+			"id": 50778,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "western-plaguelands"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 42337,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blasted-lands"
+				}
+			]
+		},
+		{
+			"id": 77634,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "talador",
+					"area": "deathweb-hollow"
+				}
+			],
+			"keepsName": true,
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 86507,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "talador",
+					"area": "deathweb-hollow"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 132318,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "bleak-hills-mine"
+				}
+			]
+		},
+		{
+			"id": 129496,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "court-of-zakrajan"
+				}
+			]
+		},
+		{
+			"id": 139521,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "arid-basin"
+				}
+			]
+		},
+		{
+			"id": 58474,
+			"tameable": true,
+			"level": {
+				"min": 36,
+				"max": 36
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms",
+					"area": "guo-lai-halls"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 263653,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "vault-of-restless-bones"
+				}
+			]
+		},
+		{
+			"id": 134893,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 134895,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 64762,
+			"tameable": false,
+			"level": {
+				"min": 36,
+				"max": 36
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms",
+					"area": "guo-lai-halls"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 112411,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "withered-training-instance"
+				}
+			]
+		},
+		{
+			"id": 112412,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "withered-training-instance"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		231010
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"name": "White & Red Tiger",
+	"variant": "White & Red",
+	"npcs": {
+		"76687": {
+			"name": "Sher'khaan"
+		},
+		"79432": {
+			"name": "Panicked Young Prowler"
+		},
+		"79455": {
+			"name": "Miss Purr-Purr"
+		},
+		"79703": {
+			"name": "Ridge Prowler"
+		},
+		"79705": {
+			"name": "Young Ridge Prowler"
+		},
+		"135645": {
+			"name": "Elder Pridemother"
+		},
+		"135649": {
+			"name": "Clawflurry"
+		}
+	}
+}

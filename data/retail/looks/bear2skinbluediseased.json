@@ -1,0 +1,98 @@
+{
+	"id": "bear2skinbluediseased",
+	"family": "bear",
+	"modelGroup": "bears",
+	"npcs": [
+		{
+			"id": 47204,
+			"tameable": true,
+			"level": {
+				"min": 7,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hillsbrad-foothills"
+				}
+			]
+		},
+		{
+			"id": 50929,
+			"tameable": true,
+			"level": {
+				"min": 7,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "hillsbrad-foothills"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 140155,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 140156,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 155176,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "stormsong-valley"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 180852,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-veiled-market",
+					"area": "tazavesh"
+				}
+			]
+		}
+	]
+}

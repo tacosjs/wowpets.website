@@ -1,0 +1,51 @@
+{
+	"id": "hippoblue",
+	"family": "riverbeast",
+	"modelGroup": "riverbeasts",
+	"npcs": [
+		{
+			"id": 83455,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "swamplight-trail"
+				}
+			]
+		},
+		{
+			"id": 75468,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "the-verdant-mire"
+				}
+			]
+		},
+		{
+			"id": 83841,
+			"tameable": true,
+			"level": {
+				"min": 11,
+				"max": 61
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ashran"
+				}
+			]
+		}
+	]
+}

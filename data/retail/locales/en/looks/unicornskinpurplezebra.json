@@ -1,0 +1,12 @@
+{
+	"name": "Dark Purple-Striped Zhevra",
+	"variant": "Dark Purple-Striped",
+	"npcs": {
+		"5831": {
+			"name": "Swiftmane"
+		},
+		"105644": {
+			"name": "Penned 'Monohorn'"
+		}
+	}
+}

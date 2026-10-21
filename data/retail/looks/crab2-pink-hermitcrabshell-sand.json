@@ -1,0 +1,17 @@
+{
+	"id": "crab2-pink-hermitcrabshell-sand",
+	"family": "crab",
+	"modelGroup": "hermitcrabs",
+	"npcs": [],
+	"alsoNpcs": [
+		192123,
+		193605,
+		197954,
+		197000,
+		198783,
+		199776,
+		200949,
+		210382,
+		217122
+	]
+}

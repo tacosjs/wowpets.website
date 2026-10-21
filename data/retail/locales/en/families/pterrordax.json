@@ -1,0 +1,23 @@
+{
+	"name": "Pterrordax",
+	"modelGroups": {
+		"pterrordaxes": {
+			"name": "Pterrordaxes"
+		},
+		"armouredpterrordaxes": {
+			"name": "Armoured Pterrordaxes"
+		},
+		"harnessedpterrordaxes": {
+			"name": "Harnessed Pterrordaxes"
+		},
+		"oldpterrordaxes": {
+			"name": "Classic Pterrordaxes"
+		},
+		"skyscreamers": {
+			"name": "Skyscreamers"
+		},
+		"armouredskyscreamers": {
+			"name": "Armoured Skyscreamers"
+		}
+	}
+}

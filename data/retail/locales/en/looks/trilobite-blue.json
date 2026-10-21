@@ -1,0 +1,21 @@
+{
+	"name": "Blue Krolusk",
+	"variant": "Blue",
+	"npcs": {
+		"140034": {
+			"name": "Bonestripper Krolusk"
+		},
+		"229625": {
+			"name": "Skittersong Krolusk"
+		},
+		"230359": {
+			"name": "Gritshell Krolusk"
+		},
+		"234858": {
+			"name": "Sand Strider"
+		},
+		"242247": {
+			"name": "Scrapdrift Burrower"
+		}
+	}
+}

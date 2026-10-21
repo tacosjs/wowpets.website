@@ -1,0 +1,64 @@
+{
+	"id": "snapdragon-white",
+	"family": "lizard",
+	"modelGroup": "snapdragons",
+	"npcs": [
+		{
+			"id": 152359,
+			"tameable": true,
+			"level": {
+				"min": 51,
+				"max": 51
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "naranan"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 229856,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "siren-isle",
+					"area": "stormtide-dregs"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 247553,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "daggerspine-landing"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		193873,
+		257830,
+		244048,
+		190193
+	]
+}

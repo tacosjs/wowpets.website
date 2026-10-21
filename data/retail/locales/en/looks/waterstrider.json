@@ -1,0 +1,9 @@
+{
+	"name": "Light Yellow Water Strider",
+	"variant": "Light Yellow",
+	"npcs": {
+		"66895": {
+			"name": "River Strider"
+		}
+	}
+}

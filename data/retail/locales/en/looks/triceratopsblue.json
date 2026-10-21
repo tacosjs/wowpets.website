@@ -1,0 +1,33 @@
+{
+	"name": "Blue Direhorn",
+	"variant": "Blue",
+	"npcs": {
+		"67576": {
+			"name": "Adolescent Direhorn"
+		},
+		"69983": {
+			"name": "Primal Direhorn"
+		},
+		"69992": {
+			"name": "Primal Direhorn Hatchling"
+		},
+		"70059": {
+			"name": "Stunted Direhorn"
+		},
+		"122059": {
+			"name": "Direhorn Juvenile"
+		},
+		"122060": {
+			"name": "Direhorn Cow"
+		},
+		"129552": {
+			"name": "Monzumi"
+		},
+		"130712": {
+			"name": "Adolescent Direhorn"
+		},
+		"130743": {
+			"name": "Adolescent Direhorn"
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"name": "Green Outland Basilisk",
+	"variant": "Green",
+	"npcs": {
+		"18461": {
+			"name": "Dampscale Basilisk"
+		},
+		"18463": {
+			"name": "Dampscale Devourer"
+		},
+		"20987": {
+			"name": "Ruuan Weald Basilisk"
+		},
+		"85694": {
+			"name": "Mire Basilisk"
+		},
+		"86134": {
+			"name": "Vicious Cave Basilisk"
+		}
+	}
+}

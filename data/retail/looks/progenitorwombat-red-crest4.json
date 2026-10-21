@@ -1,0 +1,22 @@
+{
+	"id": "progenitorwombat-red-crest4",
+	"family": "rodent",
+	"modelGroup": "vombatas",
+	"npcs": [
+		{
+			"id": 181963,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "nexus-of-actualization"
+				}
+			]
+		}
+	]
+}

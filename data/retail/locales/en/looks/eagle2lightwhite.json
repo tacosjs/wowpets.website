@@ -1,0 +1,70 @@
+{
+	"name": "White Eagle",
+	"variant": "White",
+	"npcs": {
+		"29044": {
+			"name": "Goretalon Matriarch"
+		},
+		"29808": {
+			"name": "Stormcrest Hatchling"
+		},
+		"29854": {
+			"name": "Stormcrest Eagle"
+		},
+		"42664": {
+			"name": "Hyjal Huntress"
+		},
+		"50342": {
+			"name": "Heronis"
+		},
+		"56171": {
+			"name": "Great White Plainshawk"
+		},
+		"59528": {
+			"name": "Cliff Kite"
+		},
+		"59641": {
+			"name": "Monstrous Plainshawk"
+		},
+		"62420": {
+			"name": "Whitefeather",
+			"title": "Hawkmaster Nurong's Pet"
+		},
+		"64937": {
+			"name": "Great Cliff Hawk"
+		},
+		"70195": {
+			"name": "Eagle"
+		},
+		"87649": {
+			"name": "Moonsong Dove"
+		},
+		"91715": {
+			"name": "Azsunian Kingfeather"
+		},
+		"94708": {
+			"name": "Storm Hawk"
+		},
+		"102848": {
+			"name": "Slifna"
+		},
+		"107319": {
+			"name": "Snowfeather",
+			"title": "Emmarel's Companion"
+		},
+		"113408": {
+			"name": "Salty"
+		},
+		"196706": {
+			"name": "Aviash",
+			"title": "Lasan's Mount"
+		},
+		"196749": {
+			"name": "Snowfeather",
+			"title": "Emmarel's Companion"
+		},
+		"231146": {
+			"name": "Saltwing Petrel"
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Violet Panthara w/ Pink Glow",
+	"variant": "Violet Panthara w/ Pink Glow",
+	"npcs": {
+		"126419": {
+			"name": "Naroua",
+			"title": "King of the Forest"
+		},
+		"126898": {
+			"name": "Sabuul"
+		},
+		"245429": {
+			"name": "Umbra Panthera"
+		}
+	}
+}

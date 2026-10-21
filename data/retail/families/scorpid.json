@@ -1,0 +1,30 @@
+{
+	"id": "scorpid",
+	"wowId": 20,
+	"icon": "ability_hunter_pet_scorpid",
+	"spec": "ferocity",
+	"exotic": false,
+	"diet": [
+		"meat"
+	],
+	"abilities": {
+		"basic": "claw",
+		"family": [
+			"deadly-sting"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "ruggedscorpions"
+		},
+		{
+			"id": "firescorpions"
+		},
+		{
+			"id": "crystalscorpions"
+		},
+		{
+			"id": "scorpids"
+		}
+	]
+}

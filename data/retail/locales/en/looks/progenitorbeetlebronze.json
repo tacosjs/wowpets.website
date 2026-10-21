@@ -1,0 +1,12 @@
+{
+	"name": "Dark Grey & Bronze Scarabid",
+	"variant": "Dark Grey & Bronze",
+	"npcs": {
+		"178155": {
+			"name": "Scarabid Burrower"
+		},
+		"185366": {
+			"name": "Captured Skitterer"
+		}
+	}
+}

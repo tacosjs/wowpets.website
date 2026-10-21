@@ -1,0 +1,52 @@
+{
+	"id": "ringwormazerite",
+	"family": "shalebeast",
+	"modelGroup": "gyreworms",
+	"npcs": [
+		{
+			"id": 134005,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-motherlode",
+					"area": "lucky-strike-mines"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 152836,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-maelstrom"
+				}
+			]
+		},
+		{
+			"id": 152136,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mount-hyjal",
+					"area": "nordrassil"
+				}
+			]
+		}
+	]
+}

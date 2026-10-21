@@ -1,0 +1,33 @@
+{
+	"name": "Golden-Tan Cat",
+	"variant": "Golden-Tan",
+	"npcs": {
+		"2385": {
+			"name": "Foothill Stalker"
+		},
+		"2850": {
+			"name": "Broken Tooth"
+		},
+		"3035": {
+			"name": "Flatland Cougar"
+		},
+		"3415": {
+			"name": "Savannah Huntress"
+		},
+		"3416": {
+			"name": "Savannah Matriarch"
+		},
+		"3566": {
+			"name": "Flatland Prowler"
+		},
+		"5766": {
+			"name": "Savannah Cub"
+		},
+		"24064": {
+			"name": "Amani Lynx Cub"
+		},
+		"113106": {
+			"name": "Sickly Cougar"
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Green & Yellow Parrot",
+	"variant": "Green & Yellow",
+	"npcs": {
+		"48138": {
+			"name": "Brilliant Clayscraper"
+		},
+		"60200": {
+			"name": "Emerald Lory"
+		},
+		"104845": {
+			"name": "Caged Macaw"
+		}
+	}
+}

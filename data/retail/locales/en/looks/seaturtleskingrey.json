@@ -1,0 +1,18 @@
+{
+	"name": "Grey Turtle",
+	"variant": "Grey",
+	"npcs": {
+		"4397": {
+			"name": "Mudrock Spikeshell"
+		},
+		"8213": {
+			"name": "Ironback"
+		},
+		"44109": {
+			"name": "Marsh Snapper"
+		},
+		"51014": {
+			"name": "Terrapis"
+		}
+	}
+}

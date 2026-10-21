@@ -1,0 +1,96 @@
+{
+	"id": "jormungarlarvapale",
+	"family": "worm",
+	"modelGroup": "jormungar",
+	"npcs": [
+		{
+			"id": 29605,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-storm-peaks"
+				}
+			]
+		},
+		{
+			"id": 30291,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-storm-peaks"
+				}
+			]
+		},
+		{
+			"id": 199331,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "upper-frostlands"
+				}
+			]
+		},
+		{
+			"id": 91001,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "neltharions-lair"
+				}
+			]
+		},
+		{
+			"id": 102430,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "neltharions-lair",
+					"area": "path-of-the-worm"
+				}
+			]
+		},
+		{
+			"id": 140989,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		215733
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"name": "Blue Axebeak",
+	"variant": "Blue",
+	"npcs": {
+		"85564": {
+			"name": "Jungle Axebeak"
+		},
+		"85808": {
+			"name": "Jungle Axebeak"
+		},
+		"89718": {
+			"name": "Greater Axebeak"
+		},
+		"90245": {
+			"name": "Highlands Axebeak"
+		},
+		"91050": {
+			"name": "Canopy Axebeak"
+		},
+		"131598": {
+			"name": "Cliff Axebeak"
+		},
+		"131695": {
+			"name": "Cliff Axebeak"
+		},
+		"134782": {
+			"name": "Murderbeak"
+		},
+		"229668": {
+			"name": "Seawing Axebeak"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Black & Green Felboar",
+	"variant": "Black & Green",
+	"npcs": {
+		"16992": {
+			"name": "Dreadtusk"
+		},
+		"21878": {
+			"name": "Felboar"
+		}
+	}
+}

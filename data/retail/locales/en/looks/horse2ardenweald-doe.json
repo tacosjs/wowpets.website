@@ -1,0 +1,12 @@
+{
+	"name": "Brown & Grey Ardenweald Dreamrunner w/ Purple Horn",
+	"variant": "Brown & Grey w/ Purple Horn",
+	"npcs": {
+		"169750": {
+			"name": "Wild Gloomrunner"
+		},
+		"179912": {
+			"name": "Maelie the Wanderer"
+		}
+	}
+}

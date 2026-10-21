@@ -1,0 +1,12 @@
+{
+	"name": "Grey-Armoured Green Tauralus",
+	"variant": "Grey-Armoured Green",
+	"npcs": {
+		"168148": {
+			"name": "Drolkrad"
+		},
+		"170850": {
+			"name": "Raging Bloodhorn"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Spirit Bear",
+	"variant": "Spirit",
+	"npcs": {
+		"38453": {
+			"name": "Arcturis"
+		}
+	}
+}

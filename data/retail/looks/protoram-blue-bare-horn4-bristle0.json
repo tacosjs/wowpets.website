@@ -1,0 +1,21 @@
+{
+	"id": "protoram-blue-bare-horn4-bristle0",
+	"family": "gruffhorn",
+	"modelGroup": "ramoliths",
+	"npcs": [
+		{
+			"id": 221641,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn"
+				}
+			]
+		}
+	]
+}

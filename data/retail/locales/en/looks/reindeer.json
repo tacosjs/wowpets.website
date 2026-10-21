@@ -1,0 +1,15 @@
+{
+	"name": "Reindeer",
+	"variant": "Reindeer",
+	"npcs": {
+		"15664": {
+			"name": "Metzen the Reindeer"
+		},
+		"25680": {
+			"name": "Marsh Caribou"
+		},
+		"25750": {
+			"name": "Oil-soaked Caribou"
+		}
+	}
+}

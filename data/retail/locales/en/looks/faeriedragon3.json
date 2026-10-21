@@ -1,0 +1,24 @@
+{
+	"name": "Green-Blue Dream Darter",
+	"variant": "Blue-Green",
+	"npcs": {
+		"206511": {
+			"name": "Faerie Dragon"
+		},
+		"207617": {
+			"name": "Sprite Dreamer"
+		},
+		"208235": {
+			"name": "Bough Darter"
+		},
+		"210872": {
+			"name": "Wrigli"
+		},
+		"213547": {
+			"name": "Protected Faerie Dragon"
+		},
+		"213647": {
+			"name": "Mischievous Faerie Dragon"
+		}
+	}
+}

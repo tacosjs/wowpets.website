@@ -1,0 +1,12 @@
+{
+	"name": "Grey Musken",
+	"variant": "Grey",
+	"npcs": {
+		"140455": {
+			"name": "Bramblefur Calf"
+		},
+		"140457": {
+			"name": "Bramblefur Grazer"
+		}
+	}
+}

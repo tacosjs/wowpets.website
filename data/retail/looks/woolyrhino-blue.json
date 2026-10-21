@@ -1,0 +1,95 @@
+{
+	"id": "woolyrhino-blue",
+	"family": "clefthoof",
+	"modelGroup": "woollyrhinos",
+	"npcs": [
+		{
+			"id": 50997,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "winterspring",
+					"area": "the-hidden-grove"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 28009,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "sholazar-basin"
+				}
+			]
+		},
+		{
+			"id": 29931,
+			"tameable": true,
+			"level": {
+				"min": 21,
+				"max": 31
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "gundrak"
+				}
+			]
+		},
+		{
+			"id": 29838,
+			"tameable": true,
+			"level": {
+				"min": 21,
+				"max": 31
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "gundrak"
+				}
+			]
+		},
+		{
+			"id": 55608,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "darkmoon-island",
+					"area": "the-darkmoon-faire"
+				}
+			]
+		},
+		{
+			"id": 205855,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "tyrhold-reservoir"
+				}
+			]
+		}
+	]
+}

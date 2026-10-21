@@ -1,0 +1,21 @@
+{
+	"name": "Yellow Firefly",
+	"variant": "Yellow",
+	"npcs": {
+		"19632": {
+			"name": "Lykul Stinger"
+		},
+		"20197": {
+			"name": "Bogflare Needler"
+		},
+		"45402": {
+			"name": "Nix"
+		},
+		"54559": {
+			"name": "Glittering Amberfly"
+		},
+		"66194": {
+			"name": "Waste Scavenger"
+		}
+	}
+}

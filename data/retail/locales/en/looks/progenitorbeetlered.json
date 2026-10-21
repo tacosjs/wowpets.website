@@ -1,0 +1,10 @@
+{
+	"name": "Red & Silver Scarabid",
+	"variant": "Red & Silver",
+	"npcs": {
+		"178563": {
+			"name": "Hadeon the Stonebreaker",
+			"title": "Scarabid Prime"
+		}
+	}
+}

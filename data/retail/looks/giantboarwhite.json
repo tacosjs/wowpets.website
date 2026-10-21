@@ -1,0 +1,172 @@
+{
+	"id": "giantboarwhite",
+	"family": "boar",
+	"modelGroup": "draenorboars",
+	"npcs": [
+		{
+			"id": 77298,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "aguraks-fall"
+				}
+			]
+		},
+		{
+			"id": 242401,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "camp-stonewash"
+				}
+			]
+		},
+		{
+			"id": 242166,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "solemn-valley"
+				}
+			]
+		},
+		{
+			"id": 77300,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "aguraks-fall"
+				}
+			]
+		},
+		{
+			"id": 80298,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "exiles-rise"
+				}
+			]
+		},
+		{
+			"id": 75194,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 41
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "bloodmaul-slag-mines"
+				}
+			]
+		},
+		{
+			"id": 140180,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 140182,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 84893,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 62
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "ashran",
+					"area": "ring-of-conquest"
+				}
+			]
+		},
+		{
+			"id": 84943,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "spires-of-arak"
+				}
+			]
+		},
+		{
+			"id": 82533,
+			"tameable": false,
+			"level": {
+				"min": 42,
+				"max": 42
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "highmaul",
+					"area": "the-underbelly"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		76187,
+		78548
+	]
+}

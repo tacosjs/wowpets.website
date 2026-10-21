@@ -1,0 +1,12 @@
+{
+	"name": "Purple & Yellow-Green Spider",
+	"variant": "Purple & Yellow-Green",
+	"npcs": {
+		"162399": {
+			"name": "Echo of the Spy"
+		},
+		"164690": {
+			"name": "Anima Creeper"
+		}
+	}
+}

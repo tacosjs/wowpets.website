@@ -1,0 +1,41 @@
+{
+	"id": "deepseacrabred-blue",
+	"family": "crab",
+	"modelGroup": "spikedcrabs",
+	"npcs": [
+		{
+			"id": 101554,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna"
+				}
+			]
+		},
+		{
+			"id": 102516,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna",
+					"area": "gloaming-reef"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		154935,
+		154936,
+		219365
+	]
+}

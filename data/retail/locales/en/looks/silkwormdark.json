@@ -1,0 +1,12 @@
+{
+	"name": "Purple Silkworm",
+	"variant": "Purple",
+	"npcs": {
+		"67820": {
+			"name": "Bombyx"
+		},
+		"72909": {
+			"name": "Gu'chi the Swarmbringer"
+		}
+	}
+}

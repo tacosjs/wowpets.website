@@ -1,0 +1,12 @@
+{
+	"name": "Diamond-Back Wind Serpent",
+	"variant": "Diamond-Back",
+	"npcs": {
+		"140339": {
+			"name": "Vale Terror"
+		},
+		"140344": {
+			"name": "Sky Viper"
+		}
+	}
+}

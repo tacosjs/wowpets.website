@@ -1,0 +1,36 @@
+{
+	"id": "giantboarfel",
+	"family": "boar",
+	"modelGroup": "draenorboars",
+	"npcs": [
+		{
+			"id": 89689,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "tanaan-jungle",
+					"area": "hellfire-citadel-non-instanced"
+				}
+			]
+		},
+		{
+			"id": 118685,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "broken-shore"
+				}
+			]
+		}
+	]
+}

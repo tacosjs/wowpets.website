@@ -1,0 +1,18 @@
+{
+	"name": "Yellow-Brown Maned Wolf",
+	"variant": "Yellow-Brown",
+	"npcs": {
+		"128774": {
+			"name": "Rustfur Wolf"
+		},
+		"136697": {
+			"name": "The Rime Huntress"
+		},
+		"140075": {
+			"name": "Canus"
+		},
+		"141051": {
+			"name": "Rustfur Matriarch"
+		}
+	}
+}

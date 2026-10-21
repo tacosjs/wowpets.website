@@ -1,0 +1,22 @@
+{
+	"id": "windserpent2-gold-rattle",
+	"family": "windserpent",
+	"modelGroup": "grandwindserpents",
+	"npcs": [
+		{
+			"id": 135322,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "kings-rest"
+				}
+			],
+			"keepsName": true
+		}
+	],
+	"alsoNpcs": [
+		191645,
+		191647
+	]
+}

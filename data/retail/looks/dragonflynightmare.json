@@ -1,0 +1,53 @@
+{
+	"id": "dragonflynightmare",
+	"family": "wasp",
+	"modelGroup": "hookwasps",
+	"npcs": [
+		{
+			"id": 95951,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valsharah"
+				}
+			]
+		},
+		{
+			"id": 139145,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "deathmist-hills"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 245044,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "night-trench"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

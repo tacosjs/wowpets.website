@@ -1,0 +1,100 @@
+{
+	"id": "resinrhino-tan",
+	"family": "direhorn",
+	"modelGroup": "chloroceroses",
+	"npcs": [
+		{
+			"id": 244371,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "ahlua-wetland"
+				}
+			]
+		},
+		{
+			"id": 256541,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "nordrassil-roots"
+				}
+			]
+		},
+		{
+			"id": 251562,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "nordrassil-roots"
+				}
+			]
+		},
+		{
+			"id": 255971,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "encroaching-bloom"
+				}
+			]
+		},
+		{
+			"id": 251724,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar"
+				}
+			]
+		},
+		{
+			"id": 258648,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "the-den"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		247783,
+		247090
+	]
+}

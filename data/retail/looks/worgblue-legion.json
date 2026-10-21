@@ -1,0 +1,71 @@
+{
+	"id": "worgblue-legion",
+	"family": "wolf",
+	"modelGroup": "direworgs",
+	"npcs": [
+		{
+			"id": 96608,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "halls-of-valor",
+					"area": "fields-of-the-eternal-hunt"
+				}
+			]
+		},
+		{
+			"id": 157589,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "twilight-highlands",
+					"area": "dunwald-ruins"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "phase"
+				}
+			]
+		},
+		{
+			"id": 214970,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "ironwold"
+				}
+			]
+		},
+		{
+			"id": 218401,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn"
+				}
+			]
+		}
+	]
+}

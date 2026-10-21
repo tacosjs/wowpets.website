@@ -1,0 +1,10 @@
+{
+	"name": "Fel Green Hippogryph",
+	"variant": "Fel Green",
+	"npcs": {
+		"121540": {
+			"name": "Lalathin",
+			"title": "Elisande's Pet"
+		}
+	}
+}

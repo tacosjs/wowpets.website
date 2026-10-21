@@ -1,0 +1,19 @@
+{
+	"name": "Brown Quilen",
+	"variant": "Brown",
+	"npcs": {
+		"61453": {
+			"name": "Mu'Shiba",
+			"title": "Kuai the Brute's Guardian"
+		},
+		"62266": {
+			"name": "Bronze Quilen"
+		},
+		"139431": {
+			"name": "Guardian of Tombs"
+		},
+		"139464": {
+			"name": "Zian-Ti Howler"
+		}
+	}
+}

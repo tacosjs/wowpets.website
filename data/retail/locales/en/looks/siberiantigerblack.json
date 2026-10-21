@@ -1,0 +1,52 @@
+{
+	"name": "Black Tiger",
+	"variant": "Black",
+	"npcs": {
+		"56198": {
+			"name": "Thicket Stalker"
+		},
+		"56653": {
+			"name": "Wild Prowler"
+		},
+		"56654": {
+			"name": "Wild Stalker"
+		},
+		"56683": {
+			"name": "Wild Stalker"
+		},
+		"58221": {
+			"name": "Krasari Stalker"
+		},
+		"63538": {
+			"name": "Windward Huntress"
+		},
+		"66184": {
+			"name": "Dread Stalker"
+		},
+		"66633": {
+			"name": "Ruukti"
+		},
+		"66799": {
+			"name": "Young Stalker"
+		},
+		"72808": {
+			"name": "Tsavo'ka",
+			"title": "Ghost in the Darkness"
+		},
+		"79959": {
+			"name": "Nightmaw"
+		},
+		"80917": {
+			"name": "Muku"
+		},
+		"126099": {
+			"name": "Duskcoat Den-Mother"
+		},
+		"126101": {
+			"name": "Duskcoat Huntress"
+		},
+		"128921": {
+			"name": "Duskcoat Tiger"
+		}
+	}
+}

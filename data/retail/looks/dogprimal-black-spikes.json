@@ -1,0 +1,51 @@
+{
+	"id": "dogprimal-black-spikes",
+	"family": "hound",
+	"modelGroup": "bakars",
+	"npcs": [
+		{
+			"id": 196083,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "the-storm-scar"
+				}
+			]
+		},
+		{
+			"id": 194020,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "sagecrest-pines"
+				}
+			]
+		},
+		{
+			"id": 196645,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-nokhud-offensive"
+				}
+			]
+		}
+	]
+}

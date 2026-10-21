@@ -1,0 +1,37 @@
+{
+	"id": "maldraxxusboar-darkbrown",
+	"family": "boar",
+	"modelGroup": "skullboars",
+	"npcs": [
+		{
+			"id": 165566,
+			"tameable": true,
+			"level": {
+				"min": 54,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 175097,
+			"tameable": false,
+			"level": {
+				"min": 54,
+				"max": 54
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "iron-trench"
+				}
+			]
+		}
+	]
+}

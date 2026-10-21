@@ -1,0 +1,61 @@
+{
+	"id": "gianteagle2-blue",
+	"family": "birdofprey",
+	"modelGroup": "amanieagles",
+	"npcs": [
+		{
+			"id": 242189,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "solemn-valley"
+				}
+			]
+		},
+		{
+			"id": 264671,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "the-forum"
+				}
+			]
+		},
+		{
+			"id": 249446,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "temple-of-akilzon"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		243679,
+		255042,
+		261307,
+		258394,
+		255490,
+		252277,
+		244556
+	]
+}

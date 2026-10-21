@@ -1,0 +1,194 @@
+{
+	"id": "gryphon-skin",
+	"family": "feathermane",
+	"modelGroup": "gryphons",
+	"npcs": [
+		{
+			"id": 49251,
+			"tameable": true,
+			"level": {
+				"min": 7,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hillsbrad-foothills"
+				}
+			]
+		},
+		{
+			"id": 2658,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-hinterlands"
+				}
+			]
+		},
+		{
+			"id": 46158,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "twilight-highlands"
+				}
+			]
+		},
+		{
+			"id": 2473,
+			"tameable": false,
+			"level": {
+				"min": 7,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hillsbrad-foothills"
+				}
+			]
+		},
+		{
+			"id": 2474,
+			"tameable": false,
+			"level": {
+				"min": 7,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hillsbrad-foothills"
+				}
+			]
+		},
+		{
+			"id": 36416,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "desolace"
+				}
+			]
+		},
+		{
+			"id": 2659,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-hinterlands"
+				}
+			]
+		},
+		{
+			"id": 8276,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-hinterlands"
+				}
+			]
+		},
+		{
+			"id": 2657,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-hinterlands"
+				}
+			]
+		},
+		{
+			"id": 112667,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "emerald-dreamway"
+				}
+			]
+		},
+		{
+			"id": 42716,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "deepholm"
+				}
+			]
+		},
+		{
+			"id": 58782,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "theramores-fall"
+				}
+			]
+		},
+		{
+			"id": 9526,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "various"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

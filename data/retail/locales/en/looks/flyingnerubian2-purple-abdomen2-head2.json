@@ -1,0 +1,21 @@
+{
+	"name": "Purple Swarmite w/ Proboscis & Medium Tail",
+	"variant": "Purple w/ Proboscis & Medium Tail",
+	"npcs": {
+		"232099": {
+			"name": "Sureki Screamer"
+		},
+		"232158": {
+			"name": "Sureki Swarmer"
+		},
+		"237589": {
+			"name": "Savage Swarmite"
+		},
+		"238930": {
+			"name": "Sureki Spitmite"
+		},
+		"271252": {
+			"name": "Nerubian Screamer"
+		}
+	}
+}

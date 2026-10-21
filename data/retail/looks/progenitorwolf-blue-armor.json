@@ -1,0 +1,23 @@
+{
+	"id": "progenitorwolf-blue-armor",
+	"family": "wolf",
+	"modelGroup": "lupines",
+	"npcs": [
+		{
+			"id": 181360,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "the-great-veldt"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

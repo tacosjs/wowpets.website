@@ -1,0 +1,21 @@
+{
+	"name": "Green Mushan",
+	"variant": "Green",
+	"npcs": {
+		"56523": {
+			"name": "Mushan Nomad"
+		},
+		"58895": {
+			"name": "Sungraze Behemoth"
+		},
+		"62346": {
+			"name": "Galleon"
+		},
+		"63568": {
+			"name": "Amber-Ridden Mushan"
+		},
+		"65627": {
+			"name": "Dustback Warder"
+		}
+	}
+}

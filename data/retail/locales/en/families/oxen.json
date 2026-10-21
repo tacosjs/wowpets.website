@@ -1,0 +1,23 @@
+{
+	"name": "Oxen",
+	"modelGroups": {
+		"tauralus": {
+			"name": "Tauraluses"
+		},
+		"armouredtauralus": {
+			"name": "Armoured Tauraluses"
+		},
+		"saddledtauralus": {
+			"name": "Saddled Tauraluses"
+		},
+		"yaks": {
+			"name": "Yaks"
+		},
+		"musken": {
+			"name": "Musken"
+		},
+		"shoveltusks": {
+			"name": "Shoveltusks"
+		}
+	}
+}

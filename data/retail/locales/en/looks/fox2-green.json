@@ -1,0 +1,15 @@
+{
+	"name": "Green Vulpin",
+	"variant": "Green",
+	"npcs": {
+		"161917": {
+			"name": "Verdant Prowler"
+		},
+		"163093": {
+			"name": "Basin Vulpin"
+		},
+		"166022": {
+			"name": "Wary Vulpin"
+		}
+	}
+}

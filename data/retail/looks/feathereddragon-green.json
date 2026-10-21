@@ -1,0 +1,79 @@
+{
+	"id": "feathereddragon-green",
+	"family": "lesserdragonkin",
+	"modelGroup": "veilwings",
+	"npcs": [
+		{
+			"id": 167507,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald"
+				}
+			]
+		},
+		{
+			"id": 167505,
+			"tameable": true,
+			"level": {
+				"min": 51,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald"
+				}
+			]
+		},
+		{
+			"id": 167439,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "mistveil-tangle"
+				}
+			]
+		},
+		{
+			"id": 167442,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "mistveil-tangle"
+				}
+			]
+		},
+		{
+			"id": 171184,
+			"tameable": false,
+			"level": {
+				"min": 61,
+				"max": 61
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "de-other-side"
+				}
+			]
+		}
+	]
+}

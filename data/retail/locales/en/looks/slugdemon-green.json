@@ -1,0 +1,12 @@
+{
+	"name": "Green Spiked Grub",
+	"variant": "Green Spiked Grub",
+	"npcs": {
+		"124446": {
+			"name": "Acidmaw Larva"
+		},
+		"172064": {
+			"name": "Unstable Larva"
+		}
+	}
+}

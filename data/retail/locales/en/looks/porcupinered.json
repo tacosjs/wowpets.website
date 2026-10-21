@@ -1,0 +1,27 @@
+{
+	"name": "Red Porcupine",
+	"variant": "Red",
+	"npcs": {
+		"65118": {
+			"name": "Needleback Porcupine"
+		},
+		"65839": {
+			"name": "Razorquill Porcupine"
+		},
+		"125401": {
+			"name": "Invasive Quillrat"
+		},
+		"126991": {
+			"name": "Guarded Quillrat"
+		},
+		"146131": {
+			"name": "Bartok the Burrower"
+		},
+		"161131": {
+			"name": "Prickly Porcupine"
+		},
+		"172029": {
+			"name": "Prickly Porcupine"
+		}
+	}
+}

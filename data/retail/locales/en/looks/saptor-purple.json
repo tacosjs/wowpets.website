@@ -1,0 +1,18 @@
+{
+	"name": "Purple Saptor",
+	"variant": "Purple",
+	"npcs": {
+		"245114": {
+			"name": "Vicious Saptor"
+		},
+		"250175": {
+			"name": "Thornhook Hunter"
+		},
+		"251544": {
+			"name": "Kham'dur"
+		},
+		"257040": {
+			"name": "Ganee"
+		}
+	}
+}

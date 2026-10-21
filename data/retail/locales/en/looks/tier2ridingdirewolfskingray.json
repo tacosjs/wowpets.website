@@ -1,0 +1,15 @@
+{
+	"name": "Saddled Dark Gray Worg",
+	"variant": "Saddled Dark Gray Worg",
+	"npcs": {
+		"67344": {
+			"name": "Swift Gray Wolf"
+		},
+		"68157": {
+			"name": "Swift Gray Wolf"
+		},
+		"68793": {
+			"name": "Swift Gray Wolf"
+		}
+	}
+}

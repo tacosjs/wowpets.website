@@ -1,0 +1,207 @@
+{
+	"id": "snapdragon-brown",
+	"family": "lizard",
+	"modelGroup": "snapdragons",
+	"npcs": [
+		{
+			"id": 154182,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "kalmethir"
+				}
+			]
+		},
+		{
+			"id": 154181,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "naranan"
+				}
+			]
+		},
+		{
+			"id": 152363,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "naranan"
+				}
+			]
+		},
+		{
+			"id": 153959,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "zanjir-terrace"
+				}
+			]
+		},
+		{
+			"id": 155914,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "alashir-spire"
+				}
+			]
+		},
+		{
+			"id": 193873,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores"
+				},
+				{
+					"zone": "the-forbidden-reach"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 257830,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ritual-site-daggerspine-point"
+				}
+			]
+		},
+		{
+			"id": 154756,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "naranan-world-quest-phase"
+				}
+			]
+		},
+		{
+			"id": 156097,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar"
+				}
+			]
+		},
+		{
+			"id": 190193,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "restless-wetlands"
+				}
+			]
+		},
+		{
+			"id": 233699,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "siren-isle",
+					"area": "flotsam-shoal"
+				}
+			]
+		},
+		{
+			"id": 235243,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "siren-isle",
+					"area": "flotsam-shoal"
+				}
+			]
+		},
+		{
+			"id": 235216,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "siren-isle",
+					"area": "flotsam-shoal"
+				}
+			]
+		}
+	]
+}

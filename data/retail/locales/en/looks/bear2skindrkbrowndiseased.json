@@ -1,0 +1,49 @@
+{
+	"name": "Sickly Russet Brown Bear",
+	"variant": "Sickly Russet Brown",
+	"npcs": {
+		"8956": {
+			"name": "Angerclaw Bear"
+		},
+		"8958": {
+			"name": "Angerclaw Mauler"
+		},
+		"17661": {
+			"name": "Deathclaw"
+		},
+		"26706": {
+			"name": "Infected Grizzly Bear"
+		},
+		"34302": {
+			"name": "Consumed Thistle Bear"
+		},
+		"39049": {
+			"name": "Plagued Bruin"
+		},
+		"91569": {
+			"name": "Volatile Bear"
+		},
+		"104147": {
+			"name": "Nightmarish Grizzly"
+		},
+		"140153": {
+			"name": "Rotclaw Bear"
+		},
+		"140154": {
+			"name": "Rotclaw Patriarch"
+		},
+		"189318": {
+			"name": "Infected Bear"
+		},
+		"197140": {
+			"name": "Infected Bear"
+		},
+		"197353": {
+			"name": "Blisterhide",
+			"title": "The Infested"
+		},
+		"250107": {
+			"name": "Ulcerated Rotclaw"
+		}
+	}
+}

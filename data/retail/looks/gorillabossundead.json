@@ -1,0 +1,18 @@
+{
+	"id": "gorillabossundead",
+	"family": "gorilla",
+	"modelGroup": "undeadgorillas",
+	"npcs": [
+		{
+			"id": 144638,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "battle-of-dazaralor"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"name": "Dark Brown Gargon",
+	"variant": "Dark Brown",
+	"npcs": {
+		"158460": {
+			"name": "Blisterback"
+		},
+		"159177": {
+			"name": "Loyal Granitefur"
+		},
+		"160348": {
+			"name": "Tamed Gargon"
+		},
+		"161211": {
+			"name": "Tamed Gargon"
+		},
+		"164208": {
+			"name": "Soul Monitor"
+		},
+		"165942": {
+			"name": "Rageback Gargon"
+		},
+		"167497": {
+			"name": "Carved Intimidator"
+		},
+		"173953": {
+			"name": "Loyal Gargon"
+		},
+		"175465": {
+			"name": "Tamed Gargon"
+		},
+		"178050": {
+			"name": "Loyal Granitefur"
+		}
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"name": "Black Krolusk",
+	"variant": "Black",
+	"npcs": {
+		"133842": {
+			"name": "Warcrawler Karkithiss"
+		},
+		"136335": {
+			"name": "Enraged Krolusk"
+		},
+		"136548": {
+			"name": "War Krolusk"
+		},
+		"204189": {
+			"name": "Deep Krolusk"
+		},
+		"242237": {
+			"name": "Void Tunneler"
+		},
+		"242374": {
+			"name": "Void Crawler"
+		},
+		"246608": {
+			"name": "Phase-Lost Creeper"
+		}
+	}
+}

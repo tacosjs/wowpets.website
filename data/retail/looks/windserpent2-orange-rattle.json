@@ -1,0 +1,113 @@
+{
+	"id": "windserpent2-orange-rattle",
+	"family": "windserpent",
+	"modelGroup": "grandwindserpents",
+	"npcs": [
+		{
+			"id": 3630,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "wailing-caverns"
+				}
+			]
+		},
+		{
+			"id": 20797,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "wailing-caverns"
+				}
+			]
+		},
+		{
+			"id": 129128,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "warport-rastari"
+				}
+			]
+		},
+		{
+			"id": 4346,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dustwallow-marsh"
+				}
+			]
+		},
+		{
+			"id": 8336,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "sunken-temple"
+				}
+			]
+		},
+		{
+			"id": 140354,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 140353,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		132410,
+		130413,
+		191645,
+		191647,
+		130568
+	]
+}

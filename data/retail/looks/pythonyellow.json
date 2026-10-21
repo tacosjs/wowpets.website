@@ -1,0 +1,27 @@
+{
+	"id": "pythonyellow",
+	"family": "serpent",
+	"modelGroup": "pythons",
+	"npcs": [
+		{
+			"id": 261375,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "the-serpents-tail-blistering-terrace"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		261122,
+		265051,
+		262102
+	]
+}

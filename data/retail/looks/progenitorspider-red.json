@@ -1,0 +1,40 @@
+{
+	"id": "progenitorspider-red",
+	"family": "spider",
+	"modelGroup": "tarachnids",
+	"npcs": [
+		{
+			"id": 178507,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "deserted-overlook"
+				}
+			]
+		},
+		{
+			"id": 185377,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "sepulcher-of-the-first-ones",
+					"area": "ephemeral-plains"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		181685
+	]
+}

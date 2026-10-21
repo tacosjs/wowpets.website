@@ -1,0 +1,38 @@
+{
+	"id": "silithid02dark",
+	"family": "aqiri",
+	"modelGroup": "ruggedsilithids",
+	"npcs": [
+		{
+			"id": 132578,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "silithus",
+					"area": "hiveashi"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 183940,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "war-of-the-shifting-sands"
+				}
+			]
+		}
+	]
+}

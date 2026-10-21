@@ -1,0 +1,9 @@
+{
+	"name": "Red-Black Mechanical Tiger",
+	"variant": "Red-Black",
+	"npcs": {
+		"139328": {
+			"name": "Sabertron"
+		}
+	}
+}

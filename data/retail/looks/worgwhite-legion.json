@@ -1,0 +1,56 @@
+{
+	"id": "worgwhite-legion",
+	"family": "wolf",
+	"modelGroup": "direworgs",
+	"npcs": [
+		{
+			"id": 92599,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormheim"
+				}
+			]
+		},
+		{
+			"id": 139385,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "stormsong-valley",
+					"area": "dire-hills"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 108790,
+			"tameable": false,
+			"level": {
+				"min": 47,
+				"max": 47
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "stormheim",
+					"area": "hrydshal"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		226296,
+		232283
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"id": "ram2-grey",
+	"family": "gruffhorn",
+	"modelGroup": "greaterrams",
+	"npcs": [
+		{
+			"id": 168387,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "vestibule-of-eternity"
+				}
+			]
+		},
+		{
+			"id": 169252,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		2098
+	]
+}

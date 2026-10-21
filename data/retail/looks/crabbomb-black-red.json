@@ -1,0 +1,9 @@
+{
+	"id": "crabbomb-black-red",
+	"family": "crab",
+	"modelGroup": "bombcrabs",
+	"npcs": [],
+	"alsoNpcs": [
+		238625
+	]
+}

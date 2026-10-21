@@ -1,0 +1,12 @@
+{
+	"name": "Black & Red Cinderbee w/ Front Antennae",
+	"variant": "Black & Red Cinderbee w/ Front Antennae",
+	"npcs": {
+		"210265": {
+			"name": "Worker Bee"
+		},
+		"223497": {
+			"name": "Worker Bee"
+		}
+	}
+}

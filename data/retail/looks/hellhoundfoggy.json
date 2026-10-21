@@ -1,0 +1,113 @@
+{
+	"id": "hellhoundfoggy",
+	"family": "hound",
+	"modelGroup": "infernalhellhounds",
+	"npcs": [
+		{
+			"id": 91384,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "helheim"
+				}
+			]
+		},
+		{
+			"id": 105532,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormheim",
+					"area": "tideskorn-harbor"
+				}
+			]
+		},
+		{
+			"id": 97119,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maw-of-souls",
+					"area": "the-naglfar"
+				}
+			]
+		},
+		{
+			"id": 101971,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "blind-marshlands"
+				}
+			]
+		},
+		{
+			"id": 138851,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 115026,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormheim"
+				},
+				{
+					"zone": "azsuna"
+				}
+			]
+		},
+		{
+			"id": 114534,
+			"tameable": false,
+			"level": {
+				"min": 47,
+				"max": 47
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "trial-of-valor",
+					"area": "haustvald-the-eternal-battlefield"
+				}
+			]
+		}
+	]
+}

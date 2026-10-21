@@ -1,0 +1,30 @@
+{
+	"name": "Sparkly Blue-Teal Dustmoth",
+	"variant": "Blue-Teal",
+	"npcs": {
+		"200570": {
+			"name": "Underlight Flutterer"
+		},
+		"201067": {
+			"name": "Crystalline Dustmoth"
+		},
+		"202625": {
+			"name": "Hungry Sporemoth"
+		},
+		"203984": {
+			"name": "Peckish Cragmoth"
+		},
+		"204398": {
+			"name": "Glitterscale Flutterer"
+		},
+		"205160": {
+			"name": "Crystal Moth"
+		},
+		"205202": {
+			"name": "Brightwing Moth"
+		},
+		"227138": {
+			"name": "Ethereal Glimmerling"
+		}
+	}
+}

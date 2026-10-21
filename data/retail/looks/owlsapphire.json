@@ -1,0 +1,22 @@
+{
+	"id": "owlsapphire",
+	"family": "birdofprey",
+	"modelGroup": "owls",
+	"npcs": [
+		{
+			"id": 50343,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "stonetalon-mountains"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

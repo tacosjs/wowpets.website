@@ -1,0 +1,22 @@
+{
+	"id": "bearskinbrowndiseased",
+	"family": "bear",
+	"modelGroup": "retrobears",
+	"npcs": [
+		{
+			"id": 14280,
+			"tameable": true,
+			"level": {
+				"min": 7,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "hillsbrad-foothills"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

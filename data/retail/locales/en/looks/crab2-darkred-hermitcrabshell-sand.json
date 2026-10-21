@@ -1,0 +1,10 @@
+{
+	"name": "Red Hermit Crab w/ Sandy Shell",
+	"variant": "Red",
+	"npcs": {
+		"137681": {
+			"name": "King Clickyclack",
+			"title": "King of the Tide Pools"
+		}
+	}
+}

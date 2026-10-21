@@ -1,0 +1,12 @@
+{
+	"name": "Green Stagshell w/ Small Mandibles, No Graspers, No Horn",
+	"variant": "Green w/ Small Mandibles, No Graspers, No Horn",
+	"npcs": {
+		"220707": {
+			"name": "Staglette"
+		},
+		"222729": {
+			"name": "Stagshell Mite"
+		}
+	}
+}

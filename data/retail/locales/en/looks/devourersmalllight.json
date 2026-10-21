@@ -1,0 +1,84 @@
+{
+	"name": "Blue Animite",
+	"variant": "Blue Animite",
+	"npcs": {
+		"156061": {
+			"name": "Devourer Mite"
+		},
+		"160454": {
+			"name": "Ravenous Animite"
+		},
+		"162046": {
+			"name": "Famished Tick"
+		},
+		"163591": {
+			"name": "Scrounging Animite"
+		},
+		"164622": {
+			"name": "Ravenous Scourgeling"
+		},
+		"164623": {
+			"name": "Ravenous Blightwing"
+		},
+		"168403": {
+			"name": "Skittering Feaster"
+		},
+		"169753": {
+			"name": "Famished Tick"
+		},
+		"170062": {
+			"name": "Animite Invader"
+		},
+		"170337": {
+			"name": "Animite Scavenger"
+		},
+		"171061": {
+			"name": "Animite Broodmother"
+		},
+		"172516": {
+			"name": "Ravenous Swarmer"
+		},
+		"177683": {
+			"name": "Hungering Mite"
+		},
+		"178880": {
+			"name": "Hungering Mite"
+		},
+		"180044": {
+			"name": "Invading Mite"
+		},
+		"180855": {
+			"name": "Devourer Mite"
+		},
+		"182319": {
+			"name": "Skittering Nibbler"
+		},
+		"185080": {
+			"name": "Compressed Mite"
+		},
+		"230277": {
+			"name": "Parched Mite"
+		},
+		"234870": {
+			"name": "Invading Mite"
+		},
+		"235304": {
+			"name": "Devourer Mite"
+		},
+		"236190": {
+			"name": "Frenzied Mite"
+		},
+		"238473": {
+			"name": "Hungry Trashmite"
+		},
+		"238596": {
+			"name": "Frenzied Mite"
+		},
+		"239506": {
+			"name": "Bound Mite"
+		},
+		"242209": {
+			"name": "Overgorged Mite"
+		}
+	}
+}

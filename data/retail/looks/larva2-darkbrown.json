@@ -1,0 +1,100 @@
+{
+	"id": "larva2-darkbrown",
+	"family": "worm",
+	"modelGroup": "grubs",
+	"npcs": [
+		{
+			"id": 64661,
+			"tameable": false,
+			"level": {
+				"min": 20,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "kun-lai-summit",
+					"area": "isle-of-reckoning"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 15333,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 25
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ruins-of-ahnqiraj"
+				}
+			]
+		},
+		{
+			"id": 160916,
+			"tameable": false,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "sepulcher-of-knowledge"
+				}
+			]
+		},
+		{
+			"id": 234196,
+			"tameable": false,
+			"level": {
+				"min": 68,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "earthcrawl-mines"
+				}
+			]
+		},
+		{
+			"id": 216957,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "obsidian-hollow-quest-phase"
+				}
+			]
+		},
+		{
+			"id": 218049,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "rak-ush"
+				}
+			]
+		}
+	]
+}

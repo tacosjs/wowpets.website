@@ -1,0 +1,56 @@
+{
+	"id": "flymaldraxxus-copper",
+	"family": "wasp",
+	"modelGroup": "corpseflies",
+	"npcs": [
+		{
+			"id": 181211,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "house-of-plagues"
+				}
+			]
+		},
+		{
+			"id": 180096,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "korthia",
+					"area": "quorum-of-the-seekers"
+				}
+			]
+		},
+		{
+			"id": 234566,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "undermine"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

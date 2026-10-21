@@ -1,0 +1,9 @@
+{
+	"name": "Green Basilisk w/Orange Fringes",
+	"variant": "Green w/Orange",
+	"npcs": {
+		"688": {
+			"name": "Stone Maw Basilisk"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Yellow Two-Headed Vulture",
+	"variant": "Yellow",
+	"npcs": {
+		"8299": {
+			"name": "Spiteflayer"
+		}
+	}
+}

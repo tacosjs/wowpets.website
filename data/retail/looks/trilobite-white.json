@@ -1,0 +1,150 @@
+{
+	"id": "trilobite-white",
+	"family": "carapid",
+	"modelGroup": "krolusks",
+	"npcs": [
+		{
+			"id": 124016,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "the-brine-basin"
+				}
+			]
+		},
+		{
+			"id": 136553,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "bonetrail-gulch"
+				}
+			]
+		},
+		{
+			"id": 223056,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 223091,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "shadowvein-extraction-site"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 230830,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "siren-isle",
+					"area": "deadfin-mire"
+				}
+			]
+		},
+		{
+			"id": 232195,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "karesh"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 134617,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "temple-of-sethraliss"
+				}
+			]
+		},
+		{
+			"id": 138288,
+			"tameable": false,
+			"level": {
+				"min": 52,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "umber-shore"
+				}
+			]
+		},
+		{
+			"id": 223074,
+			"tameable": false,
+			"level": {
+				"min": 81,
+				"max": 81
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

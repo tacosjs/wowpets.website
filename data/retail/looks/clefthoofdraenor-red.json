@@ -1,0 +1,84 @@
+{
+	"id": "clefthoofdraenor-red",
+	"family": "clefthoof",
+	"modelGroup": "draenorclefthooves",
+	"npcs": [
+		{
+			"id": 78572,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "witherwind-pass"
+				}
+			]
+		},
+		{
+			"id": 78570,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "witherwind-pass"
+				}
+			]
+		},
+		{
+			"id": 86732,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "nagrand-draenor"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 50990,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "nagrand-draenor"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 83392,
+			"tameable": false,
+			"level": {
+				"min": 16,
+				"max": 41
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "iron-docks"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		79034
+	]
+}

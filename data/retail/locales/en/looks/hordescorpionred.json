@@ -1,0 +1,30 @@
+{
+	"name": "Red Rugged Scorpion",
+	"variant": "Red",
+	"npcs": {
+		"51401": {
+			"name": "Madexx"
+		},
+		"62162": {
+			"name": "Horrorscale Scorpid"
+		},
+		"63588": {
+			"name": "Ruby Venomtail"
+		},
+		"91314": {
+			"name": "Crimson Stinger"
+		},
+		"125882": {
+			"name": "Scorpashi Direclaw"
+		},
+		"140113": {
+			"name": "Venomlash"
+		},
+		"222872": {
+			"name": "Shadowsting Scavenger"
+		},
+		"222873": {
+			"name": "Scavenging Swarmer"
+		}
+	}
+}

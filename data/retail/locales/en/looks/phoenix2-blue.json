@@ -1,0 +1,9 @@
+{
+	"name": "Blue Phoenix",
+	"variant": "Blue",
+	"npcs": {
+		"229532": {
+			"name": "Infused Stormfeather"
+		}
+	}
+}

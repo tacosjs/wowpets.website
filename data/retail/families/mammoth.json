@@ -1,0 +1,38 @@
+{
+	"id": "mammoth",
+	"icon": "ability_mount_ridingelekk",
+	"spec": "tenacity",
+	"exotic": false,
+	"diet": [
+		"bread",
+		"cheese",
+		"fruit",
+		"fungus"
+	],
+	"abilities": {
+		"basic": "smack",
+		"family": [
+			"trample"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "mammoths"
+		},
+		{
+			"id": "magmammoths"
+		},
+		{
+			"id": "classicmammoths"
+		},
+		{
+			"id": "draenorelekks"
+		},
+		{
+			"id": "ironhordeelekks"
+		},
+		{
+			"id": "classicelekks"
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"name": "Blue Spider Crab",
+	"variant": "Blue",
+	"npcs": {
+		"152461": {
+			"name": "Chitterspine Crab"
+		},
+		"153804": {
+			"name": "Chitterspine Encroacher"
+		},
+		"153966": {
+			"name": "Chitterspine Crab"
+		},
+		"203105": {
+			"name": "Sharpspine Pincher"
+		},
+		"231986": {
+			"name": "Deepwater Matriarch"
+		}
+	}
+}

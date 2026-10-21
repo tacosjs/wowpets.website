@@ -1,0 +1,125 @@
+{
+	"id": "hippo2-wet-blue",
+	"family": "riverbeast",
+	"modelGroup": "stockyriverbeasts",
+	"npcs": [
+		{
+			"id": 132244,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "zuldazar"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 130754,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "the-sliver"
+				}
+			]
+		},
+		{
+			"id": 130757,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "the-sliver"
+				}
+			]
+		},
+		{
+			"id": 123651,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "the-preserve-the-tusk-pools"
+				}
+			]
+		},
+		{
+			"id": 188704,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "field-of-ferocity"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 193240,
+			"tameable": false,
+			"level": {
+				"min": 71,
+				"max": 71
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "the-cascades-the-azure-span"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		190282,
+		190144,
+		192594,
+		194079,
+		194075,
+		194145,
+		191686,
+		194663,
+		194665,
+		194666,
+		192597,
+		196017,
+		191684,
+		191687,
+		194144,
+		194078,
+		189469,
+		189468,
+		189465,
+		189463,
+		192596
+	]
+}

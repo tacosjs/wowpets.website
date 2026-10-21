@@ -1,0 +1,42 @@
+{
+	"name": "White Saber Worg",
+	"variant": "White",
+	"npcs": {
+		"24076": {
+			"name": "Winterskorn Worg"
+		},
+		"24277": {
+			"name": "Garwal"
+		},
+		"24677": {
+			"name": "Spearfang Worg"
+		},
+		"26672": {
+			"name": "Bloodthirsty Tundra Wolf"
+		},
+		"29358": {
+			"name": "Frostworg"
+		},
+		"30294": {
+			"name": "Frostworg Denmother"
+		},
+		"30320": {
+			"name": "Battlescarred Frostworg"
+		},
+		"30455": {
+			"name": "Frostworg"
+		},
+		"30456": {
+			"name": "Oloh"
+		},
+		"56524": {
+			"name": "Longfang Howler"
+		},
+		"58889": {
+			"name": "Longfang Patriarch"
+		},
+		"60783": {
+			"name": "Longfang Pack Wolf"
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"name": "White Scorpid",
+	"variant": "White",
+	"npcs": {
+		"5937": {
+			"name": "Vile Sting"
+		},
+		"11735": {
+			"name": "Stonelash Scorpid"
+		},
+		"11737": {
+			"name": "Stonelash Flayer"
+		},
+		"51007": {
+			"name": "Serkett"
+		}
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"id": "komododragon-teal",
+	"family": "lizard",
+	"modelGroup": "saurolisks",
+	"npcs": [
+		{
+			"id": 133853,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "whistlebloom-oasis"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 141599,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley",
+					"area": "scalespine-hill"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 137356,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "whistlebloom-oasis"
+				}
+			]
+		}
+	]
+}

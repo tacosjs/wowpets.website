@@ -1,0 +1,21 @@
+{
+	"name": "Brown Mammoth",
+	"variant": "Brown",
+	"npcs": {
+		"24614": {
+			"name": "Wooly Mammoth"
+		},
+		"25452": {
+			"name": "Scourged Mammoth"
+		},
+		"25743": {
+			"name": "Wooly Mammoth Bull"
+		},
+		"26711": {
+			"name": "Injured Mammoth"
+		},
+		"28379": {
+			"name": "Shattertusk Mammoth"
+		}
+	}
+}

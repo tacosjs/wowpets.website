@@ -1,0 +1,30 @@
+{
+	"name": "Blue Turtle",
+	"variant": "Blue",
+	"npcs": {
+		"3461": {
+			"name": "Oasis Snapjaw"
+		},
+		"3653": {
+			"name": "Kresh"
+		},
+		"5431": {
+			"name": "Surf Glider"
+		},
+		"7977": {
+			"name": "Gammerita"
+		},
+		"13599": {
+			"name": "Stolid Snapjaw"
+		},
+		"13896": {
+			"name": "Scalebeard"
+		},
+		"14123": {
+			"name": "Steeljaw Snapper"
+		},
+		"102515": {
+			"name": "Saltbeak Snapper"
+		}
+	}
+}

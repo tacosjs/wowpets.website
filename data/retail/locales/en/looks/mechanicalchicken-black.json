@@ -1,0 +1,9 @@
+{
+	"name": "Black Mechanical Chicken",
+	"variant": "Black Mechanical Chicken",
+	"npcs": {
+		"252097": {
+			"name": "Miscalibrated Hen"
+		}
+	}
+}

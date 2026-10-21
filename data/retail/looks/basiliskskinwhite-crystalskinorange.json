@@ -1,0 +1,23 @@
+{
+	"id": "basiliskskinwhite-crystalskinorange",
+	"family": "basilisk",
+	"modelGroup": "basilisks",
+	"npcs": [
+		{
+			"id": 43339,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "deepholm",
+					"area": "shuddering-spires"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

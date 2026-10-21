@@ -1,0 +1,84 @@
+{
+	"id": "mawexpansionhopper-green",
+	"family": "hopper",
+	"modelGroup": "gromits",
+	"npcs": [
+		{
+			"id": 177185,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "korthia"
+				}
+			]
+		},
+		{
+			"id": 180524,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "korthia",
+					"area": "gromit-hollow"
+				}
+			]
+		},
+		{
+			"id": 180678,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "korthia"
+				}
+			]
+		},
+		{
+			"id": 176665,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "korthia"
+				}
+			]
+		},
+		{
+			"id": 180598,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "korthia",
+					"area": "keepers-respite"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

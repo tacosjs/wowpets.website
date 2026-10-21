@@ -1,0 +1,81 @@
+{
+	"id": "mothunderlight-rockblue-rockblue",
+	"family": "moth",
+	"modelGroup": "dustmoths",
+	"npcs": [
+		{
+			"id": 217694,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "the-harrowing-depths"
+				}
+			]
+		},
+		{
+			"id": 218331,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "the-aegis-wall-sanguine-grasps"
+				}
+			]
+		},
+		{
+			"id": 222832,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		},
+		{
+			"id": 220691,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "stagnant-mire"
+				}
+			]
+		},
+		{
+			"id": 215526,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "torchlight-mine"
+				}
+			]
+		}
+	]
+}

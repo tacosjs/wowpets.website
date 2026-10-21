@@ -1,0 +1,18 @@
+{
+	"name": "White Hawkstrider",
+	"variant": "White",
+	"npcs": {
+		"232122": {
+			"name": "Phalanx Breaker"
+		},
+		"246633": {
+			"name": "Harried Hawkstrider"
+		},
+		"256844": {
+			"name": "Gleaming Hawkstrider"
+		},
+		"256847": {
+			"name": "Gleaming Hawkstrider"
+		}
+	}
+}

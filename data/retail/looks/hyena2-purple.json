@@ -1,0 +1,51 @@
+{
+	"id": "hyena2-purple",
+	"family": "hyena",
+	"modelGroup": "grandhyenas",
+	"npcs": [
+		{
+			"id": 5829,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "southern-barrens"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 5427,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaris"
+				}
+			]
+		},
+		{
+			"id": 8300,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "blasted-lands"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

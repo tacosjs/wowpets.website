@@ -1,0 +1,88 @@
+{
+	"id": "spider-brightgreen",
+	"family": "spider",
+	"modelGroup": "greatspiders",
+	"npcs": [
+		{
+			"id": 159737,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "bony-spindels-house-of-eyes"
+				}
+			]
+		},
+		{
+			"id": 159901,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "bony-spindels-house-of-eyes"
+				}
+			]
+		},
+		{
+			"id": 168784,
+			"tameable": false,
+			"level": {
+				"min": 54,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "keres-rest-high-stand"
+				}
+			],
+			"retired": true
+		},
+		{
+			"id": 168873,
+			"tameable": false,
+			"level": {
+				"min": 54,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "keres-rest-high-stand"
+				}
+			],
+			"retired": true
+		},
+		{
+			"id": 169290,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "scaplian-ridge-keres-rest"
+				}
+			],
+			"retired": true
+		}
+	],
+	"alsoNpcs": [
+		168837
+	]
+}

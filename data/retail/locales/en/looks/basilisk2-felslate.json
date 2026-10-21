@@ -1,0 +1,27 @@
+{
+	"name": "Fel-Green Spiny Basilisk",
+	"variant": "Fel-Green",
+	"npcs": {
+		"101868": {
+			"name": "Felfire Basilisk"
+		},
+		"104895": {
+			"name": "Felslate Basilisk"
+		},
+		"118252": {
+			"name": "Darkstone Basilisk"
+		},
+		"118993": {
+			"name": "Dreadeye"
+		},
+		"119139": {
+			"name": "Stoneblood Basilisk"
+		},
+		"120968": {
+			"name": "Bonegnasher the Petrifying"
+		},
+		"126197": {
+			"name": "Felfang Basilisk"
+		}
+	}
+}

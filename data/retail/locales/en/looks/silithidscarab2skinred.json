@@ -1,0 +1,21 @@
+{
+	"name": "Red & Grey Beetle",
+	"variant": "Red & Grey",
+	"npcs": {
+		"10699": {
+			"name": "Carrion Scarab"
+		},
+		"47079": {
+			"name": "Lava Scarab"
+		},
+		"140322": {
+			"name": "Stonehusk Broodwatcher"
+		},
+		"140325": {
+			"name": "Stonehusk Scarab"
+		},
+		"140374": {
+			"name": "Hive Guardian Yx'nil"
+		}
+	}
+}

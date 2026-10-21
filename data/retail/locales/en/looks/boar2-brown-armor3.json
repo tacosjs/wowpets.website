@@ -1,0 +1,18 @@
+{
+	"name": "Brown Boar w/ Steel Armour",
+	"variant": "Brown",
+	"npcs": {
+		"29996": {
+			"name": "Snorts"
+		},
+		"35613": {
+			"name": "Keensnout Potbelly"
+		},
+		"36696": {
+			"name": "Armored Battleboar"
+		},
+		"50940": {
+			"name": "Swee"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Blue Arcane Wyrm",
+	"variant": "Blue",
+	"npcs": {
+		"26322": {
+			"name": "Arcane Wyrm"
+		}
+	}
+}

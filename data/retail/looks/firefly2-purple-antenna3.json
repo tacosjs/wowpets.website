@@ -1,0 +1,47 @@
+{
+	"id": "firefly2-purple-antenna3",
+	"family": "moth",
+	"modelGroup": "candleflies",
+	"npcs": [
+		{
+			"id": 230920,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "the-verdant-gutters"
+				}
+			]
+		},
+		{
+			"id": 214821,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "torchlight-mine-stillstone-pond"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		225515,
+		213960,
+		256056,
+		256417,
+		256361,
+		223831,
+		221304,
+		225231
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"id": "aurokkskintan",
+	"family": "aqiri",
+	"modelGroup": "workersilithids",
+	"npcs": [
+		{
+			"id": 3252,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "southern-barrens"
+				}
+			]
+		},
+		{
+			"id": 5246,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "feralas"
+				}
+			]
+		},
+		{
+			"id": 15300,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "temple-of-ahnqiraj"
+				}
+			]
+		},
+		{
+			"id": 15962,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "temple-of-ahnqiraj"
+				}
+			]
+		}
+	]
+}

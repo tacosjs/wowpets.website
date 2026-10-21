@@ -1,0 +1,73 @@
+{
+	"id": "duck-yellow",
+	"family": "waterfowl",
+	"modelGroup": "ducks",
+	"npcs": [
+		{
+			"id": 188844,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 1
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "valdrakken"
+				}
+			]
+		},
+		{
+			"id": 190126,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "emberwatch"
+				}
+			]
+		},
+		{
+			"id": 211948,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "eye-of-ysera"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		190660,
+		189362,
+		206073,
+		189248,
+		195310,
+		193636,
+		195117,
+		189992,
+		193436,
+		187451,
+		192953,
+		212495,
+		189835,
+		193721,
+		191857,
+		185638,
+		187468,
+		193097,
+		198184
+	]
+}

@@ -1,0 +1,60 @@
+{
+	"id": "dreambear-brown",
+	"family": "bear",
+	"modelGroup": "dreambears",
+	"npcs": [
+		{
+			"id": 210848,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "whorlwing-basin"
+				}
+			]
+		},
+		{
+			"id": 211141,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "twisting-wood"
+				}
+			]
+		},
+		{
+			"id": 213542,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "meandering-rootlands"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		207789,
+		209614,
+		209616,
+		210977,
+		209491,
+		210507
+	]
+}

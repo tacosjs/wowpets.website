@@ -1,0 +1,117 @@
+{
+	"id": "mawexpansionflier-red",
+	"family": "feathermane",
+	"modelGroup": "razorwings",
+	"npcs": [
+		{
+			"id": 177319,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "korthia",
+					"area": "seekers-quorum"
+				}
+			]
+		},
+		{
+			"id": 178894,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "korthia",
+					"area": "windswept-aerie"
+				}
+			]
+		},
+		{
+			"id": 177196,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "korthia",
+					"area": "estuary-of-awakening"
+				}
+			]
+		},
+		{
+			"id": 180160,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "korthia",
+					"area": "vault-of-secrets"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 177355,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "korthia",
+					"area": "hopes-ascent"
+				}
+			]
+		},
+		{
+			"id": 230380,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "eco-dome-rhovan"
+				}
+			]
+		},
+		{
+			"id": 232006,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "eco-dome-rhovan"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,79 @@
+{
+	"id": "hippogryphbrownskin",
+	"family": "feathermane",
+	"modelGroup": "hippogryphs",
+	"npcs": [
+		{
+			"id": 36852,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azshara"
+				}
+			]
+		},
+		{
+			"id": 36147,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azshara"
+				}
+			]
+		},
+		{
+			"id": 6377,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azshara"
+				}
+			]
+		},
+		{
+			"id": 23772,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "howling-fjord"
+				}
+			]
+		},
+		{
+			"id": 24514,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "howling-fjord",
+					"area": "fort-wildervar"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

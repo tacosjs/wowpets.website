@@ -1,0 +1,59 @@
+{
+	"name": "Black Undercrawler w/ Red Glow",
+	"variant": "Black w/ Red Glow",
+	"npcs": {
+		"206077": {
+			"name": "Shadow-Blind Weaver"
+		},
+		"206078": {
+			"name": "Shadow-Blind Matriarch"
+		},
+		"206094": {
+			"name": "Shadow-Blind Threadling"
+		},
+		"206096": {
+			"name": "Shadow-Blind Weaver"
+		},
+		"214962": {
+			"name": "Undercrawler"
+		},
+		"215772": {
+			"name": "Queen Rickiticka"
+		},
+		"216249": {
+			"name": "Understalker Tunneler"
+		},
+		"216663": {
+			"name": "The Bloodfeaster"
+		},
+		"216944": {
+			"name": "Scary Skitterer"
+		},
+		"217981": {
+			"name": "Xeshling"
+		},
+		"218014": {
+			"name": "Xesh Cavewalker",
+			"title": "Brood of Xishirra"
+		},
+		"219045": {
+			"name": "Colossal Spider"
+		},
+		"219854": {
+			"name": "Xesh Slasher",
+			"title": "Brood of Xishirra"
+		},
+		"219912": {
+			"name": "Crawler"
+		},
+		"226675": {
+			"name": "Awakened Chewer"
+		},
+		"231380": {
+			"name": "Undercrawler"
+		},
+		"237765": {
+			"name": "Sureki Fearweaver"
+		}
+	}
+}

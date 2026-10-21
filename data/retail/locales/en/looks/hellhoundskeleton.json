@@ -1,0 +1,73 @@
+{
+	"name": "Skeletal Hellhound",
+	"variant": "hellhoundskeleton",
+	"npcs": {
+		"91847": {
+			"name": "Risen Hound"
+		},
+		"103605": {
+			"name": "Shroudseeker"
+		},
+		"108794": {
+			"name": "Shroudseeker's Shadow"
+		},
+		"114794": {
+			"name": "Skeletal Hound"
+		},
+		"134450": {
+			"name": "Risen Bloodhound"
+		},
+		"138659": {
+			"name": "Risen Hound"
+		},
+		"138660": {
+			"name": "Mist Hound"
+		},
+		"139980": {
+			"name": "Taja the Tidehowler"
+		},
+		"144731": {
+			"name": "Forsaken Bonechewer"
+		},
+		"156214": {
+			"name": "Fire Hound"
+		},
+		"161390": {
+			"name": "Darkhound Hunter"
+		},
+		"161585": {
+			"name": "Dog Bone"
+		},
+		"170161": {
+			"name": "Burning Fiend"
+		},
+		"171348": {
+			"name": "Necrotic Darkhound"
+		},
+		"173509": {
+			"name": "Animated Marrowhound"
+		},
+		"175818": {
+			"name": "Unbound Darkhound"
+		},
+		"175819": {
+			"name": "Unbound Shademongrel"
+		},
+		"175820": {
+			"name": "Unbound Soulseeker"
+		},
+		"175860": {
+			"name": "Ravenous Shade"
+		},
+		"176141": {
+			"name": "Rakul",
+			"title": "The Soul Ravager"
+		},
+		"177790": {
+			"name": "Desperate Shade"
+		},
+		"195186": {
+			"name": "Cinta the Forgotten"
+		}
+	}
+}

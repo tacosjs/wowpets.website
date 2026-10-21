@@ -1,0 +1,65 @@
+{
+	"id": "manawyrm2-purple",
+	"family": "serpent",
+	"modelGroup": "eversongmanawyrms",
+	"npcs": [
+		{
+			"id": 247558,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "daggerspine-point"
+				}
+			]
+		},
+		{
+			"id": 249392,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "north-sanctum"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 247569,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "daggerspine-landing"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		250026,
+		253959,
+		242520,
+		242521,
+		250028,
+		253960
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"name": "Red Bakar",
+	"variant": "Red",
+	"npcs": {
+		"181218": {
+			"name": "Basran"
+		},
+		"187070": {
+			"name": "Baba"
+		},
+		"187836": {
+			"name": "Pesca"
+		},
+		"188247": {
+			"name": "Taivan"
+		},
+		"190043": {
+			"name": "Redfur"
+		},
+		"191288": {
+			"name": "Basran"
+		},
+		"195517": {
+			"name": "Bakar Companion"
+		},
+		"195540": {
+			"name": "Basran"
+		},
+		"196665": {
+			"name": "Taivan"
+		},
+		"228255": {
+			"name": "Taivan"
+		}
+	}
+}

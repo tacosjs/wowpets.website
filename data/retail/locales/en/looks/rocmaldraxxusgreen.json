@@ -1,0 +1,12 @@
+{
+	"name": "Green Death Roc",
+	"variant": "Green",
+	"npcs": {
+		"168298": {
+			"name": "Plagueroc"
+		},
+		"174024": {
+			"name": "Transport Fleshroc"
+		}
+	}
+}

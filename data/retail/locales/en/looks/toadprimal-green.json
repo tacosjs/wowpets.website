@@ -1,0 +1,24 @@
+{
+	"name": "Green Hornswog",
+	"variant": "Green",
+	"npcs": {
+		"189570": {
+			"name": "Garden Bullfrog"
+		},
+		"192374": {
+			"name": "Mountain Boghopper"
+		},
+		"195204": {
+			"name": "The Jolly Giant"
+		},
+		"195712": {
+			"name": "Mossy Hornswog"
+		},
+		"195762": {
+			"name": "Mossy Gulper"
+		},
+		"196571": {
+			"name": "Reservoir Spadefoot"
+		}
+	}
+}

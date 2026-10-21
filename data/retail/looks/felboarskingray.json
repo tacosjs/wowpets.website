@@ -1,0 +1,36 @@
+{
+	"id": "felboarskingray",
+	"family": "boar",
+	"modelGroup": "felboars",
+	"npcs": [
+		{
+			"id": 16863,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hellfire-peninsula"
+				}
+			]
+		},
+		{
+			"id": 180856,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-veiled-market",
+					"area": "tazavesh"
+				}
+			]
+		}
+	]
+}

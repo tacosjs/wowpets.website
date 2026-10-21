@@ -1,0 +1,41 @@
+{
+	"id": "nerubianbeetle-green-mouth1-grasper0-horn0",
+	"family": "beetle",
+	"modelGroup": "stagshells",
+	"npcs": [
+		{
+			"id": 220707,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 222729,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "arathis-end"
+				}
+			]
+		}
+	]
+}

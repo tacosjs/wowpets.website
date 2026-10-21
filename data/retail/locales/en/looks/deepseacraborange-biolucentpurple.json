@@ -1,0 +1,16 @@
+{
+	"name": "Orange Spiked Crab w/ Purple Markings",
+	"variant": "Orange w/ Purple Markings",
+	"npcs": {
+		"50958": {
+			"name": "Kalan'ii"
+		},
+		"54557": {
+			"name": "Amberglass Crab"
+		},
+		"101411": {
+			"name": "Gom Crabbar",
+			"title": "One Huge Claw"
+		}
+	}
+}

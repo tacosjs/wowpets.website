@@ -1,0 +1,12 @@
+{
+	"name": "White Two-Headed Vulture",
+	"variant": "White",
+	"npcs": {
+		"21515": {
+			"name": "Trachela"
+		},
+		"50810": {
+			"name": "Favored of Isiset"
+		}
+	}
+}

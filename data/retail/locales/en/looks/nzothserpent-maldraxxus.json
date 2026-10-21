@@ -1,0 +1,9 @@
+{
+	"name": "Undead Aqiri Worm",
+	"variant": "Undead Aqiri Worm",
+	"npcs": {
+		"158626": {
+			"name": "Curious Slime Serpent"
+		}
+	}
+}

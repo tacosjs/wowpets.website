@@ -1,0 +1,30 @@
+{
+	"name": "Blue Darkhound",
+	"variant": "Blue",
+	"npcs": {
+		"1547": {
+			"name": "Decrepit Darkhound"
+		},
+		"1548": {
+			"name": "Cursed Darkhound"
+		},
+		"1549": {
+			"name": "Ravenous Darkhound"
+		},
+		"23939": {
+			"name": "Fiend"
+		},
+		"23943": {
+			"name": "Hungry Plaguehound"
+		},
+		"24156": {
+			"name": "Plaguehound Tracker"
+		},
+		"162909": {
+			"name": "Aggressive Bonemauler"
+		},
+		"229170": {
+			"name": "Duskborn Darkhound"
+		}
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"id": "thunderpterodactyl-green",
+	"family": "pterrordax",
+	"modelGroup": "skyscreamers",
+	"npcs": [
+		{
+			"id": 88208,
+			"tameable": true,
+			"level": {
+				"min": 37,
+				"max": 42
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "nagrand-draenor",
+					"area": "gorian-proving-grounds"
+				}
+			],
+			"keepsName": true
+		}
+	],
+	"alsoNpcs": [
+		70494,
+		70120,
+		70558,
+		70021,
+		70020,
+		73223
+	]
+}

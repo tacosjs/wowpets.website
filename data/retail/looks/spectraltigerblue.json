@@ -1,0 +1,22 @@
+{
+	"id": "spectraltigerblue",
+	"family": "spiritbeast",
+	"modelGroup": "spirittigers",
+	"npcs": [
+		{
+			"id": 54319,
+			"tameable": true,
+			"level": {
+				"min": 32,
+				"max": 37
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "mount-hyjal"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

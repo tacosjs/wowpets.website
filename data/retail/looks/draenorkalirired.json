@@ -1,0 +1,90 @@
+{
+	"id": "draenorkalirired",
+	"family": "birdofprey",
+	"modelGroup": "draenorkaliri",
+	"npcs": [
+		{
+			"id": 88587,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak"
+				}
+			]
+		},
+		{
+			"id": 198824,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "kaighan-camp"
+				}
+			]
+		},
+		{
+			"id": 95236,
+			"tameable": false,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaan-jungle",
+					"area": "ruins-of-kranak"
+				}
+			]
+		},
+		{
+			"id": 194953,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		},
+		{
+			"id": 213546,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		82829,
+		82828,
+		84013,
+		211372,
+		210595,
+		86765,
+		79093,
+		84231,
+		81333
+	]
+}

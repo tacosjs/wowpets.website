@@ -1,0 +1,98 @@
+{
+	"id": "mawexpansionbear-green",
+	"family": "scalehide",
+	"modelGroup": "shardhides",
+	"npcs": [
+		{
+			"id": 177334,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "korthia",
+					"area": "gromit-hollow"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 177296,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "korthia",
+					"area": "windswept-aerie"
+				}
+			]
+		},
+		{
+			"id": 177385,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "korthia",
+					"area": "hopes-ascent"
+				}
+			]
+		},
+		{
+			"id": 177158,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "korthia",
+					"area": "keepers-respite"
+				}
+			]
+		},
+		{
+			"id": 180094,
+			"tameable": false,
+			"level": {
+				"min": 61,
+				"max": 61
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-veiled-market",
+					"area": "tazavesh"
+				}
+			]
+		},
+		{
+			"id": 234257,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "tazavesh-karesh"
+				}
+			]
+		}
+	]
+}

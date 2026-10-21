@@ -1,0 +1,22 @@
+{
+	"id": "hippogryph2valshara-spectral",
+	"family": "feathermane",
+	"modelGroup": "grandhippogryphs",
+	"npcs": [
+		{
+			"id": 91839,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valsharah",
+					"area": "black-rook-hold-non-instanced"
+				}
+			]
+		}
+	]
+}

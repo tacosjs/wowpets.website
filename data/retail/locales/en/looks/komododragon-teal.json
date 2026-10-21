@@ -1,0 +1,15 @@
+{
+	"name": "Black, Red & Grey Saurolisk",
+	"variant": "Black, Red & Grey",
+	"npcs": {
+		"133853": {
+			"name": "Bloodcrest"
+		},
+		"137356": {
+			"name": "Whistlebloom Hatchling"
+		},
+		"141599": {
+			"name": "Sourtooth"
+		}
+	}
+}

@@ -1,0 +1,53 @@
+{
+	"name": "Black Saber Worg",
+	"variant": "Black",
+	"npcs": {
+		"24026": {
+			"name": "Fanggore Worg"
+		},
+		"24128": {
+			"name": "Wild Worg"
+		},
+		"24206": {
+			"name": "Prowling Worg",
+			"note": "Only spawns during the quest \"Prey Upon the Weak\"."
+		},
+		"24475": {
+			"name": "Bloodthirsty Worg"
+		},
+		"25774": {
+			"name": "Rockfang",
+			"title": "The Den Mother",
+			"note": "On the seaside rocks south-east of the Plains of Nasam."
+		},
+		"25791": {
+			"name": "Oil-stained Wolf"
+		},
+		"26590": {
+			"name": "Ravenous Worg"
+		},
+		"27578": {
+			"name": "Goremaw",
+			"note": "In the Shadowfang Tower stables, reachable from outside on the west side."
+		},
+		"29735": {
+			"name": "Savage Worg"
+		},
+		"30167": {
+			"name": "Gimorak"
+		},
+		"30430": {
+			"name": "Sentry Worg"
+		},
+		"46153": {
+			"name": "Highland Worg"
+		},
+		"47769": {
+			"name": "Barkmutt",
+			"note": "Just east of the ogre camp in the north-west of the zone."
+		},
+		"49871": {
+			"name": "Blackrock Battle Worg"
+		}
+	}
+}

@@ -1,0 +1,42 @@
+{
+	"id": "mole-brown-nose0-teeth0-bumps0",
+	"family": "rodent",
+	"modelGroup": "moles",
+	"npcs": [
+		{
+			"id": 219623,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "lost-mines"
+				}
+			]
+		},
+		{
+			"id": 213973,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "the-warrens"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		225482,
+		227184,
+		211977
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"id": "feasel-purple",
+	"family": "rodent",
+	"modelGroup": "marsuul",
+	"npcs": [
+		{
+			"id": 123512,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eredath"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		216090
+	]
+}

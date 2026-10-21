@@ -1,0 +1,17 @@
+{
+	"name": "Scorpid",
+	"modelGroups": {
+		"ruggedscorpions": {
+			"name": "Rugged Scorpions"
+		},
+		"firescorpions": {
+			"name": "Fire Scorpions"
+		},
+		"crystalscorpions": {
+			"name": "Crystal Scorpions"
+		},
+		"scorpids": {
+			"name": "Scorpids"
+		}
+	}
+}

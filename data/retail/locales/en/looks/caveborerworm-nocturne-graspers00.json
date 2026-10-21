@@ -1,0 +1,12 @@
+{
+	"name": "Black Jawcrawler w/ No Graspers",
+	"variant": "Black w/ No Graspers",
+	"npcs": {
+		"229073": {
+			"name": "Acidbreath Hatchling"
+		},
+		"229207": {
+			"name": "Thickhide Hatchling"
+		}
+	}
+}

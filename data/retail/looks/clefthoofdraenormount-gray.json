@@ -1,0 +1,41 @@
+{
+	"id": "clefthoofdraenormount-gray",
+	"family": "clefthoof",
+	"modelGroup": "draenorsaddledclefthooves",
+	"npcs": [
+		{
+			"id": 77519,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "the-cracking-plains"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 78528,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "worgol-quest-phase"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		76576
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Gold & Brown Shardhide",
+	"variant": "Gold & Brown",
+	"npcs": {
+		"177352": {
+			"name": "Shardhide Mauler"
+		},
+		"178525": {
+			"name": "Shardclaw Den Mother"
+		},
+		"178547": {
+			"name": "Shardhide Bear"
+		}
+	}
+}

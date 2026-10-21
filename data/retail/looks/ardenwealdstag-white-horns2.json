@@ -1,0 +1,25 @@
+{
+	"id": "ardenwealdstag-white-horns2",
+	"family": "stag",
+	"modelGroup": "runestags",
+	"npcs": [
+		{
+			"id": 164875,
+			"tameable": true,
+			"level": {
+				"min": 55,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "shrouded-mire"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		170674
+	]
+}

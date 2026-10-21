@@ -1,0 +1,25 @@
+{
+	"name": "Pale Slyvern",
+	"variant": "Pale",
+	"npcs": {
+		"186401": {
+			"name": "Kraunot",
+			"title": "Spirit of Air"
+		},
+		"188202": {
+			"name": "Slyvern Matriarch"
+		},
+		"188204": {
+			"name": "Slyvern Pup"
+		},
+		"190742": {
+			"name": "Swooping Slyvern"
+		},
+		"192473": {
+			"name": "Amberfur Alpha"
+		},
+		"199786": {
+			"name": "Amberfur Alpha"
+		}
+	}
+}

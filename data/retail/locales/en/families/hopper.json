@@ -1,0 +1,32 @@
+{
+	"name": "Hopper",
+	"modelGroups": {
+		"potatoads": {
+			"name": "Potatoads"
+		},
+		"skippers": {
+			"name": "Skippers"
+		},
+		"bufonids": {
+			"name": "Bufonids"
+		},
+		"gromits": {
+			"name": "Gromits"
+		},
+		"ardenwealdtoads": {
+			"name": "Ardentoads"
+		},
+		"diretoads": {
+			"name": "Dire Toads"
+		},
+		"toads": {
+			"name": "Toads"
+		},
+		"loatoads": {
+			"name": "Loa Toads"
+		},
+		"ambystans": {
+			"name": "Ambystans"
+		}
+	}
+}

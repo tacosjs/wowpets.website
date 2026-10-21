@@ -1,0 +1,12 @@
+{
+	"name": "Yellow Shale Spider",
+	"variant": "Yellow",
+	"npcs": {
+		"228555": {
+			"name": "Jittery Shardling"
+		},
+		"228556": {
+			"name": "Agitated Kaja'crawler"
+		}
+	}
+}

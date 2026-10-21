@@ -1,0 +1,36 @@
+{
+	"id": "scorpionskinblue",
+	"family": "scorpid",
+	"modelGroup": "scorpids",
+	"npcs": [
+		{
+			"id": 48130,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thousand-needles"
+				}
+			]
+		},
+		{
+			"id": 51001,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "thousand-needles"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

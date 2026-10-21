@@ -1,0 +1,102 @@
+{
+	"id": "firebee-antenna1",
+	"family": "wasp",
+	"modelGroup": "cinderbees",
+	"npcs": [
+		{
+			"id": 224096,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "cinderwold"
+				}
+			]
+		},
+		{
+			"id": 217897,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "cinderwold"
+				}
+			]
+		},
+		{
+			"id": 224081,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "cinderwold"
+				}
+			]
+		},
+		{
+			"id": 215024,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "cinderwold"
+				}
+			]
+		},
+		{
+			"id": 219955,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "cinderbrew-meadery",
+					"area": "the-buzz-barns"
+				}
+			]
+		},
+		{
+			"id": 218016,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "cinderbrew-meadery",
+					"area": "the-buzz-barns"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

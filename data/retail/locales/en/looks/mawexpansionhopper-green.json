@@ -1,0 +1,21 @@
+{
+	"name": "Green Gromit",
+	"variant": "Green",
+	"npcs": {
+		"176665": {
+			"name": "Korthian Gromit"
+		},
+		"177185": {
+			"name": "Crested Gromit"
+		},
+		"180524": {
+			"name": "Hollow Gromit"
+		},
+		"180598": {
+			"name": "Swagsnout Gromit"
+		},
+		"180678": {
+			"name": "Keensnout Gromit"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"name": "Dark Grey Helhound w/ Chains",
+	"variant": "Dark Grey w/ Chains",
+	"npcs": {
+		"92040": {
+			"name": "Fenri"
+		},
+		"177441": {
+			"name": "Frekki",
+			"title": "Child of Guarm"
+		}
+	}
+}

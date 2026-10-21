@@ -1,0 +1,41 @@
+{
+	"id": "fireflyskinblack",
+	"family": "wasp",
+	"modelGroup": "fireflies",
+	"npcs": [
+		{
+			"id": 18283,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zangarmarsh"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 158520,
+			"tameable": true,
+			"level": {
+				"min": 55,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "gossamer-cliffs"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		170768,
+		170733
+	]
+}

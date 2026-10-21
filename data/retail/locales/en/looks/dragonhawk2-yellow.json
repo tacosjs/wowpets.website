@@ -1,0 +1,24 @@
+{
+	"name": "Greater Red-Yellow Dragonhawk",
+	"variant": "Red-Yellow",
+	"npcs": {
+		"241475": {
+			"name": "Sun's Reach Dragonhawk"
+		},
+		"242440": {
+			"name": "Dragonhawk Mistswooper"
+		},
+		"245981": {
+			"name": "Solentino"
+		},
+		"249795": {
+			"name": "Emberstrike"
+		},
+		"255506": {
+			"name": "Embae"
+		},
+		"257519": {
+			"name": "Mirebeak Dragonhawk"
+		}
+	}
+}

@@ -1,0 +1,72 @@
+{
+	"id": "deepseacrabbiolucentpurple",
+	"family": "crab",
+	"modelGroup": "spikedcrabs",
+	"npcs": [
+		{
+			"id": 74508,
+			"tameable": true,
+			"level": {
+				"min": 12,
+				"max": 32
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "blackfathom-deeps",
+					"area": "the-forgotten-pool"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 216963,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "the-faded-shore"
+				}
+			]
+		},
+		{
+			"id": 134793,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 254805,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "spiritpaw-backwoods"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		69384,
+		154935,
+		257101
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Grey Python",
+	"variant": "Grey",
+	"npcs": {
+		"261556": {
+			"name": "Hatchling"
+		},
+		"272672": {
+			"name": "Hatchling"
+		}
+	}
+}

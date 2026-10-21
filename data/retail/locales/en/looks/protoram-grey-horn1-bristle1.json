@@ -1,0 +1,12 @@
+{
+	"name": "Grassy Grey Ramolith - Smaller Horns",
+	"variant": "Grassy Grey - Smaller Horns",
+	"npcs": {
+		"219378": {
+			"name": "Stabled Ramolith"
+		},
+		"226889": {
+			"name": "Rambleshire Buck"
+		}
+	}
+}

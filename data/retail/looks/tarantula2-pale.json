@@ -1,0 +1,39 @@
+{
+	"id": "tarantula2-pale",
+	"family": "spider",
+	"modelGroup": "grandtarantulas",
+	"npcs": [
+		{
+			"id": 199542,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus"
+				}
+			]
+		},
+		{
+			"id": 191084,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "deadsnare-caverns"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		203970
+	]
+}

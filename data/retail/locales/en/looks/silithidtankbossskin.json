@@ -1,0 +1,15 @@
+{
+	"name": "Pink Silithid Colossus",
+	"variant": "Pink",
+	"npcs": {
+		"15544": {
+			"name": "Vem"
+		},
+		"47386": {
+			"name": "Ainamiss the Hive Queen"
+		},
+		"50745": {
+			"name": "Losaj"
+		}
+	}
+}

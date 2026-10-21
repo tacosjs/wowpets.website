@@ -1,0 +1,9 @@
+{
+	"name": "Saddled Brown Maned Wolf",
+	"variant": "Brown",
+	"npcs": {
+		"80160": {
+			"name": "Riding Wolf"
+		}
+	}
+}

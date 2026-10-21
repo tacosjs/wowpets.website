@@ -1,0 +1,68 @@
+{
+	"id": "pig2-darkpink",
+	"family": "boar",
+	"modelGroup": "pigs",
+	"npcs": [
+		{
+			"id": 56132,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds"
+				}
+			]
+		},
+		{
+			"id": 220309,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mycomancer-cavern"
+				}
+			]
+		},
+		{
+			"id": 221159,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mycomancer-cavern"
+				}
+			]
+		},
+		{
+			"id": 221158,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mycomancer-cavern"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		142403,
+		214928,
+		214926
+	]
+}

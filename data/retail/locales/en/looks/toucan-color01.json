@@ -1,0 +1,27 @@
+{
+	"name": "Black Axebeak",
+	"variant": "Black",
+	"npcs": {
+		"81903": {
+			"name": "Vibrant Axebeak"
+		},
+		"83436": {
+			"name": "Putrid Axebeak"
+		},
+		"88592": {
+			"name": "Blighted Axebeak"
+		},
+		"130575": {
+			"name": "Wandering Axebeak"
+		},
+		"189688": {
+			"name": "Bemused Axebeak"
+		},
+		"191098": {
+			"name": "Vivid Axebeak"
+		},
+		"192186": {
+			"name": "Territorial Axebeak"
+		}
+	}
+}

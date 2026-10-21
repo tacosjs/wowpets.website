@@ -1,0 +1,50 @@
+{
+	"id": "direwolfskinbluebrown",
+	"family": "wolf",
+	"modelGroup": "worgs",
+	"npcs": [
+		{
+			"id": 50916,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "elwynn-forest",
+					"area": "crystal-lake"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 18670,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "terokkar-forest"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 10220,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "blackrock-spire",
+					"area": "halycons-lair"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

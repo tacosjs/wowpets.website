@@ -1,0 +1,12 @@
+{
+	"name": "Purple-Orange Candlefly w/ Curly Antennae",
+	"variant": "Purple-Orange w/ Curly Antennae",
+	"npcs": {
+		"222652": {
+			"name": "Brilliant Candlefly"
+		},
+		"229526": {
+			"name": "Agitated Pyremite"
+		}
+	}
+}

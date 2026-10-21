@@ -1,0 +1,27 @@
+{
+	"name": "Gold Beetle",
+	"variant": "Gold",
+	"npcs": {
+		"5409": {
+			"name": "Enslaved Harvester"
+		},
+		"15621": {
+			"name": "Yauj Brood"
+		},
+		"51061": {
+			"name": "Roth-Salam"
+		},
+		"136487": {
+			"name": "Goldeater"
+		},
+		"140370": {
+			"name": "Corpsefeaster"
+		},
+		"140373": {
+			"name": "Queen Duneshell"
+		},
+		"151859": {
+			"name": "Tomb Scarab"
+		}
+	}
+}

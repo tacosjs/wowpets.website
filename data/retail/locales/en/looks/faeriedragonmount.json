@@ -1,0 +1,30 @@
+{
+	"name": "Blue Feywing",
+	"variant": "Blue Feywing",
+	"npcs": {
+		"71260": {
+			"name": "Enchanted Fey Dragon"
+		},
+		"79673": {
+			"name": "Iridescent Fey Dragon"
+		},
+		"81930": {
+			"name": "Enchanted Feywing"
+		},
+		"82044": {
+			"name": "Glimmering Fey Dragon"
+		},
+		"82096": {
+			"name": "Moonglow"
+		},
+		"82195": {
+			"name": "Glimmering Fey Dragon"
+		},
+		"82213": {
+			"name": "Brighteye"
+		},
+		"82762": {
+			"name": "Enchanted Feywing"
+		}
+	}
+}

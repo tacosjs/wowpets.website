@@ -1,0 +1,22 @@
+{
+	"id": "sandreaverskin-orange",
+	"family": "aqiri",
+	"modelGroup": "sandreavers",
+	"npcs": [
+		{
+			"id": 87251,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "talador",
+					"area": "the-sunset-shore"
+				}
+			]
+		}
+	]
+}

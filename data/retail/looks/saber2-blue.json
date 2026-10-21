@@ -1,0 +1,81 @@
+{
+	"id": "saber2-blue",
+	"family": "cat",
+	"modelGroup": "catmanasabers",
+	"npcs": [
+		{
+			"id": 112068,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "leystation-moonfall"
+				}
+			]
+		},
+		{
+			"id": 113201,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "crimson-thicket"
+				}
+			]
+		},
+		{
+			"id": 110727,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "crimson-thicket"
+				}
+			]
+		},
+		{
+			"id": 112627,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar"
+				}
+			]
+		},
+		{
+			"id": 102748,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "the-grand-promenade"
+				}
+			]
+		}
+	]
+}

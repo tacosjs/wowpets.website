@@ -1,0 +1,22 @@
+{
+	"id": "turtleprimal-dark-venom",
+	"family": "turtle",
+	"modelGroup": "smoothdragonturtles",
+	"npcs": [
+		{
+			"id": 262691,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "the-whispering-marsh"
+				}
+			]
+		}
+	]
+}

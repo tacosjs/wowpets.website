@@ -1,0 +1,155 @@
+{
+	"id": "foxwyvern-red",
+	"family": "feathermane",
+	"modelGroup": "slyverns",
+	"npcs": [
+		{
+			"id": 192168,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "apex-canopy"
+				}
+			]
+		},
+		{
+			"id": 190318,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		},
+		{
+			"id": 195223,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "primordial-vale"
+				}
+			]
+		},
+		{
+			"id": 187754,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		},
+		{
+			"id": 188203,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "apex-canopy"
+				}
+			]
+		},
+		{
+			"id": 199785,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-forbidden-reach"
+				}
+			]
+		},
+		{
+			"id": 193986,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				},
+				{
+					"zone": "the-forbidden-reach"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 191729,
+			"tameable": false,
+			"level": {
+				"min": 58,
+				"max": 60
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "the-forbidden-reach",
+					"area": "aerie-chasm"
+				}
+			]
+		},
+		{
+			"id": 190761,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		187455,
+		196057,
+		192169,
+		188204,
+		190742,
+		197962,
+		194102,
+		187489
+	]
+}

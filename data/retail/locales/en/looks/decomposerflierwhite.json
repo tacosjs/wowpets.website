@@ -1,0 +1,12 @@
+{
+	"name": "Silver Gorm Wasp",
+	"variant": "Silver",
+	"npcs": {
+		"163395": {
+			"name": "Rootstinger Drone"
+		},
+		"171366": {
+			"name": "Gorm Egg Tender"
+		}
+	}
+}

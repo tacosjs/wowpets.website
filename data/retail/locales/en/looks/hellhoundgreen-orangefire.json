@@ -1,0 +1,15 @@
+{
+	"name": "Green Infernal Hellhound w/ Orange Flames",
+	"variant": "Green w/ Orange Flames",
+	"npcs": {
+		"61408": {
+			"name": "Adarogg"
+		},
+		"146882": {
+			"name": "Gargantuan Blighthound"
+		},
+		"146911": {
+			"name": "Fleshrot Blighthound"
+		}
+	}
+}

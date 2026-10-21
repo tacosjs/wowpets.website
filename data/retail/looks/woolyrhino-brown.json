@@ -1,0 +1,35 @@
+{
+	"id": "woolyrhino-brown",
+	"family": "clefthoof",
+	"modelGroup": "woollyrhinos",
+	"npcs": [
+		{
+			"id": 25488,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "borean-tundra"
+				}
+			]
+		},
+		{
+			"id": 25487,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "borean-tundra"
+				}
+			]
+		}
+	]
+}

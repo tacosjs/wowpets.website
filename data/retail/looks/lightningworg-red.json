@@ -1,0 +1,53 @@
+{
+	"id": "lightningworg-red",
+	"family": "spiritbeast",
+	"modelGroup": "spiritstormwolves",
+	"npcs": [
+		{
+			"id": 151147,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-storm-peaks",
+					"area": "temple-of-storms"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 220890,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "cinderwold"
+				}
+			]
+		},
+		{
+			"id": 222796,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "cinderwold"
+				}
+			]
+		}
+	]
+}

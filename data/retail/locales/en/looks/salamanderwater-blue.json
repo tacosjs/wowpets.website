@@ -1,0 +1,9 @@
+{
+	"name": "Purple Salamanther w/o Gills or Fins",
+	"variant": "Purple",
+	"npcs": {
+		"205223": {
+			"name": "Leatherscale Salamander"
+		}
+	}
+}

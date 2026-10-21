@@ -1,0 +1,24 @@
+{
+	"name": "Green Ardenmoth",
+	"variant": "Green",
+	"npcs": {
+		"166073": {
+			"name": "Greater Ardenmoth"
+		},
+		"168306": {
+			"name": "Territorial Shimmermoth"
+		},
+		"169303": {
+			"name": "Ardenmoth"
+		},
+		"170859": {
+			"name": "Silentwing Ardenmoth"
+		},
+		"172979": {
+			"name": "Honeydew Sporeflutterer"
+		},
+		"174201": {
+			"name": "Ardenmoth"
+		}
+	}
+}

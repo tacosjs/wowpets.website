@@ -1,0 +1,195 @@
+{
+	"id": "phoenix2-yellow",
+	"family": "birdofprey",
+	"modelGroup": "phoenixes",
+	"npcs": [
+		{
+			"id": 188699,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores"
+				}
+			]
+		},
+		{
+			"id": 189581,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "burning-ascent"
+				}
+			]
+		},
+		{
+			"id": 186684,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "scalecracker-keep"
+				},
+				{
+					"zone": "the-waking-shores",
+					"area": "dragonheart-outpost"
+				}
+			]
+		},
+		{
+			"id": 191637,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores"
+				}
+			]
+		},
+		{
+			"id": 187932,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "the-slagmire"
+				}
+			]
+		},
+		{
+			"id": 181763,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "burning-ascent"
+				},
+				{
+					"zone": "the-waking-shores",
+					"area": "obsidian-throne"
+				}
+			]
+		},
+		{
+			"id": 195448,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "dragonbane-keep"
+				}
+			]
+		},
+		{
+			"id": 210103,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "fields-of-reverie"
+				}
+			]
+		},
+		{
+			"id": 187923,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "the-slagmire"
+				}
+			]
+		},
+		{
+			"id": 204110,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "battlefield-ruins"
+				}
+			]
+		},
+		{
+			"id": 207337,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "dragon-isles",
+					"area": "active-dreamsurge-zone"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 193234,
+			"tameable": false,
+			"level": {
+				"min": 72,
+				"max": 72
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "thaldraszus"
+				}
+			]
+		}
+	]
+}

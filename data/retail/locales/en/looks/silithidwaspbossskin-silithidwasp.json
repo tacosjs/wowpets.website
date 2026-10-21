@@ -1,0 +1,15 @@
+{
+	"name": "Orange Wasp",
+	"variant": "Orange",
+	"npcs": {
+		"50891": {
+			"name": "Boros"
+		},
+		"50901": {
+			"name": "Teromak"
+		},
+		"52375": {
+			"name": "Florawing Needler"
+		}
+	}
+}

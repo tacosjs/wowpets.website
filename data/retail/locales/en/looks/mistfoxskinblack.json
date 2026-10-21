@@ -1,0 +1,27 @@
+{
+	"name": "Black Fox",
+	"variant": "Black",
+	"npcs": {
+		"43084": {
+			"name": "Forest Stalker"
+		},
+		"51076": {
+			"name": "Lopex"
+		},
+		"64377": {
+			"name": "Dig"
+		},
+		"137353": {
+			"name": "Ashenwood Prowler"
+		},
+		"137640": {
+			"name": "Crimsonwood Prowler"
+		},
+		"142198": {
+			"name": "Void-Touched Fox"
+		},
+		"145040": {
+			"name": "Llorin the Clever"
+		}
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"id": "silithidtankbossskin-damaged",
+	"family": "aqiri",
+	"modelGroup": "bosssilithids",
+	"npcs": [
+		{
+			"id": 50742,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "silithus",
+					"area": "hiveashi"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

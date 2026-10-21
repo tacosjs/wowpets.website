@@ -1,0 +1,293 @@
+{
+	"id": "spiderunderground-blue-glow-red",
+	"family": "spider",
+	"modelGroup": "undercrawlers",
+	"npcs": [
+		{
+			"id": 215772,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "chittering-den"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 214962,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "shimmermist-falls"
+				}
+			]
+		},
+		{
+			"id": 216249,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn"
+				},
+				{
+					"zone": "the-ringing-deeps"
+				},
+				{
+					"zone": "hallowfall"
+				},
+				{
+					"zone": "azj-kahet"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 218014,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "pillar-nest-xesh"
+				}
+			]
+		},
+		{
+			"id": 219854,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "pillar-nest-xesh"
+				}
+			]
+		},
+		{
+			"id": 206078,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "lights-blooming"
+				}
+			]
+		},
+		{
+			"id": 206094,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "stillstone-pond-lights-blooming"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 206077,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "lights-blooming"
+				}
+			]
+		},
+		{
+			"id": 206096,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "stillstone-pond"
+				}
+			]
+		},
+		{
+			"id": 231380,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "operation-floodgate",
+					"area": "the-waterworks"
+				}
+			]
+		},
+		{
+			"id": 226675,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 216944,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "obsidian-hollow-quest-phase"
+				}
+			]
+		},
+		{
+			"id": 217981,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "pillar-nest-xesh"
+				}
+			]
+		},
+		{
+			"id": 219045,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nerub-ar-palace"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 219912,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "the-burrows"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 237765,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		},
+		{
+			"id": 216663,
+			"tameable": false,
+			"level": {
+				"min": 82,
+				"max": 82
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nerub-ar-palace",
+					"area": "the-pulsing-pit"
+				}
+			]
+		}
+	]
+}

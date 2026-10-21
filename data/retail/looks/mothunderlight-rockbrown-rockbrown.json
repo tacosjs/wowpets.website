@@ -1,0 +1,21 @@
+{
+	"id": "mothunderlight-rockbrown-rockbrown",
+	"family": "moth",
+	"modelGroup": "dustmoths",
+	"npcs": [
+		{
+			"id": 205191,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern"
+				}
+			]
+		}
+	]
+}

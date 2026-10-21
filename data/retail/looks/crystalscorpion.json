@@ -1,0 +1,255 @@
+{
+	"id": "crystalscorpion",
+	"family": "scorpid",
+	"modelGroup": "crystalscorpions",
+	"npcs": [
+		{
+			"id": 108361,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-nighthold"
+				}
+			]
+		},
+		{
+			"id": 103217,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-nighthold"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 102263,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "the-nighthold"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 239461,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "shadowridge-outpost"
+				}
+			]
+		},
+		{
+			"id": 252682,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "the-fangfall"
+				}
+			]
+		},
+		{
+			"id": 247444,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "obscurion-citadel"
+				}
+			]
+		},
+		{
+			"id": 255514,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm"
+				}
+			]
+		},
+		{
+			"id": 257088,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm"
+				}
+			]
+		},
+		{
+			"id": 254720,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods"
+				}
+			]
+		},
+		{
+			"id": 261085,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "val",
+					"area": "void-acropolis"
+				}
+			]
+		},
+		{
+			"id": 216948,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "obsidian-hollow-quest-phase"
+				}
+			]
+		},
+		{
+			"id": 246566,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "twilight-highlands"
+				}
+			]
+		},
+		{
+			"id": 257112,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm"
+				}
+			]
+		},
+		{
+			"id": 248220,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "obscurion-citadel"
+				}
+			]
+		},
+		{
+			"id": 247519,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "abundant-voidburrow"
+				}
+			]
+		},
+		{
+			"id": 265935,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "val"
+				}
+			]
+		},
+		{
+			"id": 264866,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "val",
+					"area": "glacial-reservoir"
+				}
+			]
+		}
+	]
+}

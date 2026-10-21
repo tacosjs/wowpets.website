@@ -1,0 +1,27 @@
+{
+	"id": "druidbearkultiran-noarmor-brown",
+	"family": "bear",
+	"modelGroup": "thornbears",
+	"npcs": [
+		{
+			"id": 210988,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "springrain-river"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

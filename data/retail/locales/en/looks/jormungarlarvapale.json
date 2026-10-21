@@ -1,0 +1,24 @@
+{
+	"name": "Blue Jormungar",
+	"variant": "Blue",
+	"npcs": {
+		"29605": {
+			"name": "Ravenous Jormungar"
+		},
+		"30291": {
+			"name": "Ravenous Jormungar"
+		},
+		"91001": {
+			"name": "Tarspitter Lurker"
+		},
+		"102430": {
+			"name": "Tarspitter Slug"
+		},
+		"140989": {
+			"name": "Bonescale Worm"
+		},
+		"199331": {
+			"name": "Lakefrost Worm"
+		}
+	}
+}

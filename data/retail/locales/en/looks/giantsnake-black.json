@@ -1,0 +1,25 @@
+{
+	"name": "Black Cobra",
+	"variant": "Black",
+	"npcs": {
+		"130401": {
+			"name": "Vathikur"
+		},
+		"166475": {
+			"name": "Dambala"
+		},
+		"167848": {
+			"name": "Dambala",
+			"title": "Loa of Treachery"
+		},
+		"253697": {
+			"name": "Ravenous Cobraling"
+		},
+		"259131": {
+			"name": "Timber Cobra"
+		},
+		"259132": {
+			"name": "Timber Whelp"
+		}
+	}
+}

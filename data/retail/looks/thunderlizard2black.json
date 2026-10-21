@@ -1,0 +1,92 @@
+{
+	"id": "thunderlizard2black",
+	"family": "scalehide",
+	"modelGroup": "thunderlizards",
+	"npcs": [
+		{
+			"id": 5833,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "searing-gorge"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 6503,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ungoro-crater",
+					"area": "terror-run"
+				}
+			]
+		},
+		{
+			"id": 6501,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ungoro-crater",
+					"area": "terror-run"
+				}
+			]
+		},
+		{
+			"id": 8928,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blackrock-depths",
+					"area": "ring-of-the-law"
+				}
+			]
+		},
+		{
+			"id": 187258,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "shifting-sands"
+				}
+			]
+		},
+		{
+			"id": 3674,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "wailing-caverns"
+				}
+			]
+		}
+	]
+}

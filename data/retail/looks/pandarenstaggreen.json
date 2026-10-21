@@ -1,0 +1,53 @@
+{
+	"id": "pandarenstaggreen",
+	"family": "stag",
+	"modelGroup": "greaterstags",
+	"npcs": [
+		{
+			"id": 58489,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds"
+				}
+			]
+		},
+		{
+			"id": 66421,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "townlong-steppes"
+				}
+			]
+		},
+		{
+			"id": 66605,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dread-wastes"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		252836,
+		254053
+	]
+}

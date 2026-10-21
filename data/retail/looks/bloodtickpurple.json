@@ -1,0 +1,41 @@
+{
+	"id": "bloodtickpurple",
+	"family": "bloodbeast",
+	"modelGroup": "bloodticks",
+	"npcs": [
+		{
+			"id": 133357,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "koramar"
+				}
+			]
+		},
+		{
+			"id": 242421,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-queldanas",
+					"area": "silver-landing"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		120560,
+		122335
+	]
+}

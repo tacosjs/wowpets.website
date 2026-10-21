@@ -1,0 +1,62 @@
+{
+	"id": "sharkray-red",
+	"family": "ray",
+	"modelGroup": "fathomrays",
+	"npcs": [
+		{
+			"id": 152291,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "nazjatar"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 210050,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "haven-cascades"
+				}
+			]
+		},
+		{
+			"id": 154419,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nazjatar"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		223492,
+		209579,
+		223494,
+		223491
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"name": "Black Nightsaber",
+	"variant": "Black",
+	"npcs": {
+		"97454": {
+			"name": "Rashar"
+		},
+		"103616": {
+			"name": "Moonwhisper Stalker"
+		},
+		"103816": {
+			"name": "Petrified Nightsaber"
+		},
+		"109807": {
+			"name": "Wild Nightsaber"
+		},
+		"110562": {
+			"name": "Bahagar"
+		},
+		"135719": {
+			"name": "Duskrunner"
+		},
+		"135722": {
+			"name": "Twilight Prowler"
+		},
+		"145736": {
+			"name": "Twilight Prowler"
+		},
+		"165094": {
+			"name": "Gladestalker"
+		},
+		"168620": {
+			"name": "Starving Shadowstalker"
+		},
+		"169049": {
+			"name": "Anima-Starved Stalker"
+		},
+		"169228": {
+			"name": "Anima-Starved Stalker"
+		},
+		"169915": {
+			"name": "Runestalker"
+		},
+		"172069": {
+			"name": "Frightened Gladestalker"
+		},
+		"194688": {
+			"name": "Valrash"
+		}
+	}
+}

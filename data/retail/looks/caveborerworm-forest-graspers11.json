@@ -1,0 +1,14 @@
+{
+	"id": "caveborerworm-forest-graspers11",
+	"family": "worm",
+	"modelGroup": "jawcrawlers",
+	"npcs": [],
+	"alsoNpcs": [
+		220261,
+		223931,
+		227777,
+		229205,
+		225049,
+		217264
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Green Raptor",
+	"variant": "Green",
+	"npcs": {
+		"88956": {
+			"name": "Vicious Razorclaw"
+		},
+		"167350": {
+			"name": "Raptor"
+		}
+	}
+}

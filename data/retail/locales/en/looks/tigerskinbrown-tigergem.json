@@ -1,0 +1,10 @@
+{
+	"name": "Golden-Tan Mystic Cat",
+	"variant": "GoldenTan",
+	"npcs": {
+		"51663": {
+			"name": "Pogeyan",
+			"title": "The Fire Spirit"
+		}
+	}
+}

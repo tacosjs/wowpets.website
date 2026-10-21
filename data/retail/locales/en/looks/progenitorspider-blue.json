@@ -1,0 +1,12 @@
+{
+	"name": "Grey & Brass Tarachnid",
+	"variant": "Grey & Brass Tarachnid",
+	"npcs": {
+		"181539": {
+			"name": "Resonant Tarachnid"
+		},
+		"181556": {
+			"name": "Coreless Tarachnid"
+		}
+	}
+}

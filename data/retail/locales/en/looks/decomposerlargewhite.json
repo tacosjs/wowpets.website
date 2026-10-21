@@ -1,0 +1,12 @@
+{
+	"name": "Silver Greater Gorm",
+	"variant": "Silver Greater Gorm",
+	"npcs": {
+		"161971": {
+			"name": "Young Matriarch"
+		},
+		"169041": {
+			"name": "Contender Karnek"
+		}
+	}
+}

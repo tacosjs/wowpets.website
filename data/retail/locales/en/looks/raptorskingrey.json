@@ -1,0 +1,24 @@
+{
+	"name": "Grey Raptor",
+	"variant": "Grey",
+	"npcs": {
+		"3634": {
+			"name": "Deviate Stalker"
+		},
+		"5842": {
+			"name": "Takk the Leaper"
+		},
+		"34829": {
+			"name": "King Reaperclaw"
+		},
+		"39385": {
+			"name": "Screamslash"
+		},
+		"40412": {
+			"name": "Butcher"
+		},
+		"50876": {
+			"name": "Avis"
+		}
+	}
+}

@@ -1,0 +1,84 @@
+{
+	"id": "shalespidergreen",
+	"family": "shalebeast",
+	"modelGroup": "shalespiders",
+	"npcs": [
+		{
+			"id": 56543,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-jade-forest"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 56404,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-jade-forest"
+				}
+			]
+		},
+		{
+			"id": 56401,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-jade-forest"
+				}
+			]
+		},
+		{
+			"id": 49822,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "deepholm",
+					"area": "crumbling-depths"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 61159,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "greenstone-village"
+				}
+			]
+		}
+	]
+}

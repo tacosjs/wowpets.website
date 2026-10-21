@@ -1,0 +1,28 @@
+{
+	"name": "Green Abyss Worm",
+	"variant": "Green",
+	"npcs": {
+		"115795": {
+			"name": "Abyss Stalker"
+		},
+		"120477": {
+			"name": "Deep Stalker"
+		},
+		"132920": {
+			"name": "Shadow Serpent"
+		},
+		"153694": {
+			"name": "Deepcoil Hatchling"
+		},
+		"154092": {
+			"name": "Deepcoil Hatchling"
+		},
+		"206074": {
+			"name": "Pendule"
+		},
+		"263944": {
+			"name": "Nageressies",
+			"title": "The Great White Snake"
+		}
+	}
+}

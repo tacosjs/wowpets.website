@@ -1,0 +1,35 @@
+{
+	"id": "windserpentskinoutland4",
+	"family": "windserpent",
+	"modelGroup": "spikedwindserpents",
+	"npcs": [
+		{
+			"id": 26446,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "grizzly-hills"
+				}
+			]
+		},
+		{
+			"id": 19428,
+			"tameable": true,
+			"level": {
+				"min": 16,
+				"max": 31
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "sethekk-halls"
+				}
+			]
+		}
+	]
+}

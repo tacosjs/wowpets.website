@@ -1,0 +1,37 @@
+{
+	"id": "progenitorwolf-red-armor",
+	"family": "wolf",
+	"modelGroup": "lupines",
+	"npcs": [
+		{
+			"id": 179939,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "choral-residium"
+				}
+			]
+		},
+		{
+			"id": 181344,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "the-great-veldt"
+				}
+			]
+		}
+	]
+}

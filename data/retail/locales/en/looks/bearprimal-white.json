@@ -1,0 +1,12 @@
+{
+	"name": "Grey Primal Bear",
+	"variant": "Grey",
+	"npcs": {
+		"194035": {
+			"name": "Tundra Bear"
+		},
+		"194224": {
+			"name": "Crazed Alpha"
+		}
+	}
+}

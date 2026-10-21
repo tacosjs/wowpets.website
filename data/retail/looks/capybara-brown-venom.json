@@ -1,0 +1,23 @@
+{
+	"id": "capybara-brown-venom",
+	"family": "rodent",
+	"modelGroup": "capybaras",
+	"npcs": [
+		{
+			"id": 268049,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "gate-of-the-eastern-fang"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

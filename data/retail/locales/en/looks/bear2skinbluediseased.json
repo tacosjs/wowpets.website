@@ -1,0 +1,24 @@
+{
+	"name": "Sickly Grey Bear",
+	"variant": "Sickly Grey",
+	"npcs": {
+		"47204": {
+			"name": "Infested Bear"
+		},
+		"50929": {
+			"name": "Little Bjorn"
+		},
+		"140155": {
+			"name": "Rabid Rotclaw"
+		},
+		"140156": {
+			"name": "Vilemaw"
+		},
+		"155176": {
+			"name": "Old Nasha"
+		},
+		"180852": {
+			"name": "Infested Bear"
+		}
+	}
+}

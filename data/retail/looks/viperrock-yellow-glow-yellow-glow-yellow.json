@@ -1,0 +1,61 @@
+{
+	"id": "viperrock-yellow-glow-yellow-glow-yellow",
+	"family": "serpent",
+	"modelGroup": "rockcobras",
+	"npcs": [
+		{
+			"id": 204316,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "sulfur-wastes"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 203900,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "sulfur-wastes"
+				}
+			]
+		},
+		{
+			"id": 205814,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "ruins-of-drekazera"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		204828,
+		204825
+	]
+}

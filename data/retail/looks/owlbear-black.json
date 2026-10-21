@@ -1,0 +1,31 @@
+{
+	"id": "owlbear-black",
+	"family": "feathermane",
+	"modelGroup": "umbraclaws",
+	"npcs": [
+		{
+			"id": 212028,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "whorlwing-basin"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		211342,
+		216713,
+		216712,
+		216694,
+		216695,
+		212065,
+		212040
+	]
+}

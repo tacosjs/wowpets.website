@@ -1,0 +1,21 @@
+{
+	"name": "Red Petalwing",
+	"variant": "Red",
+	"npcs": {
+		"237046": {
+			"name": "Zaratti Bloodpetal"
+		},
+		"246391": {
+			"name": "Loafloret Petalwing"
+		},
+		"256878": {
+			"name": "Opportunistic Petalwing"
+		},
+		"256898": {
+			"name": "Soaring Petalwing"
+		},
+		"256903": {
+			"name": "Soaring Petalwing"
+		}
+	}
+}

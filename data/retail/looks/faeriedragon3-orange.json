@@ -1,0 +1,56 @@
+{
+	"id": "faeriedragon3-orange",
+	"family": "lesserdragonkin",
+	"modelGroup": "dreamfeydarters",
+	"npcs": [
+		{
+			"id": 209444,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "viridescent-thicket"
+				}
+			]
+		},
+		{
+			"id": 209602,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "sprigling-gloam"
+				}
+			]
+		},
+		{
+			"id": 210873,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "rootwoven-strand"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		206511,
+		213547
+	]
+}

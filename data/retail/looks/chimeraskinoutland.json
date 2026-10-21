@@ -1,0 +1,21 @@
+{
+	"id": "chimeraskinoutland",
+	"family": "chimaera",
+	"modelGroup": "armoredchimaeras",
+	"npcs": [
+		{
+			"id": 21033,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blades-edge-mountains"
+				}
+			]
+		}
+	]
+}

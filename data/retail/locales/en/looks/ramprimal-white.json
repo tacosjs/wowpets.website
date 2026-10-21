@@ -1,0 +1,48 @@
+{
+	"name": "White Argali",
+	"variant": "White",
+	"npcs": {
+		"187975": {
+			"name": "Fleecepelt Argali"
+		},
+		"191120": {
+			"name": "Lost Lamb"
+		},
+		"191394": {
+			"name": "Fluffy Argali"
+		},
+		"192468": {
+			"name": "Wooly Ewe"
+		},
+		"193156": {
+			"name": "Wooly Lamb"
+		},
+		"193170": {
+			"name": "Fulgurb"
+		},
+		"193549": {
+			"name": "Crazed Lost Argali"
+		},
+		"194690": {
+			"name": "Carefree Lamb"
+		},
+		"195403": {
+			"name": "Rampaging Wooly Ewe"
+		},
+		"196582": {
+			"name": "Woolly Cliffgrazer"
+		},
+		"197635": {
+			"name": "Time Trapped Argali"
+		},
+		"202441": {
+			"name": "Elusive Auric Argali"
+		},
+		"203808": {
+			"name": "Temporally Touched Argali"
+		},
+		"263822": {
+			"name": "Chopped Mutton"
+		}
+	}
+}

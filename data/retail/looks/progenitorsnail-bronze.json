@@ -1,0 +1,66 @@
+{
+	"id": "progenitorsnail-bronze",
+	"family": "carapid",
+	"modelGroup": "helicids",
+	"npcs": [
+		{
+			"id": 178831,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "lexical-glade"
+				}
+			]
+		},
+		{
+			"id": 185510,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis"
+				}
+			]
+		},
+		{
+			"id": 185348,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "sepulcher-of-the-first-ones",
+					"area": "ephemeral-plains"
+				}
+			]
+		},
+		{
+			"id": 182425,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "dimensional-falls-cavern"
+				}
+			]
+		}
+	]
+}

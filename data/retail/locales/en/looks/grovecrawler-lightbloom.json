@@ -1,0 +1,37 @@
+{
+	"name": "Lightbloom Grovecrawler",
+	"variant": "Lightbloom",
+	"npcs": {
+		"236346": {
+			"name": "Lightdazzled Crawler"
+		},
+		"237505": {
+			"name": "Overzealous Lightcrawler"
+		},
+		"237633": {
+			"name": "Lightfrenzy Devourer"
+		},
+		"245460": {
+			"name": "Lightbloom Grovecrawler"
+		},
+		"246674": {
+			"name": "Grovecrawler Lightleaf"
+		},
+		"250341": {
+			"name": "Lightcursed Crawler"
+		},
+		"250824": {
+			"name": "Lightfrenzied Devourer"
+		},
+		"253558": {
+			"name": "Adzikel",
+			"title": "The Hidden Light"
+		},
+		"255871": {
+			"name": "Lightbloom Crawler"
+		},
+		"258190": {
+			"name": "Lightcursed Crawler"
+		}
+	}
+}

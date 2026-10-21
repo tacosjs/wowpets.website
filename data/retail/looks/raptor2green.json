@@ -1,0 +1,39 @@
+{
+	"id": "raptor2green",
+	"family": "raptor",
+	"modelGroup": "draenorraptors",
+	"npcs": [
+		{
+			"id": 167350,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 10
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "exiles-reach"
+				}
+			]
+		},
+		{
+			"id": 88956,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nagrand-draenor"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		86423,
+		187256
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Copper Wasp",
+	"variant": "Copper",
+	"npcs": {
+		"14474": {
+			"name": "Zora"
+		},
+		"131895": {
+			"name": "Silithid Spitfire"
+		}
+	}
+}

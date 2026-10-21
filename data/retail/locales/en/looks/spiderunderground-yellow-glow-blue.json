@@ -1,0 +1,16 @@
+{
+	"name": "Yellow Undercrawler w/ Blue Glow",
+	"variant": "Yellow w/ Blue Glow",
+	"npcs": {
+		"215769": {
+			"name": "Invasive Hatchling"
+		},
+		"217803": {
+			"name": "Invasive Hatchling"
+		},
+		"219857": {
+			"name": "Xesh Creeper",
+			"title": "Brood of Xishirra"
+		}
+	}
+}

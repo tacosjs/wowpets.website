@@ -1,0 +1,22 @@
+{
+	"name": "Red Dragon Turtle",
+	"variant": "Red",
+	"npcs": {
+		"56256": {
+			"name": "Wyrmhorn Turtle"
+		},
+		"62160": {
+			"name": "Chillwater Turtle"
+		},
+		"63987": {
+			"name": "Shelly",
+			"title": "Lang's Pet"
+		},
+		"134801": {
+			"name": "Cracked-Shell"
+		},
+		"139235": {
+			"name": "Tort Jaw"
+		}
+	}
+}

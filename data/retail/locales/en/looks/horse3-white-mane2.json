@@ -1,0 +1,9 @@
+{
+	"name": "Grey Horse w/ Long Mane",
+	"variant": "Grey w/ Long Mane",
+	"npcs": {
+		"142455": {
+			"name": "Riverland Bronco"
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"name": "Fawn Slateback",
+	"variant": "Fawn",
+	"npcs": {
+		"230557": {
+			"name": "Slateback Cub"
+		},
+		"234475": {
+			"name": "Slateback Cub"
+		},
+		"234476": {
+			"name": "Slateback Cub"
+		},
+		"239830": {
+			"name": "Enraged Slateback Shade"
+		}
+	}
+}

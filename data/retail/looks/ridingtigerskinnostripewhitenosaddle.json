@@ -1,0 +1,21 @@
+{
+	"id": "ridingtigerskinnostripewhitenosaddle",
+	"family": "cat",
+	"modelGroup": "sabercats",
+	"npcs": [
+		{
+			"id": 7433,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "winterspring"
+				}
+			]
+		}
+	]
+}

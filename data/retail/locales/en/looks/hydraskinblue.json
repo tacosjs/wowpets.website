@@ -1,0 +1,9 @@
+{
+	"name": "Blue Hydra",
+	"variant": "Blue",
+	"npcs": {
+		"3721": {
+			"name": "Mystlash Hydra"
+		}
+	}
+}

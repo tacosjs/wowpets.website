@@ -1,0 +1,22 @@
+{
+	"id": "deepseacrab-ghost-orange",
+	"family": "crab",
+	"modelGroup": "spikedcrabs",
+	"npcs": [
+		{
+			"id": 134798,
+			"tameable": true,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"id": "mole-light-nose0-teeth0-bumps0",
+	"family": "rodent",
+	"modelGroup": "moles",
+	"npcs": [
+		{
+			"id": 215846,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "the-rumbling-wastes"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		221297,
+		213973,
+		227184,
+		211977
+	]
+}

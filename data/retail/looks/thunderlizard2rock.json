@@ -1,0 +1,25 @@
+{
+	"id": "thunderlizard2rock",
+	"family": "scalehide",
+	"modelGroup": "thunderlizards",
+	"npcs": [
+		{
+			"id": 5832,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "southern-barrens"
+				}
+			],
+			"keepsName": true
+		}
+	],
+	"alsoNpcs": [
+		187258
+	]
+}

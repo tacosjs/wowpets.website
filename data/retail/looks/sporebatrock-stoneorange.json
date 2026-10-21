@@ -1,0 +1,160 @@
+{
+	"id": "sporebatrock-stoneorange",
+	"family": "ray",
+	"modelGroup": "shalewings",
+	"npcs": [
+		{
+			"id": 203596,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "sulfur-wastes"
+				}
+			]
+		},
+		{
+			"id": 205840,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "molten-overflow"
+				}
+			]
+		},
+		{
+			"id": 202785,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "acidbite-ravine"
+				}
+			]
+		},
+		{
+			"id": 205090,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern"
+				}
+			]
+		},
+		{
+			"id": 215384,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "nibelgaz-mine"
+				}
+			]
+		},
+		{
+			"id": 212364,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "thunderhead-peak-rambleshire"
+				}
+			]
+		},
+		{
+			"id": 212368,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "thunderhead-peak-rambleshire"
+				}
+			]
+		},
+		{
+			"id": 205812,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "ruins-of-drekazera"
+				}
+			]
+		},
+		{
+			"id": 204130,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "glimmerogg"
+				}
+			]
+		},
+		{
+			"id": 220887,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "sunken-shield"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		203785,
+		204157
+	]
+}

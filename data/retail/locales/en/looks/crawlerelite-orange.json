@@ -1,0 +1,12 @@
+{
+	"name": "Dark Orange & Crimson Dire Ravager",
+	"variant": "Dark Orange & Crimson",
+	"npcs": {
+		"16933": {
+			"name": "Razorfang Ravager"
+		},
+		"50725": {
+			"name": "Azelisk"
+		}
+	}
+}

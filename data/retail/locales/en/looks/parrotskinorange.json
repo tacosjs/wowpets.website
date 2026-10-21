@@ -1,0 +1,16 @@
+{
+	"name": "Green & Orange Parrot",
+	"variant": "Green & Orange",
+	"npcs": {
+		"28060": {
+			"name": "Nyuni",
+			"title": "Hapana's Pet"
+		},
+		"48450": {
+			"name": "Sunwing Squawker"
+		},
+		"61747": {
+			"name": "Jeweled Macaw"
+		}
+	}
+}

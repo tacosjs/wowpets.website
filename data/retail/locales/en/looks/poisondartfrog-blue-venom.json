@@ -1,0 +1,12 @@
+{
+	"name": "Venom-Soaked Spotted Blue Dire Toad",
+	"variant": "Venom-Soaked Spotted Blue",
+	"npcs": {
+		"258512": {
+			"name": "Tainted Dart Frog"
+		},
+		"269747": {
+			"name": "Venom-Crazed Dart Frog"
+		}
+	}
+}

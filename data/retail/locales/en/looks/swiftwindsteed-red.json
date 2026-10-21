@@ -1,0 +1,12 @@
+{
+	"name": "Bronze-Scaled Gold Windsteed",
+	"variant": "Bronze-Scaled Gold",
+	"npcs": {
+		"231257": {
+			"name": "Shimmering Windsteed"
+		},
+		"231261": {
+			"name": "Hao"
+		}
+	}
+}

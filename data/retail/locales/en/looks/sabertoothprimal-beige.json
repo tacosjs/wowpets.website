@@ -1,0 +1,39 @@
+{
+	"name": "Beige Rockfang",
+	"variant": "Beige",
+	"npcs": {
+		"185903": {
+			"name": "Ravenous Rockfang"
+		},
+		"187452": {
+			"name": "Rockfang Skulker"
+		},
+		"187572": {
+			"name": "Young Prowler"
+		},
+		"192181": {
+			"name": "Wild Rockfang"
+		},
+		"193384": {
+			"name": "Plains Rockfang"
+		},
+		"193536": {
+			"name": "Rockfang Cub"
+		},
+		"193881": {
+			"name": "Elusive Rockfang"
+		},
+		"194544": {
+			"name": "Konkhular"
+		},
+		"195906": {
+			"name": "Amberpelt Hunter"
+		},
+		"199190": {
+			"name": "Stonefang Cub"
+		},
+		"199191": {
+			"name": "Prowling Stonefang"
+		}
+	}
+}

@@ -1,0 +1,134 @@
+{
+	"id": "turtleprimal-green",
+	"family": "turtle",
+	"modelGroup": "smoothdragonturtles",
+	"npcs": [
+		{
+			"id": 196182,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "veiled-ossuary"
+				}
+			]
+		},
+		{
+			"id": 196619,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "dragonsprings-summit"
+				}
+			]
+		},
+		{
+			"id": 211184,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream"
+				}
+			]
+		},
+		{
+			"id": 250164,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman"
+				}
+			]
+		},
+		{
+			"id": 257600,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "mlurkkr-mire"
+				}
+			]
+		},
+		{
+			"id": 194409,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "sylvan-glade"
+				}
+			]
+		},
+		{
+			"id": 267549,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gnarldor-isle"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		191404,
+		192637,
+		194045,
+		197864,
+		192775,
+		186308,
+		191329,
+		197041,
+		210195,
+		212143,
+		210272,
+		210782,
+		210783,
+		210449,
+		210410,
+		214214,
+		240676,
+		260368,
+		258111,
+		262977,
+		235442,
+		197403,
+		190438
+	]
+}

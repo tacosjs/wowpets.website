@@ -1,0 +1,33 @@
+{
+	"name": "Black Fathom Ray",
+	"variant": "Black",
+	"npcs": {
+		"152290": {
+			"name": "Soundless"
+		},
+		"209579": {
+			"name": "Fathom Pup"
+		},
+		"222248": {
+			"name": "Canyon Devilfish"
+		},
+		"222262": {
+			"name": "Canyon Skimmer"
+		},
+		"223491": {
+			"name": "Flatcram Mite"
+		},
+		"223492": {
+			"name": "Flatcram Grandame"
+		},
+		"223494": {
+			"name": "Flatcram Eel"
+		},
+		"255917": {
+			"name": "Tide Skimmer"
+		},
+		"255918": {
+			"name": "Fathom Ray"
+		}
+	}
+}

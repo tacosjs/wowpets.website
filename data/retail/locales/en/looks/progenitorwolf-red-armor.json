@@ -1,0 +1,12 @@
+{
+	"name": "Armoured Red Lupine",
+	"variant": "Red",
+	"npcs": {
+		"179939": {
+			"name": "Maw Frenzied Lupine"
+		},
+		"181344": {
+			"name": "Runefur"
+		}
+	}
+}

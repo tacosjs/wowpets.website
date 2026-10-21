@@ -1,0 +1,19 @@
+{
+	"name": "Grey & White Ohuna",
+	"variant": "Grey & White",
+	"npcs": {
+		"190942": {
+			"name": "Child of Ohn'ahra"
+		},
+		"194607": {
+			"name": "Wind Eagle",
+			"title": "Bron's Pet"
+		},
+		"195367": {
+			"name": "Roki"
+		},
+		"197896": {
+			"name": "Ohn'ir Ohuna"
+		}
+	}
+}

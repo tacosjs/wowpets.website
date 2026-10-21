@@ -1,0 +1,27 @@
+{
+	"name": "Russet Bruffalon w/ Small Antlers & Shorter Nose Horn",
+	"variant": "Russet",
+	"npcs": {
+		"193892": {
+			"name": "Elusive Bull"
+		},
+		"193968": {
+			"name": "Cliffhoof Bruffalon"
+		},
+		"194220": {
+			"name": "Pinefrost Bruffalon"
+		},
+		"194272": {
+			"name": "Highlands Bruffalon"
+		},
+		"194311": {
+			"name": "Freezefur Bruffalon"
+		},
+		"195190": {
+			"name": "Highlands Bull"
+		},
+		"214201": {
+			"name": "Shadehewn Bruffalon"
+		}
+	}
+}

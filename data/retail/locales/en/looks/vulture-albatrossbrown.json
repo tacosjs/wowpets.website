@@ -1,0 +1,12 @@
+{
+	"name": "Brown Albatross",
+	"variant": "Brown",
+	"npcs": {
+		"127530": {
+			"name": "Ravenous Gull"
+		},
+		"191532": {
+			"name": "Black-footed Gull"
+		}
+	}
+}

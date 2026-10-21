@@ -1,0 +1,122 @@
+{
+	"id": "darkhound2-blue",
+	"family": "hound",
+	"modelGroup": "granddarkhounds",
+	"npcs": [
+		{
+			"id": 1548,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tirisfal-glades"
+				}
+			]
+		},
+		{
+			"id": 1547,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tirisfal-glades"
+				}
+			]
+		},
+		{
+			"id": 1549,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tirisfal-glades"
+				}
+			]
+		},
+		{
+			"id": 23939,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "howling-fjord",
+					"area": "vengeance-landing"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 162909,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 58
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "grove-of-terror"
+				}
+			]
+		},
+		{
+			"id": 229170,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		},
+		{
+			"id": 23943,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "howling-fjord"
+				}
+			]
+		},
+		{
+			"id": 24156,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "howling-fjord"
+				}
+			]
+		}
+	]
+}

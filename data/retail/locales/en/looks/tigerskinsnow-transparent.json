@@ -1,0 +1,9 @@
+{
+	"name": "Ghostly Spotted White Cat",
+	"variant": "Ghostly Spotted White",
+	"npcs": {
+		"3619": {
+			"name": "Ghost Saber"
+		}
+	}
+}

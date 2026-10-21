@@ -1,0 +1,9 @@
+{
+	"name": "Magma Hydra",
+	"variant": "Orange Magma",
+	"npcs": {
+		"201579": {
+			"name": "Magmorax"
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"name": "Golden Brown Dreamstag w/ Medium Antlers",
+	"variant": "Golden Brown w/ Medium Antlers",
+	"npcs": {
+		"208231": {
+			"name": "Bough Gladehart"
+		},
+		"210284": {
+			"name": "Shoreline Gladehind"
+		},
+		"210774": {
+			"name": "Fenblossom Gladehind"
+		},
+		"212061": {
+			"name": "Elusive Gladehart"
+		}
+	}
+}

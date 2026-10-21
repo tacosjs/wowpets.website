@@ -1,0 +1,39 @@
+{
+	"name": "Purple Spiny Basilisk",
+	"variant": "Purple",
+	"npcs": {
+		"91128": {
+			"name": "Lagoon Basilisk"
+		},
+		"97030": {
+			"name": "Leygazer"
+		},
+		"98653": {
+			"name": "Manaspine Basilisk"
+		},
+		"98957": {
+			"name": "Coldscale Deatheye"
+		},
+		"99793": {
+			"name": "Leyscale Manalisk"
+		},
+		"103514": {
+			"name": "Leystone Basilisk"
+		},
+		"103808": {
+			"name": "Managazer"
+		},
+		"104877": {
+			"name": "Leystone Basilisk"
+		},
+		"130581": {
+			"name": "Sand-Eye"
+		},
+		"134823": {
+			"name": "Unbreakable Crystalspine"
+		},
+		"199195": {
+			"name": "Cobalt Basilisk"
+		}
+	}
+}

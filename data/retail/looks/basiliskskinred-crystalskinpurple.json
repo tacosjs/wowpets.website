@@ -1,0 +1,51 @@
+{
+	"id": "basiliskskinred-crystalskinpurple",
+	"family": "basilisk",
+	"modelGroup": "basilisks",
+	"npcs": [
+		{
+			"id": 8120,
+			"tameable": true,
+			"level": {
+				"min": 16,
+				"max": 31
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zulfarrak"
+				}
+			]
+		},
+		{
+			"id": 88481,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "pinchwhistle-point"
+				}
+			]
+		},
+		{
+			"id": 84805,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "spires-of-arak"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

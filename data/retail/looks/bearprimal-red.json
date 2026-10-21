@@ -1,0 +1,122 @@
+{
+	"id": "bearprimal-red",
+	"family": "bear",
+	"modelGroup": "primalbears",
+	"npcs": [
+		{
+			"id": 195198,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		},
+		{
+			"id": 197952,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		},
+		{
+			"id": 187192,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 69
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "brackenhide-hollow"
+				}
+			]
+		},
+		{
+			"id": 186380,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "lilac-ramble"
+				}
+			]
+		},
+		{
+			"id": 194761,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		},
+		{
+			"id": 195132,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 214202,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "amirdrassil-dragon-isles-zone"
+				}
+			],
+			"retired": true
+		}
+	],
+	"alsoNpcs": [
+		192377,
+		190663,
+		193497,
+		195197,
+		193627,
+		193673,
+		194439,
+		190731
+	]
+}

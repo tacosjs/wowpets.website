@@ -1,0 +1,21 @@
+{
+	"name": "Red Hook Wasp",
+	"variant": "Red",
+	"npcs": {
+		"81168": {
+			"name": "Crimsonwing Wasp"
+		},
+		"85403": {
+			"name": "Crimsonwing Wasp"
+		},
+		"90314": {
+			"name": "Everbloom Buzzwing"
+		},
+		"140594": {
+			"name": "Silithid Hunter-Killer"
+		},
+		"191187": {
+			"name": "Savage Wasp"
+		}
+	}
+}

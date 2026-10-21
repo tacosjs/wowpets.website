@@ -1,0 +1,11 @@
+{
+	"name": "Dragonhawks",
+	"modelGroups": {
+		"greaterdragonhawks": {
+			"name": "Greater Dragonhawks"
+		},
+		"dragonhawks": {
+			"name": "Classic Dragonhawks"
+		}
+	}
+}

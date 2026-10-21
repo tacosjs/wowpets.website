@@ -1,0 +1,60 @@
+{
+	"name": "Red Hornswog",
+	"variant": "Red",
+	"npcs": {
+		"182086": {
+			"name": "Hek the Hungry Hornswog"
+		},
+		"185642": {
+			"name": "Hungry Swoglet"
+		},
+		"187652": {
+			"name": "Skitterfly Gulper"
+		},
+		"190783": {
+			"name": "Rapid Leaper"
+		},
+		"190980": {
+			"name": "Rowdy Hornswog"
+		},
+		"190998": {
+			"name": "Bossy Hornswog"
+		},
+		"191005": {
+			"name": "Hornswog Matriarch"
+		},
+		"191606": {
+			"name": "Gargantuan Hornswog"
+		},
+		"191618": {
+			"name": "River Hornswog"
+		},
+		"191619": {
+			"name": "Mature Hornswog"
+		},
+		"191620": {
+			"name": "River Swoglet"
+		},
+		"191621": {
+			"name": "Elder Hornswog"
+		},
+		"191880": {
+			"name": "Lounging Hornswog"
+		},
+		"192362": {
+			"name": "Possessive Hornswog"
+		},
+		"193819": {
+			"name": "Ruffian Hornswog"
+		},
+		"193885": {
+			"name": "Salkii"
+		},
+		"195936": {
+			"name": "Exhausted Hornswog"
+		},
+		"198419": {
+			"name": "Cliffside Bullyswog"
+		}
+	}
+}

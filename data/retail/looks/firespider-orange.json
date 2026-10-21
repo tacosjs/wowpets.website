@@ -1,0 +1,83 @@
+{
+	"id": "firespider-orange",
+	"family": "spider",
+	"modelGroup": "firespiders",
+	"npcs": [
+		{
+			"id": 66695,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 54321,
+			"tameable": true,
+			"level": {
+				"min": 37,
+				"max": 62
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "molten-front"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 140544,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 140541,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 53765,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "molten-front"
+				}
+			]
+		}
+	]
+}

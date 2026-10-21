@@ -1,0 +1,9 @@
+{
+	"name": "Pale Electric Eel",
+	"variant": "Pale Electric Eel",
+	"npcs": {
+		"130234": {
+			"name": "Falls Eel"
+		}
+	}
+}

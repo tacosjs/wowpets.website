@@ -1,0 +1,63 @@
+{
+	"id": "silithidtankbossskin-blue",
+	"family": "aqiri",
+	"modelGroup": "bosssilithids",
+	"npcs": [
+		{
+			"id": 47387,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "tanaris"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 15543,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "temple-of-ahnqiraj"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 117489,
+			"tameable": false,
+			"level": {
+				"min": 48,
+				"max": 48
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "silithus",
+					"area": "hivezora"
+				}
+			]
+		},
+		{
+			"id": 195654,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "algethar-academy"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"id": "kareshroamer-crimson",
+	"family": "stag",
+	"modelGroup": "slatebacks",
+	"npcs": [
+		{
+			"id": 236817,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "tazavesh-karesh"
+				}
+			]
+		},
+		{
+			"id": 233497,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "eco-dome-primus"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		249799,
+		230457,
+		237311
+	]
+}

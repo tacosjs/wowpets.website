@@ -1,0 +1,110 @@
+{
+	"id": "birdofprey",
+	"wowId": 26,
+	"icon": "ability_hunter_pet_owl",
+	"spec": "cunning",
+	"exotic": false,
+	"diet": [
+		"fish",
+		"meat"
+	],
+	"abilities": {
+		"basic": "claw",
+		"family": [
+			"talon-rend",
+			"trick"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "amanieagles"
+		},
+		{
+			"id": "lightanddarkphoenixes"
+		},
+		{
+			"id": "hexedamanieagles"
+		},
+		{
+			"id": "karrocs"
+		},
+		{
+			"id": "dreamowls"
+		},
+		{
+			"id": "ohunas"
+		},
+		{
+			"id": "phoenixes"
+		},
+		{
+			"id": "raptoras"
+		},
+		{
+			"id": "protoavians"
+		},
+		{
+			"id": "deathrocs"
+		},
+		{
+			"id": "dreadravens"
+		},
+		{
+			"id": "rocs"
+		},
+		{
+			"id": "falcons"
+		},
+		{
+			"id": "hawks"
+		},
+		{
+			"id": "grandparrots"
+		},
+		{
+			"id": "albatrosses"
+		},
+		{
+			"id": "wardenowls"
+		},
+		{
+			"id": "eagles"
+		},
+		{
+			"id": "draenorkaliri"
+		},
+		{
+			"id": "axebeaks"
+		},
+		{
+			"id": "owls"
+		},
+		{
+			"id": "parrots"
+		},
+		{
+			"id": "corrupteddreadravens"
+		},
+		{
+			"id": "classicstormcrows"
+		},
+		{
+			"id": "deathhawks"
+		},
+		{
+			"id": "classicseagulls"
+		},
+		{
+			"id": "classiceagles"
+		},
+		{
+			"id": "firehawks"
+		},
+		{
+			"id": "mysticalphoenixes"
+		},
+		{
+			"id": "bramblewings"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Pale Cloudrook",
+	"variant": "Pale",
+	"npcs": {
+		"219281": {
+			"name": "Alunira"
+		},
+		"229705": {
+			"name": "Docile Cloudrook"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Purple Serpent",
+	"variant": "Purple",
+	"npcs": {
+		"5755": {
+			"name": "Deviate Viper"
+		},
+		"28358": {
+			"name": "Venomtip"
+		}
+	}
+}

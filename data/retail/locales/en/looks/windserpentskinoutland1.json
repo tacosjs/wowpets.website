@@ -1,0 +1,9 @@
+{
+	"name": "Grey Spiked Wind Serpent",
+	"variant": "Grey",
+	"npcs": {
+		"20673": {
+			"name": "Swiftwing Shredder"
+		}
+	}
+}

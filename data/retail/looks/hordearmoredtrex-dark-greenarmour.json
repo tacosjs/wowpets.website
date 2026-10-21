@@ -1,0 +1,19 @@
+{
+	"id": "hordearmoredtrex-dark-greenarmour",
+	"family": "devilsaur",
+	"modelGroup": "hordedevilsaurs",
+	"npcs": [
+		{
+			"id": 71529,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "siege-of-orgrimmar",
+					"area": "the-menagerie-siege-of-orgrimmar"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

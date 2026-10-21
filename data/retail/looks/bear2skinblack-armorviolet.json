@@ -1,0 +1,27 @@
+{
+	"id": "bear2skinblack-armorviolet",
+	"family": "bear",
+	"modelGroup": "classicamanibears",
+	"npcs": [
+		{
+			"id": 69177,
+			"tameable": true,
+			"level": {
+				"min": 37,
+				"max": 37
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "throne-of-thunder",
+					"area": "royal-amphitheater"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

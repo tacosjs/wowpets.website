@@ -1,0 +1,12 @@
+{
+	"name": "Light Chestnut Horse w/ White Socks",
+	"variant": "Light Chestnut w/ White Socks",
+	"npcs": {
+		"27626": {
+			"name": "Tatjana's Horse"
+		},
+		"55272": {
+			"name": "Mountain Horse"
+		}
+	}
+}

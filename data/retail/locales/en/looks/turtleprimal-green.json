@@ -1,0 +1,27 @@
+{
+	"name": "Green Turtle",
+	"variant": "Green",
+	"npcs": {
+		"194409": {
+			"name": "Ergburk"
+		},
+		"196182": {
+			"name": "Highland Snapper"
+		},
+		"196619": {
+			"name": "Springshell Snapper"
+		},
+		"211184": {
+			"name": "Petalmuncher Tortoise"
+		},
+		"250164": {
+			"name": "Meandering Spikeshell"
+		},
+		"257600": {
+			"name": "Murkfen Muckstomper"
+		},
+		"267549": {
+			"name": "Artolla's Lost Turtle"
+		}
+	}
+}

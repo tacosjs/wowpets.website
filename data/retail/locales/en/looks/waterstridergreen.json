@@ -1,0 +1,15 @@
+{
+	"name": "Blue-Green Water Strider",
+	"variant": "Blue-Green",
+	"npcs": {
+		"66892": {
+			"name": "Fallstrider"
+		},
+		"68353": {
+			"name": "Jungle Strider"
+		},
+		"151978": {
+			"name": "Waterstrider"
+		}
+	}
+}

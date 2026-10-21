@@ -1,0 +1,12 @@
+{
+	"name": "Red Parrot",
+	"variant": "Red",
+	"npcs": {
+		"40431": {
+			"name": "Savage Parrot"
+		},
+		"48447": {
+			"name": "Monstrous Parrot"
+		}
+	}
+}

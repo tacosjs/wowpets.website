@@ -1,0 +1,9 @@
+{
+	"name": "Green & Blue Ravager",
+	"variant": "Green & Blue",
+	"npcs": {
+		"17556": {
+			"name": "Death Ravager"
+		}
+	}
+}

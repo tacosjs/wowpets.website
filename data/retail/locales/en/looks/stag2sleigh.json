@@ -1,0 +1,15 @@
+{
+	"name": "Black-Nosed Winter Veil Stag",
+	"variant": "Black-Nosed",
+	"npcs": {
+		"158559": {
+			"name": "Great Reindeer"
+		},
+		"158560": {
+			"name": "Great Reindeer"
+		},
+		"235095": {
+			"name": "Dreaming Festive Reindeer"
+		}
+	}
+}

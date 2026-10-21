@@ -1,0 +1,15 @@
+{
+	"name": "Violet & Lavender Ardenweald Toad",
+	"variant": "Violet & Lavender",
+	"npcs": {
+		"173687": {
+			"name": "Glowgullet Bull"
+		},
+		"173720": {
+			"name": "Mistveil Gorgegullet"
+		},
+		"175350": {
+			"name": "Falls Gulper"
+		}
+	}
+}

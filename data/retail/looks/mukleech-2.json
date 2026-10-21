@@ -1,0 +1,54 @@
+{
+	"id": "mukleech-2",
+	"family": "worm",
+	"modelGroup": "mukleeches",
+	"npcs": [
+		{
+			"id": 250153,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman"
+				}
+			]
+		},
+		{
+			"id": 257363,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "leech-bog"
+				}
+			]
+		},
+		{
+			"id": 265336,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "mlurkkr-mire"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		253489
+	]
+}

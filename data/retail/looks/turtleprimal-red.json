@@ -1,0 +1,60 @@
+{
+	"id": "turtleprimal-red",
+	"family": "turtle",
+	"modelGroup": "smoothdragonturtles",
+	"npcs": [
+		{
+			"id": 192776,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		},
+		{
+			"id": 191527,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "roaring-dragonsprings"
+				}
+			]
+		},
+		{
+			"id": 257154,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "atalabasi"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		196619,
+		210195,
+		210782,
+		210783,
+		210449,
+		210410,
+		269750
+	]
+}

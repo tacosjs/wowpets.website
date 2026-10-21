@@ -1,0 +1,12 @@
+{
+	"name": "Purple Gorm Wasp",
+	"variant": "Purple",
+	"npcs": {
+		"165224": {
+			"name": "Feederfly"
+		},
+		"167116": {
+			"name": "Spinemaw Reaver"
+		}
+	}
+}

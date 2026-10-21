@@ -1,0 +1,22 @@
+{
+	"id": "mechastriderskin-bluepurple",
+	"family": "mechanical",
+	"modelGroup": "mechanostriders",
+	"npcs": [
+		{
+			"id": 108106,
+			"tameable": true,
+			"level": {
+				"min": 9,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "gnomeregan",
+					"area": "the-dormitory"
+				}
+			]
+		}
+	]
+}

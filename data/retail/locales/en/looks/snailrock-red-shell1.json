@@ -1,0 +1,9 @@
+{
+	"name": "Red Crystalline Snail",
+	"variant": "Red",
+	"npcs": {
+		"203237": {
+			"name": "Crimson Infused Rock Snail"
+		}
+	}
+}

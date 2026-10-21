@@ -1,0 +1,9 @@
+{
+	"name": "Spotted White Saber Cat",
+	"variant": "Spotted White",
+	"npcs": {
+		"14430": {
+			"name": "Duskstalker"
+		}
+	}
+}

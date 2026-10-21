@@ -1,0 +1,27 @@
+{
+	"name": "White Warp Stalker",
+	"variant": "White",
+	"npcs": {
+		"18464": {
+			"name": "Warp Stalker"
+		},
+		"18465": {
+			"name": "Warp Hunter"
+		},
+		"23219": {
+			"name": "Blackwind Warp Chaser"
+		},
+		"24977": {
+			"name": "Warpy"
+		},
+		"79721": {
+			"name": "Underbrush Egg Snatcher"
+		},
+		"79779": {
+			"name": "Underbrush Stalker"
+		},
+		"80081": {
+			"name": "Albino Cave Ambusher"
+		}
+	}
+}

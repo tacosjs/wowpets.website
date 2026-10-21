@@ -1,0 +1,90 @@
+{
+	"name": "Green Wasp",
+	"variant": "Green",
+	"npcs": {
+		"124172": {
+			"name": "Bilewing Infester"
+		},
+		"124177": {
+			"name": "Bilewing Creeper"
+		},
+		"124187": {
+			"name": "Bilewing Queen"
+		},
+		"124188": {
+			"name": "Bilewing Creeper"
+		},
+		"129289": {
+			"name": "Whistlebloom Harvester"
+		},
+		"137053": {
+			"name": "Sandstinger Collector"
+		},
+		"146188": {
+			"name": "Firesting Dominator"
+		},
+		"155047": {
+			"name": "Honey Seeker"
+		},
+		"169732": {
+			"name": "Vile Wasp"
+		},
+		"216288": {
+			"name": "Pupating Stinger"
+		},
+		"224958": {
+			"name": "Elusive Gloomstinger"
+		},
+		"224959": {
+			"name": "Elusive Terrorwing Stinger"
+		},
+		"227282": {
+			"name": "Sweetstinger Soldier"
+		},
+		"244618": {
+			"name": "Hunting Netherwasp"
+		},
+		"245041": {
+			"name": "Netherflit"
+		},
+		"250127": {
+			"name": "Mudcoat Borer"
+		},
+		"250546": {
+			"name": "Venomous Netherwaspling"
+		},
+		"253499": {
+			"name": "Bluffs Hornet"
+		},
+		"253620": {
+			"name": "Netherwasp Drone"
+		},
+		"254681": {
+			"name": "Venomous Netherwasp"
+		},
+		"254682": {
+			"name": "Venomous Netherwaspling"
+		},
+		"255142": {
+			"name": "Mudcoat Stingling"
+		},
+		"256763": {
+			"name": "Ornery Muckstinger"
+		},
+		"257219": {
+			"name": "Hatesting Hatchling"
+		},
+		"257221": {
+			"name": "Hatesting Netherwasp"
+		},
+		"258931": {
+			"name": "Rotsting Swarmer"
+		},
+		"259955": {
+			"name": "Murderous Mudcoat"
+		},
+		"261681": {
+			"name": "Costal Greenhead"
+		}
+	}
+}

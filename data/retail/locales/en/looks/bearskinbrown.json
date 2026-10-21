@@ -1,0 +1,9 @@
+{
+	"name": "Brown Bear",
+	"variant": "Brown",
+	"npcs": {
+		"14344": {
+			"name": "Mongress"
+		}
+	}
+}

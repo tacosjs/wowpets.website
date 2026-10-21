@@ -1,0 +1,33 @@
+{
+	"name": "Red & White Ohuna",
+	"variant": "Red & White",
+	"npcs": {
+		"183542": {
+			"name": "Ohuna"
+		},
+		"187472": {
+			"name": "Thaldraszian Kite"
+		},
+		"187496": {
+			"name": "Glade Ohuna"
+		},
+		"187825": {
+			"name": "Thaldraszian Kite"
+		},
+		"189521": {
+			"name": "Noble Winghunter"
+		},
+		"192375": {
+			"name": "Garden Winghunter"
+		},
+		"198112": {
+			"name": "Garden Winghunter"
+		},
+		"198418": {
+			"name": "Soaring Knifefeather"
+		},
+		"212503": {
+			"name": "Earth-Plumed Eagle"
+		}
+	}
+}

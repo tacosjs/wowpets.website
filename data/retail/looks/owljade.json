@@ -1,0 +1,67 @@
+{
+	"id": "owljade",
+	"family": "birdofprey",
+	"modelGroup": "owls",
+	"npcs": [
+		{
+			"id": 27249,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "dragonblight",
+					"area": "emerald-dragonshrine"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 27244,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dragonblight",
+					"area": "emerald-dragonshrine"
+				}
+			]
+		},
+		{
+			"id": 122548,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-deaths-of-chromie",
+					"area": "emerald-dragonshrine-the-deaths-of-chromie"
+				}
+			]
+		},
+		{
+			"id": 101627,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "moonglade"
+				}
+			]
+		}
+	]
+}

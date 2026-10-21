@@ -1,0 +1,50 @@
+{
+	"id": "dragonturtledarkgreen-greenglow",
+	"family": "turtle",
+	"modelGroup": "dragonturtles",
+	"npcs": [
+		{
+			"id": 158772,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "puritys-reflection-aspirants-crucible"
+				}
+			]
+		},
+		{
+			"id": 168502,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion"
+				}
+			]
+		},
+		{
+			"id": 168428,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion"
+				}
+			]
+		}
+	]
+}

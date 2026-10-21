@@ -1,0 +1,46 @@
+{
+	"id": "cosmicflyer-teal",
+	"family": "ray",
+	"modelGroup": "cosmicrays",
+	"npcs": [
+		{
+			"id": 246460,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "twilight-highlands"
+				}
+			]
+		},
+		{
+			"id": 234201,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "castigaar"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		257575,
+		249039,
+		245897,
+		254608,
+		240511,
+		240544,
+		247445,
+		257574
+	]
+}

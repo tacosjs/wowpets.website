@@ -1,0 +1,12 @@
+{
+	"name": "Black & Bronze Annelid",
+	"variant": "Black & Bronze Annelid",
+	"npcs": {
+		"183646": {
+			"name": "Furidian"
+		},
+		"185349": {
+			"name": "Captured Annelid"
+		}
+	}
+}

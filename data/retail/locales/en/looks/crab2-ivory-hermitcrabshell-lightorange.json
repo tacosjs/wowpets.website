@@ -1,0 +1,9 @@
+{
+	"name": "Ivory Hermit Crab w/ Pale Orange & Blue Shell",
+	"variant": "Ivory",
+	"npcs": {
+		"180850": {
+			"name": "Glimmershell Crab"
+		}
+	}
+}

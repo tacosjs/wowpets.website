@@ -1,0 +1,27 @@
+{
+	"name": "Lightbloom Mandragora",
+	"variant": "Lightbloom",
+	"npcs": {
+		"236552": {
+			"name": "Lightbloat Trampler"
+		},
+		"237396": {
+			"name": "Lightbloom Hydra"
+		},
+		"237414": {
+			"name": "Lightbloom Hydra"
+		},
+		"240129": {
+			"name": "Overfester Hydra"
+		},
+		"243902": {
+			"name": "Murderous Lightbloom Hydra"
+		},
+		"245513": {
+			"name": "Overgrown Hydra"
+		},
+		"254772": {
+			"name": "Hydrangea"
+		}
+	}
+}

@@ -1,0 +1,40 @@
+{
+	"name": "Purple Sporeglider w/ Cyan Glow",
+	"variant": "Purple w/ Cyan Glow",
+	"npcs": {
+		"243780": {
+			"name": "Opportunistic Sporeglider"
+		},
+		"245690": {
+			"name": "Lumenfin",
+			"title": "Renowned Sporeglider"
+		},
+		"246162": {
+			"name": "Foraging Sporeglider"
+		},
+		"248598": {
+			"name": "Sporeglider Bloomterror"
+		},
+		"251758": {
+			"name": "Vonto",
+			"title": "Spore Storm"
+		},
+		"252773": {
+			"name": "Binli",
+			"title": "Glow Guard "
+		},
+		"254543": {
+			"name": "Tame Sporeglider",
+			"title": "Spore Storm"
+		},
+		"256357": {
+			"name": "Vale Sporeglider"
+		},
+		"256381": {
+			"name": "Vale Sporeglider"
+		},
+		"265698": {
+			"name": "Voidwarped Sporebat"
+		}
+	}
+}

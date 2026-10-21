@@ -1,0 +1,9 @@
+{
+	"name": "Armoured Pale Direhorn",
+	"variant": "Armoured Pale Direhorn",
+	"npcs": {
+		"122173": {
+			"name": "Direhorn Packbeast"
+		}
+	}
+}

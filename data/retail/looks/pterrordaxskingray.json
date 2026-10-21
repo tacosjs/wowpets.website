@@ -1,0 +1,51 @@
+{
+	"id": "pterrordaxskingray",
+	"family": "pterrordax",
+	"modelGroup": "oldpterrordaxes",
+	"npcs": [
+		{
+			"id": 113040,
+			"tameable": true,
+			"level": {
+				"min": 47,
+				"max": 47
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-emerald-nightmare",
+					"area": "ungoro-crater-the-emerald-nightmare"
+				}
+			]
+		},
+		{
+			"id": 36719,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 20
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-lost-isles"
+				}
+			]
+		},
+		{
+			"id": 64411,
+			"tameable": false,
+			"level": {
+				"min": 20,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "kun-lai-summit",
+					"area": "the-emperors-reach"
+				}
+			]
+		}
+	]
+}

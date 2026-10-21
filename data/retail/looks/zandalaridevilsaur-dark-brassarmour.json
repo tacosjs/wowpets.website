@@ -1,0 +1,17 @@
+{
+	"id": "zandalaridevilsaur-dark-brassarmour",
+	"family": "devilsaur",
+	"modelGroup": "armoreddevilsaurs",
+	"npcs": [
+		{
+			"id": 69161,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "isle-of-giants"
+				}
+			]
+		}
+	]
+}

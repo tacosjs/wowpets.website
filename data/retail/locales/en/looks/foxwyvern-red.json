@@ -1,0 +1,35 @@
+{
+	"name": "Red Slyvern",
+	"variant": "Red",
+	"npcs": {
+		"187754": {
+			"name": "Rustpine Talonfox"
+		},
+		"188203": {
+			"name": "Slyvern Hunter"
+		},
+		"190318": {
+			"name": "Pineshadow Slyvern"
+		},
+		"190761": {
+			"name": "Sky Vixen Shokhari",
+			"title": "Great Slyvern"
+		},
+		"191729": {
+			"name": "Deathrip"
+		},
+		"192168": {
+			"name": "Docile Slyvern"
+		},
+		"193986": {
+			"name": "Elusive Slyvern"
+		},
+		"195223": {
+			"name": "Rustlily",
+			"title": "Nimblewing Matriarch"
+		},
+		"199785": {
+			"name": "Amberfur Slyvern"
+		}
+	}
+}

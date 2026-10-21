@@ -1,0 +1,241 @@
+{
+	"id": "worgblack",
+	"family": "wolf",
+	"modelGroup": "saberworgs",
+	"npcs": [
+		{
+			"id": 49871,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "elwynn-forest"
+				}
+			]
+		},
+		{
+			"id": 24475,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "howling-fjord"
+				}
+			]
+		},
+		{
+			"id": 24026,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "howling-fjord"
+				}
+			]
+		},
+		{
+			"id": 25791,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "borean-tundra",
+					"area": "scalding-pools"
+				}
+			]
+		},
+		{
+			"id": 25774,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "borean-tundra",
+					"area": "bloodspore-plains",
+					"coords": [
+						{
+							"x": 37.4,
+							"y": 74.2
+						}
+					]
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 24128,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "howling-fjord"
+				}
+			]
+		},
+		{
+			"id": 29735,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 31
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "utgarde-keep"
+				}
+			]
+		},
+		{
+			"id": 27578,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "grizzly-hills",
+					"area": "shadowfang-tower",
+					"coords": [
+						{
+							"x": 86.8,
+							"y": 26.8
+						}
+					]
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 30430,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "icecrown"
+				}
+			]
+		},
+		{
+			"id": 47769,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "twilight-highlands",
+					"area": "glopguts-hollow",
+					"coords": [
+						{
+							"x": 37.8,
+							"y": 29.6
+						}
+					]
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 46153,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "twilight-highlands"
+				}
+			]
+		},
+		{
+			"id": 24206,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "howling-fjord"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "quest"
+				},
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 26590,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "grizzly-hills"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 30167,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-storm-peaks"
+				}
+			]
+		}
+	]
+}

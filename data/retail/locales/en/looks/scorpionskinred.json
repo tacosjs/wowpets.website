@@ -1,0 +1,30 @@
+{
+	"name": "Red Scorpid",
+	"variant": "Red",
+	"npcs": {
+		"7078": {
+			"name": "Cleft Scorpid"
+		},
+		"7405": {
+			"name": "Deadly Cleft Scorpid"
+		},
+		"8926": {
+			"name": "Deep Stinger"
+		},
+		"15196": {
+			"name": "Deathclasp"
+		},
+		"39183": {
+			"name": "Scorpitar"
+		},
+		"40581": {
+			"name": "Gargantapid"
+		},
+		"44546": {
+			"name": "Duneclaw Burrower"
+		},
+		"45859": {
+			"name": "Venomblood Scorpid"
+		}
+	}
+}

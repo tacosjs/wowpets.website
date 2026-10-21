@@ -1,0 +1,115 @@
+{
+	"id": "crocodileskinalbino",
+	"family": "crocolisk",
+	"modelGroup": "crocolisks",
+	"npcs": [
+		{
+			"id": 3581,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 60
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "stormwind-city"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 5053,
+			"tameable": true,
+			"level": {
+				"min": 8,
+				"max": 31
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "wailing-caverns"
+				}
+			]
+		},
+		{
+			"id": 41420,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "wetlands"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 13596,
+			"tameable": true,
+			"level": {
+				"min": 12,
+				"max": 32
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "maraudon",
+					"area": "zaetars-grave"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 4841,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dustwallow-marsh"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 20773,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "netherstorm"
+				}
+			]
+		},
+		{
+			"id": 28317,
+			"tameable": false,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "sholazar-basin"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

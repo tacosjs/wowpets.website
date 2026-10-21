@@ -1,0 +1,9 @@
+{
+	"name": "Blue Mechanowolf",
+	"variant": "Blue",
+	"npcs": {
+		"111820": {
+			"name": "Friender"
+		}
+	}
+}

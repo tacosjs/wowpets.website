@@ -1,0 +1,52 @@
+{
+	"id": "fox2-darkred",
+	"family": "fox",
+	"modelGroup": "vulpin",
+	"npcs": [
+		{
+			"id": 165810,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "renards-den"
+				}
+			]
+		},
+		{
+			"id": 165808,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "renards-den"
+				}
+			]
+		},
+		{
+			"id": 173646,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "renards-den"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,126 @@
+{
+	"id": "firespider-red",
+	"family": "spider",
+	"modelGroup": "firespiders",
+	"npcs": [
+		{
+			"id": 52981,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "molten-front"
+				}
+			]
+		},
+		{
+			"id": 66686,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds",
+					"area": "cavern-of-endless-echoes"
+				}
+			]
+		},
+		{
+			"id": 54324,
+			"tameable": true,
+			"level": {
+				"min": 37,
+				"max": 62
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "molten-front"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 140542,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 140540,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 52447,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "firelands"
+				}
+			]
+		},
+		{
+			"id": 53631,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "firelands"
+				}
+			]
+		},
+		{
+			"id": 70703,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-secrets-of-ragefire"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

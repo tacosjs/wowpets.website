@@ -1,0 +1,9 @@
+{
+	"name": "Brown Eversong Lynx",
+	"variant": "Brown",
+	"npcs": {
+		"237400": {
+			"name": "Displaced Lynx"
+		}
+	}
+}

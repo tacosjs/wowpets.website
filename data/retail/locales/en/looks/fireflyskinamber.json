@@ -1,0 +1,12 @@
+{
+	"name": "Amber Firefly",
+	"variant": "Amber",
+	"npcs": {
+		"170733": {
+			"name": "Gorged Decayfly"
+		},
+		"170768": {
+			"name": "Gorged Decayfly"
+		}
+	}
+}

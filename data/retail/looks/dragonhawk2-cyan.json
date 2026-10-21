@@ -1,0 +1,40 @@
+{
+	"id": "dragonhawk2-cyan",
+	"family": "dragonhawk",
+	"modelGroup": "greaterdragonhawks",
+	"npcs": [
+		{
+			"id": 232056,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "windrunner-spire"
+				}
+			]
+		},
+		{
+			"id": 236891,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "windrunner-spire"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		254610,
+		250030,
+		254313
+	]
+}

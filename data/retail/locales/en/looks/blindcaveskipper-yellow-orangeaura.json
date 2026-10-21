@@ -1,0 +1,9 @@
+{
+	"name": "Spectral Orange Skipper",
+	"variant": "Spectral Orange",
+	"npcs": {
+		"252998": {
+			"name": "Paint-Crazed Skipper"
+		}
+	}
+}

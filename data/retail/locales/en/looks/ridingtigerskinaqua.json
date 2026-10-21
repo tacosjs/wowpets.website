@@ -1,0 +1,12 @@
+{
+	"name": "Aqua Saber Cat",
+	"variant": "Aqua",
+	"npcs": {
+		"10200": {
+			"name": "Rak'Shiri"
+		},
+		"10737": {
+			"name": "Shy-Rotam"
+		}
+	}
+}

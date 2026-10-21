@@ -1,0 +1,24 @@
+{
+	"name": "Blue Devilsaur",
+	"variant": "Blue",
+	"npcs": {
+		"69991": {
+			"name": "Primal Devilsaur"
+		},
+		"70004": {
+			"name": "Young Primal Devilsaur"
+		},
+		"70422": {
+			"name": "Zandalari Fleshrender"
+		},
+		"124728": {
+			"name": "Child of Rezan"
+		},
+		"130713": {
+			"name": "Ten'gor"
+		},
+		"187262": {
+			"name": "Time-Lost Devilsaur"
+		}
+	}
+}

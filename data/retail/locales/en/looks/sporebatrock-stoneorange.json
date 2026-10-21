@@ -1,0 +1,36 @@
+{
+	"name": "Brown Shalewing",
+	"variant": "Brown",
+	"npcs": {
+		"202785": {
+			"name": "Nesting Shalewing"
+		},
+		"203596": {
+			"name": "Blistering Shalewing"
+		},
+		"204130": {
+			"name": "Young Shalewing"
+		},
+		"205090": {
+			"name": "Thickhide Shalewing"
+		},
+		"205812": {
+			"name": "Blistering Shalewing"
+		},
+		"205840": {
+			"name": "Blistering Shalewing"
+		},
+		"212364": {
+			"name": "Stormtop Shalemaw"
+		},
+		"212368": {
+			"name": "Stormtop Shalemaw Young"
+		},
+		"215384": {
+			"name": "Rock Sporebat"
+		},
+		"220887": {
+			"name": "Tiderusher Shalemaw"
+		}
+	}
+}

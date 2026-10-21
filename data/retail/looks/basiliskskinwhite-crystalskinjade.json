@@ -1,0 +1,21 @@
+{
+	"id": "basiliskskinwhite-crystalskinjade",
+	"family": "basilisk",
+	"modelGroup": "basilisks",
+	"npcs": [
+		{
+			"id": 43981,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "deepholm"
+				}
+			]
+		}
+	]
+}

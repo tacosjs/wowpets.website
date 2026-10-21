@@ -1,0 +1,9 @@
+{
+	"name": "Mechanical Axebeak",
+	"variant": "toucan_engineering",
+	"npcs": {
+		"107552": {
+			"name": "War-Iron Axebeak"
+		}
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"name": "Spectral Wolf",
+	"variant": "Spectral",
+	"npcs": {
+		"17854": {
+			"name": "Dire Wolf"
+		},
+		"22849": {
+			"name": "Ashtongue Feral Spirit"
+		},
+		"24133": {
+			"name": "Ancient Grimtotem Spirit Guide"
+		},
+		"26111": {
+			"name": "Grimtotem Spirit Wolf"
+		},
+		"31123": {
+			"name": "Shandaral Spirit Wolf"
+		},
+		"42855": {
+			"name": "Spirit Wolf"
+		},
+		"50138": {
+			"name": "Karoma",
+			"title": "The Wolf Spirit"
+		},
+		"50923": {
+			"name": "Lupine Spectre"
+		}
+	}
+}

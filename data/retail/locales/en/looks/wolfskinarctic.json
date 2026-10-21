@@ -1,0 +1,40 @@
+{
+	"name": "Silver-Grey Wolf",
+	"variant": "Silver-Grey",
+	"npcs": {
+		"704": {
+			"name": "Ragged Timber Wolf"
+		},
+		"705": {
+			"name": "Ragged Young Wolf"
+		},
+		"3823": {
+			"name": "Ghostpaw Runner"
+		},
+		"3824": {
+			"name": "Ghostpaw Howler"
+		},
+		"3825": {
+			"name": "Ghostpaw Alpha"
+		},
+		"29993": {
+			"name": "Frostfang",
+			"title": "Heksi's Pet"
+		},
+		"42290": {
+			"name": "Winter Wolf"
+		},
+		"43704": {
+			"name": "Dire Wolf"
+		},
+		"45517": {
+			"name": "Ravaged Dire Wolf"
+		},
+		"73539": {
+			"name": "Kor'kron Den Mother"
+		},
+		"73541": {
+			"name": "Kor'kron Wolf Pup"
+		}
+	}
+}

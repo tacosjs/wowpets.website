@@ -1,0 +1,21 @@
+{
+	"name": "Green-Brown Doe",
+	"variant": "Green-Brown",
+	"npcs": {
+		"112692": {
+			"name": "Greathorn Doe"
+		},
+		"140093": {
+			"name": "Pinegraze Fawnmother"
+		},
+		"210850": {
+			"name": "Gilnean Doe"
+		},
+		"214219": {
+			"name": "Loamheart Doe"
+		},
+		"216702": {
+			"name": "Migrating Plains Doe"
+		}
+	}
+}

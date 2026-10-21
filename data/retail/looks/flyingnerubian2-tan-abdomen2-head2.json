@@ -1,0 +1,26 @@
+{
+	"id": "flyingnerubian2-tan-abdomen2-head2",
+	"family": "bloodbeast",
+	"modelGroup": "swarmites",
+	"npcs": [
+		{
+			"id": 216341,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "city-of-echoes",
+					"area": "the-shredded-strands"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		215411,
+		222721
+	]
+}

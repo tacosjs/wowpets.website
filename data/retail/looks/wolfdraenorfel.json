@@ -1,0 +1,110 @@
+{
+	"id": "wolfdraenorfel",
+	"family": "wolf",
+	"modelGroup": "draenorwolves",
+	"npcs": [
+		{
+			"id": 90517,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaan-jungle"
+				}
+			]
+		},
+		{
+			"id": 73101,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor"
+				}
+			]
+		},
+		{
+			"id": 73205,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "frost-den"
+				}
+			]
+		},
+		{
+			"id": 90434,
+			"tameable": false,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "tanaan-jungle",
+					"area": "temple-of-shanaar"
+				}
+			]
+		},
+		{
+			"id": 95248,
+			"tameable": false,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaan-jungle",
+					"area": "the-shanaari-cavern"
+				}
+			]
+		},
+		{
+			"id": 90416,
+			"tameable": false,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaan-jungle",
+					"area": "temple-of-shanaar"
+				}
+			]
+		},
+		{
+			"id": 119189,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "howling-hills"
+				}
+			]
+		}
+	]
+}

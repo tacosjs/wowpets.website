@@ -1,0 +1,107 @@
+{
+	"id": "snakeskinbrown",
+	"family": "serpent",
+	"modelGroup": "groundsnakes",
+	"npcs": [
+		{
+			"id": 44568,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaris"
+				}
+			]
+		},
+		{
+			"id": 47283,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "uldum"
+				}
+			]
+		},
+		{
+			"id": 52402,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulgurub",
+					"area": "the-coil"
+				}
+			]
+		},
+		{
+			"id": 77067,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "the-fertile-ground"
+				}
+			]
+		},
+		{
+			"id": 85979,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "frondfall"
+				}
+			]
+		},
+		{
+			"id": 128622,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "forge-of-aeons"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		254964,
+		29637,
+		29444,
+		47740,
+		24338,
+		51676,
+		162375,
+		254511,
+		262439,
+		44180,
+		65604
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Turquoise Tallstrider",
+	"variant": "Turquoise",
+	"npcs": {
+		"2172": {
+			"name": "Strider Clutchmother"
+		},
+		"45825": {
+			"name": "Swampstrider"
+		}
+	}
+}

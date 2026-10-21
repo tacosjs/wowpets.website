@@ -1,0 +1,23 @@
+{
+	"id": "roc-red",
+	"family": "birdofprey",
+	"modelGroup": "rocs",
+	"npcs": [
+		{
+			"id": 95762,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "pinerock-basin"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

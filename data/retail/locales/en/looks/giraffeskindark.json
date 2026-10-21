@@ -1,0 +1,9 @@
+{
+	"name": "Dark Giraffe",
+	"variant": "Dark",
+	"npcs": {
+		"28129": {
+			"name": "Longneck Grazer"
+		}
+	}
+}

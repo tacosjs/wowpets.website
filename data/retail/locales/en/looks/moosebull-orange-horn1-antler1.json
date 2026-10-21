@@ -1,0 +1,30 @@
+{
+	"name": "Russet Bruffalon w/ Large Antlers & Longer Nose Horn",
+	"variant": "Russet",
+	"npcs": {
+		"187478": {
+			"name": "Broadhoof Bull"
+		},
+		"187727": {
+			"name": "Rustpine Bruffalon"
+		},
+		"191238": {
+			"name": "Tiny"
+		},
+		"193507": {
+			"name": "Red Furred Bull"
+		},
+		"194351": {
+			"name": "Parched Broadhoof"
+		},
+		"195552": {
+			"name": "Bruffalon Bull"
+		},
+		"197930": {
+			"name": "Red Furred Bull"
+		},
+		"214200": {
+			"name": "Shadehewn Bull"
+		}
+	}
+}

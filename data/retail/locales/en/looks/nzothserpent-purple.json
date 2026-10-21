@@ -1,0 +1,12 @@
+{
+	"name": "Purple Aqiri Worm",
+	"variant": "Purple Aqiri Worm",
+	"npcs": {
+		"234210": {
+			"name": "Silent Slitherer"
+		},
+		"250913": {
+			"name": "Silent Slitherer"
+		}
+	}
+}

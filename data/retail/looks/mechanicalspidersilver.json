@@ -1,0 +1,75 @@
+{
+	"id": "mechanicalspidersilver",
+	"family": "mechanical",
+	"modelGroup": "mechanospiders",
+	"npcs": [
+		{
+			"id": 114993,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "dustwallow-marsh",
+					"area": "alcaz-island"
+				}
+			]
+		},
+		{
+			"id": 149843,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mechagon",
+					"area": "sparkweaver-point"
+				}
+			]
+		},
+		{
+			"id": 152992,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mechagon",
+					"area": "sparkweaver-point"
+				}
+			]
+		},
+		{
+			"id": 151672,
+			"tameable": true,
+			"level": {
+				"min": 51,
+				"max": 51
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "mechagon",
+					"area": "sparkweaver-point"
+				}
+			],
+			"keepsName": true
+		}
+	],
+	"alsoNpcs": [
+		153473,
+		152994,
+		152288,
+		152287,
+		154219
+	]
+}

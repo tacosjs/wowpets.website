@@ -1,0 +1,70 @@
+{
+	"id": "bloodtrollbeast-green",
+	"family": "bloodbeast",
+	"modelGroup": "crawgs",
+	"npcs": [
+		{
+			"id": 132030,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir"
+				}
+			]
+		},
+		{
+			"id": 128005,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "torgas-rest"
+				}
+			]
+		},
+		{
+			"id": 127176,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "zalamar"
+				}
+			]
+		},
+		{
+			"id": 242295,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "tazavesh-karesh"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		140149,
+		135047
+	]
+}

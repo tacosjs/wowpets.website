@@ -1,0 +1,21 @@
+{
+	"id": "magehunterred",
+	"family": "hound",
+	"modelGroup": "runeddemondogs",
+	"npcs": [
+		{
+			"id": 29452,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldrak"
+				}
+			]
+		}
+	]
+}

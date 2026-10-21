@@ -1,0 +1,22 @@
+{
+	"id": "mammoth2-gray-tusk1",
+	"family": "mammoth",
+	"modelGroup": "mammoths",
+	"npcs": [
+		{
+			"id": 242168,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "solemn-valley"
+				}
+			]
+		}
+	]
+}

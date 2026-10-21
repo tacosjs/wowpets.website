@@ -1,0 +1,24 @@
+{
+	"name": "Dark Grey Lupine",
+	"variant": "Dark Grey",
+	"npcs": {
+		"178096": {
+			"name": "Lupine Animate"
+		},
+		"181484": {
+			"name": "Mawtouched Animate"
+		},
+		"182077": {
+			"name": "Mawtouched Animate"
+		},
+		"184403": {
+			"name": "Lupine Beta"
+		},
+		"185298": {
+			"name": "Agitated Lupine"
+		},
+		"185302": {
+			"name": "Playful Lupine"
+		}
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"id": "pythonblack",
+	"family": "serpent",
+	"modelGroup": "pythons",
+	"npcs": [
+		{
+			"id": 133980,
+			"tameable": true,
+			"level": {
+				"min": 49,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "razorjaw-river"
+				}
+			],
+			"keepsName": true
+		}
+	],
+	"alsoNpcs": [
+		70448,
+		92607,
+		89697,
+		126894
+	]
+}

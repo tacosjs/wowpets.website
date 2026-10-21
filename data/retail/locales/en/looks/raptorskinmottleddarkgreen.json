@@ -1,0 +1,15 @@
+{
+	"name": "Green Raptor",
+	"variant": "Green",
+	"npcs": {
+		"6581": {
+			"name": "Ravasaur Matriarch"
+		},
+		"41401": {
+			"name": "Highland Scytheclaw"
+		},
+		"50875": {
+			"name": "Nychus"
+		}
+	}
+}

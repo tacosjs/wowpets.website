@@ -1,0 +1,9 @@
+{
+	"name": "Pink Riverbeast",
+	"variant": "Pink",
+	"npcs": {
+		"133539": {
+			"name": "Lo'kuno"
+		}
+	}
+}

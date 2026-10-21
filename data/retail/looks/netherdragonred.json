@@ -1,0 +1,38 @@
+{
+	"id": "netherdragonred",
+	"family": "serpent",
+	"modelGroup": "arcanewyrms",
+	"npcs": [
+		{
+			"id": 50737,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "silithus",
+					"area": "twilights-run"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 26761,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-nexus",
+					"area": "the-rift"
+				}
+			]
+		}
+	]
+}

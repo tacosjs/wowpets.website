@@ -1,0 +1,22 @@
+{
+	"name": "Black Greater Gorm",
+	"variant": "Black Greater Gorm",
+	"npcs": {
+		"155250": {
+			"name": "Decayspeaker"
+		},
+		"164033": {
+			"name": "Darkwarren Matriarch"
+		},
+		"165418": {
+			"name": "Enraged Eggtender"
+		},
+		"169043": {
+			"name": "Contender Melia"
+		},
+		"177979": {
+			"name": "Gralebboih",
+			"title": "Tormentor of Torghast"
+		}
+	}
+}

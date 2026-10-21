@@ -1,0 +1,12 @@
+{
+	"id": "spidercrab-whiteyellow",
+	"family": "crab",
+	"modelGroup": "spidercrabs",
+	"npcs": [],
+	"alsoNpcs": [
+		152461,
+		153966,
+		153804,
+		192129
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"id": "nerubianbeetle-purple-mouth1-grasper0-horn0",
+	"family": "beetle",
+	"modelGroup": "stagshells",
+	"npcs": [
+		{
+			"id": 214397,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		},
+		{
+			"id": 271246,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "cursed-keepsake"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		220707,
+		222729
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"id": "guarm-nochains-black",
+	"family": "hound",
+	"modelGroup": "helheimhounds",
+	"npcs": [
+		{
+			"id": 171245,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus"
+				}
+			]
+		},
+		{
+			"id": 177444,
+			"tameable": true,
+			"level": {
+				"min": 62,
+				"max": 62
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-maw",
+					"area": "helgarde-keep"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

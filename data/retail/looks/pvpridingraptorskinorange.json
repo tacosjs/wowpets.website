@@ -1,0 +1,35 @@
+{
+	"id": "pvpridingraptorskinorange",
+	"family": "raptor",
+	"modelGroup": "armoredraptors",
+	"npcs": [
+		{
+			"id": 64638,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "kun-lai-summit"
+				}
+			]
+		},
+		{
+			"id": 66142,
+			"tameable": false,
+			"level": {
+				"min": 20,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "kun-lai-summit"
+				}
+			]
+		}
+	]
+}

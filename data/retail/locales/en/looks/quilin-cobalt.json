@@ -1,0 +1,12 @@
+{
+	"name": "Sapphire Quilen",
+	"variant": "Sapphire",
+	"npcs": {
+		"62254": {
+			"name": "Quilen Watcher"
+		},
+		"139466": {
+			"name": "Cobalt Stoneguard"
+		}
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"id": "arathilynxmount-brown-armor-black",
+	"family": "cat",
+	"modelGroup": "armoredlynxes",
+	"npcs": [
+		{
+			"id": 221534,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 221712,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "mereldar"
+				}
+			]
+		},
+		{
+			"id": 241108,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "lothars-landing"
+				}
+			]
+		}
+	]
+}

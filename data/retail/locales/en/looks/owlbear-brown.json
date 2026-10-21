@@ -1,0 +1,30 @@
+{
+	"name": "Brown Umbraclaw",
+	"variant": "Brown",
+	"npcs": {
+		"211342": {
+			"name": "Angered Umbraclaw"
+		},
+		"212031": {
+			"name": "Umbraclaw Tender"
+		},
+		"212040": {
+			"name": "Elusive Umbraclaw"
+		},
+		"212065": {
+			"name": "Elusive Ironbeak Umbraclaw"
+		},
+		"216694": {
+			"name": "Efflorescent Matriarch"
+		},
+		"216695": {
+			"name": "Efflorescent Umbraclaw"
+		},
+		"216712": {
+			"name": "Awakened Umbraclaw"
+		},
+		"216713": {
+			"name": "Awakened Matriarch"
+		}
+	}
+}

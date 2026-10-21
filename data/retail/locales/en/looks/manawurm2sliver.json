@@ -1,0 +1,72 @@
+{
+	"name": "Blue-Silver Mana Wyrm",
+	"variant": "Blue-Silver",
+	"npcs": {
+		"15274": {
+			"name": "Mana Wyrm"
+		},
+		"16310": {
+			"name": "Mana Shifter"
+		},
+		"19306": {
+			"name": "Mana Leech"
+		},
+		"19731": {
+			"name": "Nether Beast"
+		},
+		"24761": {
+			"name": "Brightscale Wyrm"
+		},
+		"50317": {
+			"name": "Mana Thirster"
+		},
+		"89393": {
+			"name": "Azsuna Mana Wyrm"
+		},
+		"90242": {
+			"name": "Rift Wyrm"
+		},
+		"105703": {
+			"name": "Mana Wyrm"
+		},
+		"105884": {
+			"name": "Spellwyrm"
+		},
+		"107098": {
+			"name": "Flashwyrm"
+		},
+		"109023": {
+			"name": "Shadescale Flyeater"
+		},
+		"109411": {
+			"name": "Shadescale Flyeater"
+		},
+		"110386": {
+			"name": "Spellwyrm"
+		},
+		"112804": {
+			"name": "Trained Shadescale"
+		},
+		"114364": {
+			"name": "Mana-Gorged Wyrm"
+		},
+		"114751": {
+			"name": "Trained Shadescale"
+		},
+		"180858": {
+			"name": "Nether Beast"
+		},
+		"187114": {
+			"name": "Flittle"
+		},
+		"231024": {
+			"name": "Dune Wyrm"
+		},
+		"232106": {
+			"name": "Brightscale Wyrm"
+		},
+		"236191": {
+			"name": "Crackling Wyrm"
+		}
+	}
+}

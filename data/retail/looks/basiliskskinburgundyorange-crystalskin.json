@@ -1,0 +1,64 @@
+{
+	"id": "basiliskskinburgundyorange-crystalskin",
+	"family": "basilisk",
+	"modelGroup": "basilisks",
+	"npcs": [
+		{
+			"id": 8095,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 31
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zulfarrak"
+				}
+			]
+		},
+		{
+			"id": 39658,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mount-hyjal"
+				}
+			]
+		},
+		{
+			"id": 48724,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mount-hyjal"
+				}
+			]
+		},
+		{
+			"id": 69358,
+			"tameable": false,
+			"level": {
+				"min": 32,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-thunder",
+					"area": "ihgaluk-crag"
+				}
+			]
+		}
+	]
+}

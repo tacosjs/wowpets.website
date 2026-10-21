@@ -1,0 +1,28 @@
+{
+	"id": "shalebeast",
+	"wowId": 55,
+	"icon": "inv_pet_shalespider",
+	"spec": "cunning",
+	"exotic": true,
+	"diet": [
+		"fish",
+		"raw-fish",
+		"meat",
+		"raw-meat"
+	],
+	"abilities": {
+		"basic": "bite",
+		"family": [
+			"solid-shell",
+			"shimmering-shale"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "gyreworms"
+		},
+		{
+			"id": "shalespiders"
+		}
+	]
+}

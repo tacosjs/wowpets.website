@@ -1,0 +1,40 @@
+{
+	"id": "devilsaur",
+	"wowId": 39,
+	"icon": "ability_hunter_pet_devilsaur",
+	"spec": "ferocity",
+	"exotic": true,
+	"diet": [
+		"meat"
+	],
+	"abilities": {
+		"basic": "bite",
+		"family": [
+			"monstrous-bite",
+			"feast"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "devilsaptors"
+		},
+		{
+			"id": "skeletaldevilsaurs"
+		},
+		{
+			"id": "armoreddevilsaurs"
+		},
+		{
+			"id": "zandalaridevilsaurs"
+		},
+		{
+			"id": "hordedevilsaurs"
+		},
+		{
+			"id": "devilsaurs"
+		},
+		{
+			"id": "royalzandalaridevilsaurs"
+		}
+	]
+}

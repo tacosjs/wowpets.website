@@ -1,0 +1,67 @@
+{
+	"id": "snaplizard-white",
+	"family": "lizard",
+	"modelGroup": "amazards",
+	"npcs": [
+		{
+			"id": 257526,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "funerary-coast"
+				}
+			]
+		},
+		{
+			"id": 257524,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "funerary-coast"
+				}
+			]
+		},
+		{
+			"id": 257530,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "funerary-coast"
+				}
+			]
+		},
+		{
+			"id": 257528,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "funerary-coast"
+				}
+			]
+		}
+	]
+}

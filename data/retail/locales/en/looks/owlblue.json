@@ -1,0 +1,9 @@
+{
+	"name": "Purple Owl",
+	"variant": "Purple",
+	"npcs": {
+		"50044": {
+			"name": "Hell-Hoot"
+		}
+	}
+}

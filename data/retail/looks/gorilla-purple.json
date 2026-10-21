@@ -1,0 +1,39 @@
+{
+	"id": "gorilla-purple",
+	"family": "gorilla",
+	"modelGroup": "grandgorillas",
+	"npcs": [
+		{
+			"id": 131926,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "village-in-the-vines"
+				}
+			]
+		},
+		{
+			"id": 140083,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		130486
+	]
+}

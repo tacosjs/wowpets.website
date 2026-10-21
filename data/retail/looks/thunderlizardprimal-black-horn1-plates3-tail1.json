@@ -1,0 +1,35 @@
+{
+	"id": "thunderlizardprimal-black-horn1-plates3-tail1",
+	"family": "scalehide",
+	"modelGroup": "primalthunderlizards",
+	"npcs": [
+		{
+			"id": 191826,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores"
+				}
+			]
+		},
+		{
+			"id": 193305,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores"
+				}
+			]
+		}
+	]
+}

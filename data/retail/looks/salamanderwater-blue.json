@@ -1,0 +1,36 @@
+{
+	"id": "salamanderwater-blue",
+	"family": "lizard",
+	"modelGroup": "salamanthers",
+	"npcs": [
+		{
+			"id": 205223,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		191653,
+		193700,
+		191656,
+		205079,
+		193854,
+		217720,
+		226112,
+		226111,
+		214835,
+		227608,
+		228823,
+		204247,
+		200498
+	]
+}

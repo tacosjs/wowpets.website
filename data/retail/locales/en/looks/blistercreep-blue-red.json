@@ -1,0 +1,9 @@
+{
+	"name": "Grey Blistercreep w/ Red Glow",
+	"variant": "Grey Body w/ Red Glow",
+	"npcs": {
+		"256923": {
+			"name": "Bane of the Vilebloods"
+		}
+	}
+}

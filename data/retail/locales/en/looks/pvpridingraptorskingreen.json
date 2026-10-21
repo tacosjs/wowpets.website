@@ -1,0 +1,12 @@
+{
+	"name": "Armored Green Raptor",
+	"variant": "Green",
+	"npcs": {
+		"69180": {
+			"name": "Tamed Bladetalon"
+		},
+		"71297": {
+			"name": "Tamed Bladetalon"
+		}
+	}
+}

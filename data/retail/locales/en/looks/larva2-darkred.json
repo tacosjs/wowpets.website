@@ -1,0 +1,27 @@
+{
+	"name": "Red Grub",
+	"variant": "Red Grub",
+	"npcs": {
+		"12218": {
+			"name": "Vile Larva"
+		},
+		"37907": {
+			"name": "Rot Worm"
+		},
+		"41806": {
+			"name": "Lava Parasite"
+		},
+		"42321": {
+			"name": "Lava Parasite"
+		},
+		"44234": {
+			"name": "Vicious Leech"
+		},
+		"52827": {
+			"name": "Blood Worm"
+		},
+		"131903": {
+			"name": "Silithid Broodling"
+		}
+	}
+}

@@ -1,0 +1,134 @@
+{
+	"id": "corehound-fel",
+	"family": "corehound",
+	"modelGroup": "corehounds",
+	"npcs": [
+		{
+			"id": 21108,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-outland"
+				}
+			]
+		},
+		{
+			"id": 21102,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-outland"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 47544,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tol-barad",
+					"area": "d-block"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 22499,
+			"tameable": false,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blades-edge-mountains"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 20557,
+			"tameable": false,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blades-edge-mountains"
+				}
+			]
+		},
+		{
+			"id": 23353,
+			"tameable": false,
+			"level": {
+				"min": 31,
+				"max": 31
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "blades-edge-mountains"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 103671,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "felmaw-cavern"
+				}
+			]
+		},
+		{
+			"id": 109504,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "azsuna",
+					"area": "fiendish-vault"
+				}
+			]
+		}
+	]
+}

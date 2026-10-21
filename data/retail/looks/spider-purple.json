@@ -1,0 +1,42 @@
+{
+	"id": "spider-purple",
+	"family": "spider",
+	"modelGroup": "greatspiders",
+	"npcs": [
+		{
+			"id": 162399,
+			"tameable": true,
+			"level": {
+				"min": 53,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "sepulcher-of-knowledge"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 164690,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "scaplian-ridge"
+				}
+			],
+			"retired": true
+		}
+	],
+	"alsoNpcs": [
+		168837
+	]
+}

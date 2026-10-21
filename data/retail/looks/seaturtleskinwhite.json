@@ -1,0 +1,91 @@
+{
+	"id": "seaturtleskinwhite",
+	"family": "turtle",
+	"modelGroup": "turtles",
+	"npcs": [
+		{
+			"id": 36732,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 20
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-lost-isles"
+				}
+			]
+		},
+		{
+			"id": 33711,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ghostlands"
+				}
+			]
+		},
+		{
+			"id": 6352,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azshara"
+				}
+			]
+		},
+		{
+			"id": 25482,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "borean-tundra"
+				}
+			]
+		},
+		{
+			"id": 48128,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thousand-needles"
+				}
+			]
+		},
+		{
+			"id": 101467,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eye-of-azshara"
+				}
+			]
+		}
+	]
+}

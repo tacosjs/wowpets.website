@@ -1,0 +1,45 @@
+{
+	"name": "Black & Red Duck",
+	"variant": "Black & Red",
+	"npcs": {
+		"185638": {
+			"name": "Grumpy Duck"
+		},
+		"187468": {
+			"name": "Helpless Waterfowl"
+		},
+		"189248": {
+			"name": "Nesting Mallard"
+		},
+		"189992": {
+			"name": "Restless Wildfowl"
+		},
+		"190660": {
+			"name": "Cautious Duck"
+		},
+		"191857": {
+			"name": "Crested Poolwader"
+		},
+		"193217": {
+			"name": "Drakewing"
+		},
+		"193436": {
+			"name": "Ruby Mallard"
+		},
+		"193721": {
+			"name": "Crested Poolskipper"
+		},
+		"194489": {
+			"name": "Elusive Elder Drake"
+		},
+		"198184": {
+			"name": "Relaxing Mallard"
+		},
+		"206073": {
+			"name": "Fowl Beast"
+		},
+		"211947": {
+			"name": "Jet"
+		}
+	}
+}

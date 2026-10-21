@@ -1,0 +1,21 @@
+{
+	"name": "Purple Grub",
+	"variant": "Purple Grub",
+	"npcs": {
+		"28524": {
+			"name": "Worn Bloodworm"
+		},
+		"28630": {
+			"name": "Blood Maggot"
+		},
+		"69242": {
+			"name": "Fetid Bloodworm"
+		},
+		"125582": {
+			"name": "Blood Maggot"
+		},
+		"156455": {
+			"name": "Mind Worm"
+		}
+	}
+}

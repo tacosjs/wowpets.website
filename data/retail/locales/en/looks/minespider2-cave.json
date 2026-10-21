@@ -1,0 +1,69 @@
+{
+	"name": "Purple-Grey Spider",
+	"variant": "Purple-Grey",
+	"npcs": {
+		"217": {
+			"name": "Venom Web Spider"
+		},
+		"4040": {
+			"name": "Cave Stalker"
+		},
+		"16350": {
+			"name": "Spindleweb Spider"
+		},
+		"16351": {
+			"name": "Spindleweb Lurker"
+		},
+		"16352": {
+			"name": "Greater Spindleweb"
+		},
+		"36813": {
+			"name": "Vilebrood Skitterer"
+		},
+		"42689": {
+			"name": "Skittering Spiderling"
+		},
+		"42879": {
+			"name": "Spawn of Shadra"
+		},
+		"44130": {
+			"name": "Vilebrood Webspinner"
+		},
+		"51983": {
+			"name": "Deadwind Widow"
+		},
+		"51987": {
+			"name": "Deadwind Widow"
+		},
+		"70227": {
+			"name": "Skitterling Spiderling"
+		},
+		"76104": {
+			"name": "Monstrous Corpse Spider"
+		},
+		"92532": {
+			"name": "Cave Spider"
+		},
+		"128612": {
+			"name": "Cave Spider"
+		},
+		"134909": {
+			"name": "Chittering Spindleweb"
+		},
+		"137967": {
+			"name": "Tunnel Stalker"
+		},
+		"146156": {
+			"name": "Widow's Eyes"
+		},
+		"155063": {
+			"name": "Hivetrap Lurker"
+		},
+		"205085": {
+			"name": "Credible Witness"
+		},
+		"210832": {
+			"name": "Vileblood Skitterer"
+		}
+	}
+}

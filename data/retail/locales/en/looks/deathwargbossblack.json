@@ -1,0 +1,12 @@
+{
+	"name": "Armoured Black Gargon",
+	"variant": "Armoured Black Gargon",
+	"npcs": {
+		"169457": {
+			"name": "Bargast"
+		},
+		"171557": {
+			"name": "Shade of Bargast"
+		}
+	}
+}

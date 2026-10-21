@@ -1,0 +1,15 @@
+{
+	"name": "Blue Snake",
+	"variant": "Blue",
+	"npcs": {
+		"65821": {
+			"name": "Cobaltscale Death Adder"
+		},
+		"140697": {
+			"name": "Vile Asp"
+		},
+		"158465": {
+			"name": "Poisonous Snake"
+		}
+	}
+}

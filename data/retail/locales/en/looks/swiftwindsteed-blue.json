@@ -1,0 +1,12 @@
+{
+	"name": "Blue-Scaled Red Windsteed",
+	"variant": "Blue-Scaled Red",
+	"npcs": {
+		"231195": {
+			"name": "Crimson Windsteed"
+		},
+		"231262": {
+			"name": "Aimin"
+		}
+	}
+}

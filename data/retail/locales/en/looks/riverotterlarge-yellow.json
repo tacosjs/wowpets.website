@@ -1,0 +1,15 @@
+{
+	"name": "Yellow Ottuk",
+	"variant": "Yellow",
+	"npcs": {
+		"194601": {
+			"name": "Zagdech"
+		},
+		"196523": {
+			"name": "Mudpaw Ottuk"
+		},
+		"198822": {
+			"name": "Reach Ottuk"
+		}
+	}
+}

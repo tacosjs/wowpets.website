@@ -1,0 +1,24 @@
+{
+	"name": "Black Thunder Lizard",
+	"variant": "Black",
+	"npcs": {
+		"3674": {
+			"name": "Skum"
+		},
+		"5833": {
+			"name": "Margol the Rager"
+		},
+		"6501": {
+			"name": "Stegodon"
+		},
+		"6503": {
+			"name": "Spiked Stegodon"
+		},
+		"8928": {
+			"name": "Burrowing Thundersnout"
+		},
+		"187258": {
+			"name": "Time-Lost Thunderhide"
+		}
+	}
+}

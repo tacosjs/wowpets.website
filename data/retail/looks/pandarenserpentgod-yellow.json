@@ -1,0 +1,17 @@
+{
+	"id": "pandarenserpentgod-yellow",
+	"family": "lesserdragonkin",
+	"modelGroup": "celestialcloudserpents",
+	"npcs": [
+		{
+			"id": 63025,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "terrace-of-endless-spring"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Crimson Serpent",
+	"variant": "Crimson",
+	"npcs": {
+		"48132": {
+			"name": "Needlespine Shimmerback"
+		},
+		"50738": {
+			"name": "Shimmerscale"
+		}
+	}
+}

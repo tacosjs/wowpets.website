@@ -1,0 +1,37 @@
+{
+	"id": "pvpridingraptorskingreen",
+	"family": "raptor",
+	"modelGroup": "armoredraptors",
+	"npcs": [
+		{
+			"id": 69180,
+			"tameable": true,
+			"level": {
+				"min": 32,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-thunder",
+					"area": "the-beast-pens"
+				}
+			]
+		},
+		{
+			"id": 71297,
+			"tameable": true,
+			"level": {
+				"min": 32,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-thunder",
+					"area": "bleak-hollow"
+				}
+			]
+		}
+	]
+}

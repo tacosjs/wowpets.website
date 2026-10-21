@@ -1,0 +1,24 @@
+{
+	"id": "giantsnake-red",
+	"family": "serpent",
+	"modelGroup": "cobras",
+	"npcs": [
+		{
+			"id": 261552,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "altar-of-fangs"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		138540
+	]
+}

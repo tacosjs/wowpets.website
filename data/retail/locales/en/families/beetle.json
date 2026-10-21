@@ -1,0 +1,26 @@
+{
+	"name": "Beetles",
+	"modelGroups": {
+		"stagshells": {
+			"name": "Stagshells"
+		},
+		"rhinocerosbeetles": {
+			"name": "Rhinoceros Beetles"
+		},
+		"scarabids": {
+			"name": "Scarabids"
+		},
+		"mawroaches": {
+			"name": "Maw Roaches"
+		},
+		"aqirscarabs": {
+			"name": "Aqir Scarabs"
+		},
+		"grandbeetles": {
+			"name": "Beetles"
+		},
+		"beetles": {
+			"name": "Classic Beetles"
+		}
+	}
+}

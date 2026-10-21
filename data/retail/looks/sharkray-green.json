@@ -1,0 +1,74 @@
+{
+	"id": "sharkray-green",
+	"family": "ray",
+	"modelGroup": "fathomrays",
+	"npcs": [
+		{
+			"id": 145967,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar"
+				}
+			]
+		},
+		{
+			"id": 154696,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "mezzamere"
+				}
+			]
+		},
+		{
+			"id": 153350,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "coral-forest"
+				}
+			]
+		},
+		{
+			"id": 209580,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "haven-cascades"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		255917,
+		222262,
+		223492,
+		209579,
+		223494,
+		223491
+	]
+}

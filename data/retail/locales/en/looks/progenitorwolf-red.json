@@ -1,0 +1,9 @@
+{
+	"name": "Red Lupine",
+	"variant": "Red",
+	"npcs": {
+		"180051": {
+			"name": "Lupine Animate"
+		}
+	}
+}

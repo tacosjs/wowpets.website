@@ -1,0 +1,33 @@
+{
+	"name": "Blue Stormrook w/ Sickle Beak, Flat Crown, Straight Brows, Thick Cheeks, and Wild Tail",
+	"variant": "Blue w/ Sickle Beak, Flat Crown, Straight Brows, Thick Cheeks, and Wild Tail",
+	"npcs": {
+		"212705": {
+			"name": "Chained Stormrook"
+		},
+		"214948": {
+			"name": "Roaming Stormrook"
+		},
+		"215762": {
+			"name": "Stormrook"
+		},
+		"216900": {
+			"name": "Stormrook"
+		},
+		"223031": {
+			"name": "Elusive Stormrook"
+		},
+		"223070": {
+			"name": "Elusive Tempestrook"
+		},
+		"224688": {
+			"name": "Dornogal Stormrook"
+		},
+		"224830": {
+			"name": "Wenn"
+		},
+		"224831": {
+			"name": "Lahk"
+		}
+	}
+}

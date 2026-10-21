@@ -1,0 +1,37 @@
+{
+	"id": "crabbomb-purple-black",
+	"family": "crab",
+	"modelGroup": "bombcrabs",
+	"npcs": [
+		{
+			"id": 229647,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "kajacoast"
+				}
+			]
+		},
+		{
+			"id": 229650,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "kajacoast"
+				}
+			]
+		}
+	]
+}

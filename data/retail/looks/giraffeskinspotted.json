@@ -1,0 +1,52 @@
+{
+	"id": "giraffeskinspotted",
+	"family": "stag",
+	"modelGroup": "giraffes",
+	"npcs": [
+		{
+			"id": 3248,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "southern-barrens"
+				},
+				{
+					"zone": "northern-barrens"
+				}
+			]
+		},
+		{
+			"id": 37082,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "southern-barrens"
+				}
+			]
+		},
+		{
+			"id": 18739,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "northern-barrens"
+				}
+			]
+		}
+	]
+}

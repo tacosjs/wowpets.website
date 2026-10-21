@@ -1,0 +1,21 @@
+{
+	"name": "Brown Bruffalon w/ No Antlers & Shorter Nose Horn",
+	"variant": "Brown",
+	"npcs": {
+		"187480": {
+			"name": "Sylvan Broadhoof"
+		},
+		"191242": {
+			"name": "Junior"
+		},
+		"194352": {
+			"name": "Parched Broadhoof Bull"
+		},
+		"195499": {
+			"name": "Grazing Bruffalon"
+		},
+		"196097": {
+			"name": "Sandhoof Bruffalon"
+		}
+	}
+}

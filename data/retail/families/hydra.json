@@ -1,0 +1,48 @@
+{
+	"id": "hydra",
+	"wowId": 68,
+	"icon": "trade_archaeology_whitehydrafigurine",
+	"spec": "tenacity",
+	"exotic": false,
+	"diet": [
+		"fish",
+		"raw-fish",
+		"meat",
+		"raw-meat"
+	],
+	"abilities": {
+		"basic": "bite",
+		"family": [
+			"acid-bite"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "serpenthydras"
+		},
+		{
+			"id": "magmahydras"
+		},
+		{
+			"id": "mandragoras"
+		},
+		{
+			"id": "trigores"
+		},
+		{
+			"id": "chimerichydras"
+		},
+		{
+			"id": "thunderhydras"
+		},
+		{
+			"id": "outlandhydras"
+		},
+		{
+			"id": "hydras"
+		},
+		{
+			"id": "otherhydras"
+		}
+	]
+}

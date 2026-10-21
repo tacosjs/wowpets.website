@@ -1,0 +1,100 @@
+{
+	"id": "gazelleskinorange",
+	"family": "stag",
+	"modelGroup": "gazelles",
+	"npcs": [
+		{
+			"id": 45302,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "uldum"
+				}
+			]
+		},
+		{
+			"id": 58454,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms"
+				}
+			]
+		},
+		{
+			"id": 134699,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "the-eternal-spring"
+				}
+			]
+		},
+		{
+			"id": 130316,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "verdant-plateau-bouldered-bluffs"
+				}
+			]
+		},
+		{
+			"id": 156788,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms",
+					"area": "the-summer-fields"
+				}
+			]
+		},
+		{
+			"id": 130317,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "verdant-plateau-bouldered-bluffs"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		4166,
+		62763,
+		134698
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"id": "decomposerflierpurple",
+	"family": "wasp",
+	"modelGroup": "gormwasps",
+	"npcs": [
+		{
+			"id": 167116,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "mists-of-tirna-scithe"
+				}
+			]
+		},
+		{
+			"id": 165224,
+			"tameable": true,
+			"level": {
+				"min": 55,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "crumbled-ridge"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		165427,
+		166499,
+		179385,
+		179386
+	]
+}

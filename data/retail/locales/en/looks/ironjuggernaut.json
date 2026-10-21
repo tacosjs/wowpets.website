@@ -1,0 +1,9 @@
+{
+	"name": "Armed Iron Scorpion",
+	"variant": "Armed Iron Scorpion",
+	"npcs": {
+		"71466": {
+			"name": "Iron Juggernaut"
+		}
+	}
+}

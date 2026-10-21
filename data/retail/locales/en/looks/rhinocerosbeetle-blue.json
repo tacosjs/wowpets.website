@@ -1,0 +1,33 @@
+{
+	"name": "Dark Purple Rhinoceros Beetle",
+	"variant": "Dark Purple",
+	"npcs": {
+		"186714": {
+			"name": "Toxic Pollenstag"
+		},
+		"187484": {
+			"name": "Spotted Pollenstag"
+		},
+		"197825": {
+			"name": "Steam Scarab"
+		},
+		"256225": {
+			"name": "Rootforage Beetle"
+		},
+		"256303": {
+			"name": "Vivid Gladebeetle"
+		},
+		"256324": {
+			"name": "Riverbuzz Beetle"
+		},
+		"256344": {
+			"name": "Mistskitter Beetle"
+		},
+		"256345": {
+			"name": "Mistskitter Beetle"
+		},
+		"256349": {
+			"name": "Mistskitter Beetle"
+		}
+	}
+}

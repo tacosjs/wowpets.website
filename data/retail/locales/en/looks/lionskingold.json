@@ -1,0 +1,27 @@
+{
+	"name": "Gold Lion",
+	"variant": "Gold",
+	"npcs": {
+		"3241": {
+			"name": "Savannah Patriarch"
+		},
+		"3243": {
+			"name": "Savannah Highmane"
+		},
+		"3425": {
+			"name": "Savannah Prowler"
+		},
+		"5807": {
+			"name": "The Rake"
+		},
+		"37207": {
+			"name": "Plains Pridemane"
+		},
+		"40971": {
+			"name": "Scratchfever"
+		},
+		"55444": {
+			"name": "King Leo"
+		}
+	}
+}

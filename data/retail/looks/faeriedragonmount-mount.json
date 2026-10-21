@@ -1,0 +1,82 @@
+{
+	"id": "faeriedragonmount-mount",
+	"family": "lesserdragonkin",
+	"modelGroup": "harnessedfeywings",
+	"npcs": [
+		{
+			"id": 82207,
+			"tameable": false,
+			"level": {
+				"min": 20,
+				"max": 48
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "the-shimmer-moor"
+				}
+			]
+		},
+		{
+			"id": 84995,
+			"tameable": false,
+			"level": {
+				"min": 20,
+				"max": 48
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "iron-siegeworks"
+				}
+			]
+		},
+		{
+			"id": 80300,
+			"tameable": false,
+			"level": {
+				"min": 20,
+				"max": 48
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "embaari-village"
+				}
+			]
+		},
+		{
+			"id": 86319,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 65
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "talador",
+					"area": "shattrath-city"
+				}
+			]
+		},
+		{
+			"id": 208306,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "verdant-landing"
+				}
+			]
+		}
+	]
+}

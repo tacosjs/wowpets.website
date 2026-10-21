@@ -1,0 +1,9 @@
+{
+	"name": "Ethereal Mana Ray",
+	"variant": "Ethereal",
+	"npcs": {
+		"170723": {
+			"name": "Anima-Gorged Feaster"
+		}
+	}
+}

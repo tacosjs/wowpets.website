@@ -1,0 +1,32 @@
+{
+	"name": "Hydra",
+	"modelGroups": {
+		"serpenthydras": {
+			"name": "Serpent Hydras"
+		},
+		"magmahydras": {
+			"name": "Magma Hydras"
+		},
+		"mandragoras": {
+			"name": "Mandragoras"
+		},
+		"trigores": {
+			"name": "Trigores"
+		},
+		"chimerichydras": {
+			"name": "Chimeric Hydras"
+		},
+		"thunderhydras": {
+			"name": "Thunder Hydras"
+		},
+		"outlandhydras": {
+			"name": "Outland Hydras"
+		},
+		"hydras": {
+			"name": "Classic Hydras"
+		},
+		"otherhydras": {
+			"name": "Other Hydras"
+		}
+	}
+}

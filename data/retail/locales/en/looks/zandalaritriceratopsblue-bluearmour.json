@@ -1,0 +1,9 @@
+{
+	"name": "Armoured Blue Direhorn",
+	"variant": "Armoured Blue",
+	"npcs": {
+		"68476": {
+			"name": "Horridon"
+		}
+	}
+}

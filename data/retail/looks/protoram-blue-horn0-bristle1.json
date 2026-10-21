@@ -1,0 +1,22 @@
+{
+	"id": "protoram-blue-horn0-bristle1",
+	"family": "gruffhorn",
+	"modelGroup": "ramoliths",
+	"npcs": [
+		{
+			"id": 214945,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "freywold-village"
+				}
+			]
+		}
+	]
+}

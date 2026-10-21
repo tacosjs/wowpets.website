@@ -1,0 +1,24 @@
+{
+	"id": "basiliskskinblue-crystalskinjade",
+	"family": "basilisk",
+	"modelGroup": "basilisks",
+	"npcs": [
+		{
+			"id": 1551,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-cape-of-stranglethorn"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		690
+	]
+}

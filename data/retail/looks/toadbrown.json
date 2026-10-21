@@ -1,0 +1,49 @@
+{
+	"id": "toadbrown",
+	"family": "hopper",
+	"modelGroup": "toads",
+	"npcs": [
+		{
+			"id": 109124,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna"
+				}
+			]
+		},
+		{
+			"id": 78671,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "talador"
+				}
+			]
+		},
+		{
+			"id": 128099,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "forge-of-aeons"
+				}
+			]
+		}
+	]
+}

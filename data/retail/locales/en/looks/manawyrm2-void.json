@@ -1,0 +1,13 @@
+{
+	"name": "Dark Purple Eversong Mana Wyrm",
+	"variant": "Dark Purple",
+	"npcs": {
+		"254972": {
+			"name": "Void-Bloated Wyrm"
+		},
+		"255302": {
+			"name": "Duskburn",
+			"title": "The Void-Gorged"
+		}
+	}
+}

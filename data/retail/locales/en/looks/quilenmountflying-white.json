@@ -1,0 +1,10 @@
+{
+	"name": "Silver & Grey Quilen w/ Pale Flight Armour",
+	"variant": "Silver & Grey w/ Pale Armour",
+	"npcs": {
+		"68080": {
+			"name": "Quet'zal",
+			"title": "The Stormcaller"
+		}
+	}
+}

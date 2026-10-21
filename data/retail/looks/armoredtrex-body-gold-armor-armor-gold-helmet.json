@@ -1,0 +1,22 @@
+{
+	"id": "armoredtrex-body-gold-armor-armor-gold-helmet",
+	"family": "devilsaur",
+	"modelGroup": "skeletaldevilsaurs",
+	"npcs": [
+		{
+			"id": 131285,
+			"tameable": true,
+			"level": {
+				"min": 49,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "nazwatha"
+				}
+			]
+		}
+	]
+}

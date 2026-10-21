@@ -1,0 +1,21 @@
+{
+	"name": "Red Hyena",
+	"variant": "Red",
+	"npcs": {
+		"4304": {
+			"name": "Scarlet Tracking Hound"
+		},
+		"39185": {
+			"name": "Slaverjaw"
+		},
+		"45353": {
+			"name": "Bloodsnarl Hyena"
+		},
+		"50856": {
+			"name": "Snark"
+		},
+		"152657": {
+			"name": "Tat the Bonechewer"
+		}
+	}
+}

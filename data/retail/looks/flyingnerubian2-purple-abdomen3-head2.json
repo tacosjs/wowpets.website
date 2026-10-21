@@ -1,0 +1,100 @@
+{
+	"id": "flyingnerubian2-purple-abdomen3-head2",
+	"family": "bloodbeast",
+	"modelGroup": "swarmites",
+	"npcs": [
+		{
+			"id": 216037,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "ruptured-lake"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 223905,
+			"tameable": true,
+			"level": {
+				"min": 78,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "maddening-deep"
+				}
+			]
+		},
+		{
+			"id": 219271,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "thunderhead-peak"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 216356,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "the-proscenium"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 237588,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		220399,
+		219654,
+		224521,
+		212425,
+		224663,
+		222722,
+		219655,
+		227143,
+		227239,
+		227214
+	]
+}

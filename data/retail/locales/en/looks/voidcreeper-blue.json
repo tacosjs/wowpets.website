@@ -1,0 +1,24 @@
+{
+	"name": "Blue & Violet Void Creeper",
+	"variant": "Blue & Violet Void Creeper",
+	"npcs": {
+		"234918": {
+			"name": "Wastes Creeper"
+		},
+		"236884": {
+			"name": "Ensorcelled Skitterer"
+		},
+		"237324": {
+			"name": "Phase Creeper"
+		},
+		"237338": {
+			"name": "Phase Skitterer"
+		},
+		"244091": {
+			"name": "Burrowing Creeper"
+		},
+		"254194": {
+			"name": "Summoned Creeper"
+		}
+	}
+}

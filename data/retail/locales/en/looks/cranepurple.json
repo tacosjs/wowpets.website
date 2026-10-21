@@ -1,0 +1,24 @@
+{
+	"name": "Purple Crane",
+	"variant": "Purple",
+	"npcs": {
+		"161889": {
+			"name": "Nightsong Wader"
+		},
+		"165086": {
+			"name": "Nightsong Elder"
+		},
+		"165087": {
+			"name": "Wounded Nightsong Elder"
+		},
+		"169762": {
+			"name": "Duskfeather Wooper"
+		},
+		"171181": {
+			"name": "Territorial Bladebeak"
+		},
+		"174592": {
+			"name": "Territorial Wader"
+		}
+	}
+}

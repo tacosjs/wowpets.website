@@ -1,0 +1,70 @@
+{
+	"id": "thunderlizard2desert",
+	"family": "scalehide",
+	"modelGroup": "thunderlizards",
+	"npcs": [
+		{
+			"id": 4727,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "desolace"
+				}
+			]
+		},
+		{
+			"id": 4726,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "desolace"
+				}
+			]
+		},
+		{
+			"id": 6502,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ungoro-crater",
+					"area": "terror-run"
+				}
+			]
+		},
+		{
+			"id": 136034,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "zanchul"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

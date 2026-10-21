@@ -1,0 +1,15 @@
+{
+	"name": "Amber Lynx w/ Iron-Studded Harness",
+	"variant": "Amber Lynx w/ Iron-Studded Harness",
+	"npcs": {
+		"206699": {
+			"name": "War Lynx"
+		},
+		"222750": {
+			"name": "Shipyard Lynx"
+		},
+		"225419": {
+			"name": "Imperial Lynx"
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"id": "hydraprimal",
+	"family": "hydra",
+	"modelGroup": "magmahydras",
+	"npcs": [
+		{
+			"id": 201579,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "the-shadowed-crucible",
+					"area": "molten-crucible"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

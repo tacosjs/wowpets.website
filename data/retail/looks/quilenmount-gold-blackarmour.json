@@ -1,0 +1,23 @@
+{
+	"id": "quilenmount-gold-blackarmour",
+	"family": "stonehound",
+	"modelGroup": "armouredquilen",
+	"npcs": [
+		{
+			"id": 157466,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms",
+					"area": "mistfall-village"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

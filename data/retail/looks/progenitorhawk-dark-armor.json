@@ -1,0 +1,23 @@
+{
+	"id": "progenitorhawk-dark-armor",
+	"family": "birdofprey",
+	"modelGroup": "raptoras",
+	"npcs": [
+		{
+			"id": 183925,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "fissured-breach"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

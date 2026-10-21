@@ -1,0 +1,40 @@
+{
+	"id": "silithidwaspbossskin2-silithidwasp",
+	"family": "wasp",
+	"modelGroup": "wasps",
+	"npcs": [
+		{
+			"id": 50903,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "swamp-of-sorrows",
+					"area": "misty-valley"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 52373,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulgurub"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		52379
+	]
+}

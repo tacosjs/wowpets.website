@@ -1,0 +1,21 @@
+{
+	"name": "Olive & Black Mukleech",
+	"variant": "Olive & Black",
+	"npcs": {
+		"250154": {
+			"name": "Mukleech Bloodletter"
+		},
+		"257360": {
+			"name": "Mukleech Bloodletter"
+		},
+		"257491": {
+			"name": "Mukleech Bloodletter"
+		},
+		"261550": {
+			"name": "Venom Leech"
+		},
+		"261635": {
+			"name": "Greenhusk Leechling"
+		}
+	}
+}

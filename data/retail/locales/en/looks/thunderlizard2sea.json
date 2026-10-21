@@ -1,0 +1,24 @@
+{
+	"name": "Dark Blue Thunder Lizard",
+	"variant": "Dark Blue",
+	"npcs": {
+		"6504": {
+			"name": "Thunderstomp Stegodon"
+		},
+		"14868": {
+			"name": "Hornsley"
+		},
+		"35412": {
+			"name": "Rejuvenated Thunder Lizard"
+		},
+		"128152": {
+			"name": "Akunda"
+		},
+		"134743": {
+			"name": "Stormhide Calf"
+		},
+		"138382": {
+			"name": "Akunda"
+		}
+	}
+}

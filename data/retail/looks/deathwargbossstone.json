@@ -1,0 +1,18 @@
+{
+	"id": "deathwargbossstone",
+	"family": "stonehound",
+	"modelGroup": "armouredgargons",
+	"npcs": [
+		{
+			"id": 169458,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "castle-nathria",
+					"area": "the-kennels"
+				}
+			]
+		}
+	]
+}

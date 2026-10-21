@@ -1,0 +1,19 @@
+{
+	"name": "Brown Rockfang",
+	"variant": "Brown",
+	"npcs": {
+		"188274": {
+			"name": "Sutaan",
+			"title": "Rockfang Patriarch"
+		},
+		"192182": {
+			"name": "Rockfang Hunter"
+		},
+		"192949": {
+			"name": "Skaara"
+		},
+		"212501": {
+			"name": "Rockfang Prowler"
+		}
+	}
+}

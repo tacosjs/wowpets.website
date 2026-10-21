@@ -1,0 +1,21 @@
+{
+	"name": "Green Shale Spider",
+	"variant": "Green",
+	"npcs": {
+		"49822": {
+			"name": "Jadefang"
+		},
+		"56401": {
+			"name": "Greenstone Nibbler"
+		},
+		"56404": {
+			"name": "Greenstone Gorger"
+		},
+		"56543": {
+			"name": "Brittle Greenstone Gorger"
+		},
+		"61159": {
+			"name": "Greenstone Terror"
+		}
+	}
+}

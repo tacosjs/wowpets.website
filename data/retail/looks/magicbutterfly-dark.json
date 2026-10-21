@@ -1,0 +1,80 @@
+{
+	"id": "magicbutterfly-dark",
+	"family": "moth",
+	"modelGroup": "glimmerflies",
+	"npcs": [
+		{
+			"id": 160581,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "firstbornes-bounty"
+				}
+			]
+		},
+		{
+			"id": 170243,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion"
+				}
+			]
+		},
+		{
+			"id": 170390,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "temple-of-humility"
+				}
+			]
+		},
+		{
+			"id": 169618,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "the-eternal-forge"
+				}
+			]
+		},
+		{
+			"id": 169914,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion"
+				}
+			]
+		}
+	]
+}

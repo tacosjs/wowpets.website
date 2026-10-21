@@ -1,0 +1,30 @@
+{
+	"name": "Grey Tiger",
+	"variant": "Grey",
+	"npcs": {
+		"59534": {
+			"name": "Summit Prowler"
+		},
+		"60875": {
+			"name": "Summit Prowler"
+		},
+		"65612": {
+			"name": "Windward Saber"
+		},
+		"66187": {
+			"name": "Dread Matriarch"
+		},
+		"66617": {
+			"name": "Ro'shen"
+		},
+		"126100": {
+			"name": "Duskcoat Prowler"
+		},
+		"131704": {
+			"name": "Coati"
+		},
+		"135642": {
+			"name": "Duskcoat Tiger Cub"
+		}
+	}
+}

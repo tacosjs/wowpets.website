@@ -1,0 +1,12 @@
+{
+	"name": "Red & Black Hawk",
+	"variant": "Red & Black",
+	"npcs": {
+		"135632": {
+			"name": "Mountain Hawk"
+		},
+		"136311": {
+			"name": "Mountain Hawk"
+		}
+	}
+}

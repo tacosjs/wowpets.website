@@ -1,0 +1,27 @@
+{
+	"name": "Black Lynx",
+	"variant": "Black",
+	"npcs": {
+		"216057": {
+			"name": "Arathi Lynx"
+		},
+		"217606": {
+			"name": "Imperial Lynx"
+		},
+		"225424": {
+			"name": "Dozy Lynx"
+		},
+		"227336": {
+			"name": "Evan"
+		},
+		"227442": {
+			"name": "Gobbo"
+		},
+		"229617": {
+			"name": "Escaped Lynx"
+		},
+		"229620": {
+			"name": "Escaped Lynx"
+		}
+	}
+}

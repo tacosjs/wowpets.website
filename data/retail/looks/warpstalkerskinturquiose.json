@@ -1,0 +1,51 @@
+{
+	"id": "warpstalkerskinturquiose",
+	"family": "warpstalker",
+	"modelGroup": "warpstalkers",
+	"npcs": [
+		{
+			"id": 18884,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "netherstorm"
+				}
+			]
+		},
+		{
+			"id": 234780,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "north-sufaad"
+				}
+			]
+		},
+		{
+			"id": 77564,
+			"tameable": false,
+			"level": {
+				"min": 20,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "talador",
+					"area": "gulrok"
+				}
+			]
+		}
+	]
+}

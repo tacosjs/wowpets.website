@@ -1,0 +1,108 @@
+{
+	"id": "seaeel-purple",
+	"family": "serpent",
+	"modelGroup": "eelserpents",
+	"npcs": [
+		{
+			"id": 152555,
+			"tameable": true,
+			"level": {
+				"min": 51,
+				"max": 51
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "spears-of-azshara"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 225525,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "lightless-channels"
+				}
+			]
+		},
+		{
+			"id": 225520,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "lightless-channels"
+				}
+			]
+		},
+		{
+			"id": 219606,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "sunless-strand"
+				}
+			]
+		},
+		{
+			"id": 220772,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "bleak-sand"
+				}
+			]
+		},
+		{
+			"id": 220786,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "bleak-sand"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		126672,
+		227369,
+		228212,
+		228213,
+		215680,
+		263393,
+		255914,
+		192132
+	]
+}

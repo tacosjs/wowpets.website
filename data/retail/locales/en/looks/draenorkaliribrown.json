@@ -1,0 +1,45 @@
+{
+	"name": "Brown Draenor Kaliri",
+	"variant": "Brown",
+	"npcs": {
+		"79398": {
+			"name": "Windroc"
+		},
+		"79851": {
+			"name": "Ravenous Windroc"
+		},
+		"79854": {
+			"name": "Ravenous Windroc"
+		},
+		"82312": {
+			"name": "Young Windroc"
+		},
+		"82354": {
+			"name": "Seacliff Kaliri"
+		},
+		"82758": {
+			"name": "Greatfeather"
+		},
+		"82828": {
+			"name": "Displaced Kaliri"
+		},
+		"82829": {
+			"name": "Displaced Kaliri"
+		},
+		"84919": {
+			"name": "Seacliff Kaliri"
+		},
+		"85417": {
+			"name": "Sablewing Kaliri"
+		},
+		"86747": {
+			"name": "Great Windroc"
+		},
+		"106286": {
+			"name": "Sylvan Owl"
+		},
+		"106372": {
+			"name": "Sylvan Owl"
+		}
+	}
+}

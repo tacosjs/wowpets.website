@@ -1,0 +1,9 @@
+{
+	"name": "Mauve Crane",
+	"variant": "Mauve",
+	"npcs": {
+		"162449": {
+			"name": "Puddle Strider"
+		}
+	}
+}

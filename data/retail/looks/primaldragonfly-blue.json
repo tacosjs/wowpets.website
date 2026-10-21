@@ -1,0 +1,60 @@
+{
+	"id": "primaldragonfly-blue",
+	"family": "waterstrider",
+	"modelGroup": "skitterflies",
+	"npcs": [
+		{
+			"id": 192376,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 62
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "wild-cliffs"
+				}
+			]
+		},
+		{
+			"id": 196190,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "veiled-ossuary"
+				}
+			]
+		},
+		{
+			"id": 189368,
+			"tameable": true,
+			"level": {
+				"min": 62,
+				"max": 62
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "gardens-of-unity"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		189614,
+		183990,
+		183541,
+		185644,
+		193703,
+		185643
+	]
+}

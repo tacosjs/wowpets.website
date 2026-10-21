@@ -1,0 +1,21 @@
+{
+	"name": "Nightmare Spider",
+	"variant": "Nightmare",
+	"npcs": {
+		"106311": {
+			"name": "Venomous Spiderling"
+		},
+		"107459": {
+			"name": "Venomous Spiderling"
+		},
+		"111721": {
+			"name": "Venomous Spiderling"
+		},
+		"111933": {
+			"name": "Venomous Spiderling"
+		},
+		"113626": {
+			"name": "Venomous Spiderling"
+		}
+	}
+}

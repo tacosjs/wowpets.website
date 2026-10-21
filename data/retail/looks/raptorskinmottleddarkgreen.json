@@ -1,0 +1,52 @@
+{
+	"id": "raptorskinmottleddarkgreen",
+	"family": "raptor",
+	"modelGroup": "raptors",
+	"npcs": [
+		{
+			"id": 41401,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "wetlands"
+				}
+			]
+		},
+		{
+			"id": 50875,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "dustwallow-marsh",
+					"area": "the-dragonmurk"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 6581,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "ungoro-crater"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

@@ -1,0 +1,66 @@
+{
+	"id": "aurokkskincopper",
+	"family": "aqiri",
+	"modelGroup": "workersilithids",
+	"npcs": [
+		{
+			"id": 6552,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ungoro-crater"
+				}
+			]
+		},
+		{
+			"id": 11729,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "silithus",
+					"area": "hivezora"
+				}
+			]
+		},
+		{
+			"id": 11725,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "silithus",
+					"area": "hivezora"
+				}
+			]
+		},
+		{
+			"id": 195651,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "algethar-academy"
+				}
+			]
+		}
+	]
+}

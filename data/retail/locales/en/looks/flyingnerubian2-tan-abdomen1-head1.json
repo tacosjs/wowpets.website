@@ -1,0 +1,15 @@
+{
+	"name": "Tan Swarmite w/ Pedipalps & Short Tail",
+	"variant": "Tan w/ Pedipalps & Short Tail",
+	"npcs": {
+		"217038": {
+			"name": "Intrusive Nothwing"
+		},
+		"217127": {
+			"name": "Invasive Nestbuilder"
+		},
+		"225642": {
+			"name": "Leeching Swarmite"
+		}
+	}
+}

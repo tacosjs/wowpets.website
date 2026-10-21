@@ -1,0 +1,16 @@
+{
+	"name": "Albino Rat",
+	"variant": "Albino",
+	"npcs": {
+		"239324": {
+			"name": "Escaped Subject"
+		},
+		"250534": {
+			"name": "Treasure Dundun"
+		},
+		"259838": {
+			"name": "Visage of Dundun",
+			"title": "Loa of Abundance"
+		}
+	}
+}

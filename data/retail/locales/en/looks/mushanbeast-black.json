@@ -1,0 +1,24 @@
+{
+	"name": "Dark Mushan",
+	"variant": "Dark",
+	"npcs": {
+		"58435": {
+			"name": "Darkhide"
+		},
+		"60623": {
+			"name": "Enraged Mushan"
+		},
+		"61618": {
+			"name": "Longshadow Mushan"
+		},
+		"61875": {
+			"name": "Raider Mushan"
+		},
+		"63827": {
+			"name": "Young Bluehide Mushan"
+		},
+		"73185": {
+			"name": "Enraged Mushan Beast"
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"name": "Black Devilsaur w/ Gold & Pale Armour",
+	"variant": "Black Devilsaur w/ Gold & Pale Armour",
+	"npcs": {
+		"67477": {
+			"name": "Defiant Devilsaur"
+		},
+		"122639": {
+			"name": "Old R'gal",
+			"title": "Strength of Rezan"
+		},
+		"135908": {
+			"name": "Old K'zlotec",
+			"title": "Wrath of Rezan"
+		}
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"name": "White Falcon",
+	"variant": "White",
+	"npcs": {
+		"129950": {
+			"name": "Talon"
+		},
+		"214772": {
+			"name": "Limestone Falcon"
+		},
+		"215070": {
+			"name": "Ashwhite Kestrel"
+		},
+		"221527": {
+			"name": "Regal Plainshawk"
+		},
+		"221528": {
+			"name": "Soaring Plainshawk"
+		},
+		"221644": {
+			"name": "Soaring Plainshawk"
+		},
+		"221646": {
+			"name": "Hungry Plainshawk"
+		},
+		"222329": {
+			"name": "Regal Plainshawk"
+		}
+	}
+}

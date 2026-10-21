@@ -1,0 +1,97 @@
+{
+	"id": "mawexpansionflier-purple",
+	"family": "feathermane",
+	"modelGroup": "razorwings",
+	"npcs": [
+		{
+			"id": 179871,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "korthia",
+					"area": "windswept-aerie"
+				}
+			]
+		},
+		{
+			"id": 177197,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "korthia",
+					"area": "estuary-of-awakening"
+				}
+			]
+		},
+		{
+			"id": 178893,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "korthia",
+					"area": "estuary-of-awakening"
+				}
+			]
+		},
+		{
+			"id": 180625,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "korthia",
+					"area": "windswept-aerie"
+				}
+			]
+		},
+		{
+			"id": 177249,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "korthia",
+					"area": "estuary-of-awakening"
+				}
+			]
+		},
+		{
+			"id": 230379,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "eco-dome-rhovan"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"id": "gryphon-skinwhite",
+	"family": "feathermane",
+	"modelGroup": "gryphons",
+	"npcs": [
+		{
+			"id": 16874,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "winterspring",
+					"area": "the-hidden-grove"
+				}
+			],
+			"keepsName": true,
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

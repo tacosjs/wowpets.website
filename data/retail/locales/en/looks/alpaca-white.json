@@ -1,0 +1,21 @@
+{
+	"name": "Beige Alpaca",
+	"variant": "Beige",
+	"npcs": {
+		"124522": {
+			"name": "Alpaca"
+		},
+		"124718": {
+			"name": "Alpaca Calf"
+		},
+		"126627": {
+			"name": "Lost Alpaca"
+		},
+		"136354": {
+			"name": "Alpaca"
+		},
+		"140501": {
+			"name": "Lost Alpaca"
+		}
+	}
+}

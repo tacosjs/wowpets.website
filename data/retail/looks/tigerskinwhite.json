@@ -1,0 +1,51 @@
+{
+	"id": "tigerskinwhite",
+	"family": "cat",
+	"modelGroup": "cats",
+	"npcs": [
+		{
+			"id": 731,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "northern-stranglethorn"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 21724,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "terokkar-forest"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 3888,
+			"tameable": false,
+			"level": {
+				"min": 7,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ashenvale"
+				}
+			]
+		}
+	]
+}

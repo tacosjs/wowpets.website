@@ -1,0 +1,24 @@
+{
+	"name": "Teal Grey Krolusk",
+	"variant": "Teal Grey",
+	"npcs": {
+		"127479": {
+			"name": "The Sand Queen"
+		},
+		"133234": {
+			"name": "Krolusk Dunemite"
+		},
+		"134927": {
+			"name": "The Sand Queen"
+		},
+		"139361": {
+			"name": "Krolusk Hatchling"
+		},
+		"230293": {
+			"name": "Dustback Burrower"
+		},
+		"241360": {
+			"name": "Dustback Burrower"
+		}
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"name": "Red Parrot",
+	"variant": "Red",
+	"npcs": {
+		"129446": {
+			"name": "Fred"
+		},
+		"129719": {
+			"name": "Golly"
+		},
+		"132280": {
+			"name": "Squacks"
+		},
+		"133843": {
+			"name": "First Mate Swainbeak"
+		},
+		"137018": {
+			"name": "Berry",
+			"title": "Parrot for Hire"
+		},
+		"137304": {
+			"name": "Golly"
+		},
+		"201294": {
+			"name": "Irontide Swooper"
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"id": "progenitorbeetleblack",
+	"family": "beetle",
+	"modelGroup": "scarabids",
+	"npcs": [
+		{
+			"id": 183927,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "provis-esper"
+				}
+			]
+		}
+	]
+}

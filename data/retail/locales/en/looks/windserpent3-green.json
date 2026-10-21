@@ -1,0 +1,58 @@
+{
+	"name": "Green Skyfang",
+	"variant": "Green",
+	"npcs": {
+		"253761": {
+			"name": "Vilescar Harrier"
+		},
+		"254351": {
+			"name": "Vilescar Harrier",
+			"title": "Vilescar Stalker's Pet"
+		},
+		"256213": {
+			"name": "Coiling Skyfang"
+		},
+		"256792": {
+			"name": "Scaleskin Harrier"
+		},
+		"256845": {
+			"name": "Coiling Harrier"
+		},
+		"258961": {
+			"name": "Scalewing Hunter"
+		},
+		"259768": {
+			"name": "Coiling Serpent"
+		},
+		"259952": {
+			"name": "Coiling Skyfang"
+		},
+		"261694": {
+			"name": "Coiling Skyfang"
+		},
+		"262034": {
+			"name": "Primal Serpent"
+		},
+		"263429": {
+			"name": "Rancorous Skyfang"
+		},
+		"263464": {
+			"name": "Slithering Skyfang"
+		},
+		"263571": {
+			"name": "Winged Menace"
+		},
+		"264851": {
+			"name": "Venomous Skyfang"
+		},
+		"265969": {
+			"name": "Carrion Harrier"
+		},
+		"268981": {
+			"name": "Newborn Skyfang"
+		},
+		"270252": {
+			"name": "Carrion Harrier"
+		}
+	}
+}

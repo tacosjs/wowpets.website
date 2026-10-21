@@ -1,0 +1,10 @@
+{
+	"name": "Mossy Dark Red & Grey Bufonid",
+	"variant": "Dark Red & Grey",
+	"npcs": {
+		"178963": {
+			"name": "Gorkek",
+			"title": "Bufonid Prime"
+		}
+	}
+}

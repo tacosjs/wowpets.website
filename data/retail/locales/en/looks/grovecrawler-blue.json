@@ -1,0 +1,21 @@
+{
+	"name": "Blue Grovecrawler",
+	"variant": "Blue",
+	"npcs": {
+		"245659": {
+			"name": "Lattice Crawler"
+		},
+		"246390": {
+			"name": "Loafloret Grovecrawler"
+		},
+		"249163": {
+			"name": "Skittering Valecrawler"
+		},
+		"250327": {
+			"name": "Underbrush Grovecrawler"
+		},
+		"256695": {
+			"name": "Mature Rootcrawler"
+		}
+	}
+}

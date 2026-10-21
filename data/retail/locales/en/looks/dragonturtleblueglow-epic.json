@@ -1,0 +1,24 @@
+{
+	"name": "Blue Glowing Spiked Dragon Turtle",
+	"variant": "Blue Glowing",
+	"npcs": {
+		"67763": {
+			"name": "Slateshell Ancient"
+		},
+		"69998": {
+			"name": "Goda"
+		},
+		"131520": {
+			"name": "Kulett the Ornery"
+		},
+		"134804": {
+			"name": "Timeless Runeback"
+		},
+		"169829": {
+			"name": "Glimmerpool Razorshell"
+		},
+		"170122": {
+			"name": "Pearlshell Snapper"
+		}
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"id": "molemountbasic-pink-saddle-black-nose0-teeth0",
+	"family": "rodent",
+	"modelGroup": "saddledmoles",
+	"npcs": [
+		{
+			"id": 218912,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "campalot"
+				}
+			]
+		},
+		{
+			"id": 230574,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "campalot"
+				}
+			]
+		},
+		{
+			"id": 230567,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "the-verdant-gutters"
+				}
+			]
+		}
+	]
+}

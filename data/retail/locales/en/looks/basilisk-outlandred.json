@@ -1,0 +1,12 @@
+{
+	"name": "Red Outland Basilisk",
+	"variant": "Red",
+	"npcs": {
+		"18648": {
+			"name": "Stonegazer"
+		},
+		"20925": {
+			"name": "Scalded Basilisk"
+		}
+	}
+}

@@ -1,0 +1,98 @@
+{
+	"id": "armoredtrex-body-green",
+	"family": "devilsaur",
+	"modelGroup": "skeletaldevilsaurs",
+	"npcs": [
+		{
+			"id": 139709,
+			"tameable": true,
+			"level": {
+				"min": 49,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "zulnazman"
+				}
+			]
+		},
+		{
+			"id": 127768,
+			"tameable": true,
+			"level": {
+				"min": 49,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "the-fallen-outpost"
+				}
+			]
+		},
+		{
+			"id": 123757,
+			"tameable": true,
+			"level": {
+				"min": 49,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "uroks-lair"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 134507,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zuldazar"
+				}
+			]
+		},
+		{
+			"id": 130643,
+			"tameable": true,
+			"level": {
+				"min": 51,
+				"max": 51
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "lair-of-rezan"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 166027,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "the-necropolis"
+				}
+			]
+		}
+	]
+}

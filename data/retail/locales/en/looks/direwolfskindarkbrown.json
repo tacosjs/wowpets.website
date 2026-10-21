@@ -1,0 +1,12 @@
+{
+	"name": "Dark Brown Worg",
+	"variant": "Dark Brown",
+	"npcs": {
+		"10077": {
+			"name": "Deathmaw"
+		},
+		"50925": {
+			"name": "Grovepaw"
+		}
+	}
+}

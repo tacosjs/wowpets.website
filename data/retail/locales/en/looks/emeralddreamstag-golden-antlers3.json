@@ -1,0 +1,21 @@
+{
+	"name": "Golden Brown Dreamstag w/ Large Antlers",
+	"variant": "Golden Brown w/ Large Antlers",
+	"npcs": {
+		"210283": {
+			"name": "Shoreline Gladehart"
+		},
+		"210775": {
+			"name": "Fenblossom Gladehart"
+		},
+		"210843": {
+			"name": "Dreamhoof Stag"
+		},
+		"212069": {
+			"name": "Elusive Swifthoof Gladehart"
+		},
+		"216699": {
+			"name": "Efflorescent Gladehart"
+		}
+	}
+}

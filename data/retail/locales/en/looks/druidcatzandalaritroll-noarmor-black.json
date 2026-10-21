@@ -1,0 +1,18 @@
+{
+	"name": "Black Sabertusk",
+	"variant": "Black",
+	"npcs": {
+		"123135": {
+			"name": "Wild Sabertusk"
+		},
+		"129337": {
+			"name": "Sabertusk"
+		},
+		"129338": {
+			"name": "Sabertusk Cub"
+		},
+		"132022": {
+			"name": "Wild Sabertusk"
+		}
+	}
+}

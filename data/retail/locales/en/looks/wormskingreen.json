@@ -1,0 +1,15 @@
+{
+	"name": "Turquoise Worm",
+	"variant": "Turquoise",
+	"npcs": {
+		"11787": {
+			"name": "Rock Borer"
+		},
+		"11788": {
+			"name": "Rock Worm"
+		},
+		"51025": {
+			"name": "Dilennaa"
+		}
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"name": "Blue Cataclysm Crocolisk",
+	"variant": "Blue",
+	"npcs": {
+		"43658": {
+			"name": "Frenzied Crocolisk"
+		},
+		"46280": {
+			"name": "Thartep"
+		},
+		"46281": {
+			"name": "Khamen"
+		},
+		"47591": {
+			"name": "Baradin Crocolisk"
+		},
+		"51662": {
+			"name": "Mahamba",
+			"title": "The Water Spirit"
+		},
+		"52413": {
+			"name": "Zulian Gnasher"
+		},
+		"60202": {
+			"name": "Mortbreath Skulker"
+		},
+		"60203": {
+			"name": "Nahassa",
+			"title": "Mortbreath Patriarch"
+		},
+		"110719": {
+			"name": "Underbelly Croc"
+		},
+		"113126": {
+			"name": "Meredil Lockjaw"
+		},
+		"130638": {
+			"name": "Vicejaw Crocolisk"
+		},
+		"130640": {
+			"name": "Vicejaw Sawtooth"
+		},
+		"146793": {
+			"name": "Gutgnash",
+			"title": "The Mirror Lake Horror"
+		}
+	}
+}

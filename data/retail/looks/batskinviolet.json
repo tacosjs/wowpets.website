@@ -1,0 +1,127 @@
+{
+	"id": "batskinviolet",
+	"family": "bat",
+	"modelGroup": "bats",
+	"npcs": [
+		{
+			"id": 1554,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tirisfal-glades"
+				}
+			]
+		},
+		{
+			"id": 8602,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eastern-plaguelands"
+				}
+			]
+		},
+		{
+			"id": 8600,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eastern-plaguelands"
+				}
+			]
+		},
+		{
+			"id": 48456,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "felwood"
+				}
+			]
+		},
+		{
+			"id": 50329,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "thousand-needles",
+					"area": "splithoof-heights"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 16175,
+			"tameable": true,
+			"level": {
+				"min": 31,
+				"max": 31
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "karazhan",
+					"area": "servants-quarters"
+				}
+			]
+		},
+		{
+			"id": 69352,
+			"tameable": false,
+			"level": {
+				"min": 37,
+				"max": 37
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "throne-of-thunder"
+				}
+			]
+		},
+		{
+			"id": 68497,
+			"tameable": false,
+			"level": {
+				"min": 38,
+				"max": 38
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "throne-of-thunder"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

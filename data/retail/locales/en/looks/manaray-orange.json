@@ -1,0 +1,9 @@
+{
+	"name": "Orange Mana Ray",
+	"variant": "Orange",
+	"npcs": {
+		"242349": {
+			"name": "Void-Altered Pup"
+		}
+	}
+}

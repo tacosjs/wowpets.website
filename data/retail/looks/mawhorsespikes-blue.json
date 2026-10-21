@@ -1,0 +1,22 @@
+{
+	"id": "mawhorsespikes-blue",
+	"family": "courser",
+	"modelGroup": "gloomchargers",
+	"npcs": [
+		{
+			"id": 182156,
+			"tameable": false,
+			"level": {
+				"min": 63,
+				"max": 63
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "endless-sands"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"name": "Purple Ant Silithid",
+	"variant": "Purple",
+	"npcs": {
+		"5247": {
+			"name": "Zukk'ash Tunneler"
+		},
+		"5458": {
+			"name": "Centipaar Worker"
+		},
+		"11733": {
+			"name": "Hive'Regal Slavemaker"
+		},
+		"15319": {
+			"name": "Hive'Zara Collector"
+		},
+		"131893": {
+			"name": "Silithid Drone"
+		}
+	}
+}

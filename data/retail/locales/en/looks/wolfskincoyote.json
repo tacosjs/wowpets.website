@@ -1,0 +1,67 @@
+{
+	"name": "Tan Wolf",
+	"variant": "Tan",
+	"npcs": {
+		"833": {
+			"name": "Coyote Packleader"
+		},
+		"834": {
+			"name": "Coyote"
+		},
+		"2728": {
+			"name": "Feral Crag Coyote"
+		},
+		"2729": {
+			"name": "Elder Crag Coyote"
+		},
+		"2730": {
+			"name": "Rabid Crag Coyote"
+		},
+		"2958": {
+			"name": "Prairie Wolf"
+		},
+		"2959": {
+			"name": "Prairie Stalker"
+		},
+		"2960": {
+			"name": "Prairie Wolf Alpha"
+		},
+		"3915": {
+			"name": "Dagri",
+			"title": "Raene's Pet"
+		},
+		"3939": {
+			"name": "Razormane Wolf"
+		},
+		"4950": {
+			"name": "Spot"
+		},
+		"20058": {
+			"name": "Bloodmaul Dire Wolf"
+		},
+		"23616": {
+			"name": "Kyle the Frenzied"
+		},
+		"23622": {
+			"name": "Kyle the Friendly"
+		},
+		"28163": {
+			"name": "Guerrero"
+		},
+		"47190": {
+			"name": "Shaggy Desert Coyote"
+		},
+		"59533": {
+			"name": "Lost Dog"
+		},
+		"59535": {
+			"name": "Lost Dog"
+		},
+		"59536": {
+			"name": "Dog"
+		},
+		"162374": {
+			"name": "Shaggy Desert Coyote"
+		}
+	}
+}

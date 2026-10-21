@@ -1,0 +1,23 @@
+{
+	"name": "Lizard",
+	"modelGroups": {
+		"amazards": {
+			"name": "Amazards"
+		},
+		"salamanthers": {
+			"name": "Salamanthers"
+		},
+		"snapdragons": {
+			"name": "Snapdragons"
+		},
+		"saurolisks": {
+			"name": "Saurolisks"
+		},
+		"diemetradons": {
+			"name": "Diemetradons"
+		},
+		"sabertusks": {
+			"name": "Sabertusks"
+		}
+	}
+}

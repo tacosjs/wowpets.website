@@ -1,0 +1,10 @@
+{
+	"name": "Brown Thornbear",
+	"variant": "Brown",
+	"npcs": {
+		"210988": {
+			"name": "Astera",
+			"title": "Thornborn Spirit"
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"name": "Orange Diemetradon",
+	"variant": "Orange",
+	"npcs": {
+		"9162": {
+			"name": "Young Diemetradon"
+		},
+		"9163": {
+			"name": "Diemetradon"
+		},
+		"9164": {
+			"name": "Elder Diemetradon"
+		},
+		"113041": {
+			"name": "Infected Diemetradon"
+		},
+		"130760": {
+			"name": "Diemetradon Hatchling"
+		}
+	}
+}

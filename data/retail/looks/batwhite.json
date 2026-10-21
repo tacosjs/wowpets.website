@@ -1,0 +1,167 @@
+{
+	"id": "batwhite",
+	"family": "bat",
+	"modelGroup": "greaterbats",
+	"npcs": [
+		{
+			"id": 80242,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "frostcave"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 87085,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "southwind-cliffs"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 75247,
+			"tameable": true,
+			"level": {
+				"min": 12,
+				"max": 32
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "razorfen-kraul"
+				}
+			]
+		},
+		{
+			"id": 254690,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "windrunner-village"
+				}
+			]
+		},
+		{
+			"id": 245900,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "ruins-of-deatholme"
+				}
+			]
+		},
+		{
+			"id": 97381,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "dalaran-broken-isles"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 144951,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 144957,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 204523,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "mysterious-cave"
+				}
+			]
+		},
+		{
+			"id": 205417,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "mysterious-cave"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		223167,
+		225987,
+		254732,
+		242227,
+		110729
+	]
+}

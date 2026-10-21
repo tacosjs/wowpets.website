@@ -1,0 +1,207 @@
+{
+	"id": "mushanbeast-brown",
+	"family": "scalehide",
+	"modelGroup": "mushan",
+	"npcs": [
+		{
+			"id": 56239,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds",
+					"area": "thunderfoot-fields"
+				}
+			]
+		},
+		{
+			"id": 58424,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds",
+					"area": "the-wild-plains"
+				}
+			]
+		},
+		{
+			"id": 59295,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "krasarang-wilds",
+					"area": "the-forbidden-jungle"
+				}
+			]
+		},
+		{
+			"id": 58427,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds",
+					"area": "the-wild-plains"
+				}
+			]
+		},
+		{
+			"id": 59671,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "kun-lai-summit"
+				}
+			]
+		},
+		{
+			"id": 59670,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "kun-lai-summit"
+				}
+			]
+		},
+		{
+			"id": 62029,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dread-wastes",
+					"area": "the-thundering-run"
+				}
+			]
+		},
+		{
+			"id": 58923,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds",
+					"area": "the-heartland"
+				}
+			]
+		},
+		{
+			"id": 59857,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds",
+					"area": "stoneplow"
+				}
+			]
+		},
+		{
+			"id": 59013,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds"
+				}
+			]
+		},
+		{
+			"id": 58921,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds",
+					"area": "the-heartland"
+				}
+			]
+		},
+		{
+			"id": 156303,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "kun-lai-summit",
+					"area": "the-yaungol-advance"
+				}
+			]
+		},
+		{
+			"id": 156302,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "kun-lai-summit",
+					"area": "the-yaungol-advance"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		56523,
+		58893,
+		66096,
+		66599,
+		62760,
+		64309
+	]
+}

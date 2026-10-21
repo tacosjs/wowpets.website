@@ -1,0 +1,30 @@
+{
+	"name": "Red Magma Cobra",
+	"variant": "Red",
+	"npcs": {
+		"202302": {
+			"name": "Embertail Rock Cobra"
+		},
+		"203327": {
+			"name": "Sizzle Fang"
+		},
+		"203328": {
+			"name": "Conflagrated Rock Cobra"
+		},
+		"204825": {
+			"name": "Elusive Viper"
+		},
+		"204828": {
+			"name": "Elusive Lavafang"
+		},
+		"204831": {
+			"name": "Elusive Magma Cobra"
+		},
+		"205238": {
+			"name": "Embertail Rock Cobra"
+		},
+		"225895": {
+			"name": "Awakened Flamecoil Serpent"
+		}
+	}
+}

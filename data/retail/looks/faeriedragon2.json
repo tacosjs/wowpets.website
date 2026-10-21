@@ -1,0 +1,270 @@
+{
+	"id": "faeriedragon2",
+	"family": "lesserdragonkin",
+	"modelGroup": "feydarters",
+	"npcs": [
+		{
+			"id": 3815,
+			"tameable": true,
+			"level": {
+				"min": 7,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ashenvale",
+					"area": "rayewood-retreat"
+				}
+			]
+		},
+		{
+			"id": 5912,
+			"tameable": true,
+			"level": {
+				"min": 8,
+				"max": 30
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "wailing-caverns"
+				}
+			]
+		},
+		{
+			"id": 4016,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stonetalon-mountains",
+					"area": "stonetalon-peak"
+				}
+			]
+		},
+		{
+			"id": 4066,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "stonetalon-mountains",
+					"area": "ruins-of-eldrethar"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 4017,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stonetalon-mountains",
+					"area": "stonetalon-peak"
+				}
+			]
+		},
+		{
+			"id": 5278,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "feralas"
+				}
+			]
+		},
+		{
+			"id": 14398,
+			"tameable": true,
+			"level": {
+				"min": 17,
+				"max": 44
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "dire-maul-west"
+				}
+			]
+		},
+		{
+			"id": 199548,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus"
+				}
+			]
+		},
+		{
+			"id": 188869,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 1
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "valdrakken"
+				}
+			]
+		},
+		{
+			"id": 197036,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 1
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "gardens-of-unity"
+				}
+			]
+		},
+		{
+			"id": 82190,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor"
+				}
+			]
+		},
+		{
+			"id": 81069,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "the-shimmer-moor"
+				}
+			]
+		},
+		{
+			"id": 83936,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "fey-landing"
+				}
+			]
+		},
+		{
+			"id": 80173,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "arbor-glen"
+				}
+			]
+		},
+		{
+			"id": 118122,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "broken-shore",
+					"area": "deliverance-point"
+				}
+			]
+		},
+		{
+			"id": 7997,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "feralas"
+				}
+			]
+		},
+		{
+			"id": 91493,
+			"tameable": false,
+			"level": {
+				"min": 20,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "talador"
+				}
+			]
+		},
+		{
+			"id": 98008,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "emerald-dreamway"
+				}
+			]
+		}
+	]
+}

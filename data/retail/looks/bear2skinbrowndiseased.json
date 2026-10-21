@@ -1,0 +1,93 @@
+{
+	"id": "bear2skinbrowndiseased",
+	"family": "bear",
+	"modelGroup": "bears",
+	"npcs": [
+		{
+			"id": 98890,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "the-witchwood"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 44482,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "western-plaguelands"
+				}
+			]
+		},
+		{
+			"id": 95779,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "darkheart-thicket"
+				}
+			]
+		},
+		{
+			"id": 140151,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 140152,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 155656,
+			"tameable": false,
+			"level": {
+				"min": 51,
+				"max": 51
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "vision-of-orgrimmar"
+				}
+			]
+		}
+	]
+}

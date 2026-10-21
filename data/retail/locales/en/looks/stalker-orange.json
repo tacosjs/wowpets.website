@@ -1,0 +1,15 @@
+{
+	"name": "Orange Shredclaw",
+	"variant": "Orange",
+	"npcs": {
+		"252108": {
+			"name": "Encroaching Packleader"
+		},
+		"257246": {
+			"name": "Roaming Shredclaw"
+		},
+		"257740": {
+			"name": "Infested Shredclaw"
+		}
+	}
+}

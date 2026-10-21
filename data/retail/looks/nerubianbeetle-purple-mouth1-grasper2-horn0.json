@@ -1,0 +1,25 @@
+{
+	"id": "nerubianbeetle-purple-mouth1-grasper2-horn0",
+	"family": "beetle",
+	"modelGroup": "stagshells",
+	"npcs": [
+		{
+			"id": 220407,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "city-of-threads"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		215991,
+		216537
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"id": "hellhoundfoggy-spectral",
+	"family": "hound",
+	"modelGroup": "infernalhellhounds",
+	"npcs": [
+		{
+			"id": 188510,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "the-eternal-kurgans"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Venom-Soaked Dark Turtle",
+	"variant": "Venom-Soaked Dark",
+	"npcs": {
+		"262691": {
+			"name": "Crazed Crystalshell"
+		}
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"name": "Chimaera",
+	"modelGroups": {
+		"skyfiends": {
+			"name": "Skyfiend Chimaeras"
+		},
+		"deathchimaeras": {
+			"name": "Death Chimaeras"
+		},
+		"saddleddeathchimaeras": {
+			"name": "Saddled Death Chimaeras"
+		},
+		"rylaks": {
+			"name": "Rylaks"
+		},
+		"armoredrylaks": {
+			"name": "Armoured Rylaks"
+		},
+		"saddledrylaks": {
+			"name": "Saddled Rylaks"
+		},
+		"armoredchimaeras": {
+			"name": "Plated Chimaeras"
+		},
+		"chimaeras": {
+			"name": "Chimaeras"
+		},
+		"otherchimaeras": {
+			"name": "Other Chimaeras"
+		}
+	}
+}

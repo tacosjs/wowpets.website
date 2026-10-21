@@ -1,0 +1,22 @@
+{
+	"id": "writhes-yellow-greenaura",
+	"family": "serpent",
+	"modelGroup": "writhingserpents",
+	"npcs": [
+		{
+			"id": 264350,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "vaults-of-atalutek"
+				}
+			]
+		}
+	]
+}

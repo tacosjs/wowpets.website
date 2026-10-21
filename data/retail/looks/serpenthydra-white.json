@@ -1,0 +1,31 @@
+{
+	"id": "serpenthydra-white",
+	"family": "hydra",
+	"modelGroup": "serpenthydras",
+	"npcs": [
+		{
+			"id": 261503,
+			"tameable": false,
+			"level": {
+				"min": 92,
+				"max": 92
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-venomous-abyss"
+				}
+			]
+		},
+		{
+			"id": 259445,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "altar-of-fangs"
+				}
+			]
+		}
+	]
+}

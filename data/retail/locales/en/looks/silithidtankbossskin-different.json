@@ -1,0 +1,15 @@
+{
+	"name": "Purple Silithid Colossus",
+	"variant": "Purple",
+	"npcs": {
+		"15370": {
+			"name": "Buru the Gorger"
+		},
+		"38305": {
+			"name": "Gorishi Fledgling Colossus"
+		},
+		"117491": {
+			"name": "Colossus of Ashi"
+		}
+	}
+}

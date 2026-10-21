@@ -1,0 +1,115 @@
+{
+	"id": "mechanowolfblack",
+	"family": "mechanical",
+	"modelGroup": "mechanowolves",
+	"npcs": [
+		{
+			"id": 107951,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "highmountain"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 153465,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mechagon"
+				}
+			]
+		},
+		{
+			"id": 151709,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mechagon",
+					"area": "the-heaps"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 151740,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mechagon",
+					"area": "the-heaps"
+				}
+			]
+		},
+		{
+			"id": 151301,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mechagon",
+					"area": "the-heaps"
+				}
+			]
+		},
+		{
+			"id": 149839,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mechagon"
+				}
+			]
+		},
+		{
+			"id": 148417,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "aroms-crossing"
+				}
+			]
+		}
+	]
+}

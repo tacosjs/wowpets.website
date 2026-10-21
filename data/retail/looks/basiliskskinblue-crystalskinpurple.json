@@ -1,0 +1,52 @@
+{
+	"id": "basiliskskinblue-crystalskinpurple",
+	"family": "basilisk",
+	"modelGroup": "basilisks",
+	"npcs": [
+		{
+			"id": 1552,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "the-cape-of-stranglethorn",
+					"area": "crystalvein-mine"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 43237,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "deepholm"
+				}
+			]
+		},
+		{
+			"id": 105646,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "the-menagerie"
+				}
+			]
+		}
+	]
+}

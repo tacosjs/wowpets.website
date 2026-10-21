@@ -1,0 +1,55 @@
+{
+	"id": "flyingnerubianblue",
+	"family": "bloodbeast",
+	"modelGroup": "classicswarmites",
+	"npcs": [
+		{
+			"id": 139862,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 71
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions",
+					"area": "skittering-hollow"
+				}
+			]
+		},
+		{
+			"id": 29213,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azjol-nerub"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 29349,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azjol-nerub"
+				}
+			]
+		}
+	]
+}

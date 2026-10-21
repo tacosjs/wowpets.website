@@ -1,0 +1,15 @@
+{
+	"name": "Lavender Saber Cat",
+	"variant": "Lavender",
+	"npcs": {
+		"7434": {
+			"name": "Frostsaber Pride Watcher"
+		},
+		"10619": {
+			"name": "Glacier"
+		},
+		"29857": {
+			"name": "Frostbite"
+		}
+	}
+}

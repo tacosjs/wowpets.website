@@ -1,0 +1,57 @@
+{
+	"id": "snakeskindarkgreenyellow",
+	"family": "serpent",
+	"modelGroup": "groundsnakes",
+	"npcs": [
+		{
+			"id": 140691,
+			"tameable": true,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 59769,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-jade-forest",
+					"area": "forest-heart"
+				}
+			]
+		},
+		{
+			"id": 132835,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		254964,
+		39444,
+		52402,
+		254511,
+		262439
+	]
+}

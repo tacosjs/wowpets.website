@@ -1,0 +1,11 @@
+{
+	"id": "horse3-piebald-mane1",
+	"family": "courser",
+	"modelGroup": "horses",
+	"npcs": [],
+	"alsoNpcs": [
+		174412,
+		134307,
+		124845
+	]
+}

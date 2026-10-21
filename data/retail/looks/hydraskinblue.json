@@ -1,0 +1,21 @@
+{
+	"id": "hydraskinblue",
+	"family": "hydra",
+	"modelGroup": "hydras",
+	"npcs": [
+		{
+			"id": 3721,
+			"tameable": true,
+			"level": {
+				"min": 7,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ashenvale"
+				}
+			]
+		}
+	]
+}

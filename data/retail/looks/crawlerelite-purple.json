@@ -1,0 +1,53 @@
+{
+	"id": "crawlerelite-purple",
+	"family": "ravager",
+	"modelGroup": "extraspikyravagers",
+	"npcs": [
+		{
+			"id": 19349,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hellfire-peninsula"
+				}
+			]
+		},
+		{
+			"id": 50728,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "badlands",
+					"area": "lethlor-ravine"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 50727,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "thousand-needles",
+					"area": "the-admirals-den"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

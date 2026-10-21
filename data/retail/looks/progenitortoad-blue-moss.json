@@ -1,0 +1,121 @@
+{
+	"id": "progenitortoad-blue-moss",
+	"family": "hopper",
+	"modelGroup": "bufonids",
+	"npcs": [
+		{
+			"id": 185488,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis"
+				}
+			]
+		},
+		{
+			"id": 185312,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "the-sepulcher-of-the-first-ones"
+				}
+			]
+		},
+		{
+			"id": 184594,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "dimensional-falls"
+				}
+			]
+		},
+		{
+			"id": 184604,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "dimensional-falls"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 181294,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "provis-fauna"
+				}
+			]
+		},
+		{
+			"id": 184395,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "untamed-verdure"
+				}
+			]
+		},
+		{
+			"id": 184603,
+			"tameable": false,
+			"level": {
+				"min": 62,
+				"max": 62
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "sepulcher-of-the-first-ones",
+					"area": "eternal-watch"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		178803,
+		183610,
+		182362
+	]
+}

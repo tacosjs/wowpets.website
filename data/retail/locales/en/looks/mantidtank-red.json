@@ -1,0 +1,27 @@
+{
+	"name": "Red Kunchong",
+	"variant": "Red",
+	"npcs": {
+		"61509": {
+			"name": "Sra'thik Kunchong"
+		},
+		"63696": {
+			"name": "Ravenous Kunchong"
+		},
+		"63697": {
+			"name": "Nascent Kunchong"
+		},
+		"64849": {
+			"name": "Kunchong Hatchling"
+		},
+		"72927": {
+			"name": "Kovok"
+		},
+		"153278": {
+			"name": "Kunchong Destroyer"
+		},
+		"160872": {
+			"name": "Destroyer Krox'tazar"
+		}
+	}
+}

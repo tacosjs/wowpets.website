@@ -1,0 +1,15 @@
+{
+	"name": "Dark Green Saurolisk",
+	"variant": "Dark Green",
+	"npcs": {
+		"123868": {
+			"name": "Lichenjaw Saurolisk"
+		},
+		"128072": {
+			"name": "Mirehunter Hatchling"
+		},
+		"130668": {
+			"name": "Hungry Dewscale"
+		}
+	}
+}

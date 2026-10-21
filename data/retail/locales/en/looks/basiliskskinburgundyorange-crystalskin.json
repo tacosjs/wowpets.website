@@ -1,0 +1,19 @@
+{
+	"name": "Burgundy Basilisk w/Blue Fringes",
+	"variant": "Burgundy w/Blue",
+	"npcs": {
+		"8095": {
+			"name": "Sul'lithuz Sandcrawler"
+		},
+		"39658": {
+			"name": "Spinescale Basilisk"
+		},
+		"48724": {
+			"name": "Spinescale Basilisk"
+		},
+		"69358": {
+			"name": "Ihgaluk Basilisk",
+			"title": "Skumblade Shortfang's Pet"
+		}
+	}
+}

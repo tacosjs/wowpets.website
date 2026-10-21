@@ -1,0 +1,30 @@
+{
+	"name": "Tan Bakar",
+	"variant": "Tan",
+	"npcs": {
+		"186189": {
+			"name": "Gentara"
+		},
+		"189295": {
+			"name": "Elaichi"
+		},
+		"194290": {
+			"name": "Feral Bakar"
+		},
+		"194802": {
+			"name": "Suntuft Bakar"
+		},
+		"195364": {
+			"name": "Bavgal"
+		},
+		"195958": {
+			"name": "Alsklingen"
+		},
+		"196651": {
+			"name": "Vinyu"
+		},
+		"196669": {
+			"name": "Stout Riding Bakar"
+		}
+	}
+}

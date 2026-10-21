@@ -1,0 +1,25 @@
+{
+	"id": "nightsaber2white",
+	"family": "cat",
+	"modelGroup": "grandnightsabers",
+	"npcs": [
+		{
+			"id": 216774,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "amirdrassil-dragon-isles-zone",
+					"area": "dawning-watchtower"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		149644
+	]
+}

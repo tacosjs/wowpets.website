@@ -1,0 +1,43 @@
+{
+	"name": "Grey Owl",
+	"variant": "Grey",
+	"npcs": {
+		"1995": {
+			"name": "Strigid Owl"
+		},
+		"1996": {
+			"name": "Strigid Screecher"
+		},
+		"1997": {
+			"name": "Strigid Hunter"
+		},
+		"7097": {
+			"name": "Ironbeak Owl"
+		},
+		"7099": {
+			"name": "Ironbeak Hunter"
+		},
+		"7455": {
+			"name": "Winterspring Owl"
+		},
+		"19914": {
+			"name": "Hutihu",
+			"title": "Su'ura Swiftarrow's Pet"
+		},
+		"22265": {
+			"name": "Shadowwing Owl"
+		},
+		"22492": {
+			"name": "Spirit"
+		},
+		"22979": {
+			"name": "Wild Sparrowhawk"
+		},
+		"46162": {
+			"name": "Tawny Owl"
+		},
+		"59757": {
+			"name": "Duskstalker"
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Darkened Bronze Skeletal Raptor",
+	"variant": "Darkened Bronze",
+	"npcs": {
+		"41388": {
+			"name": "Living Fossil"
+		},
+		"86292": {
+			"name": "Brittle Bone Raptor"
+		},
+		"127247": {
+			"name": "Returned Predator"
+		}
+	}
+}

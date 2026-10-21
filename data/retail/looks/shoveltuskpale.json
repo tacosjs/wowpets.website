@@ -1,0 +1,65 @@
+{
+	"id": "shoveltuskpale",
+	"family": "oxen",
+	"modelGroup": "shoveltusks",
+	"npcs": [
+		{
+			"id": 24681,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "howling-fjord",
+					"area": "by-kamagua"
+				}
+			]
+		},
+		{
+			"id": 23690,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "howling-fjord"
+				}
+			]
+		},
+		{
+			"id": 24791,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "howling-fjord"
+				}
+			]
+		},
+		{
+			"id": 29486,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "howling-fjord",
+					"area": "cauldros-isle"
+				}
+			]
+		}
+	]
+}

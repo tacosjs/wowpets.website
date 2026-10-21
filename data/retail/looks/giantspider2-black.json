@@ -1,0 +1,210 @@
+{
+	"id": "giantspider2-black",
+	"family": "spider",
+	"modelGroup": "grandbarbedspiders",
+	"npcs": [
+		{
+			"id": 17683,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bloodmyst-isle"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 43007,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-hinterlands",
+					"area": "shadraalor"
+				}
+			],
+			"keepsName": true,
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 4380,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "dustwallow-marsh"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 50777,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "felwood"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 76473,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "darksting-cave"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 47115,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "twilight-highlands"
+				}
+			]
+		},
+		{
+			"id": 134717,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "garden-of-the-loa"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 138150,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ataldazar"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 124930,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "shrine-of-shadra"
+				}
+			]
+		},
+		{
+			"id": 134935,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 26674,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "draktharon-keep"
+				}
+			]
+		},
+		{
+			"id": 251142,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "witkalar-crypt"
+				}
+			]
+		},
+		{
+			"id": 247268,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "witkalar-crypt"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		135226
+	]
+}

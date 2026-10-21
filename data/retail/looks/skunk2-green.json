@@ -1,0 +1,23 @@
+{
+	"id": "skunk2-green",
+	"family": "rodent",
+	"modelGroup": "skunks",
+	"npcs": [
+		{
+			"id": 210075,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "haven-cascades"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

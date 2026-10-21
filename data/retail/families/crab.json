@@ -1,0 +1,42 @@
+{
+	"id": "crab",
+	"wowId": 8,
+	"icon": "ability_hunter_pet_crab",
+	"spec": "tenacity",
+	"exotic": false,
+	"diet": [
+		"bread",
+		"fish",
+		"fruit",
+		"fungus"
+	],
+	"abilities": {
+		"basic": "claw",
+		"family": [
+			"pin"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "bombcrabs"
+		},
+		{
+			"id": "cavecrabs"
+		},
+		{
+			"id": "spidercrabs"
+		},
+		{
+			"id": "hermitcrabs"
+		},
+		{
+			"id": "grandcrabs"
+		},
+		{
+			"id": "spikedcrabs"
+		},
+		{
+			"id": "crabs"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"id": "boar2-blue-armor3",
+	"family": "boar",
+	"modelGroup": "boars",
+	"npcs": [
+		{
+			"id": 230141,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "siren-isle"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

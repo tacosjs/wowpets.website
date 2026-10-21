@@ -1,0 +1,12 @@
+{
+	"name": "Copper-Black Mechanical Tiger",
+	"variant": "Copper-Black",
+	"npcs": {
+		"139359": {
+			"name": "Sabertron"
+		},
+		"145791": {
+			"name": "Remote-Controlled Mechanotiger"
+		}
+	}
+}

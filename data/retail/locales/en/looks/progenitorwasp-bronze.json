@@ -1,0 +1,39 @@
+{
+	"name": "Black & Copper Vespoid",
+	"variant": "Black & Copper",
+	"npcs": {
+		"178158": {
+			"name": "Vespoid Worker"
+		},
+		"178229": {
+			"name": "Feasting"
+		},
+		"181222": {
+			"name": "Over-Charged Vespoid"
+		},
+		"183258": {
+			"name": "Vespoid Worker"
+		},
+		"183268": {
+			"name": "Vespoid Overseer"
+		},
+		"183287": {
+			"name": "Vespoid Fighter"
+		},
+		"183721": {
+			"name": "Menacing Vespoid Worker"
+		},
+		"185367": {
+			"name": "Captured Vespoid"
+		},
+		"185486": {
+			"name": "Furious Vespoid"
+		},
+		"185505": {
+			"name": "Vespoid Hatchling"
+		},
+		"185944": {
+			"name": "Menacing Vespoid Worker"
+		}
+	}
+}

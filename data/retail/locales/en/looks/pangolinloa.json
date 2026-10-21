@@ -1,0 +1,10 @@
+{
+	"name": "Spirit Pango",
+	"variant": "Spirit Pango",
+	"npcs": {
+		"237956": {
+			"name": "Kulzi",
+			"title": "Loa of Medicine"
+		}
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"id": "raptor2blue",
+	"family": "raptor",
+	"modelGroup": "draenorraptors",
+	"npcs": [
+		{
+			"id": 87084,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "south-east-rim-of-the-pit"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 187256,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "shifting-sands"
+				}
+			]
+		}
+	]
+}

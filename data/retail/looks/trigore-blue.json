@@ -1,0 +1,36 @@
+{
+	"id": "trigore-blue",
+	"family": "hydra",
+	"modelGroup": "trigores",
+	"npcs": [
+		{
+			"id": 256606,
+			"tameable": true,
+			"level": {
+				"min": 82,
+				"max": 92
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "the-voidspire-voidstorm"
+				}
+			]
+		},
+		{
+			"id": 260954,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "eversong-woods"
+				}
+			]
+		}
+	]
+}

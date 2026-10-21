@@ -1,0 +1,27 @@
+{
+	"name": "Patterned Dark Brown Stag",
+	"variant": "Patterned Dark Brown",
+	"npcs": {
+		"56532": {
+			"name": "Tawnyhide Stag"
+		},
+		"58490": {
+			"name": "Wilderland Doe"
+		},
+		"59744": {
+			"name": "Silverhorn Yearling"
+		},
+		"140266": {
+			"name": "Broken-Horn the Ancient"
+		},
+		"140270": {
+			"name": "Wilderbuck"
+		},
+		"252836": {
+			"name": "Sunset Stag"
+		},
+		"254053": {
+			"name": "Sunset Stag"
+		}
+	}
+}

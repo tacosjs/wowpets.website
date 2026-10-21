@@ -1,0 +1,56 @@
+{
+	"id": "tigerloa",
+	"family": "spiritbeast",
+	"modelGroup": "loatigers",
+	"npcs": [
+		{
+			"id": 210868,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-emerald-dream"
+				}
+			]
+		},
+		{
+			"id": 123052,
+			"tameable": false,
+			"level": {
+				"min": 51,
+				"max": 51
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "temple-of-kimbul"
+				}
+			]
+		},
+		{
+			"id": 233755,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "undermine",
+					"area": "hovel-hill"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Matte-Grey Mechanostrider",
+	"variant": "Matte-Grey",
+	"npcs": {
+		"44576": {
+			"name": "Proto-Strider"
+		}
+	}
+}

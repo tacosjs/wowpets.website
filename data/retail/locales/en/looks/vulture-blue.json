@@ -1,0 +1,45 @@
+{
+	"name": "Blue-Grey Vulture",
+	"variant": "Blue-Grey",
+	"npcs": {
+		"462": {
+			"name": "Vultros"
+		},
+		"4692": {
+			"name": "Dread Swoop"
+		},
+		"4693": {
+			"name": "Dread Flyer"
+		},
+		"4694": {
+			"name": "Dread Ripper"
+		},
+		"7376": {
+			"name": "Sky Shadow"
+		},
+		"18470": {
+			"name": "Bonelasher"
+		},
+		"135662": {
+			"name": "Brinebeak Hatchling"
+		},
+		"137209": {
+			"name": "Bonebleach Buzzard"
+		},
+		"138963": {
+			"name": "Nestmother Acada"
+		},
+		"140794": {
+			"name": "Scartalon"
+		},
+		"140795": {
+			"name": "Dunecircler the Bleak"
+		},
+		"142361": {
+			"name": "Plaguefeather"
+		},
+		"142435": {
+			"name": "Plaguefeather"
+		}
+	}
+}

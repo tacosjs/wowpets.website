@@ -1,0 +1,78 @@
+{
+	"name": "Blue-Grey Rock Snail",
+	"variant": "Blue-Grey",
+	"npcs": {
+		"201066": {
+			"name": "Trudging Devourer"
+		},
+		"202522": {
+			"name": "Hoist Your Snails"
+		},
+		"203082": {
+			"name": "Gregg"
+		},
+		"203818": {
+			"name": "Beckite"
+		},
+		"203912": {
+			"name": "Deepbed Dawdler"
+		},
+		"203917": {
+			"name": "Deepbed Longwalker"
+		},
+		"204163": {
+			"name": "Deepbed Dawdler"
+		},
+		"204525": {
+			"name": "Roquefort"
+		},
+		"204555": {
+			"name": "Gregg"
+		},
+		"205121": {
+			"name": "Deepbed Dawdler"
+		},
+		"205203": {
+			"name": "Azure Dawdler"
+		},
+		"217123": {
+			"name": "Oblivious Shaleshell"
+		},
+		"217795": {
+			"name": "Slimy Fungivore"
+		},
+		"219304": {
+			"name": "Chasm Snail"
+		},
+		"219780": {
+			"name": "Chasm Snail"
+		},
+		"220764": {
+			"name": "Unsettled Snail"
+		},
+		"222040": {
+			"name": "Opalooze Mollusc"
+		},
+		"222155": {
+			"name": "Opalooze Mollusc"
+		},
+		"227185": {
+			"name": "Baer"
+		},
+		"227291": {
+			"name": "Nooka"
+		},
+		"258072": {
+			"name": "Incense Hauler"
+		},
+		"258078": {
+			"name": "Incense Hauler"
+		},
+		"258080": {
+			"name": "Incense Hauler"
+		},
+		"258081": {
+			"name": "Incense Hauler"
+		}
+	}
+}

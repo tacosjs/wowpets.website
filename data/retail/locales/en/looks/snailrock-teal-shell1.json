@@ -1,0 +1,15 @@
+{
+	"name": "Teal Crystalline Snail",
+	"variant": "Teal",
+	"npcs": {
+		"203477": {
+			"name": "Goopal"
+		},
+		"204615": {
+			"name": "Brulee"
+		},
+		"204778": {
+			"name": "The Eeper"
+		}
+	}
+}

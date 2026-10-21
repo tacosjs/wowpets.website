@@ -1,0 +1,36 @@
+{
+	"name": "Light Grey Worg",
+	"variant": "Light Grey",
+	"npcs": {
+		"118": {
+			"name": "Prowler"
+		},
+		"2923": {
+			"name": "Mangy Silvermane"
+		},
+		"2924": {
+			"name": "Silvermane Wolf"
+		},
+		"2925": {
+			"name": "Silvermane Howler"
+		},
+		"2926": {
+			"name": "Silvermane Stalker"
+		},
+		"10268": {
+			"name": "Gizrul the Slavener"
+		},
+		"12431": {
+			"name": "Gorefang"
+		},
+		"18476": {
+			"name": "Timber Worg"
+		},
+		"18477": {
+			"name": "Timber Worg Alpha"
+		},
+		"71011": {
+			"name": "Kor'kron Battlewolf"
+		}
+	}
+}

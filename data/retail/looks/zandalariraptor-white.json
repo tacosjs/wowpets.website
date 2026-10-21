@@ -1,0 +1,72 @@
+{
+	"id": "zandalariraptor-white",
+	"family": "raptor",
+	"modelGroup": "ravasaurs",
+	"npcs": [
+		{
+			"id": 139365,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "the-feeding-grounds"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 145444,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "mariners-row"
+				}
+			]
+		},
+		{
+			"id": 135791,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "nathavor"
+				}
+			]
+		},
+		{
+			"id": 260320,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "divers-arch"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		120587,
+		123649
+	]
+}

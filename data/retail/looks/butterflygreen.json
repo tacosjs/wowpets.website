@@ -1,0 +1,71 @@
+{
+	"id": "butterflygreen",
+	"family": "moth",
+	"modelGroup": "butterflies",
+	"npcs": [
+		{
+			"id": 198428,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus"
+				}
+			]
+		},
+		{
+			"id": 189744,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "passage-of-time"
+				}
+			]
+		},
+		{
+			"id": 210042,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "barrows-of-reverie"
+				}
+			]
+		},
+		{
+			"id": 211827,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "viridescent-thicket"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		227202,
+		227205,
+		191458
+	]
+}

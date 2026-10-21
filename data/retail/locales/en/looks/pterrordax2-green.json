@@ -1,0 +1,18 @@
+{
+	"name": "Green Pterrordax",
+	"variant": "Green",
+	"npcs": {
+		"122113": {
+			"name": "Pterrordax Skyrender"
+		},
+		"130403": {
+			"name": "Wild Pterrordax"
+		},
+		"229666": {
+			"name": "Saltwind Pterrordax"
+		},
+		"235230": {
+			"name": "Saltwind Pterrodax"
+		}
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"id": "tidalguardian-purple",
+	"family": "worm",
+	"modelGroup": "tidalworms",
+	"npcs": [
+		{
+			"id": 153890,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "brinestone-cove"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		153655,
+		214594,
+		223058,
+		217556,
+		224350,
+		227571,
+		223078
+	]
+}

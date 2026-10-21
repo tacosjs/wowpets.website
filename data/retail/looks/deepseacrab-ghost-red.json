@@ -1,0 +1,38 @@
+{
+	"id": "deepseacrab-ghost-red",
+	"family": "crab",
+	"modelGroup": "spikedcrabs",
+	"npcs": [
+		{
+			"id": 93226,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "tanaan-jungle",
+					"area": "scuttlers-coast"
+				}
+			]
+		},
+		{
+			"id": 109702,
+			"tameable": true,
+			"level": {
+				"min": 47,
+				"max": 47
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "azsuna",
+					"area": "temple-of-a-thousand-lights"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"name": "Silver & Grey Falcosaur",
+	"variant": "Silver & Grey",
+	"npcs": {
+		"115665": {
+			"name": "Snowfeather Nest-Keeper"
+		},
+		"115669": {
+			"name": "Snowfeather Patriarch"
+		},
+		"115673": {
+			"name": "Snowfeather Matriarch"
+		},
+		"115677": {
+			"name": "Young Snowfeather"
+		}
+	}
+}

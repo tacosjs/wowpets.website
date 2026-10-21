@@ -1,0 +1,22 @@
+{
+	"id": "hyena2goblin-blue",
+	"family": "hyena",
+	"modelGroup": "goblinhyenas",
+	"npcs": [
+		{
+			"id": 238609,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "undermine",
+					"area": "blackwater-marina"
+				}
+			]
+		}
+	]
+}

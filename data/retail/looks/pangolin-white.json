@@ -1,0 +1,67 @@
+{
+	"id": "pangolin-white",
+	"family": "scalehide",
+	"modelGroup": "pangos",
+	"npcs": [
+		{
+			"id": 237960,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "shrine-of-kulzi"
+				}
+			]
+		},
+		{
+			"id": 257515,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "bitterbark"
+				}
+			]
+		},
+		{
+			"id": 259960,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "maisara-deeps"
+				}
+			]
+		},
+		{
+			"id": 245636,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "solaarian-sunbath"
+				}
+			]
+		}
+	]
+}

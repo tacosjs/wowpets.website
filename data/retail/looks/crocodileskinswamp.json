@@ -1,0 +1,91 @@
+{
+	"id": "crocodileskinswamp",
+	"family": "crocolisk",
+	"modelGroup": "crocolisks",
+	"npcs": [
+		{
+			"id": 1693,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "loch-modan"
+				}
+			]
+		},
+		{
+			"id": 2635,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "northern-stranglethorn"
+				}
+			]
+		},
+		{
+			"id": 4341,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dustwallow-marsh"
+				}
+			]
+		},
+		{
+			"id": 4345,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dustwallow-marsh"
+				}
+			]
+		},
+		{
+			"id": 4343,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dustwallow-marsh"
+				}
+			]
+		},
+		{
+			"id": 45807,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "swamp-of-sorrows"
+				}
+			]
+		}
+	]
+}

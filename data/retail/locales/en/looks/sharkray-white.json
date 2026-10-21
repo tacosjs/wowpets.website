@@ -1,0 +1,12 @@
+{
+	"name": "Grey Fathom Ray",
+	"variant": "Grey",
+	"npcs": {
+		"150467": {
+			"name": "Colossal Sky Ray"
+		},
+		"222237": {
+			"name": "Soaring Behemoth"
+		}
+	}
+}

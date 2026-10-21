@@ -1,0 +1,21 @@
+{
+	"id": "ardenwealdstag-white-horns3",
+	"family": "stag",
+	"modelGroup": "runestags",
+	"npcs": [
+		{
+			"id": 179404,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "korthia"
+				}
+			]
+		}
+	]
+}

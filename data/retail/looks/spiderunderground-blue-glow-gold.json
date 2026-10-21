@@ -1,0 +1,27 @@
+{
+	"id": "spiderunderground-blue-glow-gold",
+	"family": "spider",
+	"modelGroup": "undercrawlers",
+	"npcs": [
+		{
+			"id": 218065,
+			"tameable": false,
+			"level": {
+				"min": 73,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "pillar-nest-xesh"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

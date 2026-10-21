@@ -1,0 +1,18 @@
+{
+	"name": "Crimson Skyfiend",
+	"variant": "Crimson",
+	"npcs": {
+		"261378": {
+			"name": "Gorged Skyfiend"
+		},
+		"261789": {
+			"name": "Caustic Abductor"
+		},
+		"261851": {
+			"name": "Caustic Abductor"
+		},
+		"266189": {
+			"name": "Flying Serpent"
+		}
+	}
+}

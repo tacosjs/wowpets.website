@@ -1,0 +1,39 @@
+{
+	"id": "lightningworg-lightblue",
+	"family": "spiritbeast",
+	"modelGroup": "spiritstormwolves",
+	"npcs": [
+		{
+			"id": 151133,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-storm-peaks",
+					"area": "temple-of-storms"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 151096,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ulduar",
+					"area": "spark-of-the-imagination-hati-quest-phase"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"id": "progenitorhawk-red-armor",
+	"family": "birdofprey",
+	"modelGroup": "raptoras",
+	"npcs": [
+		{
+			"id": 183291,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zereth-mortis"
+				}
+			]
+		},
+		{
+			"id": 181352,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "provis-fauna"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,156 @@
+{
+	"id": "sporebat3-green-green",
+	"family": "sporebat",
+	"modelGroup": "sporegliders",
+	"npcs": [
+		{
+			"id": 237704,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "fungal-cleft"
+				}
+			]
+		},
+		{
+			"id": 256246,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar"
+				}
+			]
+		},
+		{
+			"id": 249849,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "harandar"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 250168,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "ahlua-wetland"
+				}
+			]
+		},
+		{
+			"id": 260031,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "ahlua-wetland"
+				}
+			]
+		},
+		{
+			"id": 255876,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "encroaching-bloom"
+				}
+			]
+		},
+		{
+			"id": 256061,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "veilroot-clearing"
+				}
+			]
+		},
+		{
+			"id": 249409,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "gloom-mire"
+				}
+			]
+		},
+		{
+			"id": 257933,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "the-den"
+				}
+			]
+		},
+		{
+			"id": 264342,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "naigtal",
+					"area": "soltian-marsh"
+				}
+			]
+		}
+	]
+}

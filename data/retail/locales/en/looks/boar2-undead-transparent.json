@@ -1,0 +1,9 @@
+{
+	"name": "Ghostly Diseased Boar",
+	"variant": "Ghostly Diseased",
+	"npcs": {
+		"50947": {
+			"name": "Varah"
+		}
+	}
+}

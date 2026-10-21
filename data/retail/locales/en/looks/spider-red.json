@@ -1,0 +1,22 @@
+{
+	"name": "Red Spider",
+	"variant": "Red",
+	"npcs": {
+		"155779": {
+			"name": "Tomb Burster",
+			"title": "Dread Crawler Queen"
+		},
+		"159460": {
+			"name": "Nightwidow Horror"
+		},
+		"161256": {
+			"name": "Tomb Lurker"
+		},
+		"162640": {
+			"name": "Hivax"
+		},
+		"199127": {
+			"name": "Vault Lurker"
+		}
+	}
+}

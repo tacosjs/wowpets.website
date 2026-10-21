@@ -1,0 +1,9 @@
+{
+	"name": "Green Mawrat",
+	"variant": "Green",
+	"npcs": {
+		"174712": {
+			"name": "Scavenging Mawrat"
+		}
+	}
+}

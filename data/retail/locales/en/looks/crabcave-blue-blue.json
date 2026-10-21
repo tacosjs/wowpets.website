@@ -1,0 +1,9 @@
+{
+	"name": "Blue & Yellow Cave Crab",
+	"variant": "Blue & Yellow",
+	"npcs": {
+		"239245": {
+			"name": "Daisy"
+		}
+	}
+}

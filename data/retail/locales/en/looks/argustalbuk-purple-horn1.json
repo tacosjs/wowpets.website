@@ -1,0 +1,15 @@
+{
+	"name": "Purple Rugged Talbuk w/ Sideward Horns",
+	"variant": "Purple w/ Sideward Horns",
+	"npcs": {
+		"121565": {
+			"name": "Shadowcrazed Chitinbuk"
+		},
+		"126862": {
+			"name": "Baruut the Bloodthirsty"
+		},
+		"126939": {
+			"name": "Ruinwalker Stag"
+		}
+	}
+}

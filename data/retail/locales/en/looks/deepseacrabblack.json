@@ -1,0 +1,58 @@
+{
+	"name": "Black Spiked Crab",
+	"variant": "Black",
+	"npcs": {
+		"40889": {
+			"name": "Sandskin Pincer"
+		},
+		"42912": {
+			"name": "Snaptrap",
+			"title": "Larok's Pet"
+		},
+		"67896": {
+			"name": "Polluted Viseclaw"
+		},
+		"68583": {
+			"name": "Polluted Viseclaw Fry"
+		},
+		"68584": {
+			"name": "Polluted Viseclaw Scuttler"
+		},
+		"89288": {
+			"name": "Scuttleback Pincher"
+		},
+		"111387": {
+			"name": "Deep Water Clacker"
+		},
+		"111631": {
+			"name": "Tamed Crab"
+		},
+		"111887": {
+			"name": "Young Deep Water Clacker"
+		},
+		"120570": {
+			"name": "Agitated Fel Skitterer"
+		},
+		"134794": {
+			"name": "Darklurker"
+		},
+		"154935": {
+			"name": "Gorgonian Scavenger"
+		},
+		"214550": {
+			"name": "Deepwater Snapper"
+		},
+		"215752": {
+			"name": "Deepclaw Crab"
+		},
+		"219365": {
+			"name": "Strange Shore Crawler"
+		},
+		"219432": {
+			"name": "Shore Crawler"
+		},
+		"222773": {
+			"name": "Undersea Scuttler"
+		}
+	}
+}

@@ -1,0 +1,71 @@
+{
+	"id": "spiderunderground-yellow-glow-blue",
+	"family": "spider",
+	"modelGroup": "undercrawlers",
+	"npcs": [
+		{
+			"id": 219857,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "pillar-nest-xesh"
+				}
+			]
+		},
+		{
+			"id": 215769,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "chittering-den"
+				}
+			]
+		},
+		{
+			"id": 217803,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "chittering-den"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		220257,
+		215739,
+		222173,
+		214962,
+		216249,
+		222183,
+		206078,
+		206094,
+		231380,
+		226675,
+		223329,
+		219912
+	]
+}

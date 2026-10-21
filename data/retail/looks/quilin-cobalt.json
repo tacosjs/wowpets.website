@@ -1,0 +1,38 @@
+{
+	"id": "quilin-cobalt",
+	"family": "stonehound",
+	"modelGroup": "quilen",
+	"npcs": [
+		{
+			"id": 62254,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "crypt-of-forgotten-kings"
+				}
+			]
+		},
+		{
+			"id": 139466,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		153096
+	]
+}

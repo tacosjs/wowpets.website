@@ -1,0 +1,15 @@
+{
+	"name": "Green Gorm",
+	"variant": "Green",
+	"npcs": {
+		"159016": {
+			"name": "Agitated Gorm"
+		},
+		"163185": {
+			"name": "Evolved Battlemite"
+		},
+		"163433": {
+			"name": "Gorm Encroacher"
+		}
+	}
+}

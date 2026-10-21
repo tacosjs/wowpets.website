@@ -1,0 +1,23 @@
+{
+	"id": "primaldragonfly-yellow",
+	"family": "waterstrider",
+	"modelGroup": "skitterflies",
+	"npcs": [],
+	"alsoNpcs": [
+		198592,
+		189051,
+		189614,
+		183986,
+		183541,
+		191061,
+		193302,
+		191365,
+		184856,
+		184855,
+		185644,
+		191730,
+		193703,
+		185643,
+		198420
+	]
+}

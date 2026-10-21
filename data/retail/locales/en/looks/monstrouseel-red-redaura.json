@@ -1,0 +1,12 @@
+{
+	"name": "Red Electric Eel",
+	"variant": "Red",
+	"npcs": {
+		"221954": {
+			"name": "Sunken River Eel"
+		},
+		"228506": {
+			"name": "Sunken River Eel"
+		}
+	}
+}

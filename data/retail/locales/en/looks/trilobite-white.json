@@ -1,0 +1,34 @@
+{
+	"name": "Albino Krolusk",
+	"variant": "Albino",
+	"npcs": {
+		"124016": {
+			"name": "Saltspine Krolusk"
+		},
+		"134617": {
+			"name": "Krolusk Hatchling"
+		},
+		"136553": {
+			"name": "Saltspine Krolusk"
+		},
+		"138288": {
+			"name": "Ghost of the Deep"
+		},
+		"223056": {
+			"name": "Elusive Krolusk"
+		},
+		"223074": {
+			"name": "Elusive Razortusk Krolusk"
+		},
+		"223091": {
+			"name": "Grimlurk"
+		},
+		"230830": {
+			"name": "Storm-Infused Skittersong"
+		},
+		"232195": {
+			"name": "Urmag",
+			"title": "The Terror Below"
+		}
+	}
+}

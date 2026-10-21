@@ -1,0 +1,9 @@
+{
+	"name": "Green Spectral Writhing Serpents",
+	"variant": "Green Spectral",
+	"npcs": {
+		"264350": {
+			"name": "Summoned Coiler"
+		}
+	}
+}

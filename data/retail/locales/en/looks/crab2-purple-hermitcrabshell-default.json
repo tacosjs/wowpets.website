@@ -1,0 +1,9 @@
+{
+	"name": "Purple Hermit Crab w/ Plain Shell",
+	"variant": "Purple",
+	"npcs": {
+		"128631": {
+			"name": "Tidal Clickshell"
+		}
+	}
+}

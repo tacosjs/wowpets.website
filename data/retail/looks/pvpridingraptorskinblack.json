@@ -1,0 +1,22 @@
+{
+	"id": "pvpridingraptorskinblack",
+	"family": "raptor",
+	"modelGroup": "armoredraptors",
+	"npcs": [
+		{
+			"id": 69306,
+			"tameable": true,
+			"level": {
+				"min": 32,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-thunder",
+					"area": "the-beast-pens"
+				}
+			]
+		}
+	]
+}

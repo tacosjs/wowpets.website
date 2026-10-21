@@ -1,0 +1,15 @@
+{
+	"name": "Green & Tan Dreamstag w/ Large Antlers",
+	"variant": "Green & Tan w/ Large Antlers",
+	"npcs": {
+		"207620": {
+			"name": "Resilient Gladehart"
+		},
+		"207785": {
+			"name": "Irate Gladehart"
+		},
+		"212133": {
+			"name": "Elusive Verdant Gladewarden"
+		}
+	}
+}

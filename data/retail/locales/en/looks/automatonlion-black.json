@@ -1,0 +1,48 @@
+{
+	"name": "Black Phalynx",
+	"variant": "Black",
+	"npcs": {
+		"156242": {
+			"name": "Animated Prowler"
+		},
+		"156564": {
+			"name": "Ravening Guardian"
+		},
+		"157963": {
+			"name": "Animated Prowler"
+		},
+		"160355": {
+			"name": "Converted Clawguard"
+		},
+		"162636": {
+			"name": "Animated Prowler"
+		},
+		"165312": {
+			"name": "Forsworn Phalynx"
+		},
+		"166177": {
+			"name": "Darkturned Clawguard"
+		},
+		"166453": {
+			"name": "Darkturned Clawguard"
+		},
+		"166872": {
+			"name": "Umbral Phalynx"
+		},
+		"167508": {
+			"name": "Umbral Phalynx"
+		},
+		"169980": {
+			"name": "Dusksteel Phalynx"
+		},
+		"170288": {
+			"name": "Darkturned Clawguard"
+		},
+		"171010": {
+			"name": "Corrupted Clawguard"
+		},
+		"172053": {
+			"name": "Forsworn Clawguard"
+		}
+	}
+}

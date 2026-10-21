@@ -1,0 +1,67 @@
+{
+	"id": "kareshroamer-black",
+	"family": "stag",
+	"modelGroup": "slatebacks",
+	"npcs": [
+		{
+			"id": 249799,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "the-oasis"
+				}
+			]
+		},
+		{
+			"id": 232648,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "the-oasis"
+				}
+			]
+		},
+		{
+			"id": 232785,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "the-oasis"
+				}
+			]
+		},
+		{
+			"id": 232780,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "the-oasis"
+				}
+			]
+		}
+	]
+}

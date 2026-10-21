@@ -1,0 +1,42 @@
+{
+	"id": "armoredon-ice",
+	"family": "scalehide",
+	"modelGroup": "armoredons",
+	"npcs": [
+		{
+			"id": 192759,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		},
+		{
+			"id": 183612,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "vakthros-range"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		194692,
+		190339,
+		193417,
+		196134
+	]
+}

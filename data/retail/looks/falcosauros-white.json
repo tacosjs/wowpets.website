@@ -1,0 +1,67 @@
+{
+	"id": "falcosauros-white",
+	"family": "raptor",
+	"modelGroup": "falcosaurs",
+	"npcs": [
+		{
+			"id": 115665,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "misty-coast"
+				}
+			]
+		},
+		{
+			"id": 115669,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "misty-coast"
+				}
+			]
+		},
+		{
+			"id": 115677,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "misty-coast"
+				}
+			]
+		},
+		{
+			"id": 115673,
+			"tameable": true,
+			"level": {
+				"min": 46,
+				"max": 46
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "misty-coast"
+				}
+			]
+		}
+	]
+}

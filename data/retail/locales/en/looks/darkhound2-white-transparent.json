@@ -1,0 +1,12 @@
+{
+	"name": "Ghostly Light Grey Darkhound",
+	"variant": "Ghostly Light Grey",
+	"npcs": {
+		"16178": {
+			"name": "Phase Hound"
+		},
+		"157332": {
+			"name": "Bonemauler Alpha"
+		}
+	}
+}

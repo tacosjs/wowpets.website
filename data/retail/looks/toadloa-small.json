@@ -1,0 +1,93 @@
+{
+	"id": "toadloa-small",
+	"family": "hopper",
+	"modelGroup": "diretoads",
+	"npcs": [
+		{
+			"id": 129117,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "frogmarsh"
+				}
+			]
+		},
+		{
+			"id": 125946,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "frogmarsh"
+				}
+			]
+		},
+		{
+			"id": 126039,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "frogmarsh"
+				}
+			]
+		},
+		{
+			"id": 125508,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "kragwas-shore"
+				}
+			]
+		},
+		{
+			"id": 136030,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "zanchul"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		136475,
+		120554,
+		194051,
+		184334
+	]
+}

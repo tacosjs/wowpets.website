@@ -1,0 +1,15 @@
+{
+	"name": "Purple-Armoured Dark Red Tauralus",
+	"variant": "Purple-Armoured Dark Red",
+	"npcs": {
+		"170955": {
+			"name": "Battleforged Tauralus"
+		},
+		"170971": {
+			"name": "Battle Ready Tauralus"
+		},
+		"180307": {
+			"name": "Borrhas the Cold"
+		}
+	}
+}

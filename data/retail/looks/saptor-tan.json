@@ -1,0 +1,10 @@
+{
+	"id": "saptor-tan",
+	"family": "raptor",
+	"modelGroup": "saptors",
+	"npcs": [],
+	"alsoNpcs": [
+		256268,
+		250170
+	]
+}

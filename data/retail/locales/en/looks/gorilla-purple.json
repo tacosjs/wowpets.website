@@ -1,0 +1,12 @@
+{
+	"name": "Purple-Black Gorilla",
+	"variant": "Purple-Black",
+	"npcs": {
+		"131926": {
+			"name": "Tsunga"
+		},
+		"140083": {
+			"name": "Kula the Thunderer"
+		}
+	}
+}

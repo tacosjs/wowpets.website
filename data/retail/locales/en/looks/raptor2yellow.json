@@ -1,0 +1,24 @@
+{
+	"name": "Yellow Raptor",
+	"variant": "Yellow",
+	"npcs": {
+		"80694": {
+			"name": "Stonescale"
+		},
+		"85970": {
+			"name": "Riptar"
+		},
+		"88495": {
+			"name": "Bloodtalon Raptor"
+		},
+		"88957": {
+			"name": "Young Razorclaw"
+		},
+		"89744": {
+			"name": "Scaleclaw Lashtail"
+		},
+		"105650": {
+			"name": "Confined Raptor"
+		}
+	}
+}

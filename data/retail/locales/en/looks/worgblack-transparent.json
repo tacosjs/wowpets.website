@@ -1,0 +1,9 @@
+{
+	"name": "Ghostly Black Saber Worg",
+	"variant": "Ghostly Black",
+	"npcs": {
+		"50908": {
+			"name": "Nighthowl"
+		}
+	}
+}

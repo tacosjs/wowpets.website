@@ -1,0 +1,9 @@
+{
+	"name": "Bronze Hermit Crab w/ Purple & Green Shell",
+	"variant": "Bronze",
+	"npcs": {
+		"152426": {
+			"name": "Glimmershell Hulk"
+		}
+	}
+}

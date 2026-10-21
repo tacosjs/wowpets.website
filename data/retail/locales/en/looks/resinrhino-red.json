@@ -1,0 +1,18 @@
+{
+	"name": "Teal-Purple Chloroceros",
+	"variant": "Teal-Purple",
+	"npcs": {
+		"243941": {
+			"name": "Stemsnap"
+		},
+		"244376": {
+			"name": "Ahl'ua Bull"
+		},
+		"253315": {
+			"name": "Juvenile Chloroceros"
+		},
+		"253316": {
+			"name": "Violet Chloroceros"
+		}
+	}
+}

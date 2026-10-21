@@ -1,0 +1,15 @@
+{
+	"name": "Spotted Yellow Giraffe",
+	"variant": "Spotted Yellow",
+	"npcs": {
+		"3248": {
+			"name": "Barrens Giraffe"
+		},
+		"18739": {
+			"name": "Giraffe"
+		},
+		"37082": {
+			"name": "Dusthoof Giraffe"
+		}
+	}
+}

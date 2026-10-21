@@ -1,0 +1,29 @@
+{
+	"name": "Bear",
+	"modelGroups": {
+		"amanibears": {
+			"name": "Amani Bears"
+		},
+		"dreambears": {
+			"name": "Dream Bears"
+		},
+		"thornbears": {
+			"name": "Thornbears"
+		},
+		"icebears": {
+			"name": "Ice Bears"
+		},
+		"primalbears": {
+			"name": "Primal Bears"
+		},
+		"bears": {
+			"name": "Bears"
+		},
+		"retrobears": {
+			"name": "Classic Bears"
+		},
+		"classicamanibears": {
+			"name": "Classic Amani Bears"
+		}
+	}
+}

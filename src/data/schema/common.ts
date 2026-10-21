@@ -23,7 +23,17 @@ export const versionFacts = z.strictObject({
 export const zoneFacts = z.strictObject({
 	id: slug,
 	wowId: gameId.optional(),
-	kind: z.enum(["zone", "area", "city", "dungeon", "raid", "scenario"]),
+	kind: z.enum([
+		"zone",
+		"area",
+		"city",
+		"dungeon",
+		"raid",
+		"scenario",
+		"battleground",
+		"warfront",
+		"delve",
+	]),
 	/** Areas point to the zone that contains them. */
 	parent: slug.optional(),
 });
@@ -61,6 +71,7 @@ export const condition = z.discriminatedUnion("kind", [
 	z.strictObject({ kind: z.literal("quest"), questId: gameId.optional() }),
 	z.strictObject({ kind: z.literal("invasion") }),
 	z.strictObject({ kind: z.literal("summoned") }),
+	z.strictObject({ kind: z.literal("phase") }),
 ]);
 
 export const npcFactsShape = {
@@ -68,8 +79,10 @@ export const npcFactsShape = {
 	tameable: z.boolean(),
 	level: levelRange.optional(),
 	classification,
-	locations: z.array(location).min(1),
+	locations: z.array(location),
 	keepsName: z.boolean().optional(),
+	/** No longer in the game. */
+	retired: z.boolean().optional(),
 	conditions: z.array(condition).optional(),
 };
 

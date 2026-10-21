@@ -1,0 +1,48 @@
+{
+	"name": "Silver Draenor Boar",
+	"variant": "Silver",
+	"npcs": {
+		"72934": {
+			"name": "Trained Coldsnout"
+		},
+		"75416": {
+			"name": "Coldsnout Boar"
+		},
+		"75417": {
+			"name": "Coldsnout Piglet"
+		},
+		"77105": {
+			"name": "Gutgore",
+			"title": "General Vul'gath's Pet"
+		},
+		"77478": {
+			"name": "Shardtusk Boar"
+		},
+		"77994": {
+			"name": "Bloodmaul Dire Boar"
+		},
+		"78548": {
+			"name": "Wild Goretusk"
+		},
+		"79146": {
+			"name": "Bloody Tusk",
+			"title": "Yaga the Scarred's Companion"
+		},
+		"79147": {
+			"name": "Severmaw",
+			"title": "Yaga the Scarred's Companion"
+		},
+		"79756": {
+			"name": "Coldsnout Sow"
+		},
+		"80174": {
+			"name": "Pack Boar"
+		},
+		"140099": {
+			"name": "Thundersnort the Loud"
+		},
+		"140100": {
+			"name": "Warsnort"
+		}
+	}
+}

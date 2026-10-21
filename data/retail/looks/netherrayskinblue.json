@@ -1,0 +1,49 @@
+{
+	"id": "netherrayskinblue",
+	"family": "ray",
+	"modelGroup": "netherrays",
+	"npcs": [
+		{
+			"id": 20196,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zangarmarsh"
+				}
+			]
+		},
+		{
+			"id": 17731,
+			"tameable": true,
+			"level": {
+				"min": 11,
+				"max": 31
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-underbog"
+				}
+			]
+		},
+		{
+			"id": 21128,
+			"tameable": true,
+			"level": {
+				"min": 12,
+				"max": 32
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-slave-pens"
+				}
+			]
+		}
+	]
+}

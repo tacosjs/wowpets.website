@@ -1,0 +1,22 @@
+{
+	"id": "spectralsaberworg",
+	"family": "spiritbeast",
+	"modelGroup": "spiritsaberworgs",
+	"npcs": [
+		{
+			"id": 35189,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "the-storm-peaks"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

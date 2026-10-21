@@ -1,0 +1,95 @@
+{
+	"id": "basilisk-outlandviolet",
+	"family": "basilisk",
+	"modelGroup": "outlandbasilisks",
+	"npcs": [
+		{
+			"id": 71721,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "daggermaw-ravine"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 70858,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "daggermaw-ravine"
+				}
+			]
+		},
+		{
+			"id": 21816,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "terokkar-forest"
+				}
+			]
+		},
+		{
+			"id": 21854,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "terokkar-forest"
+				}
+			]
+		},
+		{
+			"id": 20607,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "netherstorm"
+				}
+			]
+		},
+		{
+			"id": 75421,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "daggermaw-ravine"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"id": "fireflyskinmagenta",
+	"family": "wasp",
+	"modelGroup": "fireflies",
+	"npcs": [
+		{
+			"id": 75471,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "the-nightmarsh"
+				}
+			]
+		}
+	]
+}

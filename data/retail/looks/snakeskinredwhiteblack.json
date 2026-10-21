@@ -1,0 +1,70 @@
+{
+	"id": "snakeskinredwhiteblack",
+	"family": "serpent",
+	"modelGroup": "groundsnakes",
+	"npcs": [
+		{
+			"id": 44595,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaris"
+				}
+			]
+		},
+		{
+			"id": 23026,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-outland",
+					"area": "twilight-ridge"
+				}
+			]
+		},
+		{
+			"id": 128115,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "forge-of-aeons"
+				}
+			]
+		},
+		{
+			"id": 140693,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		29630,
+		51676,
+		39444,
+		162375
+	]
+}

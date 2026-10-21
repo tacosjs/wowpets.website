@@ -1,0 +1,10 @@
+{
+	"id": "vulture-albatrosspink",
+	"family": "birdofprey",
+	"modelGroup": "albatrosses",
+	"npcs": [],
+	"alsoNpcs": [
+		161133,
+		128625
+	]
+}

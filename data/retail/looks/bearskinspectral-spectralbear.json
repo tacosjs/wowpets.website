@@ -1,0 +1,22 @@
+{
+	"id": "bearskinspectral-spectralbear",
+	"family": "spiritbeast",
+	"modelGroup": "spiritbears",
+	"npcs": [
+		{
+			"id": 38453,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "grizzly-hills"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

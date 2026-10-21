@@ -1,0 +1,64 @@
+{
+	"id": "siberiantigerfrost",
+	"family": "cat",
+	"modelGroup": "grandtigers",
+	"npcs": [
+		{
+			"id": 50850,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 35
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "the-jade-forest"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 72805,
+			"tameable": true,
+			"level": {
+				"min": 36,
+				"max": 36
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "timeless-isle"
+				}
+			]
+		},
+		{
+			"id": 135648,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 135647,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	]
+}

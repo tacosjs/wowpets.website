@@ -1,0 +1,75 @@
+{
+	"name": "Black Mastiff",
+	"variant": "Black",
+	"npcs": {
+		"27329": {
+			"name": "Onslaught Bloodhound"
+		},
+		"35631": {
+			"name": "Gilnean Mastiff"
+		},
+		"36405": {
+			"name": "Attack Mastiff"
+		},
+		"36713": {
+			"name": "Gilnean Mastiff"
+		},
+		"37718": {
+			"name": "Mountain Mastiff"
+		},
+		"38468": {
+			"name": "Gilnean Mastiff"
+		},
+		"41561": {
+			"name": "Wary Mastiff"
+		},
+		"48124": {
+			"name": "Rabid Mastiff"
+		},
+		"51048": {
+			"name": "Rexxus"
+		},
+		"91837": {
+			"name": "Hunting Mastiff"
+		},
+		"92956": {
+			"name": "Attack Mastiff"
+		},
+		"109559": {
+			"name": "Gilnean Mastiff"
+		},
+		"128551": {
+			"name": "Irontide Mastiff"
+		},
+		"129070": {
+			"name": "Wild Dog"
+		},
+		"129857": {
+			"name": "Blacktooth Bloodhound"
+		},
+		"135019": {
+			"name": "Stray Dog"
+		},
+		"135234": {
+			"name": "Diseased Mastiff"
+		},
+		"135773": {
+			"name": "Irontide Mastiff"
+		},
+		"137152": {
+			"name": "Company Watchdog"
+		},
+		"142016": {
+			"name": "Newstead Hound"
+		},
+		"146827": {
+			"name": "Feral Dog"
+		},
+		"146828": {
+			"name": "Feral Pup"
+		},
+		"167352": {
+			"name": "Dog"
+		}
+	}
+}

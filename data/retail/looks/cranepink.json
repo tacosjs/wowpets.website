@@ -1,0 +1,82 @@
+{
+	"id": "cranepink",
+	"family": "waterfowl",
+	"modelGroup": "cranes",
+	"npcs": [
+		{
+			"id": 50885,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 72762,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "timeless-isle"
+				}
+			]
+		},
+		{
+			"id": 240070,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "undermine",
+					"area": "emerald-hills-golf-course"
+				}
+			]
+		},
+		{
+			"id": 230931,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "undermine",
+					"area": "emerald-hills-golf-course"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 232417,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "undermine",
+					"area": "blackwater-marina"
+				}
+			]
+		}
+	]
+}

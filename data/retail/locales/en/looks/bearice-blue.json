@@ -1,0 +1,9 @@
+{
+	"name": "Blue Ice Bear",
+	"variant": "Blue",
+	"npcs": {
+		"192043": {
+			"name": "Frostjaw"
+		}
+	}
+}

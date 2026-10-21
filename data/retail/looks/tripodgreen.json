@@ -1,0 +1,66 @@
+{
+	"id": "tripodgreen",
+	"family": "waterstrider",
+	"modelGroup": "fenstriders",
+	"npcs": [
+		{
+			"id": 18281,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zangarmarsh"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 18135,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zangarmarsh"
+				}
+			]
+		},
+		{
+			"id": 18680,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "zangarmarsh"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 84640,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-draenor",
+					"area": "zangar-shore"
+				}
+			]
+		}
+	]
+}

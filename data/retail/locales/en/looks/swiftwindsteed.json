@@ -1,0 +1,9 @@
+{
+	"name": "Grey-Scaled White Windsteed",
+	"variant": "Grey-Scaled White",
+	"npcs": {
+		"231258": {
+			"name": "Serene Windsteed"
+		}
+	}
+}

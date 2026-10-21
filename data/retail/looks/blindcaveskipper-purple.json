@@ -1,0 +1,82 @@
+{
+	"id": "blindcaveskipper-purple",
+	"family": "hopper",
+	"modelGroup": "skippers",
+	"npcs": [
+		{
+			"id": 219962,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "lightless-channels"
+				}
+			]
+		},
+		{
+			"id": 226421,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps"
+				}
+			]
+		},
+		{
+			"id": 226929,
+			"tameable": true,
+			"level": {
+				"min": 73,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps"
+				}
+			]
+		},
+		{
+			"id": 227132,
+			"tameable": false,
+			"level": {
+				"min": 75,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "the-waterworks-the-ringing-deeps"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		226625,
+		214960,
+		224578,
+		224789,
+		220736,
+		229812,
+		230917,
+		230918,
+		237282,
+		214801,
+		237583,
+		250333,
+		256227,
+		256365,
+		257106
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"name": "Blue Pterrordax",
+	"variant": "Blue",
+	"npcs": {
+		"122114": {
+			"name": "Pterrordax"
+		},
+		"122986": {
+			"name": "Wild Skyscreamer"
+		},
+		"125207": {
+			"name": "Peering Shrieker"
+		},
+		"128434": {
+			"name": "Feasting Skyscreamer"
+		},
+		"128647": {
+			"name": "Seaspray Hatchling"
+		},
+		"128653": {
+			"name": "Young Seaspray"
+		},
+		"128658": {
+			"name": "Seaspray Pterrordax"
+		},
+		"130197": {
+			"name": "Nalu'kana"
+		},
+		"131718": {
+			"name": "Bramblewing"
+		},
+		"131836": {
+			"name": "Trained Pterrordax"
+		},
+		"135450": {
+			"name": "Wild Skyscreamer"
+		}
+	}
+}

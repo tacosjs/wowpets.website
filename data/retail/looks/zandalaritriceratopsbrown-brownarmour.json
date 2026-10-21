@@ -1,0 +1,42 @@
+{
+	"id": "zandalaritriceratopsbrown-brownarmour",
+	"family": "direhorn",
+	"modelGroup": "armoreddirehorns",
+	"npcs": [
+		{
+			"id": 69795,
+			"tameable": true,
+			"level": {
+				"min": 32,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "isle-of-thunder",
+					"area": "diremoor"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 69277,
+			"tameable": false,
+			"level": {
+				"min": 32,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "isle-of-thunder",
+					"area": "the-beast-pens"
+				}
+			]
+		}
+	]
+}

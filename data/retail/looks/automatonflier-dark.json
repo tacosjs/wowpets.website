@@ -1,0 +1,41 @@
+{
+	"id": "automatonflier-dark",
+	"family": "mechanical",
+	"modelGroup": "aquilons",
+	"npcs": [
+		{
+			"id": 181212,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "citadel-of-loyalty"
+				}
+			]
+		},
+		{
+			"id": 180146,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "korthia"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

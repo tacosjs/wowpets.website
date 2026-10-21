@@ -1,0 +1,22 @@
+{
+	"id": "hydraskinred",
+	"family": "hydra",
+	"modelGroup": "hydras",
+	"npcs": [
+		{
+			"id": 3652,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "wailing-caverns"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

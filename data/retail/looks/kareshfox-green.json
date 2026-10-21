@@ -1,0 +1,55 @@
+{
+	"id": "kareshfox-green",
+	"family": "fox",
+	"modelGroup": "thorntails",
+	"npcs": [
+		{
+			"id": 249797,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "the-oasis"
+				}
+			]
+		},
+		{
+			"id": 233346,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "the-oasis"
+				}
+			]
+		},
+		{
+			"id": 244056,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "the-oasis"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		234150
+	]
+}

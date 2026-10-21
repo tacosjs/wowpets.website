@@ -1,0 +1,15 @@
+{
+	"name": "Yellow-Green Dire Toad",
+	"variant": "Yellow-Green",
+	"npcs": {
+		"256853": {
+			"name": "Radiant Dartling"
+		},
+		"256854": {
+			"name": "Radiant Dartling"
+		},
+		"264502": {
+			"name": "Skittish Dart Frog"
+		}
+	}
+}

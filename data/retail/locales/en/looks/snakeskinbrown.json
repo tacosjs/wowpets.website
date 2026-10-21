@@ -1,0 +1,24 @@
+{
+	"name": "Brown Snake",
+	"variant": "Brown",
+	"npcs": {
+		"44568": {
+			"name": "Dune Rattler"
+		},
+		"47283": {
+			"name": "Sand Serpent"
+		},
+		"52402": {
+			"name": "Venomtooth"
+		},
+		"77067": {
+			"name": "Gorgrond Python"
+		},
+		"85979": {
+			"name": "Gorgrond Water Snake"
+		},
+		"128622": {
+			"name": "Swamp Snake"
+		}
+	}
+}

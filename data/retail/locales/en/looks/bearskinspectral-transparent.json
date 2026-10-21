@@ -1,0 +1,12 @@
+{
+	"name": "Blue Ghost Bear",
+	"variant": "Blue Ghost Bear",
+	"npcs": {
+		"59783": {
+			"name": "Deepwoods Spirit"
+		},
+		"59784": {
+			"name": "Spirit Cub"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Red Eversong Lynx w/ Diadem",
+	"variant": "Red w/ Diadem",
+	"npcs": {
+		"255348": {
+			"name": "Dame Bloodshed"
+		}
+	}
+}

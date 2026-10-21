@@ -1,0 +1,12 @@
+{
+	"name": "Orange Wilderling",
+	"variant": "Orange Wilderling",
+	"npcs": {
+		"180231": {
+			"name": "Brilliant Wildclaw"
+		},
+		"180232": {
+			"name": "Young Wildclaw"
+		}
+	}
+}

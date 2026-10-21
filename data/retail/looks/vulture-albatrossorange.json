@@ -1,0 +1,130 @@
+{
+	"id": "vulture-albatrossorange",
+	"family": "birdofprey",
+	"modelGroup": "albatrosses",
+	"npcs": [
+		{
+			"id": 126387,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound"
+				}
+			]
+		},
+		{
+			"id": 139233,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "umber-shore"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 127553,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "mudfish-lodge"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 136914,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley"
+				},
+				{
+					"zone": "mechagon"
+				}
+			]
+		},
+		{
+			"id": 197936,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		},
+		{
+			"id": 193590,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores"
+				}
+			]
+		},
+		{
+			"id": 227668,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "siren-isle"
+				}
+			]
+		},
+		{
+			"id": 228155,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "siren-isle",
+					"area": "jetsam-drift"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		161133
+	]
+}

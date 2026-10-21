@@ -1,0 +1,77 @@
+{
+	"id": "crab2-purple",
+	"family": "crab",
+	"modelGroup": "grandcrabs",
+	"npcs": [
+		{
+			"id": 132650,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "zebahari"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 257265,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "nalorakks-prowl"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 123290,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		127496,
+		151327,
+		188334,
+		189313,
+		193604,
+		197955,
+		188328,
+		193236,
+		225889,
+		214436,
+		222156,
+		224876,
+		222312,
+		224508,
+		227201,
+		254969,
+		190133,
+		182439
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"id": "manaray-magenta",
+	"family": "ray",
+	"modelGroup": "manarays",
+	"npcs": [
+		{
+			"id": 123511,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eredath",
+					"area": "conservatory-of-the-arcane"
+				}
+			]
+		},
+		{
+			"id": 122022,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eredath"
+				}
+			]
+		},
+		{
+			"id": 234284,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "tazavesh-karesh"
+				}
+			]
+		}
+	]
+}

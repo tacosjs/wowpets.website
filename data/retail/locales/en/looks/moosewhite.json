@@ -1,0 +1,21 @@
+{
+	"name": "Silver Elderhorn",
+	"variant": "Silver",
+	"npcs": {
+		"96410": {
+			"name": "Majestic Elderhorn"
+		},
+		"103681": {
+			"name": "Well-Fed Ironhorn Bull"
+		},
+		"104757": {
+			"name": "Winter Elderhorn"
+		},
+		"146110": {
+			"name": "Waxing Moon"
+		},
+		"146114": {
+			"name": "Surging Winds"
+		}
+	}
+}

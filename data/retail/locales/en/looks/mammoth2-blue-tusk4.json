@@ -1,0 +1,18 @@
+{
+	"name": "Blue-Grey Mammoth w/ Large Tusks",
+	"variant": "Blue-Grey",
+	"npcs": {
+		"186471": {
+			"name": "Iskaara Mammoth"
+		},
+		"193514": {
+			"name": "Snowy Mammoth Bull"
+		},
+		"194964": {
+			"name": "Snowy Mammoth"
+		},
+		"255764": {
+			"name": "Mammoth Calf"
+		}
+	}
+}

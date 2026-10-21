@@ -1,0 +1,9 @@
+{
+	"name": "Red-Blue Mechanostrider",
+	"variant": "Red-Blue",
+	"npcs": {
+		"45399": {
+			"name": "Optimo"
+		}
+	}
+}

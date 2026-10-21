@@ -1,0 +1,12 @@
+{
+	"name": "Green Rock Cobra",
+	"variant": "Green",
+	"npcs": {
+		"218772": {
+			"name": "Moss Viper"
+		},
+		"226636": {
+			"name": "Scaletooth Coiler"
+		}
+	}
+}

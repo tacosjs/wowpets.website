@@ -1,0 +1,120 @@
+{
+	"id": "caveborerworm-blue-graspers11",
+	"family": "worm",
+	"modelGroup": "jawcrawlers",
+	"npcs": [
+		{
+			"id": 261981,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "val",
+					"area": "the-forgotten-depths"
+				}
+			]
+		},
+		{
+			"id": 225049,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "sanguine-grasps"
+				}
+			],
+			"retired": true
+		},
+		{
+			"id": 216583,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "skittering-breach"
+				},
+				{
+					"zone": "earthcrawl-mines"
+				},
+				{
+					"zone": "the-dread-pit"
+				},
+				{
+					"zone": "the-spiral-weave"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 250909,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-gulf-of-memory"
+				}
+			]
+		},
+		{
+			"id": 265063,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "val",
+					"area": "glacial-reservoir"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 265072,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "val"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		229072,
+		223931,
+		227980,
+		227002
+	]
+}

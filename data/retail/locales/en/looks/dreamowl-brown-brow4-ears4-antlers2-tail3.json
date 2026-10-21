@@ -1,0 +1,12 @@
+{
+	"name": "Brown Somnowl w/ Crescent Antlers, Large Ears, Horned Brows, Long Tail",
+	"variant": "Brown w/ Long Tail",
+	"npcs": {
+		"207623": {
+			"name": "Vigilant Somnowl"
+		},
+		"210882": {
+			"name": "Opportunistic Somnowl"
+		}
+	}
+}

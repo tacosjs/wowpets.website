@@ -1,0 +1,22 @@
+{
+	"id": "pterrordax2-olive-armoured-blacksaddle",
+	"family": "pterrordax",
+	"modelGroup": "armouredpterrordaxes",
+	"npcs": [
+		{
+			"id": 137501,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "bonetrail-gulch"
+				}
+			]
+		}
+	]
+}

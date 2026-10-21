@@ -1,0 +1,12 @@
+{
+	"name": "Black Aqir Goliath",
+	"variant": "Black",
+	"npcs": {
+		"154604": {
+			"name": "Lord Aj'qirai"
+		},
+		"207912": {
+			"name": "Aqir Destroyer"
+		}
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"id": "firebee-black-antenna3",
+	"family": "wasp",
+	"modelGroup": "cinderbees",
+	"npcs": [
+		{
+			"id": 224080,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "cinderwold"
+				}
+			]
+		},
+		{
+			"id": 215021,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "cinderwold"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		224096,
+		217897
+	]
+}

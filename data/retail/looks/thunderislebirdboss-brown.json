@@ -1,0 +1,24 @@
+{
+	"id": "thunderislebirdboss-brown",
+	"family": "carrionbird",
+	"modelGroup": "teroclaws",
+	"npcs": [
+		{
+			"id": 79746,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "talador"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		170698
+	]
+}

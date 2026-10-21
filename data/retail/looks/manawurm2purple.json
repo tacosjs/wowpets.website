@@ -1,0 +1,149 @@
+{
+	"id": "manawurm2purple",
+	"family": "serpent",
+	"modelGroup": "manawyrms",
+	"npcs": [
+		{
+			"id": 24917,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blades-edge-mountains",
+					"area": "bashir-landing"
+				}
+			]
+		},
+		{
+			"id": 122015,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eredath",
+					"area": "umbra-hollows"
+				}
+			]
+		},
+		{
+			"id": 241354,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "magisters-terrace-midnight"
+				}
+			]
+		},
+		{
+			"id": 67675,
+			"tameable": false,
+			"level": {
+				"min": 32,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-thunder",
+					"area": "dawnseeker-promontory"
+				}
+			]
+		},
+		{
+			"id": 122439,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eredath",
+					"area": "azurelight-square"
+				}
+			]
+		},
+		{
+			"id": 115831,
+			"tameable": false,
+			"level": {
+				"min": 47,
+				"max": 47
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "return-to-karazhan",
+					"area": "guardians-study"
+				}
+			]
+		},
+		{
+			"id": 114252,
+			"tameable": false,
+			"level": {
+				"min": 47,
+				"max": 47
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "return-to-karazhan"
+				}
+			]
+		},
+		{
+			"id": 190947,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "cobalt-assembly"
+				}
+			]
+		},
+		{
+			"id": 197624,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "algethar-academy"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		19731,
+		180858
+	]
+}

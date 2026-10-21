@@ -1,0 +1,15 @@
+{
+	"name": "Amethyst Quilen",
+	"variant": "Amethyst",
+	"npcs": {
+		"60573": {
+			"name": "Terracotta Defender"
+		},
+		"61565": {
+			"name": "Quilen Statue"
+		},
+		"153096": {
+			"name": "Animated Warden"
+		}
+	}
+}

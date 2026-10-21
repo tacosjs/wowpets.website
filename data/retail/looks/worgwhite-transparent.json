@@ -1,0 +1,40 @@
+{
+	"id": "worgwhite-transparent",
+	"family": "wolf",
+	"modelGroup": "saberworgs",
+	"npcs": [
+		{
+			"id": 60131,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "kun-lai-summit"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 30219,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-storm-peaks"
+				}
+			]
+		}
+	]
+}

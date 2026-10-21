@@ -1,0 +1,45 @@
+{
+	"name": "Grey Maned Wolf",
+	"variant": "Grey",
+	"npcs": {
+		"74169": {
+			"name": "Gloomshade Howler"
+		},
+		"74206": {
+			"name": "Killmaw"
+		},
+		"74208": {
+			"name": "Killmaw Pup"
+		},
+		"74712": {
+			"name": "Gloomshade Howler"
+		},
+		"77669": {
+			"name": "Kana"
+		},
+		"82912": {
+			"name": "Grizzlemaw"
+		},
+		"87107": {
+			"name": "Maimclaw"
+		},
+		"89012": {
+			"name": "Ravenous Wolf"
+		},
+		"95305": {
+			"name": "Ironfang Stalker"
+		},
+		"104224": {
+			"name": "Suramar Snarler"
+		},
+		"129168": {
+			"name": "Buddy"
+		},
+		"140292": {
+			"name": "Snowfur Alpha"
+		},
+		"140294": {
+			"name": "Snowfur Wolf"
+		}
+	}
+}

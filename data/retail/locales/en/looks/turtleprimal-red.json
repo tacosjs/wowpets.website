@@ -1,0 +1,15 @@
+{
+	"name": "Red Turtle",
+	"variant": "Red",
+	"npcs": {
+		"191527": {
+			"name": "Sunscale Turtle"
+		},
+		"192776": {
+			"name": "Sunscale Snapper"
+		},
+		"257154": {
+			"name": "Abasi Snapper"
+		}
+	}
+}

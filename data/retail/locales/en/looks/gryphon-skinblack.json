@@ -1,0 +1,9 @@
+{
+	"name": "Black Classic Gryphon",
+	"variant": "Black",
+	"npcs": {
+		"16872": {
+			"name": "Jetwing"
+		}
+	}
+}

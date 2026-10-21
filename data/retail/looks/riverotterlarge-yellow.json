@@ -1,0 +1,62 @@
+{
+	"id": "riverotterlarge-yellow",
+	"family": "rodent",
+	"modelGroup": "ottuks",
+	"npcs": [
+		{
+			"id": 196523,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "teerakai"
+				}
+			]
+		},
+		{
+			"id": 198822,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-forbidden-reach",
+					"area": "the-old-weyrn-grounds"
+				}
+			]
+		},
+		{
+			"id": 194601,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		196093,
+		192854,
+		189780,
+		195442,
+		191615,
+		197846,
+		190657,
+		187580,
+		191616
+	]
+}

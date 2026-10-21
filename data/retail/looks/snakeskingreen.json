@@ -1,0 +1,55 @@
+{
+	"id": "snakeskingreen",
+	"family": "serpent",
+	"modelGroup": "groundsnakes",
+	"npcs": [
+		{
+			"id": 29713,
+			"tameable": true,
+			"level": {
+				"min": 32,
+				"max": 32
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gundrak",
+					"area": "den-of-sseratus"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 140696,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		254964,
+		29637,
+		29444,
+		24338,
+		52402,
+		77067,
+		85979,
+		158465,
+		254511,
+		262439,
+		44180,
+		65604
+	]
+}

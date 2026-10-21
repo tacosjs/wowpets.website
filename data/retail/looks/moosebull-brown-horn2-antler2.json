@@ -1,0 +1,42 @@
+{
+	"id": "moosebull-brown-horn2-antler2",
+	"family": "stag",
+	"modelGroup": "bruffalons",
+	"npcs": [
+		{
+			"id": 193738,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		},
+		{
+			"id": 193060,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "valdrakken"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		195530,
+		193429,
+		190726,
+		187578
+	]
+}

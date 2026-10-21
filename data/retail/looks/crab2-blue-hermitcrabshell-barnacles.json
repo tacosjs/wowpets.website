@@ -1,0 +1,10 @@
+{
+	"id": "crab2-blue-hermitcrabshell-barnacles",
+	"family": "crab",
+	"modelGroup": "hermitcrabs",
+	"npcs": [],
+	"alsoNpcs": [
+		128631,
+		142577
+	]
+}

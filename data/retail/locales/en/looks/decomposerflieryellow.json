@@ -1,0 +1,12 @@
+{
+	"name": "Orange Gorm Wasp",
+	"variant": "Orange",
+	"npcs": {
+		"163390": {
+			"name": "Creeping Rootstinger"
+		},
+		"165404": {
+			"name": "Buzzkill"
+		}
+	}
+}

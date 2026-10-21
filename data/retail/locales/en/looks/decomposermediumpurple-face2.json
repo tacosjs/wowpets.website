@@ -1,0 +1,15 @@
+{
+	"name": "Purple Gorm",
+	"variant": "Purple",
+	"npcs": {
+		"158364": {
+			"name": "Gorm Ravener"
+		},
+		"170933": {
+			"name": "War-gorm"
+		},
+		"171827": {
+			"name": "Angry Egg-Tender"
+		}
+	}
+}

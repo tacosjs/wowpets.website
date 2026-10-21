@@ -1,0 +1,23 @@
+{
+	"id": "spectralsaberworg-light",
+	"family": "wolf",
+	"modelGroup": "saberworgs",
+	"npcs": [
+		{
+			"id": 157279,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms",
+					"area": "sunblossom-hill"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

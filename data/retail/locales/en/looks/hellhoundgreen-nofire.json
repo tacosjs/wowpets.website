@@ -1,0 +1,21 @@
+{
+	"name": "Green Infernal Hellhound w/ No Flames",
+	"variant": "Green w/ No Flames",
+	"npcs": {
+		"77026": {
+			"name": "Depraved Hunter"
+		},
+		"79110": {
+			"name": "Ravenous Mongrel"
+		},
+		"85828": {
+			"name": "Blazing Mongrel"
+		},
+		"115755": {
+			"name": "Scathing Felbeast"
+		},
+		"116115": {
+			"name": "Scathing Felbeast"
+		}
+	}
+}

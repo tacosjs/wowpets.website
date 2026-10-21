@@ -1,0 +1,12 @@
+{
+	"name": "Russet Riverbeast",
+	"variant": "Russet",
+	"npcs": {
+		"128708": {
+			"name": "Sandscale Calf"
+		},
+		"130023": {
+			"name": "Saltscale Calf"
+		}
+	}
+}

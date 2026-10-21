@@ -1,0 +1,78 @@
+{
+	"name": "Black Goat",
+	"variant": "Black",
+	"npcs": {
+		"59680": {
+			"name": "Battle Goat"
+		},
+		"60010": {
+			"name": "Battle Goat"
+		},
+		"60242": {
+			"name": "Wild Mountain Goat"
+		},
+		"60668": {
+			"name": "Furious Goat"
+		},
+		"60748": {
+			"name": "Battle Goat"
+		},
+		"62937": {
+			"name": "Pack Goat"
+		},
+		"62938": {
+			"name": "Pack Goat"
+		},
+		"66464": {
+			"name": "Zhing"
+		},
+		"69523": {
+			"name": "Fatty Goat"
+		},
+		"99636": {
+			"name": "Highpeak Goat"
+		},
+		"105104": {
+			"name": "Greyhorn Goat"
+		},
+		"107663": {
+			"name": "Domesticated Goat"
+		},
+		"112453": {
+			"name": "Black Phillip"
+		},
+		"127822": {
+			"name": "Alpine Goat"
+		},
+		"138316": {
+			"name": "Highland Goat"
+		},
+		"140425": {
+			"name": "Surefoot"
+		},
+		"140427": {
+			"name": "Craghoof Herdfather"
+		},
+		"141029": {
+			"name": "Kickers"
+		},
+		"193251": {
+			"name": "Gruffy"
+		},
+		"193427": {
+			"name": "Tired Goat"
+		},
+		"193612": {
+			"name": "Highpeaks Goat"
+		},
+		"193980": {
+			"name": "Icehorn Goat"
+		},
+		"194760": {
+			"name": "Uurhilt"
+		},
+		"198348": {
+			"name": "Highpeaks Goat"
+		}
+	}
+}

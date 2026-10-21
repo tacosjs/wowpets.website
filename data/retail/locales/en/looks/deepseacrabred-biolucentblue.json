@@ -1,0 +1,9 @@
+{
+	"name": "Red Spiked Crab w/ Blue Markings",
+	"variant": "Red w/ Blue Markings",
+	"npcs": {
+		"58880": {
+			"name": "Viseclaw Fisher"
+		}
+	}
+}

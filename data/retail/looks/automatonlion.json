@@ -1,0 +1,82 @@
+{
+	"id": "automatonlion",
+	"family": "mechanical",
+	"modelGroup": "phalynxes",
+	"npcs": [
+		{
+			"id": 160110,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "third-chamber-of-kalliope"
+				}
+			]
+		},
+		{
+			"id": 167387,
+			"tameable": false,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "the-walk-of-recollection"
+				}
+			]
+		},
+		{
+			"id": 169564,
+			"tameable": false,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "everdawn-terrace"
+				}
+			]
+		},
+		{
+			"id": 158768,
+			"tameable": false,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "forgefire-outpost"
+				}
+			]
+		},
+		{
+			"id": 162913,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "the-eternal-forge"
+				}
+			]
+		}
+	]
+}

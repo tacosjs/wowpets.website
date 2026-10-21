@@ -1,0 +1,27 @@
+{
+	"name": "Brown Primal Bear",
+	"variant": "Brown",
+	"npcs": {
+		"193125": {
+			"name": "Goremaul the Gluttonous"
+		},
+		"193497": {
+			"name": "Shortcoat Bear"
+		},
+		"193627": {
+			"name": "Shortcoat Bear"
+		},
+		"193673": {
+			"name": "Shortcoat Mauler"
+		},
+		"195197": {
+			"name": "Shortcoat Bear"
+		},
+		"197541": {
+			"name": "Coastal Grizzly"
+		},
+		"197578": {
+			"name": "Time Trapped Bear"
+		}
+	}
+}

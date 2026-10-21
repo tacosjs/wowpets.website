@@ -1,0 +1,22 @@
+{
+	"id": "gryphon-skinblack",
+	"family": "feathermane",
+	"modelGroup": "gryphons",
+	"npcs": [
+		{
+			"id": 16872,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-hinterlands"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

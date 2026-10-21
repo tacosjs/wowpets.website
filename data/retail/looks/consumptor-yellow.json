@@ -1,0 +1,77 @@
+{
+	"id": "consumptor-yellow",
+	"family": "worm",
+	"modelGroup": "consumptors",
+	"npcs": [
+		{
+			"id": 250635,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "the-gorging-pit"
+				}
+			]
+		},
+		{
+			"id": 257396,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm"
+				}
+			]
+		},
+		{
+			"id": 247805,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "bastion-of-might"
+				}
+			]
+		},
+		{
+			"id": 247816,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		250562,
+		254582,
+		257765,
+		257185,
+		241570,
+		255055,
+		250636,
+		254583,
+		257184,
+		257183
+	]
+}

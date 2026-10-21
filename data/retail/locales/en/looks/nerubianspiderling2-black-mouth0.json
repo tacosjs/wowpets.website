@@ -1,0 +1,9 @@
+{
+	"name": "Black Threadling w/ No Mandibles",
+	"variant": "Black w/ No Mandibles",
+	"npcs": {
+		"219662": {
+			"name": "Small Threadling"
+		}
+	}
+}

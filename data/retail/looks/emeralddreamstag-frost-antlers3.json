@@ -1,0 +1,23 @@
+{
+	"id": "emeralddreamstag-frost-antlers3",
+	"family": "stag",
+	"modelGroup": "dreamstags",
+	"npcs": [
+		{
+			"id": 209929,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "shiversnap-grove"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

@@ -1,0 +1,105 @@
+{
+	"id": "jormungarlarvagreen",
+	"family": "worm",
+	"modelGroup": "jormungar",
+	"npcs": [
+		{
+			"id": 26358,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dragonblight"
+				}
+			]
+		},
+		{
+			"id": 139194,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "the-underrot"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 219246,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "taelloch-mine"
+				}
+			]
+		},
+		{
+			"id": 215735,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "shadowvein-extraction-site"
+				}
+			]
+		},
+		{
+			"id": 140980,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 35144,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "crusaders-coliseum-trial-of-the-crusader"
+				}
+			]
+		},
+		{
+			"id": 85837,
+			"tameable": false,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "darktide-roost"
+				}
+			]
+		}
+	]
+}

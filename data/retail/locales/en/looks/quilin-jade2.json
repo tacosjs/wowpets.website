@@ -1,0 +1,9 @@
+{
+	"name": "Ornate Jade Quilen",
+	"variant": "Ornate Jade",
+	"npcs": {
+		"60043": {
+			"name": "Jade Guardian"
+		}
+	}
+}

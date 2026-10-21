@@ -1,0 +1,26 @@
+{
+	"id": "progenitorspider-darkred",
+	"family": "spider",
+	"modelGroup": "tarachnids",
+	"npcs": [
+		{
+			"id": 178508,
+			"tameable": true,
+			"level": {
+				"min": 62,
+				"max": 62
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "deserted-overlook"
+				}
+			],
+			"keepsName": true
+		}
+	],
+	"alsoNpcs": [
+		181685
+	]
+}

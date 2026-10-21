@@ -1,0 +1,12 @@
+{
+	"name": "Green Outland Hydra",
+	"variant": "Green",
+	"npcs": {
+		"18105": {
+			"name": "Ghaz'an"
+		},
+		"22884": {
+			"name": "Leviathan"
+		}
+	}
+}

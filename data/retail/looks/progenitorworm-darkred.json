@@ -1,0 +1,42 @@
+{
+	"id": "progenitorworm-darkred",
+	"family": "worm",
+	"modelGroup": "annelids",
+	"npcs": [
+		{
+			"id": 185349,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "sepulcher-of-the-first-ones",
+					"area": "ephemeral-plains"
+				}
+			]
+		},
+		{
+			"id": 183646,
+			"tameable": false,
+			"level": {
+				"min": 62,
+				"max": 62
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "droning-precipice"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

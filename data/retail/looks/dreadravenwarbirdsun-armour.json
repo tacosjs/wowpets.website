@@ -1,0 +1,124 @@
+{
+	"id": "dreadravenwarbirdsun-armour",
+	"family": "birdofprey",
+	"modelGroup": "dreadravens",
+	"npcs": [
+		{
+			"id": 76143,
+			"tameable": true,
+			"level": {
+				"min": 32,
+				"max": 42
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "skyreach"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 83746,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "spires-of-arak"
+				}
+			]
+		},
+		{
+			"id": 187949,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "obsidian-citadel"
+				}
+			]
+		},
+		{
+			"id": 191509,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "scalecracker-keep"
+				}
+			]
+		},
+		{
+			"id": 188698,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores"
+				}
+			]
+		},
+		{
+			"id": 193291,
+			"tameable": false,
+			"level": {
+				"min": 61,
+				"max": 71
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "neltharus"
+				}
+			]
+		},
+		{
+			"id": 193862,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 197225,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "dragonbane-keep"
+				}
+			]
+		}
+	]
+}

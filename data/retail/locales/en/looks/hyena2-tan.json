@@ -1,0 +1,60 @@
+{
+	"name": "Beige Hyena",
+	"variant": "Beige",
+	"npcs": {
+		"126643": {
+			"name": "Snarlfang Hyena"
+		},
+		"134718": {
+			"name": "Redrock Scavenger"
+		},
+		"151807": {
+			"name": "Tamed Dunerunner"
+		},
+		"157033": {
+			"name": "Slaver's Dunerunner"
+		},
+		"183340": {
+			"name": "Scavenging Hyena"
+		},
+		"187565": {
+			"name": "Hyena Mongrel"
+		},
+		"187566": {
+			"name": "Hyena Matriarch"
+		},
+		"189656": {
+			"name": "Snowhide Mongrel"
+		},
+		"191979": {
+			"name": "Gristle"
+		},
+		"192351": {
+			"name": "Trained Hyena"
+		},
+		"192487": {
+			"name": "Lulu"
+		},
+		"192525": {
+			"name": "Scavenger Matriarch"
+		},
+		"192812": {
+			"name": "Scavenger Matriarch"
+		},
+		"193428": {
+			"name": "Feral Hyena"
+		},
+		"197389": {
+			"name": "Wild Hyena"
+		},
+		"225815": {
+			"name": "Junkyard Hyena"
+		},
+		"230667": {
+			"name": "Wretched Hyena"
+		},
+		"235303": {
+			"name": "Pit Prowler"
+		}
+	}
+}

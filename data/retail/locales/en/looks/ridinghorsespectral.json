@@ -1,0 +1,9 @@
+{
+	"name": "Spectral Horse",
+	"variant": "Spectral Horse",
+	"npcs": {
+		"46645": {
+			"name": "Cursed Stallion"
+		}
+	}
+}

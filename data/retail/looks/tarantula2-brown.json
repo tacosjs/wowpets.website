@@ -1,0 +1,262 @@
+{
+	"id": "tarantula2-brown",
+	"family": "spider",
+	"modelGroup": "grandtarantulas",
+	"npcs": [
+		{
+			"id": 1195,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "loch-modan"
+				}
+			]
+		},
+		{
+			"id": 616,
+			"tameable": true,
+			"level": {
+				"min": 7,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "redridge-mountains"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 52146,
+			"tameable": true,
+			"level": {
+				"min": 7,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "redridge-mountains",
+					"area": "renders-valley"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 2349,
+			"tameable": true,
+			"level": {
+				"min": 7,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hillsbrad-foothills"
+				}
+			]
+		},
+		{
+			"id": 147222,
+			"tameable": true,
+			"level": {
+				"min": 7,
+				"max": 60
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "redridge-mountains",
+					"area": "lakeridge-highway"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 11738,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "silithus"
+				}
+			]
+		},
+		{
+			"id": 8933,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blackrock-depths"
+				}
+			]
+		},
+		{
+			"id": 129913,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "shrouded-foothills"
+				}
+			]
+		},
+		{
+			"id": 123813,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "terrace-of-the-fang"
+				}
+			]
+		},
+		{
+			"id": 168724,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "the-banewood"
+				}
+			]
+		},
+		{
+			"id": 196426,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "drake-grotto"
+				}
+			]
+		},
+		{
+			"id": 187672,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "deadsnare-caverns"
+				}
+			]
+		},
+		{
+			"id": 134942,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 134940,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 134947,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 197408,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "drake-grotto"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 201623,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-forbidden-reach",
+					"area": "the-lost-atheneum"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"name": "Green Core Hound",
+	"variant": "Green",
+	"npcs": {
+		"20557": {
+			"name": "Wrath Hound"
+		},
+		"21102": {
+			"name": "Uvuros"
+		},
+		"21108": {
+			"name": "Spawn of Uvuros"
+		},
+		"22499": {
+			"name": "Lesser Wrath Hound"
+		},
+		"23353": {
+			"name": "Braxxus"
+		},
+		"47544": {
+			"name": "Svarnos"
+		},
+		"103671": {
+			"name": "Mangelwrath"
+		},
+		"109504": {
+			"name": "Ragemaw"
+		}
+	}
+}

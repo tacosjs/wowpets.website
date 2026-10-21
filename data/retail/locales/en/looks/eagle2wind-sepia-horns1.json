@@ -1,0 +1,19 @@
+{
+	"name": "Horned Brown & White Ohuna",
+	"variant": "Horned Brown & White",
+	"npcs": {
+		"188717": {
+			"name": "Hihveer",
+			"title": "Amaa's Companion"
+		},
+		"189373": {
+			"name": "Divebeak Ohuna"
+		},
+		"191102": {
+			"name": "Shikaar Ohuna"
+		},
+		"195591": {
+			"name": "Injured Ohuna"
+		}
+	}
+}

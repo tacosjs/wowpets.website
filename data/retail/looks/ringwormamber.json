@@ -1,0 +1,114 @@
+{
+	"id": "ringwormamber",
+	"family": "shalebeast",
+	"modelGroup": "gyreworms",
+	"npcs": [
+		{
+			"id": 65229,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "dread-wastes",
+					"area": "the-briny-muck"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 71578,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "siege-of-orgrimmar",
+					"area": "chamber-of-the-paragons"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 65231,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dread-wastes",
+					"area": "zanvess"
+				}
+			]
+		},
+		{
+			"id": 63007,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dread-wastes",
+					"area": "rikkitun-village-surrounds"
+				}
+			]
+		},
+		{
+			"id": 62324,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "townlong-steppes",
+					"area": "gao-ran-battlefront"
+				}
+			],
+			"keepsName": true,
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 133562,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "deepholm",
+					"area": "jagged-wastes"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

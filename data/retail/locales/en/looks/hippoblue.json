@@ -1,0 +1,15 @@
+{
+	"name": "Blue Riverbeast",
+	"variant": "Blue",
+	"npcs": {
+		"75468": {
+			"name": "Twilight Riverbeast"
+		},
+		"83455": {
+			"name": "Twilight Riverbeast"
+		},
+		"83841": {
+			"name": "Flat-Toothed Riverbeast"
+		}
+	}
+}

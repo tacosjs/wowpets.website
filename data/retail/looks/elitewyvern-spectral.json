@@ -1,0 +1,22 @@
+{
+	"id": "elitewyvern-spectral",
+	"family": "feathermane",
+	"modelGroup": "grandwindriders",
+	"npcs": [
+		{
+			"id": 230827,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "siren-isle",
+					"area": "ghoststone-diggings"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"name": "Black Snake",
+	"variant": "Black",
+	"npcs": {
+		"3680": {
+			"name": "Serpentbloom Snake"
+		},
+		"23020": {
+			"name": "Shadow Serpent"
+		},
+		"24338": {
+			"name": "Amani Snake"
+		},
+		"29444": {
+			"name": "Drakkari Snake"
+		},
+		"29637": {
+			"name": "Crafty Snake"
+		},
+		"39444": {
+			"name": "Pit Viper"
+		},
+		"44180": {
+			"name": "Viper"
+		},
+		"47740": {
+			"name": "Viper"
+		},
+		"49159": {
+			"name": "Cavern Serpent"
+		},
+		"51676": {
+			"name": "Marsh Serpent"
+		},
+		"65604": {
+			"name": "Viper"
+		},
+		"140694": {
+			"name": "Gorgejaw the Glutton"
+		},
+		"162375": {
+			"name": "Marsh Serpent"
+		},
+		"254511": {
+			"name": "Ravenous Python"
+		},
+		"254964": {
+			"name": "Insatiate Hatchling"
+		},
+		"262439": {
+			"name": "Wild Snake"
+		}
+	}
+}

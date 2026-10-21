@@ -1,0 +1,12 @@
+{
+	"name": "Red & Green Mukleech",
+	"variant": "Red & Green",
+	"npcs": {
+		"242033": {
+			"name": "Tiny Vermin"
+		},
+		"255139": {
+			"name": "Wallows Mukleech"
+		}
+	}
+}

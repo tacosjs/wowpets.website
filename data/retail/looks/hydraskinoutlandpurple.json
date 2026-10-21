@@ -1,0 +1,22 @@
+{
+	"id": "hydraskinoutlandpurple",
+	"family": "hydra",
+	"modelGroup": "outlandhydras",
+	"npcs": [
+		{
+			"id": 20775,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "netherstorm"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

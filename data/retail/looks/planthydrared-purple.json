@@ -1,0 +1,70 @@
+{
+	"id": "planthydrared-purple",
+	"family": "hydra",
+	"modelGroup": "mandragoras",
+	"npcs": [
+		{
+			"id": 75492,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley",
+					"area": "blademoon-bloom"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 80752,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley"
+				}
+			]
+		},
+		{
+			"id": 252847,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "vale-of-mists"
+				}
+			]
+		},
+		{
+			"id": 244338,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "ahlua-wetland"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		248577
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Indigo & White Moth",
+	"variant": "Indigo & White",
+	"npcs": {
+		"78390": {
+			"name": "Frenzied Manafeeder"
+		},
+		"78598": {
+			"name": "Soothed Manafeeder"
+		}
+	}
+}

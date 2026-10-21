@@ -1,0 +1,12 @@
+{
+	"name": "Orange Fathom Ray w/ Teal Stripes",
+	"variant": "Orange w/ Teal Stripes",
+	"npcs": {
+		"150376": {
+			"name": "Coral Skate"
+		},
+		"226028": {
+			"name": "Fathom Ray"
+		}
+	}
+}

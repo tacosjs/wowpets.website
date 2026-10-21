@@ -1,0 +1,19 @@
+{
+	"name": "Yellow-Grey Pterrordax",
+	"variant": "Yellow-Grey",
+	"npcs": {
+		"132072": {
+			"name": "Picta"
+		},
+		"132253": {
+			"name": "Ji'arak"
+		},
+		"135852": {
+			"name": "Ak'tar",
+			"title": "Slateclaw Matriarch"
+		},
+		"139493": {
+			"name": "Monstrous Pterrordax"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Maroon Grovecrawler",
+	"variant": "Maroon",
+	"npcs": {
+		"250231": {
+			"name": "Dracaena"
+		}
+	}
+}

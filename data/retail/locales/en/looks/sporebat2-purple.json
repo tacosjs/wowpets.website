@@ -1,0 +1,9 @@
+{
+	"name": "Purple Draenor Sporebat",
+	"variant": "Purple",
+	"npcs": {
+		"73013": {
+			"name": "Vile Sporebat"
+		}
+	}
+}

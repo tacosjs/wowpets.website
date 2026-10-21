@@ -1,0 +1,12 @@
+{
+	"name": "Electric Dark-Yellow Tidal Worm",
+	"variant": "Electric Dark-Yellow",
+	"npcs": {
+		"155702": {
+			"name": "Spawn of Wekemara"
+		},
+		"224924": {
+			"name": "Elusive Gargantuan Stormscale"
+		}
+	}
+}

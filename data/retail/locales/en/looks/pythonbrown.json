@@ -1,0 +1,30 @@
+{
+	"name": "Brown Python",
+	"variant": "Brown",
+	"npcs": {
+		"70448": {
+			"name": "Ancient Python"
+		},
+		"72841": {
+			"name": "Death Adder"
+		},
+		"87039": {
+			"name": "Marsh Anaconda"
+		},
+		"89697": {
+			"name": "Swamp Python"
+		},
+		"92607": {
+			"name": "Python Hatchling"
+		},
+		"123358": {
+			"name": "Serpent Hatchling"
+		},
+		"126894": {
+			"name": "Pit Snake"
+		},
+		"135789": {
+			"name": "Mud Lurker Python"
+		}
+	}
+}

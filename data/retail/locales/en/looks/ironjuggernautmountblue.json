@@ -1,0 +1,9 @@
+{
+	"name": "Blue Iron Scorpion",
+	"variant": "Blue",
+	"npcs": {
+		"107676": {
+			"name": "Blue Juggernaut"
+		}
+	}
+}

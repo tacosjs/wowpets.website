@@ -1,0 +1,49 @@
+{
+	"id": "progenitorbird-blue",
+	"family": "birdofprey",
+	"modelGroup": "protoavians",
+	"npcs": [
+		{
+			"id": 183875,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "provis-esper"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 183871,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "provis-esper"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		184623,
+		182096,
+		183674,
+		185291,
+		178835
+	]
+}

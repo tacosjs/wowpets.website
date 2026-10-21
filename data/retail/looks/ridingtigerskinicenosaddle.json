@@ -1,0 +1,21 @@
+{
+	"id": "ridingtigerskinicenosaddle",
+	"family": "cat",
+	"modelGroup": "sabercats",
+	"npcs": [
+		{
+			"id": 7432,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "winterspring"
+				}
+			]
+		}
+	]
+}

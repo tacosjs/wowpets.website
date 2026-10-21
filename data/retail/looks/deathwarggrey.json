@@ -1,0 +1,89 @@
+{
+	"id": "deathwarggrey",
+	"family": "stonehound",
+	"modelGroup": "gargons",
+	"npcs": [
+		{
+			"id": 158702,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "sinfall"
+				}
+			]
+		},
+		{
+			"id": 169104,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "dominance-gate"
+				}
+			]
+		},
+		{
+			"id": 173393,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "forgotten-chamber"
+				}
+			]
+		},
+		{
+			"id": 157465,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "stalkers-lodge"
+				}
+			]
+		},
+		{
+			"id": 172092,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "caretakers-manor"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		164563,
+		159978,
+		158978,
+		171455,
+		163216
+	]
+}

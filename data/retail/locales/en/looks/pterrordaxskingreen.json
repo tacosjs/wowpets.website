@@ -1,0 +1,12 @@
+{
+	"name": "Green Pterrordax",
+	"variant": "Green",
+	"npcs": {
+		"9167": {
+			"name": "Frenzied Pterrordax"
+		},
+		"60384": {
+			"name": "Zandalari Pterror Wing"
+		}
+	}
+}

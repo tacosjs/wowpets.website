@@ -1,0 +1,18 @@
+{
+	"name": "Grey Amani Eagle",
+	"variant": "Grey",
+	"npcs": {
+		"244556": {
+			"name": "Amani Sharpfeather"
+		},
+		"244926": {
+			"name": "Watchful Eagle"
+		},
+		"252277": {
+			"name": "Mature Eagle"
+		},
+		"258394": {
+			"name": "Steely Seabird"
+		}
+	}
+}

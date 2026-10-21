@@ -1,0 +1,45 @@
+{
+	"name": "Green Salamanther w/o Gills or Fins",
+	"variant": "Green",
+	"npcs": {
+		"193067": {
+			"name": "Salamanther"
+		},
+		"193700": {
+			"name": "Squelchy Salamanther"
+		},
+		"193854": {
+			"name": "Elusive Salamanther"
+		},
+		"205079": {
+			"name": "Crystal Snapper"
+		},
+		"210478": {
+			"name": "Infected Beast"
+		},
+		"214835": {
+			"name": "Stillpond Tidewader"
+		},
+		"217720": {
+			"name": "Drooling Salamuncher"
+		},
+		"225919": {
+			"name": "Thieving Salamanther"
+		},
+		"226111": {
+			"name": "Highland Salamanther"
+		},
+		"226112": {
+			"name": "Highland Salamanther"
+		},
+		"227608": {
+			"name": "Undersea Salamanther"
+		},
+		"228823": {
+			"name": "Undersea Salamanther"
+		},
+		"251593": {
+			"name": "Infected Beast"
+		}
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"id": "serpenthydra-pink",
+	"family": "hydra",
+	"modelGroup": "serpenthydras",
+	"npcs": [
+		{
+			"id": 272920,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "blistering-terrace"
+				}
+			]
+		},
+		{
+			"id": 263634,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-coiled-isle"
+				}
+			]
+		}
+	]
+}

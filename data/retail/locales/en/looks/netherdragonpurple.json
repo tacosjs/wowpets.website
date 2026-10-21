@@ -1,0 +1,9 @@
+{
+	"name": "Purple Arcane Wyrm",
+	"variant": "Purple",
+	"npcs": {
+		"25721": {
+			"name": "Arcane Serpent"
+		}
+	}
+}

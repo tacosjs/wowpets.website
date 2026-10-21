@@ -1,0 +1,56 @@
+{
+	"id": "snailrock-teal-shell1",
+	"family": "carapid",
+	"modelGroup": "rocksnails",
+	"npcs": [
+		{
+			"id": 204615,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "glimmerogg"
+				}
+			]
+		},
+		{
+			"id": 204778,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "glimmerogg"
+				}
+			]
+		},
+		{
+			"id": 203477,
+			"tameable": false,
+			"level": {
+				"min": 72,
+				"max": 72
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "the-throughway"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		200898,
+		202621
+	]
+}

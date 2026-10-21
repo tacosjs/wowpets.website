@@ -1,0 +1,34 @@
+{
+	"id": "pterrordax2-purple",
+	"family": "pterrordax",
+	"modelGroup": "pterrordaxes",
+	"npcs": [
+		{
+			"id": 132653,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "savagelands"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		128653,
+		133854,
+		128647,
+		134971,
+		129762
+	]
+}

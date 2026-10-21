@@ -1,0 +1,12 @@
+{
+	"name": "Blue Spiked Raptor",
+	"variant": "Blue",
+	"npcs": {
+		"29698": {
+			"name": "Drakuru Raptor"
+		},
+		"50874": {
+			"name": "Tenok"
+		}
+	}
+}

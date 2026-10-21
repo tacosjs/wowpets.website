@@ -1,0 +1,21 @@
+{
+	"name": "Tan Bat",
+	"variant": "Tan-Brown",
+	"npcs": {
+		"89788": {
+			"name": "Direwing Predator"
+		},
+		"144952": {
+			"name": "Hookfang"
+		},
+		"167351": {
+			"name": "Bat"
+		},
+		"225987": {
+			"name": "Underhang Bat"
+		},
+		"254732": {
+			"name": "Giant Duskwing"
+		}
+	}
+}

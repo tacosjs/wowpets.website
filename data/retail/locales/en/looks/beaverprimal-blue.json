@@ -1,0 +1,18 @@
+{
+	"name": "Blue Beaver",
+	"variant": "Blue",
+	"npcs": {
+		"189337": {
+			"name": "Riverbend Gnasher"
+		},
+		"190556": {
+			"name": "Primal Icechuck"
+		},
+		"190888": {
+			"name": "Riverbend Gnasher"
+		},
+		"190968": {
+			"name": "Norbett"
+		}
+	}
+}

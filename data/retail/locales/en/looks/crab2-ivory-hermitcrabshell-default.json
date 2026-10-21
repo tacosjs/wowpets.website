@@ -1,0 +1,9 @@
+{
+	"name": "Ivory Hermit Crab w/ Plain Shell",
+	"variant": "Ivory",
+	"npcs": {
+		"217477": {
+			"name": "Shadowtide Hardshell"
+		}
+	}
+}

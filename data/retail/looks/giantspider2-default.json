@@ -1,0 +1,197 @@
+{
+	"id": "giantspider2-default",
+	"family": "spider",
+	"modelGroup": "grandbarbedspiders",
+	"npcs": [
+		{
+			"id": 17522,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bloodmyst-isle"
+				}
+			]
+		},
+		{
+			"id": 129833,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "fernwood-ridge"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 26625,
+			"tameable": true,
+			"level": {
+				"min": 16,
+				"max": 31
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "draktharon-keep"
+				}
+			]
+		},
+		{
+			"id": 20998,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blades-edge-mountains"
+				}
+			]
+		},
+		{
+			"id": 20714,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blades-edge-mountains"
+				}
+			]
+		},
+		{
+			"id": 141988,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley",
+					"area": "forgotten-cove"
+				}
+			]
+		},
+		{
+			"id": 134932,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 77565,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "the-forgotten-caves"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 27778,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dragonblight"
+				}
+			]
+		},
+		{
+			"id": 15952,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "naxxramas"
+				}
+			]
+		},
+		{
+			"id": 253049,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "witherbark-bluffs"
+				}
+			]
+		},
+		{
+			"id": 247385,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "witherbark-bluffs"
+				}
+			]
+		},
+		{
+			"id": 247233,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "witherbark-bluffs"
+				}
+			]
+		}
+	]
+}

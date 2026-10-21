@@ -1,0 +1,70 @@
+{
+	"id": "kareshroamer-yellow",
+	"family": "stag",
+	"modelGroup": "slatebacks",
+	"npcs": [
+		{
+			"id": 239830,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "the-tempest-fields"
+				}
+			]
+		},
+		{
+			"id": 234475,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "the-oasis"
+				}
+			]
+		},
+		{
+			"id": 234476,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "the-oasis"
+				}
+			]
+		},
+		{
+			"id": 230557,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "the-oasis"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		249799
+	]
+}

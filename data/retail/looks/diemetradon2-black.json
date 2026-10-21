@@ -1,0 +1,52 @@
+{
+	"id": "diemetradon2-black",
+	"family": "lizard",
+	"modelGroup": "diemetradons",
+	"npcs": [
+		{
+			"id": 123098,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "the-preserve"
+				}
+			]
+		},
+		{
+			"id": 145457,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "mariners-row"
+				}
+			]
+		},
+		{
+			"id": 144496,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "savagelands"
+				}
+			]
+		}
+	]
+}

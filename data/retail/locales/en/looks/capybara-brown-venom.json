@@ -1,0 +1,10 @@
+{
+	"name": "Venom-Soaked Brown Capybara",
+	"variant": "Venom-Soaked Brown",
+	"npcs": {
+		"268049": {
+			"name": "Siltmouth",
+			"title": "The Unflappable"
+		}
+	}
+}

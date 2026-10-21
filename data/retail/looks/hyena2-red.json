@@ -1,0 +1,81 @@
+{
+	"id": "hyena2-red",
+	"family": "hyena",
+	"modelGroup": "grandhyenas",
+	"npcs": [
+		{
+			"id": 39185,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "tanaris"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 50856,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "eastern-plaguelands"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 4304,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "scarlet-monastery-old",
+					"area": "huntsmans-cloister"
+				}
+			]
+		},
+		{
+			"id": 45353,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "uldum"
+				}
+			]
+		},
+		{
+			"id": 152657,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "uldum"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

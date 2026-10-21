@@ -1,0 +1,25 @@
+{
+	"id": "maldraxxusflyer-darkbrown",
+	"family": "chimaera",
+	"modelGroup": "deathchimaeras",
+	"npcs": [
+		{
+			"id": 160917,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "keres-rest"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		168216
+	]
+}

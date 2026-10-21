@@ -1,0 +1,39 @@
+{
+	"id": "toucan-color04",
+	"family": "birdofprey",
+	"modelGroup": "axebeaks",
+	"npcs": [
+		{
+			"id": 85856,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaan-jungle"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "phase"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		130575,
+		85564,
+		91050,
+		89718,
+		229668,
+		85808,
+		81903,
+		88592,
+		189688,
+		192186,
+		191098
+	]
+}

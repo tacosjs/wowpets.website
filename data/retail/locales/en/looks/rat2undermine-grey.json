@@ -1,0 +1,13 @@
+{
+	"name": "Grey Rat",
+	"variant": "Grey",
+	"npcs": {
+		"235864": {
+			"name": "The Slicer",
+			"title": "Leader of the Red-Foot"
+		},
+		"252749": {
+			"name": "Hungry Rat"
+		}
+	}
+}

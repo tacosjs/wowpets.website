@@ -1,0 +1,42 @@
+{
+	"name": "Purple Darkhound",
+	"variant": "Purple",
+	"npcs": {
+		"10356": {
+			"name": "Bayne"
+		},
+		"16177": {
+			"name": "Dreadbeast"
+		},
+		"156596": {
+			"name": "Horrific Bonemauler"
+		},
+		"157695": {
+			"name": "Lurking Bonemauler"
+		},
+		"168319": {
+			"name": "Scavenging Bonemauler"
+		},
+		"168676": {
+			"name": "Bonemauler Alpha"
+		},
+		"168678": {
+			"name": "Horrific Bonemauler"
+		},
+		"169160": {
+			"name": "Dreadhound"
+		},
+		"217698": {
+			"name": "Dark Hound"
+		},
+		"218330": {
+			"name": "Roaming Mongrel"
+		},
+		"229096": {
+			"name": "Nervous Mongrel"
+		},
+		"229097": {
+			"name": "Nervous Mongrel"
+		}
+	}
+}

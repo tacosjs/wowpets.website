@@ -1,0 +1,37 @@
+{
+	"id": "progenitorwombat-dark-crest1",
+	"family": "rodent",
+	"modelGroup": "vombatas",
+	"npcs": [
+		{
+			"id": 183722,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "zereth-mortis"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 183052,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "dimensional-falls"
+				}
+			]
+		}
+	]
+}

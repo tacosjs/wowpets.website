@@ -1,0 +1,62 @@
+{
+	"id": "draekodonskinchromatic",
+	"family": "corehound",
+	"modelGroup": "drakehounds",
+	"npcs": [
+		{
+			"id": 50839,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "blackrock-mountain"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 14020,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "blackwing-lair",
+					"area": "chromaggus-is-the-seventh-encounter-of-the-raid"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 42803,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "blackwing-descent"
+				}
+			]
+		},
+		{
+			"id": 46083,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "blackwing-descent"
+				}
+			]
+		}
+	]
+}

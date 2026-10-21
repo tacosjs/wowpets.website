@@ -1,0 +1,14 @@
+{
+	"id": "butterflypurple",
+	"family": "moth",
+	"modelGroup": "butterflies",
+	"npcs": [],
+	"alsoNpcs": [
+		191639,
+		210767,
+		221519,
+		227202,
+		227205,
+		250386
+	]
+}

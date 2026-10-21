@@ -1,0 +1,82 @@
+{
+	"id": "compy-brown",
+	"family": "raptor",
+	"modelGroup": "saurids",
+	"npcs": [
+		{
+			"id": 126023,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "grand-bazaar"
+				}
+			]
+		},
+		{
+			"id": 126653,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "the-slough"
+				}
+			]
+		},
+		{
+			"id": 128585,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "the-shattered-river"
+				}
+			]
+		},
+		{
+			"id": 128616,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "the-shattered-river"
+				}
+			]
+		},
+		{
+			"id": 205857,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "tyrhold-reservoir"
+				}
+			]
+		}
+	]
+}

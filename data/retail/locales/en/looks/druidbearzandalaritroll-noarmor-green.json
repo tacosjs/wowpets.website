@@ -1,0 +1,9 @@
+{
+	"name": "Green & Brown Ankylodon",
+	"variant": "Green & Brown",
+	"npcs": {
+		"123095": {
+			"name": "Ankylodon"
+		}
+	}
+}

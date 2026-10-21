@@ -1,0 +1,48 @@
+{
+	"id": "bear",
+	"wowId": 4,
+	"icon": "ability_hunter_pet_bear",
+	"spec": "tenacity",
+	"exotic": false,
+	"diet": [
+		"bread",
+		"cheese",
+		"fish",
+		"fruit",
+		"fungus",
+		"meat"
+	],
+	"abilities": {
+		"basic": "claw",
+		"family": [
+			"thick-fur",
+			"rest"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "amanibears"
+		},
+		{
+			"id": "dreambears"
+		},
+		{
+			"id": "thornbears"
+		},
+		{
+			"id": "icebears"
+		},
+		{
+			"id": "primalbears"
+		},
+		{
+			"id": "bears"
+		},
+		{
+			"id": "retrobears"
+		},
+		{
+			"id": "classicamanibears"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Green Skitterfly",
+	"variant": "Green",
+	"npcs": {
+		"183986": {
+			"name": "Skittish Darner"
+		},
+		"191730": {
+			"name": "Overgrown Skitterfly"
+		},
+		"198420": {
+			"name": "Skittering Hoverfly"
+		}
+	}
+}

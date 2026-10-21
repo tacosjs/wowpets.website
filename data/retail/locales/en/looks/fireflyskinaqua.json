@@ -1,0 +1,15 @@
+{
+	"name": "Aqua Firefly",
+	"variant": "Aqua",
+	"npcs": {
+		"82370": {
+			"name": "Swamplighter Worker"
+		},
+		"123116": {
+			"name": "Beautiful Glowfly"
+		},
+		"170451": {
+			"name": "Mature Stellarwasp"
+		}
+	}
+}

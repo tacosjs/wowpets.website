@@ -1,0 +1,48 @@
+{
+	"id": "sandreaverskin-yellow2",
+	"family": "aqiri",
+	"modelGroup": "sandreavers",
+	"npcs": [
+		{
+			"id": 83448,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "ruins-of-the-first-bastion"
+				}
+			]
+		},
+		{
+			"id": 87253,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "talador",
+					"area": "the-sunset-shore"
+				}
+			]
+		},
+		{
+			"id": 15510,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "temple-of-ahnqiraj"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

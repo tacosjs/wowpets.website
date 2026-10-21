@@ -1,0 +1,32 @@
+{
+	"id": "quilin-amethyst2",
+	"family": "stonehound",
+	"modelGroup": "quilen",
+	"npcs": [
+		{
+			"id": 50843,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 60047,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "mogushan-vaults"
+				}
+			]
+		}
+	]
+}

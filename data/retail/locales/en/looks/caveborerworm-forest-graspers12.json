@@ -1,0 +1,24 @@
+{
+	"name": "Green Jawcrawler w/ Side & Stunted Top Graspers",
+	"variant": "Green w/ Side & Stunted Top Graspers",
+	"npcs": {
+		"213922": {
+			"name": "Wild Razormouth"
+		},
+		"226198": {
+			"name": "Tunneling Jawcrawler"
+		},
+		"226216": {
+			"name": "Hungry Jawcrawler"
+		},
+		"227777": {
+			"name": "Sandboring Jawcrawler"
+		},
+		"229205": {
+			"name": "Thickhide Jawcrawler"
+		},
+		"229821": {
+			"name": "Burrowing Jawcrawler"
+		}
+	}
+}

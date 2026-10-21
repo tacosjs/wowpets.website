@@ -1,0 +1,15 @@
+{
+	"name": "Purple Serpent Hydra",
+	"variant": "Purple",
+	"npcs": {
+		"253694": {
+			"name": "Scaled Breaker"
+		},
+		"261390": {
+			"name": "Venomgall Tyrant"
+		},
+		"261799": {
+			"name": "Venombound Rampager"
+		}
+	}
+}

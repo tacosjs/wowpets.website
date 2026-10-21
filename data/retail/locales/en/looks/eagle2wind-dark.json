@@ -1,0 +1,18 @@
+{
+	"name": "Black & White Ohuna",
+	"variant": "Black & White",
+	"npcs": {
+		"187548": {
+			"name": "Deepwood Ohuna"
+		},
+		"195002": {
+			"name": "Bright Gustfeather"
+		},
+		"196468": {
+			"name": "Duskplume Ohuna"
+		},
+		"196536": {
+			"name": "Cliffside Queenfisher"
+		}
+	}
+}

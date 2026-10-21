@@ -1,0 +1,21 @@
+{
+	"name": "Dark Vorquin",
+	"variant": "Dark",
+	"npcs": {
+		"188524": {
+			"name": "Lushmeadow Stag"
+		},
+		"190944": {
+			"name": "Vorquin Strider"
+		},
+		"193130": {
+			"name": "Pleasant Alpha"
+		},
+		"193143": {
+			"name": "Razk'vex the Untamed"
+		},
+		"193577": {
+			"name": "Lushmeadow Stag"
+		}
+	}
+}

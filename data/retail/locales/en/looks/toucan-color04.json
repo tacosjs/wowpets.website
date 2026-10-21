@@ -1,0 +1,9 @@
+{
+	"name": "Green Axebeak",
+	"variant": "Green",
+	"npcs": {
+		"85856": {
+			"name": "Bloodthirsty Axebeak"
+		}
+	}
+}

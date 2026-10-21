@@ -1,0 +1,36 @@
+{
+	"id": "pterrordaxskingreen",
+	"family": "pterrordax",
+	"modelGroup": "oldpterrordaxes",
+	"npcs": [
+		{
+			"id": 9167,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ungoro-crater"
+				}
+			]
+		},
+		{
+			"id": 60384,
+			"tameable": false,
+			"level": {
+				"min": 37,
+				"max": 37
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "mogushan-vaults",
+					"area": "emperors-reach"
+				}
+			]
+		}
+	]
+}

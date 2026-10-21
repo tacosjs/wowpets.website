@@ -1,0 +1,55 @@
+{
+	"name": "Tan & Purple Vulture",
+	"variant": "Tan & Purple",
+	"npcs": {
+		"122790": {
+			"name": "Bonebeak Buzzard"
+		},
+		"129639": {
+			"name": "Breakbeak Vulture"
+		},
+		"134108": {
+			"name": "Ahjani Vulture"
+		},
+		"140792": {
+			"name": "Breakbeak Bonepicker"
+		},
+		"185350": {
+			"name": "Ravenous Bloodbeak"
+		},
+		"186356": {
+			"name": "Nokhud Vulture"
+		},
+		"190031": {
+			"name": "Watchful Vulture"
+		},
+		"190931": {
+			"name": "Tamed Vulture",
+			"title": "Nokhud Scavenger's Pet"
+		},
+		"190943": {
+			"name": "Ravine Vulture"
+		},
+		"190965": {
+			"name": "Nokhud Vulture"
+		},
+		"191450": {
+			"name": "Boolk"
+		},
+		"191545": {
+			"name": "Insatiable Vulture"
+		},
+		"191551": {
+			"name": "Insatiable Vulture"
+		},
+		"194021": {
+			"name": "Insatiable Vulture"
+		},
+		"195722": {
+			"name": "Harried Plainsfeaster"
+		},
+		"195833": {
+			"name": "Scavenging Bloodfeather"
+		}
+	}
+}

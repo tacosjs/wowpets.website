@@ -1,0 +1,78 @@
+{
+	"name": "Brown & White Hawk",
+	"variant": "Brown & White",
+	"npcs": {
+		"126463": {
+			"name": "Saltfeather Eagle"
+		},
+		"130359": {
+			"name": "Coastal Osprey"
+		},
+		"130497": {
+			"name": "Overlook Seahawk"
+		},
+		"130878": {
+			"name": "Trained Seahawk"
+		},
+		"134377": {
+			"name": "Slickbeak Osprey"
+		},
+		"138286": {
+			"name": "Hungry Seahawk"
+		},
+		"215358": {
+			"name": "Salty Gull"
+		},
+		"217527": {
+			"name": "Salty Gull"
+		},
+		"218524": {
+			"name": "Hallowfall Seahawk"
+		},
+		"221648": {
+			"name": "The Perchfather"
+		},
+		"221897": {
+			"name": "Bounty Swiftlet"
+		},
+		"222057": {
+			"name": "Isle Gull"
+		},
+		"222310": {
+			"name": "Isle Gull"
+		},
+		"223191": {
+			"name": "Light-Bathed Eagle"
+		},
+		"224735": {
+			"name": "Tidehunter Gull"
+		},
+		"224800": {
+			"name": "Salty Gull"
+		},
+		"225936": {
+			"name": "Grottolight Osprey"
+		},
+		"226218": {
+			"name": "Bounty Swiftlet"
+		},
+		"227027": {
+			"name": "Mereldar Swiftlet"
+		},
+		"227757": {
+			"name": "Sea Hawk"
+		},
+		"227799": {
+			"name": "Gull"
+		},
+		"228999": {
+			"name": "Soaring Fishhawk"
+		},
+		"229135": {
+			"name": "Fallfisher Swiftwing"
+		},
+		"229191": {
+			"name": "Ascent Osprey"
+		}
+	}
+}

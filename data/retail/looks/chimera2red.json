@@ -1,0 +1,144 @@
+{
+	"id": "chimera2red",
+	"family": "chimaera",
+	"modelGroup": "rylaks",
+	"npcs": [
+		{
+			"id": 80241,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "the-burning-glacier"
+				}
+			]
+		},
+		{
+			"id": 87343,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "magnarok"
+				}
+			]
+		},
+		{
+			"id": 86373,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "iron-siegeworks"
+				}
+			]
+		},
+		{
+			"id": 72273,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "colossals-fall"
+				}
+			]
+		},
+		{
+			"id": 77091,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "bones-of-agurak"
+				}
+			]
+		},
+		{
+			"id": 84644,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ashran",
+					"area": "molten-quarry"
+				}
+			]
+		},
+		{
+			"id": 83389,
+			"tameable": true,
+			"level": {
+				"min": 16,
+				"max": 41
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "iron-docks-dungeon-and-non-instanced"
+				},
+				{
+					"zone": "iron-docks"
+				}
+			]
+		},
+		{
+			"id": 95327,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaan-jungle"
+				}
+			]
+		},
+		{
+			"id": 85184,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "the-pit"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"name": "White Albatross",
+	"variant": "White",
+	"npcs": {
+		"125098": {
+			"name": "Cove Seagull"
+		},
+		"127493": {
+			"name": "Coastal Swooper"
+		},
+		"128625": {
+			"name": "Harbor Gull"
+		},
+		"128938": {
+			"name": "Great Sea Albatross"
+		},
+		"129482": {
+			"name": "Great Sea Albatross"
+		},
+		"136280": {
+			"name": "Agitated Albatross"
+		},
+		"137182": {
+			"name": "Honey-Crazed Gull"
+		},
+		"137575": {
+			"name": "South Sea Albatross"
+		},
+		"138186": {
+			"name": "Vicious Albatross"
+		},
+		"161133": {
+			"name": "Coastal Albatross"
+		},
+		"197944": {
+			"name": "Crusty Seawing"
+		}
+	}
+}

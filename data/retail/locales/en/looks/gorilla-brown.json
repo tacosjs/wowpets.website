@@ -1,0 +1,12 @@
+{
+	"name": "Brown Gorilla",
+	"variant": "Brown",
+	"npcs": {
+		"132363": {
+			"name": "Peace-Loving Gorilla"
+		},
+		"140082": {
+			"name": "Gibb"
+		}
+	}
+}

@@ -1,0 +1,102 @@
+{
+	"id": "thunderislebirdboss-blue",
+	"family": "carrionbird",
+	"modelGroup": "teroclaws",
+	"npcs": [
+		{
+			"id": 77430,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "talador"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 170067,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald"
+				}
+			]
+		},
+		{
+			"id": 136385,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "brokenbough-roost"
+				}
+			]
+		},
+		{
+			"id": 69836,
+			"tameable": false,
+			"level": {
+				"min": 37,
+				"max": 37
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "throne-of-thunder",
+					"area": "roost-of-ji-kun"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 70095,
+			"tameable": false,
+			"level": {
+				"min": 37,
+				"max": 37
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "throne-of-thunder",
+					"area": "roost-of-ji-kun"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 157153,
+			"tameable": false,
+			"level": {
+				"min": 52,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms",
+					"area": "ruins-of-guo-lai"
+				}
+			]
+		}
+	]
+}

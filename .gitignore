@@ -15,3 +15,4 @@ src/paraglide
 
 # Local Netlify folder
 .netlify
+.cache

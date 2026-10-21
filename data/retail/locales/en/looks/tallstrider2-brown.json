@@ -1,0 +1,39 @@
+{
+	"name": "Brown Tallstrider",
+	"variant": "Brown",
+	"npcs": {
+		"2321": {
+			"name": "Foreststrider Fledgling"
+		},
+		"2955": {
+			"name": "Plainstrider"
+		},
+		"3244": {
+			"name": "Greater Plainstrider"
+		},
+		"17372": {
+			"name": "Timberstrider Fledgling"
+		},
+		"17373": {
+			"name": "Timberstrider"
+		},
+		"17374": {
+			"name": "Greater Timberstrider"
+		},
+		"32997": {
+			"name": "Fleetfoot"
+		},
+		"37085": {
+			"name": "Towering Plainstrider"
+		},
+		"39337": {
+			"name": "Wayward Plainstrider"
+		},
+		"167349": {
+			"name": "Plainstrider"
+		},
+		"234999": {
+			"name": "Desert Tallstrider"
+		}
+	}
+}

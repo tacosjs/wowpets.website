@@ -1,0 +1,12 @@
+{
+	"name": "Green Death Boar",
+	"variant": "Green",
+	"npcs": {
+		"166930": {
+			"name": "Skullboar Spinebreaker"
+		},
+		"168192": {
+			"name": "Bloodtusk Ancient"
+		}
+	}
+}

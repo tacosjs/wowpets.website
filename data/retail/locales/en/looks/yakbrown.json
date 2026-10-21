@@ -1,0 +1,87 @@
+{
+	"name": "Brown Yak",
+	"variant": "Brown",
+	"npcs": {
+		"58415": {
+			"name": "Mountain Yak"
+		},
+		"58925": {
+			"name": "Prize Shagskin"
+		},
+		"59319": {
+			"name": "Escaped Yak"
+		},
+		"59339": {
+			"name": "Terrified Yak"
+		},
+		"59367": {
+			"name": "Hijacked Yak"
+		},
+		"59491": {
+			"name": "Escaped Shagskin"
+		},
+		"59606": {
+			"name": "Floof"
+		},
+		"59610": {
+			"name": "Wild Plains Yak"
+		},
+		"59648": {
+			"name": "Valley Yak"
+		},
+		"59679": {
+			"name": "Horde Yak"
+		},
+		"59699": {
+			"name": "Mountain Yak"
+		},
+		"60024": {
+			"name": "Mountain Yak"
+		},
+		"60177": {
+			"name": "Mountain Yak"
+		},
+		"60212": {
+			"name": "Tassle"
+		},
+		"60860": {
+			"name": "Young Mountain Yak"
+		},
+		"61874": {
+			"name": "Tuffi"
+		},
+		"63770": {
+			"name": "Alliance Yak"
+		},
+		"65773": {
+			"name": "Ordo Yak"
+		},
+		"65774": {
+			"name": "Ordo Yak Calf"
+		},
+		"65853": {
+			"name": "Sturdy Yak"
+		},
+		"66595": {
+			"name": "Wasteland Calf"
+		},
+		"68413": {
+			"name": "Shaggy Longhorn"
+		},
+		"68521": {
+			"name": "Reckless Millie"
+		},
+		"140442": {
+			"name": "Muskflank Yak"
+		},
+		"140444": {
+			"name": "Muskflank Bull"
+		},
+		"156519": {
+			"name": "Drained Yak"
+		},
+		"251800": {
+			"name": "Mountain Yak"
+		}
+	}
+}

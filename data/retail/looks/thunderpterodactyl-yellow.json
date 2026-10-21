@@ -1,0 +1,52 @@
+{
+	"id": "thunderpterodactyl-yellow",
+	"family": "pterrordax",
+	"modelGroup": "skyscreamers",
+	"npcs": [
+		{
+			"id": 69162,
+			"tameable": true,
+			"level": {
+				"min": 32,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-thunder",
+					"area": "zatual"
+				}
+			]
+		},
+		{
+			"id": 69207,
+			"tameable": true,
+			"level": {
+				"min": 32,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-thunder",
+					"area": "the-beast-pens"
+				}
+			]
+		},
+		{
+			"id": 69128,
+			"tameable": false,
+			"level": {
+				"min": 32,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-thunder",
+					"area": "zatual"
+				}
+			]
+		}
+	]
+}

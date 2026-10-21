@@ -1,0 +1,10 @@
+{
+	"id": "mawexpansionhopper-light",
+	"family": "hopper",
+	"modelGroup": "gromits",
+	"npcs": [],
+	"alsoNpcs": [
+		177335,
+		230598
+	]
+}

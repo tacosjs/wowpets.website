@@ -1,0 +1,208 @@
+{
+	"id": "wolfdraenorgrey",
+	"family": "wolf",
+	"modelGroup": "draenorwolves",
+	"npcs": [
+		{
+			"id": 74169,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "gloomshade-grove"
+				}
+			]
+		},
+		{
+			"id": 74712,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "gloomshade-grove"
+				}
+			]
+		},
+		{
+			"id": 74206,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "plains-of-serenity"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 74208,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "plains-of-serenity"
+				}
+			]
+		},
+		{
+			"id": 82912,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "nagrand-draenor"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 95305,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaan-jungle"
+				}
+			]
+		},
+		{
+			"id": 87107,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-draenor",
+					"area": "the-colossals-fist"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 104224,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar"
+				}
+			]
+		},
+		{
+			"id": 140294,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 140292,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 89012,
+			"tameable": false,
+			"level": {
+				"min": 16,
+				"max": 41
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "iron-docks"
+				}
+			]
+		},
+		{
+			"id": 77669,
+			"tameable": false,
+			"level": {
+				"min": 20,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "talador",
+					"area": "aarkos-estate"
+				}
+			]
+		},
+		{
+			"id": 129168,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "gol-koval"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		127874,
+		76181,
+		136205,
+		75431,
+		255805,
+		136262,
+		136206
+	]
+}

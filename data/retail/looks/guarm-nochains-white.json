@@ -1,0 +1,22 @@
+{
+	"id": "guarm-nochains-white",
+	"family": "hound",
+	"modelGroup": "helheimhounds",
+	"npcs": [
+		{
+			"id": 168862,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 59
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "the-banewood"
+				}
+			]
+		}
+	]
+}

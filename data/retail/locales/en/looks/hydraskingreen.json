@@ -1,0 +1,9 @@
+{
+	"name": "Green Hydra",
+	"variant": "Green",
+	"npcs": {
+		"52418": {
+			"name": "Lost Offspring of Gahz'ranka"
+		}
+	}
+}

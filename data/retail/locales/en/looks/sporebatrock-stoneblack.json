@@ -1,0 +1,24 @@
+{
+	"name": "Black & White Shalewing",
+	"variant": "Black & White",
+	"npcs": {
+		"203785": {
+			"name": "Crag Shalewing"
+		},
+		"204022": {
+			"name": "Slick Shalewing"
+		},
+		"204157": {
+			"name": "Crag Shalewing"
+		},
+		"205161": {
+			"name": "Greyfin Skate"
+		},
+		"205224": {
+			"name": "Spineback Shalewing"
+		},
+		"219291": {
+			"name": "Chasm Shalewing"
+		}
+	}
+}

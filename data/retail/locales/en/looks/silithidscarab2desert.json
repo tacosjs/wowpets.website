@@ -1,0 +1,63 @@
+{
+	"name": "Copper Beetle",
+	"variant": "Copper",
+	"npcs": {
+		"47390": {
+			"name": "Silithid Defender"
+		},
+		"51674": {
+			"name": "Sand-Husk Scarab"
+		},
+		"59545": {
+			"name": "The Golden Beetle"
+		},
+		"63587": {
+			"name": "Dread Scarab"
+		},
+		"124019": {
+			"name": "Brine Beetle"
+		},
+		"124029": {
+			"name": "Dune Louse"
+		},
+		"124211": {
+			"name": "Ruincrawler"
+		},
+		"126645": {
+			"name": "Vol'duni Dunecrawler"
+		},
+		"126893": {
+			"name": "Dune Beetle"
+		},
+		"128252": {
+			"name": "Captured Beetle"
+		},
+		"128404": {
+			"name": "Shackled Beetle"
+		},
+		"136663": {
+			"name": "Bone Beetle"
+		},
+		"137077": {
+			"name": "Gulch Beetle"
+		},
+		"137721": {
+			"name": "Ruincrawler"
+		},
+		"140375": {
+			"name": "Duneshell Swarmer"
+		},
+		"140377": {
+			"name": "Duneshell Harvester"
+		},
+		"140830": {
+			"name": "Nazmani Skitterer"
+		},
+		"149615": {
+			"name": "Ruincrawler"
+		},
+		"162382": {
+			"name": "Sand-Husk Scarab"
+		}
+	}
+}

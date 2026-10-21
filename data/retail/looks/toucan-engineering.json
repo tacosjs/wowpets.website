@@ -1,0 +1,21 @@
+{
+	"id": "toucan-engineering",
+	"family": "mechanical",
+	"modelGroup": "mechanoaxebeaks",
+	"npcs": [
+		{
+			"id": 107552,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaan-jungle"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"name": "Grey Death Chimaera",
+	"variant": "Grey",
+	"npcs": {
+		"167433": {
+			"name": "Marrowmaw",
+			"title": "Son of Bonefang"
+		},
+		"169568": {
+			"name": "Skyripper Fledgling"
+		}
+	}
+}

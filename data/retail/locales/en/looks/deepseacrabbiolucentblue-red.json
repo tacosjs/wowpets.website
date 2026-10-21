@@ -1,0 +1,12 @@
+{
+	"name": "Dark Red Spiked Crab w/ Blue Markings",
+	"variant": "Dark Red w/ Blue Markings",
+	"npcs": {
+		"73166": {
+			"name": "Monstrous Spineclaw"
+		},
+		"145740": {
+			"name": "Tinitoa"
+		}
+	}
+}

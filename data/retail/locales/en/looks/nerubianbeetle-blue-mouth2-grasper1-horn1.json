@@ -1,0 +1,12 @@
+{
+	"name": "Indigo Stagshell w/ Large Mandibles, Small Graspers, Horn",
+	"variant": "Indigo w/ Large Mandibles, Small Graspers, Horn",
+	"npcs": {
+		"227271": {
+			"name": "Thread Beetle"
+		},
+		"227279": {
+			"name": "Scroll Beetle"
+		}
+	}
+}

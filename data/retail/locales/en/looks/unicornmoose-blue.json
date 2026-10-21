@@ -1,0 +1,57 @@
+{
+	"name": "Black Shalehorn",
+	"variant": "Black",
+	"npcs": {
+		"212424": {
+			"name": "Shalehorn Calf"
+		},
+		"216970": {
+			"name": "Shalehorn Impaler"
+		},
+		"219263": {
+			"name": "Warphorn"
+		},
+		"220299": {
+			"name": "Grazing Shalehorn"
+		},
+		"221474": {
+			"name": "Wary Shalehorn"
+		},
+		"224101": {
+			"name": "Shalehorn Cow"
+		},
+		"225180": {
+			"name": "Ironhoof Shalehorn"
+		},
+		"225912": {
+			"name": "Shalehorn Calf"
+		},
+		"225913": {
+			"name": "Shalehorn Calf"
+		},
+		"226118": {
+			"name": "Upland Bull"
+		},
+		"226120": {
+			"name": "Upland Bull"
+		},
+		"227933": {
+			"name": "Penumbral Shalehorn"
+		},
+		"227935": {
+			"name": "Penumbral Calf"
+		},
+		"227999": {
+			"name": "Penumbral Shalehorn"
+		},
+		"228115": {
+			"name": "Carefree Calf"
+		},
+		"228217": {
+			"name": "Wary Shalehorn"
+		},
+		"228874": {
+			"name": "Penumbral Calf"
+		}
+	}
+}

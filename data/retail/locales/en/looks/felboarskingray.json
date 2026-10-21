@@ -1,0 +1,12 @@
+{
+	"name": "Grey & Orange Felboar",
+	"variant": "Grey & Orange",
+	"npcs": {
+		"16863": {
+			"name": "Deranged Helboar"
+		},
+		"180856": {
+			"name": "Deranged Helboar"
+		}
+	}
+}

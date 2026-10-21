@@ -1,0 +1,9 @@
+{
+	"id": "monstrouseel-red",
+	"family": "serpent",
+	"modelGroup": "electriceels",
+	"npcs": [],
+	"alsoNpcs": [
+		130234
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"id": "gorilla-brown",
+	"family": "gorilla",
+	"modelGroup": "grandgorillas",
+	"npcs": [
+		{
+			"id": 132363,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "gorilla-gorge"
+				}
+			]
+		},
+		{
+			"id": 140082,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		130486,
+		139435,
+		130512
+	]
+}

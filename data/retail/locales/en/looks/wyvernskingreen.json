@@ -1,0 +1,12 @@
+{
+	"name": "Green Wyvern",
+	"variant": "Green",
+	"npcs": {
+		"4015": {
+			"name": "Pridewing Patriarch"
+		},
+		"47486": {
+			"name": "Heartrazor"
+		}
+	}
+}

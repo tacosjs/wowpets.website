@@ -1,0 +1,9 @@
+{
+	"name": "Red Runehound w/ Red Flames",
+	"variant": "Red w/ Red Flames",
+	"npcs": {
+		"29452": {
+			"name": "Vargul Blighthound"
+		}
+	}
+}

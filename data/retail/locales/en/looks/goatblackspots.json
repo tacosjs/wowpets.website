@@ -1,0 +1,24 @@
+{
+	"name": "Spotted Black Goat",
+	"variant": "Spotted Black",
+	"npcs": {
+		"58448": {
+			"name": "Black Bengal Goat"
+		},
+		"72275": {
+			"name": "Black Bengal Goat"
+		},
+		"140428": {
+			"name": "Chasm-Jumper"
+		},
+		"156756": {
+			"name": "Black Bengal Goat"
+		},
+		"187302": {
+			"name": "Wild Goat"
+		},
+		"192986": {
+			"name": "Range Goat"
+		}
+	}
+}

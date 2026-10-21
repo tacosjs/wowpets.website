@@ -1,0 +1,36 @@
+{
+	"name": "Blue Spiked Crab w/ Blue Markings",
+	"variant": "Blue w/ Blue Markings",
+	"npcs": {
+		"60401": {
+			"name": "Snapclaw"
+		},
+		"63347": {
+			"name": "Bitterwater Crab"
+		},
+		"91793": {
+			"name": "Seaspray Crab"
+		},
+		"99504": {
+			"name": "Deepwater Spikeback"
+		},
+		"102819": {
+			"name": "Sashj'tar Pincher"
+		},
+		"111647": {
+			"name": "Seaspray Crab"
+		},
+		"127381": {
+			"name": "Silt Crab"
+		},
+		"134907": {
+			"name": "Silt Crab"
+		},
+		"141643": {
+			"name": "Seafloor Shambleclaw"
+		},
+		"232080": {
+			"name": "Deepwater Eggtender"
+		}
+	}
+}

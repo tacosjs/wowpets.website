@@ -1,0 +1,13 @@
+{
+	"name": "Thundering Black Cloud Serpent",
+	"variant": "Thundering Black",
+	"npcs": {
+		"73167": {
+			"name": "Huolon"
+		},
+		"139486": {
+			"name": "Skycrack",
+			"title": "The Thundering Call"
+		}
+	}
+}

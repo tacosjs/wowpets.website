@@ -1,0 +1,9 @@
+{
+	"name": "Blue Draenor Ravager",
+	"variant": "Blue",
+	"npcs": {
+		"83522": {
+			"name": "Hive Queen Skrikka"
+		}
+	}
+}

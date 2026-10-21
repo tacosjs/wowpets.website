@@ -1,0 +1,10 @@
+{
+	"id": "sabertoothprimal-red",
+	"family": "cat",
+	"modelGroup": "rockfangs",
+	"npcs": [],
+	"alsoNpcs": [
+		192181,
+		193881
+	]
+}

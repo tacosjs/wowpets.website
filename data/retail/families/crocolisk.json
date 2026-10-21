@@ -1,0 +1,27 @@
+{
+	"id": "crocolisk",
+	"icon": "ability_hunter_pet_crocolisk",
+	"spec": "ferocity",
+	"exotic": false,
+	"diet": [
+		"fish",
+		"meat"
+	],
+	"abilities": {
+		"basic": "bite",
+		"family": [
+			"ankle-crack"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "spikedcrocolisks"
+		},
+		{
+			"id": "crocolisks"
+		},
+		{
+			"id": "othercrocolisks"
+		}
+	]
+}

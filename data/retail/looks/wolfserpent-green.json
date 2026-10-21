@@ -1,0 +1,22 @@
+{
+	"id": "wolfserpent-green",
+	"family": "lesserdragonkin",
+	"modelGroup": "wilderlings",
+	"npcs": [
+		{
+			"id": 180341,
+			"tameable": false,
+			"level": {
+				"min": 61,
+				"max": 61
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "korthia",
+					"area": "keepers-respite"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Black Dragonhawk",
+	"variant": "Black",
+	"npcs": {
+		"19482": {
+			"name": "Sagan"
+		},
+		"50357": {
+			"name": "Sunwing"
+		}
+	}
+}

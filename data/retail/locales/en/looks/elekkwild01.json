@@ -1,0 +1,12 @@
+{
+	"name": "Blue-Grey Elekk",
+	"variant": "Blue-Grey",
+	"npcs": {
+		"18334": {
+			"name": "Wild Elekk"
+		},
+		"21802": {
+			"name": "Elekk Demolisher"
+		}
+	}
+}

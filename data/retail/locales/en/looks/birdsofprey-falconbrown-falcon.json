@@ -1,0 +1,24 @@
+{
+	"name": "Brown Falcon",
+	"variant": "Brown",
+	"npcs": {
+		"122961": {
+			"name": "Cursed Game-Hawk"
+		},
+		"195324": {
+			"name": "Shifting Falcon"
+		},
+		"196684": {
+			"name": "Time Trapped Falcon"
+		},
+		"220295": {
+			"name": "Fallside Falcon"
+		},
+		"224456": {
+			"name": "Brooding Shorewing"
+		},
+		"229088": {
+			"name": "Scavenging Falcon"
+		}
+	}
+}

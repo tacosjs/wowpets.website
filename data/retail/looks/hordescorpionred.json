@@ -1,0 +1,128 @@
+{
+	"id": "hordescorpionred",
+	"family": "scorpid",
+	"modelGroup": "ruggedscorpions",
+	"npcs": [
+		{
+			"id": 62162,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dread-wastes"
+				}
+			]
+		},
+		{
+			"id": 51401,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "uldum",
+					"area": "sahket-wastes"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 63588,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dread-wastes"
+				}
+			]
+		},
+		{
+			"id": 125882,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "withering-gulch"
+				}
+			]
+		},
+		{
+			"id": 91314,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaan-jungle",
+					"area": "bleeding-hollow-hunting-grounds"
+				}
+			]
+		},
+		{
+			"id": 222873,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "shadowvein-extraction-site"
+				}
+			]
+		},
+		{
+			"id": 222872,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "shadowvein-extraction-site"
+				}
+			]
+		},
+		{
+			"id": 140113,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		226573
+	]
+}

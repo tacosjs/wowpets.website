@@ -1,0 +1,21 @@
+{
+	"name": "Blue Etherwyrm",
+	"variant": "Blue",
+	"npcs": {
+		"158771": {
+			"name": "Ravenous Etherwyrm"
+		},
+		"163077": {
+			"name": "Azules"
+		},
+		"163568": {
+			"name": "Etherwyrm Patriarch"
+		},
+		"165055": {
+			"name": "Rapacious Etherwyrm"
+		},
+		"169675": {
+			"name": "Gluttonous Etherwyrm"
+		}
+	}
+}

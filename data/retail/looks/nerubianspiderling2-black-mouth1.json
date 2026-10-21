@@ -1,0 +1,76 @@
+{
+	"id": "nerubianspiderling2-black-mouth1",
+	"family": "spider",
+	"modelGroup": "threadlings",
+	"npcs": [
+		{
+			"id": 219664,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dalaran"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "phase"
+				}
+			]
+		},
+		{
+			"id": 216555,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "the-burrows"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 218011,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "rak-ush"
+				}
+			]
+		},
+		{
+			"id": 223684,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "rak-ush"
+				}
+			]
+		}
+	]
+}

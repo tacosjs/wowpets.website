@@ -1,0 +1,15 @@
+{
+	"name": "Green & Orange Corpsefly",
+	"variant": "Green & Orange",
+	"npcs": {
+		"180096": {
+			"name": "Swarming Corpsefly"
+		},
+		"181211": {
+			"name": "Infected Corpsefly"
+		},
+		"234566": {
+			"name": "Overgrown Fly"
+		}
+	}
+}

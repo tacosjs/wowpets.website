@@ -1,0 +1,58 @@
+{
+	"id": "hippo2-wet-gray",
+	"family": "riverbeast",
+	"modelGroup": "stockyriverbeasts",
+	"npcs": [
+		{
+			"id": 141977,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "stormsong-valley"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 192651,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "clearwater-basin"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		190282,
+		190144,
+		192834,
+		192594,
+		191686,
+		194075,
+		194145,
+		194079,
+		192597,
+		196017,
+		191684,
+		194144,
+		194078,
+		191687,
+		187467,
+		187462,
+		190301,
+		192596,
+		194357
+	]
+}

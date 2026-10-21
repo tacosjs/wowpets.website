@@ -1,0 +1,95 @@
+{
+	"id": "spiderunderground-green-glow-gold",
+	"family": "spider",
+	"modelGroup": "undercrawlers",
+	"npcs": [
+		{
+			"id": 215771,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "chittering-den"
+				}
+			]
+		},
+		{
+			"id": 229605,
+			"tameable": true,
+			"level": {
+				"min": 78,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "maddening-deep"
+				}
+			]
+		},
+		{
+			"id": 227373,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "khaz-algar-delves"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 222653,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "shimmermist-falls"
+				}
+			]
+		},
+		{
+			"id": 214840,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "city-of-echoes",
+					"area": "the-shredded-strands"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		214962,
+		216249,
+		206078,
+		206094,
+		231380,
+		226675,
+		219912
+	]
+}

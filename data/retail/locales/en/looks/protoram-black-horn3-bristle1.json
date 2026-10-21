@@ -1,0 +1,12 @@
+{
+	"name": "Grassy Brown Ramolith - Curlier Horns",
+	"variant": "Grassy Brown - Curlier Horns",
+	"npcs": {
+		"214946": {
+			"name": "Vinechewer Ramolith"
+		},
+		"218194": {
+			"name": "Vinechewer Ramolith"
+		}
+	}
+}

@@ -1,0 +1,50 @@
+{
+	"id": "warpstalkerskingreen",
+	"family": "warpstalker",
+	"modelGroup": "warpstalkers",
+	"npcs": [
+		{
+			"id": 50313,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "winterspring"
+				}
+			]
+		},
+		{
+			"id": 20906,
+			"tameable": true,
+			"level": {
+				"min": 26,
+				"max": 32
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-arcatraz"
+				}
+			]
+		},
+		{
+			"id": 234202,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "castigaar"
+				}
+			]
+		}
+	]
+}

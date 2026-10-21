@@ -1,0 +1,36 @@
+{
+	"id": "chimeraskinbeige",
+	"family": "chimaera",
+	"modelGroup": "chimaeras",
+	"npcs": [
+		{
+			"id": 8764,
+			"tameable": true,
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azshara"
+				}
+			],
+			"level": {
+				"min": 5,
+				"max": 30
+			}
+		},
+		{
+			"id": 142713,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "darkshore",
+					"area": "the-long-wash"
+				}
+			]
+		}
+	]
+}

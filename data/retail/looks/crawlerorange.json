@@ -1,0 +1,35 @@
+{
+	"id": "crawlerorange",
+	"family": "ravager",
+	"modelGroup": "ravagers",
+	"npcs": [
+		{
+			"id": 17199,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 10
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azuremyst-isle"
+				}
+			]
+		},
+		{
+			"id": 19461,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hellfire-peninsula"
+				}
+			]
+		}
+	]
+}

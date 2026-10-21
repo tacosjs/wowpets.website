@@ -1,0 +1,77 @@
+{
+	"id": "cat",
+	"wowId": 2,
+	"icon": "ability_hunter_pet_cat",
+	"spec": "ferocity",
+	"exotic": false,
+	"diet": [
+		"fish",
+		"meat"
+	],
+	"abilities": {
+		"basic": "claw",
+		"family": [
+			"catlike-reflexes",
+			"prowl"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "eversonglynxes"
+		},
+		{
+			"id": "amanilynxes"
+		},
+		{
+			"id": "arathilynxes"
+		},
+		{
+			"id": "armoredlynxes"
+		},
+		{
+			"id": "dreamsabers"
+		},
+		{
+			"id": "thornclaws"
+		},
+		{
+			"id": "firecats"
+		},
+		{
+			"id": "rockfangs"
+		},
+		{
+			"id": "grandnightsabers"
+		},
+		{
+			"id": "panthara"
+		},
+		{
+			"id": "nightsabers"
+		},
+		{
+			"id": "grandtigers"
+		},
+		{
+			"id": "catmanasabers"
+		},
+		{
+			"id": "grandlions"
+		},
+		{
+			"id": "lions"
+		},
+		{
+			"id": "cats"
+		},
+		{
+			"id": "sabercats"
+		},
+		{
+			"id": "hunchedcats"
+		},
+		{
+			"id": "classiclynxes"
+		}
+	]
+}

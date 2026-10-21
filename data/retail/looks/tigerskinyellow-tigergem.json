@@ -1,0 +1,22 @@
+{
+	"id": "tigerskinyellow-tigergem",
+	"family": "cat",
+	"modelGroup": "hunchedcats",
+	"npcs": [
+		{
+			"id": 50825,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "stonetalon-mountains"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

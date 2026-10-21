@@ -1,0 +1,187 @@
+{
+	"id": "direwolfskindarkblack",
+	"family": "wolf",
+	"modelGroup": "worgs",
+	"npcs": [
+		{
+			"id": 1765,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "silverpine-forest"
+				}
+			]
+		},
+		{
+			"id": 628,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "duskwood"
+				}
+			]
+		},
+		{
+			"id": 19423,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hellfire-peninsula"
+				}
+			]
+		},
+		{
+			"id": 19459,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hellfire-peninsula"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 7055,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "burning-steppes"
+				}
+			]
+		},
+		{
+			"id": 18033,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-outland"
+				}
+			]
+		},
+		{
+			"id": 10221,
+			"tameable": true,
+			"level": {
+				"min": 19,
+				"max": 29
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blackrock-spire"
+				}
+			]
+		},
+		{
+			"id": 9696,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blackrock-spire"
+				}
+			]
+		},
+		{
+			"id": 47415,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tirisfal-glades",
+					"area": "brill"
+				}
+			]
+		},
+		{
+			"id": 72038,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "darkmoon-island"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 56160,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "darkmoon-island"
+				}
+			]
+		},
+		{
+			"id": 71982,
+			"tameable": false,
+			"level": {
+				"min": 51,
+				"max": 51
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "darkmoon-island"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

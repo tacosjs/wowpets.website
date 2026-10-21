@@ -1,0 +1,39 @@
+{
+	"id": "horse2-dark",
+	"family": "courser",
+	"modelGroup": "dreamrunners",
+	"npcs": [
+		{
+			"id": 110350,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valsharah"
+				}
+			]
+		},
+		{
+			"id": 109349,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna",
+					"area": "olivian-veil-garden-of-elune"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		117206
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"id": "progenitorwombat-blue-crest2",
+	"family": "rodent",
+	"modelGroup": "vombatas",
+	"npcs": [
+		{
+			"id": 182418,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "dimensional-falls-cavern"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		178913,
+		178196,
+		182315
+	]
+}

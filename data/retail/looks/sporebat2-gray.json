@@ -1,0 +1,98 @@
+{
+	"id": "sporebat2-gray",
+	"family": "sporebat",
+	"modelGroup": "draenorsporebats",
+	"npcs": [
+		{
+			"id": 75482,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "secluded-glade"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 83720,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ashran"
+				}
+			]
+		},
+		{
+			"id": 79332,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "talador",
+					"area": "zangarra"
+				}
+			]
+		},
+		{
+			"id": 84856,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "the-evanescent-sea"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 81138,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "sporemist-shallows"
+				}
+			]
+		},
+		{
+			"id": 85316,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "venture-cove"
+				}
+			]
+		}
+	]
+}

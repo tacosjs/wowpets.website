@@ -1,0 +1,27 @@
+{
+	"name": "Blue & Red Aqir Scarab",
+	"variant": "Blue & Red",
+	"npcs": {
+		"158477": {
+			"name": "Sandstone Burrower"
+		},
+		"158527": {
+			"name": "Sandstone Hatchling"
+		},
+		"159405": {
+			"name": "Aqir Scarab"
+		},
+		"161217": {
+			"name": "Aqir Skitterer"
+		},
+		"161280": {
+			"name": "Aqir Scarab"
+		},
+		"162664": {
+			"name": "Aqir Swarmer"
+		},
+		"163154": {
+			"name": "Aqir Scarab"
+		}
+	}
+}

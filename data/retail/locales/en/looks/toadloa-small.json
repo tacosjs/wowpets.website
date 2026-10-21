@@ -1,0 +1,21 @@
+{
+	"name": "Maroon-Striped Green Dire Toad",
+	"variant": "Maroon-Striped Green",
+	"npcs": {
+		"125508": {
+			"name": "Wok'grug the Clever"
+		},
+		"125946": {
+			"name": "Lo'gwush the Valiant"
+		},
+		"126039": {
+			"name": "Mag'ash the Poisonous"
+		},
+		"129117": {
+			"name": "Kremit"
+		},
+		"136030": {
+			"name": "Spawn of Krag'wa"
+		}
+	}
+}

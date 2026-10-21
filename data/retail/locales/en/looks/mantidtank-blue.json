@@ -1,0 +1,25 @@
+{
+	"name": "Blue Kunchong",
+	"variant": "Blue",
+	"npcs": {
+		"56703": {
+			"name": "Ik'thik Colossus"
+		},
+		"65582": {
+			"name": "Ik'thik Kunchong"
+		},
+		"66783": {
+			"name": "Akkolon",
+			"title": "Spawn of Garalon"
+		},
+		"67774": {
+			"name": "Zan'thik Brutalizer"
+		},
+		"139539": {
+			"name": "Tavok, Hammer of the Empress"
+		},
+		"161672": {
+			"name": "Kri'vin"
+		}
+	}
+}

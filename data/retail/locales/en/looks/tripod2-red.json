@@ -1,0 +1,9 @@
+{
+	"name": "Red Mirestalker",
+	"variant": "Red",
+	"npcs": {
+		"250226": {
+			"name": "Mindrot"
+		}
+	}
+}

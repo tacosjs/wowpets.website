@@ -1,0 +1,72 @@
+{
+	"id": "ironhordeelekk",
+	"family": "mammoth",
+	"modelGroup": "ironhordeelekks",
+	"npcs": [
+		{
+			"id": 76624,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "thunder-pass"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 89244,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "frostwall-lunarfall-garrisons"
+				},
+				{
+					"zone": "shadowmoon-valley-draenor"
+				}
+			]
+		},
+		{
+			"id": 86549,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "talador",
+					"area": "morgran-logworks"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 76945,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "blackrock-foundry"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

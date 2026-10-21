@@ -1,0 +1,18 @@
+{
+	"name": "Lavender Chloroceros",
+	"variant": "Lavender",
+	"npcs": {
+		"247090": {
+			"name": "Grumpy Chloroceros"
+		},
+		"247783": {
+			"name": "Charging Chloroceros"
+		},
+		"251552": {
+			"name": "Cascade Chloroceros"
+		},
+		"256072": {
+			"name": "Thornstomp"
+		}
+	}
+}

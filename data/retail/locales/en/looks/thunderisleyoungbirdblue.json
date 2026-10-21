@@ -1,0 +1,9 @@
+{
+	"name": "Blue-Black Flightless Teroclaw",
+	"variant": "Blue-Black",
+	"npcs": {
+		"79752": {
+			"name": "Teroclaw Chick"
+		}
+	}
+}

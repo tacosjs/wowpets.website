@@ -1,0 +1,22 @@
+{
+	"id": "sporebatrock-blue",
+	"family": "ray",
+	"modelGroup": "shalewings",
+	"npcs": [
+		{
+			"id": 203625,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "zaralek-cavern"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

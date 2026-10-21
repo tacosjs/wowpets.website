@@ -1,0 +1,12 @@
+{
+	"name": "Blue-Purple & White Ardenweald Dreamrunner",
+	"variant": "Blue-Purple & White",
+	"npcs": {
+		"165685": {
+			"name": "Glen Grazer"
+		},
+		"172966": {
+			"name": "Wild Mistrunner"
+		}
+	}
+}

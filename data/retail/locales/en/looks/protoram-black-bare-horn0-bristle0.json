@@ -1,0 +1,9 @@
+{
+	"name": "Brown Ramolith - Hornless",
+	"variant": "Brown - Hornless",
+	"npcs": {
+		"227756": {
+			"name": "Wild Ramolith"
+		}
+	}
+}

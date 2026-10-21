@@ -1,0 +1,9 @@
+{
+	"name": "Tan Camel",
+	"variant": "Tan",
+	"npcs": {
+		"39443": {
+			"name": "Camel"
+		}
+	}
+}

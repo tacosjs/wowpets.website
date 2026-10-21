@@ -1,0 +1,22 @@
+{
+	"id": "netherdragonblue",
+	"family": "serpent",
+	"modelGroup": "arcanewyrms",
+	"npcs": [
+		{
+			"id": 26322,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dragonblight",
+					"area": "lothalor-woodlands"
+				}
+			]
+		}
+	]
+}

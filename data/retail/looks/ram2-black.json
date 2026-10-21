@@ -1,0 +1,42 @@
+{
+	"id": "ram2-black",
+	"family": "gruffhorn",
+	"modelGroup": "greaterrams",
+	"npcs": [
+		{
+			"id": 2098,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "loch-modan"
+				},
+				{
+					"zone": "wetlands"
+				},
+				{
+					"zone": "arathi-highlands"
+				}
+			]
+		},
+		{
+			"id": 41539,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dun-morogh",
+					"area": "the-tundrid-hills"
+				}
+			]
+		}
+	]
+}

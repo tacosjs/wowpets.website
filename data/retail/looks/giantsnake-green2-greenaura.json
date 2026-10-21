@@ -1,0 +1,22 @@
+{
+	"id": "giantsnake-green2-greenaura",
+	"family": "serpent",
+	"modelGroup": "cobras",
+	"npcs": [
+		{
+			"id": 261643,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "vaults-of-atalutek"
+				}
+			]
+		}
+	]
+}

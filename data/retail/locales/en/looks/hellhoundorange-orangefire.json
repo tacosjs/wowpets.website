@@ -1,0 +1,30 @@
+{
+	"name": "Orange Infernal Hellhound w/ Orange Flames",
+	"variant": "Orange w/ Orange Flames",
+	"npcs": {
+		"53152": {
+			"name": "Charhound"
+		},
+		"53694": {
+			"name": "Riplimb"
+		},
+		"54339": {
+			"name": "Ancient Charhound"
+		},
+		"61658": {
+			"name": "Mature Flame Hound"
+		},
+		"71009": {
+			"name": "Kor'kron Flameworg"
+		},
+		"140562": {
+			"name": "Brimstone Hound"
+		},
+		"140564": {
+			"name": "Brimstone Lavamaw"
+		},
+		"207429": {
+			"name": "Raging Blazehound"
+		}
+	}
+}

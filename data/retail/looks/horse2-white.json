@@ -1,0 +1,134 @@
+{
+	"id": "horse2-white",
+	"family": "courser",
+	"modelGroup": "dreamrunners",
+	"npcs": [
+		{
+			"id": 104815,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna",
+					"area": "farondale"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 112636,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna",
+					"area": "eldranil-peak"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 89384,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna",
+					"area": "azurewing-whelplands"
+				}
+			]
+		},
+		{
+			"id": 140756,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "old-drust-road"
+				}
+			]
+		},
+		{
+			"id": 130350,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "the-placid-spring"
+				}
+			]
+		},
+		{
+			"id": 157973,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "korinnas-conservatory"
+				}
+			]
+		},
+		{
+			"id": 112533,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dalaran-broken-isles",
+					"area": "aegwynns-gallery"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 117206,
+			"tameable": false,
+			"level": {
+				"min": 53,
+				"max": 53
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "deeprun-tram",
+					"area": "bizmos-brawlpub"
+				}
+			]
+		}
+	]
+}

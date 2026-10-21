@@ -1,0 +1,9 @@
+{
+	"name": "Purple & Cyan Dragonhawk",
+	"variant": "Purple & Cyan",
+	"npcs": {
+		"25867": {
+			"name": "Sunblade Dragonhawk"
+		}
+	}
+}

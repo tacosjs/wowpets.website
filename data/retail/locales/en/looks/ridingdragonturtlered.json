@@ -1,0 +1,12 @@
+{
+	"name": "Black Dragon Turtle",
+	"variant": "Black",
+	"npcs": {
+		"63981": {
+			"name": "Brineshell Snapper"
+		},
+		"134802": {
+			"name": "Razorback"
+		}
+	}
+}

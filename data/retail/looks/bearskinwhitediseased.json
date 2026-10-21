@@ -1,0 +1,22 @@
+{
+	"id": "bearskinwhitediseased",
+	"family": "bear",
+	"modelGroup": "retrobears",
+	"npcs": [
+		{
+			"id": 50930,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "tirisfal-glades"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

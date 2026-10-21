@@ -1,0 +1,42 @@
+{
+	"name": "Burnt Orange Spider",
+	"variant": "Burnt Orange",
+	"npcs": {
+		"17523": {
+			"name": "Myst Leecher"
+		},
+		"18647": {
+			"name": "Deathskitter"
+		},
+		"28221": {
+			"name": "Trapdoor Crawler"
+		},
+		"28342": {
+			"name": "Trapdoor Ambusher"
+		},
+		"75113": {
+			"name": "Venomfang Spider"
+		},
+		"76517": {
+			"name": "Venomfang Spiderling"
+		},
+		"128177": {
+			"name": "Eye of Yazma"
+		},
+		"131890": {
+			"name": "Rock Stalker"
+		},
+		"133857": {
+			"name": "Shadraspawn Lurker"
+		},
+		"134936": {
+			"name": "Kil'tilac"
+		},
+		"135226": {
+			"name": "Spawn of Umbra'rix"
+		},
+		"247794": {
+			"name": "Spooked Spiderling"
+		}
+	}
+}

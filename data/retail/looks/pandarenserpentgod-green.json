@@ -1,0 +1,42 @@
+{
+	"id": "pandarenserpentgod-green",
+	"family": "lesserdragonkin",
+	"modelGroup": "celestialcloudserpents",
+	"npcs": [
+		{
+			"id": 71955,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "timeless-isle",
+					"area": "the-celestial-court"
+				}
+			]
+		},
+		{
+			"id": 56762,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "temple-of-the-jade-serpent"
+				}
+			]
+		},
+		{
+			"id": 56779,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "the-jade-forest"
+				}
+			]
+		}
+	]
+}

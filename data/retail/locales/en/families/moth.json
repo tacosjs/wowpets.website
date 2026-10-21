@@ -1,0 +1,23 @@
+{
+	"name": "Bird of Prey",
+	"modelGroups": {
+		"candleflies": {
+			"name": "Candleflies"
+		},
+		"dustmoths": {
+			"name": "Dustmoths"
+		},
+		"butterflies": {
+			"name": "Butterflies"
+		},
+		"ardenmoths": {
+			"name": "Ardenmoths"
+		},
+		"glimmerflies": {
+			"name": "Glimmerflies"
+		},
+		"moths": {
+			"name": "Moths"
+		}
+	}
+}

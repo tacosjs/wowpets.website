@@ -1,0 +1,27 @@
+{
+	"name": "Brown Beast Abomination",
+	"variant": "Brown",
+	"npcs": {
+		"15932": {
+			"name": "Gluth"
+		},
+		"28207": {
+			"name": "Cerberon"
+		},
+		"28211": {
+			"name": "Glonn"
+		},
+		"30432": {
+			"name": "Grimmr Hound"
+		},
+		"32280": {
+			"name": "Corp'rethar Guardian"
+		},
+		"37025": {
+			"name": "Stinky"
+		},
+		"37217": {
+			"name": "Precious"
+		}
+	}
+}

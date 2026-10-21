@@ -1,0 +1,15 @@
+{
+	"name": "Blue Infernal Hellhound w/ Blue Flames",
+	"variant": "Blue w/ Blue Flames",
+	"npcs": {
+		"126263": {
+			"name": "Soulgorged Gravestalker"
+		},
+		"140559": {
+			"name": "Volcanor"
+		},
+		"168453": {
+			"name": "Animated Pointer"
+		}
+	}
+}

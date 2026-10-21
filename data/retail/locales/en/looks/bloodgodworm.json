@@ -1,0 +1,9 @@
+{
+	"name": "Blood Worm",
+	"variant": "Blood Worm",
+	"npcs": {
+		"136461": {
+			"name": "Spawn of G'huun"
+		}
+	}
+}

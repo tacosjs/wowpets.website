@@ -1,0 +1,103 @@
+{
+	"id": "toadprimal-green",
+	"family": "lesserdragonkin",
+	"modelGroup": "hornswogs",
+	"npcs": [
+		{
+			"id": 189570,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "gardens-of-unity"
+				}
+			]
+		},
+		{
+			"id": 195762,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "shikaar-highlands"
+				}
+			]
+		},
+		{
+			"id": 195712,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "shikaar-highlands"
+				}
+			]
+		},
+		{
+			"id": 192374,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "wild-cliffs"
+				}
+			]
+		},
+		{
+			"id": 196571,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "tyrhold-reservoir"
+				}
+			]
+		},
+		{
+			"id": 195204,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "emerald-gardens"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		191561,
+		191563,
+		187574,
+		193479
+	]
+}

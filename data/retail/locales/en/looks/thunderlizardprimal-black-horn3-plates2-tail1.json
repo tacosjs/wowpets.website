@@ -1,0 +1,12 @@
+{
+	"name": "Black Primal Thunder Lizard w/ Electric Horn & Regular Plates",
+	"variant": "Black",
+	"npcs": {
+		"191057": {
+			"name": "Thunderspine Crasher"
+		},
+		"198813": {
+			"name": "Primal Thunder Lizard"
+		}
+	}
+}

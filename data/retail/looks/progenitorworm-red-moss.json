@@ -1,0 +1,12 @@
+{
+	"id": "progenitorworm-red-moss",
+	"family": "worm",
+	"modelGroup": "annelids",
+	"npcs": [],
+	"alsoNpcs": [
+		182363,
+		184804,
+		183748,
+		183749
+	]
+}

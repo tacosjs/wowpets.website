@@ -1,0 +1,36 @@
+{
+	"id": "birdsofprey-hawkwhite-hawk",
+	"family": "birdofprey",
+	"modelGroup": "hawks",
+	"npcs": [
+		{
+			"id": 131136,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound"
+				}
+			]
+		},
+		{
+			"id": 224018,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "the-opalcreg"
+				}
+			]
+		}
+	]
+}

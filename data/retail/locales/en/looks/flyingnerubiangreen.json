@@ -1,0 +1,12 @@
+{
+	"name": "Olive Swarmite",
+	"variant": "Olive Swarmite",
+	"npcs": {
+		"24563": {
+			"name": "Nerub'ar Venomspitter"
+		},
+		"139861": {
+			"name": "Voru'kar Flyer"
+		}
+	}
+}

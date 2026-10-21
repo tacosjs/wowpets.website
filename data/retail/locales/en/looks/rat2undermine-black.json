@@ -1,0 +1,24 @@
+{
+	"name": "Black Rat",
+	"variant": "Black",
+	"npcs": {
+		"231217": {
+			"name": "Territorial Nibbler"
+		},
+		"235875": {
+			"name": "Red-Foot Rat"
+		},
+		"235876": {
+			"name": "Red-Foot Rat"
+		},
+		"240402": {
+			"name": "Hungry Rat"
+		},
+		"240579": {
+			"name": "Hungry Rat"
+		},
+		"250125": {
+			"name": "Scavenging Chitterfang"
+		}
+	}
+}

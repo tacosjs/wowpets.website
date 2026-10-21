@@ -1,0 +1,19 @@
+{
+	"id": "quilenmountflying-white",
+	"family": "stonehound",
+	"modelGroup": "flyingquilen",
+	"npcs": [
+		{
+			"id": 68080,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "throne-of-thunder",
+					"area": "grand-courtyard"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

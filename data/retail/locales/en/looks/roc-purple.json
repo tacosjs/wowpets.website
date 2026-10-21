@@ -1,0 +1,33 @@
+{
+	"name": "Blue Roc",
+	"variant": "Blue",
+	"npcs": {
+		"94986": {
+			"name": "Fleshrender Roc"
+		},
+		"97345": {
+			"name": "Crawshuk the Hungry"
+		},
+		"108060": {
+			"name": "Coven Roc"
+		},
+		"111975": {
+			"name": "Shadowfeather"
+		},
+		"184151": {
+			"name": "Bluefeather Roc"
+		},
+		"184152": {
+			"name": "Bluefeather Hatchling"
+		},
+		"184481": {
+			"name": "Injured Bluefeather Roc"
+		},
+		"185524": {
+			"name": "Snatched Hatchling"
+		},
+		"188288": {
+			"name": "Bluefeather Roc"
+		}
+	}
+}

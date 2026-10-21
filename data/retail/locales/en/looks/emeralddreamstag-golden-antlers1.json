@@ -1,0 +1,15 @@
+{
+	"name": "Golden Brown Dreamstag w/ Small Antlers",
+	"variant": "Golden Brown w/ Small Antlers",
+	"npcs": {
+		"210844": {
+			"name": "Dreamhoof Doe"
+		},
+		"210954": {
+			"name": "Poised Gladehind"
+		},
+		"216698": {
+			"name": "Efflorescent Gladehind"
+		}
+	}
+}

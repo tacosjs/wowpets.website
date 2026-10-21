@@ -1,0 +1,27 @@
+{
+	"name": "Pink Tallstrider",
+	"variant": "Pink",
+	"npcs": {
+		"3068": {
+			"name": "Mazzranache"
+		},
+		"37091": {
+			"name": "Deviate Plainstrider"
+		},
+		"43973": {
+			"name": "Hazzranache"
+		},
+		"43974": {
+			"name": "Razzranache"
+		},
+		"43975": {
+			"name": "Jazzranache"
+		},
+		"43976": {
+			"name": "Spazzranache"
+		},
+		"235000": {
+			"name": "Wetlands Tallstrider"
+		}
+	}
+}

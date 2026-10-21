@@ -1,0 +1,27 @@
+{
+	"name": "Silver Duck",
+	"variant": "Silver",
+	"npcs": {
+		"192685": {
+			"name": "Scared Duck"
+		},
+		"192953": {
+			"name": "Thicket Mallard"
+		},
+		"193039": {
+			"name": "a"
+		},
+		"193336": {
+			"name": "Horse-Sized Duck"
+		},
+		"195892": {
+			"name": "Mother Duck"
+		},
+		"197964": {
+			"name": "Mama"
+		},
+		"211950": {
+			"name": "Moonshine"
+		}
+	}
+}

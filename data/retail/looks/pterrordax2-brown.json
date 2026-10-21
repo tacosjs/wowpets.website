@@ -1,0 +1,74 @@
+{
+	"id": "pterrordax2-brown",
+	"family": "pterrordax",
+	"modelGroup": "pterrordaxes",
+	"npcs": [
+		{
+			"id": 139534,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "plains-of-tojek"
+				}
+			]
+		},
+		{
+			"id": 135494,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "redrock-mesa"
+				}
+			]
+		},
+		{
+			"id": 121253,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "grand-bazaar"
+				}
+			]
+		},
+		{
+			"id": 135853,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "redrock-mesa"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		128434,
+		122986,
+		128653,
+		135450,
+		128647
+	]
+}

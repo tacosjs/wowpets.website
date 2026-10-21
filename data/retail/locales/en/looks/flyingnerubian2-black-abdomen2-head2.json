@@ -1,0 +1,12 @@
+{
+	"name": "Black Swarmite w/ Proboscis & Medium Tail",
+	"variant": "Black w/ Proboscis & Medium Tail",
+	"npcs": {
+		"216365": {
+			"name": "Winged Carrier"
+		},
+		"222721": {
+			"name": "Toxic Swarmite"
+		}
+	}
+}

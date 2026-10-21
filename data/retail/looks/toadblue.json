@@ -1,0 +1,178 @@
+{
+	"id": "toadblue",
+	"family": "hopper",
+	"modelGroup": "toads",
+	"npcs": [
+		{
+			"id": 73805,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "the-cursed-woods"
+				}
+			]
+		},
+		{
+			"id": 74176,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "gloomshade-grove"
+				}
+			]
+		},
+		{
+			"id": 79524,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "vile-cavern"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 79660,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "the-shimmer-moor"
+				}
+			]
+		},
+		{
+			"id": 72777,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "timeless-isle",
+					"area": "croaking-hollow"
+				}
+			]
+		},
+		{
+			"id": 140938,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "stormsong-valley",
+					"area": "tidebreak-summit"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 111216,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "meredil"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 111197,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "meredil"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 105014,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "meredil"
+				}
+			]
+		},
+		{
+			"id": 127612,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "invasion-point-bonich"
+				}
+			]
+		},
+		{
+			"id": 109303,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar"
+				}
+			]
+		}
+	]
+}

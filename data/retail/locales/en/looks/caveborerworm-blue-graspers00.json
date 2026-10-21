@@ -1,0 +1,27 @@
+{
+	"name": "Blue Jawcrawler w/ No Graspers",
+	"variant": "Blue w/ No Graspers",
+	"npcs": {
+		"215831": {
+			"name": "Agitated Borer Spawn"
+		},
+		"217615": {
+			"name": "Cave Worm"
+		},
+		"219425": {
+			"name": "Deep Worm"
+		},
+		"223388": {
+			"name": "Vein Excavator"
+		},
+		"223749": {
+			"name": "Ploughworm Broodling"
+		},
+		"223783": {
+			"name": "Ploughworm Broodling"
+		},
+		"228055": {
+			"name": "Hilltop Hatchling"
+		}
+	}
+}

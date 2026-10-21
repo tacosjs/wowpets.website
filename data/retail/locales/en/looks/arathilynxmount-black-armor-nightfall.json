@@ -1,0 +1,15 @@
+{
+	"name": "Black Lynx w/ Pale Armor",
+	"variant": "Black w/ Pale Armor",
+	"npcs": {
+		"233262": {
+			"name": "Arathi Warlynx"
+		},
+		"240907": {
+			"name": "Arathi Warlynx"
+		},
+		"242998": {
+			"name": "Mourning Warlynx"
+		}
+	}
+}

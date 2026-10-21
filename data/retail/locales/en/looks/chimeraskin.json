@@ -1,0 +1,9 @@
+{
+	"name": "Brown Chimaera",
+	"variant": "Brown",
+	"npcs": {
+		"36304": {
+			"name": "Mistwing Cliffdweller"
+		}
+	}
+}

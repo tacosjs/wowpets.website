@@ -1,0 +1,30 @@
+{
+	"name": "Blue Dreamtalon",
+	"variant": "Blue",
+	"npcs": {
+		"210005": {
+			"name": "Dreamtalon"
+		},
+		"210229": {
+			"name": "Mischievous Dreamtalon"
+		},
+		"210230": {
+			"name": "Dreamtalon Packwatcher"
+		},
+		"210892": {
+			"name": "Striped Dreamtalon"
+		},
+		"211316": {
+			"name": "Listless Dreamtalon"
+		},
+		"211447": {
+			"name": "Rowdy Dreamtalon"
+		},
+		"211630": {
+			"name": "Hunting Dreamtalon"
+		},
+		"212043": {
+			"name": "Elusive Dreamtalon"
+		}
+	}
+}

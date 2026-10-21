@@ -1,0 +1,93 @@
+{
+	"id": "spiritbeast",
+	"wowId": 46,
+	"icon": "ability_druid_primalprecision",
+	"spec": "tenacity",
+	"exotic": true,
+	"diet": [
+		"fish",
+		"meat"
+	],
+	"abilities": {
+		"basic": "claw",
+		"family": [
+			"spirit-pulse",
+			"spirit-mend",
+			"spirit-walk"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "stormrooks"
+		},
+		{
+			"id": "spiritdreamowls"
+		},
+		{
+			"id": "loatigers"
+		},
+		{
+			"id": "spectralarmoredons"
+		},
+		{
+			"id": "astralcloudserpents"
+		},
+		{
+			"id": "spiritstormwolves"
+		},
+		{
+			"id": "spiritelderhorn"
+		},
+		{
+			"id": "spectralgryphons"
+		},
+		{
+			"id": "spiritraptors"
+		},
+		{
+			"id": "manasabers"
+		},
+		{
+			"id": "spiritfoxes"
+		},
+		{
+			"id": "spirittigers"
+		},
+		{
+			"id": "spiritleopards"
+		},
+		{
+			"id": "spiritwolves"
+		},
+		{
+			"id": "spectralwolves"
+		},
+		{
+			"id": "spiritsaberworgs"
+		},
+		{
+			"id": "spiritporcupines"
+		},
+		{
+			"id": "spiritbears"
+		},
+		{
+			"id": "spiritbirds"
+		},
+		{
+			"id": "spiritcrabs"
+		},
+		{
+			"id": "spiritpangos"
+		},
+		{
+			"id": "celestialtigers"
+		},
+		{
+			"id": "celestialyaks"
+		},
+		{
+			"id": "celestialcranes"
+		}
+	]
+}

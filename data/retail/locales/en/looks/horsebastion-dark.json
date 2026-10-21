@@ -1,0 +1,9 @@
+{
+	"name": "Dark Owl Steed",
+	"variant": "Dark",
+	"npcs": {
+		"172206": {
+			"name": "Sullen Cloudstrider"
+		}
+	}
+}

@@ -1,0 +1,34 @@
+{
+	"name": "Pale Capybara",
+	"variant": "Pale",
+	"npcs": {
+		"246535": {
+			"name": "Sunbath Snoofer"
+		},
+		"250100": {
+			"name": "Kapara Pup"
+		},
+		"250832": {
+			"name": "Miscreant Kapara"
+		},
+		"254899": {
+			"name": "Peha",
+			"title": "Chik'tula's Pet "
+		},
+		"258216": {
+			"name": "Kapara Pup"
+		},
+		"259045": {
+			"name": "Acolyte Kapara"
+		},
+		"259332": {
+			"name": "Kapara Pup"
+		},
+		"261115": {
+			"name": "Kapara Pup"
+		},
+		"261652": {
+			"name": "Musty Kapara"
+		}
+	}
+}

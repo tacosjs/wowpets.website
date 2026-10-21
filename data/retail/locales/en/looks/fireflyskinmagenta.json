@@ -1,0 +1,9 @@
+{
+	"name": "Magenta Firefly",
+	"variant": "Magenta",
+	"npcs": {
+		"75471": {
+			"name": "Frenzied Swamplighter"
+		}
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"name": "Green Rugged Scorpion",
+	"variant": "Green",
+	"npcs": {
+		"51004": {
+			"name": "Toxx"
+		},
+		"51402": {
+			"name": "Madexx"
+		},
+		"137198": {
+			"name": "Oasis Stalker"
+		},
+		"140114": {
+			"name": "Clatterclaw"
+		},
+		"167344": {
+			"name": "Scorpion"
+		},
+		"220362": {
+			"name": "Smaragthr"
+		},
+		"220698": {
+			"name": "Shadowsting Scorpid"
+		},
+		"222645": {
+			"name": "Shadowsting Lurker"
+		},
+		"222874": {
+			"name": "Lurking Hatchling"
+		}
+	}
+}

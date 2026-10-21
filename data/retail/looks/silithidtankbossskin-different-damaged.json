@@ -1,0 +1,22 @@
+{
+	"id": "silithidtankbossskin-different-damaged",
+	"family": "aqiri",
+	"modelGroup": "bosssilithids",
+	"npcs": [
+		{
+			"id": 47389,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thousand-needles"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

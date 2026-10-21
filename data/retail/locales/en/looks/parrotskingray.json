@@ -1,0 +1,9 @@
+{
+	"name": "Grey Parrot",
+	"variant": "Grey",
+	"npcs": {
+		"48451": {
+			"name": "Ol' Beaky"
+		}
+	}
+}

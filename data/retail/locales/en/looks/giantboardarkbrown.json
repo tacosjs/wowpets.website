@@ -1,0 +1,30 @@
+{
+	"name": "Dark Brown Draenor Boar",
+	"variant": "Dark Brown",
+	"npcs": {
+		"125347": {
+			"name": "Mudbrush Boar"
+		},
+		"130130": {
+			"name": "Hungry Warswine"
+		},
+		"134542": {
+			"name": "Ornery Battleboar"
+		},
+		"139707": {
+			"name": "Ornery Battleboar"
+		},
+		"140098": {
+			"name": "Vicious Scarhide"
+		},
+		"140101": {
+			"name": "Swampwallow"
+		},
+		"261478": {
+			"name": "Ravine Boar"
+		},
+		"264503": {
+			"name": "Untouched Tusksplitter"
+		}
+	}
+}

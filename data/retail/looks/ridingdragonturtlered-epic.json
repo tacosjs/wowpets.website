@@ -1,0 +1,66 @@
+{
+	"id": "ridingdragonturtlered-epic",
+	"family": "turtle",
+	"modelGroup": "spikeddragonturtles",
+	"npcs": [
+		{
+			"id": 50854,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "krasarang-wilds"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 72765,
+			"tameable": true,
+			"level": {
+				"min": 37,
+				"max": 37
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "timeless-isle"
+				}
+			]
+		},
+		{
+			"id": 152553,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "ashen-strand"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 134806,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	]
+}

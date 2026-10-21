@@ -1,0 +1,9 @@
+{
+	"name": "Wounded Grey Riverbeast",
+	"variant": "Wounded Grey",
+	"npcs": {
+		"123653": {
+			"name": "Wildtusk"
+		}
+	}
+}

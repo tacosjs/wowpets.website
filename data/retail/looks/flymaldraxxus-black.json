@@ -1,0 +1,31 @@
+{
+	"id": "flymaldraxxus-black",
+	"family": "wasp",
+	"modelGroup": "corpseflies",
+	"npcs": [
+		{
+			"id": 180042,
+			"tameable": false,
+			"level": {
+				"min": 61,
+				"max": 61
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "korthia",
+					"area": "seekers-quorum"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		181211,
+		180096
+	]
+}

@@ -1,0 +1,94 @@
+{
+	"id": "mothardenweald-mint",
+	"family": "moth",
+	"modelGroup": "ardenmoths",
+	"npcs": [
+		{
+			"id": 166073,
+			"tameable": true,
+			"level": {
+				"min": 56,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald"
+				}
+			]
+		},
+		{
+			"id": 169303,
+			"tameable": true,
+			"level": {
+				"min": 57,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "emerald-glade-dreamshrine-basin"
+				}
+			]
+		},
+		{
+			"id": 170859,
+			"tameable": true,
+			"level": {
+				"min": 57,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald"
+				}
+			]
+		},
+		{
+			"id": 174201,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "the-faraway-pools"
+				}
+			]
+		},
+		{
+			"id": 172979,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald"
+				}
+			]
+		},
+		{
+			"id": 168306,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "shimmerbough"
+				}
+			]
+		}
+	]
+}

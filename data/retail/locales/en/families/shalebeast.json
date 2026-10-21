@@ -1,0 +1,11 @@
+{
+	"name": "Shale Beast",
+	"modelGroups": {
+		"gyreworms": {
+			"name": "Shale Worms"
+		},
+		"shalespiders": {
+			"name": "Shale Spiders"
+		}
+	}
+}

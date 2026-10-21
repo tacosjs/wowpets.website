@@ -1,0 +1,18 @@
+{
+	"name": "Classic Brown Stormcrow",
+	"variant": "Brown",
+	"npcs": {
+		"24747": {
+			"name": "Fjord Hawk"
+		},
+		"25748": {
+			"name": "Oil-covered Hawk"
+		},
+		"25817": {
+			"name": "Oiled Fledgeling"
+		},
+		"38154": {
+			"name": "Warhawk"
+		}
+	}
+}

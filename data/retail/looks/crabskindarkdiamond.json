@@ -1,0 +1,23 @@
+{
+	"id": "crabskindarkdiamond",
+	"family": "crab",
+	"modelGroup": "crabs",
+	"npcs": [
+		{
+			"id": 50959,
+			"tameable": true,
+			"level": {
+				"min": 37,
+				"max": 62
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "molten-front",
+					"area": "fireplume-peak"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

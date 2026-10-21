@@ -1,0 +1,22 @@
+{
+	"id": "basiliskskinblack-crystalskinpurple",
+	"family": "basilisk",
+	"modelGroup": "basilisks",
+	"npcs": [
+		{
+			"id": 14227,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "desolace"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

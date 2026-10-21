@@ -1,0 +1,24 @@
+{
+	"name": "Yellow Saurolisk",
+	"variant": "Yellow",
+	"npcs": {
+		"124642": {
+			"name": "Saurolisk Hatchling"
+		},
+		"125452": {
+			"name": "Shallows Saurolisk"
+		},
+		"127203": {
+			"name": "Grimestone Handler"
+		},
+		"128251": {
+			"name": "Sedated Saurolisk Hatchling"
+		},
+		"133887": {
+			"name": "Whistlebloom Hatchling"
+		},
+		"133888": {
+			"name": "Whistlebloom Hunter"
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Electric Red Tidal Worm",
+	"variant": "Electric Red",
+	"npcs": {
+		"153658": {
+			"name": "Shiz'narasz the Consumer"
+		},
+		"153825": {
+			"name": "Cracklemaw Colossus"
+		},
+		"222280": {
+			"name": "Voltscale Borer"
+		}
+	}
+}

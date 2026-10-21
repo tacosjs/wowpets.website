@@ -1,0 +1,45 @@
+{
+	"name": "Grey Saber Worg",
+	"variant": "Grey",
+	"npcs": {
+		"24063": {
+			"name": "Dragonflayer Worg"
+		},
+		"24517": {
+			"name": "Varg"
+		},
+		"25675": {
+			"name": "Tundra Wolf"
+		},
+		"26586": {
+			"name": "Hungry Worg"
+		},
+		"26592": {
+			"name": "Graymist Hunter"
+		},
+		"27408": {
+			"name": "Duskhowl Prowler"
+		},
+		"27523": {
+			"name": "Grizzlesnout"
+		},
+		"30164": {
+			"name": "Cavedweller Worg"
+		},
+		"31233": {
+			"name": "Sinewy Wolf"
+		},
+		"48479": {
+			"name": "Glopgut Warhound"
+		},
+		"56106": {
+			"name": "Thieving Wolf"
+		},
+		"58890": {
+			"name": "Longfang Den-Mother"
+		},
+		"58891": {
+			"name": "Longfang Cub"
+		}
+	}
+}

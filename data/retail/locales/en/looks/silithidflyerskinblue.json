@@ -1,0 +1,24 @@
+{
+	"name": "Green Wasp",
+	"variant": "Green",
+	"npcs": {
+		"5245": {
+			"name": "Zukk'ash Wasp"
+		},
+		"5450": {
+			"name": "Hazzali Stinger"
+		},
+		"11698": {
+			"name": "Hive'Ashi Stinger"
+		},
+		"11724": {
+			"name": "Hive'Ashi Swarmer"
+		},
+		"13136": {
+			"name": "Hive'Ashi Drone"
+		},
+		"15546": {
+			"name": "Hive'Zara Swarmer"
+		}
+	}
+}

@@ -1,0 +1,86 @@
+{
+	"id": "mechanicalspider",
+	"family": "mechanical",
+	"modelGroup": "mechanospiders",
+	"npcs": [
+		{
+			"id": 114991,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "dustwallow-marsh",
+					"area": "alcaz-island"
+				}
+			]
+		},
+		{
+			"id": 152315,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mechagon",
+					"area": "sparkweaver-point"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 151934,
+			"tameable": false,
+			"level": {
+				"min": 52,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "mechagon",
+					"area": "the-fleeting-forest"
+				}
+			]
+		},
+		{
+			"id": 154342,
+			"tameable": false,
+			"level": {
+				"min": 52,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "mechagon",
+					"area": "the-fleeting-forest"
+				}
+			]
+		},
+		{
+			"id": 153000,
+			"tameable": false,
+			"level": {
+				"min": 52,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "mechagon",
+					"area": "sparkweaver-point"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		152994
+	]
+}

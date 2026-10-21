@@ -1,0 +1,39 @@
+{
+	"name": "Purple Cataclysm Crocolisk",
+	"variant": "Purple",
+	"npcs": {
+		"43614": {
+			"name": "Lockmaw"
+		},
+		"46278": {
+			"name": "Gorebite"
+		},
+		"50967": {
+			"name": "Craw the Ravager"
+		},
+		"58755": {
+			"name": "Manglemaw's Mother"
+		},
+		"58769": {
+			"name": "Vicejaw"
+		},
+		"62008": {
+			"name": "Coldbite Matriarch"
+		},
+		"113190": {
+			"name": "Meredil Thrashmaw"
+		},
+		"126926": {
+			"name": "Venomjaw"
+		},
+		"132877": {
+			"name": "Dankscale"
+		},
+		"135045": {
+			"name": "Spinesnapper"
+		},
+		"231177": {
+			"name": "Crocodillian"
+		}
+	}
+}

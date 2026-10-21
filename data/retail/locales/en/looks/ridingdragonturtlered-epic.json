@@ -1,0 +1,18 @@
+{
+	"name": "Black Spiked Dragon Turtle",
+	"variant": "Black",
+	"npcs": {
+		"50854": {
+			"name": "Bloodtooth"
+		},
+		"72765": {
+			"name": "Elder Great Turtle"
+		},
+		"134806": {
+			"name": "Bloodsnapper"
+		},
+		"152553": {
+			"name": "Garnetscale"
+		}
+	}
+}

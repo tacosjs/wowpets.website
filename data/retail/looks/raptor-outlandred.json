@@ -1,0 +1,38 @@
+{
+	"id": "raptor-outlandred",
+	"family": "raptor",
+	"modelGroup": "spikedraptors",
+	"npcs": [
+		{
+			"id": 37961,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "durotar"
+				}
+			]
+		},
+		{
+			"id": 20751,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blades-edge-mountains"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		38187
+	]
+}

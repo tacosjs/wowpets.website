@@ -1,0 +1,37 @@
+{
+	"id": "windserpentskinoutland1-3",
+	"family": "windserpent",
+	"modelGroup": "spikedwindserpents",
+	"npcs": [
+		{
+			"id": 50788,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "winterspring"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 102093,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "blind-marshlands"
+				}
+			]
+		}
+	]
+}

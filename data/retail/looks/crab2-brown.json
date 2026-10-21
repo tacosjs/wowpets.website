@@ -1,0 +1,161 @@
+{
+	"id": "crab2-brown",
+	"family": "crab",
+	"modelGroup": "grandcrabs",
+	"npcs": [
+		{
+			"id": 144460,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar"
+				}
+			]
+		},
+		{
+			"id": 143718,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley"
+				},
+				{
+					"zone": "tiragarde-sound"
+				}
+			]
+		},
+		{
+			"id": 227664,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "siren-isle",
+					"area": "stormtide-dregs"
+				}
+			]
+		},
+		{
+			"id": 264705,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle"
+				}
+			]
+		},
+		{
+			"id": 256712,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "the-whispering-marsh"
+				}
+			]
+		},
+		{
+			"id": 265332,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle"
+				}
+			]
+		},
+		{
+			"id": 126429,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 138896,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 188074,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "cliffdrip-camp"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		149680,
+		189313,
+		198313,
+		198314,
+		193604,
+		197955,
+		188328,
+		199773,
+		193236,
+		200249,
+		222156,
+		224876,
+		222312,
+		254198,
+		235014,
+		191457,
+		191762,
+		190133,
+		182439,
+		223057
+	]
+}

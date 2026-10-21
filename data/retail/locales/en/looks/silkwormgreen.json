@@ -1,0 +1,18 @@
+{
+	"name": "Green Silkworm",
+	"variant": "Green",
+	"npcs": {
+		"57237": {
+			"name": "Bookworm"
+		},
+		"57403": {
+			"name": "Hungry Silkworm"
+		},
+		"65650": {
+			"name": "Frenzied Caterpillar"
+		},
+		"250057": {
+			"name": "Leafmuncher"
+		}
+	}
+}

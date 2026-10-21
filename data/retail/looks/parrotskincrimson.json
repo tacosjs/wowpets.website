@@ -1,0 +1,38 @@
+{
+	"id": "parrotskincrimson",
+	"family": "birdofprey",
+	"modelGroup": "parrots",
+	"npcs": [
+		{
+			"id": 48137,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thousand-needles"
+				}
+			]
+		},
+		{
+			"id": 60198,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "krasarang-wilds"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		10262
+	]
+}

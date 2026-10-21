@@ -1,0 +1,22 @@
+{
+	"id": "deathwargmountred",
+	"family": "stonehound",
+	"modelGroup": "saddledgargons",
+	"npcs": [
+		{
+			"id": 167139,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "witherfall-ruin"
+				}
+			]
+		}
+	]
+}

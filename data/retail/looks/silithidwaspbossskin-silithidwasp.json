@@ -1,0 +1,55 @@
+{
+	"id": "silithidwaspbossskin-silithidwasp",
+	"family": "wasp",
+	"modelGroup": "wasps",
+	"npcs": [
+		{
+			"id": 50891,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "arathi-highlands",
+					"area": "dabyries-farmstead"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 50901,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "dustwallow-marsh"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 52375,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulgurub"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		52379
+	]
+}

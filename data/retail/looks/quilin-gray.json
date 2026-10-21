@@ -1,0 +1,134 @@
+{
+	"id": "quilin-gray",
+	"family": "stonehound",
+	"modelGroup": "quilen",
+	"npcs": [
+		{
+			"id": 61945,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "mogushan-palace"
+				}
+			]
+		},
+		{
+			"id": 156046,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms",
+					"area": "mistfall-village"
+				}
+			]
+		},
+		{
+			"id": 138968,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 61455,
+			"tameable": false,
+			"level": {
+				"min": 20,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "mogushan-palace"
+				}
+			]
+		},
+		{
+			"id": 70209,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "throne-of-thunder",
+					"area": "grand-courtyard"
+				}
+			]
+		},
+		{
+			"id": 71378,
+			"tameable": false,
+			"level": {
+				"min": 37,
+				"max": 37
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "siege-of-orgrimmar",
+					"area": "the-menagerie-siege-of-orgrimmar"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 156324,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "kun-lai-summit",
+					"area": "the-yaungol-advance-westwind-rest"
+				}
+			]
+		},
+		{
+			"id": 156708,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms",
+					"area": "ancestral-rise"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

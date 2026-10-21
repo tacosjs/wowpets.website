@@ -1,0 +1,27 @@
+{
+	"id": "stag2sleigh-rednose",
+	"family": "stag",
+	"modelGroup": "winterveilstags",
+	"npcs": [
+		{
+			"id": 158558,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ironforge"
+				},
+				{
+					"zone": "orgrimmar"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		235095
+	]
+}

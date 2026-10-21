@@ -1,0 +1,69 @@
+{
+	"id": "worm",
+	"wowId": 42,
+	"icon": "ability_hunter_pet_worm",
+	"spec": "tenacity",
+	"exotic": true,
+	"diet": [
+		"bread",
+		"cheese",
+		"fungus"
+	],
+	"abilities": {
+		"basic": "bite",
+		"family": [
+			"acid-spit",
+			"burrow-attack"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "mukleeches"
+		},
+		{
+			"id": "consumptors"
+		},
+		{
+			"id": "cosmicworms"
+		},
+		{
+			"id": "jawcrawlers"
+		},
+		{
+			"id": "annelids"
+		},
+		{
+			"id": "tidalworms"
+		},
+		{
+			"id": "jormungar"
+		},
+		{
+			"id": "silkworms"
+		},
+		{
+			"id": "worms"
+		},
+		{
+			"id": "grubs"
+		},
+		{
+			"id": "larvae"
+		},
+		{
+			"id": "toothedlarvae"
+		},
+		{
+			"id": "aqiriworms"
+		},
+		{
+			"id": "spikedgrubs"
+		},
+		{
+			"id": "bloodworms"
+		},
+		{
+			"id": "seaslugs"
+		}
+	]
+}

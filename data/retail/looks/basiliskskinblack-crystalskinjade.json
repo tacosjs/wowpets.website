@@ -1,0 +1,21 @@
+{
+	"id": "basiliskskinblack-crystalskinjade",
+	"family": "basilisk",
+	"modelGroup": "basilisks",
+	"npcs": [
+		{
+			"id": 35245,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azshara"
+				}
+			]
+		}
+	]
+}

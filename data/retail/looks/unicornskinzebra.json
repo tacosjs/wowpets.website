@@ -1,0 +1,21 @@
+{
+	"id": "unicornskinzebra",
+	"family": "courser",
+	"modelGroup": "zhevras",
+	"npcs": [
+		{
+			"id": 37088,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "southern-barrens"
+				}
+			]
+		}
+	]
+}

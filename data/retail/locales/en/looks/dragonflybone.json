@@ -1,0 +1,27 @@
+{
+	"name": "Buff Hook Wasp",
+	"variant": "Buff",
+	"npcs": {
+		"84865": {
+			"name": "Widow Wasp"
+		},
+		"84866": {
+			"name": "Widow Wasp"
+		},
+		"84909": {
+			"name": "Stingtail Drone"
+		},
+		"84912": {
+			"name": "Sunderthorn"
+		},
+		"85532": {
+			"name": "Swarmleaf Drone"
+		},
+		"87540": {
+			"name": "Swarmleaf Stinger"
+		},
+		"126369": {
+			"name": "Marrowfly"
+		}
+	}
+}

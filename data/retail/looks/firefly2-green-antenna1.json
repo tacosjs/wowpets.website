@@ -1,0 +1,61 @@
+{
+	"id": "firefly2-green-antenna1",
+	"family": "moth",
+	"modelGroup": "candleflies",
+	"npcs": [
+		{
+			"id": 216055,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "the-living-grotto"
+				}
+			]
+		},
+		{
+			"id": 227364,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "salien-gutters"
+				}
+			]
+		},
+		{
+			"id": 229111,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "twitching-gorge"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		219764,
+		219350,
+		217637,
+		225244,
+		246103,
+		249059,
+		248428
+	]
+}

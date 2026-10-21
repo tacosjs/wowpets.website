@@ -1,0 +1,22 @@
+{
+	"id": "devourersmallmut-light",
+	"family": "bloodbeast",
+	"modelGroup": "mutantanimites",
+	"npcs": [
+		{
+			"id": 235087,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "the-atrium"
+				}
+			]
+		}
+	]
+}

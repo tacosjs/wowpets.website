@@ -1,0 +1,18 @@
+{
+	"name": "Blue Vulpin",
+	"variant": "Blue",
+	"npcs": {
+		"160715": {
+			"name": "Ridge Vulpin"
+		},
+		"164922": {
+			"name": "Foothills Vulpin"
+		},
+		"165251": {
+			"name": "Illusionary Vulpin"
+		},
+		"170070": {
+			"name": "Glimmerfur Denwatcher"
+		}
+	}
+}

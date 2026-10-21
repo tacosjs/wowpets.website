@@ -1,0 +1,26 @@
+{
+	"id": "crabbomb-red-black",
+	"family": "crab",
+	"modelGroup": "bombcrabs",
+	"npcs": [
+		{
+			"id": 231497,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "operation-floodgate",
+					"area": "the-waterworks"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		238625,
+		231115
+	]
+}

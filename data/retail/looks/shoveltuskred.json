@@ -1,0 +1,22 @@
+{
+	"id": "shoveltuskred",
+	"family": "oxen",
+	"modelGroup": "shoveltusks",
+	"npcs": [
+		{
+			"id": 26418,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "grizzly-hills",
+					"area": "eastwind-shore"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Brown-Grey Goblin Hyena w/ Green Armor",
+	"variant": "Brown-Grey w/ Green Armor",
+	"npcs": {
+		"238608": {
+			"name": "Trained Scrounger"
+		}
+	}
+}

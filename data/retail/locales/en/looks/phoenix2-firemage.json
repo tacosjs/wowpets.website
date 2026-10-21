@@ -1,0 +1,22 @@
+{
+	"name": "Enchanted Flame Phoenix",
+	"variant": "Enchanted Flame Phoenix",
+	"npcs": {
+		"236241": {
+			"name": "Summoned Phoenix"
+		},
+		"250951": {
+			"name": "Dawnflare, the Radiant",
+			"title": "University Pet "
+		},
+		"250952": {
+			"name": "Phoenix Bloodfeather"
+		},
+		"253063": {
+			"name": "Phoenix Bloodfeather"
+		},
+		"255241": {
+			"name": "Phoenix Hatchling"
+		}
+	}
+}

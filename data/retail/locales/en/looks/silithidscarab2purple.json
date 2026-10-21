@@ -1,0 +1,21 @@
+{
+	"name": "Violet Beetle",
+	"variant": "Violet",
+	"npcs": {
+		"5459": {
+			"name": "Centipaar Tunneler"
+		},
+		"11731": {
+			"name": "Hive'Regal Burrower"
+		},
+		"15718": {
+			"name": "Ouro Scarab"
+		},
+		"140330": {
+			"name": "Boneclatter"
+		},
+		"140333": {
+			"name": "Steelshell"
+		}
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"name": "Brown Bakar",
+	"variant": "Brown",
+	"npcs": {
+		"184656": {
+			"name": "Loyal Bakar"
+		},
+		"186167": {
+			"name": "Aylaag Bakar"
+		},
+		"191063": {
+			"name": "Shikaar Bakar"
+		},
+		"192997": {
+			"name": "Ludo"
+		},
+		"194807": {
+			"name": "Suntuft Runt"
+		},
+		"196650": {
+			"name": "Katei"
+		},
+		"197569": {
+			"name": "Alli"
+		}
+	}
+}

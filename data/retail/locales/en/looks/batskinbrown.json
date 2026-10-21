@@ -1,0 +1,36 @@
+{
+	"name": "Brown Bat",
+	"variant": "Brown",
+	"npcs": {
+		"1512": {
+			"name": "Duskbat"
+		},
+		"1513": {
+			"name": "Mangy Duskbat"
+		},
+		"1553": {
+			"name": "Greater Duskbat"
+		},
+		"16353": {
+			"name": "Mistbat"
+		},
+		"16354": {
+			"name": "Vampiric Mistbat"
+		},
+		"16355": {
+			"name": "Lesser Scourgebat"
+		},
+		"23959": {
+			"name": "Darkclaw Bat"
+		},
+		"59197": {
+			"name": "Canopy Screecher"
+		},
+		"69351": {
+			"name": "Greater Cave Bat"
+		},
+		"202341": {
+			"name": "Ancient Bat"
+		}
+	}
+}

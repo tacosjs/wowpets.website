@@ -1,0 +1,23 @@
+{
+	"id": "mammoth2lava-orange-tusk3-horn1",
+	"family": "mammoth",
+	"modelGroup": "magmammoths",
+	"npcs": [
+		{
+			"id": 181861,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "neltharus"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		191903,
+		191679,
+		181875,
+		194060
+	]
+}

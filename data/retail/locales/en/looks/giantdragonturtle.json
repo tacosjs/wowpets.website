@@ -1,0 +1,24 @@
+{
+	"name": "Grey Stone Turtle",
+	"variant": "Grey",
+	"npcs": {
+		"67977": {
+			"name": "Tortos"
+		},
+		"103247": {
+			"name": "Ultanok"
+		},
+		"111273": {
+			"name": "Lowland Manashell"
+		},
+		"112956": {
+			"name": "Shimmering Manaspine"
+		},
+		"114775": {
+			"name": "Shimmering Manaspine"
+		},
+		"156549": {
+			"name": "Menek the Infused"
+		}
+	}
+}

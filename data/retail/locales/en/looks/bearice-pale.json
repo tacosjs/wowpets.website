@@ -1,0 +1,24 @@
+{
+	"name": "Light Ice Bear",
+	"variant": "Light",
+	"npcs": {
+		"193765": {
+			"name": "Frigidpelt Cub"
+		},
+		"194171": {
+			"name": "Frostcoat Bear"
+		},
+		"195743": {
+			"name": "Roaming Frigidpelt"
+		},
+		"199354": {
+			"name": "Frostsnout Bear"
+		},
+		"203976": {
+			"name": "Frostcoat Bear"
+		},
+		"241872": {
+			"name": "Frigid Mauler"
+		}
+	}
+}

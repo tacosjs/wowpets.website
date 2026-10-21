@@ -1,0 +1,24 @@
+{
+	"id": "dragonturtledarkgreen-greenglow-epic",
+	"family": "turtle",
+	"modelGroup": "spikeddragonturtles",
+	"npcs": [
+		{
+			"id": 168438,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		170122
+	]
+}

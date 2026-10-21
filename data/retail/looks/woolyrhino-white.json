@@ -1,0 +1,65 @@
+{
+	"id": "woolyrhino-white",
+	"family": "clefthoof",
+	"modelGroup": "woollyrhinos",
+	"npcs": [
+		{
+			"id": 32361,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "borean-tundra"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 50993,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "winterspring"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 29469,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-storm-peaks"
+				}
+			]
+		},
+		{
+			"id": 30447,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-storm-peaks"
+				}
+			]
+		}
+	]
+}

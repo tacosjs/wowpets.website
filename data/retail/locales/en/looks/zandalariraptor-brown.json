@@ -1,0 +1,22 @@
+{
+	"name": "Brown Ravasaur",
+	"variant": "Brown",
+	"npcs": {
+		"123096": {
+			"name": "Frogmarsh Razormaw"
+		},
+		"130727": {
+			"name": "Fenclaw Runner"
+		},
+		"133812": {
+			"name": "Zanxib",
+			"title": "The Engorged"
+		},
+		"136426": {
+			"name": "Fenclaw Leaper"
+		},
+		"145110": {
+			"name": "Ravasaur Sniffer"
+		}
+	}
+}

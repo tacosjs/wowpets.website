@@ -1,0 +1,18 @@
+{
+	"name": "Dark Hippogryph",
+	"variant": "Dark",
+	"npcs": {
+		"6375": {
+			"name": "Thunderhead Hippogryph"
+		},
+		"9527": {
+			"name": "Enraged Hippogryph"
+		},
+		"35446": {
+			"name": "Cenarion Hippogryph"
+		},
+		"36227": {
+			"name": "Grimfeather"
+		}
+	}
+}

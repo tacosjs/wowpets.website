@@ -1,0 +1,12 @@
+{
+	"name": "Black Deepstrider w/ Yellow Glow, Large Horns & Spiny Back",
+	"variant": "Black Deepstrider w/ Yellow Glow, Large Horns & Spiny Back",
+	"npcs": {
+		"204840": {
+			"name": "Elusive Sulfurstrider"
+		},
+		"204841": {
+			"name": "Elusive Colossal Sulfurstrider"
+		}
+	}
+}

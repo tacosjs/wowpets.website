@@ -1,0 +1,97 @@
+{
+	"id": "clefthoofdraenor-blue",
+	"family": "clefthoof",
+	"modelGroup": "draenorclefthooves",
+	"npcs": [
+		{
+			"id": 78918,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "icewind-drifts"
+				}
+			]
+		},
+		{
+			"id": 84798,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "the-cracking-plains"
+				}
+			]
+		},
+		{
+			"id": 80420,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "frostwall"
+				}
+			]
+		},
+		{
+			"id": 78919,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "icewind-drifts"
+				}
+			]
+		},
+		{
+			"id": 80136,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "the-cracking-plains"
+				}
+			]
+		},
+		{
+			"id": 86847,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "coldsnap-bluffs"
+				}
+			]
+		}
+	]
+}

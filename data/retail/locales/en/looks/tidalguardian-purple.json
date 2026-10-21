@@ -1,0 +1,9 @@
+{
+	"name": "Electric Purple Tidal Worm",
+	"variant": "Electric Purple",
+	"npcs": {
+		"153890": {
+			"name": "Cracklemaw Spawn"
+		}
+	}
+}

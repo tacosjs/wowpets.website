@@ -1,0 +1,18 @@
+{
+	"name": "Yellow Fire Spider",
+	"variant": "Yellow",
+	"npcs": {
+		"52648": {
+			"name": "Cinderweb Creeper"
+		},
+		"53745": {
+			"name": "Engorged Broodling"
+		},
+		"54338": {
+			"name": "Anthriss"
+		},
+		"64321": {
+			"name": "Echoweb Spinner"
+		}
+	}
+}

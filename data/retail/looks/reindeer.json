@@ -1,0 +1,51 @@
+{
+	"id": "reindeer",
+	"family": "stag",
+	"modelGroup": "reindeer",
+	"npcs": [
+		{
+			"id": 25680,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "borean-tundra"
+				}
+			]
+		},
+		{
+			"id": 25750,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "borean-tundra",
+					"area": "scalding-pools"
+				}
+			]
+		},
+		{
+			"id": 15664,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hillsbrad-foothills",
+					"area": "growless-cave"
+				}
+			]
+		}
+	]
+}

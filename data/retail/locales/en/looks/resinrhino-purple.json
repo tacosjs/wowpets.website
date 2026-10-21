@@ -1,0 +1,12 @@
+{
+	"name": "Purple Chloroceros",
+	"variant": "Purple",
+	"npcs": {
+		"237711": {
+			"name": "Petalchomper"
+		},
+		"251561": {
+			"name": "Cascade Bull"
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"id": "viperrock-yellow-glow-red-glow-blue",
+	"family": "serpent",
+	"modelGroup": "rockcobras",
+	"npcs": [
+		{
+			"id": 208691,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "slagfell-hold"
+				}
+			]
+		}
+	]
+}

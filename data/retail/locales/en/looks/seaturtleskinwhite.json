@@ -1,0 +1,25 @@
+{
+	"name": "White Turtle",
+	"variant": "White",
+	"npcs": {
+		"6352": {
+			"name": "Coralshell Lurker"
+		},
+		"25482": {
+			"name": "Sand Turtle"
+		},
+		"33711": {
+			"name": "Plagued Snapper"
+		},
+		"36732": {
+			"name": "Ancient Island Turtle"
+		},
+		"48128": {
+			"name": "Stranded Sparkleshell"
+		},
+		"101467": {
+			"name": "Jaggen-Ra",
+			"title": "Stepping Stone"
+		}
+	}
+}

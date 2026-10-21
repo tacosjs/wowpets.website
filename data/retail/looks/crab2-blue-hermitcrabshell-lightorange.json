@@ -1,0 +1,22 @@
+{
+	"id": "crab2-blue-hermitcrabshell-lightorange",
+	"family": "crab",
+	"modelGroup": "hermitcrabs",
+	"npcs": [
+		{
+			"id": 148454,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "coral-forest-dragons-teeth-basin"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Brown Storm Wolf",
+	"variant": "Brown",
+	"npcs": {
+		"151147": {
+			"name": "Hati"
+		},
+		"220890": {
+			"name": "Matriarch Charfuria"
+		},
+		"222796": {
+			"name": "Rustcloud Runt"
+		}
+	}
+}

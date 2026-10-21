@@ -1,0 +1,81 @@
+{
+	"id": "eagle2wind-dark",
+	"family": "birdofprey",
+	"modelGroup": "ohunas",
+	"npcs": [
+		{
+			"id": 195002,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "eclipse-lake"
+				}
+			]
+		},
+		{
+			"id": 196536,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "the-petitioners-concourse"
+				}
+			]
+		},
+		{
+			"id": 196468,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "drake-grotto"
+				}
+			]
+		},
+		{
+			"id": 187548,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "emerald-gardens"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		195456,
+		194849,
+		195045,
+		194750,
+		195208,
+		191201,
+		196059,
+		197950,
+		193306,
+		191245,
+		194913,
+		195731
+	]
+}

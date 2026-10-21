@@ -1,0 +1,25 @@
+{
+	"name": "Black Spiked Crab w/ Blue Markings",
+	"variant": "Black w/ Blue Markings",
+	"npcs": {
+		"41922": {
+			"name": "Pyreshell Scuttler"
+		},
+		"66748": {
+			"name": "Venerable Viseclaw"
+		},
+		"134797": {
+			"name": "Ocean Recluse"
+		},
+		"218893": {
+			"name": "Undersea Scuttler"
+		},
+		"224589": {
+			"name": "Colossal Crab",
+			"title": "Tamed Kobyss Monstrosity"
+		},
+		"257101": {
+			"name": "Trench Crawler"
+		}
+	}
+}

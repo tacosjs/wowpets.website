@@ -1,0 +1,50 @@
+{
+	"name": "Blue & Gold Hippogryph",
+	"variant": "Blue & Gold",
+	"npcs": {
+		"89386": {
+			"name": "Cliffwing Hippogryph"
+		},
+		"90480": {
+			"name": "Tormented Stagwing"
+		},
+		"93469": {
+			"name": "Majestic Gladewatcher"
+		},
+		"99222": {
+			"name": "Cliffwing Hippogryph"
+		},
+		"101780": {
+			"name": "Moonfall Hippogryph"
+		},
+		"102024": {
+			"name": "Moonfall Hippogryph"
+		},
+		"102034": {
+			"name": "Wild Moonfall Hippogryph"
+		},
+		"102712": {
+			"name": "Wild Moonfall Hippogryph"
+		},
+		"103549": {
+			"name": "Wild Moonfall Hippogryph"
+		},
+		"111675": {
+			"name": "Ancient Cloudwing",
+			"title": "Flight Master"
+		},
+		"111898": {
+			"name": "Guardian Hippogryph"
+		},
+		"112909": {
+			"name": "Canyon Cloudwing"
+		},
+		"114718": {
+			"name": "Ancient Cloudwing",
+			"title": "Flight Master"
+		},
+		"235022": {
+			"name": "Hippogryph"
+		}
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"id": "manawyrm2-void",
+	"family": "serpent",
+	"modelGroup": "eversongmanawyrms",
+	"npcs": [
+		{
+			"id": 255302,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "sanctum-of-the-moon"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 254972,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "sunstrider-isle"
+				}
+			]
+		}
+	]
+}

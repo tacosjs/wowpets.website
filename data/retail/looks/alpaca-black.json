@@ -1,0 +1,25 @@
+{
+	"id": "alpaca-black",
+	"family": "camel",
+	"modelGroup": "alpacas",
+	"npcs": [
+		{
+			"id": 162681,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		126627,
+		136354
+	]
+}

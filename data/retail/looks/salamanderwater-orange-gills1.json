@@ -1,0 +1,83 @@
+{
+	"id": "salamanderwater-orange-gills1",
+	"family": "lizard",
+	"modelGroup": "salamanthers",
+	"npcs": [
+		{
+			"id": 185786,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "blueshore-prairie-lilac-ramble"
+				}
+			]
+		},
+		{
+			"id": 190961,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		},
+		{
+			"id": 189841,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "mirewood-fen"
+				}
+			]
+		},
+		{
+			"id": 210788,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "singing-fen"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		191653,
+		190243,
+		195461,
+		190242,
+		195848,
+		191656,
+		201096,
+		251394,
+		198376,
+		196968,
+		191659,
+		186701,
+		185648,
+		195492,
+		194062
+	]
+}

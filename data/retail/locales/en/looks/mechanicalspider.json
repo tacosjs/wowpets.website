@@ -1,0 +1,21 @@
+{
+	"name": "Gold Mechanical Spider",
+	"variant": "Gold",
+	"npcs": {
+		"114991": {
+			"name": "Golden Arachnodrone"
+		},
+		"151934": {
+			"name": "Arachnoid Harvester"
+		},
+		"152315": {
+			"name": "Sparkweaver Ohm"
+		},
+		"153000": {
+			"name": "Sparkqueen P'Emp"
+		},
+		"154342": {
+			"name": "Arachnoid Harvester"
+		}
+	}
+}

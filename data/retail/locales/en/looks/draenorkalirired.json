@@ -1,0 +1,21 @@
+{
+	"name": "Red Draenor Kaliri",
+	"variant": "Red",
+	"npcs": {
+		"88587": {
+			"name": "Darkbeak Kaliri"
+		},
+		"95236": {
+			"name": "Kaliri Skywatcher"
+		},
+		"194953": {
+			"name": "Redbeak Swooper"
+		},
+		"198824": {
+			"name": "Hunting Redbeak"
+		},
+		"213546": {
+			"name": "Protected Dream Raven"
+		}
+	}
+}

@@ -1,0 +1,42 @@
+{
+	"name": "Dark Brown Stag",
+	"variant": "Dark Brown",
+	"npcs": {
+		"107758": {
+			"name": "Amberfall Greatstag"
+		},
+		"109942": {
+			"name": "Storm's Reach Greatstag"
+		},
+		"126708": {
+			"name": "Noblehoof Stag"
+		},
+		"128361": {
+			"name": "Hexcrazed Greatstag"
+		},
+		"128384": {
+			"name": "Lowlands Greatstag"
+		},
+		"129835": {
+			"name": "Gorehorn"
+		},
+		"137349": {
+			"name": "Ashenwood Stag"
+		},
+		"140251": {
+			"name": "Pinegraze Buck"
+		},
+		"142195": {
+			"name": "Riverland Stag"
+		},
+		"165730": {
+			"name": "Plains Stag"
+		},
+		"191529": {
+			"name": "Bramblestag"
+		},
+		"214229": {
+			"name": "Barkhoof Stag"
+		}
+	}
+}

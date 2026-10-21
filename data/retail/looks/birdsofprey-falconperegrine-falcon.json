@@ -1,0 +1,151 @@
+{
+	"id": "birdsofprey-falconperegrine-falcon",
+	"family": "birdofprey",
+	"modelGroup": "falcons",
+	"npcs": [
+		{
+			"id": 127780,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "hunters-run"
+				}
+			]
+		},
+		{
+			"id": 128188,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "highroad-pass"
+				}
+			]
+		},
+		{
+			"id": 128852,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "near-fallhaven"
+				}
+			]
+		},
+		{
+			"id": 133988,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "upper-corlain"
+				}
+			]
+		},
+		{
+			"id": 218201,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn"
+				}
+			]
+		},
+		{
+			"id": 179905,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eye-of-azshara-non-instanced"
+				}
+			]
+		},
+		{
+			"id": 131518,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "upper-corlain"
+				}
+			]
+		},
+		{
+			"id": 132240,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "corlain-aviary"
+				}
+			]
+		},
+		{
+			"id": 161125,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "uldum"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		195324,
+		224456,
+		220295,
+		229088,
+		196684
+	]
+}

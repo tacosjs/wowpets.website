@@ -1,0 +1,12 @@
+{
+	"name": "Yellow Loa Toad",
+	"variant": "Yellow",
+	"npcs": {
+		"144827": {
+			"name": "Bogbelcher"
+		},
+		"144830": {
+			"name": "Yaz'za the Devourer"
+		}
+	}
+}

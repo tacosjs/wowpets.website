@@ -1,0 +1,82 @@
+{
+	"id": "talbukdraenor-black",
+	"family": "stag",
+	"modelGroup": "draenortalbuks",
+	"npcs": [
+		{
+			"id": 78274,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "plains-of-serenity"
+				}
+			]
+		},
+		{
+			"id": 78276,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "plains-of-serenity"
+				}
+			]
+		},
+		{
+			"id": 82513,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "plains-of-serenity"
+				}
+			]
+		},
+		{
+			"id": 82778,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "nagrand-draenor",
+					"area": "stonecrag-gorge"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 80532,
+			"tameable": false,
+			"level": {
+				"min": 20,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "talador"
+				}
+			]
+		}
+	]
+}

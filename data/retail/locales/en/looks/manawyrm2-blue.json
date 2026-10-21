@@ -1,0 +1,51 @@
+{
+	"name": "Blue Eversong Mana Wyrm",
+	"variant": "Blue",
+	"npcs": {
+		"242520": {
+			"name": "Encroaching Mana Wyrm"
+		},
+		"242521": {
+			"name": "Encroaching Mana Wyrm"
+		},
+		"247392": {
+			"name": "Agitated Wyrm"
+		},
+		"247393": {
+			"name": "Molted Mana Wyrm"
+		},
+		"247649": {
+			"name": "Engorged Silk Wyrm"
+		},
+		"249447": {
+			"name": "Mysterious Mana Wyrm"
+		},
+		"249959": {
+			"name": "Arcane Wyrm"
+		},
+		"250026": {
+			"name": "Arcane Manathirster"
+		},
+		"250028": {
+			"name": "Mana Thirster"
+		},
+		"250318": {
+			"name": "Mana Usher"
+		},
+		"251468": {
+			"name": "Listless Mana Wyrm"
+		},
+		"253959": {
+			"name": "Arcane Manathirster"
+		},
+		"253960": {
+			"name": "Mana Thirster"
+		},
+		"255148": {
+			"name": "Arcane Wyrmling"
+		},
+		"255194": {
+			"name": "Void-Singed Wyrmling"
+		}
+	}
+}

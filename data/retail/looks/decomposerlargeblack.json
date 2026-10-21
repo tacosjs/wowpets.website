@@ -1,0 +1,76 @@
+{
+	"id": "decomposerlargeblack",
+	"family": "carapid",
+	"modelGroup": "greatergorms",
+	"npcs": [
+		{
+			"id": 169043,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "gormhive"
+				}
+			]
+		},
+		{
+			"id": 164033,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald"
+				}
+			]
+		},
+		{
+			"id": 165418,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "gormhive"
+				}
+			]
+		},
+		{
+			"id": 155250,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "tower-of-the-damned",
+					"area": "torghast"
+				}
+			]
+		},
+		{
+			"id": 177979,
+			"tameable": false,
+			"level": {
+				"min": 62,
+				"max": 62
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-maw"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Burgundy Basilisk w/Orange Fringes",
+	"variant": "Burgundy w/Orange",
+	"npcs": {
+		"66188": {
+			"name": "Amberscale Basilisk"
+		},
+		"69172": {
+			"name": "Sul'lithuz Stonegazer"
+		},
+		"72329": {
+			"name": "Lavalisk"
+		}
+	}
+}

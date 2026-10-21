@@ -1,0 +1,21 @@
+{
+	"name": "Mossy Black & Purple Annelid",
+	"variant": "Black & Purple",
+	"npcs": {
+		"179005": {
+			"name": "Annelid Mudborer"
+		},
+		"179962": {
+			"name": "Annelid Roamer"
+		},
+		"181075": {
+			"name": "Annelid Mudborer"
+		},
+		"182360": {
+			"name": "Annelid Mudborer"
+		},
+		"184324": {
+			"name": "Wiggling Annelid"
+		}
+	}
+}

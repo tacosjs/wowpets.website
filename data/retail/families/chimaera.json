@@ -1,0 +1,46 @@
+{
+	"id": "chimaera",
+	"wowId": 38,
+	"icon": "ability_hunter_pet_chimera",
+	"spec": "ferocity",
+	"exotic": true,
+	"diet": [
+		"meat"
+	],
+	"abilities": {
+		"basic": "bite",
+		"family": [
+			"frost-breath",
+			"froststorm-breath"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "skyfiends"
+		},
+		{
+			"id": "deathchimaeras"
+		},
+		{
+			"id": "saddleddeathchimaeras"
+		},
+		{
+			"id": "rylaks"
+		},
+		{
+			"id": "armoredrylaks"
+		},
+		{
+			"id": "saddledrylaks"
+		},
+		{
+			"id": "armoredchimaeras"
+		},
+		{
+			"id": "chimaeras"
+		},
+		{
+			"id": "otherchimaeras"
+		}
+	]
+}

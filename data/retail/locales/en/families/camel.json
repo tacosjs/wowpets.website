@@ -1,0 +1,11 @@
+{
+	"name": "Camels",
+	"modelGroups": {
+		"alpacas": {
+			"name": "Alpacas"
+		},
+		"camels": {
+			"name": "Camels"
+		}
+	}
+}

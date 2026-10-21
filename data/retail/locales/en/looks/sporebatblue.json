@@ -1,0 +1,21 @@
+{
+	"name": "Blue Sporebat",
+	"variant": "Blue",
+	"npcs": {
+		"18128": {
+			"name": "Sporebat"
+		},
+		"18201": {
+			"name": "Tamed Sporebat"
+		},
+		"21246": {
+			"name": "Serpentshrine Sporebat"
+		},
+		"22120": {
+			"name": "Fathom Sporebat"
+		},
+		"22140": {
+			"name": "Toxic Sporebat"
+		}
+	}
+}

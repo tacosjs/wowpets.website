@@ -1,0 +1,18 @@
+{
+	"name": "Saddled Skeletal Gryphon",
+	"variant": "Saddled Skeletal Gryphon",
+	"npcs": {
+		"29648": {
+			"name": "Bone Gryphon"
+		},
+		"30335": {
+			"name": "Shadow Vault Gryphon"
+		},
+		"35491": {
+			"name": "Black Knight's Skeletal Gryphon"
+		},
+		"117589": {
+			"name": "Ebon Blade Steed"
+		}
+	}
+}

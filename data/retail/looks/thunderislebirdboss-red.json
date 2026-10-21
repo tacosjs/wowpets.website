@@ -1,0 +1,69 @@
+{
+	"id": "thunderislebirdboss-red",
+	"family": "carrionbird",
+	"modelGroup": "teroclaws",
+	"npcs": [
+		{
+			"id": 69712,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "throne-of-thunder",
+					"area": "roost-of-ji-kun"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 169050,
+			"tameable": true,
+			"level": {
+				"min": 54,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "tranquil-pools"
+				}
+			]
+		},
+		{
+			"id": 170698,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "furrowed-glen"
+				}
+			]
+		},
+		{
+			"id": 73193,
+			"tameable": false,
+			"level": {
+				"min": 37,
+				"max": 37
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "throne-of-thunder",
+					"area": "roost-of-ji-kun"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

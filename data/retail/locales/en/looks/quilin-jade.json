@@ -1,0 +1,21 @@
+{
+	"name": "Jade Quilen",
+	"variant": "Jade",
+	"npcs": {
+		"63092": {
+			"name": "Jade Quilen"
+		},
+		"64686": {
+			"name": "Granite Fragment"
+		},
+		"66772": {
+			"name": "Beast of Jade"
+		},
+		"139475": {
+			"name": "Jade-Formed Bonesnapper"
+		},
+		"157290": {
+			"name": "Jade Watcher"
+		}
+	}
+}

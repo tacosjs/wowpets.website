@@ -1,0 +1,15 @@
+{
+	"name": "Yellow Skyscreamer",
+	"variant": "Yellow",
+	"npcs": {
+		"69128": {
+			"name": "Hatchling Skyscreamer"
+		},
+		"69162": {
+			"name": "Juvenile Skyscreamer"
+		},
+		"69207": {
+			"name": "Young Skyscreamer"
+		}
+	}
+}

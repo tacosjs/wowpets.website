@@ -1,0 +1,26 @@
+{
+	"id": "dreamowl-blue-brow2-ears2-antlers2-tail1",
+	"family": "birdofprey",
+	"modelGroup": "dreamowls",
+	"npcs": [
+		{
+			"id": 211176,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		210530,
+		212085,
+		213544
+	]
+}

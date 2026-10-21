@@ -1,0 +1,9 @@
+{
+	"name": "Undead Black Hexed Eagle",
+	"variant": "Undead Black Hexed Eagle",
+	"npcs": {
+		"247572": {
+			"name": "Nekraxx"
+		}
+	}
+}

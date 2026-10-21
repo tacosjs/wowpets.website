@@ -1,0 +1,9 @@
+{
+	"name": "Phantasmal Mammoth",
+	"variant": "Phantasmal",
+	"npcs": {
+		"27642": {
+			"name": "Phantasmal Mammoth"
+		}
+	}
+}

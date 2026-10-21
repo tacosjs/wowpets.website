@@ -1,0 +1,13 @@
+{
+	"name": "Red Skyscreamer",
+	"variant": "Red",
+	"npcs": {
+		"69279": {
+			"name": "Ripi",
+			"title": "Beastcaller Tuk'wa's Pet"
+		},
+		"94605": {
+			"name": "Wild Pterrorwing Hatchling"
+		}
+	}
+}

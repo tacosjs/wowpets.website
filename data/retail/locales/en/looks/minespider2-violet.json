@@ -1,0 +1,24 @@
+{
+	"name": "Purple Spider",
+	"variant": "Purple",
+	"npcs": {
+		"15974": {
+			"name": "Dread Creeper"
+		},
+		"29461": {
+			"name": "Icetip Crawler"
+		},
+		"49346": {
+			"name": "Coldlurk Creeper"
+		},
+		"50763": {
+			"name": "Shadowstalker"
+		},
+		"134912": {
+			"name": "Violet Creeper"
+		},
+		"155062": {
+			"name": "Hivetrap Broodling"
+		}
+	}
+}

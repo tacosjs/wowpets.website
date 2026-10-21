@@ -1,0 +1,105 @@
+{
+	"id": "riverotterlarge-white",
+	"family": "rodent",
+	"modelGroup": "ottuks",
+	"npcs": [
+		{
+			"id": 192887,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		},
+		{
+			"id": 189780,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		},
+		{
+			"id": 186470,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "iskaara"
+				}
+			]
+		},
+		{
+			"id": 186400,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "kauriq-gleamlet"
+				}
+			]
+		},
+		{
+			"id": 195496,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "teerakai"
+				}
+			]
+		},
+		{
+			"id": 186468,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "iskaara"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		191456,
+		195442,
+		191615,
+		190657,
+		197846,
+		187580,
+		191616,
+		190267
+	]
+}

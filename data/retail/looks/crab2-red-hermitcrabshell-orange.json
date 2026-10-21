@@ -1,0 +1,36 @@
+{
+	"id": "crab2-red-hermitcrabshell-orange",
+	"family": "crab",
+	"modelGroup": "hermitcrabs",
+	"npcs": [
+		{
+			"id": 153026,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "dragons-teeth-basin"
+				}
+			],
+			"keepsName": true
+		}
+	],
+	"alsoNpcs": [
+		148454,
+		192123,
+		193605,
+		197954,
+		198783,
+		199776,
+		210382,
+		200949,
+		217122,
+		251462,
+		250061
+	]
+}

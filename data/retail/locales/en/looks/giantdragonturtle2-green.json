@@ -1,0 +1,12 @@
+{
+	"name": "Silver & Green Stone Turtle",
+	"variant": "Silver & Green",
+	"npcs": {
+		"160629": {
+			"name": "Baedos"
+		},
+		"168434": {
+			"name": "Riverfall Crystalback"
+		}
+	}
+}

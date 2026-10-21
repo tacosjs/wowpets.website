@@ -1,0 +1,62 @@
+{
+	"id": "snakeskinred",
+	"family": "serpent",
+	"modelGroup": "groundsnakes",
+	"npcs": [
+		{
+			"id": 140692,
+			"tameable": true,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 29630,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gundrak",
+					"area": "den-of-sseratus"
+				}
+			]
+		},
+		{
+			"id": 40280,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shimmering-expanse",
+					"area": "ruins-of-thelserai-temple"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		29637,
+		29444,
+		47740,
+		24338,
+		158465,
+		254511,
+		44180,
+		65604
+	]
+}

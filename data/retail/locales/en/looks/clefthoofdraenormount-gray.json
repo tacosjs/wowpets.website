@@ -1,0 +1,12 @@
+{
+	"name": "Saddled Grey Draenor Clefthoof",
+	"variant": "Grey",
+	"npcs": {
+		"77519": {
+			"name": "Giantbane"
+		},
+		"78528": {
+			"name": "Trained Clefthoof Mount"
+		}
+	}
+}

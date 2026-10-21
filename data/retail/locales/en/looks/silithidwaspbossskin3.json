@@ -1,0 +1,9 @@
+{
+	"name": "Blue Boss Wasp",
+	"variant": "Blue",
+	"npcs": {
+		"28086": {
+			"name": "Sapphire Hive Wasp"
+		}
+	}
+}

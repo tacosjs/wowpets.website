@@ -1,0 +1,21 @@
+{
+	"id": "hydraskinoutland",
+	"family": "hydra",
+	"modelGroup": "outlandhydras",
+	"npcs": [
+		{
+			"id": 20324,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zangarmarsh"
+				}
+			]
+		}
+	]
+}

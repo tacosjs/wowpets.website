@@ -1,0 +1,36 @@
+{
+	"name": "Magenta Rhinoceros Beetle",
+	"variant": "Magenta",
+	"npcs": {
+		"186050": {
+			"name": "Orchid Stagbeetle"
+		},
+		"189750": {
+			"name": "Skittering Woodborer"
+		},
+		"189762": {
+			"name": "Skittering Woodborer"
+		},
+		"192410": {
+			"name": "Mature Scalecrawler"
+		},
+		"194957": {
+			"name": "Mature Scalerender"
+		},
+		"195417": {
+			"name": "Tsokorg"
+		},
+		"196498": {
+			"name": "Skittering Boneborer"
+		},
+		"199844": {
+			"name": "Mature Scalerender"
+		},
+		"203027": {
+			"name": "Mature Scalerender"
+		},
+		"210799": {
+			"name": "Horned Skitter"
+		}
+	}
+}

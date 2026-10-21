@@ -1,0 +1,12 @@
+{
+	"name": "Icy Blue Armoredon",
+	"variant": "Icy Blue",
+	"npcs": {
+		"183612": {
+			"name": "Tundra Rhino"
+		},
+		"192759": {
+			"name": "Gorger"
+		}
+	}
+}

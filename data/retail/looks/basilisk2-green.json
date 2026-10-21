@@ -1,0 +1,171 @@
+{
+	"id": "basilisk2-green",
+	"family": "basilisk",
+	"modelGroup": "spinybasilisks",
+	"npcs": [
+		{
+			"id": 107965,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormheim",
+					"area": "stonescar-gorge"
+				}
+			]
+		},
+		{
+			"id": 130584,
+			"tameable": true,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 196176,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "veiled-ossuary"
+				}
+			]
+		},
+		{
+			"id": 188039,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "apex-canopy"
+				}
+			]
+		},
+		{
+			"id": 193579,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "genesis-falls"
+				}
+			]
+		},
+		{
+			"id": 226700,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps"
+				}
+			]
+		},
+		{
+			"id": 217523,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "golgrins-reach"
+				}
+			]
+		},
+		{
+			"id": 130333,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 134822,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 190333,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "apex-observatory"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		191697,
+		199194,
+		189756,
+		191696,
+		189757,
+		191695,
+		191694,
+		184023,
+		221298,
+		219949,
+		226397,
+		222302,
+		225026,
+		199197,
+		190249
+	]
+}

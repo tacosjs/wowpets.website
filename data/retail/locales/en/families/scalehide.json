@@ -1,0 +1,47 @@
+{
+	"name": "Scalehides",
+	"modelGroups": {
+		"primalultradons": {
+			"name": "Primal Ultradons"
+		},
+		"pangos": {
+			"name": "Pangos"
+		},
+		"ultradons": {
+			"name": "Ultradons"
+		},
+		"thornmaws": {
+			"name": "Thornmaws"
+		},
+		"toxicultradons": {
+			"name": "Toxic Ultradons"
+		},
+		"armoredons": {
+			"name": "Armoredons"
+		},
+		"shardhides": {
+			"name": "Shardhides"
+		},
+		"ankylodons": {
+			"name": "Ankylodons"
+		},
+		"primalthunderlizards": {
+			"name": "Primal Thunder Lizards"
+		},
+		"thunderlizards": {
+			"name": "Thunder Lizards"
+		},
+		"mushan": {
+			"name": "Mushan"
+		},
+		"kodos": {
+			"name": "Kodos"
+		},
+		"warkodos": {
+			"name": "War Kodos"
+		},
+		"stegodons": {
+			"name": "Classic Thunder Lizards"
+		}
+	}
+}

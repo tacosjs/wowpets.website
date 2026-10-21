@@ -1,0 +1,37 @@
+{
+	"id": "shadowstalkerpanther-fel",
+	"family": "cat",
+	"modelGroup": "panthara",
+	"npcs": [
+		{
+			"id": 126198,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "antoran-wastes",
+					"area": "den-of-despair"
+				}
+			]
+		},
+		{
+			"id": 126208,
+			"tameable": false,
+			"level": {
+				"min": 47,
+				"max": 47
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "antoran-wastes",
+					"area": "den-of-despair"
+				}
+			]
+		}
+	]
+}

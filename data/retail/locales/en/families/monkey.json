@@ -1,0 +1,14 @@
+{
+	"name": "Monkeys",
+	"modelGroups": {
+		"monkeys": {
+			"name": "Monkeys"
+		},
+		"monkeyswithfezzes": {
+			"name": "Monkeys with Fezzes"
+		},
+		"marmonis": {
+			"name": "Marmonis"
+		}
+	}
+}

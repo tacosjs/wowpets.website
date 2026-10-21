@@ -1,0 +1,30 @@
+{
+	"id": "giantparrot-green",
+	"family": "birdofprey",
+	"modelGroup": "grandparrots",
+	"npcs": [
+		{
+			"id": 136582,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "anyport"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		132275,
+		140464,
+		227686,
+		129230,
+		132339,
+		200857
+	]
+}

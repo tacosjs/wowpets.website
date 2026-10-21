@@ -1,0 +1,9 @@
+{
+	"name": "Red & Cyan Thornmaw",
+	"variant": "Red & Cyan",
+	"npcs": {
+		"256075": {
+			"name": "Roving Thornmaw"
+		}
+	}
+}

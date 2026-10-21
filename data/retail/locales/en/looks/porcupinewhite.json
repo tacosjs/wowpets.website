@@ -1,0 +1,12 @@
+{
+	"name": "White Porcupine",
+	"variant": "White",
+	"npcs": {
+		"54896": {
+			"name": "Glade Porcupine"
+		},
+		"146140": {
+			"name": "Quilldozer"
+		}
+	}
+}

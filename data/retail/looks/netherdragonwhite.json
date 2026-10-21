@@ -1,0 +1,22 @@
+{
+	"id": "netherdragonwhite",
+	"family": "serpent",
+	"modelGroup": "arcanewyrms",
+	"npcs": [
+		{
+			"id": 25711,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "borean-tundra",
+					"area": "coldarra"
+				}
+			]
+		}
+	]
+}

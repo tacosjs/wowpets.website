@@ -1,0 +1,38 @@
+{
+	"id": "silithidwaspbossskin2",
+	"family": "wasp",
+	"modelGroup": "bosswasps",
+	"npcs": [
+		{
+			"id": 50895,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "stonetalon-mountains",
+					"area": "thaldarah-grove"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 52442,
+			"tameable": true,
+			"level": {
+				"min": 36,
+				"max": 36
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulgurub"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

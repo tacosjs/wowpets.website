@@ -1,0 +1,144 @@
+{
+	"id": "saber2-dark",
+	"family": "spiritbeast",
+	"modelGroup": "manasabers",
+	"npcs": [
+		{
+			"id": 110340,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "suramar"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 113694,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "crimson-thicket"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 118282,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "broken-shore",
+					"area": "the-weeping-terrace"
+				}
+			]
+		},
+		{
+			"id": 118678,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "broken-shore"
+				}
+			]
+		},
+		{
+			"id": 110903,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna",
+					"area": "farondale"
+				}
+			]
+		},
+		{
+			"id": 114767,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "suramar-city"
+				}
+			]
+		},
+		{
+			"id": 113332,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "all-in"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 105719,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "court-of-stars"
+				}
+			]
+		},
+		{
+			"id": 105699,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "court-of-stars"
+				}
+			]
+		}
+	]
+}

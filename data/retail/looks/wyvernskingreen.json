@@ -1,0 +1,43 @@
+{
+	"id": "wyvernskingreen",
+	"family": "feathermane",
+	"modelGroup": "windriders",
+	"npcs": [
+		{
+			"id": 4015,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 60
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "stonetalon-mountains",
+					"area": "windshear-heights"
+				}
+			],
+			"keepsName": true,
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 47486,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "thousand-needles",
+					"area": "highperch"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Teal Serpent",
+	"variant": "Teal",
+	"npcs": {
+		"5225": {
+			"name": "Murk Spitter"
+		},
+		"50735": {
+			"name": "Blinkeye the Rattler"
+		},
+		"102091": {
+			"name": "Slithering Swampserpent"
+		}
+	}
+}

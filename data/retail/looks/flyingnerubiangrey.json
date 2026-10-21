@@ -1,0 +1,27 @@
+{
+	"id": "flyingnerubiangrey",
+	"family": "bloodbeast",
+	"modelGroup": "classicswarmites",
+	"npcs": [
+		{
+			"id": 25451,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 71
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "borean-tundra",
+					"area": "warsong-hold"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"id": "emeralddreamstag-ashes-antlers3",
+	"family": "stag",
+	"modelGroup": "dreamstags",
+	"npcs": [
+		{
+			"id": 213781,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "meandering-rootlands"
+				}
+			]
+		},
+		{
+			"id": 208653,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

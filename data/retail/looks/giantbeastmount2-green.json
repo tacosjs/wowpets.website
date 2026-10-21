@@ -1,0 +1,39 @@
+{
+	"id": "giantbeastmount2-green",
+	"family": "oxen",
+	"modelGroup": "armouredtauralus",
+	"npcs": [
+		{
+			"id": 170850,
+			"tameable": false,
+			"level": {
+				"min": 61,
+				"max": 61
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "theater-of-pain"
+				}
+			]
+		},
+		{
+			"id": 168148,
+			"tameable": false,
+			"level": {
+				"min": 62,
+				"max": 62
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "theater-of-pain"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		170969
+	]
+}

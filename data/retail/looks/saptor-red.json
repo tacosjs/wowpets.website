@@ -1,0 +1,44 @@
+{
+	"id": "saptor-red",
+	"family": "raptor",
+	"modelGroup": "saptors",
+	"npcs": [
+		{
+			"id": 250176,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar"
+				}
+			]
+		},
+		{
+			"id": 253249,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "the-gulf-of-memory"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		237201,
+		242403,
+		251916,
+		249285,
+		248470,
+		249508,
+		249165
+	]
+}

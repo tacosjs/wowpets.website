@@ -1,0 +1,39 @@
+{
+	"name": "Pale Nightsaber",
+	"variant": "Pale",
+	"npcs": {
+		"95772": {
+			"name": "Frenzied Nightclaw"
+		},
+		"99749": {
+			"name": "Moonlight Hunter"
+		},
+		"104404": {
+			"name": "Thicket Hunter"
+		},
+		"104894": {
+			"name": "Moonlight Cub"
+		},
+		"109320": {
+			"name": "Starlight Saber"
+		},
+		"113198": {
+			"name": "Trapped Thicket Hunter"
+		},
+		"135720": {
+			"name": "Moon-Touched Huntress"
+		},
+		"135723": {
+			"name": "Moonclaw"
+		},
+		"139523": {
+			"name": "Moonclaw"
+		},
+		"169051": {
+			"name": "Anima-Starved Patriarch"
+		},
+		"169913": {
+			"name": "Runestalker Runt"
+		}
+	}
+}

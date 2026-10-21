@@ -1,0 +1,35 @@
+{
+	"id": "ram2-blue",
+	"family": "gruffhorn",
+	"modelGroup": "greaterrams",
+	"npcs": [
+		{
+			"id": 26426,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dragonblight"
+				}
+			]
+		},
+		{
+			"id": 29958,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 31
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-storm-peaks"
+				}
+			]
+		}
+	]
+}

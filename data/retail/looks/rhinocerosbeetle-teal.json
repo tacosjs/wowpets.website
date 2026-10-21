@@ -1,0 +1,84 @@
+{
+	"id": "rhinocerosbeetle-teal",
+	"family": "beetle",
+	"modelGroup": "rhinocerosbeetles",
+	"npcs": [
+		{
+			"id": 186725,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "mudfin-village"
+				}
+			]
+		},
+		{
+			"id": 207567,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "ruby-life-pools"
+				}
+			]
+		},
+		{
+			"id": 258343,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "the-den"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		196489,
+		195709,
+		196639,
+		194054,
+		187484,
+		197825,
+		195380,
+		186714,
+		207072,
+		227439,
+		256345,
+		256344,
+		256349,
+		248127,
+		256324,
+		256766,
+		256225,
+		251251,
+		250509,
+		256870,
+		237249,
+		250335,
+		256303,
+		256304,
+		198244,
+		197439,
+		196616,
+		198423,
+		209504,
+		240871
+	]
+}

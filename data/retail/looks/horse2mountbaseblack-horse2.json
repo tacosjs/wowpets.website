@@ -1,0 +1,23 @@
+{
+	"id": "horse2mountbaseblack-horse2",
+	"family": "courser",
+	"modelGroup": "dreamrunners",
+	"npcs": [
+		{
+			"id": 121112,
+			"tameable": true,
+			"level": {
+				"min": 12,
+				"max": 47
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "broken-shore",
+					"area": "deadwood-landing"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"name": "White Fox",
+	"variant": "White",
+	"npcs": {
+		"45335": {
+			"name": "Highlands Fox"
+		},
+		"49161": {
+			"name": "Altered Beast"
+		},
+		"49565": {
+			"name": "Snowfrolic Fox"
+		},
+		"51077": {
+			"name": "Bushtail"
+		},
+		"53704": {
+			"name": "Corsac Fox"
+		},
+		"57797": {
+			"name": "Corsac Fox"
+		},
+		"110501": {
+			"name": "Snowrunner Fox"
+		},
+		"145030": {
+			"name": "Arctic Poacher"
+		},
+		"145033": {
+			"name": "Arctic Hunter"
+		},
+		"231153": {
+			"name": "Corsac Fox"
+		}
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"name": "Brown Spider",
+	"variant": "Brown",
+	"npcs": {
+		"1111": {
+			"name": "Leech Stalker"
+		},
+		"11739": {
+			"name": "Rock Stalker"
+		},
+		"22132": {
+			"name": "Mature Cavern Crawler"
+		},
+		"134898": {
+			"name": "Venomfang Recluse"
+		},
+		"134900": {
+			"name": "Venomfang Spider"
+		},
+		"146160": {
+			"name": "Widow's Fang"
+		},
+		"155061": {
+			"name": "Hivetrap Weaver"
+		}
+	}
+}

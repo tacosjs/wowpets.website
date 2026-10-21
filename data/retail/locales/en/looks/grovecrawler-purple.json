@@ -1,0 +1,12 @@
+{
+	"name": "Purple Grovecrawler",
+	"variant": "Purple",
+	"npcs": {
+		"254197": {
+			"name": "Summoned Grovecrawler"
+		},
+		"256700": {
+			"name": "Rootcrawler"
+		}
+	}
+}

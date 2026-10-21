@@ -1,0 +1,22 @@
+{
+	"id": "progenitorbeetlegold",
+	"family": "beetle",
+	"modelGroup": "scarabids",
+	"npcs": [
+		{
+			"id": 181197,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "arrangement-index"
+				}
+			]
+		}
+	]
+}

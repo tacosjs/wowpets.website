@@ -1,0 +1,18 @@
+{
+	"id": "dragonhawk2light",
+	"family": "dragonhawk",
+	"modelGroup": "greaterdragonhawks",
+	"npcs": [
+		{
+			"id": 244762,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "lightbloom-athran"
+				}
+			]
+		}
+	]
+}

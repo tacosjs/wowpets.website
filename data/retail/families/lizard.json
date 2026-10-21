@@ -1,0 +1,41 @@
+{
+	"id": "lizard",
+	"wowId": 288,
+	"icon": "inv_komododragon_green",
+	"spec": "tenacity",
+	"exotic": false,
+	"diet": [
+		"fish",
+		"raw-fish",
+		"fruit",
+		"fungus",
+		"meat",
+		"raw-meat"
+	],
+	"abilities": {
+		"basic": "bite",
+		"family": [
+			"grievous-bite"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "amazards"
+		},
+		{
+			"id": "salamanthers"
+		},
+		{
+			"id": "snapdragons"
+		},
+		{
+			"id": "saurolisks"
+		},
+		{
+			"id": "diemetradons"
+		},
+		{
+			"id": "sabertusks"
+		}
+	]
+}

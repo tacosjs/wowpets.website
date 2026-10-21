@@ -1,0 +1,13 @@
+{
+	"name": "Black & Grey Vespoid",
+	"variant": "Black & Grey",
+	"npcs": {
+		"183257": {
+			"name": "Vespoid Drone"
+		},
+		"183764": {
+			"name": "Zatojin",
+			"title": "Vespoid Prime"
+		}
+	}
+}

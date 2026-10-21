@@ -1,0 +1,9 @@
+{
+	"name": "Dark Bear w/ Mauve Amani Armour",
+	"variant": "Dark w/ Mauve Amani Armour",
+	"npcs": {
+		"130257": {
+			"name": "Amani Battle Bear"
+		}
+	}
+}

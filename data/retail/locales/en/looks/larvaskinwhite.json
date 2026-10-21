@@ -1,0 +1,9 @@
+{
+	"name": "White Larva",
+	"variant": "White Larva",
+	"npcs": {
+		"68221": {
+			"name": "Bore Worm"
+		}
+	}
+}

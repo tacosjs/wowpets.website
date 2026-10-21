@@ -1,0 +1,25 @@
+{
+	"name": "Black & Tan Bakar",
+	"variant": "Black & Tan",
+	"npcs": {
+		"187837": {
+			"name": "Tseg"
+		},
+		"190119": {
+			"name": "Penny",
+			"title": "Igraine's Companion"
+		},
+		"191405": {
+			"name": "Rotti"
+		},
+		"192687": {
+			"name": "Nahma"
+		},
+		"193545": {
+			"name": "Feral Bakar"
+		},
+		"195669": {
+			"name": "Berrel"
+		}
+	}
+}

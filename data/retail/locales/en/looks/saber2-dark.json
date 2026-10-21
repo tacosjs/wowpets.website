@@ -1,0 +1,35 @@
+{
+	"name": "Indigo Mana Saber",
+	"variant": "Indigo",
+	"npcs": {
+		"105699": {
+			"name": "Mana Saber"
+		},
+		"105719": {
+			"name": "Mana Saber"
+		},
+		"110340": {
+			"name": "Myonix",
+			"title": "Manasaber Matron"
+		},
+		"110903": {
+			"name": "Mana Saber"
+		},
+		"113332": {
+			"name": "Mana Hunter"
+		},
+		"113694": {
+			"name": "Pashya"
+		},
+		"114767": {
+			"name": "Domesticated Manasaber"
+		},
+		"118282": {
+			"name": "Felbound Manasaber"
+		},
+		"118678": {
+			"name": "Felbound Prowler",
+			"title": "Felbound Trapper's Pet"
+		}
+	}
+}

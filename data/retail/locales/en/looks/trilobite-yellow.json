@@ -1,0 +1,15 @@
+{
+	"name": "Yellow Krolusk",
+	"variant": "Yellow",
+	"npcs": {
+		"124654": {
+			"name": "Krolusk Dunecrawler"
+		},
+		"136936": {
+			"name": "Krolusk Packbeast"
+		},
+		"141873": {
+			"name": "Clatterback"
+		}
+	}
+}

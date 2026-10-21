@@ -1,0 +1,10 @@
+{
+	"name": "Purple Shadow Cobra",
+	"variant": "Purple Shadow",
+	"npcs": {
+		"173855": {
+			"name": "Shadow of Dambala",
+			"title": "Loa of Treachery"
+		}
+	}
+}

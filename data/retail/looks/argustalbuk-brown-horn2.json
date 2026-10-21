@@ -1,0 +1,27 @@
+{
+	"id": "argustalbuk-brown-horn2",
+	"family": "stag",
+	"modelGroup": "ruggedtalbuks",
+	"npcs": [
+		{
+			"id": 123074,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "krokuun",
+					"area": "petrified-forest"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		123527,
+		122363,
+		124439
+	]
+}

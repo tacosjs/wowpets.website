@@ -1,0 +1,12 @@
+{
+	"name": "Black Boar w/ Brass Armour",
+	"variant": "Black",
+	"npcs": {
+		"50945": {
+			"name": "Scruff"
+		},
+		"50949": {
+			"name": "Finn's Gambit"
+		}
+	}
+}

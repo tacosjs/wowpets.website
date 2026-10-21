@@ -1,0 +1,15 @@
+{
+	"name": "Black Diemetradon",
+	"variant": "Black",
+	"npcs": {
+		"123098": {
+			"name": "Venomous Diemetradon"
+		},
+		"144496": {
+			"name": "Venomous Diemetradon"
+		},
+		"145457": {
+			"name": "Venomous Diemetradon"
+		}
+	}
+}

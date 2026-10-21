@@ -1,0 +1,25 @@
+{
+	"name": "Green Direhorn",
+	"variant": "Green",
+	"npcs": {
+		"70012": {
+			"name": "Primal Direhorn Hatchling"
+		},
+		"70016": {
+			"name": "Primal Direhorn"
+		},
+		"121688": {
+			"name": "Old Scargiver",
+			"title": "Mother of Direhorn"
+		},
+		"124399": {
+			"name": "Infected Direhorn"
+		},
+		"131352": {
+			"name": "Dol'wathan Grainhauler"
+		},
+		"151278": {
+			"name": "Child of Torcali"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Brown Parrot",
+	"variant": "Brown",
+	"npcs": {
+		"60196": {
+			"name": "Dusky Lory"
+		}
+	}
+}

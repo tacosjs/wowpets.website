@@ -1,0 +1,21 @@
+{
+	"id": "venomserpent-white",
+	"family": "serpent",
+	"modelGroup": "venomfangs",
+	"npcs": [
+		{
+			"id": 261573,
+			"tameable": false,
+			"level": {
+				"min": 91,
+				"max": 91
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "altar-of-fangs"
+				}
+			]
+		}
+	]
+}

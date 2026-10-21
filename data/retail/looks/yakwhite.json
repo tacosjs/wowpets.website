@@ -1,0 +1,149 @@
+{
+	"id": "yakwhite",
+	"family": "oxen",
+	"modelGroup": "yaks",
+	"npcs": [
+		{
+			"id": 73160,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "timeless-isle"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 66587,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "dread-wastes",
+					"area": "mazus-overlook"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 140439,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 140436,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 59307,
+			"tameable": false,
+			"level": {
+				"min": 20,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "kun-lai-summit"
+				}
+			]
+		},
+		{
+			"id": 60954,
+			"tameable": false,
+			"level": {
+				"min": 20,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "kun-lai-summit",
+					"area": "tallmugs-camp"
+				}
+			]
+		},
+		{
+			"id": 59407,
+			"tameable": false,
+			"level": {
+				"min": 20,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "kun-lai-summit",
+					"area": "the-grummle-bazaar"
+				}
+			]
+		},
+		{
+			"id": 60955,
+			"tameable": false,
+			"level": {
+				"min": 20,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "kun-lai-summit",
+					"area": "tallmugs-camp"
+				}
+			]
+		},
+		{
+			"id": 62929,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-veiled-stair",
+					"area": "tavern-in-the-mists"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		66595,
+		251800,
+		249612,
+		59648,
+		59699,
+		59491,
+		58925
+	]
+}

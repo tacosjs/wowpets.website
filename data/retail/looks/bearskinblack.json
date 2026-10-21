@@ -1,0 +1,22 @@
+{
+	"id": "bearskinblack",
+	"family": "bear",
+	"modelGroup": "retrobears",
+	"npcs": [
+		{
+			"id": 12037,
+			"tameable": true,
+			"level": {
+				"min": 7,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "ashenvale"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

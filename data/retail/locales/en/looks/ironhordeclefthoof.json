@@ -1,0 +1,9 @@
+{
+	"name": "Iron Horde Clefthoof",
+	"variant": "Iron",
+	"npcs": {
+		"76946": {
+			"name": "Faultline"
+		}
+	}
+}

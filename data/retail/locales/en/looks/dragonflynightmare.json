@@ -1,0 +1,15 @@
+{
+	"name": "Nightmare Hook Wasp",
+	"variant": "Nightmare",
+	"npcs": {
+		"95951": {
+			"name": "Dreadsting Lurker"
+		},
+		"139145": {
+			"name": "Blackthorne"
+		},
+		"245044": {
+			"name": "Nightbrood"
+		}
+	}
+}

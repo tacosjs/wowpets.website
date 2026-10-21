@@ -1,0 +1,22 @@
+{
+	"id": "carrionbirdskinoutlandwhite-transparent",
+	"family": "carrionbird",
+	"modelGroup": "twoheadedvultures",
+	"npcs": [
+		{
+			"id": 50813,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "eastern-plaguelands"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

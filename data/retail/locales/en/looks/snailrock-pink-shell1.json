@@ -1,0 +1,30 @@
+{
+	"name": "Pink Crystalline Snail",
+	"variant": "Pink",
+	"npcs": {
+		"200898": {
+			"name": "Redolent Whelk"
+		},
+		"202731": {
+			"name": "Big Slick in the City"
+		},
+		"203240": {
+			"name": "Prismastic Infused Rock Snail"
+		},
+		"204356": {
+			"name": "Marie Shellie"
+		},
+		"219303": {
+			"name": "Rock Snail"
+		},
+		"220765": {
+			"name": "Juvenile Snail"
+		},
+		"229547": {
+			"name": "Shimmer Shaleshell"
+		},
+		"258392": {
+			"name": "Big Slick in the City"
+		}
+	}
+}

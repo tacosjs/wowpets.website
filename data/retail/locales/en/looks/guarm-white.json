@@ -1,0 +1,19 @@
+{
+	"name": "Light Grey Helhound w/ Chains",
+	"variant": "Light Grey w/ Chains",
+	"npcs": {
+		"91386": {
+			"name": "Guarm"
+		},
+		"114323": {
+			"name": "Guarm"
+		},
+		"165973": {
+			"name": "Warren Mongrel"
+		},
+		"177442": {
+			"name": "Hrodvetni",
+			"title": "Child of Guarm"
+		}
+	}
+}

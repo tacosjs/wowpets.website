@@ -1,0 +1,39 @@
+{
+	"name": "Purple-Pink Glimmerfly",
+	"variant": "Purple-Pink",
+	"npcs": {
+		"158510": {
+			"name": "Eternal Glimmerfly"
+		},
+		"163473": {
+			"name": "Fluttering Glimmerfly"
+		},
+		"163549": {
+			"name": "Fluttering Glimmerfly"
+		},
+		"165077": {
+			"name": "Starving Glimmerfly"
+		},
+		"168634": {
+			"name": "Soulwing Glimmerfly"
+		},
+		"168984": {
+			"name": "Soulwing Darter"
+		},
+		"169308": {
+			"name": "Soulwing Duster"
+		},
+		"170332": {
+			"name": "Enamored Soulwing"
+		},
+		"170336": {
+			"name": "Soulwing Monarch"
+		},
+		"170392": {
+			"name": "Soulwing Flutterer"
+		},
+		"170393": {
+			"name": "Soulwing Emperor"
+		}
+	}
+}

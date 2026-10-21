@@ -1,0 +1,25 @@
+{
+	"name": "Pale Ottuk",
+	"variant": "Pale",
+	"npcs": {
+		"186400": {
+			"name": "Otu'rorq",
+			"title": "Spirit of Water"
+		},
+		"186468": {
+			"name": "Vigilant Ottuk"
+		},
+		"186470": {
+			"name": "Domesticated Ottuk"
+		},
+		"189780": {
+			"name": "Giant Ottuk Agitator"
+		},
+		"192887": {
+			"name": "Frostwhisker Ottuk"
+		},
+		"195496": {
+			"name": "Snowaves"
+		}
+	}
+}

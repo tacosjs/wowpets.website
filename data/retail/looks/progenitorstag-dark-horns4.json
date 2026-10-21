@@ -1,0 +1,26 @@
+{
+	"id": "progenitorstag-dark-horns4",
+	"family": "stag",
+	"modelGroup": "cervids",
+	"npcs": [
+		{
+			"id": 182269,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		178098,
+		180049,
+		181260
+	]
+}

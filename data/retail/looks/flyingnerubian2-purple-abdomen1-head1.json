@@ -1,0 +1,45 @@
+{
+	"id": "flyingnerubian2-purple-abdomen1-head1",
+	"family": "bloodbeast",
+	"modelGroup": "swarmites",
+	"npcs": [
+		{
+			"id": 218091,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "rak-ush"
+				}
+			]
+		},
+		{
+			"id": 215386,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "pillar-nest-vosh"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		213320,
+		220087,
+		217916,
+		219670,
+		222235,
+		222042
+	]
+}

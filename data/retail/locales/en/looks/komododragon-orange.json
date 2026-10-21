@@ -1,0 +1,30 @@
+{
+	"name": "Ochre & Green Saurolisk",
+	"variant": "Ochre & Green",
+	"npcs": {
+		"123714": {
+			"name": "Hillborn Saurolisk"
+		},
+		"126802": {
+			"name": "Trapped Saurolisk"
+		},
+		"126984": {
+			"name": "Scaleclaw Saurolisk"
+		},
+		"127132": {
+			"name": "Infected Saurolisk"
+		},
+		"127854": {
+			"name": "Hardtongue Ambusher"
+		},
+		"133356": {
+			"name": "Tempestria"
+		},
+		"141832": {
+			"name": "Rottail"
+		},
+		"152035": {
+			"name": "Young Sourback"
+		}
+	}
+}

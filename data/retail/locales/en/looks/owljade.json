@@ -1,0 +1,18 @@
+{
+	"name": "Green Crystal Owl",
+	"variant": "Green Crystal",
+	"npcs": {
+		"27244": {
+			"name": "Emerald Skytalon"
+		},
+		"27249": {
+			"name": "Alystros the Verdant Keeper"
+		},
+		"101627": {
+			"name": "Jade Owl"
+		},
+		"122548": {
+			"name": "Emerald Skytalon"
+		}
+	}
+}

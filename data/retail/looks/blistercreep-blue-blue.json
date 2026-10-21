@@ -1,0 +1,110 @@
+{
+	"id": "blistercreep-blue-blue",
+	"family": "bloodbeast",
+	"modelGroup": "blistercreeps",
+	"npcs": [
+		{
+			"id": 248939,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "den-of-predaxus"
+				}
+			]
+		},
+		{
+			"id": 244967,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "gnawing-reach"
+				}
+			]
+		},
+		{
+			"id": 253128,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "the-molt"
+				}
+			]
+		},
+		{
+			"id": 255418,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-voidspire"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 258202,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "the-gorging-pit"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 261082,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "val",
+					"area": "glacial-reservoir"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		250564,
+		254711
+	]
+}

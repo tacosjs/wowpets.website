@@ -1,0 +1,33 @@
+{
+	"name": "Sickly Brown-Black Bear",
+	"variant": "Sickly Brown-Black",
+	"npcs": {
+		"1797": {
+			"name": "Giant Rabid Bear"
+		},
+		"1815": {
+			"name": "Diseased Black Bear"
+		},
+		"42336": {
+			"name": "Tainted Black Bear"
+		},
+		"140159": {
+			"name": "Dreadgrowl the Pustulent"
+		},
+		"140160": {
+			"name": "Boilhide the Raging"
+		},
+		"153266": {
+			"name": "Killclaw the Terrible"
+		},
+		"168855": {
+			"name": "Rotting Deathwalker"
+		},
+		"210395": {
+			"name": "Corrupted Grizzly"
+		},
+		"250108": {
+			"name": "Rotclaw Mauler"
+		}
+	}
+}

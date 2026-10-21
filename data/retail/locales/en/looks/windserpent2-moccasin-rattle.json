@@ -1,0 +1,15 @@
+{
+	"name": "Dark Brown Wind Serpent",
+	"variant": "Dark Brown",
+	"npcs": {
+		"132409": {
+			"name": "Feathered Viper"
+		},
+		"140335": {
+			"name": "Nightscale Screecher"
+		},
+		"140337": {
+			"name": "Nightscale Hatchling"
+		}
+	}
+}

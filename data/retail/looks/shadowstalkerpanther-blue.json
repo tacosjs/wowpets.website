@@ -1,0 +1,87 @@
+{
+	"id": "shadowstalkerpanther-blue",
+	"family": "cat",
+	"modelGroup": "panthara",
+	"npcs": [
+		{
+			"id": 123508,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eredath",
+					"area": "wakeners-enclave"
+				}
+			]
+		},
+		{
+			"id": 122408,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-seat-of-the-triumvirate",
+					"area": "shadowguard-incursion"
+				}
+			]
+		},
+		{
+			"id": 119874,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eredath",
+					"area": "isolon-basin"
+				}
+			]
+		},
+		{
+			"id": 127286,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eredath",
+					"area": "shadowguard-incursion-eredath"
+				}
+			]
+		},
+		{
+			"id": 128317,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "eredath",
+					"area": "shadowguard-incursion-eredath"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

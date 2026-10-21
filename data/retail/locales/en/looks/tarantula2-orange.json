@@ -1,0 +1,42 @@
+{
+	"name": "Orange Tarantula",
+	"variant": "Orange",
+	"npcs": {
+		"30": {
+			"name": "Forest Spider"
+		},
+		"442": {
+			"name": "Tarantula"
+		},
+		"858": {
+			"name": "Sorrow Spinner"
+		},
+		"4006": {
+			"name": "Deepmoss Webspinner"
+		},
+		"4412": {
+			"name": "Darkfang Creeper"
+		},
+		"4414": {
+			"name": "Darkfang Venomspitter"
+		},
+		"4415": {
+			"name": "Giant Darkfang Spider"
+		},
+		"129810": {
+			"name": "Ruby-Toed Tarantula"
+		},
+		"134939": {
+			"name": "Bristlethorn Maneater"
+		},
+		"134941": {
+			"name": "Bristlethorn Spider"
+		},
+		"134950": {
+			"name": "Fanged Terror"
+		},
+		"146716": {
+			"name": "Injured Bristlequeen"
+		}
+	}
+}

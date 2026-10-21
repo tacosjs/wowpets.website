@@ -1,0 +1,45 @@
+{
+	"id": "kareshfox-orange",
+	"family": "fox",
+	"modelGroup": "thorntails",
+	"npcs": [
+		{
+			"id": 236816,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "tazavesh-karesh"
+				}
+			]
+		},
+		{
+			"id": 230847,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "ruins-of-yaathron"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		239832,
+		234150,
+		232284,
+		230795,
+		237313,
+		237309
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"id": "deathwargbossblack",
+	"family": "stonehound",
+	"modelGroup": "armouredgargons",
+	"npcs": [
+		{
+			"id": 169457,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "castle-nathria",
+					"area": "the-kennels"
+				}
+			]
+		},
+		{
+			"id": 171557,
+			"tameable": false,
+			"level": {
+				"min": 63,
+				"max": 63
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "castle-nathria",
+					"area": "the-kennels"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

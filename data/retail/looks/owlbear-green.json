@@ -1,0 +1,60 @@
+{
+	"id": "owlbear-green",
+	"family": "feathermane",
+	"modelGroup": "umbraclaws",
+	"npcs": [
+		{
+			"id": 211245,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "amirdrassil"
+				}
+			]
+		},
+		{
+			"id": 211163,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream"
+				}
+			]
+		},
+		{
+			"id": 210763,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "viridescent-thicket-haven-cascades"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		211342,
+		216713,
+		216712,
+		216694,
+		216695,
+		212065,
+		212040
+	]
+}

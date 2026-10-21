@@ -1,0 +1,36 @@
+{
+	"id": "crawlervar4",
+	"family": "ravager",
+	"modelGroup": "ravagers",
+	"npcs": [
+		{
+			"id": 50726,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "badlands"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 50320,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "winterspring"
+				}
+			]
+		}
+	]
+}

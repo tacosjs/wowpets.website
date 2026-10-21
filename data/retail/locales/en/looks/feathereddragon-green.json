@@ -1,0 +1,21 @@
+{
+	"name": "Blue-Green Veilwing",
+	"variant": "Blue-Green",
+	"npcs": {
+		"167439": {
+			"name": "Agitated Mistfeather"
+		},
+		"167442": {
+			"name": "Fledgeling Mistfeather"
+		},
+		"167505": {
+			"name": "Veilwing Nestkeeper"
+		},
+		"167507": {
+			"name": "Veilwing Fledgeling"
+		},
+		"171184": {
+			"name": "Mythresh, Sky's Talon"
+		}
+	}
+}

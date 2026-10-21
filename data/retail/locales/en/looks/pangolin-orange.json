@@ -1,0 +1,24 @@
+{
+	"name": "Black & Orange Pango",
+	"variant": "Black & Orange",
+	"npcs": {
+		"244239": {
+			"name": "Frightened Hauler"
+		},
+		"245778": {
+			"name": "Calmed Wagonlin"
+		},
+		"249354": {
+			"name": "Pango Hauler"
+		},
+		"257511": {
+			"name": "Foraging Pango"
+		},
+		"257513": {
+			"name": "Foraging Pango"
+		},
+		"257942": {
+			"name": "Carefree Pango"
+		}
+	}
+}

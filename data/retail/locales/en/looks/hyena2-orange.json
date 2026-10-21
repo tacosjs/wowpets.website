@@ -1,0 +1,75 @@
+{
+	"name": "Burnt Orange Hyena",
+	"variant": "Burnt Orange",
+	"npcs": {
+		"4316": {
+			"name": "Kolkar Packhound"
+		},
+		"5426": {
+			"name": "Blisterpaw Hyena"
+		},
+		"37086": {
+			"name": "Hecklefang Scavenger"
+		},
+		"45204": {
+			"name": "Skarf"
+		},
+		"48199": {
+			"name": "Bloodsnarl Scavenger"
+		},
+		"48209": {
+			"name": "Bloodsnarl Scavenger"
+		},
+		"50855": {
+			"name": "Jaxx the Rabid"
+		},
+		"78489": {
+			"name": "Snickerfang Pup"
+		},
+		"124287": {
+			"name": "Bonepicker Hyena"
+		},
+		"124681": {
+			"name": "Bonepicker Stalker"
+		},
+		"124683": {
+			"name": "Bonepicker Pup"
+		},
+		"126644": {
+			"name": "Snarltooth"
+		},
+		"130405": {
+			"name": "Dustmane Howler"
+		},
+		"130406": {
+			"name": "Dustmane Pack Leader"
+		},
+		"134744": {
+			"name": "Redrock Howler"
+		},
+		"135338": {
+			"name": "Gnarl"
+		},
+		"135339": {
+			"name": "Snarl"
+		},
+		"138342": {
+			"name": "Dustmane Howler"
+		},
+		"142755": {
+			"name": "Dustmane Howler"
+		},
+		"142780": {
+			"name": "Dustmane Pack Leader"
+		},
+		"186665": {
+			"name": "Ginger"
+		},
+		"191978": {
+			"name": "Snap"
+		},
+		"194855": {
+			"name": "Docile Cub"
+		}
+	}
+}

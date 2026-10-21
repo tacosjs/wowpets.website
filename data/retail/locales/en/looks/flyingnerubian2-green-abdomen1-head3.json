@@ -1,0 +1,27 @@
+{
+	"name": "Green Swarmite w/ Fangs & Short Tail",
+	"variant": "Green w/ Fangs & Short Tail",
+	"npcs": {
+		"217796": {
+			"name": "Noth Swarmer"
+		},
+		"217939": {
+			"name": "Swarming Drone"
+		},
+		"217949": {
+			"name": "Skittering Swarmite"
+		},
+		"220084": {
+			"name": "Bloated Pest"
+		},
+		"227280": {
+			"name": "Feasting Mite"
+		},
+		"229816": {
+			"name": "Ambushing Swarmer"
+		},
+		"229817": {
+			"name": "Ambushing Swarmer"
+		}
+	}
+}

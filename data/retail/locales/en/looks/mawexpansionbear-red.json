@@ -1,0 +1,18 @@
+{
+	"name": "Red Shardhide",
+	"variant": "Red",
+	"npcs": {
+		"177353": {
+			"name": "Shardhide Scraper"
+		},
+		"178527": {
+			"name": "Shardhide Alpha"
+		},
+		"179684": {
+			"name": "Malbog"
+		},
+		"180511": {
+			"name": "Shardhide Alpha"
+		}
+	}
+}

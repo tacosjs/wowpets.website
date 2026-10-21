@@ -1,0 +1,27 @@
+{
+	"name": "Red Primal Bear",
+	"variant": "Red",
+	"npcs": {
+		"186380": {
+			"name": "Redpelt Forager"
+		},
+		"187192": {
+			"name": "Rageclaw"
+		},
+		"194761": {
+			"name": "Khuumog"
+		},
+		"195132": {
+			"name": "Tevgai"
+		},
+		"195198": {
+			"name": "Shortcoat Mauler"
+		},
+		"197952": {
+			"name": "Valley Grizzly"
+		},
+		"214202": {
+			"name": "Thicketclaw Bear"
+		}
+	}
+}

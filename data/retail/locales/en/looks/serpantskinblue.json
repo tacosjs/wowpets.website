@@ -1,0 +1,15 @@
+{
+	"name": "Blue Serpent",
+	"variant": "Blue",
+	"npcs": {
+		"5048": {
+			"name": "Deviate Adder"
+		},
+		"26865": {
+			"name": "Tecahuna"
+		},
+		"52085": {
+			"name": "Razzashi Adder"
+		}
+	}
+}

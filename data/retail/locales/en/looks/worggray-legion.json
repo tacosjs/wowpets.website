@@ -1,0 +1,47 @@
+{
+	"name": "Dark Grey Dire Worg",
+	"variant": "Dark Grey",
+	"npcs": {
+		"91423": {
+			"name": "Hillstalker Worg"
+		},
+		"92600": {
+			"name": "Bloodstalker"
+		},
+		"97091": {
+			"name": "Duskpelt Snarler"
+		},
+		"99922": {
+			"name": "Ebonclaw Packmate",
+			"title": "Fenryr's Pack"
+		},
+		"107753": {
+			"name": "Duskpelt Alpha"
+		},
+		"152998": {
+			"name": "Hunting Worg"
+		},
+		"169162": {
+			"name": "Hunting Worg"
+		},
+		"217561": {
+			"name": "Brushmane Wolf"
+		},
+		"218203": {
+			"name": "Brushmane Wolf"
+		},
+		"221678": {
+			"name": "Wild Stormhowl"
+		},
+		"222332": {
+			"name": "Wild Stormhowl"
+		},
+		"226296": {
+			"name": "Adolescent Darkwolf",
+			"title": "Stormscar's Pack"
+		},
+		"232283": {
+			"name": "Loyal Worg"
+		}
+	}
+}

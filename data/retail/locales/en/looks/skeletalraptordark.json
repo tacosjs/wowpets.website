@@ -1,0 +1,15 @@
+{
+	"name": "Dark Skeletal Raptor",
+	"variant": "Dark",
+	"npcs": {
+		"129517": {
+			"name": "Reanimated Raptor"
+		},
+		"130735": {
+			"name": "Bone Raptor"
+		},
+		"135433": {
+			"name": "Reanimated Ravasaur"
+		}
+	}
+}

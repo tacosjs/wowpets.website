@@ -1,0 +1,56 @@
+{
+	"id": "ram2-brown",
+	"family": "gruffhorn",
+	"modelGroup": "greaterrams",
+	"npcs": [
+		{
+			"id": 46393,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "badlands",
+					"area": "fuselight"
+				}
+			]
+		},
+		{
+			"id": 34894,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stonetalon-mountains",
+					"area": "webwinder-path"
+				}
+			]
+		},
+		{
+			"id": 168333,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "vestibule-of-eternity"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		2098,
+		41539
+	]
+}

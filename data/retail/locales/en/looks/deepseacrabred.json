@@ -1,0 +1,49 @@
+{
+	"name": "Red Spiked Crab",
+	"variant": "Red",
+	"npcs": {
+		"40798": {
+			"name": "Spineshell Pincer"
+		},
+		"58881": {
+			"name": "Viseclaw Scuttler"
+		},
+		"61090": {
+			"name": "Viseclaw Fry"
+		},
+		"65823": {
+			"name": "Flesh-Eating Sandsnapper"
+		},
+		"83840": {
+			"name": "Sand Snapper"
+		},
+		"88076": {
+			"name": "Sand Scavenger"
+		},
+		"107312": {
+			"name": "Frothing Crab"
+		},
+		"107667": {
+			"name": "Crimson Rockshell"
+		},
+		"108702": {
+			"name": "Crimson Rockshell"
+		},
+		"113508": {
+			"name": "Crimson Rockshell",
+			"title": "Squigglefin Crablord's Pet"
+		},
+		"134787": {
+			"name": "Spineclaw Crab"
+		},
+		"137713": {
+			"name": "Big Money Crab"
+		},
+		"142579": {
+			"name": "Spikeshell Scuttler"
+		},
+		"144462": {
+			"name": "Spikeshell Scuttler"
+		}
+	}
+}

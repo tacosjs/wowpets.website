@@ -1,0 +1,12 @@
+{
+	"name": "Undead Green Amani Eagle",
+	"variant": "Undead Green",
+	"npcs": {
+		"244650": {
+			"name": "Rotting Vilefeaster"
+		},
+		"254011": {
+			"name": "Hexbound Sharpeye"
+		}
+	}
+}

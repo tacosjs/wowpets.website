@@ -1,0 +1,27 @@
+{
+	"name": "Black & Red Sea Slug",
+	"variant": "Black & Red",
+	"npcs": {
+		"144644": {
+			"name": "Mirecrawler"
+		},
+		"227367": {
+			"name": "Contaminated Rockslime"
+		},
+		"244505": {
+			"name": "Sea Slug"
+		},
+		"244731": {
+			"name": "Sunset Slug"
+		},
+		"250060": {
+			"name": "Sea Jewel"
+		},
+		"259984": {
+			"name": "Sea Jewel"
+		},
+		"263925": {
+			"name": "Angry Sea Jewel"
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"name": "Red Demon Spider",
+	"variant": "Red",
+	"npcs": {
+		"110351": {
+			"name": "Vicious Spiderling"
+		},
+		"111469": {
+			"name": "Skitterer"
+		},
+		"119721": {
+			"name": "Hatched Broodling"
+		},
+		"121277": {
+			"name": "Ravenous Broodling"
+		},
+		"126111": {
+			"name": "Brood of Ven'orn"
+		}
+	}
+}

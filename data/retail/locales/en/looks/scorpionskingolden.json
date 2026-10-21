@@ -1,0 +1,34 @@
+{
+	"name": "Yellow Scorpid",
+	"variant": "Yellow",
+	"npcs": {
+		"4696": {
+			"name": "Scorpashi Snapper"
+		},
+		"4697": {
+			"name": "Scorpashi Lasher"
+		},
+		"4699": {
+			"name": "Scorpashi Venomlash"
+		},
+		"11736": {
+			"name": "Stonelash Pincer"
+		},
+		"40656": {
+			"name": "Duneclaw Matriarch"
+		},
+		"40666": {
+			"name": "Duneclaw Broodling"
+		},
+		"45063": {
+			"name": "Bonesnapper Scorpid",
+			"title": "Oathsworn Scorpid Keeper's Pet"
+		},
+		"47803": {
+			"name": "Sand Scorpid"
+		},
+		"162364": {
+			"name": "Sand Scorpid"
+		}
+	}
+}

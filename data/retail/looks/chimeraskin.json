@@ -1,0 +1,21 @@
+{
+	"id": "chimeraskin",
+	"family": "chimaera",
+	"modelGroup": "chimaeras",
+	"npcs": [
+		{
+			"id": 36304,
+			"tameable": true,
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azshara"
+				}
+			],
+			"level": {
+				"min": 5,
+				"max": 30
+			}
+		}
+	]
+}

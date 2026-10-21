@@ -1,0 +1,15 @@
+{
+	"name": "Silver-Grey Snapdragon",
+	"variant": "Silver-Grey",
+	"npcs": {
+		"152359": {
+			"name": "Siltstalker the Packmother"
+		},
+		"229856": {
+			"name": "Coralclaw Ravager"
+		},
+		"247553": {
+			"name": "Daggerspine Snapdragon"
+		}
+	}
+}

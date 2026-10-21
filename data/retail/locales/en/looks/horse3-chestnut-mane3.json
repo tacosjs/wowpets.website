@@ -1,0 +1,9 @@
+{
+	"name": "Chestnut Horse w/ Short Mane/Tail",
+	"variant": "Chestnut w/ Short Mane/Tail",
+	"npcs": {
+		"244688": {
+			"name": "Horse"
+		}
+	}
+}

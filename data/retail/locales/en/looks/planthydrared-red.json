@@ -1,0 +1,45 @@
+{
+	"name": "Red & Green Mandragora",
+	"variant": "Red & Green",
+	"npcs": {
+		"75207": {
+			"name": "Biolante"
+		},
+		"80466": {
+			"name": "Foul Bursting Chomper"
+		},
+		"81791": {
+			"name": "Vine Beast"
+		},
+		"84391": {
+			"name": "Crimson Mandragora"
+		},
+		"84403": {
+			"name": "Plaguebloom"
+		},
+		"85760": {
+			"name": "Blooming Mandragora"
+		},
+		"88150": {
+			"name": "Untamed Mandragora"
+		},
+		"88800": {
+			"name": "Vine Beast"
+		},
+		"107479": {
+			"name": "Nightmare Hydra"
+		},
+		"139577": {
+			"name": "Razorspine Planterror"
+		},
+		"169206": {
+			"name": "Devouring Hydra"
+		},
+		"169207": {
+			"name": "Devouring Hydra"
+		},
+		"207926": {
+			"name": "Sickened Growth"
+		}
+	}
+}

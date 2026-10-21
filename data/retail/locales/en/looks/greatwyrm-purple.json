@@ -1,0 +1,15 @@
+{
+	"name": "Great Purple Mana Wyrm",
+	"variant": "Purple",
+	"npcs": {
+		"191032": {
+			"name": "Mana Wyrm"
+		},
+		"195202": {
+			"name": "Frenzied Arcane Thirster"
+		},
+		"195427": {
+			"name": "Mana-Crazed Wyrmling"
+		}
+	}
+}

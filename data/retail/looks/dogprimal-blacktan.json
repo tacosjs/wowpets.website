@@ -1,0 +1,104 @@
+{
+	"id": "dogprimal-blacktan",
+	"family": "hound",
+	"modelGroup": "bakars",
+	"npcs": [
+		{
+			"id": 193545,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		},
+		{
+			"id": 190119,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 65
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "algethera"
+				}
+			]
+		},
+		{
+			"id": 195669,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "maruukai"
+				}
+			]
+		},
+		{
+			"id": 192687,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "cloverwood-hollow"
+				}
+			]
+		},
+		{
+			"id": 191405,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "pinewood-post"
+				}
+			]
+		},
+		{
+			"id": 187837,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "mudfin-village"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		193208,
+		193197,
+		191565,
+		193553,
+		191803,
+		195479
+	]
+}

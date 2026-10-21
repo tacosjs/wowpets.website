@@ -1,0 +1,12 @@
+{
+	"name": "Dark Green Cobra",
+	"variant": "Dark Green",
+	"npcs": {
+		"134390": {
+			"name": "Sand-Crusted Striker"
+		},
+		"135846": {
+			"name": "Sand-Crusted Striker"
+		}
+	}
+}

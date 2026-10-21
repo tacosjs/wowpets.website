@@ -1,0 +1,12 @@
+{
+	"name": "Green & Orange Hippogryph",
+	"variant": "Green & Orange",
+	"npcs": {
+		"216706": {
+			"name": "Hyjal Stagbeak"
+		},
+		"233291": {
+			"name": "Hyjal Sharpbeak"
+		}
+	}
+}

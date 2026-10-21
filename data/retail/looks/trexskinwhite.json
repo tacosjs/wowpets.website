@@ -1,0 +1,21 @@
+{
+	"id": "trexskinwhite",
+	"family": "devilsaur",
+	"modelGroup": "devilsaurs",
+	"npcs": [
+		{
+			"id": 6498,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ungoro-crater"
+				}
+			]
+		}
+	]
+}

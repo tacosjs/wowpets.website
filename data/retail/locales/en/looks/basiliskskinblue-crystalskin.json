@@ -1,0 +1,9 @@
+{
+	"name": "Blue Basilisk w/Blue Fringes",
+	"variant": "Blue w/Blue",
+	"npcs": {
+		"690": {
+			"name": "Cold Eye Basilisk"
+		}
+	}
+}

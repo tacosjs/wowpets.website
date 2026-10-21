@@ -1,0 +1,10 @@
+{
+	"name": "Yellow Crab w/ Crystals",
+	"variant": "Yellow w/ Crystals",
+	"npcs": {
+		"233938": {
+			"name": "George",
+			"title": "The Big Pinch"
+		}
+	}
+}

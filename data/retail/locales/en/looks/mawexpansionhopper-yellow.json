@@ -1,0 +1,12 @@
+{
+	"name": "Gold & Brown Gromit",
+	"variant": "Gold & Brown",
+	"npcs": {
+		"177335": {
+			"name": "Flashy Gromit"
+		},
+		"230598": {
+			"name": "Sandbank Hopper"
+		}
+	}
+}

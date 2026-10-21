@@ -1,0 +1,22 @@
+{
+	"id": "progenitoraxolotl-darkred",
+	"family": "hopper",
+	"modelGroup": "ambystans",
+	"npcs": [
+		{
+			"id": 183746,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "catalyst-gardens"
+				}
+			]
+		}
+	]
+}

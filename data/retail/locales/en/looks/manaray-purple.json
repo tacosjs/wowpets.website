@@ -1,0 +1,12 @@
+{
+	"name": "Purple Mana Ray",
+	"variant": "Purple",
+	"npcs": {
+		"119748": {
+			"name": "Skyfin Mana Ray"
+		},
+		"122410": {
+			"name": "Skyfin"
+		}
+	}
+}

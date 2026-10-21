@@ -1,0 +1,22 @@
+{
+	"id": "boar2-undead-transparent",
+	"family": "boar",
+	"modelGroup": "boars",
+	"npcs": [
+		{
+			"id": 50947,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "eastern-plaguelands"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Brown Blistercreep w/ Yellow Glow",
+	"variant": "Brown Body w/ Yellow Glow",
+	"npcs": {
+		"249417": {
+			"name": "Bloated Blistercreep"
+		},
+		"252470": {
+			"name": "Spitting Tick"
+		}
+	}
+}

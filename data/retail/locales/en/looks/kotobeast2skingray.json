@@ -1,0 +1,36 @@
+{
+	"name": "Green-Beige Kodo",
+	"variant": "Green-Beige",
+	"npcs": {
+		"2972": {
+			"name": "Kodo Calf"
+		},
+		"2973": {
+			"name": "Kodo Bull"
+		},
+		"4700": {
+			"name": "Aged Kodo"
+		},
+		"36094": {
+			"name": "Enraged Kodo"
+		},
+		"37556": {
+			"name": "Landquaker Bull"
+		},
+		"52457": {
+			"name": "Kodo Calfling"
+		},
+		"235009": {
+			"name": "Kodo"
+		},
+		"237303": {
+			"name": "Kodo Calf"
+		},
+		"237304": {
+			"name": "Mother Kodo"
+		},
+		"255806": {
+			"name": "Domesticated Kodo"
+		}
+	}
+}

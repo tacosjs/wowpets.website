@@ -1,0 +1,12 @@
+{
+	"name": "Purple Larion",
+	"variant": "Purple",
+	"npcs": {
+		"163506": {
+			"name": "Forsworn Stealthclaw"
+		},
+		"170184": {
+			"name": "Evenfall Larion"
+		}
+	}
+}

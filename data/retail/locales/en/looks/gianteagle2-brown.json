@@ -1,0 +1,66 @@
+{
+	"name": "Brown Amani Eagle",
+	"variant": "Brown",
+	"npcs": {
+		"236539": {
+			"name": "Giant Goldeneye"
+		},
+		"240515": {
+			"name": "Tamed Amani Eagle"
+		},
+		"241426": {
+			"name": "Harried Eagle"
+		},
+		"241816": {
+			"name": "Keen-eyed Screecher"
+		},
+		"243679": {
+			"name": "Giant Eagle"
+		},
+		"247630": {
+			"name": "Watchful Striker"
+		},
+		"250120": {
+			"name": "Keen-eye Riptalon"
+		},
+		"254628": {
+			"name": "Mountain Rocktalon"
+		},
+		"254629": {
+			"name": "Mountain Rocktalon"
+		},
+		"254646": {
+			"name": "Rocktalon Scavenger"
+		},
+		"255042": {
+			"name": "Riptalon Eviscerator"
+		},
+		"255490": {
+			"name": "Aman Eagle"
+		},
+		"256902": {
+			"name": "Giant Eagle"
+		},
+		"257388": {
+			"name": "Tortured Eagle"
+		},
+		"260306": {
+			"name": "Scavenging Filthfeather"
+		},
+		"260371": {
+			"name": "Scavenging Filthfeather"
+		},
+		"261307": {
+			"name": "Slickfeather Eagle"
+		},
+		"263527": {
+			"name": "Void-Corrupted Hex Eagle"
+		},
+		"263533": {
+			"name": "Void-Corrupted Hex Eaglet"
+		},
+		"264659": {
+			"name": "Steelfeather Eagle"
+		}
+	}
+}

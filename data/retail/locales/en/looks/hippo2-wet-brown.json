@@ -1,0 +1,21 @@
+{
+	"name": "Darker Rusty Riverbeast",
+	"variant": "Darker Rusty",
+	"npcs": {
+		"128300": {
+			"name": "Lifeboat"
+		},
+		"130771": {
+			"name": "Riverbeast Calf"
+		},
+		"133896": {
+			"name": "Defiant Riverbeast"
+		},
+		"133897": {
+			"name": "Thirsty Calf"
+		},
+		"187620": {
+			"name": "Disgruntled Riverbeast Matriarch"
+		}
+	}
+}

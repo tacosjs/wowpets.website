@@ -1,0 +1,60 @@
+{
+	"name": "Green Tarantula",
+	"variant": "Green",
+	"npcs": {
+		"1822": {
+			"name": "Venom Mist Lurker"
+		},
+		"1986": {
+			"name": "Webwood Spider"
+		},
+		"1994": {
+			"name": "Githyiss the Vile"
+		},
+		"1998": {
+			"name": "Webwood Lurker"
+		},
+		"1999": {
+			"name": "Webwood Venomfang"
+		},
+		"2000": {
+			"name": "Webwood Silkspinner"
+		},
+		"2001": {
+			"name": "Giant Webwood Spider"
+		},
+		"2350": {
+			"name": "Forest Creeper"
+		},
+		"3820": {
+			"name": "Wildthorn Venomspitter"
+		},
+		"4007": {
+			"name": "Deepmoss Venomspitter"
+		},
+		"48248": {
+			"name": "Sorrow Venomspitter"
+		},
+		"50770": {
+			"name": "Zorn"
+		},
+		"134946": {
+			"name": "Great Huntsman"
+		},
+		"134948": {
+			"name": "Thicket Stalker"
+		},
+		"142438": {
+			"name": "Venomarus"
+		},
+		"156636": {
+			"name": "Lurking Fearspinner"
+		},
+		"168850": {
+			"name": "Fearspinner Hatchling"
+		},
+		"186702": {
+			"name": "Den Skitterer"
+		}
+	}
+}

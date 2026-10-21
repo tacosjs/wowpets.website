@@ -1,0 +1,23 @@
+{
+	"id": "giantwasp-green-spectralgreen",
+	"family": "wasp",
+	"modelGroup": "sturdywasps",
+	"npcs": [
+		{
+			"id": 263694,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "the-ring-of-glory-the-coiled-isle"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

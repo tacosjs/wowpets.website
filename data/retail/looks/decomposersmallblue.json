@@ -1,0 +1,107 @@
+{
+	"id": "decomposersmallblue",
+	"family": "carapid",
+	"modelGroup": "gormlings",
+	"npcs": [
+		{
+			"id": 171392,
+			"tameable": false,
+			"level": {
+				"min": 55,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "gormhive"
+				}
+			]
+		},
+		{
+			"id": 158967,
+			"tameable": false,
+			"level": {
+				"min": 56,
+				"max": 56
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "tranquil-pools"
+				}
+			]
+		},
+		{
+			"id": 159006,
+			"tameable": false,
+			"level": {
+				"min": 56,
+				"max": 56
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "tranquil-pools"
+				}
+			]
+		},
+		{
+			"id": 158946,
+			"tameable": false,
+			"level": {
+				"min": 56,
+				"max": 56
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "spirit-glen-soryns-meadow"
+				}
+			]
+		},
+		{
+			"id": 165646,
+			"tameable": false,
+			"level": {
+				"min": 56,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 163987,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "tirna-scithe"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		160077,
+		171194,
+		163350,
+		155211
+	]
+}

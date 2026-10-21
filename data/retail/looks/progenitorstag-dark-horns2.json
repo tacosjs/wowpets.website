@@ -1,0 +1,39 @@
+{
+	"id": "progenitorstag-dark-horns2",
+	"family": "stag",
+	"modelGroup": "cervids",
+	"npcs": [
+		{
+			"id": 178098,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "felicitous-glade-the-great-veldt"
+				}
+			]
+		},
+		{
+			"id": 181260,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		180049
+	]
+}

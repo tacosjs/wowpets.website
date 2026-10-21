@@ -1,0 +1,22 @@
+{
+	"id": "mole-blue-nose2-teeth1-bumps1",
+	"family": "rodent",
+	"modelGroup": "moles",
+	"npcs": [
+		{
+			"id": 218213,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "mourning-rise"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"id": "direwolfskindarkgrey",
+	"family": "wolf",
+	"modelGroup": "worgs",
+	"npcs": [
+		{
+			"id": 8211,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "the-hinterlands"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 50922,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "western-plaguelands"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 47815,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "orgrimmar",
+					"area": "the-valley-of-honor"
+				}
+			]
+		}
+	]
+}

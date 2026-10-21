@@ -1,0 +1,155 @@
+{
+	"id": "hippored",
+	"family": "riverbeast",
+	"modelGroup": "riverbeasts",
+	"npcs": [
+		{
+			"id": 85907,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "riverbeast-den"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 85762,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond"
+				}
+			]
+		},
+		{
+			"id": 85743,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond"
+				}
+			]
+		},
+		{
+			"id": 82905,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "the-fertile-ground"
+				}
+			]
+		},
+		{
+			"id": 85906,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "riverbeast-den"
+				}
+			]
+		},
+		{
+			"id": 77431,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "talador"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 79587,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "talador"
+				}
+			]
+		},
+		{
+			"id": 88586,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "everbloom-wilds"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 87021,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nagrand-draenor"
+				}
+			]
+		},
+		{
+			"id": 82439,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "razorbloom"
+				}
+			]
+		}
+	]
+}

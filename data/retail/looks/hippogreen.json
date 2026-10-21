@@ -1,0 +1,131 @@
+{
+	"id": "hippogreen",
+	"family": "riverbeast",
+	"modelGroup": "riverbeasts",
+	"npcs": [
+		{
+			"id": 86780,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaan-jungle"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "phase"
+				}
+			]
+		},
+		{
+			"id": 72606,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "the-verdant-mire"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 88075,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ashran"
+				}
+			]
+		},
+		{
+			"id": 82310,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ashran"
+				}
+			]
+		},
+		{
+			"id": 77715,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "talador"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 88669,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak"
+				}
+			]
+		},
+		{
+			"id": 92979,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaan-jungle",
+					"area": "thundertail-wallow"
+				}
+			]
+		},
+		{
+			"id": 87020,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-draenor"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		83841
+	]
+}

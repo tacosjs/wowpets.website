@@ -1,0 +1,21 @@
+{
+	"id": "dragonhawkskin04",
+	"family": "dragonhawk",
+	"modelGroup": "dragonhawks",
+	"npcs": [
+		{
+			"id": 25867,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "sunwell-plateau"
+				}
+			]
+		}
+	]
+}

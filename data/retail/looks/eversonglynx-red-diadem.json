@@ -1,0 +1,22 @@
+{
+	"id": "eversonglynx-red-diadem",
+	"family": "cat",
+	"modelGroup": "eversonglynxes",
+	"npcs": [
+		{
+			"id": 255348,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "eversong-woods"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

@@ -1,0 +1,73 @@
+{
+	"name": "Black Maned Wolf",
+	"variant": "Black",
+	"npcs": {
+		"76181": {
+			"name": "Ragemaw Worg"
+		},
+		"78406": {
+			"name": "Shadowmoon Stalker"
+		},
+		"81000": {
+			"name": "Garn Nighthowl"
+		},
+		"81001": {
+			"name": "Nok-Karosh",
+			"title": "Warrior's Death"
+		},
+		"81718": {
+			"name": "Warsong Wolf"
+		},
+		"81774": {
+			"name": "Injured Stalker"
+		},
+		"82307": {
+			"name": "Shadowmoon Packleader"
+		},
+		"82308": {
+			"name": "Shadowmoon Stalker"
+		},
+		"82535": {
+			"name": "Void-Touched Stalker"
+		},
+		"83548": {
+			"name": "Thaif"
+		},
+		"107463": {
+			"name": "Storm's Reach Worg"
+		},
+		"112661": {
+			"name": "Dreamway Prowler"
+		},
+		"127874": {
+			"name": "Chillmist Prowler"
+		},
+		"127876": {
+			"name": "Chillmist Alpha"
+		},
+		"127877": {
+			"name": "Longfang"
+		},
+		"132194": {
+			"name": "Hexenwolf Alpha"
+		},
+		"132195": {
+			"name": "Hexenwolf Tracker"
+		},
+		"136204": {
+			"name": "Coldtooth Alpha"
+		},
+		"136262": {
+			"name": "Coldtooth Howler"
+		},
+		"139978": {
+			"name": "Venus"
+		},
+		"139981": {
+			"name": "Cleo"
+		},
+		"140299": {
+			"name": "Ghostfang"
+		}
+	}
+}

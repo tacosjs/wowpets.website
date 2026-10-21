@@ -1,0 +1,51 @@
+{
+	"id": "pandarenserpent-blue-lightning",
+	"family": "lesserdragonkin",
+	"modelGroup": "cloudserpents",
+	"npcs": [
+		{
+			"id": 69099,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "isle-of-thunder",
+					"area": "the-foot-of-lei-shen"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 69562,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "the-fall-of-shan-bu-isle-of-thunder",
+					"area": "the-foot-of-lei-shen-the-fall-of-shan-bu-isle-of-thunder"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 110675,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms",
+					"area": "guo-lai-halls"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

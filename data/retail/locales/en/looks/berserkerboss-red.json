@@ -1,0 +1,22 @@
+{
+	"name": "Primal Red Ultradon",
+	"variant": "Primal Red Ultradon",
+	"npcs": {
+		"239374": {
+			"name": "Enraged Ultradon"
+		},
+		"255149": {
+			"name": "Enraged Ultradon"
+		},
+		"257027": {
+			"name": "Rakshur the Bonegrinder"
+		},
+		"259322": {
+			"name": "Shackled Ultradon"
+		},
+		"259745": {
+			"name": "Hatecrusher Ultradon",
+			"title": "Horde Guardian"
+		}
+	}
+}

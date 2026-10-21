@@ -1,0 +1,82 @@
+{
+	"id": "snailrock-black-shell1",
+	"family": "carapid",
+	"modelGroup": "rocksnails",
+	"npcs": [
+		{
+			"id": 203241,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "glitterspore-lake"
+				}
+			]
+		},
+		{
+			"id": 251548,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "verdant-sepulcher"
+				}
+			]
+		},
+		{
+			"id": 200121,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "deepflayer-nest"
+				}
+			]
+		},
+		{
+			"id": 204618,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "glimmerogg"
+				}
+			]
+		},
+		{
+			"id": 201081,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "shimmering-towers"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"name": "Dark Grey Mammoth",
+	"variant": "Dark Grey",
+	"npcs": {
+		"25862": {
+			"name": "Khu'nok the Behemoth"
+		},
+		"26271": {
+			"name": "Emaciated Mammoth Bull"
+		},
+		"26273": {
+			"name": "Emaciated Mammoth Calf"
+		},
+		"28380": {
+			"name": "Shattertusk Bull"
+		},
+		"28851": {
+			"name": "Enraged Mammoth"
+		}
+	}
+}

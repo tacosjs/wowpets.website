@@ -1,0 +1,93 @@
+{
+	"id": "giantdragonturtle",
+	"family": "turtle",
+	"modelGroup": "stonedragonturtles",
+	"npcs": [
+		{
+			"id": 111273,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar"
+				}
+			]
+		},
+		{
+			"id": 103247,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "neltharions-lair"
+				}
+			]
+		},
+		{
+			"id": 67977,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "throne-of-thunder"
+				}
+			]
+		},
+		{
+			"id": 112956,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-nighthold",
+					"area": "shaldorei-terrace"
+				}
+			]
+		},
+		{
+			"id": 114775,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "suramar-city"
+				}
+			]
+		},
+		{
+			"id": 156549,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms",
+					"area": "autumnshade-ridge"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		170005
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"id": "mammoth2-yellow-tusk4",
+	"family": "mammoth",
+	"modelGroup": "mammoths",
+	"npcs": [
+		{
+			"id": 195984,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "the-mallakh"
+				}
+			]
+		}
+	]
+}

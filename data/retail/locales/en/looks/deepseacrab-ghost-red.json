@@ -1,0 +1,12 @@
+{
+	"name": "Blue-Tinged Dark Red Spiked Crab",
+	"variant": "Blue-Tinged Dark Red",
+	"npcs": {
+		"93226": {
+			"name": "Fathomless Mauler"
+		},
+		"109702": {
+			"name": "Deepclaw"
+		}
+	}
+}

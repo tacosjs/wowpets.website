@@ -1,0 +1,42 @@
+{
+	"id": "worgbrown",
+	"family": "wolf",
+	"modelGroup": "saberworgs",
+	"npcs": [
+		{
+			"id": 24516,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "howling-fjord"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 56357,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds",
+					"area": "yan-zhe-river"
+				}
+			],
+			"keepsName": true
+		}
+	],
+	"alsoNpcs": [
+		29735,
+		30430
+	]
+}

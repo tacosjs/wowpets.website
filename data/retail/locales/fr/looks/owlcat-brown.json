@@ -1,0 +1,17 @@
+{
+	"npcs": {
+		"90313": {
+			"name": "Rôdeur de Llothien"
+		},
+		"90901": {
+			"name": "Seigneur de la harde Miaul"
+		},
+		"105547": {
+			"name": "Rauren",
+			"title": "Matrone des chatons-huants"
+		},
+		"106920": {
+			"name": "Rôdeur orné de plumes"
+		}
+	}
+}

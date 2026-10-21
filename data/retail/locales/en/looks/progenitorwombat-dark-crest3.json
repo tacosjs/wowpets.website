@@ -1,0 +1,12 @@
+{
+	"name": "Black & Grey Vombata w/ Short Crest",
+	"variant": "Black & Grey Vombata w/ Short Crest",
+	"npcs": {
+		"178936": {
+			"name": "Vombata Cub"
+		},
+		"180715": {
+			"name": "Docile Vombata Cub"
+		}
+	}
+}

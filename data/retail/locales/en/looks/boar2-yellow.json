@@ -1,0 +1,15 @@
+{
+	"name": "Yellow Boar",
+	"variant": "Yellow",
+	"npcs": {
+		"454": {
+			"name": "Young Goretusk"
+		},
+		"1984": {
+			"name": "Young Thistle Boar"
+		},
+		"2966": {
+			"name": "Young Battleboar"
+		}
+	}
+}

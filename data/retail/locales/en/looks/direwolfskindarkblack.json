@@ -1,0 +1,43 @@
+{
+	"name": "Black Worg",
+	"variant": "Black",
+	"npcs": {
+		"628": {
+			"name": "Black Ravager"
+		},
+		"1765": {
+			"name": "Worg"
+		},
+		"7055": {
+			"name": "Blackrock Worg"
+		},
+		"9696": {
+			"name": "Bloodaxe Worg"
+		},
+		"10221": {
+			"name": "Bloodaxe Worg Pup"
+		},
+		"18033": {
+			"name": "Dark Worg"
+		},
+		"19423": {
+			"name": "Bleeding Hollow Worg"
+		},
+		"19459": {
+			"name": "Feng"
+		},
+		"47415": {
+			"name": "Howler",
+			"title": "Dedlow's Pet"
+		},
+		"56160": {
+			"name": "Moonfang Snarler"
+		},
+		"71982": {
+			"name": "Moonfang Dreadhowl"
+		},
+		"72038": {
+			"name": "Moonfang Packmate"
+		}
+	}
+}

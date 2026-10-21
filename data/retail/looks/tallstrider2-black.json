@@ -1,0 +1,54 @@
+{
+	"id": "tallstrider2-black",
+	"family": "tallstrider",
+	"modelGroup": "grandtallstriders",
+	"npcs": [
+		{
+			"id": 2956,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mulgore"
+				}
+			]
+		},
+		{
+			"id": 3245,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "northern-barrens"
+				}
+			]
+		},
+		{
+			"id": 24740,
+			"tameable": true,
+			"level": {
+				"min": 7,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ashenvale",
+					"area": "house-of-edune"
+				}
+			],
+			"keepsName": true
+		}
+	],
+	"alsoNpcs": [
+		234999
+	]
+}

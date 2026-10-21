@@ -1,0 +1,23 @@
+{
+	"id": "sabretoothraptor-black",
+	"family": "raptor",
+	"modelGroup": "dreamtalons",
+	"npcs": [
+		{
+			"id": 210161,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "viridescent-thicket"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

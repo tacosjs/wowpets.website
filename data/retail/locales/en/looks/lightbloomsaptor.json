@@ -1,0 +1,21 @@
+{
+	"name": "Lightbloom Saptor",
+	"variant": "Lightbloom",
+	"npcs": {
+		"237496": {
+			"name": "Lightmad Saptor"
+		},
+		"241466": {
+			"name": "Swarming Lightsaptor"
+		},
+		"245473": {
+			"name": "Thorny Saptor"
+		},
+		"250340": {
+			"name": "Lightcursed Saptor"
+		},
+		"256914": {
+			"name": "Lightmad Saptor"
+		}
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"id": "sporebat3-red-red",
+	"family": "sporebat",
+	"modelGroup": "sporegliders",
+	"npcs": [
+		{
+			"id": 246808,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "fungara-village"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		237704,
+		256246,
+		250168,
+		260031,
+		255876,
+		249409,
+		257933,
+		264342
+	]
+}

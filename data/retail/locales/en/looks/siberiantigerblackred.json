@@ -1,0 +1,27 @@
+{
+	"name": "Black & Red Tiger",
+	"variant": "Black & Red",
+	"npcs": {
+		"76685": {
+			"name": "Sharpfang Stalker"
+		},
+		"77741": {
+			"name": "Ra'kahn"
+		},
+		"79296": {
+			"name": "Ravenous Bloodmaw"
+		},
+		"79909": {
+			"name": "Elder Ridge Prowler"
+		},
+		"80835": {
+			"name": "Orcgut"
+		},
+		"88579": {
+			"name": "Pridelands Stalker"
+		},
+		"135646": {
+			"name": "Bloodstripe the Render"
+		}
+	}
+}

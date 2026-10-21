@@ -1,0 +1,22 @@
+{
+	"id": "ghostlymoose",
+	"family": "spiritbeast",
+	"modelGroup": "spiritelderhorn",
+	"npcs": [
+		{
+			"id": 111463,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "stormheim"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

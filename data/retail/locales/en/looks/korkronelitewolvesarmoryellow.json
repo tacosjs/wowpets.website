@@ -1,0 +1,9 @@
+{
+	"name": "Taupe Kor",
+	"variant": "Taupe Armor",
+	"npcs": {
+		"72452": {
+			"name": "Kor'kron Dire Wolf"
+		}
+	}
+}

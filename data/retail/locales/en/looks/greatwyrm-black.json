@@ -1,0 +1,12 @@
+{
+	"name": "Great Purple-Black Mana Wyrm",
+	"variant": "Purple-Black",
+	"npcs": {
+		"192739": {
+			"name": "Feasting Wyrm"
+		},
+		"195429": {
+			"name": "Mana Thirster"
+		}
+	}
+}

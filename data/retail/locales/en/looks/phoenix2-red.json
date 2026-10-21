@@ -1,0 +1,12 @@
+{
+	"name": "Red Phoenix",
+	"variant": "Red",
+	"npcs": {
+		"199829": {
+			"name": "Magma Phoenix"
+		},
+		"203664": {
+			"name": "Emberdusk"
+		}
+	}
+}

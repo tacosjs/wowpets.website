@@ -1,0 +1,73 @@
+{
+	"id": "dragonhawkskin05",
+	"family": "dragonhawk",
+	"modelGroup": "dragonhawks",
+	"npcs": [
+		{
+			"id": 18155,
+			"tameable": true,
+			"level": {
+				"min": 19,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-botanica"
+				}
+			]
+		},
+		{
+			"id": 20038,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "tempest-keep-the-eye"
+				}
+			]
+		},
+		{
+			"id": 27946,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "eversong-woods-classic"
+				},
+				{
+					"zone": "ghostlands"
+				},
+				{
+					"zone": "blasted-lands"
+				},
+				{
+					"zone": "desolace"
+				}
+			]
+		},
+		{
+			"id": 30290,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "crystalsong-forest"
+				}
+			],
+			"retired": true
+		}
+	]
+}

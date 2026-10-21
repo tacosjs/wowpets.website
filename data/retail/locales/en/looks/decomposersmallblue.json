@@ -1,0 +1,25 @@
+{
+	"name": "Blue Gormling",
+	"variant": "Blue Gormling",
+	"npcs": {
+		"158946": {
+			"name": "Wild Gormling"
+		},
+		"158967": {
+			"name": "Docile Gormling"
+		},
+		"159006": {
+			"name": "Gorged Gormling"
+		},
+		"163987": {
+			"name": "Dustwilt Mite"
+		},
+		"165646": {
+			"name": "Gormling Larva",
+			"title": "Gorm Matriarch's Guardian"
+		},
+		"171392": {
+			"name": "Ravenous Larva"
+		}
+	}
+}

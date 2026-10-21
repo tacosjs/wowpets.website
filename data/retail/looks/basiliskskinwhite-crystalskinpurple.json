@@ -1,0 +1,21 @@
+{
+	"id": "basiliskskinwhite-crystalskinpurple",
+	"family": "basilisk",
+	"modelGroup": "basilisks",
+	"npcs": [
+		{
+			"id": 42543,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "deepholm"
+				}
+			]
+		}
+	]
+}

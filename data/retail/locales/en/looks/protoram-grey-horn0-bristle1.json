@@ -1,0 +1,15 @@
+{
+	"name": "Grassy Grey Ramolith - Hornless",
+	"variant": "Grassy Grey - Hornless",
+	"npcs": {
+		"221526": {
+			"name": "Mosspelt Ramolith"
+		},
+		"221642": {
+			"name": "Mosspelt Ramolith"
+		},
+		"225040": {
+			"name": "Mosspelt Ramolith"
+		}
+	}
+}

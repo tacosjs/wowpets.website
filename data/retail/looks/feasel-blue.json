@@ -1,0 +1,66 @@
+{
+	"id": "feasel-blue",
+	"family": "rodent",
+	"modelGroup": "marsuul",
+	"npcs": [
+		{
+			"id": 119745,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eredath",
+					"area": "ruins-of-oronaar"
+				}
+			]
+		},
+		{
+			"id": 122365,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eredath"
+				}
+			]
+		},
+		{
+			"id": 126864,
+			"tameable": false,
+			"level": {
+				"min": 47,
+				"max": 47
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "eredath",
+					"area": "prophets-reflection"
+				}
+			]
+		},
+		{
+			"id": 216090,
+			"tameable": false,
+			"level": {
+				"min": 51,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "exodar",
+					"area": "traders-tier"
+				}
+			]
+		}
+	]
+}

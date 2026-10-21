@@ -1,0 +1,15 @@
+{
+	"name": "Brown Sporebat",
+	"variant": "Brown",
+	"npcs": {
+		"18280": {
+			"name": "Sporewing"
+		},
+		"50779": {
+			"name": "Sporeggon"
+		},
+		"265792": {
+			"name": "Sporeray Hunter"
+		}
+	}
+}

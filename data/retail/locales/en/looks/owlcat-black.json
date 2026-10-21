@@ -1,0 +1,9 @@
+{
+	"name": "Black Owlcat",
+	"variant": "Black",
+	"npcs": {
+		"103497": {
+			"name": "Feathermane Hunter"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Green Ice Spider",
+	"variant": "Green",
+	"npcs": {
+		"185811": {
+			"name": "Shiverweb Creeper"
+		}
+	}
+}

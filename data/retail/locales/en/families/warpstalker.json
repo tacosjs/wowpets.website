@@ -1,0 +1,11 @@
+{
+	"name": "Warp Stalkers",
+	"modelGroups": {
+		"wirywarpstalkers": {
+			"name": "Wiry Warp Stalkers"
+		},
+		"warpstalkers": {
+			"name": "Warp Stalkers"
+		}
+	}
+}

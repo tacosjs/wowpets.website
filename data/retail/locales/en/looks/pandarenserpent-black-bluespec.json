@@ -1,0 +1,15 @@
+{
+	"name": "Black Cloud Serpent w/ Blue Sheen",
+	"variant": "Black w/ Blue Sheen",
+	"npcs": {
+		"62311": {
+			"name": "Shan'ze Cloudrunner"
+		},
+		"153208": {
+			"name": "Onyx Warserpent"
+		},
+		"157341": {
+			"name": "Haofeng"
+		}
+	}
+}

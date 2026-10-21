@@ -1,0 +1,30 @@
+{
+	"name": "Grey Gorilla",
+	"variant": "Grey",
+	"npcs": {
+		"1557": {
+			"name": "Elder Mistvale Gorilla"
+		},
+		"28098": {
+			"name": "Hardknuckle Forager"
+		},
+		"50986": {
+			"name": "Goldenback"
+		},
+		"132864": {
+			"name": "Juvenile Knucklebump"
+		},
+		"139484": {
+			"name": "Ridgeback Elder"
+		},
+		"140077": {
+			"name": "Knucklebump Stomper"
+		},
+		"143781": {
+			"name": "Juvenile Knucklebump"
+		},
+		"143783": {
+			"name": "Knucklebump Stomper"
+		}
+	}
+}

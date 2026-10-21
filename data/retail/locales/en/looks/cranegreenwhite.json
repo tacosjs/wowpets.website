@@ -1,0 +1,18 @@
+{
+	"name": "Green & White Crane",
+	"variant": "Green & White",
+	"npcs": {
+		"170790": {
+			"name": "Tranquil Puddlewader"
+		},
+		"170910": {
+			"name": "Shimmering Wader"
+		},
+		"172070": {
+			"name": "Unnerved Wader"
+		},
+		"174247": {
+			"name": "Starlight Crane"
+		}
+	}
+}

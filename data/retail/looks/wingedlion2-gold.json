@@ -1,0 +1,168 @@
+{
+	"id": "wingedlion2-gold",
+	"family": "feathermane",
+	"modelGroup": "larions",
+	"npcs": [
+		{
+			"id": 170325,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion"
+				}
+			]
+		},
+		{
+			"id": 168613,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "gleaming-overlook"
+				}
+			]
+		},
+		{
+			"id": 168617,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "gleaming-overlook"
+				}
+			]
+		},
+		{
+			"id": 159612,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 52
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "hall-of-beasts"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 170659,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "bastion"
+				}
+			],
+			"keepsName": true,
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 158254,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "kalas-den"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 158081,
+			"tameable": false,
+			"level": {
+				"min": 51,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "bastion"
+				}
+			]
+		},
+		{
+			"id": 157697,
+			"tameable": false,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "nemeas-retreat"
+				}
+			]
+		},
+		{
+			"id": 178357,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-maw",
+					"area": "cocyrus"
+				}
+			]
+		},
+		{
+			"id": 178376,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-maw",
+					"area": "cocyrus"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		157761,
+		160569,
+		172045,
+		158767
+	]
+}

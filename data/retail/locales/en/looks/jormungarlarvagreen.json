@@ -1,0 +1,27 @@
+{
+	"name": "Green Jormungar",
+	"variant": "Green",
+	"npcs": {
+		"26358": {
+			"name": "Ice Heart Jormungar Feeder"
+		},
+		"35144": {
+			"name": "Acidmaw"
+		},
+		"85837": {
+			"name": "Slivermaw"
+		},
+		"139194": {
+			"name": "Rotmaw"
+		},
+		"140980": {
+			"name": "Jadescale Worm"
+		},
+		"215735": {
+			"name": "Deeps Spitter"
+		},
+		"219246": {
+			"name": "Deep Spitter"
+		}
+	}
+}

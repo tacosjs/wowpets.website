@@ -1,0 +1,56 @@
+{
+	"id": "ardenwealdstag-blue-horns4",
+	"family": "stag",
+	"modelGroup": "runestags",
+	"npcs": [
+		{
+			"id": 165092,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "elder-stand"
+				}
+			]
+		},
+		{
+			"id": 170695,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "furrowed-glen"
+				}
+			]
+		},
+		{
+			"id": 165093,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "elder-stand"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		174356,
+		166187
+	]
+}

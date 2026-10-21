@@ -1,0 +1,18 @@
+{
+	"name": "Silver Draenor Talbuk",
+	"variant": "Silver",
+	"npcs": {
+		"82415": {
+			"name": "Shinri"
+		},
+		"85832": {
+			"name": "Talbuk"
+		},
+		"86727": {
+			"name": "Thorncoat Talbuk"
+		},
+		"251458": {
+			"name": "Saddled Talbuk"
+		}
+	}
+}

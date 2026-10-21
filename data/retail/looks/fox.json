@@ -1,0 +1,67 @@
+{
+	"id": "fox",
+	"family": "fox",
+	"modelGroup": "wiryfoxes",
+	"npcs": [
+		{
+			"id": 251436,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "silvermoon-city"
+				}
+			]
+		},
+		{
+			"id": 271087,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "the-stump"
+				}
+			]
+		},
+		{
+			"id": 265667,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "the-stump"
+				}
+			]
+		},
+		{
+			"id": 265483,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "the-stump"
+				}
+			]
+		}
+	]
+}

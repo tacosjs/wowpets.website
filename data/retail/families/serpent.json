@@ -1,0 +1,69 @@
+{
+	"id": "serpent",
+	"wowId": 35,
+	"icon": "spell_nature_guardianward",
+	"spec": "cunning",
+	"exotic": false,
+	"diet": [
+		"meat"
+	],
+	"abilities": {
+		"basic": "bite",
+		"family": [
+			"serpents-swiftness"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "venomfangs"
+		},
+		{
+			"id": "writhingserpents"
+		},
+		{
+			"id": "eversongmanawyrms"
+		},
+		{
+			"id": "grovecrawlers"
+		},
+		{
+			"id": "greaterelectriceels"
+		},
+		{
+			"id": "electriceels"
+		},
+		{
+			"id": "rockcobras"
+		},
+		{
+			"id": "greatmanawyrms"
+		},
+		{
+			"id": "viperids"
+		},
+		{
+			"id": "pythons"
+		},
+		{
+			"id": "groundsnakes"
+		},
+		{
+			"id": "abyssworms"
+		},
+		{
+			"id": "eelserpents"
+		},
+		{
+			"id": "cobras"
+		},
+		{
+			"id": "manawyrms"
+		},
+		{
+			"id": "arcanewyrms"
+		},
+		{
+			"id": "serpents"
+		}
+	]
+}

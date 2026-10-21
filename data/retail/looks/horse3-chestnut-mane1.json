@@ -1,0 +1,28 @@
+{
+	"id": "horse3-chestnut-mane1",
+	"family": "courser",
+	"modelGroup": "horses",
+	"npcs": [
+		{
+			"id": 44836,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "western-plaguelands",
+					"area": "northridge-lumber-camp"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		48180,
+		129139,
+		137836,
+		142347
+	]
+}

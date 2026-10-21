@@ -1,0 +1,9 @@
+{
+	"name": "Simple Green Primal Thunder Lizard",
+	"variant": "Green",
+	"npcs": {
+		"198815": {
+			"name": "Fledgling Thunder Lizard"
+		}
+	}
+}

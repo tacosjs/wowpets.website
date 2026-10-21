@@ -1,0 +1,9 @@
+{
+	"name": "Damaged Blue Silithid Colossus",
+	"variant": "Damaged Blue",
+	"npcs": {
+		"50743": {
+			"name": "Manax"
+		}
+	}
+}

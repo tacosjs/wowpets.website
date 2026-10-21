@@ -1,0 +1,23 @@
+{
+	"name": "Orange-Black Roc",
+	"variant": "Orange-Black",
+	"npcs": {
+		"104310": {
+			"name": "Skawn",
+			"title": "Agna's Companion"
+		},
+		"104481": {
+			"name": "Ala'washte"
+		},
+		"104827": {
+			"name": "Fierce Hatchling"
+		},
+		"153964": {
+			"name": "Bloodbeak",
+			"title": "Terror of the Skies"
+		},
+		"183984": {
+			"name": "The Weeping Vilomah"
+		}
+	}
+}

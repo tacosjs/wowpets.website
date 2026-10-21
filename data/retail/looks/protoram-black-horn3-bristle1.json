@@ -1,0 +1,39 @@
+{
+	"id": "protoram-black-horn3-bristle1",
+	"family": "gruffhorn",
+	"modelGroup": "ramoliths",
+	"npcs": [
+		{
+			"id": 214946,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "freywold-village"
+				}
+			]
+		},
+		{
+			"id": 218194,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		221672
+	]
+}

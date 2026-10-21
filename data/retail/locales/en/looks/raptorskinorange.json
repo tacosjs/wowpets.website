@@ -1,0 +1,42 @@
+{
+	"name": "Orange Raptor",
+	"variant": "Orange",
+	"npcs": {
+		"685": {
+			"name": "Stranglethorn Raptor"
+		},
+		"686": {
+			"name": "Lashtail Raptor"
+		},
+		"1019": {
+			"name": "Elder Razormaw"
+		},
+		"2560": {
+			"name": "Highland Thrasher"
+		},
+		"14232": {
+			"name": "Dart"
+		},
+		"37084": {
+			"name": "Terrortooth Scytheclaw"
+		},
+		"41400": {
+			"name": "Highland Razormaw"
+		},
+		"132754": {
+			"name": "Highland Strider"
+		},
+		"134167": {
+			"name": "Highland Thrasher"
+		},
+		"142338": {
+			"name": "Highland Strider"
+		},
+		"142339": {
+			"name": "Highland Thrasher"
+		},
+		"142340": {
+			"name": "Highland Fleshripper"
+		}
+	}
+}

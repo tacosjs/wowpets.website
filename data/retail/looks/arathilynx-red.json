@@ -1,0 +1,71 @@
+{
+	"id": "arathilynx-red",
+	"family": "cat",
+	"modelGroup": "arathilynxes",
+	"npcs": [
+		{
+			"id": 221470,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "morgaens-tears"
+				}
+			]
+		},
+		{
+			"id": 221106,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "torchlight-mine"
+				}
+			]
+		},
+		{
+			"id": 219412,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "torchlight-mine"
+				}
+			]
+		},
+		{
+			"id": 218086,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "mereldar"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		216057,
+		225424
+	]
+}

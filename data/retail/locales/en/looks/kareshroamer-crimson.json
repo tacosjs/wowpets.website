@@ -1,0 +1,12 @@
+{
+	"name": "Red Slateback",
+	"variant": "Red",
+	"npcs": {
+		"233497": {
+			"name": "Slateback Roamer"
+		},
+		"236817": {
+			"name": "Nur"
+		}
+	}
+}

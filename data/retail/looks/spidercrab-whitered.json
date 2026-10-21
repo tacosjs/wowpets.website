@@ -1,0 +1,32 @@
+{
+	"id": "spidercrab-whitered",
+	"family": "crab",
+	"modelGroup": "spidercrabs",
+	"npcs": [
+		{
+			"id": 152642,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "dragons-teeth-basin"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		152462,
+		153812,
+		192129
+	]
+}

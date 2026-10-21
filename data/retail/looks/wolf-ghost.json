@@ -1,0 +1,136 @@
+{
+	"id": "wolf-ghost",
+	"family": "spiritbeast",
+	"modelGroup": "spectralwolves",
+	"npcs": [
+		{
+			"id": 50138,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "twilight-highlands"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 42855,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stonetalon-mountains"
+				}
+			]
+		},
+		{
+			"id": 50923,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowfang-keep"
+				}
+			]
+		},
+		{
+			"id": 24133,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dustwallow-marsh"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			],
+			"retired": true
+		},
+		{
+			"id": 26111,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dustwallow-marsh"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 31123,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "crystalsong-forest"
+				}
+			]
+		},
+		{
+			"id": 22849,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "black-temple"
+				}
+			]
+		},
+		{
+			"id": 17854,
+			"tameable": false,
+			"level": {
+				"min": 33,
+				"max": 33
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-battle-for-mount-hyjal"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

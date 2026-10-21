@@ -1,0 +1,41 @@
+{
+	"name": "Brown Tiger",
+	"variant": "Brown",
+	"npcs": {
+		"56272": {
+			"name": "Forest Prowler"
+		},
+		"56286": {
+			"name": "Enthralled Forest Prowler"
+		},
+		"58887": {
+			"name": "Krasari Mauler"
+		},
+		"63756": {
+			"name": "Enthralled Forest Prowler",
+			"title": "Hozen Beastrunner's Pet"
+		},
+		"63767": {
+			"name": "Chasheen",
+			"title": "Queen of the Deepwild"
+		},
+		"66668": {
+			"name": "Sha-Infested Prowler"
+		},
+		"67071": {
+			"name": "Wary Forest Prowler"
+		},
+		"67085": {
+			"name": "Windward Alpha"
+		},
+		"122284": {
+			"name": "Greater Jungle Stalker"
+		},
+		"124259": {
+			"name": "Jungle Tiger"
+		},
+		"143780": {
+			"name": "Jungle Tiger"
+		}
+	}
+}

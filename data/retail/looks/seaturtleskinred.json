@@ -1,0 +1,106 @@
+{
+	"id": "seaturtleskinred",
+	"family": "turtle",
+	"modelGroup": "turtles",
+	"npcs": [
+		{
+			"id": 38845,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 20
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-lost-isles"
+				}
+			]
+		},
+		{
+			"id": 14223,
+			"tameable": true,
+			"level": {
+				"min": 7,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "hillsbrad-foothills"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 4825,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "blackfathom-deeps"
+				}
+			]
+		},
+		{
+			"id": 2505,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-hinterlands"
+				}
+			]
+		},
+		{
+			"id": 45950,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "swamp-of-sorrows"
+				}
+			]
+		},
+		{
+			"id": 22885,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "black-temple"
+				}
+			]
+		},
+		{
+			"id": 56081,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "old-hillsbrad-foothills"
+				}
+			]
+		}
+	]
+}

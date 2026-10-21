@@ -1,0 +1,51 @@
+{
+	"name": "Brown Etherwyrm",
+	"variant": "Brown",
+	"npcs": {
+		"157274": {
+			"name": "Languishing Etherwyrm"
+		},
+		"159420": {
+			"name": "Shimmering Etherwyrm"
+		},
+		"159610": {
+			"name": "Agitated Etherwyrm"
+		},
+		"163546": {
+			"name": "Young Etherwyrm"
+		},
+		"163552": {
+			"name": "Starving Etherwyrm"
+		},
+		"165068": {
+			"name": "Withering Etherwyrm"
+		},
+		"168309": {
+			"name": "Hungering Etherwyrm"
+		},
+		"168892": {
+			"name": "Famished Etherwyrm"
+		},
+		"169673": {
+			"name": "Deprived Etherwyrm"
+		},
+		"169858": {
+			"name": "Restless Etherwyrm"
+		},
+		"170009": {
+			"name": "Unsettled Etherwyrm"
+		},
+		"171017": {
+			"name": "Reclusive Etherwyrm"
+		},
+		"172058": {
+			"name": "Malnourished Etherwyrm"
+		},
+		"172196": {
+			"name": "Diminished Etherwyrm"
+		},
+		"172703": {
+			"name": "Emaciated Etherwyrm"
+		}
+	}
+}

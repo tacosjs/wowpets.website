@@ -1,0 +1,59 @@
+{
+	"name": "Green Spiked Crab",
+	"variant": "Green",
+	"npcs": {
+		"39418": {
+			"name": "Green Sand Crab"
+		},
+		"40238": {
+			"name": "Agitated Green Sand Crab"
+		},
+		"41520": {
+			"name": "Deepseeker Crab",
+			"title": "Idra'kess Harpooner's Pet"
+		},
+		"45087": {
+			"name": "Felscale Crawler"
+		},
+		"46606": {
+			"name": "Spiny Tidecrawler"
+		},
+		"50957": {
+			"name": "Hugeclaw"
+		},
+		"88922": {
+			"name": "Surfrider Crab"
+		},
+		"107846": {
+			"name": "Pinchshank"
+		},
+		"108163": {
+			"name": "Scumshell Crab"
+		},
+		"118725": {
+			"name": "Felshore Crab"
+		},
+		"123455": {
+			"name": "Spiny Kelp Clicker",
+			"title": "Vilescale Sorceress's Pet"
+		},
+		"129469": {
+			"name": "Deepsea Crawler"
+		},
+		"129471": {
+			"name": "Deepsea Sandcrawler"
+		},
+		"137716": {
+			"name": "Bottom Feeder"
+		},
+		"139682": {
+			"name": "Bo \"Double Pinch\" McGee"
+		},
+		"218885": {
+			"name": "Undersea Scuttler"
+		},
+		"227572": {
+			"name": "Parched Scuttler"
+		}
+	}
+}

@@ -1,0 +1,73 @@
+{
+	"name": "Black Amani Lynx",
+	"variant": "Black",
+	"npcs": {
+		"236188": {
+			"name": "Lynx Ruffian"
+		},
+		"239766": {
+			"name": "Avatar of Halazzi"
+		},
+		"239879": {
+			"name": "Riled-Up Ruffian"
+		},
+		"242226": {
+			"name": "Underbrush Prowler"
+		},
+		"244029": {
+			"name": "Bloodtrained Lynx"
+		},
+		"245688": {
+			"name": "Gloomclaw"
+		},
+		"247740": {
+			"name": "Great Graspy"
+		},
+		"247745": {
+			"name": "Walnut"
+		},
+		"250094": {
+			"name": "Amani Swiftclaw"
+		},
+		"253020": {
+			"name": "Pir'mis"
+		},
+		"253138": {
+			"name": "Raz'ki",
+			"title": "Apprentice Fisher"
+		},
+		"253417": {
+			"name": "Kivana"
+		},
+		"253429": {
+			"name": "Kali"
+		},
+		"254048": {
+			"name": "Titan"
+		},
+		"254049": {
+			"name": "Inka"
+		},
+		"254405": {
+			"name": "Daughter of Halazzi"
+		},
+		"255220": {
+			"name": "Amani Swiftclaw"
+		},
+		"255333": {
+			"name": "Witherbark Lynx"
+		},
+		"255496": {
+			"name": "Shrine Lynx"
+		},
+		"255497": {
+			"name": "Shrine Matron"
+		},
+		"258886": {
+			"name": "Syla"
+		},
+		"265617": {
+			"name": "Prowling Lynx"
+		}
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"id": "potatoad-tan",
+	"family": "hopper",
+	"modelGroup": "potatoads",
+	"npcs": [
+		{
+			"id": 198029,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "encroaching-bloom"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		258090,
+		250185,
+		250273,
+		242755,
+		248471,
+		256060,
+		256104,
+		237204
+	]
+}

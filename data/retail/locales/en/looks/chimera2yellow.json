@@ -1,0 +1,18 @@
+{
+	"name": "Yellow Rylak",
+	"variant": "Yellow",
+	"npcs": {
+		"74981": {
+			"name": "Thunderlord Driftstalker"
+		},
+		"84151": {
+			"name": "Gorge Rylak"
+		},
+		"85888": {
+			"name": "Howling Rylak"
+		},
+		"86074": {
+			"name": "Lil' Roardan"
+		}
+	}
+}

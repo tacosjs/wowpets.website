@@ -1,0 +1,12 @@
+{
+	"name": "Diamond Crab",
+	"variant": "Diamond",
+	"npcs": {
+		"210106": {
+			"name": "Root Snapper"
+		},
+		"211551": {
+			"name": "Root Snapper"
+		}
+	}
+}

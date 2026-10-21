@@ -1,0 +1,15 @@
+{
+	"name": "Yellow Silkworm",
+	"variant": "Yellow",
+	"npcs": {
+		"59756": {
+			"name": "Chibee"
+		},
+		"159388": {
+			"name": "Gertie Jr."
+		},
+		"167661": {
+			"name": "Gertie Jr."
+		}
+	}
+}

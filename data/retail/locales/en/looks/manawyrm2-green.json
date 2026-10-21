@@ -1,0 +1,21 @@
+{
+	"name": "Green Eversong Mana Wyrm",
+	"variant": "Green",
+	"npcs": {
+		"234660": {
+			"name": "Nibbles"
+		},
+		"236085": {
+			"name": "Felwyrm"
+		},
+		"236902": {
+			"name": "Massive Felwyrm"
+		},
+		"239629": {
+			"name": "Felwyrm"
+		},
+		"255709": {
+			"name": "Reinfused Felwyrm"
+		}
+	}
+}

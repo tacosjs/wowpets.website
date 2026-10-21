@@ -1,0 +1,264 @@
+{
+	"id": "minespider2-crystal",
+	"family": "spider",
+	"modelGroup": "grandspiders",
+	"npcs": [
+		{
+			"id": 80212,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge"
+				}
+			]
+		},
+		{
+			"id": 80247,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge"
+				}
+			]
+		},
+		{
+			"id": 80211,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge"
+				}
+			]
+		},
+		{
+			"id": 76891,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge"
+				}
+			]
+		},
+		{
+			"id": 18466,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "terokkar-forest"
+				}
+			]
+		},
+		{
+			"id": 18467,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "terokkar-forest"
+				}
+			]
+		},
+		{
+			"id": 5856,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "searing-gorge"
+				}
+			]
+		},
+		{
+			"id": 10375,
+			"tameable": true,
+			"level": {
+				"min": 19,
+				"max": 29
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blackrock-spire"
+				}
+			]
+		},
+		{
+			"id": 10376,
+			"tameable": true,
+			"level": {
+				"min": 22,
+				"max": 32
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "blackrock-spire",
+					"area": "skitterweb-tunnels"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 10596,
+			"tameable": true,
+			"level": {
+				"min": 22,
+				"max": 32
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "blackrock-spire",
+					"area": "skitterweb-tunnels"
+				}
+			]
+		},
+		{
+			"id": 29412,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-storm-peaks"
+				}
+			]
+		},
+		{
+			"id": 29411,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-storm-peaks"
+				}
+			]
+		},
+		{
+			"id": 16170,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "karazhan"
+				}
+			]
+		},
+		{
+			"id": 16171,
+			"tameable": true,
+			"level": {
+				"min": 31,
+				"max": 31
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "karazhan"
+				}
+			]
+		},
+		{
+			"id": 134910,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 9032,
+			"tameable": false,
+			"level": {
+				"min": 22,
+				"max": 32
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "blackrock-depths"
+				}
+			]
+		},
+		{
+			"id": 115115,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "return-to-karazhan",
+					"area": "servants-quarters-return-to-karazhan"
+				}
+			]
+		},
+		{
+			"id": 115019,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "return-to-karazhan",
+					"area": "servants-quarters-return-to-karazhan"
+				}
+			]
+		}
+	]
+}

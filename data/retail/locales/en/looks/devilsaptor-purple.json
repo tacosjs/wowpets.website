@@ -1,0 +1,16 @@
+{
+	"name": "Purple Devilsaptor",
+	"variant": "Purple",
+	"npcs": {
+		"249170": {
+			"name": "Misty Hellasaur"
+		},
+		"250086": {
+			"name": "Stumpy",
+			"title": "Terror of Harandar"
+		},
+		"253400": {
+			"name": "Radooni"
+		}
+	}
+}

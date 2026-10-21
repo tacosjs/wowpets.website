@@ -1,0 +1,22 @@
+{
+	"id": "moosebull-pale-horn1-antler1",
+	"family": "stag",
+	"modelGroup": "bruffalons",
+	"npcs": [
+		{
+			"id": 216705,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "amirdrassil-dragon-isles-zone",
+					"area": "singing-fen-amirdrassil-dragon-isles-zone"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"id": "celestialserpent",
+	"family": "spiritbeast",
+	"modelGroup": "astralcloudserpents",
+	"npcs": [
+		{
+			"id": 60410,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "mogushan-vaults"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

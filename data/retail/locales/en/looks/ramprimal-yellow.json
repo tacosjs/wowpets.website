@@ -1,0 +1,45 @@
+{
+	"name": "Tan Argali",
+	"variant": "Tan",
+	"npcs": {
+		"186298": {
+			"name": "Wandering Argali"
+		},
+		"188210": {
+			"name": "Argali"
+		},
+		"189733": {
+			"name": "Panicked Cliffhorn"
+		},
+		"191763": {
+			"name": "Frightened Argali"
+		},
+		"192559": {
+			"name": "Wooly Bellwether"
+		},
+		"193009": {
+			"name": "Domesticated Argali"
+		},
+		"195710": {
+			"name": "Domestic Argali"
+		},
+		"195841": {
+			"name": "Grazing Cliffhorn"
+		},
+		"196040": {
+			"name": "Wandering Argali"
+		},
+		"198803": {
+			"name": "Wild Argali"
+		},
+		"200250": {
+			"name": "Frightened Argali"
+		},
+		"214222": {
+			"name": "Golddown Argali"
+		},
+		"264658": {
+			"name": "Frondchewer Lamb"
+		}
+	}
+}

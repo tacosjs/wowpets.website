@@ -1,0 +1,9 @@
+{
+	"id": "guarm-nochains",
+	"family": "hound",
+	"modelGroup": "helheimhounds",
+	"npcs": [],
+	"alsoNpcs": [
+		171245
+	]
+}

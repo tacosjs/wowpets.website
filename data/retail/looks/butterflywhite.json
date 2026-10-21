@@ -1,0 +1,35 @@
+{
+	"id": "butterflywhite",
+	"family": "moth",
+	"modelGroup": "butterflies",
+	"npcs": [
+		{
+			"id": 193266,
+			"tameable": true,
+			"level": {
+				"min": 64,
+				"max": 70
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "fluttering-cavern"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		199248,
+		198428,
+		189744,
+		227202,
+		227205,
+		250386
+	]
+}

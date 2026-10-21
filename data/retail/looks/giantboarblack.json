@@ -1,0 +1,413 @@
+{
+	"id": "giantboarblack",
+	"family": "boar",
+	"modelGroup": "draenorboars",
+	"npcs": [
+		{
+			"id": 153238,
+			"tameable": true,
+			"level": {
+				"min": 2,
+				"max": 10
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "exiles-reach",
+					"area": "darkmaul-citadel"
+				}
+			]
+		},
+		{
+			"id": 75241,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "gormaul-watch"
+				}
+			]
+		},
+		{
+			"id": 76914,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "frostfire-ridge"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 77124,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "bones-of-agurak"
+				}
+			]
+		},
+		{
+			"id": 77129,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "aguraks-fall"
+				}
+			]
+		},
+		{
+			"id": 107503,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "cliffs-edge"
+				}
+			]
+		},
+		{
+			"id": 83719,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ashran"
+				}
+			]
+		},
+		{
+			"id": 138675,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "hockings-plot"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 127699,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "north-pass-cavern"
+				}
+			]
+		},
+		{
+			"id": 82617,
+			"tameable": true,
+			"level": {
+				"min": 41,
+				"max": 41
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "stonefury-cliffs"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 243631,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "zebalar-lumberyard"
+				}
+			]
+		},
+		{
+			"id": 243532,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "zebalar-lumberyard"
+				}
+			]
+		},
+		{
+			"id": 242165,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "solemn-valley"
+				}
+			]
+		},
+		{
+			"id": 261317,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "path-of-whispers"
+				}
+			]
+		},
+		{
+			"id": 258980,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "the-fangs-wreck-of-sethraliss-scale"
+				}
+			]
+		},
+		{
+			"id": 260372,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "gnarldor-isle"
+				}
+			]
+		},
+		{
+			"id": 260827,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "the-whispering-marsh-mlurkkr-mire"
+				}
+			]
+		},
+		{
+			"id": 76208,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "gormaul-watch"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 75037,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "bladespire-fortress"
+				}
+			]
+		},
+		{
+			"id": 140097,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 140102,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 89171,
+			"tameable": false,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "frostwall-lunarfall-garrisons"
+				},
+				{
+					"zone": "shadowmoon-valley-draenor"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 82532,
+			"tameable": false,
+			"level": {
+				"min": 42,
+				"max": 42
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "highmaul",
+					"area": "the-underbelly"
+				}
+			]
+		},
+		{
+			"id": 154679,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mechagon"
+				}
+			]
+		},
+		{
+			"id": 153206,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "mechagon"
+				}
+			]
+		},
+		{
+			"id": 261305,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gnarldor-isle"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		257880,
+		248500,
+		257881,
+		250116,
+		258069
+	]
+}

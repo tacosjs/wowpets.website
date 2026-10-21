@@ -1,0 +1,9 @@
+{
+	"name": "Green Devilsaur",
+	"variant": "Green",
+	"npcs": {
+		"32485": {
+			"name": "King Krush"
+		}
+	}
+}

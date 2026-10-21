@@ -1,0 +1,9 @@
+{
+	"name": "Dark Blue Maw Roach",
+	"variant": "Dark Blue",
+	"npcs": {
+		"179812": {
+			"name": "Agitated Deathroach"
+		}
+	}
+}

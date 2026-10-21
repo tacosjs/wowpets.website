@@ -1,0 +1,124 @@
+{
+	"id": "dreadravenwarbirdwind-armour",
+	"family": "birdofprey",
+	"modelGroup": "dreadravens",
+	"npcs": [
+		{
+			"id": 83976,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "skettis"
+				}
+			]
+		},
+		{
+			"id": 84083,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "skettis"
+				}
+			]
+		},
+		{
+			"id": 83984,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "skettis"
+				}
+			]
+		},
+		{
+			"id": 83982,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "skettis"
+				}
+			]
+		},
+		{
+			"id": 94495,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "skettis"
+				}
+			]
+		},
+		{
+			"id": 152182,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "mechagon"
+				}
+			]
+		},
+		{
+			"id": 153269,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mechagon"
+				}
+			]
+		},
+		{
+			"id": 153293,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mechagon"
+				}
+			]
+		}
+	]
+}

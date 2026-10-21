@@ -1,0 +1,9 @@
+{
+	"name": "Purple Tidal Worm",
+	"variant": "Purple",
+	"npcs": {
+		"250158": {
+			"name": "Acrid Boggorm"
+		}
+	}
+}

@@ -1,0 +1,149 @@
+{
+	"id": "kotobeast2skingray",
+	"family": "scalehide",
+	"modelGroup": "kodos",
+	"npcs": [
+		{
+			"id": 2973,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mulgore"
+				}
+			]
+		},
+		{
+			"id": 2972,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mulgore"
+				}
+			]
+		},
+		{
+			"id": 4700,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "desolace"
+				}
+			]
+		},
+		{
+			"id": 36094,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "desolace",
+					"area": "cenarion-wildlands"
+				}
+			]
+		},
+		{
+			"id": 37556,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "southern-barrens"
+				}
+			]
+		},
+		{
+			"id": 52457,
+			"tameable": false,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "northern-barrens",
+					"area": "dreadmist-camp"
+				}
+			]
+		},
+		{
+			"id": 255806,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "razorwind-shores"
+				}
+			]
+		},
+		{
+			"id": 235009,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "razorwind-shores"
+				}
+			]
+		},
+		{
+			"id": 237303,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "razorwind-shores"
+				}
+			]
+		},
+		{
+			"id": 237304,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "razorwind-shores"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		4701,
+		48111
+	]
+}

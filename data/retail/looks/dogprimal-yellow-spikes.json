@@ -1,0 +1,25 @@
+{
+	"id": "dogprimal-yellow-spikes",
+	"family": "hound",
+	"modelGroup": "bakars",
+	"npcs": [
+		{
+			"id": 187667,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "wanderers-steppe"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		212481
+	]
+}

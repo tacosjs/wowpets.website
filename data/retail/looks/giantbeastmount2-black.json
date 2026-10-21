@@ -1,0 +1,22 @@
+{
+	"id": "giantbeastmount2-black",
+	"family": "oxen",
+	"modelGroup": "armouredtauralus",
+	"npcs": [
+		{
+			"id": 170923,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "house-of-the-chosen"
+				}
+			]
+		}
+	]
+}

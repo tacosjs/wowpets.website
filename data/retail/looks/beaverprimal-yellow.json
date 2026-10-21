@@ -1,0 +1,46 @@
+{
+	"id": "beaverprimal-yellow",
+	"family": "rodent",
+	"modelGroup": "beavers",
+	"npcs": [
+		{
+			"id": 193201,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "timbertooth-trail"
+				}
+			]
+		},
+		{
+			"id": 193219,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "timbertooth-trail"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		197938,
+		197914,
+		190886,
+		189335,
+		190885,
+		183522,
+		187579
+	]
+}

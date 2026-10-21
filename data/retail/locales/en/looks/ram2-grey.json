@@ -1,0 +1,12 @@
+{
+	"name": "Brown-Grey Ram",
+	"variant": "Brown-Grey",
+	"npcs": {
+		"168387": {
+			"name": "Steelfur Bighorn"
+		},
+		"169252": {
+			"name": "Steelfur Charger"
+		}
+	}
+}

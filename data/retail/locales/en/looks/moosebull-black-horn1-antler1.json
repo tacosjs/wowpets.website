@@ -1,0 +1,12 @@
+{
+	"name": "Black Bruffalon w/ Large Antlers & Longer Nose Horn",
+	"variant": "Black",
+	"npcs": {
+		"195261": {
+			"name": "Plains Bull"
+		},
+		"212485": {
+			"name": "Leafcrusher Bruffalon"
+		}
+	}
+}

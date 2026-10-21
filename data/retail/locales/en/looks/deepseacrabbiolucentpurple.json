@@ -1,0 +1,19 @@
+{
+	"name": "Dark Purple Spiked Crab w/ Purple Markings",
+	"variant": "Dark Purple w/ Purple Markings",
+	"npcs": {
+		"74508": {
+			"name": "Guardian of the Deep"
+		},
+		"134793": {
+			"name": "Glowspine"
+		},
+		"216963": {
+			"name": "Shadowcrested Snapper"
+		},
+		"254805": {
+			"name": "Mania-Crab",
+			"title": "A Crab of Unusual Size"
+		}
+	}
+}

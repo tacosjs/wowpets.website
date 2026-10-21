@@ -1,0 +1,12 @@
+{
+	"name": "Striped White Saber Cat",
+	"variant": "Striped White",
+	"npcs": {
+		"4242": {
+			"name": "Frostsaber Companion"
+		},
+		"7431": {
+			"name": "Frostsaber"
+		}
+	}
+}

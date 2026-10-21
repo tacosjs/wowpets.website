@@ -1,0 +1,102 @@
+{
+	"name": "Auburn Bear",
+	"variant": "Auburn",
+	"npcs": {
+		"822": {
+			"name": "Young Forest Bear"
+		},
+		"1778": {
+			"name": "Ferocious Grizzled Bear"
+		},
+		"2165": {
+			"name": "Grizzled Thistle Bear"
+		},
+		"3810": {
+			"name": "Elder Ashenvale Bear"
+		},
+		"10204": {
+			"name": "Misha"
+		},
+		"17345": {
+			"name": "Brown Bear"
+		},
+		"17347": {
+			"name": "Grizzled Brown Bear"
+		},
+		"24633": {
+			"name": "Rabid Brown Bear"
+		},
+		"27131": {
+			"name": "Grizzly Bear"
+		},
+		"33009": {
+			"name": "Corrupted Thistle Bear"
+		},
+		"33024": {
+			"name": "Uncorrupted Thistle Bear"
+		},
+		"33903": {
+			"name": "Thistle Bear Cub"
+		},
+		"33905": {
+			"name": "Corrupted Thistle Bear Matriarch"
+		},
+		"33978": {
+			"name": "Hungry Thistle Bear"
+		},
+		"34417": {
+			"name": "Young Grizzled Thistle Bear"
+		},
+		"34500": {
+			"name": "Shady Nook Guardian"
+		},
+		"44638": {
+			"name": "Hill Grizzly"
+		},
+		"103785": {
+			"name": "Well-Fed Bear"
+		},
+		"106804": {
+			"name": "Suramar Grizzly"
+		},
+		"109521": {
+			"name": "Bronzeleaf Grizzly"
+		},
+		"109967": {
+			"name": "Storm's Reach Warbear"
+		},
+		"112644": {
+			"name": "Dreamway Grizzly"
+		},
+		"131697": {
+			"name": "Highland Grizzly"
+		},
+		"132849": {
+			"name": "Grizzlefur Cub"
+		},
+		"136301": {
+			"name": "Highland Grizzly"
+		},
+		"136591": {
+			"name": "Highland Grizzly"
+		},
+		"140059": {
+			"name": "Grizzlefur Mauler"
+		},
+		"144993": {
+			"name": "Crazed Thistlebear"
+		},
+		"227652": {
+			"name": "Curious Kodiak"
+		},
+		"248375": {
+			"name": "Agitated Guardian"
+		},
+		"257253": {
+			"name": "Slumbering Bear"
+		},
+		"259847": {
+			"name": "Misha"
+		}
+	}
+}

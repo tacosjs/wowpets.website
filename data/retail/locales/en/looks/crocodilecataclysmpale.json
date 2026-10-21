@@ -1,0 +1,48 @@
+{
+	"name": "White Cataclysm Crocolisk",
+	"variant": "White",
+	"npcs": {
+		"14233": {
+			"name": "Ripscale"
+		},
+		"46317": {
+			"name": "Neferset Crocolisk"
+		},
+		"125205": {
+			"name": "Coastal Jawbreaker"
+		},
+		"125212": {
+			"name": "Patriarch Jawbreaker"
+		},
+		"125213": {
+			"name": "Juvenile Jawbreaker"
+		},
+		"125250": {
+			"name": "Ancient Jawbreaker"
+		},
+		"127267": {
+			"name": "Sickly Snapjaw"
+		},
+		"127268": {
+			"name": "Sickly Snapjaw"
+		},
+		"127482": {
+			"name": "Sewer Vicejaw"
+		},
+		"130644": {
+			"name": "Daggertooth"
+		},
+		"135044": {
+			"name": "Shredmaw the Voracious"
+		},
+		"162336": {
+			"name": "Neferset Crocolisk"
+		},
+		"180017": {
+			"name": "Juvenile Azsharan Crocolisk"
+		},
+		"244874": {
+			"name": "Amani Crocolisk"
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"id": "felbeastskinredblack",
+	"family": "corehound",
+	"modelGroup": "classiccorehounds",
+	"npcs": [
+		{
+			"id": 77927,
+			"tameable": true,
+			"level": {
+				"min": 37,
+				"max": 42
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "upper-blackrock-spire",
+					"area": "the-furnace"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"name": "Dark Ice Bear",
+	"variant": "Dark",
+	"npcs": {
+		"193063": {
+			"name": "Frigidpelt Matriarch"
+		},
+		"193698": {
+			"name": "Frigidpelt Den Mother"
+		},
+		"194103": {
+			"name": "Elusive Rimeclaw Bear"
+		},
+		"194491": {
+			"name": "Elusive Elder Frigidpelt"
+		}
+	}
+}

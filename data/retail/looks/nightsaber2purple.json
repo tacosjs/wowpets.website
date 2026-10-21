@@ -1,0 +1,26 @@
+{
+	"id": "nightsaber2purple",
+	"family": "cat",
+	"modelGroup": "grandnightsabers",
+	"npcs": [
+		{
+			"id": 149663,
+			"tameable": true,
+			"level": {
+				"min": 51,
+				"max": 51
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "darkshore",
+					"area": "withering-thicket"
+				}
+			],
+			"keepsName": true
+		}
+	],
+	"alsoNpcs": [
+		149644
+	]
+}

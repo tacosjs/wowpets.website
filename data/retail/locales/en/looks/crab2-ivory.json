@@ -1,0 +1,73 @@
+{
+	"name": "Ivory Crab",
+	"variant": "Ivory",
+	"npcs": {
+		"1216": {
+			"name": "Shore Crawler"
+		},
+		"3108": {
+			"name": "Encrusted Surf Crawler"
+		},
+		"3814": {
+			"name": "Spined Crawler"
+		},
+		"4821": {
+			"name": "Skittering Crustacean"
+		},
+		"4822": {
+			"name": "Snapping Crustacean"
+		},
+		"4823": {
+			"name": "Barbed Crustacean"
+		},
+		"12347": {
+			"name": "Enraged Reef Crawler"
+		},
+		"24478": {
+			"name": "Fjord Crawler"
+		},
+		"25481": {
+			"name": "Landing Crawler"
+		},
+		"33713": {
+			"name": "Rotting Crawler"
+		},
+		"123810": {
+			"name": "Hardshell Sand Sifter"
+		},
+		"124567": {
+			"name": "Sand Scuttler"
+		},
+		"126424": {
+			"name": "Coralback Surfcrawler"
+		},
+		"128996": {
+			"name": "Brineshell Crab"
+		},
+		"131221": {
+			"name": "River Softshell"
+		},
+		"190431": {
+			"name": "Shore Crab"
+		},
+		"193228": {
+			"name": "Snappy"
+		},
+		"193952": {
+			"name": "Azure Crawler"
+		},
+		"194380": {
+			"name": "Seafoam Scuttler"
+		},
+		"220492": {
+			"name": "Finclaw Bloodtide"
+		},
+		"229738": {
+			"name": "Coastal Skitterclaw"
+		},
+		"256872": {
+			"name": "Ki'clak",
+			"title": "The Snip Snapper"
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Black Jawcrawler w/ Full Graspers",
+	"variant": "Black w/ Full Graspers",
+	"npcs": {
+		"214081": {
+			"name": "Razormouth Devourer"
+		},
+		"218010": {
+			"name": "Broodmother Jawcrawler"
+		},
+		"237452": {
+			"name": "Frenzied Jawcrawler"
+		}
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"name": "Blue Saptor",
+	"variant": "Blue",
+	"npcs": {
+		"237201": {
+			"name": "Agitated Thorntalon"
+		},
+		"242403": {
+			"name": "Cascades Fenhunter"
+		},
+		"246392": {
+			"name": "Floaret Saptor"
+		},
+		"248470": {
+			"name": "Stalking Thorntalon"
+		},
+		"249165": {
+			"name": "Misty Thorntalon"
+		},
+		"249285": {
+			"name": "Salivating Saptor"
+		},
+		"249508": {
+			"name": "Teething Saptor"
+		},
+		"250169": {
+			"name": "Thornhook Saptor"
+		},
+		"251916": {
+			"name": "Insatiable Saptor"
+		}
+	}
+}

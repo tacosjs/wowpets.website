@@ -1,0 +1,9 @@
+{
+	"name": "Black Bear",
+	"variant": "Black",
+	"npcs": {
+		"12037": {
+			"name": "Ursol'lok"
+		}
+	}
+}

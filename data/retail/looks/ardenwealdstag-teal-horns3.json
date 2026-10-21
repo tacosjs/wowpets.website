@@ -1,0 +1,25 @@
+{
+	"id": "ardenwealdstag-teal-horns3",
+	"family": "stag",
+	"modelGroup": "runestags",
+	"npcs": [
+		{
+			"id": 170856,
+			"tameable": true,
+			"level": {
+				"min": 57,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		164875,
+		172934
+	]
+}

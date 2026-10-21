@@ -1,0 +1,24 @@
+{
+	"name": "Blue Butterfly",
+	"variant": "Blue",
+	"npcs": {
+		"191458": {
+			"name": "Brightail Monarch"
+		},
+		"191639": {
+			"name": "Vibrant Butterfly"
+		},
+		"210767": {
+			"name": "Shimmerwing Monarch"
+		},
+		"221519": {
+			"name": "Fluttering Sapphire"
+		},
+		"227202": {
+			"name": "Jeweled Flutterwing"
+		},
+		"227205": {
+			"name": "Young Jeweled Flutterwing"
+		}
+	}
+}

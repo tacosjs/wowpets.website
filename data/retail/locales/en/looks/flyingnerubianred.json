@@ -1,0 +1,15 @@
+{
+	"name": "Red Swarmite",
+	"variant": "Red Swarmite",
+	"npcs": {
+		"25453": {
+			"name": "Ith'rix the Harvester"
+		},
+		"26607": {
+			"name": "Anub'ar Blightbeast"
+		},
+		"139874": {
+			"name": "Dreadswoop"
+		}
+	}
+}

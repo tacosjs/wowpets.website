@@ -1,0 +1,39 @@
+{
+	"id": "thunderlizard2red",
+	"family": "scalehide",
+	"modelGroup": "thunderlizards",
+	"npcs": [
+		{
+			"id": 4008,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stonetalon-mountains",
+					"area": "greatwood-vale"
+				}
+			]
+		},
+		{
+			"id": 3240,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "southern-barrens"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		8928
+	]
+}

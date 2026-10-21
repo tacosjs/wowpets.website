@@ -1,0 +1,160 @@
+{
+	"id": "decomposersmallblack",
+	"family": "carapid",
+	"modelGroup": "gormlings",
+	"npcs": [
+		{
+			"id": 163451,
+			"tameable": false,
+			"level": {
+				"min": 54,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "gormhive-defense-wall"
+				}
+			]
+		},
+		{
+			"id": 163233,
+			"tameable": false,
+			"level": {
+				"min": 55,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "gormhive-defense-wall"
+				}
+			]
+		},
+		{
+			"id": 160077,
+			"tameable": false,
+			"level": {
+				"min": 56,
+				"max": 56
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "dusty-burrows"
+				}
+			]
+		},
+		{
+			"id": 180499,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-maw"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 164040,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "creeping-hive"
+				}
+			]
+		},
+		{
+			"id": 171194,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ember-court"
+				}
+			]
+		},
+		{
+			"id": 163350,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "gormhive"
+				}
+			]
+		},
+		{
+			"id": 169285,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "banks-of-life"
+				}
+			]
+		},
+		{
+			"id": 155211,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tower-of-the-damned",
+					"area": "the-soulforges"
+				}
+			]
+		},
+		{
+			"id": 155219,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tower-of-the-damned",
+					"area": "the-soulforges"
+				}
+			]
+		}
+	]
+}

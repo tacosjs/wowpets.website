@@ -1,0 +1,16 @@
+{
+	"name": "Green Python",
+	"variant": "Green",
+	"npcs": {
+		"73163": {
+			"name": "Imperial Python"
+		},
+		"92606": {
+			"name": "Sylissa",
+			"title": "Marshwater Queen"
+		},
+		"135061": {
+			"name": "Water Serpent"
+		}
+	}
+}

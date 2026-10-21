@@ -1,0 +1,97 @@
+{
+	"id": "bearice-pale",
+	"family": "bear",
+	"modelGroup": "icebears",
+	"npcs": [
+		{
+			"id": 194171,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "vakthros-range"
+				}
+			]
+		},
+		{
+			"id": 199354,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		},
+		{
+			"id": 195743,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		},
+		{
+			"id": 203976,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-forbidden-reach",
+					"area": "the-frosted-spine"
+				}
+			]
+		},
+		{
+			"id": 193765,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "slyvern-plunge"
+				}
+			]
+		},
+		{
+			"id": 241872,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "den-of-nalorakk"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		194103
+	]
+}

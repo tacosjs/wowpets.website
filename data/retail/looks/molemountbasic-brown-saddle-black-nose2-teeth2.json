@@ -1,0 +1,22 @@
+{
+	"id": "molemountbasic-brown-saddle-black-nose2-teeth2",
+	"family": "rodent",
+	"modelGroup": "saddledmoles",
+	"npcs": [
+		{
+			"id": 219257,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "abyssal-excavation"
+				}
+			]
+		}
+	]
+}

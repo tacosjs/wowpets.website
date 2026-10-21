@@ -1,0 +1,13 @@
+{
+	"name": "Yellow Fathom Ray w/ Aqua Stripes",
+	"variant": "Yellow w/ Aqua Stripes",
+	"npcs": {
+		"153764": {
+			"name": "Wrinklefin",
+			"title": "Droobie's Companion"
+		},
+		"206070": {
+			"name": "Chronaxie"
+		}
+	}
+}

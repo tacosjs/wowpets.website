@@ -1,0 +1,33 @@
+{
+	"name": "Electric Blue Tidal Worm",
+	"variant": "Electric Blue",
+	"npcs": {
+		"153655": {
+			"name": "Tidal Guardian"
+		},
+		"214594": {
+			"name": "Cascade Guardian"
+		},
+		"217556": {
+			"name": "Lambent Siltworm"
+		},
+		"220236": {
+			"name": "Siltsliver"
+		},
+		"223058": {
+			"name": "Elusive Lurker"
+		},
+		"223078": {
+			"name": "Elusive Stormfathom Worm"
+		},
+		"224350": {
+			"name": "Voltscale Siltworm"
+		},
+		"224753": {
+			"name": "Juvenile Lurker"
+		},
+		"227571": {
+			"name": "Shadowtide Horror"
+		}
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"id": "sabertoothprimal-stripedwhite",
+	"family": "cat",
+	"modelGroup": "rockfangs",
+	"npcs": [
+		{
+			"id": 196514,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "veiled-ossuary"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		192181,
+		193881
+	]
+}

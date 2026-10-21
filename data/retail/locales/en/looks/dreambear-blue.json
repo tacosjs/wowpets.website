@@ -1,0 +1,10 @@
+{
+	"name": "Blue Dream Bear",
+	"variant": "Blue",
+	"npcs": {
+		"213608": {
+			"name": "Tula'rhun the Wanderer",
+			"title": "Song from the North"
+		}
+	}
+}

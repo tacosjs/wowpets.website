@@ -1,0 +1,21 @@
+{
+	"id": "quilin-jade2",
+	"family": "stonehound",
+	"modelGroup": "quilen",
+	"npcs": [
+		{
+			"id": 60043,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "mogushan-vaults"
+				}
+			],
+			"keepsName": true
+		}
+	],
+	"alsoNpcs": [
+		50843
+	]
+}

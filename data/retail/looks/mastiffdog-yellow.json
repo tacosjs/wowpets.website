@@ -1,0 +1,93 @@
+{
+	"id": "mastiffdog-yellow",
+	"family": "hound",
+	"modelGroup": "mastiffs",
+	"npcs": [
+		{
+			"id": 51037,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "silverpine-forest"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 45453,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eastern-plaguelands"
+				}
+			]
+		},
+		{
+			"id": 44476,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "western-plaguelands"
+				}
+			]
+		},
+		{
+			"id": 17840,
+			"tameable": false,
+			"level": {
+				"min": 14,
+				"max": 29
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "old-hillsbrad-foothills"
+				}
+			]
+		},
+		{
+			"id": 128718,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "wayward-thicket"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		37718,
+		41561,
+		128551,
+		129070,
+		135773,
+		36405,
+		35631,
+		38468,
+		36713,
+		48124,
+		146827,
+		146828
+	]
+}

@@ -1,0 +1,99 @@
+{
+	"id": "raptorskingrey",
+	"family": "raptor",
+	"modelGroup": "raptors",
+	"npcs": [
+		{
+			"id": 39385,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "durotar"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 34829,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "northern-barrens"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 5842,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "northern-barrens"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 3634,
+			"tameable": true,
+			"level": {
+				"min": 8,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "wailing-caverns"
+				}
+			]
+		},
+		{
+			"id": 50876,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "searing-gorge",
+					"area": "dustfire-valley"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 40412,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mount-hyjal"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		29334
+	]
+}

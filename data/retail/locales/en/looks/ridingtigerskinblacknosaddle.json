@@ -1,0 +1,12 @@
+{
+	"name": "Black Saber Cat",
+	"variant": "Black",
+	"npcs": {
+		"47053": {
+			"name": "Duskfang"
+		},
+		"52372": {
+			"name": "Mauti"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Piebald Horse w/ Short Mane/Tail",
+	"variant": "Piebald w/ Short Mane/Tail",
+	"npcs": {
+		"128478": {
+			"name": "Scout"
+		}
+	}
+}

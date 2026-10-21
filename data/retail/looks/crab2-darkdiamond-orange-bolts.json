@@ -1,0 +1,54 @@
+{
+	"id": "crab2-darkdiamond-orange-bolts",
+	"family": "crab",
+	"modelGroup": "grandcrabs",
+	"npcs": [
+		{
+			"id": 155583,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "mechagon",
+					"area": "broken-point"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 152319,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mechagon",
+					"area": "the-heaps"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 153992,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mechagon",
+					"area": "the-heaps-alternate-timeline"
+				}
+			]
+		}
+	]
+}

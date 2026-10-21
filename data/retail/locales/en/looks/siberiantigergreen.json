@@ -1,0 +1,19 @@
+{
+	"name": "Green Tiger w/ Orange Stripes",
+	"variant": "Green w/ Orange Stripes",
+	"npcs": {
+		"58432": {
+			"name": "Gorge Stalker"
+		},
+		"66622": {
+			"name": "Rakira"
+		},
+		"130791": {
+			"name": "Khut'een",
+			"title": "The Jungle King"
+		},
+		"135643": {
+			"name": "Ren'kiri"
+		}
+	}
+}

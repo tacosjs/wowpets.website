@@ -1,0 +1,59 @@
+{
+	"id": "horse3-white-mane1",
+	"family": "courser",
+	"modelGroup": "horses",
+	"npcs": [
+		{
+			"id": 137340,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "norwington-estate"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 18651,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "old-hillsbrad-foothills",
+					"area": "tarren-mill"
+				}
+			]
+		},
+		{
+			"id": 582,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "grizzly-hills",
+					"area": "westfall-brigade-encampment"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		37785,
+		26472,
+		23747,
+		47666
+	]
+}

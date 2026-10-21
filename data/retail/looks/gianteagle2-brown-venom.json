@@ -1,0 +1,67 @@
+{
+	"id": "gianteagle2-brown-venom",
+	"family": "birdofprey",
+	"modelGroup": "amanieagles",
+	"npcs": [
+		{
+			"id": 265672,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "path-of-whispers"
+				}
+			]
+		},
+		{
+			"id": 262972,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "wreck-of-sethraliss-scale"
+				}
+			]
+		},
+		{
+			"id": 258511,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "the-forum"
+				}
+			]
+		},
+		{
+			"id": 271067,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "mlurkkr-mire"
+				}
+			]
+		}
+	]
+}

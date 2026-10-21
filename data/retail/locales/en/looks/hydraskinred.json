@@ -1,0 +1,9 @@
+{
+	"name": "Red Hydra",
+	"variant": "Red",
+	"npcs": {
+		"3652": {
+			"name": "Trigore the Lasher"
+		}
+	}
+}

@@ -1,0 +1,70 @@
+{
+	"id": "maldraxxusflyer-black",
+	"family": "chimaera",
+	"modelGroup": "deathchimaeras",
+	"npcs": [
+		{
+			"id": 167448,
+			"tameable": false,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "the-temple-of-courage"
+				}
+			]
+		},
+		{
+			"id": 170823,
+			"tameable": false,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "the-temple-of-courage"
+				}
+			]
+		},
+		{
+			"id": 170780,
+			"tameable": false,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "the-temple-of-courage"
+				}
+			]
+		},
+		{
+			"id": 170822,
+			"tameable": false,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "the-temple-of-courage"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		162258
+	]
+}

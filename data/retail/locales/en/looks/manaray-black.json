@@ -1,0 +1,9 @@
+{
+	"name": "Black & White Mana Ray",
+	"variant": "Black & White",
+	"npcs": {
+		"242352": {
+			"name": "Void-Altered Stinger"
+		}
+	}
+}

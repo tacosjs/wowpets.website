@@ -1,0 +1,11 @@
+{
+	"id": "tallstriderprimal-black-horn3",
+	"family": "tallstrider",
+	"modelGroup": "hornstriders",
+	"npcs": [],
+	"alsoNpcs": [
+		192641,
+		195383,
+		195366
+	]
+}

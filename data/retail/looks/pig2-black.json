@@ -1,0 +1,211 @@
+{
+	"id": "pig2-black",
+	"family": "boar",
+	"modelGroup": "pigs",
+	"npcs": [
+		{
+			"id": 25362,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "borean-tundra",
+					"area": "mightstone-quarry"
+				}
+			]
+		},
+		{
+			"id": 124548,
+			"tameable": true,
+			"level": {
+				"min": 49,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "fallhaven"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 124170,
+			"tameable": true,
+			"level": {
+				"min": 49,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "fallhaven"
+				}
+			]
+		},
+		{
+			"id": 137457,
+			"tameable": true,
+			"level": {
+				"min": 49,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar"
+				}
+			]
+		},
+		{
+			"id": 122399,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "warbeast-kraal"
+				}
+			]
+		},
+		{
+			"id": 142403,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley"
+				}
+			]
+		},
+		{
+			"id": 214928,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "hillhelm-stead-the-whirring-field"
+				}
+			]
+		},
+		{
+			"id": 214926,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "hillhelm-stead-the-whirring-field"
+				}
+			]
+		},
+		{
+			"id": 56253,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds"
+				}
+			]
+		},
+		{
+			"id": 56254,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds"
+				}
+			]
+		},
+		{
+			"id": 70149,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds"
+				}
+			]
+		},
+		{
+			"id": 129501,
+			"tameable": false,
+			"level": {
+				"min": 49,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "carvers-harbor"
+				}
+			]
+		},
+		{
+			"id": 220305,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mycomancer-cavern"
+				}
+			]
+		},
+		{
+			"id": 219681,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mycomancer-cavern"
+				}
+			]
+		}
+	]
+}

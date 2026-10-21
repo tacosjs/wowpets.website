@@ -1,0 +1,11 @@
+{
+	"id": "decomposerfliergreen",
+	"family": "wasp",
+	"modelGroup": "gormwasps",
+	"npcs": [],
+	"alsoNpcs": [
+		166499,
+		179385,
+		179386
+	]
+}

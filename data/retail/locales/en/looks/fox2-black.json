@@ -1,0 +1,12 @@
+{
+	"name": "Black Vulpin",
+	"variant": "Black",
+	"npcs": {
+		"170241": {
+			"name": "Dreadfur Vulpin"
+		},
+		"234416": {
+			"name": "Void Hunter"
+		}
+	}
+}

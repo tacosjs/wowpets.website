@@ -1,0 +1,12 @@
+{
+	"name": "Ornate Amethyst Quilen",
+	"variant": "Ornate Amethyst",
+	"npcs": {
+		"50843": {
+			"name": "Portent"
+		},
+		"60047": {
+			"name": "Amethyst Guardian"
+		}
+	}
+}

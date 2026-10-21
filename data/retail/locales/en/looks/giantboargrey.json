@@ -1,0 +1,67 @@
+{
+	"name": "Grey-Brown  Draenor Boar",
+	"variant": "Grey-Brown",
+	"npcs": {
+		"50992": {
+			"name": "Gorok"
+		},
+		"76187": {
+			"name": "Tame Moontusk"
+		},
+		"82726": {
+			"name": "Surly Bogwallow"
+		},
+		"82728": {
+			"name": "Agitated Piglet"
+		},
+		"83897": {
+			"name": "Razorback Hog"
+		},
+		"86150": {
+			"name": "Razorback Piglet"
+		},
+		"86151": {
+			"name": "Razorback Sow"
+		},
+		"86153": {
+			"name": "Juvenile Razorback"
+		},
+		"88508": {
+			"name": "Rocktusk Patriarch"
+		},
+		"88589": {
+			"name": "Pridelands Goretusk"
+		},
+		"129869": {
+			"name": "Hungry Rooter"
+		},
+		"132820": {
+			"name": "Mudsnout Piglet"
+		},
+		"135293": {
+			"name": "Thundersnout",
+			"title": "Boar Matriarch"
+		},
+		"140095": {
+			"name": "Mudsnout Gorer"
+		},
+		"156595": {
+			"name": "Giant Boar"
+		},
+		"156716": {
+			"name": "Wandering Boar"
+		},
+		"156808": {
+			"name": "Small Boar"
+		},
+		"164826": {
+			"name": "Wandering Boar"
+		},
+		"242402": {
+			"name": "Saltleaf Boar"
+		},
+		"261667": {
+			"name": "Thickhide Boar"
+		}
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"name": "Dark Green Spider",
+	"variant": "Dark Green",
+	"npcs": {
+		"1112": {
+			"name": "Leech Widow"
+		},
+		"4376": {
+			"name": "Darkmist Spider"
+		},
+		"4379": {
+			"name": "Darkmist Silkspinner"
+		},
+		"42913": {
+			"name": "Shadraspawn Venomspitter"
+		},
+		"84552": {
+			"name": "Toxic Spiderling"
+		},
+		"85232": {
+			"name": "Infested Venomfang"
+		},
+		"134913": {
+			"name": "Trapdoor Hatchling"
+		},
+		"134916": {
+			"name": "Trapdoor Hunter"
+		},
+		"160394": {
+			"name": "Barrow Spider"
+		},
+		"160433": {
+			"name": "Barrow Spiderling"
+		}
+	}
+}

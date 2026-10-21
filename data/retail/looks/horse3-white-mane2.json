@@ -1,0 +1,27 @@
+{
+	"id": "horse3-white-mane2",
+	"family": "courser",
+	"modelGroup": "horses",
+	"npcs": [
+		{
+			"id": 142455,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley",
+					"area": "tidebreak-summit"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		123212,
+		174412,
+		124845
+	]
+}

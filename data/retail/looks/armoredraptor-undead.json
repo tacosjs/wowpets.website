@@ -1,0 +1,27 @@
+{
+	"id": "armoredraptor-undead",
+	"family": "raptor",
+	"modelGroup": "armouredravasaurs",
+	"npcs": [
+		{
+			"id": 136976,
+			"tameable": true,
+			"level": {
+				"min": 51,
+				"max": 51
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "kings-rest"
+				}
+			],
+			"keepsName": true,
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

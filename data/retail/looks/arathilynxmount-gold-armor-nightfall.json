@@ -1,0 +1,21 @@
+{
+	"id": "arathilynxmount-gold-armor-nightfall",
+	"family": "cat",
+	"modelGroup": "armoredlynxes",
+	"npcs": [
+		{
+			"id": 241341,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		}
+	]
+}

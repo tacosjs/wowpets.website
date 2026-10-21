@@ -1,0 +1,18 @@
+{
+	"name": "Red Mechanowolf",
+	"variant": "Red",
+	"npcs": {
+		"108088": {
+			"name": "Rush"
+		},
+		"144303": {
+			"name": "G.U.A.R.D."
+		},
+		"151684": {
+			"name": "Jawbreaker"
+		},
+		"167964": {
+			"name": "4.RF-4.RF"
+		}
+	}
+}

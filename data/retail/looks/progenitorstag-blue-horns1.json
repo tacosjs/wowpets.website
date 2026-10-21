@@ -1,0 +1,53 @@
+{
+	"id": "progenitorstag-blue-horns1",
+	"family": "stag",
+	"modelGroup": "cervids",
+	"npcs": [
+		{
+			"id": 178099,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "the-great-veldt"
+				}
+			]
+		},
+		{
+			"id": 182272,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis"
+				}
+			]
+		},
+		{
+			"id": 184524,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		180050
+	]
+}

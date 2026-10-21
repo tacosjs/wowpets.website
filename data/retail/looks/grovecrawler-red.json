@@ -1,0 +1,44 @@
+{
+	"id": "grovecrawler-red",
+	"family": "serpent",
+	"modelGroup": "grovecrawlers",
+	"npcs": [
+		{
+			"id": 246707,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "harkuai"
+				}
+			]
+		},
+		{
+			"id": 256936,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "harkuai"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		245659,
+		256695,
+		256700,
+		250327,
+		249163
+	]
+}

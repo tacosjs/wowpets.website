@@ -1,0 +1,60 @@
+{
+	"name": "Crystal Spider",
+	"variant": "Crystal",
+	"npcs": {
+		"5856": {
+			"name": "Glassweb Spider"
+		},
+		"9032": {
+			"name": "Hedrum the Creeper"
+		},
+		"10375": {
+			"name": "Spire Spiderling"
+		},
+		"10376": {
+			"name": "Crystal Fang"
+		},
+		"10596": {
+			"name": "Mother Smolderweb"
+		},
+		"16170": {
+			"name": "Coldmist Stalker"
+		},
+		"16171": {
+			"name": "Coldmist Widow"
+		},
+		"18466": {
+			"name": "Dreadfang Lurker"
+		},
+		"18467": {
+			"name": "Dreadfang Widow"
+		},
+		"29411": {
+			"name": "Crystalweb Weaver"
+		},
+		"29412": {
+			"name": "Crystalweb Spitter"
+		},
+		"76891": {
+			"name": "Ice Spider"
+		},
+		"80211": {
+			"name": "Frostspinner Widow"
+		},
+		"80212": {
+			"name": "Frostspinner Spider"
+		},
+		"80247": {
+			"name": "Frostspinner Spiderling"
+		},
+		"115019": {
+			"name": "Coldmist Widow"
+		},
+		"115115": {
+			"name": "Coldmist Stalker"
+		},
+		"134910": {
+			"name": "Shimmerweb"
+		}
+	}
+}

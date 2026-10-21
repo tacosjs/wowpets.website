@@ -1,0 +1,12 @@
+{
+	"name": "Black Swarmite w/ Pedipalps & Medium Tail",
+	"variant": "Black w/ Pedipalps & Medium Tail",
+	"npcs": {
+		"215411": {
+			"name": "Sureki Screamer"
+		},
+		"227874": {
+			"name": "Web Spreader"
+		}
+	}
+}

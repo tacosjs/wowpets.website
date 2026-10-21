@@ -1,0 +1,68 @@
+{
+	"id": "scorpionskinpink",
+	"family": "scorpid",
+	"modelGroup": "scorpids",
+	"npcs": [
+		{
+			"id": 40717,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaris"
+				}
+			]
+		},
+		{
+			"id": 22100,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "terokkar-forest"
+				}
+			]
+		},
+		{
+			"id": 7803,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaris"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 15240,
+			"tameable": true,
+			"level": {
+				"min": 32,
+				"max": 32
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "temple-of-ahnqiraj"
+				}
+			]
+		}
+	]
+}

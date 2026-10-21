@@ -1,0 +1,9 @@
+{
+	"name": "Black & Yellow Cinderbee w/ Long Antennae",
+	"variant": "Black & Yellow w/ Long Antennae",
+	"npcs": {
+		"215023": {
+			"name": "Cinderbee Worker"
+		}
+	}
+}

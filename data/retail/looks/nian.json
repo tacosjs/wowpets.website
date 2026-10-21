@@ -1,0 +1,41 @@
+{
+	"id": "nian",
+	"family": "corehound",
+	"modelGroup": "guardianhounds",
+	"npcs": [
+		{
+			"id": 17447,
+			"tameable": true,
+			"level": {
+				"min": 12,
+				"max": 12
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azuremyst-isle"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 15467,
+			"tameable": false,
+			"level": {
+				"min": 65,
+				"max": 65
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "moonglade"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

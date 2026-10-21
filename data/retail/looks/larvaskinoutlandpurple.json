@@ -1,0 +1,24 @@
+{
+	"id": "larvaskinoutlandpurple",
+	"family": "worm",
+	"modelGroup": "toothedlarvae",
+	"npcs": [
+		{
+			"id": 16297,
+			"tameable": false,
+			"level": {
+				"min": 31,
+				"max": 31
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "naxxramas"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		69242
+	]
+}

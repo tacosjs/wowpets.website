@@ -1,0 +1,28 @@
+{
+	"name": "Yellow Draenor Ravager",
+	"variant": "Yellow",
+	"npcs": {
+		"79726": {
+			"name": "Jabberback",
+			"title": "Minion of Ok'mok"
+		},
+		"80715": {
+			"name": "Deathspine Ravager"
+		},
+		"81561": {
+			"name": "Thicket Ravager"
+		},
+		"83517": {
+			"name": "Stoneshard Ravager"
+		},
+		"85516": {
+			"name": "Cliffscar Ravager"
+		},
+		"86263": {
+			"name": "Venomous Ravager"
+		},
+		"90285": {
+			"name": "Gu'rakh"
+		}
+	}
+}

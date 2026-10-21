@@ -1,0 +1,38 @@
+{
+	"id": "amanibearmount-amani",
+	"family": "bear",
+	"modelGroup": "amanibears",
+	"npcs": [
+		{
+			"id": 248896,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods"
+				},
+				{
+					"zone": "zulaman"
+				},
+				{
+					"zone": "harandar"
+				},
+				{
+					"zone": "voidstorm"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		257000
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"id": "pig2-witch",
+	"family": "boar",
+	"modelGroup": "pigs",
+	"npcs": [
+		{
+			"id": 135048,
+			"tameable": true,
+			"level": {
+				"min": 49,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "waycrest-manor",
+					"area": "banquet-hall"
+				}
+			]
+		}
+	]
+}

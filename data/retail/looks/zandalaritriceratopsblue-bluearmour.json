@@ -1,0 +1,18 @@
+{
+	"id": "zandalaritriceratopsblue-bluearmour",
+	"family": "direhorn",
+	"modelGroup": "armoreddirehorns",
+	"npcs": [
+		{
+			"id": 68476,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "throne-of-thunder",
+					"area": "royal-amphitheater"
+				}
+			]
+		}
+	]
+}

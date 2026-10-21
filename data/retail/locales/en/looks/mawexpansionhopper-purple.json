@@ -1,0 +1,18 @@
+{
+	"name": "Purple Gromit",
+	"variant": "Purple",
+	"npcs": {
+		"177336": {
+			"name": "Zelnithop"
+		},
+		"178528": {
+			"name": "Fierce Gromit"
+		},
+		"230377": {
+			"name": "Void-touched Hopper"
+		},
+		"230384": {
+			"name": "Void-touched Hoppling"
+		}
+	}
+}

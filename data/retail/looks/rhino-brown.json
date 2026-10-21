@@ -1,0 +1,69 @@
+{
+	"id": "rhino-brown",
+	"family": "clefthoof",
+	"modelGroup": "rhinos",
+	"npcs": [
+		{
+			"id": 191481,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		},
+		{
+			"id": 187960,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "wanderers-steppe"
+				}
+			]
+		},
+		{
+			"id": 190953,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		},
+		{
+			"id": 265686,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-ring-of-glory"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		193348,
+		193407,
+		193346
+	]
+}

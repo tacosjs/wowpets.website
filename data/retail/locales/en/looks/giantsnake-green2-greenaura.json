@@ -1,0 +1,9 @@
+{
+	"name": "Lighter Green Spectral Cobra",
+	"variant": "Lighter Green Spectral",
+	"npcs": {
+		"261643": {
+			"name": "Summoned Serpent"
+		}
+	}
+}

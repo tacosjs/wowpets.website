@@ -1,0 +1,33 @@
+{
+	"name": "White Goat",
+	"variant": "White",
+	"npcs": {
+		"60493": {
+			"name": "Kafa-Crazed Mountain Goat"
+		},
+		"60511": {
+			"name": "Wild Mountain Kid"
+		},
+		"91229": {
+			"name": "Bluffwalker Goat"
+		},
+		"105640": {
+			"name": "Bound Goat"
+		},
+		"129110": {
+			"name": "Gentle Goat"
+		},
+		"140429": {
+			"name": "Drifthopper the Swift"
+		},
+		"140430": {
+			"name": "Craghoof Bounder"
+		},
+		"140432": {
+			"name": "Craghoof Leaper"
+		},
+		"189937": {
+			"name": "Domestic Blackhoof"
+		}
+	}
+}

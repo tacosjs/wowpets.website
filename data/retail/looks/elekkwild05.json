@@ -1,0 +1,36 @@
+{
+	"id": "elekkwild05",
+	"family": "mammoth",
+	"modelGroup": "classicelekks",
+	"npcs": [
+		{
+			"id": 18290,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-outland"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 213149,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-outland"
+				}
+			]
+		}
+	]
+}

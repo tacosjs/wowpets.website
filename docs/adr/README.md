@@ -15,3 +15,4 @@ genuinely on the table. Major project-specific decisions get one too (see "Decis
 | [0003](0003-one-file-per-look.md) | One file per look, with its NPCs inside | Accepted | Not yet |
 | [0004](0004-facts-and-per-locale-text-files.md) | Facts and text in separate, per-locale files | Accepted | Not yet |
 | [0005](0005-server-side-localized-data-access.md) | Data is read only on the server, already localized | Accepted | Not yet |
+| [0006](0006-retail-import-petopia-facts.md) | Retail import from Petopia facts plus game data, with a non-destructive merge | Accepted | Not yet |

@@ -1,0 +1,14 @@
+{
+	"id": "progenitorworm-blue-moss",
+	"family": "worm",
+	"modelGroup": "annelids",
+	"npcs": [],
+	"alsoNpcs": [
+		182363,
+		182360,
+		181075,
+		179005,
+		179962,
+		184324
+	]
+}

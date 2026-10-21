@@ -1,0 +1,29 @@
+{
+	"id": "maldraxxusflyer-darkbrown-nohorns",
+	"family": "chimaera",
+	"modelGroup": "deathchimaeras",
+	"npcs": [
+		{
+			"id": 168216,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "valley-of-a-thousand-legs-the-stabbing-wastes"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		162300,
+		167448,
+		170823,
+		170780,
+		170822
+	]
+}

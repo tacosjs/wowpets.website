@@ -1,0 +1,61 @@
+{
+	"id": "courser",
+	"wowId": 299,
+	"icon": "inv_horse3_pale",
+	"spec": "ferocity",
+	"exotic": false,
+	"diet": [
+		"fruit",
+		"fungus"
+	],
+	"abilities": {
+		"basic": "smack",
+		"family": [
+			"fleethoof"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "ardenwealddreamrunners"
+		},
+		{
+			"id": "dreamrunners"
+		},
+		{
+			"id": "zhevras"
+		},
+		{
+			"id": "horses"
+		},
+		{
+			"id": "skeletalhorses"
+		},
+		{
+			"id": "saddledskeletalhorses"
+		},
+		{
+			"id": "spectralhorses"
+		},
+		{
+			"id": "spectraskeletalhorses"
+		},
+		{
+			"id": "hornedskeletalhorses"
+		},
+		{
+			"id": "skeletalwarhorses"
+		},
+		{
+			"id": "skeletalwarhorsespennant"
+		},
+		{
+			"id": "infernalsaddledhorses"
+		},
+		{
+			"id": "gloomchargers"
+		},
+		{
+			"id": "wingedundeadhorses"
+		}
+	]
+}

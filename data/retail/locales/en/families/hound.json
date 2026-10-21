@@ -1,0 +1,35 @@
+{
+	"name": "Hound",
+	"modelGroups": {
+		"bakars": {
+			"name": "Bakars"
+		},
+		"helheimhounds": {
+			"name": "Helhounds"
+		},
+		"soulseekers": {
+			"name": "Soulseekers"
+		},
+		"infernalhellhounds": {
+			"name": "Infernal Hellhounds"
+		},
+		"skeletalhellhounds": {
+			"name": "Skeletal Hellhounds"
+		},
+		"beastabominations": {
+			"name": "Beast Abominations"
+		},
+		"granddarkhounds": {
+			"name": "Darkhounds"
+		},
+		"mastiffs": {
+			"name": "Mastiffs"
+		},
+		"runeddemondogs": {
+			"name": "Runehounds"
+		},
+		"darkhounds": {
+			"name": "Classic Darkhounds"
+		}
+	}
+}

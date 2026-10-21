@@ -1,0 +1,42 @@
+{
+	"name": "Blue Rock Cobra",
+	"variant": "Blue",
+	"npcs": {
+		"201825": {
+			"name": "Rock Viperling"
+		},
+		"203053": {
+			"name": "Invasive Rock Viper"
+		},
+		"203223": {
+			"name": "Aggressive Rockviper"
+		},
+		"203462": {
+			"name": "Kob'rok"
+		},
+		"203783": {
+			"name": "Hunting Rock Viper"
+		},
+		"204158": {
+			"name": "Hunting Rock Viper"
+		},
+		"204611": {
+			"name": "Rock Viperling"
+		},
+		"204837": {
+			"name": "Elusive Viper"
+		},
+		"204839": {
+			"name": "Elusive Shalefang"
+		},
+		"219265": {
+			"name": "Emperor Pitfang"
+		},
+		"219397": {
+			"name": "Shalescale Striker"
+		},
+		"222019": {
+			"name": "Shalescale Striker"
+		}
+	}
+}

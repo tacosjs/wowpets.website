@@ -1,0 +1,87 @@
+{
+	"id": "thunderhydra-white",
+	"family": "hydra",
+	"modelGroup": "thunderhydras",
+	"npcs": [
+		{
+			"id": 154339,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "spears-of-azshara"
+				}
+			]
+		},
+		{
+			"id": 145340,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "ashen-strand"
+				}
+			]
+		},
+		{
+			"id": 152541,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "ashen-strand"
+				}
+			]
+		},
+		{
+			"id": 152542,
+			"tameable": true,
+			"level": {
+				"min": 51,
+				"max": 51
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "ashen-strand"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 200537,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "the-forbidden-reach",
+					"area": "tempest-cove"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		224751,
+		192126
+	]
+}

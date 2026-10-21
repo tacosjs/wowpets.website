@@ -1,0 +1,56 @@
+{
+	"id": "serpenthydra-green",
+	"family": "hydra",
+	"modelGroup": "serpenthydras",
+	"npcs": [
+		{
+			"id": 261943,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "midnight-delves"
+				}
+			]
+		},
+		{
+			"id": 254288,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "mlurkkr-mire"
+				}
+			]
+		},
+		{
+			"id": 265335,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "wreck-of-pakus-talon"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"name": "Brown Dragon Turtle",
+	"variant": "Brown",
+	"npcs": {
+		"58941": {
+			"name": "Seadragon"
+		},
+		"58942": {
+			"name": "Seadragon Hatchling"
+		},
+		"64725": {
+			"name": "Shoreshell Snapper"
+		},
+		"67895": {
+			"name": "Mature Terrapin"
+		},
+		"72763": {
+			"name": "Great Turtle Hatchling"
+		},
+		"105645": {
+			"name": "Penned Turtle"
+		},
+		"122266": {
+			"name": "Spineshell Turtle"
+		},
+		"130160": {
+			"name": "Saltrock Terrapin"
+		},
+		"134800": {
+			"name": "Hardened Snapjaw"
+		},
+		"145970": {
+			"name": "Razorshell Turtle"
+		},
+		"152383": {
+			"name": "Snapshell Tortoise"
+		}
+	}
+}

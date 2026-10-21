@@ -1,0 +1,24 @@
+{
+	"name": "Blue Draenor Clefthoof",
+	"variant": "Blue",
+	"npcs": {
+		"78918": {
+			"name": "Icehoof Calf"
+		},
+		"78919": {
+			"name": "Icehoof Cow"
+		},
+		"80136": {
+			"name": "Lost Icehoof Calf"
+		},
+		"80420": {
+			"name": "Icehoof Calf"
+		},
+		"84798": {
+			"name": "Icehoof Calf"
+		},
+		"86847": {
+			"name": "Young Icehoof"
+		}
+	}
+}

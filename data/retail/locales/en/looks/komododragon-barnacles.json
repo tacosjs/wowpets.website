@@ -1,0 +1,18 @@
+{
+	"name": "Barnacled Grey Saurolisk",
+	"variant": "Barnacled Grey",
+	"npcs": {
+		"130508": {
+			"name": "Broodmother Razora"
+		},
+		"131252": {
+			"name": "Merianae"
+		},
+		"136901": {
+			"name": "Brinefang Saurolisk"
+		},
+		"137098": {
+			"name": "Liskorath"
+		}
+	}
+}

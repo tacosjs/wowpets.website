@@ -1,0 +1,24 @@
+{
+	"name": "Black Rhino",
+	"variant": "Black",
+	"npcs": {
+		"192003": {
+			"name": "Bloodhorn"
+		},
+		"193346": {
+			"name": "Horned Plainstomper"
+		},
+		"193348": {
+			"name": "Ancient Plainstomper"
+		},
+		"193407": {
+			"name": "Horned Plainstomper"
+		},
+		"194624": {
+			"name": "Zumakh"
+		},
+		"194868": {
+			"name": "Hungry Plainstomper"
+		}
+	}
+}

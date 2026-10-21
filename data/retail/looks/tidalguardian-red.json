@@ -1,0 +1,58 @@
+{
+	"id": "tidalguardian-red",
+	"family": "worm",
+	"modelGroup": "tidalworms",
+	"npcs": [
+		{
+			"id": 153658,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "chitterspine-caverns"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 222280,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn"
+				}
+			]
+		},
+		{
+			"id": 153825,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "brinestone-cove"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		214594,
+		223058,
+		224350,
+		223078
+	]
+}

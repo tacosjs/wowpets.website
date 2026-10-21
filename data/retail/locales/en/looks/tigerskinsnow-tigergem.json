@@ -1,0 +1,9 @@
+{
+	"name": "Spotted White Mystic Cat",
+	"variant": "Spotted White",
+	"npcs": {
+		"54700": {
+			"name": "Time-Twisted Nightsaber"
+		}
+	}
+}

@@ -1,0 +1,113 @@
+{
+	"id": "phoenix",
+	"family": "birdofprey",
+	"modelGroup": "mysticalphoenixes",
+	"npcs": [
+		{
+			"id": 24674,
+			"tameable": false,
+			"level": {
+				"min": 23,
+				"max": 28
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "magisters-terrace",
+					"area": "grand-magisters-asylum"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 19551,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "tempest-keep-the-eye",
+					"area": "the-phoenix-hall"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 21362,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "tempest-keep-the-eye",
+					"area": "tempest-bridge"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 50057,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "mount-hyjal",
+					"area": "the-scorched-plain"
+				}
+			]
+		},
+		{
+			"id": 19514,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "tempest-keep-the-eye",
+					"area": "the-phoenix-hall"
+				}
+			]
+		},
+		{
+			"id": 48906,
+			"tameable": false,
+			"level": {
+				"min": 32,
+				"max": 37
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "lost-city-of-the-tolvir",
+					"area": "terrace-of-the-augurs"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

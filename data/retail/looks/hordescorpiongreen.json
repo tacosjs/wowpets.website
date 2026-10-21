@@ -1,0 +1,146 @@
+{
+	"id": "hordescorpiongreen",
+	"family": "scorpid",
+	"modelGroup": "ruggedscorpions",
+	"npcs": [
+		{
+			"id": 167344,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 10
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "exiles-reach"
+				}
+			]
+		},
+		{
+			"id": 51004,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "silithus",
+					"area": "hiveashi"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 51402,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "uldum",
+					"area": "sahket-wastes"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 137198,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun"
+				}
+			]
+		},
+		{
+			"id": 222874,
+			"tameable": true,
+			"level": {
+				"min": 73,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "shadowvein-extraction-site"
+				}
+			]
+		},
+		{
+			"id": 222645,
+			"tameable": true,
+			"level": {
+				"min": 73,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "shadowvein-extraction-site"
+				}
+			]
+		},
+		{
+			"id": 220698,
+			"tameable": true,
+			"level": {
+				"min": 73,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "shadowvein-extraction-site"
+				}
+			]
+		},
+		{
+			"id": 140114,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 220362,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "shadowvein-extraction-site"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

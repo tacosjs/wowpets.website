@@ -1,0 +1,26 @@
+{
+	"name": "Boar",
+	"modelGroups": {
+		"boars": {
+			"name": "Boars"
+		},
+		"skullboars": {
+			"name": "Skullboars"
+		},
+		"pigs": {
+			"name": "Domestic Pigs"
+		},
+		"draenorboars": {
+			"name": "Greater Boars"
+		},
+		"draenorarmoredboars": {
+			"name": "Armoured Greater Boars"
+		},
+		"felboars": {
+			"name": "Felboars"
+		},
+		"classicboars": {
+			"name": "Classic Boars"
+		}
+	}
+}

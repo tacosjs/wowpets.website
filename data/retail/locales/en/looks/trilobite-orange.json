@@ -1,0 +1,24 @@
+{
+	"name": "Burnt Orange Krolusk",
+	"variant": "Burnt Orange",
+	"npcs": {
+		"124526": {
+			"name": "Krolusk Dunecrawler"
+		},
+		"129476": {
+			"name": "Bloated Krolusk"
+		},
+		"202738": {
+			"name": "Deep Krolusk"
+		},
+		"203898": {
+			"name": "Deep Krolusk"
+		},
+		"205810": {
+			"name": "Deep Krolusk"
+		},
+		"219930": {
+			"name": "Deep Krolusk"
+		}
+	}
+}

@@ -3,6 +3,24 @@
 	"modelGroups": {
 		"kunchong": {
 			"name": "Kunchong"
+		},
+		"aqirgoliaths": {
+			"name": "Aqir Goliaths"
+		},
+		"ruggedsilithids": {
+			"name": "Rugged Silithids"
+		},
+		"silithids": {
+			"name": "Soldier Silithids"
+		},
+		"bosssilithids": {
+			"name": "Silithid Colossi"
+		},
+		"workersilithids": {
+			"name": "Worker Silithids"
+		},
+		"sandreavers": {
+			"name": "Sandreavers"
 		}
 	}
 }

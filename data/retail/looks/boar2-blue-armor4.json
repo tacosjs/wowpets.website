@@ -1,0 +1,40 @@
+{
+	"id": "boar2-blue-armor4",
+	"family": "boar",
+	"modelGroup": "boars",
+	"npcs": [
+		{
+			"id": 50949,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "silverpine-forest"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 50945,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "dustwallow-marsh"
+				}
+			],
+			"keepsName": true
+		}
+	],
+	"alsoNpcs": [
+		74620
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"id": "sharkray-orange",
+	"family": "ray",
+	"modelGroup": "fathomrays",
+	"npcs": [
+		{
+			"id": 150376,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "coral-forest-chitterspine-caverns"
+				}
+			]
+		},
+		{
+			"id": 226028,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		223492,
+		153350,
+		209579,
+		223494,
+		223491
+	]
+}

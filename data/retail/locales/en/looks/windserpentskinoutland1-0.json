@@ -1,0 +1,9 @@
+{
+	"name": "Grey & Red Spiked Wind Serpent",
+	"variant": "Grey & Red",
+	"npcs": {
+		"50790": {
+			"name": "Ionis"
+		}
+	}
+}

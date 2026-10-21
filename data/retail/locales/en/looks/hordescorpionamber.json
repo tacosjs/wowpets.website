@@ -1,0 +1,37 @@
+{
+	"name": "Amber Scorpion",
+	"variant": "Amber",
+	"npcs": {
+		"62759": {
+			"name": "Kor'thik Scorpid"
+		},
+		"63728": {
+			"name": "Ik'thik Amberstinger"
+		},
+		"63978": {
+			"name": "Kri'chon",
+			"title": "The Corpse-Reaver"
+		},
+		"64982": {
+			"name": "Zan'thik Amberhusk"
+		},
+		"65632": {
+			"name": "Ik'thik Terrorclaw"
+		},
+		"68117": {
+			"name": "Untamed Ambertail"
+		},
+		"98406": {
+			"name": "Embershard Scorpion"
+		},
+		"140161": {
+			"name": "Duneburrower"
+		},
+		"160867": {
+			"name": "Kzit'kovok"
+		},
+		"217742": {
+			"name": "Deeps Scorpion"
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Yellow & Pink Dragonhawk",
+	"variant": "Yellow & Pink",
+	"npcs": {
+		"23598": {
+			"name": "Amani Dragonhawk Hatchling"
+		},
+		"23834": {
+			"name": "Amani Dragonhawk"
+		},
+		"180119": {
+			"name": "Amani Dragonhawk"
+		}
+	}
+}

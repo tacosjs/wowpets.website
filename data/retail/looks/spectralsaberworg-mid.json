@@ -1,0 +1,52 @@
+{
+	"id": "spectralsaberworg-mid",
+	"family": "wolf",
+	"modelGroup": "saberworgs",
+	"npcs": [
+		{
+			"id": 58456,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms"
+				}
+			]
+		},
+		{
+			"id": 58768,
+			"tameable": true,
+			"level": {
+				"min": 36,
+				"max": 36
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms",
+					"area": "jin-yang-road"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 156778,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms",
+					"area": "sunblossom-hill"
+				}
+			]
+		}
+	]
+}

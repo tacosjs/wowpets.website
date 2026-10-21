@@ -1,0 +1,12 @@
+{
+	"name": "Lavender Stagshell w/ Small Mandibles, No Graspers, No Horn",
+	"variant": "Lavender w/ Small Mandibles, No Graspers, No Horn",
+	"npcs": {
+		"214397": {
+			"name": "Frenzied Swarmer"
+		},
+		"271246": {
+			"name": "Swarmer"
+		}
+	}
+}

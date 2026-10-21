@@ -1,0 +1,12 @@
+{
+	"name": "Green Scorpid",
+	"variant": "Green",
+	"npcs": {
+		"48130": {
+			"name": "Scorpid Cliffcrawler"
+		},
+		"51001": {
+			"name": "Venomclaw"
+		}
+	}
+}

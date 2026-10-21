@@ -1,0 +1,25 @@
+{
+	"id": "giantbeast-red",
+	"family": "oxen",
+	"modelGroup": "tauralus",
+	"npcs": [
+		{
+			"id": 174396,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "the-reagentry"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		162477
+	]
+}

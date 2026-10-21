@@ -1,0 +1,27 @@
+{
+	"id": "horse3-chestnut-mane3",
+	"family": "courser",
+	"modelGroup": "horses",
+	"npcs": [
+		{
+			"id": 244688,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "founders-point"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		174412,
+		123604,
+		127572,
+		130889
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"name": "Mossy Black & Bronze Bufonid",
+	"variant": "Black & Bronze",
+	"npcs": {
+		"178803": {
+			"name": "Accelerated Bufonid"
+		},
+		"182362": {
+			"name": "Overgrown Bufonid"
+		},
+		"183610": {
+			"name": "Accelerated Bufonid"
+		},
+		"184523": {
+			"name": "Dimensional Bufonid"
+		},
+		"184562": {
+			"name": "Scaphio",
+			"title": "The Magnificent"
+		},
+		"184578": {
+			"name": "Scaphio",
+			"title": "The Magnificent"
+		}
+	}
+}

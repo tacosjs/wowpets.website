@@ -1,0 +1,9 @@
+{
+	"name": "Purple Basilisk w/ Blue Crest",
+	"variant": "Purple w/ Blue Crest",
+	"npcs": {
+		"51013": {
+			"name": "Rockhide the Immovable"
+		}
+	}
+}

@@ -1,0 +1,86 @@
+{
+	"id": "mammothmountblack",
+	"family": "mammoth",
+	"modelGroup": "classicmammoths",
+	"npcs": [
+		{
+			"id": 26271,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dragonblight",
+					"area": "the-dragon-wastes"
+				},
+				{
+					"zone": "hour-of-twilight"
+				}
+			]
+		},
+		{
+			"id": 26273,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dragonblight",
+					"area": "the-dragon-wastes"
+				},
+				{
+					"zone": "hour-of-twilight"
+				}
+			]
+		},
+		{
+			"id": 28851,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldrak",
+					"area": "altar-of-mamtoth"
+				}
+			]
+		},
+		{
+			"id": 28380,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "sholazar-basin"
+				}
+			]
+		},
+		{
+			"id": 25862,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "borean-tundra"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"id": "dreamowl-black-brow4-ears4-antlers2-tail3",
+	"family": "birdofprey",
+	"modelGroup": "dreamowls",
+	"npcs": [
+		{
+			"id": 210531,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "shiversnap-grove-whorlwing-basin"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		213545
+	]
+}

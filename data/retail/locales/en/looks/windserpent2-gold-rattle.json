@@ -1,0 +1,9 @@
+{
+	"name": "Gold Wind Serpent",
+	"variant": "Gold",
+	"npcs": {
+		"135322": {
+			"name": "The Golden Serpent"
+		}
+	}
+}

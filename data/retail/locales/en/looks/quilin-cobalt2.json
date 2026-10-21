@@ -1,0 +1,15 @@
+{
+	"name": "Ornate Sapphire Quilen",
+	"variant": "Ornate Sapphire",
+	"npcs": {
+		"60051": {
+			"name": "Cobalt Guardian"
+		},
+		"127805": {
+			"name": "Charged Sentinel"
+		},
+		"136550": {
+			"name": "Charged Sentinel"
+		}
+	}
+}

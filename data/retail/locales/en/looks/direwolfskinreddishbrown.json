@@ -1,0 +1,21 @@
+{
+	"name": "Red Worg",
+	"variant": "Red",
+	"npcs": {
+		"2753": {
+			"name": "Barnabus"
+		},
+		"9416": {
+			"name": "Scarshield Worg"
+		},
+		"9690": {
+			"name": "Ember Worg"
+		},
+		"9697": {
+			"name": "Giant Ember Worg"
+		},
+		"20748": {
+			"name": "Thunderlord Dire Wolf"
+		}
+	}
+}

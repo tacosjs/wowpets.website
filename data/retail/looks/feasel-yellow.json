@@ -1,0 +1,40 @@
+{
+	"id": "feasel-yellow",
+	"family": "rodent",
+	"modelGroup": "marsuul",
+	"npcs": [
+		{
+			"id": 119968,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eredath",
+					"area": "ruins-of-oronaar"
+				}
+			]
+		},
+		{
+			"id": 126445,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "krokuun",
+					"area": "grove-of-naroua"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		216090
+	]
+}

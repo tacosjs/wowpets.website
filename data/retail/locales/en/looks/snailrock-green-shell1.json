@@ -1,0 +1,22 @@
+{
+	"name": "Green Crystalline Snail",
+	"variant": "Green",
+	"npcs": {
+		"203222": {
+			"name": "Emerald Infused Rock Snail"
+		},
+		"203860": {
+			"name": "Scargogg",
+			"title": "Uskogg's Favorite"
+		},
+		"204925": {
+			"name": "Thimblerig"
+		},
+		"205594": {
+			"name": "Kithguard Crawlers"
+		},
+		"216711": {
+			"name": "Awakened Dreamshell"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"name": "Yellow Kodo",
+	"variant": "Yellow",
+	"npcs": {
+		"106": {
+			"name": "Kodo Beast"
+		},
+		"2974": {
+			"name": "Kodo Matriarch"
+		},
+		"3234": {
+			"name": "Lost Barrens Kodo"
+		},
+		"3236": {
+			"name": "Barrens Kodo"
+		},
+		"4702": {
+			"name": "Ancient Kodo"
+		},
+		"37555": {
+			"name": "Landquaker Kodo"
+		}
+	}
+}

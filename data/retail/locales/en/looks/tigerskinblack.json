@@ -1,0 +1,66 @@
+{
+	"name": "Black Cat",
+	"variant": "Black",
+	"npcs": {
+		"683": {
+			"name": "Young Panther"
+		},
+		"684": {
+			"name": "Shadowmaw Panther"
+		},
+		"728": {
+			"name": "Bhag'thera"
+		},
+		"736": {
+			"name": "Panther"
+		},
+		"756": {
+			"name": "Skullsplitter Panther"
+		},
+		"977": {
+			"name": "Kurzen War Panther"
+		},
+		"1713": {
+			"name": "Elder Shadowmaw Panther"
+		},
+		"2522": {
+			"name": "Jaguero Stalker"
+		},
+		"3568": {
+			"name": "Mist"
+		},
+		"4243": {
+			"name": "Nightshade"
+		},
+		"11181": {
+			"name": "Shi'alune",
+			"title": "Kaerbrus' Pet"
+		},
+		"11957": {
+			"name": "Great Cat Spirit"
+		},
+		"12677": {
+			"name": "Shadumbra"
+		},
+		"14865": {
+			"name": "Felinni"
+		},
+		"24728": {
+			"name": "Dusky",
+			"title": "Caylee's Pet"
+		},
+		"31636": {
+			"name": "Jungle Panther"
+		},
+		"35904": {
+			"name": "Jungle Cat"
+		},
+		"40064": {
+			"name": "Jungle Panther"
+		},
+		"43002": {
+			"name": "Bastia",
+			"title": "Kilag Gorefang's pet"
+		}
+	}
+}

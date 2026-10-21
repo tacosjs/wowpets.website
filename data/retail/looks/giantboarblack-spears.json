@@ -1,0 +1,23 @@
+{
+	"id": "giantboarblack-spears",
+	"family": "boar",
+	"modelGroup": "draenorboars",
+	"npcs": [
+		{
+			"id": 127800,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "brokenbough-roost"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

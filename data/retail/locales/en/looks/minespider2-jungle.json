@@ -1,0 +1,45 @@
+{
+	"name": "Bright Green Spider",
+	"variant": "Bright Green",
+	"npcs": {
+		"4378": {
+			"name": "Darkmist Recluse"
+		},
+		"15976": {
+			"name": "Venom Stalker"
+		},
+		"16453": {
+			"name": "Necro Stalker"
+		},
+		"41185": {
+			"name": "Queen Silith"
+		},
+		"45156": {
+			"name": "Shadril"
+		},
+		"45227": {
+			"name": "Darkmist Broodqueen"
+		},
+		"50752": {
+			"name": "Tarantis"
+		},
+		"58808": {
+			"name": "Waterbite Creeper"
+		},
+		"58883": {
+			"name": "Feverbite"
+		},
+		"65101": {
+			"name": "Feverbite Hatchling"
+		},
+		"134914": {
+			"name": "Trapdoor Spider"
+		},
+		"134915": {
+			"name": "Trapdoor Ambusher"
+		},
+		"155172": {
+			"name": "Trapdoor Bee Hunter"
+		}
+	}
+}

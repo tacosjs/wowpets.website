@@ -1,0 +1,45 @@
+{
+	"name": "Khaki-Grey Bone Spider",
+	"variant": "Khaki-Grey",
+	"npcs": {
+		"1780": {
+			"name": "Skitterweb Striker"
+		},
+		"30279": {
+			"name": "Deep Crawler"
+		},
+		"46508": {
+			"name": "Darkwood Lurker"
+		},
+		"56070": {
+			"name": "Silkwood Stalker"
+		},
+		"56194": {
+			"name": "Infant Spider"
+		},
+		"58459": {
+			"name": "Ashweb Weaver"
+		},
+		"58588": {
+			"name": "Ashweb Weaver"
+		},
+		"97494": {
+			"name": "Thornback Spinner"
+		},
+		"107432": {
+			"name": "Thornback Queen"
+		},
+		"107437": {
+			"name": "Thornback Spiderling"
+		},
+		"134903": {
+			"name": "Leeching Horror"
+		},
+		"234673": {
+			"name": "Spindleweb Hatchling"
+		},
+		"254758": {
+			"name": "Crypt Spider"
+		}
+	}
+}

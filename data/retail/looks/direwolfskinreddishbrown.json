@@ -1,0 +1,81 @@
+{
+	"id": "direwolfskinreddishbrown",
+	"family": "wolf",
+	"modelGroup": "worgs",
+	"npcs": [
+		{
+			"id": 2753,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "badlands"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 9690,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "burning-steppes"
+				}
+			]
+		},
+		{
+			"id": 9697,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "burning-steppes"
+				}
+			]
+		},
+		{
+			"id": 9416,
+			"tameable": true,
+			"level": {
+				"min": 16,
+				"max": 26
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blackrock-spire"
+				}
+			]
+		},
+		{
+			"id": 20748,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blades-edge-mountains"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		71011
+	]
+}

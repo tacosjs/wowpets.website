@@ -1,0 +1,30 @@
+{
+	"id": "crabbomb-black-yellow",
+	"family": "crab",
+	"modelGroup": "bombcrabs",
+	"npcs": [
+		{
+			"id": 232521,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "undermine",
+					"area": "the-gallagio"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		238625
+	]
+}

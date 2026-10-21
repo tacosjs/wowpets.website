@@ -1,0 +1,12 @@
+{
+	"name": "Red Hermit Crab w/ Algal Shell",
+	"variant": "Red",
+	"npcs": {
+		"188334": {
+			"name": "Agitated Snapper"
+		},
+		"193596": {
+			"name": "Scavenging Hullripper"
+		}
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"id": "seaslug-purple",
+	"family": "worm",
+	"modelGroup": "seaslugs",
+	"npcs": [
+		{
+			"id": 224604,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 1
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "sunken-shield"
+				}
+			]
+		},
+		{
+			"id": 228411,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 1
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		227367,
+		250060,
+		244505,
+		244731,
+		263925,
+		259984
+	]
+}

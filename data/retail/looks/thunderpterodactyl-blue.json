@@ -1,0 +1,80 @@
+{
+	"id": "thunderpterodactyl-blue",
+	"family": "pterrordax",
+	"modelGroup": "skyscreamers",
+	"npcs": [
+		{
+			"id": 70020,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "isle-of-giants"
+				}
+			]
+		},
+		{
+			"id": 70021,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "isle-of-giants"
+				}
+			]
+		},
+		{
+			"id": 73223,
+			"tameable": true,
+			"level": {
+				"min": 37,
+				"max": 37
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "siege-of-orgrimmar",
+					"area": "the-menagerie-siege-of-orgrimmar"
+				}
+			]
+		},
+		{
+			"id": 70215,
+			"tameable": false,
+			"level": {
+				"min": 32,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-thunder",
+					"area": "zatual"
+				}
+			]
+		},
+		{
+			"id": 70141,
+			"tameable": false,
+			"level": {
+				"min": 32,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "isle-of-thunder",
+					"area": "zatual"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"id": "hyena",
+	"wowId": 25,
+	"icon": "ability_hunter_pet_hyena",
+	"spec": "cunning",
+	"exotic": false,
+	"diet": [
+		"meat"
+	],
+	"abilities": {
+		"basic": "bite",
+		"family": [
+			"infected-bite"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "goblinhyenas"
+		},
+		{
+			"id": "grandhyenas"
+		},
+		{
+			"id": "hyenas"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"name": "Ruby Mana Wyrm",
+	"variant": "Ruby",
+	"npcs": {
+		"24917": {
+			"name": "Phase Wyrm"
+		},
+		"67675": {
+			"name": "Sunreaver Mana Wyrm"
+		},
+		"114252": {
+			"name": "Mana Devourer"
+		},
+		"115831": {
+			"name": "Mana Devourer"
+		},
+		"122015": {
+			"name": "Void Streaker"
+		},
+		"122439": {
+			"name": "Frenzied Wurm"
+		},
+		"190947": {
+			"name": "Altered Wyrmling"
+		},
+		"197624": {
+			"name": "Mana Wyrm",
+			"title": "Summoned Card"
+		},
+		"241354": {
+			"name": "Void-Infused Brightscale"
+		}
+	}
+}

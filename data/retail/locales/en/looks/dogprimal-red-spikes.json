@@ -1,0 +1,15 @@
+{
+	"name": "Red Bakar w/ Spikes",
+	"variant": "Red",
+	"npcs": {
+		"193168": {
+			"name": "Biryuk"
+		},
+		"194047": {
+			"name": "Tame Bakar"
+		},
+		"196697": {
+			"name": "Time Trapped Bakar"
+		}
+	}
+}

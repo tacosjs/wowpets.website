@@ -1,0 +1,9 @@
+{
+	"name": "Cursed Black Pig",
+	"variant": "Cursed Black",
+	"npcs": {
+		"135048": {
+			"name": "Gorestained Piglet"
+		}
+	}
+}

@@ -1,0 +1,49 @@
+{
+	"id": "carrionbird",
+	"wowId": 7,
+	"icon": "ability_hunter_pet_vulture",
+	"spec": "ferocity",
+	"exotic": false,
+	"diet": [
+		"fish",
+		"meat"
+	],
+	"abilities": {
+		"basic": "bite",
+		"family": [
+			"bloody-screech"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "petalwings"
+		},
+		{
+			"id": "peafowl"
+		},
+		{
+			"id": "teroclaws"
+		},
+		{
+			"id": "flightlessteroclaws"
+		},
+		{
+			"id": "cbravens"
+		},
+		{
+			"id": "grandvultures"
+		},
+		{
+			"id": "condors"
+		},
+		{
+			"id": "twoheadedvultures"
+		},
+		{
+			"id": "othercarrionbirds"
+		},
+		{
+			"id": "vultures"
+		}
+	]
+}

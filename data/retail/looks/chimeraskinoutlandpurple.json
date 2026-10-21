@@ -1,0 +1,37 @@
+{
+	"id": "chimeraskinoutlandpurple",
+	"family": "chimaera",
+	"modelGroup": "armoredchimaeras",
+	"npcs": [
+		{
+			"id": 50348,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "winterspring"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 20932,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "netherstorm"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"name": "Silver-Blue Owl Steed",
+	"variant": "Silver-Blue",
+	"npcs": {
+		"157728": {
+			"name": "Lighthoof Roamer"
+		},
+		"169755": {
+			"name": "Shimmering Cloudstrider"
+		},
+		"169757": {
+			"name": "Silverplume Stag"
+		},
+		"170047": {
+			"name": "Silverplume Roamer"
+		},
+		"170335": {
+			"name": "Silverplume Grazer"
+		},
+		"172124": {
+			"name": "Silverplume Drifter"
+		},
+		"172200": {
+			"name": "Silverplume Ridgeback"
+		}
+	}
+}

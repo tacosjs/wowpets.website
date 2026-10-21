@@ -1,0 +1,15 @@
+{
+	"name": "Green Saurolisk",
+	"variant": "Green",
+	"npcs": {
+		"126243": {
+			"name": "Venomspine Saurolisk"
+		},
+		"128065": {
+			"name": "Mirehunter Matriarch"
+		},
+		"129554": {
+			"name": "Zandalari Leguaan"
+		}
+	}
+}

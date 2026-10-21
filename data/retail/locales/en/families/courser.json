@@ -1,0 +1,47 @@
+{
+	"name": "Courser",
+	"modelGroups": {
+		"ardenwealddreamrunners": {
+			"name": "Ardenweald Dreamrunners"
+		},
+		"dreamrunners": {
+			"name": "Dreamrunners"
+		},
+		"zhevras": {
+			"name": "Zhevras"
+		},
+		"horses": {
+			"name": "Horses"
+		},
+		"skeletalhorses": {
+			"name": "Skeletal Horses"
+		},
+		"saddledskeletalhorses": {
+			"name": "Saddled Skeletal Horses"
+		},
+		"spectralhorses": {
+			"name": "Spectral Horses"
+		},
+		"spectraskeletalhorses": {
+			"name": "Spectral Skeletal Horses"
+		},
+		"hornedskeletalhorses": {
+			"name": "Horned Skeletal Horses"
+		},
+		"skeletalwarhorses": {
+			"name": "Skeletal Warhorses"
+		},
+		"skeletalwarhorsespennant": {
+			"name": "Skeletal Warhorses w/ Pennant"
+		},
+		"infernalsaddledhorses": {
+			"name": "Infernal Saddled Horses"
+		},
+		"gloomchargers": {
+			"name": "Gloomchargers"
+		},
+		"wingedundeadhorses": {
+			"name": "Winged Undead Horses"
+		}
+	}
+}

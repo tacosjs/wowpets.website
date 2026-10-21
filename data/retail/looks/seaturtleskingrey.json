@@ -1,0 +1,65 @@
+{
+	"id": "seaturtleskingrey",
+	"family": "turtle",
+	"modelGroup": "turtles",
+	"npcs": [
+		{
+			"id": 44109,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 10
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gilneas"
+				}
+			]
+		},
+		{
+			"id": 51014,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "elwynn-forest"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 8213,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "the-hinterlands"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 4397,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dustwallow-marsh"
+				}
+			]
+		}
+	]
+}

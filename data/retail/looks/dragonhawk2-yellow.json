@@ -1,0 +1,100 @@
+{
+	"id": "dragonhawk2-yellow",
+	"family": "dragonhawk",
+	"modelGroup": "greaterdragonhawks",
+	"npcs": [
+		{
+			"id": 242440,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "camp-stonewash"
+				}
+			]
+		},
+		{
+			"id": 257519,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "hermits-mooring"
+				}
+			]
+		},
+		{
+			"id": 255506,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "firewing-terrace"
+				}
+			]
+		},
+		{
+			"id": 249795,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "sunsail-anchorage"
+				}
+			]
+		},
+		{
+			"id": 245981,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "solaarian-sunbath"
+				}
+			]
+		},
+		{
+			"id": 241475,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-queldanas",
+					"area": "silver-landing"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		255821
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"id": "wolfdraenormountred",
+	"family": "wolf",
+	"modelGroup": "draenorsaddledwolves",
+	"npcs": [
+		{
+			"id": 77845,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blasted-lands",
+					"area": "nethergarde-keep"
+				}
+			]
+		}
+	]
+}

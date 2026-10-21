@@ -1,0 +1,45 @@
+{
+	"name": "Black Horse w/ White Socks",
+	"variant": "Black w/ White Socks",
+	"npcs": {
+		"23747": {
+			"name": "Overworked Nag"
+		},
+		"26472": {
+			"name": "Highland Mustang"
+		},
+		"45433": {
+			"name": "Preston"
+		},
+		"48180": {
+			"name": "Wild Horse"
+		},
+		"55273": {
+			"name": "Swift Mountain Horse"
+		},
+		"81306": {
+			"name": "Preston"
+		},
+		"123604": {
+			"name": "Kul Tiran Horse"
+		},
+		"127572": {
+			"name": "Kul Tiran Horse"
+		},
+		"130889": {
+			"name": "Workhorse"
+		},
+		"134307": {
+			"name": "Hexthralled Courser"
+		},
+		"137836": {
+			"name": "Wild Horse"
+		},
+		"142347": {
+			"name": "Wild Horse"
+		},
+		"174412": {
+			"name": "Freckles"
+		}
+	}
+}

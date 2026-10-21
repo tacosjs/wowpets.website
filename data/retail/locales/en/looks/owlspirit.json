@@ -1,0 +1,9 @@
+{
+	"name": "Spectral Owl",
+	"variant": "Spectral",
+	"npcs": {
+		"14343": {
+			"name": "Olm the Wise"
+		}
+	}
+}

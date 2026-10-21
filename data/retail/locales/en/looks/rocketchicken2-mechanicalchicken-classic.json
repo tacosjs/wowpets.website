@@ -1,0 +1,22 @@
+{
+	"name": "Gold-Orange Rocket Chicken",
+	"variant": "Gold-Orange",
+	"npcs": {
+		"38224": {
+			"name": "Mechachicken"
+		},
+		"151159": {
+			"name": "OOX-Fleetfoot/MG"
+		},
+		"151296": {
+			"name": "OOX-Avenger/MG"
+		},
+		"227213": {
+			"name": "Anti-Aerial Assembly"
+		},
+		"252358": {
+			"name": "Miscalibrated Hen",
+			"title": "Turbo Edition"
+		}
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"name": "Green Shardhide",
+	"variant": "Green",
+	"npcs": {
+		"177158": {
+			"name": "Kah-Bear",
+			"title": "Kah-Dee's Pet"
+		},
+		"177296": {
+			"name": "Shardhide Brute"
+		},
+		"177334": {
+			"name": "Nyemi"
+		},
+		"177385": {
+			"name": "Shardhide Pulverizer"
+		},
+		"180094": {
+			"name": "Shardhide Pulverizer"
+		},
+		"234257": {
+			"name": "Captured Bear"
+		}
+	}
+}

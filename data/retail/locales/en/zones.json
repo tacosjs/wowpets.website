@@ -34,5 +34,7568 @@
 	},
 	"voidscar-arena": {
 		"name": "Voidscar Arena"
+	},
+	"dread-wastes": {
+		"name": "Dread Wastes"
+	},
+	"clutches-of-shekzeer": {
+		"name": "Clutches of Shek'zeer"
+	},
+	"heart-of-fear": {
+		"name": "Heart of Fear"
+	},
+	"dread-terrace": {
+		"name": "Dread Terrace"
+	},
+	"vale-of-eternal-blossoms": {
+		"name": "Vale of Eternal Blossoms"
+	},
+	"setting-sun-garrison": {
+		"name": "Setting Sun Garrison"
+	},
+	"thaldraszus": {
+		"name": "Thaldraszus"
+	},
+	"tyrhold-reservoir": {
+		"name": "Tyrhold Reservoir"
+	},
+	"the-horrid-march": {
+		"name": "The Horrid March"
+	},
+	"assault-on-zanvess": {
+		"name": "Assault on Zan'vess"
+	},
+	"jin-yang-road": {
+		"name": "Jin Yang Road"
+	},
+	"townlong-steppes": {
+		"name": "Townlong Steppes"
+	},
+	"the-feeding-pits": {
+		"name": "The Feeding Pits"
+	},
+	"niuzao-temple": {
+		"name": "Niuzao Temple"
+	},
+	"siege-of-orgrimmar": {
+		"name": "Siege of Orgrimmar"
+	},
+	"chamber-of-the-paragons": {
+		"name": "Chamber of the Paragons"
+	},
+	"uldum": {
+		"name": "Uldum"
+	},
+	"chamber-of-the-moon": {
+		"name": "Chamber of the Moon"
+	},
+	"obelisk-of-the-moon": {
+		"name": "Obelisk of the Moon"
+	},
+	"ruins-of-ammon": {
+		"name": "Ruins of Ammon"
+	},
+	"the-waking-city": {
+		"name": "the Waking City"
+	},
+	"nyalotha": {
+		"name": "Ny'alotha"
+	},
+	"sahket-wastes": {
+		"name": "Sahket Wastes"
+	},
+	"silithus": {
+		"name": "Silithus"
+	},
+	"hiveashi": {
+		"name": "Hive'Ashi."
+	},
+	"war-of-the-shifting-sands": {
+		"name": "War of the Shifting Sands"
+	},
+	"hivezora": {
+		"name": "Hive'Zora."
+	},
+	"uldir": {
+		"name": "Uldir"
+	},
+	"archives-of-eternity": {
+		"name": "Archives of Eternity"
+	},
+	"hiveregal": {
+		"name": "Hive'Regal."
+	},
+	"tanaris": {
+		"name": "Tanaris"
+	},
+	"thousand-needles": {
+		"name": "Thousand Needles"
+	},
+	"temple-of-ahnqiraj": {
+		"name": "Temple of Ahn'Qiraj"
+	},
+	"ruins-of-ahnqiraj": {
+		"name": "Ruins of Ahn'Qiraj"
+	},
+	"ahnqiraj-the-fallen-kingdom": {
+		"name": "Ahn'Qiraj: The Fallen Kingdom"
+	},
+	"ungoro-crater": {
+		"name": "Un'Goro Crater"
+	},
+	"algethar-academy": {
+		"name": "Algeth'ar Academy"
+	},
+	"the-hatchery": {
+		"name": "The Hatchery"
+	},
+	"feralas": {
+		"name": "Feralas"
+	},
+	"southern-barrens": {
+		"name": "Southern Barrens"
+	},
+	"talador": {
+		"name": "Talador"
+	},
+	"the-sunset-shore": {
+		"name": "The Sunset Shore"
+	},
+	"nagrand-draenor": {
+		"name": "Nagrand - Draenor"
+	},
+	"the-ring-of-blood": {
+		"name": "The Ring of Blood"
+	},
+	"gadgetzan": {
+		"name": "Gadgetzan"
+	},
+	"frostfire-ridge": {
+		"name": "Frostfire Ridge"
+	},
+	"the-hunters-hall": {
+		"name": "The Hunter's Hall"
+	},
+	"gorgrond": {
+		"name": "Gorgrond"
+	},
+	"ruins-of-the-first-bastion": {
+		"name": "Ruins of the First Bastion"
+	},
+	"zereth-mortis": {
+		"name": "Zereth Mortis"
+	},
+	"the-great-veldt": {
+		"name": "The Great Veldt"
+	},
+	"provis-fauna": {
+		"name": "Provis Fauna"
+	},
+	"forge-of-afterlives": {
+		"name": "Forge of Afterlives"
+	},
+	"dimensional-falls-cavern": {
+		"name": "Dimensional Falls Cavern"
+	},
+	"choral-residium": {
+		"name": "Choral Residium"
+	},
+	"drustvar": {
+		"name": "Drustvar"
+	},
+	"shrouded-foothills": {
+		"name": "Shrouded Foothills"
+	},
+	"watchers-wood": {
+		"name": "Watcher's Wood"
+	},
+	"whitegrove-chapel": {
+		"name": "Whitegrove Chapel"
+	},
+	"corlain": {
+		"name": "Corlain"
+	},
+	"stormsong-valley": {
+		"name": "Stormsong Valley"
+	},
+	"beryl-meadow": {
+		"name": "Beryl Meadow"
+	},
+	"suramar": {
+		"name": "Suramar"
+	},
+	"jandvik": {
+		"name": "Jandvik"
+	},
+	"razorwind-shores": {
+		"name": "Razorwind Shores"
+	},
+	"exiles-reach": {
+		"name": "Exile's Reach"
+	},
+	"shadowmoon-valley-draenor": {
+		"name": "Shadowmoon Valley - Draenor"
+	},
+	"moonflower-valley": {
+		"name": "Moonflower Valley"
+	},
+	"plains-of-serenity": {
+		"name": "Plains of Serenity"
+	},
+	"hunters-run": {
+		"name": "Hunter's Run"
+	},
+	"crimson-forest": {
+		"name": "Crimson Forest"
+	},
+	"upper-blackrock-spire": {
+		"name": "Upper Blackrock Spire"
+	},
+	"dragonspire-hall": {
+		"name": "Dragonspire Hall"
+	},
+	"spirit-woods": {
+		"name": "Spirit Woods"
+	},
+	"dire-hills": {
+		"name": "Dire Hills"
+	},
+	"frostboar-drifts": {
+		"name": "Frostboar Drifts"
+	},
+	"emerald-dreamway": {
+		"name": "Emerald Dreamway"
+	},
+	"stormheim": {
+		"name": "Stormheim"
+	},
+	"storms-reach": {
+		"name": "Storm's Reach"
+	},
+	"deadwash": {
+		"name": "Deadwash"
+	},
+	"windshorn-hills": {
+		"name": "Windshorn Hills"
+	},
+	"darktide-roost": {
+		"name": "Darktide Roost"
+	},
+	"zuldazar": {
+		"name": "Zuldazar"
+	},
+	"highmountain": {
+		"name": "Highmountain"
+	},
+	"howling-hills": {
+		"name": "Howling Hills"
+	},
+	"vrekt": {
+		"name": "Vrekt"
+	},
+	"tiragarde-sound": {
+		"name": "Tiragarde Sound"
+	},
+	"carvers-harbor": {
+		"name": "Carver's Harbor"
+	},
+	"hemets-happy-hunting-grounds": {
+		"name": "Hemet's Happy Hunting Grounds"
+	},
+	"terrors-cave": {
+		"name": "Terror's Cave"
+	},
+	"grommashar": {
+		"name": "Grommashar"
+	},
+	"embaari-village": {
+		"name": "Embaari Village"
+	},
+	"voljins-pride": {
+		"name": "Vol'jin's Pride"
+	},
+	"gol-koval": {
+		"name": "Gol Koval"
+	},
+	"barrowknoll-cemetery": {
+		"name": "Barrowknoll Cemetery"
+	},
+	"spires-of-arak": {
+		"name": "Spires of Arak"
+	},
+	"axefall": {
+		"name": "Axefall"
+	},
+	"mokgol-watchpost": {
+		"name": "Mok'gol Watchpost"
+	},
+	"trueshot-lodge": {
+		"name": "Trueshot Lodge"
+	},
+	"ruins-of-gilneas": {
+		"name": "Ruins of Gilneas"
+	},
+	"valsharah": {
+		"name": "Val'sharah"
+	},
+	"the-crescent-vale-howling-dale": {
+		"name": "The Crescent Vale & Howling Dale"
+	},
+	"glenbrook-hunting-grounds-glenbrook-homestead": {
+		"name": "Glenbrook Hunting Grounds & Glenbrook Homestead"
+	},
+	"castaway-encampment": {
+		"name": "Castaway Encampment"
+	},
+	"ohnahran-plains": {
+		"name": "Ohn'ahran Plains"
+	},
+	"tanaan-jungle": {
+		"name": "Tanaan Jungle"
+	},
+	"frost-den": {
+		"name": "Frost Den"
+	},
+	"temple-of-shanaar": {
+		"name": "Temple of Sha'naar"
+	},
+	"the-shanaari-cavern": {
+		"name": "The Sha'naari Cavern"
+	},
+	"gloomshade-grove": {
+		"name": "Gloomshade Grove"
+	},
+	"the-colossals-fist": {
+		"name": "The Colossal's Fist"
+	},
+	"iron-docks": {
+		"name": "Iron Docks"
+	},
+	"aarkos-estate": {
+		"name": "Aarko's Estate"
+	},
+	"highroad-pass": {
+		"name": "Highroad Pass"
+	},
+	"cracking-plains": {
+		"name": "Cracking Plains"
+	},
+	"shivering-trench": {
+		"name": "Shivering Trench"
+	},
+	"icewind-drifts": {
+		"name": "Icewind Drifts"
+	},
+	"snowpelt-den-at-the-waning-glacier": {
+		"name": "Snowpelt Den at the Waning Glacier"
+	},
+	"cliffside-hot-springs": {
+		"name": "Cliffside Hot Springs"
+	},
+	"thromvar": {
+		"name": "Throm'var"
+	},
+	"worgol-quest-phase": {
+		"name": "Wor'gol (quest phase)"
+	},
+	"worgol": {
+		"name": "Wor'gol"
+	},
+	"darkspears-edge": {
+		"name": "Darkspear's Edge"
+	},
+	"gormaul-tower": {
+		"name": "Gormaul Tower"
+	},
+	"daggermaw-ravine": {
+		"name": "Daggermaw Ravine"
+	},
+	"forbidden-glacier": {
+		"name": "Forbidden Glacier"
+	},
+	"frostwall-garrison": {
+		"name": "Frostwall (Garrison)"
+	},
+	"bladespire-citadel": {
+		"name": "Bladespire Citadel"
+	},
+	"butchers-rise": {
+		"name": "Butcher's Rise"
+	},
+	"grimfrost-hill": {
+		"name": "Grimfrost Hill"
+	},
+	"the-iron-front": {
+		"name": "The Iron Front"
+	},
+	"terokkar-forest": {
+		"name": "Terokkar Forest"
+	},
+	"auchindoun": {
+		"name": "Auchindoun"
+	},
+	"the-waking-shores": {
+		"name": "The Waking Shores"
+	},
+	"apex-observatory": {
+		"name": "Apex Observatory"
+	},
+	"stagheart-cliffs": {
+		"name": "Stagheart Cliffs"
+	},
+	"blackrock-foundry": {
+		"name": "Blackrock Foundry"
+	},
+	"burning-font": {
+		"name": "Burning Font"
+	},
+	"den-of-nalorakk": {
+		"name": "Den of Nalorakk"
+	},
+	"halls-of-valor": {
+		"name": "Halls of Valor"
+	},
+	"fields-of-the-eternal-hunt": {
+		"name": "Fields of the Eternal Hunt"
+	},
+	"isle-of-dorn": {
+		"name": "Isle of Dorn"
+	},
+	"ironwold": {
+		"name": "Ironwold"
+	},
+	"harpy-roost": {
+		"name": "Harpy Roost"
+	},
+	"amberfall-mesa": {
+		"name": "Amberfall Mesa"
+	},
+	"hrydshal": {
+		"name": "Hrydshal"
+	},
+	"windrunner-spire": {
+		"name": "Windrunner Spire"
+	},
+	"ironfist-harbor": {
+		"name": "Ironfist Harbor"
+	},
+	"blasted-lands": {
+		"name": "Blasted Lands"
+	},
+	"nethergarde-keep": {
+		"name": "Nethergarde Keep"
+	},
+	"telaar": {
+		"name": "Telaar"
+	},
+	"bladespire-fortress": {
+		"name": "Bladespire Fortress"
+	},
+	"the-breaking-grounds": {
+		"name": "The Breaking Grounds"
+	},
+	"the-pit": {
+		"name": "The Pit"
+	},
+	"elwynn-forest": {
+		"name": "Elwynn Forest"
+	},
+	"scalding-pools": {
+		"name": "Scalding Pools"
+	},
+	"utgarde-keep": {
+		"name": "Utgarde Keep"
+	},
+	"icecrown": {
+		"name": "Icecrown"
+	},
+	"the-storm-peaks": {
+		"name": "The Storm Peaks"
+	},
+	"yan-zhe-river": {
+		"name": "Yan-Zhe River"
+	},
+	"tirisfal-glades": {
+		"name": "Tirisfal Glades"
+	},
+	"eastern-plaguelands": {
+		"name": "Eastern Plaguelands"
+	},
+	"kun-lai-summit": {
+		"name": "Kun-Lai Summit"
+	},
+	"thunderfoot-acres": {
+		"name": "Thunderfoot Acres"
+	},
+	"crystalsong-forest": {
+		"name": "Crystalsong Forest"
+	},
+	"sunblossom-hill": {
+		"name": "Sunblossom Hill"
+	},
+	"sunsoaked-meadow": {
+		"name": "Sunsoaked Meadow"
+	},
+	"utgarde-pinnacle": {
+		"name": "Utgarde Pinnacle"
+	},
+	"dun-niffelem": {
+		"name": "Dun Niffelem"
+	},
+	"redridge-mountains": {
+		"name": "Redridge Mountains"
+	},
+	"the-hinterlands": {
+		"name": "The Hinterlands"
+	},
+	"blades-edge-mountains": {
+		"name": "Blade's Edge Mountains"
+	},
+	"darnassus": {
+		"name": "Darnassus"
+	},
+	"dragonblight": {
+		"name": "Dragonblight"
+	},
+	"agmars-hammer": {
+		"name": "Agmar's Hammer"
+	},
+	"silverpine-forest": {
+		"name": "Silverpine Forest"
+	},
+	"western-plaguelands": {
+		"name": "Western Plaguelands"
+	},
+	"felwood": {
+		"name": "Felwood"
+	},
+	"tol-barad-peninsula": {
+		"name": "Tol Barad Peninsula"
+	},
+	"forgotten-hill": {
+		"name": "Forgotten Hill"
+	},
+	"black-temple": {
+		"name": "Black Temple"
+	},
+	"halls-of-anguish": {
+		"name": "Halls of Anguish"
+	},
+	"dun-morogh": {
+		"name": "Dun Morogh"
+	},
+	"ashenvale": {
+		"name": "Ashenvale"
+	},
+	"northshire": {
+		"name": "Northshire"
+	},
+	"northern-barrens": {
+		"name": "Northern Barrens"
+	},
+	"boralus-harbor": {
+		"name": "Boralus Harbor"
+	},
+	"coldridge-valley": {
+		"name": "Coldridge Valley"
+	},
+	"duskwood": {
+		"name": "Duskwood"
+	},
+	"k3": {
+		"name": "K3"
+	},
+	"korkron-barracks": {
+		"name": "Kor'kron Barracks"
+	},
+	"mulgore": {
+		"name": "Mulgore"
+	},
+	"westfall": {
+		"name": "Westfall"
+	},
+	"badlands": {
+		"name": "Badlands"
+	},
+	"dustwallow-marsh": {
+		"name": "Dustwallow Marsh"
+	},
+	"cradle-of-the-ancients": {
+		"name": "Cradle of the Ancients"
+	},
+	"astranaar": {
+		"name": "Astranaar"
+	},
+	"old-hillsbrad-foothills": {
+		"name": "Old Hillsbrad Foothills"
+	},
+	"halfhill": {
+		"name": "Halfhill"
+	},
+	"hellfire-peninsula": {
+		"name": "Hellfire Peninsula"
+	},
+	"burning-steppes": {
+		"name": "Burning Steppes"
+	},
+	"nagrand-outland": {
+		"name": "Nagrand - Outland"
+	},
+	"blackrock-spire": {
+		"name": "Blackrock Spire"
+	},
+	"brill": {
+		"name": "Brill"
+	},
+	"darkmoon-island": {
+		"name": "Darkmoon Island"
+	},
+	"karazhan": {
+		"name": "Karazhan"
+	},
+	"crystal-lake": {
+		"name": "Crystal Lake"
+	},
+	"halycons-lair": {
+		"name": "Halycon's Lair"
+	},
+	"orgrimmar": {
+		"name": "Orgrimmar"
+	},
+	"the-valley-of-honor": {
+		"name": "The Valley of Honor"
+	},
+	"the-darkened-bank": {
+		"name": "The Darkened Bank"
+	},
+	"hellfire-ramparts": {
+		"name": "Hellfire Ramparts"
+	},
+	"the-shattered-halls": {
+		"name": "The Shattered Halls"
+	},
+	"krasarang-wilds": {
+		"name": "Krasarang Wilds"
+	},
+	"the-valley-of-strength": {
+		"name": "The Valley of Strength"
+	},
+	"ashran": {
+		"name": "Ashran"
+	},
+	"battle-of-stromgarde": {
+		"name": "Battle of Stromgarde"
+	},
+	"alterac-valley": {
+		"name": "Alterac Valley"
+	},
+	"warspear-outpost": {
+		"name": "Warspear Outpost"
+	},
+	"dunwald-ruins": {
+		"name": "Dunwald Ruins"
+	},
+	"broken-shore": {
+		"name": "Broken Shore"
+	},
+	"darkstone-isle": {
+		"name": "Darkstone Isle"
+	},
+	"the-broken-isles": {
+		"name": "The Broken Isles"
+	},
+	"cinder-run": {
+		"name": "Cinder Run"
+	},
+	"jagged-cove": {
+		"name": "Jagged Cove"
+	},
+	"antoran-wastes": {
+		"name": "Antoran Wastes"
+	},
+	"felsoul-hold": {
+		"name": "Felsoul Hold"
+	},
+	"azsuna": {
+		"name": "Azsuna"
+	},
+	"llothien": {
+		"name": "Llothien"
+	},
+	"candle-rock": {
+		"name": "Candle Rock"
+	},
+	"snowblind-mesa": {
+		"name": "Snowblind Mesa"
+	},
+	"helmouth-shallows-survival-artifact-quest-instance": {
+		"name": "Helmouth Shallows (Survival Artifact Quest Instance)"
+	},
+	"rockaway-coast": {
+		"name": "Rockaway Coast"
+	},
+	"echoing-halls": {
+		"name": "Echoing Halls"
+	},
+	"ambervale": {
+		"name": "Ambervale"
+	},
+	"chittering-caverns": {
+		"name": "Chittering Caverns"
+	},
+	"restless-wetlands": {
+		"name": "Restless Wetlands"
+	},
+	"steelcliff-passage": {
+		"name": "Steelcliff Passage"
+	},
+	"uldaman-legacy-of-tyr": {
+		"name": "Uldaman: Legacy of Tyr"
+	},
+	"the-ringing-deeps": {
+		"name": "The Ringing Deeps"
+	},
+	"the-cataract-river": {
+		"name": "The Cataract River"
+	},
+	"neltharions-lair": {
+		"name": "Neltharion's Lair"
+	},
+	"scaleback-run": {
+		"name": "Scaleback Run"
+	},
+	"stonescar-gorge": {
+		"name": "Stonescar Gorge"
+	},
+	"veiled-ossuary": {
+		"name": "Veiled Ossuary"
+	},
+	"apex-canopy": {
+		"name": "Apex Canopy"
+	},
+	"genesis-falls": {
+		"name": "Genesis Falls"
+	},
+	"golgrins-reach": {
+		"name": "Golgrin's Reach"
+	},
+	"talfarrak": {
+		"name": "Tal'farrak"
+	},
+	"azurgale-cove": {
+		"name": "Azurgale Cove"
+	},
+	"moonwhisper-gulch": {
+		"name": "Moonwhisper Gulch"
+	},
+	"underslog": {
+		"name": "Underslog"
+	},
+	"boulder-springs": {
+		"name": "Boulder Springs"
+	},
+	"bitestone-enclave": {
+		"name": "Bitestone Enclave"
+	},
+	"neltharions-vault-the-slave-enclave": {
+		"name": "Neltharion's Vault & The Slave Enclave"
+	},
+	"eldranil-shallows": {
+		"name": "El'dranil Shallows"
+	},
+	"leygazers-den": {
+		"name": "Leygazer's Den"
+	},
+	"mistcreep-mire": {
+		"name": "Mistcreep Mire"
+	},
+	"sulfurscale-cave": {
+		"name": "Sulfurscale Cave"
+	},
+	"netherstorm": {
+		"name": "Netherstorm"
+	},
+	"zangarmarsh": {
+		"name": "Zangarmarsh"
+	},
+	"sulfur-basin": {
+		"name": "Sulfur Basin"
+	},
+	"the-darkmoon-faire": {
+		"name": "The Darkmoon Faire"
+	},
+	"azshara": {
+		"name": "Azshara"
+	},
+	"gnomeregan": {
+		"name": "Gnomeregan"
+	},
+	"desolace": {
+		"name": "Desolace"
+	},
+	"the-cape-of-stranglethorn": {
+		"name": "The Cape of Stranglethorn"
+	},
+	"crystalvein-mine": {
+		"name": "Crystalvein Mine"
+	},
+	"deepholm": {
+		"name": "Deepholm"
+	},
+	"the-menagerie": {
+		"name": "The Menagerie"
+	},
+	"zulfarrak": {
+		"name": "Zul'Farrak"
+	},
+	"mount-hyjal": {
+		"name": "Mount Hyjal"
+	},
+	"isle-of-thunder": {
+		"name": "Isle of Thunder"
+	},
+	"ihgaluk-crag": {
+		"name": "Ihgaluk Crag"
+	},
+	"northern-stranglethorn": {
+		"name": "Northern Stranglethorn"
+	},
+	"the-boneslag": {
+		"name": "The Boneslag"
+	},
+	"throne-of-thunder": {
+		"name": "Throne of Thunder"
+	},
+	"royal-amphitheater": {
+		"name": "Royal Amphitheater"
+	},
+	"uldaman": {
+		"name": "Uldaman"
+	},
+	"zuldrak": {
+		"name": "Zul'Drak"
+	},
+	"maraudon-entrance": {
+		"name": "Maraudon Entrance"
+	},
+	"pinchwhistle-point": {
+		"name": "Pinchwhistle Point"
+	},
+	"yojamba-isle": {
+		"name": "Yojamba Isle"
+	},
+	"shuddering-spires": {
+		"name": "Shuddering Spires"
+	},
+	"the-jade-forest": {
+		"name": "The Jade Forest"
+	},
+	"revendreth": {
+		"name": "Revendreth"
+	},
+	"pridefall-hamlet-decimated-crossroad": {
+		"name": "Pridefall Hamlet & Decimated Crossroad"
+	},
+	"grove-of-terror-the-banewood": {
+		"name": "Grove of Terror & The Banewood"
+	},
+	"various-locations": {
+		"name": "Various Locations"
+	},
+	"chalice-district": {
+		"name": "Chalice District"
+	},
+	"dominance-keep": {
+		"name": "Dominance Keep"
+	},
+	"sanguine-depths": {
+		"name": "Sanguine Depths"
+	},
+	"grove-of-terror": {
+		"name": "Grove of Terror"
+	},
+	"muck-pool-banewood": {
+		"name": "Muck Pool: Banewood"
+	},
+	"the-banewood": {
+		"name": "The Banewood"
+	},
+	"cinderwall": {
+		"name": "Cinderwall"
+	},
+	"tower-of-the-damned": {
+		"name": "Tower of the Damned"
+	},
+	"the-upper-reaches": {
+		"name": "The Upper Reaches"
+	},
+	"brunwins-terrace": {
+		"name": "Brunwin's Terrace"
+	},
+	"nexus-point-xenas": {
+		"name": "Nexus-Point Xenas"
+	},
+	"razorfen-kraul": {
+		"name": "Razorfen Kraul"
+	},
+	"mucksnout-den": {
+		"name": "Mucksnout Den"
+	},
+	"neltharions-vault": {
+		"name": "Neltharion's Vault"
+	},
+	"nazmir": {
+		"name": "Nazmir"
+	},
+	"dalaran": {
+		"name": "Dalaran"
+	},
+	"chromies-codex": {
+		"name": "Chromie's Codex"
+	},
+	"maisara-caverns": {
+		"name": "Maisara Caverns"
+	},
+	"voldun": {
+		"name": "Vol'dun"
+	},
+	"redrock-mines": {
+		"name": "Redrock Mines"
+	},
+	"hireeks-lair": {
+		"name": "Hir'eek's Lair"
+	},
+	"razorjaw-river": {
+		"name": "Razorjaw River"
+	},
+	"wayward-thicket": {
+		"name": "Wayward Thicket"
+	},
+	"hallowfall": {
+		"name": "Hallowfall"
+	},
+	"the-fangs-rumshackle": {
+		"name": "The Fangs & Rumshackle"
+	},
+	"eversong-woods": {
+		"name": "Eversong Woods"
+	},
+	"windrunner-village": {
+		"name": "Windrunner Village"
+	},
+	"wathanan-crypts": {
+		"name": "Watha'nan Crypts"
+	},
+	"ruins-of-deatholme": {
+		"name": "Ruins of Deatholme"
+	},
+	"the-gulf-of-memory": {
+		"name": "The Gulf of Memory"
+	},
+	"the-undergrowth": {
+		"name": "The Undergrowth"
+	},
+	"zorammarsh": {
+		"name": "Zorammarsh"
+	},
+	"goldenmist-village": {
+		"name": "Goldenmist Village"
+	},
+	"burial-mount": {
+		"name": "Burial Mount"
+	},
+	"zalamar": {
+		"name": "Zala'mar"
+	},
+	"crows-crook": {
+		"name": "Crow's Crook"
+	},
+	"frostcave": {
+		"name": "Frostcave"
+	},
+	"southwind-cliffs": {
+		"name": "Southwind Cliffs"
+	},
+	"zaralek-cavern": {
+		"name": "Zaralek Cavern"
+	},
+	"mysterious-cave": {
+		"name": "Mysterious Cave"
+	},
+	"ghostlands": {
+		"name": "Ghostlands"
+	},
+	"zulgurub": {
+		"name": "Zul'Gurub"
+	},
+	"splithoof-heights": {
+		"name": "Splithoof Heights"
+	},
+	"servants-quarters": {
+		"name": "Servants' Quarters"
+	},
+	"draktharon-keep": {
+		"name": "Drak'Tharon Keep"
+	},
+	"blackrock-depths": {
+		"name": "Blackrock Depths"
+	},
+	"naxxramas": {
+		"name": "Naxxramas"
+	},
+	"mogushan-palace": {
+		"name": "Mogu'shan Palace"
+	},
+	"sholazar-basin": {
+		"name": "Sholazar Basin"
+	},
+	"the-avalanche": {
+		"name": "The Avalanche"
+	},
+	"sewer-access-point": {
+		"name": "Sewer Access Point"
+	},
+	"well-of-eternity": {
+		"name": "Well of Eternity"
+	},
+	"ritual-site-broken-throne": {
+		"name": "Ritual Site: Broken Throne"
+	},
+	"the-coiled-isle": {
+		"name": "The Coiled Isle"
+	},
+	"tokkas-landing": {
+		"name": "Tokka's Landing"
+	},
+	"zulaman": {
+		"name": "Zul'Aman"
+	},
+	"ragemaw-terrace": {
+		"name": "Ragemaw Terrace"
+	},
+	"the-emerald-dream": {
+		"name": "The Emerald Dream"
+	},
+	"meandering-rootlands": {
+		"name": "Meandering Rootlands"
+	},
+	"root-bound-sanctuary": {
+		"name": "Root-Bound Sanctuary"
+	},
+	"sprigling-gloam": {
+		"name": "Sprigling Gloam"
+	},
+	"shoreline-roots-viridescent-thicket": {
+		"name": "Shoreline Roots & Viridescent Thicket"
+	},
+	"whorlwing-basin": {
+		"name": "Whorlwing Basin"
+	},
+	"viridescent-thicket": {
+		"name": "Viridescent Thicket"
+	},
+	"springrain-river": {
+		"name": "Springrain River"
+	},
+	"the-dreams-hope": {
+		"name": "the Dream's Hope"
+	},
+	"sylvan-conservatory": {
+		"name": "Sylvan Conservatory"
+	},
+	"twisting-wood": {
+		"name": "Twisting Wood"
+	},
+	"haven-cascades": {
+		"name": "Haven Cascades"
+	},
+	"the-azure-span": {
+		"name": "The Azure Span"
+	},
+	"winterpelt-hollow": {
+		"name": "Winterpelt Hollow"
+	},
+	"slyvern-plunge": {
+		"name": "Slyvern Plunge"
+	},
+	"vakthros-range": {
+		"name": "Vakthros Range"
+	},
+	"the-forbidden-reach": {
+		"name": "The Forbidden Reach"
+	},
+	"the-frosted-spine": {
+		"name": "The Frosted Spine"
+	},
+	"shikaar-highlands": {
+		"name": "Shikaar Highlands"
+	},
+	"south-hold-gate": {
+		"name": "South Hold Gate"
+	},
+	"pleasant-hill": {
+		"name": "Pleasant Hill"
+	},
+	"rebellious-cliffs": {
+		"name": "Rebellious Cliffs"
+	},
+	"wild-cliffs": {
+		"name": "Wild Cliffs"
+	},
+	"sagecrest-pines": {
+		"name": "Sagecrest Pines"
+	},
+	"shadow-ledge": {
+		"name": "Shadow Ledge"
+	},
+	"the-flowing-forest": {
+		"name": "The Flowing Forest"
+	},
+	"lilac-ramble": {
+		"name": "Lilac Ramble"
+	},
+	"eclipse-lake": {
+		"name": "Eclipse Lake"
+	},
+	"eons-fringe": {
+		"name": "Eon's Fringe"
+	},
+	"shifting-sands": {
+		"name": "Shifting Sands"
+	},
+	"brackenhide-hollow": {
+		"name": "Brackenhide Hollow"
+	},
+	"loch-modan": {
+		"name": "Loch Modan"
+	},
+	"hillsbrad-foothills": {
+		"name": "Hillsbrad Foothills"
+	},
+	"fields-of-anshe": {
+		"name": "Fields of An'she"
+	},
+	"the-runewood": {
+		"name": "The Runewood"
+	},
+	"talaman": {
+		"name": "Tal'aman"
+	},
+	"paledooms-overlook": {
+		"name": "Paledoom's Overlook"
+	},
+	"arathi-highlands": {
+		"name": "Arathi Highlands"
+	},
+	"revantusk-sedge": {
+		"name": "Revantusk Sedge"
+	},
+	"spiritpaw-backwoods": {
+		"name": "Spiritpaw Backwoods"
+	},
+	"skold-ashil": {
+		"name": "Skold-Ashil"
+	},
+	"firebeards-patrol": {
+		"name": "Firebeard's Patrol"
+	},
+	"darkshore": {
+		"name": "Darkshore"
+	},
+	"cliffspring-river": {
+		"name": "Cliffspring River"
+	},
+	"den-of-nalorakk-zulaman": {
+		"name": "Den of Nalorakk"
+	},
+	"bloodmyst-isle": {
+		"name": "Bloodmyst Isle"
+	},
+	"the-greenway": {
+		"name": "The Greenway"
+	},
+	"fernwood-ridge": {
+		"name": "Fernwood Ridge"
+	},
+	"clearspring-pass": {
+		"name": "Clearspring Pass"
+	},
+	"westwind-weald": {
+		"name": "Westwind Weald"
+	},
+	"spiritpaw-borough": {
+		"name": "Spiritpaw Borough"
+	},
+	"moonglade": {
+		"name": "Moonglade"
+	},
+	"brackenhide-hollow-the-azure-span": {
+		"name": "Brackenhide Hollow"
+	},
+	"pinerock-basin": {
+		"name": "Pinerock Basin"
+	},
+	"sylvan-vale": {
+		"name": "Sylvan Vale"
+	},
+	"winterspring": {
+		"name": "Winterspring"
+	},
+	"bladesongs-retreat": {
+		"name": "Bladesong's Retreat"
+	},
+	"the-shady-nook": {
+		"name": "The Shady Nook"
+	},
+	"bronzeleaf-thicket": {
+		"name": "Bronzeleaf Thicket"
+	},
+	"feathermane-hunting-grounds": {
+		"name": "Feathermane Hunting Grounds"
+	},
+	"solemn-valley": {
+		"name": "Solemn Valley"
+	},
+	"the-arcantina": {
+		"name": "The Arcantina"
+	},
+	"roaring-highland": {
+		"name": "Roaring Highland"
+	},
+	"garvans-reef": {
+		"name": "Garvan's Reef"
+	},
+	"camp-tunkalo": {
+		"name": "Camp Tunka'lo"
+	},
+	"killclaws-lair": {
+		"name": "Killclaw's Lair"
+	},
+	"maisara-deeps": {
+		"name": "Maisara Deeps"
+	},
+	"cove-of-nashal": {
+		"name": "Cove of Nashal"
+	},
+	"dappled-hollow": {
+		"name": "Dappled Hollow"
+	},
+	"the-veiled-market": {
+		"name": "the Veiled Market"
+	},
+	"tazavesh": {
+		"name": "Tazavesh"
+	},
+	"the-witchwood": {
+		"name": "The Witchwood"
+	},
+	"darkheart-thicket": {
+		"name": "Darkheart Thicket"
+	},
+	"vision-of-orgrimmar": {
+		"name": "Vision of Orgrimmar"
+	},
+	"loaknit-den": {
+		"name": "Loaknit Den"
+	},
+	"mirror-lake-orchard": {
+		"name": "Mirror Lake Orchard"
+	},
+	"north-of-bloodvenom-post": {
+		"name": "North of Bloodvenom Post"
+	},
+	"the-forbidden-jungle": {
+		"name": "The Forbidden Jungle"
+	},
+	"azj-kahet": {
+		"name": "Azj-Kahet"
+	},
+	"salien-gutters": {
+		"name": "Salien Gutters"
+	},
+	"silken-ward": {
+		"name": "Silken Ward"
+	},
+	"rak-zakaz": {
+		"name": "Rak-Zakaz"
+	},
+	"the-transformatory-city-of-threads": {
+		"name": "The Transformatory - City of Threads"
+	},
+	"the-skeins-city-of-threads": {
+		"name": "The Skeins - City of Threads"
+	},
+	"rak-ahat": {
+		"name": "Rak-Ahat"
+	},
+	"city-of-threads": {
+		"name": "City of Threads"
+	},
+	"khaz-algar-delves": {
+		"name": "Khaz Algar Delves"
+	},
+	"city-of-echoes": {
+		"name": "City of Echoes"
+	},
+	"echoing-overlook": {
+		"name": "Echoing Overlook"
+	},
+	"eastern-span": {
+		"name": "Eastern Span"
+	},
+	"nerub-ar-palace": {
+		"name": "Nerub-ar Palace"
+	},
+	"arathis-end": {
+		"name": "Arathi's End"
+	},
+	"siegehold": {
+		"name": "Siegehold"
+	},
+	"the-spiral-weave": {
+		"name": "The Spiral Weave"
+	},
+	"lights-blooming": {
+		"name": "Light's Blooming"
+	},
+	"lights-bloom": {
+		"name": "Light's Bloom"
+	},
+	"untamed-valley": {
+		"name": "Untamed Valley"
+	},
+	"eastern-span-the-transformatory": {
+		"name": "Eastern Span & The Transformatory"
+	},
+	"the-untamed-valley": {
+		"name": "The Untamed Valley"
+	},
+	"cursed-keepsake": {
+		"name": "Cursed Keepsake"
+	},
+	"mirewood-fen": {
+		"name": "Mirewood Fen"
+	},
+	"sortheril-barrow-den": {
+		"name": "Sor'theril Barrow Den"
+	},
+	"the-lost-atheneum": {
+		"name": "The Lost Atheneum"
+	},
+	"harandar": {
+		"name": "Harandar"
+	},
+	"the-blinding-bloom": {
+		"name": "The Blinding Bloom"
+	},
+	"naitheren-grotto": {
+		"name": "Nai'theren Grotto"
+	},
+	"glade-of-walking-memories": {
+		"name": "Glade of Walking Memories"
+	},
+	"den-of-echoes": {
+		"name": "Den of Echoes"
+	},
+	"gardens-of-unity": {
+		"name": "Gardens of Unity"
+	},
+	"drake-grotto": {
+		"name": "Drake Grotto"
+	},
+	"misty-vale": {
+		"name": "Misty Vale"
+	},
+	"caldera-of-the-menders": {
+		"name": "Caldera of the Menders"
+	},
+	"rift-of-aln": {
+		"name": "Rift of Aln"
+	},
+	"valdrakken": {
+		"name": "Valdrakken"
+	},
+	"the-blinding-vale": {
+		"name": "The Blinding Vale"
+	},
+	"sundapple-copse": {
+		"name": "Sundapple Copse"
+	},
+	"serene-dreams-spa": {
+		"name": "Serene Dreams Spa"
+	},
+	"mudfin-village": {
+		"name": "Mudfin Village"
+	},
+	"the-grudge-pit-non-instanced": {
+		"name": "The Grudge Pit (Non-Instanced)"
+	},
+	"vale-of-mists-the-grudge-pit-non-instanced": {
+		"name": "Vale of Mists & The Grudge Pit (Non-Instanced)"
+	},
+	"amirdrassil-roots-shrouded-grove": {
+		"name": "Amirdrassil Roots & Shrouded Grove"
+	},
+	"sylvan-glade": {
+		"name": "Sylvan Glade"
+	},
+	"veilroot-clearing": {
+		"name": "Veilroot Clearing"
+	},
+	"teldrassil-roots": {
+		"name": "Teldrassil Roots"
+	},
+	"harmara": {
+		"name": "Har'mara"
+	},
+	"shady-sanctuary": {
+		"name": "Shady Sanctuary"
+	},
+	"barrows-of-reverie": {
+		"name": "Barrows of Reverie"
+	},
+	"passage-of-time": {
+		"name": "Passage of Time"
+	},
+	"the-old-weyrn-grounds": {
+		"name": "The Old Weyrn Grounds"
+	},
+	"ruby-life-pools": {
+		"name": "Ruby Life Pools"
+	},
+	"the-den": {
+		"name": "The Den"
+	},
+	"provis-esper": {
+		"name": "Provis Esper"
+	},
+	"sepulcher-of-the-first-ones": {
+		"name": "Sepulcher of the First Ones"
+	},
+	"ephemeral-plains": {
+		"name": "Ephemeral Plains"
+	},
+	"arrangement-index": {
+		"name": "Arrangement Index"
+	},
+	"resonant-peaks": {
+		"name": "Resonant Peaks"
+	},
+	"the-maw": {
+		"name": "The Maw"
+	},
+	"raveners-lament-marrows-coppice": {
+		"name": "Ravener's Lament & Marrow's Coppice"
+	},
+	"raveners-lament": {
+		"name": "Ravener's Lament"
+	},
+	"korthia": {
+		"name": "Korthia"
+	},
+	"seekers-quorum": {
+		"name": "Seeker's Quorum"
+	},
+	"orsis": {
+		"name": "Orsis"
+	},
+	"obsidian-overlook": {
+		"name": "Obsidian Overlook"
+	},
+	"makers-ascent-obelisk-of-the-moon": {
+		"name": "Maker's Ascent & Obelisk of the Moon"
+	},
+	"the-hive": {
+		"name": "The Hive"
+	},
+	"obelisk-of-the-stars": {
+		"name": "Obelisk of the Stars"
+	},
+	"neferset-city": {
+		"name": "Neferset City"
+	},
+	"maldraxxus": {
+		"name": "Maldraxxus"
+	},
+	"valley-of-a-thousand-legs": {
+		"name": "Valley of a Thousand Legs"
+	},
+	"isaecs-folly": {
+		"name": "Isaec's Folly"
+	},
+	"zulnazman": {
+		"name": "Zul'Nazman"
+	},
+	"brine-basin": {
+		"name": "Brine Basin"
+	},
+	"withering-gulch": {
+		"name": "Withering Gulch"
+	},
+	"blistering-wastes": {
+		"name": "Blistering Wastes"
+	},
+	"bonetrail-gulch": {
+		"name": "Bonetrail Gulch"
+	},
+	"court-of-zakrajan": {
+		"name": "Court of Zak'rajan"
+	},
+	"port-of-zemlan": {
+		"name": "Port of Zem'lan"
+	},
+	"temple-of-the-jade-serpent": {
+		"name": "Temple of the Jade Serpent"
+	},
+	"the-shrouded-shore-the-whispering-crag": {
+		"name": "The Shrouded Shore & The Whispering Crag"
+	},
+	"the-golden-isle": {
+		"name": "The Golden Isle"
+	},
+	"halls-of-origination": {
+		"name": "Halls of Origination"
+	},
+	"bluefeather-cliffs": {
+		"name": "Bluefeather Cliffs"
+	},
+	"dire-maul": {
+		"name": "Dire Maul"
+	},
+	"boulderfist-hall": {
+		"name": "Boulderfist Hall"
+	},
+	"carapace-ridge": {
+		"name": "Carapace Ridge"
+	},
+	"duskrise-acreage": {
+		"name": "Duskrise Acreage"
+	},
+	"stonetalon-mountains": {
+		"name": "Stonetalon Mountains"
+	},
+	"unearthed-grounds": {
+		"name": "Unearthed Grounds"
+	},
+	"the-bastion-of-twilight": {
+		"name": "The Bastion of Twilight"
+	},
+	"pandaria": {
+		"name": "Pandaria"
+	},
+	"zebalar-lumberyard": {
+		"name": "Zeb'Alar Lumberyard"
+	},
+	"amani-pass": {
+		"name": "Amani Pass"
+	},
+	"akilzons-reach": {
+		"name": "Akil'zon's Reach"
+	},
+	"temple-of-akilzon": {
+		"name": "Temple of Akil'zon"
+	},
+	"farstrider-enclave": {
+		"name": "Farstrider Enclave"
+	},
+	"gnarldor-isle": {
+		"name": "Gnarldor Isle"
+	},
+	"the-serpents-tail": {
+		"name": "The Serpent's Tail"
+	},
+	"talonstrike-terrace": {
+		"name": "Talonstrike Terrace"
+	},
+	"mlurkkr-mire": {
+		"name": "Mlurkkr Mire"
+	},
+	"dawnstar-spire": {
+		"name": "Dawnstar Spire"
+	},
+	"the-forum": {
+		"name": "The Forum"
+	},
+	"bitterbark": {
+		"name": "Bitterbark"
+	},
+	"path-of-whispers": {
+		"name": "Path of Whispers"
+	},
+	"temple-of-halazzi": {
+		"name": "Temple of Halazzi"
+	},
+	"atalaman": {
+		"name": "Atal'Aman"
+	},
+	"wreck-of-sethraliss-scale": {
+		"name": "Wreck of Sethralis's Scale"
+	},
+	"march-on-queldanas": {
+		"name": "March on Quel'Danas"
+	},
+	"karesh": {
+		"name": "K'aresh"
+	},
+	"lunnall-river": {
+		"name": "Lunnall River"
+	},
+	"the-oasis": {
+		"name": "The Oasis"
+	},
+	"meandering-rootlands-the-char": {
+		"name": "Meandering Rootlands & The Char"
+	},
+	"lushdream-crags": {
+		"name": "Lushdream Crags"
+	},
+	"eye-of-ysera": {
+		"name": "Eye of Ysera"
+	},
+	"viridescent-thicket-peridot-coast": {
+		"name": "Viridescent Thicket & Peridot Coast"
+	},
+	"shiversnap-grove-whorlwing-basin": {
+		"name": "Shiversnap Grove & Whorlwing Basin"
+	},
+	"amirdrassil-whorlwing-basin": {
+		"name": "Amirdrassil & Whorlwing Basin"
+	},
+	"ancient-bough": {
+		"name": "Ancient Bough"
+	},
+	"emerald-gardens": {
+		"name": "Emerald Gardens"
+	},
+	"field-of-ferocity": {
+		"name": "Field of Ferocity"
+	},
+	"northern-part-of-the-zone": {
+		"name": "Northern part of the zone."
+	},
+	"maruukai": {
+		"name": "Maruukai"
+	},
+	"ohniri-springs": {
+		"name": "Ohn'iri Springs"
+	},
+	"the-nokhud-offensive": {
+		"name": "The Nokhud Offensive"
+	},
+	"the-storm-scar": {
+		"name": "The Storm Scar"
+	},
+	"roaring-dragonsprings": {
+		"name": "Roaring Dragonsprings"
+	},
+	"the-petitioners-concourse": {
+		"name": "The Petitioner's Concourse"
+	},
+	"timberstep-outpost": {
+		"name": "Timberstep Outpost"
+	},
+	"teerakai": {
+		"name": "Teerakai"
+	},
+	"mountainview-post": {
+		"name": "Mountainview Post"
+	},
+	"broadhoof-outpost": {
+		"name": "Broadhoof Outpost"
+	},
+	"stormshroud-peak": {
+		"name": "Stormshroud Peak"
+	},
+	"ridgewater-retreat": {
+		"name": "Ridgewater Retreat"
+	},
+	"skytop-observatory": {
+		"name": "Skytop Observatory"
+	},
+	"siren-isle": {
+		"name": "Siren Isle"
+	},
+	"burning-ascent": {
+		"name": "Burning Ascent"
+	},
+	"the-slagmire": {
+		"name": "The Slagmire"
+	},
+	"dragonbane-keep": {
+		"name": "Dragonbane Keep"
+	},
+	"fields-of-reverie": {
+		"name": "Fields of Reverie"
+	},
+	"battlefield-ruins": {
+		"name": "Battlefield Ruins"
+	},
+	"dragon-isles": {
+		"name": "Dragon Isles"
+	},
+	"active-dreamsurge-zone": {
+		"name": "Active Dreamsurge zone"
+	},
+	"nokhudon-hold": {
+		"name": "Nokhudon Hold"
+	},
+	"zaqali-caldera": {
+		"name": "Zaqali Caldera"
+	},
+	"silvermoon-city": {
+		"name": "Silvermoon City"
+	},
+	"sunstrider-isle": {
+		"name": "Sunstrider Isle"
+	},
+	"north-sanctum": {
+		"name": "North Sanctum"
+	},
+	"untamed-verdure": {
+		"name": "Untamed Verdure"
+	},
+	"fissured-breach": {
+		"name": "Fissured Breach"
+	},
+	"catalyst-gardens-plain-of-actualization": {
+		"name": "Catalyst Gardens & Plain of Actualization"
+	},
+	"genesis-fields": {
+		"name": "Genesis Fields"
+	},
+	"genesis-fields-cradle-of-nascence": {
+		"name": "Genesis Fields & Cradle of Nascence"
+	},
+	"garudeons-nest": {
+		"name": "Garudeon's Nest"
+	},
+	"ageless-shards": {
+		"name": "Ageless Shards"
+	},
+	"catalyst-gardens": {
+		"name": "Catalyst Gardens"
+	},
+	"the-sepulcher-of-the-first-ones": {
+		"name": "The Sepulcher of the First Ones"
+	},
+	"dimensional-falls": {
+		"name": "Dimensional Falls"
+	},
+	"unfallens-sanctum": {
+		"name": "Unfallen's Sanctum"
+	},
+	"bleak-redoubt": {
+		"name": "Bleak Redoubt"
+	},
+	"plaguefall": {
+		"name": "Plaguefall"
+	},
+	"house-of-rituals": {
+		"name": "House of Rituals"
+	},
+	"the-stitchyard": {
+		"name": "The Stitchyard"
+	},
+	"akareks-tears": {
+		"name": "Akarek's Tears"
+	},
+	"skettis": {
+		"name": "Skettis"
+	},
+	"mechagon": {
+		"name": "Mechagon"
+	},
+	"hellfire-citadel": {
+		"name": "Hellfire Citadel"
+	},
+	"ruins-of-kranak": {
+		"name": "Ruins of Kra'nak"
+	},
+	"skyreach": {
+		"name": "Skyreach"
+	},
+	"obsidian-citadel": {
+		"name": "Obsidian Citadel"
+	},
+	"scalecracker-keep": {
+		"name": "Scalecracker Keep"
+	},
+	"neltharus": {
+		"name": "Neltharus"
+	},
+	"terokkar-refuge": {
+		"name": "Terokkar Refuge"
+	},
+	"talon-altar": {
+		"name": "Talon Altar"
+	},
+	"wild-coast": {
+		"name": "Wild Coast"
+	},
+	"the-ring-of-trials": {
+		"name": "The Ring of Trials"
+	},
+	"darkfeather-valley": {
+		"name": "Darkfeather Valley"
+	},
+	"the-emerald-nightmare": {
+		"name": "The Emerald Nightmare"
+	},
+	"windripper-peak": {
+		"name": "Windripper Peak"
+	},
+	"alawashtes-nest": {
+		"name": "Ala'washte's Nest"
+	},
+	"the-haglands": {
+		"name": "The Haglands"
+	},
+	"deadwood-landing": {
+		"name": "Deadwood Landing"
+	},
+	"glenbrook-hunting-grounds": {
+		"name": "Glenbrook Hunting Grounds"
+	},
+	"tranquil-strand": {
+		"name": "Tranquil Strand"
+	},
+	"near-fallhaven": {
+		"name": "Near Fallhaven"
+	},
+	"upper-corlain": {
+		"name": "Upper Corlain"
+	},
+	"eye-of-azshara": {
+		"name": "Eye of Azshara"
+	},
+	"corlain-aviary": {
+		"name": "Corlain Aviary"
+	},
+	"foxhollow-woods": {
+		"name": "Foxhollow Woods"
+	},
+	"north-pass-caverns": {
+		"name": "North Pass Caverns"
+	},
+	"the-orecreg": {
+		"name": "The Orecreg"
+	},
+	"freywold-village": {
+		"name": "Freywold Village"
+	},
+	"the-proscenium": {
+		"name": "The Proscenium"
+	},
+	"tradewinds-market": {
+		"name": "Tradewinds Market"
+	},
+	"fetid-encampment": {
+		"name": "Fetid Encampment"
+	},
+	"dornogal": {
+		"name": "Dornogal"
+	},
+	"the-steps-of-fate": {
+		"name": "The Steps of Fate"
+	},
+	"halls-of-origination-uldum": {
+		"name": "Halls of Origination"
+	},
+	"thunderhead-peak-dar-kazhad": {
+		"name": "Thunderhead Peak & Dar Kazhad"
+	},
+	"the-three-shields-quest-phase": {
+		"name": "The Three Shields (Quest Phase)"
+	},
+	"stormtide-dregs": {
+		"name": "Stormtide Dregs"
+	},
+	"aroms-stand": {
+		"name": "Arom's Stand"
+	},
+	"anyport": {
+		"name": "Anyport"
+	},
+	"the-opalcreg": {
+		"name": "The Opalcreg"
+	},
+	"southport-watch": {
+		"name": "Southport Watch"
+	},
+	"addington-yards": {
+		"name": "Addington Yards"
+	},
+	"beledars-bounty": {
+		"name": "Beledar's Bounty"
+	},
+	"dayspring-fields": {
+		"name": "Dayspring Fields"
+	},
+	"velhans-claim": {
+		"name": "Velhan's Claim"
+	},
+	"southport-relief": {
+		"name": "Southport Relief"
+	},
+	"briarback-kraul": {
+		"name": "Briarback Kraul"
+	},
+	"clearspring-pass-and-rockskip-woodlands": {
+		"name": "Clearspring Pass and Rockskip Woodlands"
+	},
+	"the-ember-court": {
+		"name": "The Ember Court"
+	},
+	"wailing-tideway": {
+		"name": "Wailing Tideway"
+	},
+	"freehold-non-instanced": {
+		"name": "Freehold (Non-Instanced)"
+	},
+	"briny-flats": {
+		"name": "Briny Flats"
+	},
+	"freehold-and-castaway-point-non-instanced": {
+		"name": "Freehold and Castaway Point (Non-Instanced)"
+	},
+	"sharpscale-coast-morqut-islet": {
+		"name": "Sharpscale Coast & Morqut Islet"
+	},
+	"redsilt-wash": {
+		"name": "Redsilt Wash"
+	},
+	"grand-bazaar": {
+		"name": "Grand Bazaar"
+	},
+	"tempest-cove": {
+		"name": "Tempest Cove"
+	},
+	"snapclaw-shore": {
+		"name": "Snapclaw Shore"
+	},
+	"abandoned-camp": {
+		"name": "Abandoned Camp"
+	},
+	"crosswind-commons": {
+		"name": "Crosswind Commons"
+	},
+	"blushwater-brook": {
+		"name": "Blushwater Brook"
+	},
+	"dreadpearl-shallows": {
+		"name": "Dreadpearl Shallows"
+	},
+	"gloomwater-span-and-the-blood-coast": {
+		"name": "Gloomwater Span and the Blood Coast"
+	},
+	"the-far-reach-the-shattered-river": {
+		"name": "The Far Reach & The Shattered River"
+	},
+	"the-far-reach": {
+		"name": "The Far Reach"
+	},
+	"umber-shore": {
+		"name": "Umber Shore"
+	},
+	"mudfish-lodge": {
+		"name": "Mudfish Lodge"
+	},
+	"jetsam-drift": {
+		"name": "Jetsam Drift"
+	},
+	"bastion": {
+		"name": "Bastion"
+	},
+	"traitors-rest": {
+		"name": "Traitor's Rest"
+	},
+	"founders-point": {
+		"name": "Founder's Point"
+	},
+	"lost-ruins": {
+		"name": "Lost Ruins"
+	},
+	"killclaws-lair-darkmaul-citadel": {
+		"name": "Killclaw's Lair & Darkmaul Citadel"
+	},
+	"old-coast-path": {
+		"name": "Old Coast Path"
+	},
+	"isle-of-the-watchers": {
+		"name": "Isle of the Watchers"
+	},
+	"falanaar": {
+		"name": "Falanaar"
+	},
+	"whispering-bluffs": {
+		"name": "Whispering Bluffs"
+	},
+	"the-grand-promenade": {
+		"name": "The Grand Promenade"
+	},
+	"meredil": {
+		"name": "Meredil"
+	},
+	"sylvan-falls": {
+		"name": "Sylvan Falls"
+	},
+	"thunder-totem": {
+		"name": "Thunder Totem"
+	},
+	"rockcrawler-chasm": {
+		"name": "Rockcrawler Chasm"
+	},
+	"plunder-harbor": {
+		"name": "Plunder Harbor"
+	},
+	"nesingwarys-trek-port-of-zandalar": {
+		"name": "Nesingwary's Trek & Port of Zandalar"
+	},
+	"grizzly-hills-the-emerald-nightmare": {
+		"name": "Grizzly Hills"
+	},
+	"sunfrost-glade": {
+		"name": "Sunfrost Glade"
+	},
+	"plain-of-thieves": {
+		"name": "Plain of Thieves"
+	},
+	"lost-city-of-the-tolvir": {
+		"name": "Lost City of the Tol'vir"
+	},
+	"the-veiled-stair": {
+		"name": "The Veiled Stair"
+	},
+	"the-secret-aerie": {
+		"name": "The Secret Aerie"
+	},
+	"weeping-bluffs": {
+		"name": "Weeping Bluffs"
+	},
+	"nastrondir": {
+		"name": "Nastrondir"
+	},
+	"anora-hollow": {
+		"name": "Anora Hollow"
+	},
+	"the-summer-fields": {
+		"name": "The Summer Fields"
+	},
+	"seabreak-isle": {
+		"name": "Seabreak Isle"
+	},
+	"shields-rest-bm-artifact-instance": {
+		"name": "Shield's Rest (BM Artifact Instance)"
+	},
+	"the-heartland": {
+		"name": "The Heartland"
+	},
+	"aegiras-meadery": {
+		"name": "Aegira's Meadery"
+	},
+	"trueshotlodge": {
+		"name": "TrueshotLodge"
+	},
+	"farwatch-overlook": {
+		"name": "Farwatch Overlook"
+	},
+	"the-burial-fields": {
+		"name": "The Burial Fields"
+	},
+	"deathweb-hollow": {
+		"name": "Deathweb Hollow"
+	},
+	"skysong-lake": {
+		"name": "Skysong Lake"
+	},
+	"veil-terokk": {
+		"name": "Veil Terokk"
+	},
+	"forgotten-shore": {
+		"name": "Forgotten Shore"
+	},
+	"veil-zekk": {
+		"name": "Veil Zekk"
+	},
+	"venture-cove": {
+		"name": "Venture Cove"
+	},
+	"stonecrag-gorge": {
+		"name": "Stonecrag Gorge"
+	},
+	"sabermaw": {
+		"name": "Sabermaw"
+	},
+	"shaldoren-grove": {
+		"name": "Shal'doren Grove"
+	},
+	"field-of-dreamers": {
+		"name": "Field of Dreamers"
+	},
+	"the-smoldering-copse": {
+		"name": "The Smoldering Copse"
+	},
+	"active-dreamsurge-portal-location": {
+		"name": "Active Dreamsurge portal location"
+	},
+	"wakeful-vista": {
+		"name": "Wakeful Vista"
+	},
+	"kaighan-camp": {
+		"name": "Kaighan Camp"
+	},
+	"murkbog": {
+		"name": "Murkbog"
+	},
+	"the-everbloom": {
+		"name": "The Everbloom"
+	},
+	"everbloom-wilds": {
+		"name": "Everbloom Wilds"
+	},
+	"life-binder-conservatory": {
+		"name": "Life-Binder Conservatory"
+	},
+	"deeproot": {
+		"name": "Deeproot"
+	},
+	"rainfern-basin": {
+		"name": "Rainfern Basin"
+	},
+	"kajacoast": {
+		"name": "Kaja'Coast"
+	},
+	"tailthrasher-basin": {
+		"name": "Tailthrasher Basin"
+	},
+	"backwater-beach": {
+		"name": "Backwater Beach"
+	},
+	"den-of-haalesh": {
+		"name": "Den of Haal'esh"
+	},
+	"skettis-terokkar-forest": {
+		"name": "Skettis"
+	},
+	"sethekk-halls": {
+		"name": "Sethekk Halls"
+	},
+	"forkriver-crossing": {
+		"name": "Forkriver Crossing"
+	},
+	"emerald-dragonshrine": {
+		"name": "Emerald Dragonshrine"
+	},
+	"the-deaths-of-chromie": {
+		"name": "The Deaths of Chromie"
+	},
+	"emerald-dragonshrine-the-deaths-of-chromie": {
+		"name": "Emerald Dragonshrine"
+	},
+	"teldrassil": {
+		"name": "Teldrassil"
+	},
+	"the-twilight-ridge": {
+		"name": "The Twilight Ridge"
+	},
+	"shadowmoon-valley-outland": {
+		"name": "Shadowmoon Valley - Outland"
+	},
+	"shattrath-city-outland": {
+		"name": "Shattrath City - Outland"
+	},
+	"flame-crest": {
+		"name": "Flame Crest"
+	},
+	"the-deadmines": {
+		"name": "The Deadmines"
+	},
+	"cape-of-stranglethorn": {
+		"name": "Cape of Stranglethorn"
+	},
+	"booty-bay": {
+		"name": "Booty Bay"
+	},
+	"ironclad-cove": {
+		"name": "Ironclad Cove"
+	},
+	"the-bone-wastes": {
+		"name": "The Bone Wastes"
+	},
+	"faldirs-cove": {
+		"name": "Faldir's Cove"
+	},
+	"shrine-of-aviana": {
+		"name": "Shrine of Aviana"
+	},
+	"icecrown-citadel": {
+		"name": "Icecrown Citadel"
+	},
+	"bradensbrook": {
+		"name": "Bradensbrook"
+	},
+	"temple-of-elune": {
+		"name": "Temple of Elune"
+	},
+	"maw-of-souls": {
+		"name": "Maw of Souls"
+	},
+	"tideskorn-harbor": {
+		"name": "Tideskorn Harbor"
+	},
+	"helheim": {
+		"name": "Helheim"
+	},
+	"radcliffe-landing": {
+		"name": "Radcliffe Landing"
+	},
+	"ashmaul-burial-grounds": {
+		"name": "Ashmaul Burial Grounds"
+	},
+	"end-time": {
+		"name": "End Time"
+	},
+	"ruby-dragonshrine": {
+		"name": "Ruby Dragonshrine"
+	},
+	"the-hold": {
+		"name": "The Hold"
+	},
+	"heathrow-manor-bradensbrook": {
+		"name": "Heathrow Manor & Bradensbrook"
+	},
+	"the-eternal-kurgans": {
+		"name": "The Eternal Kurgans"
+	},
+	"rockaway-shallows": {
+		"name": "Rockaway Shallows"
+	},
+	"boralus": {
+		"name": "Boralus"
+	},
+	"forlorn-ruins-kragwas-shore": {
+		"name": "Forlorn Ruins & Krag'wa's Shore"
+	},
+	"seabreeze-shallows": {
+		"name": "Seabreeze Shallows"
+	},
+	"scuttlers-coast": {
+		"name": "Scuttler's Coast"
+	},
+	"timeless-isle": {
+		"name": "Timeless Isle"
+	},
+	"sethrias-roost": {
+		"name": "Sethria's Roost"
+	},
+	"molten-front": {
+		"name": "Molten Front"
+	},
+	"fireplume-peak": {
+		"name": "Fireplume Peak"
+	},
+	"firelands": {
+		"name": "Firelands"
+	},
+	"bethtilacs-lair": {
+		"name": "Beth'tilac's Lair"
+	},
+	"shatterstone": {
+		"name": "Shatterstone"
+	},
+	"magisters-terrace": {
+		"name": "Magisters' Terrace"
+	},
+	"grand-magisters-asylum": {
+		"name": "Grand Magister's Asylum"
+	},
+	"tempest-keep-the-eye": {
+		"name": "Tempest Keep: The Eye"
+	},
+	"the-phoenix-hall": {
+		"name": "The Phoenix Hall"
+	},
+	"tempest-bridge": {
+		"name": "Tempest Bridge"
+	},
+	"the-scorched-plain": {
+		"name": "The Scorched Plain"
+	},
+	"terrace-of-the-augurs": {
+		"name": "Terrace of the Augurs"
+	},
+	"voidstorm": {
+		"name": "Voidstorm"
+	},
+	"stareater-pavilion": {
+		"name": "Stareater Pavilion"
+	},
+	"den-of-predaxus": {
+		"name": "Den of Predaxus"
+	},
+	"the-molt": {
+		"name": "The Molt"
+	},
+	"torments-rise": {
+		"name": "Torment's Rise"
+	},
+	"gnawing-reach": {
+		"name": "Gnawing Reach"
+	},
+	"the-voidspire": {
+		"name": "The Voidspire"
+	},
+	"the-gorging-pit": {
+		"name": "The Gorging Pit"
+	},
+	"val": {
+		"name": "Val"
+	},
+	"glacial-reservoir": {
+		"name": "Glacial Reservoir"
+	},
+	"pillar-nest-vosh": {
+		"name": "Pillar-nest Vosh"
+	},
+	"tenirs-ascent": {
+		"name": "Tenir's Ascent"
+	},
+	"skolzgal-mill": {
+		"name": "Skolzgal Mill"
+	},
+	"livias-patience": {
+		"name": "Livia's Patience"
+	},
+	"the-silken-path": {
+		"name": "The Silken Path"
+	},
+	"skittering-breach": {
+		"name": "Skittering Breach"
+	},
+	"the-aegis-wall": {
+		"name": "The Aegis Wall"
+	},
+	"old-sacrificial-pit-city-of-threads": {
+		"name": "Old Sacrificial Pit - City of Threads"
+	},
+	"the-reckoning": {
+		"name": "The Reckoning"
+	},
+	"pillar-nest-xesh": {
+		"name": "Pillar-nest Xesh"
+	},
+	"stillstone-pond": {
+		"name": "Stillstone Pond"
+	},
+	"the-shredded-strands": {
+		"name": "The Shredded Strands"
+	},
+	"grand-rampart": {
+		"name": "Grand Rampart"
+	},
+	"rambleshire": {
+		"name": "Rambleshire"
+	},
+	"the-burrows": {
+		"name": "The Burrows"
+	},
+	"ruptured-lake": {
+		"name": "Ruptured Lake"
+	},
+	"rak-ush": {
+		"name": "Rak-Ush"
+	},
+	"the-undercache": {
+		"name": "The Undercache"
+	},
+	"the-whispering-chasm": {
+		"name": "The Whispering Chasm"
+	},
+	"the-underkeep": {
+		"name": "The Underkeep"
+	},
+	"pillar-nest-noth": {
+		"name": "Pillar-nest Noth"
+	},
+	"maddening-deep": {
+		"name": "Maddening Deep"
+	},
+	"the-coreway-dornogal": {
+		"name": "The Coreway - Dornogal"
+	},
+	"umbral-bazaar": {
+		"name": "Umbral Bazaar"
+	},
+	"thunderhead-peak": {
+		"name": "Thunderhead Peak"
+	},
+	"mmarl": {
+		"name": "Mmarl"
+	},
+	"the-narthex": {
+		"name": "The Narthex"
+	},
+	"zalamak": {
+		"name": "Zal'amak"
+	},
+	"koramar": {
+		"name": "Koramar"
+	},
+	"scrapdrift-sands": {
+		"name": "Scrapdrift Sands"
+	},
+	"zulamak": {
+		"name": "Zul'amak"
+	},
+	"torgas-rest": {
+		"name": "Torga's Rest"
+	},
+	"tazavesh-karesh": {
+		"name": "Tazavesh"
+	},
+	"blood-gate": {
+		"name": "Blood Gate"
+	},
+	"the-underrot": {
+		"name": "The Underrot"
+	},
+	"grimwatts-crash": {
+		"name": "Grimwatt's Crash"
+	},
+	"dawn-of-the-infinites": {
+		"name": "Dawn of the Infinites"
+	},
+	"excavation-site-9": {
+		"name": "Excavation Site 9"
+	},
+	"torgas-innards": {
+		"name": "Torga's Innards"
+	},
+	"the-frogmarsh": {
+		"name": "The Frogmarsh"
+	},
+	"abandoned-ruin": {
+		"name": "Abandoned Ruin"
+	},
+	"primal-wetlands": {
+		"name": "Primal Wetlands"
+	},
+	"the-bladeburrows": {
+		"name": "The Bladeburrows"
+	},
+	"isle-of-queldanas": {
+		"name": "Isle of Quel'Danas"
+	},
+	"silver-landing": {
+		"name": "Silver Landing"
+	},
+	"skittering-hollow": {
+		"name": "Skittering Hollow"
+	},
+	"azjol-nerub": {
+		"name": "Azjol-Nerub"
+	},
+	"warsong-hold": {
+		"name": "Warsong Hold"
+	},
+	"valiance-keep": {
+		"name": "Valiance Keep"
+	},
+	"the-geyser-fields": {
+		"name": "The Geyser Fields"
+	},
+	"icemist-village": {
+		"name": "Icemist Village"
+	},
+	"the-endmire": {
+		"name": "The Endmire"
+	},
+	"shattered-grove": {
+		"name": "Shattered Grove"
+	},
+	"sepulcher-of-knowledge": {
+		"name": "Sepulcher of Knowledge"
+	},
+	"ardenweald": {
+		"name": "Ardenweald"
+	},
+	"elder-stand": {
+		"name": "Elder Stand"
+	},
+	"sanctuary-of-guidance": {
+		"name": "Sanctuary of Guidance"
+	},
+	"estuary-of-awakening": {
+		"name": "Estuary of Awakening"
+	},
+	"windswept-aerie": {
+		"name": "Windswept Aerie"
+	},
+	"eco-dome-aldani": {
+		"name": "Eco-Dome Al'dani"
+	},
+	"dredhollow": {
+		"name": "Dredhollow"
+	},
+	"terrace-of-formation": {
+		"name": "Terrace of Formation"
+	},
+	"eco-dome-primus": {
+		"name": "Eco-Dome: Primus"
+	},
+	"the-atrium": {
+		"name": "The Atrium"
+	},
+	"zovaals-grasp": {
+		"name": "Zovaal's Grasp"
+	},
+	"durotar": {
+		"name": "Durotar"
+	},
+	"ghoststone-diggings": {
+		"name": "Ghoststone Diggings"
+	},
+	"zoramgar-outpost": {
+		"name": "Zoram'gar Outpost"
+	},
+	"razorfen-downs": {
+		"name": "Razorfen Downs"
+	},
+	"rocktusk-farm": {
+		"name": "Rocktusk Farm"
+	},
+	"bilgewater-harbor": {
+		"name": "Bilgewater Harbor"
+	},
+	"the-stonefield-farm": {
+		"name": "The Stonefield Farm"
+	},
+	"searing-gorge": {
+		"name": "Searing Gorge"
+	},
+	"blackchar-cave": {
+		"name": "Blackchar Cave"
+	},
+	"goshek-farm": {
+		"name": "Go'Shek Farm"
+	},
+	"the-lost-isles": {
+		"name": "The Lost Isles"
+	},
+	"tempests-crest": {
+		"name": "Tempest's Crest"
+	},
+	"iron-trench": {
+		"name": "Iron Trench"
+	},
+	"the-temple-of-courage": {
+		"name": "The Temple of Courage"
+	},
+	"glutharns-decay": {
+		"name": "Glutharn's Decay"
+	},
+	"the-reagentry": {
+		"name": "The Reagentry"
+	},
+	"mightstone-quarry": {
+		"name": "Mightstone Quarry"
+	},
+	"fallhaven": {
+		"name": "Fallhaven"
+	},
+	"warbeast-kraal": {
+		"name": "Warbeast Kraal"
+	},
+	"hillhelm-stead-the-whirring-field": {
+		"name": "Hillhelm Stead & The Whirring Field"
+	},
+	"mycomancer-cavern": {
+		"name": "Mycomancer Cavern"
+	},
+	"waycrest-manor": {
+		"name": "Waycrest Manor"
+	},
+	"banquet-hall": {
+		"name": "Banquet Hall"
+	},
+	"the-whirring-field": {
+		"name": "The Whirring Field"
+	},
+	"sunsong-ranch": {
+		"name": "Sunsong Ranch"
+	},
+	"shrine-of-filo": {
+		"name": "Shrine of Filo"
+	},
+	"darkmaul-citadel": {
+		"name": "Darkmaul Citadel"
+	},
+	"gormaul-watch": {
+		"name": "Gormaul Watch"
+	},
+	"bones-of-agurak": {
+		"name": "Bones of Agurak"
+	},
+	"aguraks-fall": {
+		"name": "Agurak's Fall"
+	},
+	"cliffs-edge": {
+		"name": "Cliff's Edge"
+	},
+	"hockings-plot": {
+		"name": "Hocking's Plot"
+	},
+	"north-pass-cavern": {
+		"name": "North Pass Cavern"
+	},
+	"stonefury-cliffs": {
+		"name": "Stonefury Cliffs"
+	},
+	"the-fangs-wreck-of-sethraliss-scale": {
+		"name": "The Fangs & Wreck of Sethralis's Scale"
+	},
+	"the-whispering-marsh-mlurkkr-mire": {
+		"name": "The Whispering Marsh & Mlurkkr Mire"
+	},
+	"highmaul": {
+		"name": "Highmaul"
+	},
+	"the-underbelly": {
+		"name": "The Underbelly"
+	},
+	"brackish-coast-autumnvale": {
+		"name": "Brackish Coast & Autumnvale"
+	},
+	"briarback-sanctum": {
+		"name": "Briarback Sanctum"
+	},
+	"hellfire-citadel-non-instanced": {
+		"name": "Hellfire Citadel (Non-Instanced)"
+	},
+	"darkmaul-plains": {
+		"name": "Darkmaul Plains"
+	},
+	"quilboar-briarpatch": {
+		"name": "Quilboar Briarpatch"
+	},
+	"murkbog-surrounds": {
+		"name": "Murkbog & surrounds"
+	},
+	"bloodmane-valley": {
+		"name": "Bloodmane Valley"
+	},
+	"muckwallow": {
+		"name": "Muckwallow"
+	},
+	"camp-stonewash": {
+		"name": "Camp Stonewash"
+	},
+	"ogre-ruins": {
+		"name": "Ogre Ruins"
+	},
+	"coldsnap-bluffs": {
+		"name": "Coldsnap Bluffs"
+	},
+	"exiles-rise": {
+		"name": "Exile's Rise"
+	},
+	"the-burning-glacier": {
+		"name": "The Burning Glacier"
+	},
+	"colossals-fall": {
+		"name": "Colossal's Fall"
+	},
+	"the-fangs": {
+		"name": "The Fangs"
+	},
+	"bloodmaul-slag-mines": {
+		"name": "Bloodmaul Slag Mines"
+	},
+	"ring-of-conquest": {
+		"name": "Ring of Conquest"
+	},
+	"brokenbough-roost": {
+		"name": "Brokenbough Roost"
+	},
+	"icewind-drifts-nagrand-draenor": {
+		"name": "Icewind Drifts"
+	},
+	"brutes-rise": {
+		"name": "Brute's Rise"
+	},
+	"beastwatch": {
+		"name": "Beastwatch"
+	},
+	"deadwood-cove": {
+		"name": "Deadwood Cove"
+	},
+	"scorched-sands-outpost": {
+		"name": "Scorched Sands Outpost"
+	},
+	"vulpera-hideaway": {
+		"name": "Vulpera Hideaway"
+	},
+	"zulahjin": {
+		"name": "Zul'Ahjin"
+	},
+	"boralus-hatherford": {
+		"name": "Boralus & Hatherford"
+	},
+	"the-steam-pools": {
+		"name": "The Steam Pools"
+	},
+	"tomb-of-the-earthrager": {
+		"name": "Tomb of the Earthrager"
+	},
+	"untethered-space": {
+		"name": "Untethered Space"
+	},
+	"serrated-peaks": {
+		"name": "Serrated Peaks"
+	},
+	"the-tempest-fields": {
+		"name": "The Tempest Fields"
+	},
+	"glitterspore-lake": {
+		"name": "Glitterspore Lake"
+	},
+	"loamm": {
+		"name": "Loamm"
+	},
+	"glimmerogg": {
+		"name": "Glimmerogg"
+	},
+	"shimmering-towers": {
+		"name": "Shimmering Towers"
+	},
+	"twitching-gorge": {
+		"name": "Twitching Gorge"
+	},
+	"verdant-sepulcher": {
+		"name": "Verdant Sepulcher"
+	},
+	"deepflayer-nest": {
+		"name": "Deepflayer Nest"
+	},
+	"the-throughway": {
+		"name": "The Throughway"
+	},
+	"fanged-pasture-cascades-column": {
+		"name": "Fanged Pasture & Cascades Column"
+	},
+	"cascades-column": {
+		"name": "Cascades Column"
+	},
+	"the-crystal-fields": {
+		"name": "The Crystal Fields"
+	},
+	"deephollow-lake": {
+		"name": "Deephollow Lake"
+	},
+	"wildcamp-orlay": {
+		"name": "Wildcamp Or'lay"
+	},
+	"drethamar-cavern": {
+		"name": "Dreth'amar Cavern"
+	},
+	"iskaara": {
+		"name": "Iskaara"
+	},
+	"the-hallowfall-gate": {
+		"name": "The Hallowfall Gate"
+	},
+	"candleslag-quarry-the-earthenworks": {
+		"name": "Candleslag Quarry & The Earthenworks"
+	},
+	"the-hallowfall-gate-candleslag-quarry": {
+		"name": "The Hallowfall Gate & Candleslag Quarry"
+	},
+	"igiras-watch-zaqali-caldera": {
+		"name": "Igira's Watch & Zaqali Caldera"
+	},
+	"lexical-glade": {
+		"name": "Lexical Glade"
+	},
+	"creeping-hive": {
+		"name": "Creeping Hive"
+	},
+	"crumbled-ridge": {
+		"name": "Crumbled Ridge"
+	},
+	"gormhive": {
+		"name": "Gormhive"
+	},
+	"mists-of-tirna-scithe": {
+		"name": "Mists of Tirna Scithe"
+	},
+	"tranquil-pools": {
+		"name": "Tranquil Pools"
+	},
+	"tirna-scithe": {
+		"name": "Tirna Scithe"
+	},
+	"gormhive-defense-wall": {
+		"name": "Gormhive Defense Wall"
+	},
+	"torghast": {
+		"name": "Torghast"
+	},
+	"tirna-noch": {
+		"name": "Tirna Noch"
+	},
+	"mistveil-tangle": {
+		"name": "Mistveil Tangle"
+	},
+	"dusty-burrows": {
+		"name": "Dusty Burrows"
+	},
+	"spirit-glen": {
+		"name": "Spirit Glen"
+	},
+	"banks-of-life": {
+		"name": "Banks of Life"
+	},
+	"the-brine-basin": {
+		"name": "The Brine Basin"
+	},
+	"shadowvein-extraction-site": {
+		"name": "Shadowvein Extraction Site"
+	},
+	"deadfin-mire": {
+		"name": "Deadfin Mire"
+	},
+	"temple-of-sethraliss": {
+		"name": "Temple of Sethraliss"
+	},
+	"dolwatha": {
+		"name": "Dol'watha"
+	},
+	"crater-of-conquerors": {
+		"name": "Crater of Conquerors"
+	},
+	"eastern-dunes": {
+		"name": "Eastern Dunes"
+	},
+	"feeding-pits": {
+		"name": "Feeding Pits"
+	},
+	"nibelgaz-mine": {
+		"name": "Nibelgaz Mine"
+	},
+	"the-rumbling-wastes": {
+		"name": "The Rumbling Wastes"
+	},
+	"the-writhing-fields": {
+		"name": "The Writhing Fields"
+	},
+	"the-bone-pit-the-blistering-waste": {
+		"name": "The Bone Pit & The Blistering Waste"
+	},
+	"voidscar-cavern": {
+		"name": "Voidscar Cavern"
+	},
+	"fracture-of-laacuna": {
+		"name": "Fracture of Laacuna"
+	},
+	"tol-dagor-non-instanced": {
+		"name": "Tol Dagor (Non-Instanced)"
+	},
+	"north-sufaad": {
+		"name": "North Sufaad"
+	},
+	"naakroa": {
+		"name": "Naakroa"
+	},
+	"the-bone-pit": {
+		"name": "The Bone Pit"
+	},
+	"sulfur-wastes": {
+		"name": "Sulfur Wastes"
+	},
+	"viridian-throne": {
+		"name": "Viridian Throne"
+	},
+	"candleslag-quarry": {
+		"name": "Candleslag Quarry"
+	},
+	"ruins-of-drekazera": {
+		"name": "Ruins of Drekazera"
+	},
+	"wailing-tideway-and-the-umber-shore": {
+		"name": "Wailing Tideway and The Umber Shore"
+	},
+	"tol-dagor": {
+		"name": "Tol Dagor"
+	},
+	"shatterstone-harbor-quest-phase": {
+		"name": "Shatterstone Harbor (Quest Phase)"
+	},
+	"underweald": {
+		"name": "Underweald"
+	},
+	"the-soulforges": {
+		"name": "The Soulforges"
+	},
+	"spirit-glen-soryns-meadow": {
+		"name": "Spirit Glen & Soryn's Meadow"
+	},
+	"heartwood-grove": {
+		"name": "Heartwood Grove"
+	},
+	"tirna-noch-forests-edge": {
+		"name": "Tirna Noch & Forest's Edge"
+	},
+	"the-root-cellar": {
+		"name": "The Root Cellar"
+	},
+	"suncrown-tree": {
+		"name": "Suncrown Tree"
+	},
+	"lightbloom-lashra": {
+		"name": "Lightbloom Lash'Ra"
+	},
+	"goldenbough-pass": {
+		"name": "Goldenbough Pass"
+	},
+	"encroaching-bloom": {
+		"name": "Encroaching Bloom"
+	},
+	"suncrown-village": {
+		"name": "Suncrown Village"
+	},
+	"suncrown": {
+		"name": "Suncrown"
+	},
+	"blossoming-terrace": {
+		"name": "Blossoming Terrace"
+	},
+	"amirdrassil-roots": {
+		"name": "Amirdrassil Roots"
+	},
+	"harkuai": {
+		"name": "Har'kuai"
+	},
+	"blooming-lattice": {
+		"name": "Blooming Lattice"
+	},
+	"vale-of-mists": {
+		"name": "Vale of Mists"
+	},
+	"abundant-grotto": {
+		"name": "Abundant Grotto"
+	},
+	"vale-of-secrets": {
+		"name": "Vale of Secrets"
+	},
+	"misty-canyon": {
+		"name": "Misty Canyon"
+	},
+	"boskroot-basin": {
+		"name": "Boskroot Basin"
+	},
+	"the-three-shields": {
+		"name": "The Three Shields"
+	},
+	"undermine": {
+		"name": "Undermine"
+	},
+	"bilgewater-flats": {
+		"name": "Bilgewater Flats"
+	},
+	"keepers-terrace-dornogal": {
+		"name": "Keepers Terrace - Dornogal"
+	},
+	"roost-of-ji-kun": {
+		"name": "Roost of Ji-Kun"
+	},
+	"ruins-of-guo-lai": {
+		"name": "Ruins of Guo-Lai"
+	},
+	"the-golden-pasture-greatwing-roost": {
+		"name": "The Golden Pasture & Greatwing Roost"
+	},
+	"agthias-repose": {
+		"name": "Agthia's Repose"
+	},
+	"greatwing-roost": {
+		"name": "Greatwing Roost"
+	},
+	"shimmerbough": {
+		"name": "Shimmerbough"
+	},
+	"furrowed-glen": {
+		"name": "Furrowed Glen"
+	},
+	"garden-of-respite": {
+		"name": "Garden of Respite"
+	},
+	"everdawn-terrace": {
+		"name": "Everdawn Terrace"
+	},
+	"aruunas-desolation": {
+		"name": "Aruuna's Desolation"
+	},
+	"korinnas-conservatory": {
+		"name": "Korinna's Conservatory"
+	},
+	"korinnas-reliquary": {
+		"name": "Korinna's Reliquary"
+	},
+	"teller-farm": {
+		"name": "Teller Farm"
+	},
+	"fletchers-hollow": {
+		"name": "Fletcher's Hollow"
+	},
+	"watchers-wood-glenbrook-homestead": {
+		"name": "Watcher's Wood & Glenbrook Homestead"
+	},
+	"conquerors-terrace": {
+		"name": "Conqueror's Terrace"
+	},
+	"the-beastwarrens": {
+		"name": "The Beastwarrens"
+	},
+	"haustvald": {
+		"name": "Haustvald"
+	},
+	"shoaljai-tar-pits": {
+		"name": "Shoaljai Tar Pits"
+	},
+	"the-cracked-coast": {
+		"name": "The Cracked Coast"
+	},
+	"prisoners-pass-withering-gulch": {
+		"name": "Prisoner's Pass & Withering Gulch"
+	},
+	"crater-of-conquerors-crackling-ridge": {
+		"name": "Crater of Conquerors & Crackling Ridge"
+	},
+	"scorched-sands-arena": {
+		"name": "Scorched Sands Arena"
+	},
+	"slithering-gulch": {
+		"name": "Slithering Gulch"
+	},
+	"horn-of-drusahl": {
+		"name": "Horn of Drusahl"
+	},
+	"creektooth-den": {
+		"name": "Creektooth Den"
+	},
+	"dead-mans-pass": {
+		"name": "Dead Man's Pass"
+	},
+	"mulgore-the-emerald-nightmare": {
+		"name": "Mulgore"
+	},
+	"deadwind-pass": {
+		"name": "Deadwind Pass"
+	},
+	"burton-farmstead": {
+		"name": "Burton Farmstead"
+	},
+	"terrace-of-sorows": {
+		"name": "Terrace of Sorows"
+	},
+	"bonepicker-summit": {
+		"name": "Bonepicker Summit"
+	},
+	"the-yaungol-advance-westwind-rest": {
+		"name": "The Yaungol Advance & Westwind Rest"
+	},
+	"the-nokhud-approach": {
+		"name": "The Nokhud Approach"
+	},
+	"the-dragon-wastes": {
+		"name": "The Dragon Wastes"
+	},
+	"veil-rhaze": {
+		"name": "Veil Rhaze"
+	},
+	"valley-of-ashes": {
+		"name": "Valley of Ashes"
+	},
+	"witherbark-village": {
+		"name": "Witherbark Village"
+	},
+	"terror-wing-path": {
+		"name": "Terror Wing Path"
+	},
+	"west-sanctum": {
+		"name": "West Sanctum"
+	},
+	"lightbloom-athran": {
+		"name": "Lightbloom Ath'Ran"
+	},
+	"fairbreeze-village": {
+		"name": "Fairbreeze Village"
+	},
+	"isle-of-queldanas-eversong-woods": {
+		"name": "Isle of Quel'Danas"
+	},
+	"tranquil-repose": {
+		"name": "Tranquil Repose"
+	},
+	"farstrider-hold": {
+		"name": "Farstrider Hold"
+	},
+	"brightwing-estate": {
+		"name": "Brightwing Estate"
+	},
+	"azurebreeze-coast": {
+		"name": "Azurebreeze Coast"
+	},
+	"witherbark-bluffs": {
+		"name": "Witherbark Bluffs"
+	},
+	"shadebasin-watch": {
+		"name": "Shadebasin Watch"
+	},
+	"swiftclaw-terrace": {
+		"name": "Swiftclaw Terrace"
+	},
+	"the-stump": {
+		"name": "The Stump"
+	},
+	"amanizar-village": {
+		"name": "Amani'Zar Village"
+	},
+	"numazon-crypts": {
+		"name": "Numazon Crypts"
+	},
+	"shadebasin-watch-amanizar-village": {
+		"name": "Shadebasin Watch & Amani'Zar Village"
+	},
+	"speakers-rest": {
+		"name": "Speaker's Rest"
+	},
+	"dunelles-kindness": {
+		"name": "Dunelle's Kindness"
+	},
+	"mereldar": {
+		"name": "Mereldar"
+	},
+	"morgaens-tears": {
+		"name": "Morgaen's Tears"
+	},
+	"torchlight-mine": {
+		"name": "Torchlight Mine"
+	},
+	"lorels-crossing": {
+		"name": "Lorel's Crossing"
+	},
+	"priory-of-the-sacred-flame": {
+		"name": "Priory of the Sacred Flame"
+	},
+	"sanctified-grounds": {
+		"name": "Sanctified Grounds"
+	},
+	"hillhelm-stead": {
+		"name": "Hillhelm Stead"
+	},
+	"lothars-landing": {
+		"name": "Lothar's Landing"
+	},
+	"shiversnap-grove": {
+		"name": "Shiversnap Grove"
+	},
+	"shoreline-roots-fields-of-reverie": {
+		"name": "Shoreline Roots & Fields of Reverie"
+	},
+	"central-encampment": {
+		"name": "Central Encampment"
+	},
+	"snowmelt-foothills": {
+		"name": "Snowmelt Foothills"
+	},
+	"wildfire-canyon": {
+		"name": "Wildfire Canyon"
+	},
+	"the-watering-hole": {
+		"name": "The Watering Hole"
+	},
+	"rockfang-ravine": {
+		"name": "Rockfang Ravine"
+	},
+	"temporal-conflux": {
+		"name": "Temporal Conflux"
+	},
+	"withering-thicket": {
+		"name": "Withering Thicket"
+	},
+	"den-of-despair": {
+		"name": "Den of Despair"
+	},
+	"eredath": {
+		"name": "Eredath"
+	},
+	"wakeners-enclave": {
+		"name": "Wakener's Enclave"
+	},
+	"the-seat-of-the-triumvirate": {
+		"name": "The Seat of the Triumvirate"
+	},
+	"shadowguard-incursion": {
+		"name": "Shadowguard Incursion"
+	},
+	"isolon-basin": {
+		"name": "Isolon Basin"
+	},
+	"shadowguard-incursion-eredath": {
+		"name": "Shadowguard Incursion"
+	},
+	"krokuun": {
+		"name": "Krokuun"
+	},
+	"exodar": {
+		"name": "Exodar"
+	},
+	"traders-tier": {
+		"name": "Trader's Tier"
+	},
+	"umbra-hollows": {
+		"name": "Umbra Hollows"
+	},
+	"grove-of-naroua": {
+		"name": "Grove of Naroua"
+	},
+	"xalethars-lair": {
+		"name": "Xalethar's Lair"
+	},
+	"shrouded-mire": {
+		"name": "Shrouded Mire"
+	},
+	"misteveil-tangle": {
+		"name": "Misteveil Tangle"
+	},
+	"screeching-crag": {
+		"name": "Screeching Crag"
+	},
+	"crimson-thicket": {
+		"name": "Crimson Thicket"
+	},
+	"shepherds-bluff": {
+		"name": "Shepherd's Bluff"
+	},
+	"the-pilgrims-road": {
+		"name": "The Pilgrim's Road"
+	},
+	"bloodmane-pridelands": {
+		"name": "Bloodmane Pridelands"
+	},
+	"fort-wrynn": {
+		"name": "Fort Wrynn"
+	},
+	"the-coliseum": {
+		"name": "The Coliseum"
+	},
+	"grookin-hill": {
+		"name": "Grookin Hill"
+	},
+	"ruins-of-dojan": {
+		"name": "Ruins of Dojan"
+	},
+	"camp-nooka-nooka": {
+		"name": "Camp Nooka Nooka"
+	},
+	"dustback-gorge": {
+		"name": "Dustback Gorge"
+	},
+	"rootway-collapse": {
+		"name": "Rootway Collapse"
+	},
+	"the-sliver": {
+		"name": "The Sliver"
+	},
+	"zanchul": {
+		"name": "Zanchul"
+	},
+	"lions-landing": {
+		"name": "Lion's Landing"
+	},
+	"domination-point": {
+		"name": "Domination Point"
+	},
+	"fox-grove": {
+		"name": "Fox Grove"
+	},
+	"greenstone-village": {
+		"name": "Greenstone Village"
+	},
+	"a-little-patience": {
+		"name": "A Little Patience"
+	},
+	"sherkhaans-den": {
+		"name": "Sher'khaan's Den"
+	},
+	"leystation-moonfall": {
+		"name": "Leystation Moonfall"
+	},
+	"surveyors-outpost": {
+		"name": "Surveyors' Outpost"
+	},
+	"ramkahen": {
+		"name": "Ramkahen"
+	},
+	"vision-of-the-twisting-sands": {
+		"name": "Vision of the Twisting Sands"
+	},
+	"the-sepulcher": {
+		"name": "The Sepulcher"
+	},
+	"azuremyst-isle": {
+		"name": "Azuremyst Isle"
+	},
+	"ruins-of-mathystra": {
+		"name": "Ruins of Mathystra"
+	},
+	"frostsaber-rock": {
+		"name": "Frostsaber Rock"
+	},
+	"the-black-morass": {
+		"name": "The Black Morass"
+	},
+	"blood-in-the-snow": {
+		"name": "Blood in the Snow"
+	},
+	"the-long-wash": {
+		"name": "The Long Wash"
+	},
+	"swamp-of-sorrows": {
+		"name": "Swamp of Sorrows"
+	},
+	"ulduar": {
+		"name": "Ulduar"
+	},
+	"bouldercrags-refuge": {
+		"name": "Bouldercrag's Refuge"
+	},
+	"the-mugambala": {
+		"name": "The Mugambala"
+	},
+	"the-skybridge": {
+		"name": "The Skybridge"
+	},
+	"vaults-of-atalutek": {
+		"name": "Vaults of Atal'Utek"
+	},
+	"the-seal-of-wrath": {
+		"name": "The Seal of Wrath"
+	},
+	"midnight-delves": {
+		"name": "Midnight Delves"
+	},
+	"gate-of-the-eastern-fang": {
+		"name": "Gate of the Eastern Fang"
+	},
+	"the-venomous-abyss": {
+		"name": "The Venomous Abyss"
+	},
+	"altar-of-fangs": {
+		"name": "Altar of Fangs"
+	},
+	"house-of-the-chosen-ossein-foundry": {
+		"name": "House of the Chosen & Ossein Foundry"
+	},
+	"theater-of-pain": {
+		"name": "Theater of Pain"
+	},
+	"zerekriss": {
+		"name": "Zerekriss"
+	},
+	"valley-of-a-thousand-legs-the-stabbing-wastes": {
+		"name": "Valley of a Thousand Legs & The Stabbing Wastes"
+	},
+	"keres-rest": {
+		"name": "Keres' Rest"
+	},
+	"the-necrotic-wake": {
+		"name": "The Necrotic Wake"
+	},
+	"temple-of-courage": {
+		"name": "Temple of Courage"
+	},
+	"shattered-span": {
+		"name": "Shattered Span"
+	},
+	"unyielding-assembly": {
+		"name": "Unyielding Assembly"
+	},
+	"the-stabbing-wastes": {
+		"name": "The Stabbing Wastes"
+	},
+	"bony-spindles": {
+		"name": "Bony Spindles"
+	},
+	"house-of-the-chosen": {
+		"name": "House of the Chosen"
+	},
+	"lunarfall-garrison": {
+		"name": "Lunarfall (Garrison)"
+	},
+	"harvesting-pits": {
+		"name": "Harvesting Pits"
+	},
+	"the-howling-crag": {
+		"name": "The Howling Crag"
+	},
+	"blackrock-stadium": {
+		"name": "Blackrock Stadium"
+	},
+	"stonefang-ridge": {
+		"name": "Stonefang Ridge"
+	},
+	"frostwall": {
+		"name": "Frostwall"
+	},
+	"the-cracking-plains": {
+		"name": "The Cracking Plains"
+	},
+	"valley-of-destruction": {
+		"name": "Valley of Destruction"
+	},
+	"magnarok": {
+		"name": "Magnarok"
+	},
+	"iron-siegeworks": {
+		"name": "Iron Siegeworks"
+	},
+	"molten-quarry": {
+		"name": "Molten Quarry"
+	},
+	"gromgar": {
+		"name": "Grom'gar"
+	},
+	"crimson-fen": {
+		"name": "Crimson Fen"
+	},
+	"iron-docks-non-instanced-6-2-quest-phase": {
+		"name": "Iron Docks (Non-Instanced 6.2 Quest Phase)"
+	},
+	"wanderers-steppe": {
+		"name": "Wanderer's Steppe"
+	},
+	"the-ring-of-glory": {
+		"name": "The Ring of Glory"
+	},
+	"margoks-overwatch": {
+		"name": "Mar'gok's Overwatch"
+	},
+	"witherwind-pass": {
+		"name": "Witherwind Pass"
+	},
+	"bladespire-ravine": {
+		"name": "Bladespire Ravine"
+	},
+	"ironhold-harbor": {
+		"name": "Ironhold Harbor"
+	},
+	"rooters-pass": {
+		"name": "Rooter's Pass"
+	},
+	"the-hidden-grove": {
+		"name": "The Hidden Grove"
+	},
+	"gundrak": {
+		"name": "Gundrak"
+	},
+	"laughing-skull-ruins": {
+		"name": "Laughing Skull Ruins"
+	},
+	"molten-overflow": {
+		"name": "Molten Overflow"
+	},
+	"igiras-watch": {
+		"name": "Igira's Watch"
+	},
+	"suffusion-camp-frostburn": {
+		"name": "Suffusion Camp: Frostburn"
+	},
+	"blackrock-mountain": {
+		"name": "Blackrock Mountain"
+	},
+	"shadowforge-city": {
+		"name": "Shadowforge City"
+	},
+	"tol-barad": {
+		"name": "Tol Barad"
+	},
+	"d-block": {
+		"name": "D-Block"
+	},
+	"felmaw-cavern": {
+		"name": "Felmaw Cavern"
+	},
+	"fiendish-vault": {
+		"name": "Fiendish Vault"
+	},
+	"fields-of-honor": {
+		"name": "Fields of Honor"
+	},
+	"the-flamewake": {
+		"name": "The Flamewake"
+	},
+	"molten-core": {
+		"name": "Molten Core"
+	},
+	"the-violet-hold": {
+		"name": "The Violet Hold"
+	},
+	"blackrock-caverns": {
+		"name": "Blackrock Caverns"
+	},
+	"beautys-lair": {
+		"name": "Beauty's Lair"
+	},
+	"the-scorched-hall": {
+		"name": "The Scorched Hall"
+	},
+	"the-furnace": {
+		"name": "The Furnace"
+	},
+	"blackwing-lair": {
+		"name": "Blackwing Lair"
+	},
+	"chromaggus-is-the-seventh-encounter-of-the-raid": {
+		"name": "Chromaggus is the seventh encounter of the raid."
+	},
+	"blackwing-descent": {
+		"name": "Blackwing Descent"
+	},
+	"waning-crescent": {
+		"name": "Waning Crescent"
+	},
+	"prison-of-immolthar": {
+		"name": "Prison of Immol'thar"
+	},
+	"the-arcatraz": {
+		"name": "The Arcatraz"
+	},
+	"mana-tombs": {
+		"name": "Mana-Tombs"
+	},
+	"pillars-of-fate": {
+		"name": "Pillars of Fate"
+	},
+	"sunwell-plateau": {
+		"name": "Sunwell Plateau"
+	},
+	"baradin-hold": {
+		"name": "Baradin Hold"
+	},
+	"throne-of-kiljaeden": {
+		"name": "Throne of Kil'jaeden"
+	},
+	"den-of-the-devourer": {
+		"name": "Den of the Devourer"
+	},
+	"the-voidspire-voidstorm": {
+		"name": "The Voidspire"
+	},
+	"dreamshrine-basin": {
+		"name": "Dreamshrine Basin"
+	},
+	"gleaming-overlook": {
+		"name": "Gleaming Overlook"
+	},
+	"farondale": {
+		"name": "Farondale"
+	},
+	"eldranil-peak": {
+		"name": "El'dranil Peak"
+	},
+	"azurewing-whelplands": {
+		"name": "Azurewing Whelplands"
+	},
+	"old-drust-road": {
+		"name": "Old Drust Road"
+	},
+	"the-placid-spring": {
+		"name": "The Placid Spring"
+	},
+	"deeprun-tram": {
+		"name": "Deeprun Tram"
+	},
+	"bizmos-brawlpub": {
+		"name": "Bizmo's Brawlpub"
+	},
+	"lake-elrendar": {
+		"name": "Lake Elrendar"
+	},
+	"invasion-point-bonich": {
+		"name": "Invasion Point: Bonich"
+	},
+	"olivian-veil-garden-of-elune": {
+		"name": "Olivian Veil & Garden of Elune"
+	},
+	"aspirants-crucible": {
+		"name": "Aspirant's Crucible"
+	},
+	"freehold": {
+		"name": "Freehold"
+	},
+	"norwington-estate": {
+		"name": "Norwington Estate"
+	},
+	"fionas-caravan": {
+		"name": "Fiona's Caravan"
+	},
+	"rockskip-falls": {
+		"name": "Rockskip Falls"
+	},
+	"granite-springs": {
+		"name": "Granite Springs"
+	},
+	"stormwind": {
+		"name": "Stormwind"
+	},
+	"the-wollerton-stead": {
+		"name": "The Wollerton Stead"
+	},
+	"northridge-lumber-camp": {
+		"name": "Northridge Lumber Camp"
+	},
+	"gilneas": {
+		"name": "Gilneas"
+	},
+	"rustberg-village": {
+		"name": "Rustberg Village"
+	},
+	"shadowfang-keep": {
+		"name": "Shadowfang Keep"
+	},
+	"tarren-mill": {
+		"name": "Tarren Mill"
+	},
+	"westfall-brigade-encampment": {
+		"name": "Westfall Brigade Encampment"
+	},
+	"tidebreak-summit": {
+		"name": "Tidebreak Summit"
+	},
+	"solstice-village": {
+		"name": "Solstice Village"
+	},
+	"atwater-stead": {
+		"name": "Atwater Stead"
+	},
+	"witherfall-ruin": {
+		"name": "Witherfall Ruin"
+	},
+	"hole-in-the-wall": {
+		"name": "Hole in the Wall"
+	},
+	"the-night-market-the-grand-palisade": {
+		"name": "The Night Market & The Grand Palisade"
+	},
+	"darkhaven-ember-ward": {
+		"name": "Darkhaven & Ember Ward"
+	},
+	"cocyrus": {
+		"name": "Cocyrus"
+	},
+	"chapel-yard": {
+		"name": "Chapel Yard"
+	},
+	"livery-stables": {
+		"name": "Livery Stables"
+	},
+	"return-to-karazhan": {
+		"name": "Return to Karazhan"
+	},
+	"livery-stables-return-to-karazhan": {
+		"name": "Livery Stables"
+	},
+	"warspear": {
+		"name": "Warspear"
+	},
+	"largos-overlook-wellson-shipyard": {
+		"name": "Largo's Overlook & Wellson Shipyard"
+	},
+	"endless-sands": {
+		"name": "Endless Sands"
+	},
+	"tailgate-park": {
+		"name": "Tailgate Park"
+	},
+	"slam-central-station": {
+		"name": "Slam Central Station"
+	},
+	"blackwater-marina": {
+		"name": "Blackwater Marina"
+	},
+	"operation-floodgate": {
+		"name": "Operation: Floodgate"
+	},
+	"the-waterworks": {
+		"name": "The Waterworks"
+	},
+	"liberation-of-undermine": {
+		"name": "Liberation of Undermine"
+	},
+	"the-gallagio": {
+		"name": "The Gallagio"
+	},
+	"less-4-more": {
+		"name": "Less-4-More"
+	},
+	"hovel-hill": {
+		"name": "Hovel Hill"
+	},
+	"the-vatworks": {
+		"name": "The Vatworks"
+	},
+	"nazjatar": {
+		"name": "Nazjatar"
+	},
+	"chitterspine-grotto-deepcoil-tunnels": {
+		"name": "Chitterspine Grotto & Deepcoil Tunnels"
+	},
+	"brinestone-cove": {
+		"name": "Brinestone Cove"
+	},
+	"chitterspine-grotto": {
+		"name": "Chitterspine Grotto"
+	},
+	"chitterspine-caverns": {
+		"name": "Chitterspine Caverns"
+	},
+	"dragons-teeth-basin": {
+		"name": "Dragon's Teeth Basin"
+	},
+	"zanjir-terrace-abyssal-pools": {
+		"name": "Zanj'ir Terrace & Abyssal Pools"
+	},
+	"sharpscale-coast": {
+		"name": "Sharpscale Coast"
+	},
+	"longclaw-island": {
+		"name": "Longclaw Island"
+	},
+	"darksand-hollow": {
+		"name": "Darksand Hollow"
+	},
+	"aerie-chasm": {
+		"name": "Aerie Chasm"
+	},
+	"lucid-reef": {
+		"name": "Lucid Reef"
+	},
+	"coral-forest-dragons-teeth-basin": {
+		"name": "Coral Forest & Dragon's Teeth Basin"
+	},
+	"the-faded-shore-bleak-sand": {
+		"name": "The Faded Shore & Bleak Sand"
+	},
+	"briny-flat": {
+		"name": "Briny Flat"
+	},
+	"the-whispering-marsh": {
+		"name": "The Whispering Marsh"
+	},
+	"maedins-challenge": {
+		"name": "Maedin's Challenge"
+	},
+	"talanjis-rebuke": {
+		"name": "Talanji's Rebuke"
+	},
+	"the-shattered-river": {
+		"name": "The Shattered River"
+	},
+	"windswept-coast": {
+		"name": "Windswept Coast"
+	},
+	"anglepoint-wharf-and-tidecross": {
+		"name": "Anglepoint Wharf and Tidecross"
+	},
+	"leval-rock-isle": {
+		"name": "Lev'al Rock Isle"
+	},
+	"sharpscale-coast-aerie-chasm": {
+		"name": "Sharpscale Coast &  Aerie Chasm"
+	},
+	"glimmering-shore": {
+		"name": "Glimmering Shore"
+	},
+	"nalorakks-prowl": {
+		"name": "Nalorakk's Prowl"
+	},
+	"temple-of-janalai": {
+		"name": "Temple of Jan'alai"
+	},
+	"mezzamere": {
+		"name": "Mezzamere"
+	},
+	"tempest-coast": {
+		"name": "Tempest Coast"
+	},
+	"clackbrine-coast": {
+		"name": "Clackbrine Coast"
+	},
+	"tusk-isle": {
+		"name": "Tusk Isle"
+	},
+	"venture-bay": {
+		"name": "Venture Bay"
+	},
+	"orunai-bay": {
+		"name": "Orunai Bay"
+	},
+	"kelpthar-forest": {
+		"name": "Kelp'thar Forest"
+	},
+	"strait-of-hexxalor": {
+		"name": "Strait of Hexx'alor"
+	},
+	"cattail-lake": {
+		"name": "Cattail Lake"
+	},
+	"wetlands": {
+		"name": "Wetlands"
+	},
+	"kiliuas-atoll": {
+		"name": "Kili'ua's Atoll"
+	},
+	"broken-throne": {
+		"name": "Broken Throne"
+	},
+	"stormwind-city": {
+		"name": "Stormwind City"
+	},
+	"blackfathom-deeps": {
+		"name": "Blackfathom Deeps"
+	},
+	"sundered-span": {
+		"name": "Sundered Span"
+	},
+	"the-forgotten-marsh": {
+		"name": "The Forgotten Marsh"
+	},
+	"whalers-nook": {
+		"name": "Whaler's Nook"
+	},
+	"blueshore-prairie": {
+		"name": "Blueshore Prairie"
+	},
+	"the-faded-shore": {
+		"name": "The Faded Shore"
+	},
+	"the-ring-of-glory-the-coiled-isle": {
+		"name": "The Ring of Glory"
+	},
+	"eventide-landing": {
+		"name": "Eventide Landing"
+	},
+	"the-vile-reef": {
+		"name": "The Vile Reef"
+	},
+	"drowned-lands": {
+		"name": "Drowned Lands"
+	},
+	"broken-point": {
+		"name": "Broken Point"
+	},
+	"the-heaps": {
+		"name": "The Heaps"
+	},
+	"the-heaps-alternate-timeline": {
+		"name": "The Heaps (alternate timeline)"
+	},
+	"the-wailing-tideway": {
+		"name": "The Wailing Tideway"
+	},
+	"eventide-delta-seabreeze-shallows": {
+		"name": "Eventide Delta & Seabreeze Shallows"
+	},
+	"crimson-coast": {
+		"name": "Crimson Coast"
+	},
+	"venturewood": {
+		"name": "Venturewood"
+	},
+	"zebahari": {
+		"name": "Zeb'ahari"
+	},
+	"darkwood-shoal": {
+		"name": "Darkwood Shoal"
+	},
+	"shrouded-shore": {
+		"name": "Shrouded Shore"
+	},
+	"mists-edge": {
+		"name": "Mist's Edge"
+	},
+	"abyssal-pool": {
+		"name": "Abyssal Pool"
+	},
+	"timbered-strandby": {
+		"name": "Timbered Strandby"
+	},
+	"bloodfin-village": {
+		"name": "Bloodfin Village"
+	},
+	"gutterville": {
+		"name": "Gutterville"
+	},
+	"path-of-suffering": {
+		"name": "Path of Suffering"
+	},
+	"makrana": {
+		"name": "Mak'rana"
+	},
+	"shimmering-expanse": {
+		"name": "Shimmering Expanse"
+	},
+	"gorgonian-outlook": {
+		"name": "Gorgonian Outlook"
+	},
+	"sunless-strand": {
+		"name": "Sunless Strand"
+	},
+	"legions-rest": {
+		"name": "Legion's Rest"
+	},
+	"abyssal-depths": {
+		"name": "Abyssal Depths"
+	},
+	"bleak-sand": {
+		"name": "Bleak Sand"
+	},
+	"zulaman-depths": {
+		"name": "Zul'Aman Depths"
+	},
+	"zouchin-strand": {
+		"name": "Zouchin Strand"
+	},
+	"scuttlers-coast-the-cave-of-betrayal": {
+		"name": "Scuttler's Coast & The Cave of Betrayal"
+	},
+	"narsong-trench": {
+		"name": "Narsong Trench"
+	},
+	"azuregale-bay": {
+		"name": "Azuregale Bay"
+	},
+	"muddledeep-cavern": {
+		"name": "Muddledeep Cavern"
+	},
+	"the-great-sea": {
+		"name": "The Great Sea"
+	},
+	"the-great-sea-quest-instance": {
+		"name": "The Great Sea (Quest Instance)"
+	},
+	"temple-of-a-thousand-lights": {
+		"name": "Temple of a Thousand Lights"
+	},
+	"the-forgotten-pool": {
+		"name": "The Forgotten Pool"
+	},
+	"newhome": {
+		"name": "Newhome"
+	},
+	"felfire-pass": {
+		"name": "Felfire Pass"
+	},
+	"dead-mans-bay": {
+		"name": "Dead Man's Bay"
+	},
+	"nazagal": {
+		"name": "Naz'agal"
+	},
+	"tanaan-channel-coast": {
+		"name": "Tanaan Channel / Coast"
+	},
+	"suramar-city": {
+		"name": "Suramar City"
+	},
+	"the-motherlode": {
+		"name": "The MOTHERLODE!!"
+	},
+	"nespirah": {
+		"name": "Nespirah"
+	},
+	"forgotten-cove": {
+		"name": "Forgotten Cove"
+	},
+	"tranquil-wash": {
+		"name": "Tranquil Wash"
+	},
+	"shipwreck-cove": {
+		"name": "Shipwreck Cove"
+	},
+	"zandalar": {
+		"name": "Zandalar"
+	},
+	"kul-tiras": {
+		"name": "Kul Tiras"
+	},
+	"murkfathom-reach": {
+		"name": "Murkfathom Reach"
+	},
+	"sundered-shoals": {
+		"name": "Sundered Shoals"
+	},
+	"gilded-fan": {
+		"name": "Gilded Fan"
+	},
+	"gloaming-reef": {
+		"name": "Gloaming Reef"
+	},
+	"mortbreath-grotto": {
+		"name": "Mortbreath Grotto"
+	},
+	"mirror-lake": {
+		"name": "Mirror Lake"
+	},
+	"the-rivermarsh": {
+		"name": "The Rivermarsh"
+	},
+	"upper-frogmarsh": {
+		"name": "Upper Frogmarsh"
+	},
+	"whitepetal-lake": {
+		"name": "Whitepetal Lake"
+	},
+	"gilded-fan-near-new-cifera": {
+		"name": "Gilded Fan near New Cifera"
+	},
+	"burial-mound": {
+		"name": "Burial Mound"
+	},
+	"coldbite-burrow": {
+		"name": "Coldbite Burrow"
+	},
+	"nazwatha": {
+		"name": "Nazwatha"
+	},
+	"sodden-depths": {
+		"name": "Sodden Depths"
+	},
+	"atalaman-zulaman": {
+		"name": "Atal'Aman"
+	},
+	"sodden-depths-alliance-intro-phase": {
+		"name": "Sodden Depths (Alliance intro phase)"
+	},
+	"wailing-caverns": {
+		"name": "Wailing Caverns"
+	},
+	"maraudon": {
+		"name": "Maraudon"
+	},
+	"zaetars-grave": {
+		"name": "Zaetar's Grave"
+	},
+	"nordrassil-roots": {
+		"name": "Nordrassil Roots"
+	},
+	"harathir": {
+		"name": "Har'athir"
+	},
+	"gloom-mire": {
+		"name": "Gloom Mire"
+	},
+	"the-dreadmire": {
+		"name": "The Dreadmire"
+	},
+	"ataldazar": {
+		"name": "Atal'Dazar"
+	},
+	"sacrificial-pits": {
+		"name": "Sacrificial Pits"
+	},
+	"the-fallen-outpost": {
+		"name": "The Fallen Outpost"
+	},
+	"uroks-lair": {
+		"name": "Urok's Lair"
+	},
+	"lair-of-rezan": {
+		"name": "Lair of Rezan"
+	},
+	"the-necropolis": {
+		"name": "The Necropolis"
+	},
+	"isle-of-giants": {
+		"name": "Isle of Giants"
+	},
+	"temple-of-rezan": {
+		"name": "Temple of Rezan"
+	},
+	"dazaralor": {
+		"name": "Dazar'alor"
+	},
+	"the-preserve": {
+		"name": "The Preserve"
+	},
+	"xibala": {
+		"name": "Xibala"
+	},
+	"diremoor": {
+		"name": "Diremoor"
+	},
+	"port-of-zandalar-horde-intro-phase": {
+		"name": "Port of Zandalar (Horde intro phase)"
+	},
+	"ungoro-crater-the-emerald-nightmare": {
+		"name": "Un'Goro Crater"
+	},
+	"terror-run": {
+		"name": "Terror Run"
+	},
+	"savagelands": {
+		"name": "Savagelands"
+	},
+	"sueshs-lair": {
+		"name": "Su'esh's Lair"
+	},
+	"ancient-falls": {
+		"name": "Ancient Falls"
+	},
+	"the-menagerie-siege-of-orgrimmar": {
+		"name": "The Menagerie"
+	},
+	"raptor-pens": {
+		"name": "Raptor Pens"
+	},
+	"ahlua-wetland": {
+		"name": "Ahl'ua Wetland"
+	},
+	"savagelands-kwathari-wildlands": {
+		"name": "Savagelands & Kwathari Wildlands"
+	},
+	"gloomwater-span": {
+		"name": "Gloomwater Span"
+	},
+	"plains-of-tojek": {
+		"name": "Plains of Tojek"
+	},
+	"violet-rise": {
+		"name": "Violet Rise"
+	},
+	"antulmita-plateau": {
+		"name": "Antul'Mita Plateau"
+	},
+	"the-beast-pens": {
+		"name": "The Beast Pens"
+	},
+	"windrunner-spire-eversong-woods": {
+		"name": "Windrunner Spire"
+	},
+	"sunset-strand": {
+		"name": "Sunset Strand"
+	},
+	"leech-bog": {
+		"name": "Leech Bog"
+	},
+	"sanctum-of-the-sun": {
+		"name": "Sanctum of the Sun"
+	},
+	"hermits-mooring": {
+		"name": "Hermit's Mooring"
+	},
+	"firewing-terrace": {
+		"name": "Firewing Terrace"
+	},
+	"sunsail-anchorage": {
+		"name": "Sunsail Anchorage"
+	},
+	"solaarian-sunbath": {
+		"name": "Solaarian Sunbath"
+	},
+	"shado-pan-garrison": {
+		"name": "Shado-Pan Garrison"
+	},
+	"the-botanica": {
+		"name": "The Botanica"
+	},
+	"deadfine-mire": {
+		"name": "Deadfine Mire"
+	},
+	"algerson-lumber-yard": {
+		"name": "Algerson Lumber Yard"
+	},
+	"razorwing-shores": {
+		"name": "Razorwing Shores"
+	},
+	"dhar-durgaz": {
+		"name": "Dhar Durgaz"
+	},
+	"dhar-oztan": {
+		"name": "Dhar Oztan"
+	},
+	"dreamsurge-basin": {
+		"name": "Dreamsurge Basin"
+	},
+	"viridescent-thicket-haven-cascades": {
+		"name": "Viridescent Thicket & Haven Cascades"
+	},
+	"primordial-vale": {
+		"name": "Primordial Vale"
+	},
+	"aerie-chasm-skyfox-den": {
+		"name": "Aerie Chasm & Skyfox Den"
+	},
+	"kauriq-gleamlet": {
+		"name": "Kauriq Gleamlet"
+	},
+	"heros-rest": {
+		"name": "Hero's Rest"
+	},
+	"the-golden-pasture": {
+		"name": "The Golden Pasture"
+	},
+	"vestibule-of-eternity": {
+		"name": "Vestibule of Eternity"
+	},
+	"puritys-reflection": {
+		"name": "Purity's Reflection"
+	},
+	"the-eonian-archives": {
+		"name": "The Eonian Archives"
+	},
+	"nemeas-retreat": {
+		"name": "Nemea's Retreat"
+	},
+	"hall-of-beasts": {
+		"name": "Hall of Beasts"
+	},
+	"kalas-den": {
+		"name": "Kala's Den"
+	},
+	"spires-of-ascension": {
+		"name": "Spires of Ascension"
+	},
+	"the-nighthold": {
+		"name": "The Nighthold"
+	},
+	"nightspire": {
+		"name": "Nightspire"
+	},
+	"frayfeather-highlands": {
+		"name": "Frayfeather Highlands"
+	},
+	"lorlathil": {
+		"name": "Lorlathil"
+	},
+	"moon-guard-stronghold": {
+		"name": "Moon Guard Stronghold"
+	},
+	"black-rook-hold-non-instanced": {
+		"name": "Black Rook Hold (Non-Instanced)"
+	},
+	"nightsong-woods": {
+		"name": "Nightsong Woods"
+	},
+	"ruins-of-isildien": {
+		"name": "Ruins of Isildien"
+	},
+	"fort-wildervar": {
+		"name": "Fort Wildervar"
+	},
+	"various": {
+		"name": "Various"
+	},
+	"the-nighthold-non-instanced": {
+		"name": "The Nighthold (non-instanced)"
+	},
+	"olivian-veil": {
+		"name": "Olivian Veil"
+	},
+	"irongrove-retreat": {
+		"name": "Irongrove Retreat"
+	},
+	"theramores-fall": {
+		"name": "Theramore's Fall"
+	},
+	"placid-spring-brokenbough-roost": {
+		"name": "Placid Spring & Brokenbough Roost"
+	},
+	"stormheim-intro-quest-for-alliance": {
+		"name": "Stormheim intro quest for Alliance"
+	},
+	"stormheim-intro-quest-for-horde": {
+		"name": "Stormheim intro quest for Horde"
+	},
+	"roughneck-camp": {
+		"name": "Roughneck Camp"
+	},
+	"anglepoint-bay": {
+		"name": "Anglepoint Bay"
+	},
+	"outrigger-point": {
+		"name": "Outrigger Point"
+	},
+	"hatherford": {
+		"name": "Hatherford"
+	},
+	"winds-redemption-in-boralus": {
+		"name": "Wind's Redemption in Boralus"
+	},
+	"highland-pass": {
+		"name": "Highland Pass"
+	},
+	"dragonscale-basecamp": {
+		"name": "Dragonscale Basecamp"
+	},
+	"dragonscale-camp": {
+		"name": "Dragonscale Camp"
+	},
+	"gelikyr-gardens-tyrhold-reservoir": {
+		"name": "Gelikyr Gardens & Tyrhold Reservoir"
+	},
+	"dire-hills-lodge": {
+		"name": "Dire Hills Lodge"
+	},
+	"howling-isles": {
+		"name": "Howling Isles"
+	},
+	"mirkfallon-lake": {
+		"name": "Mirkfallon Lake"
+	},
+	"highperch": {
+		"name": "Highperch"
+	},
+	"windshear-heights": {
+		"name": "Windshear Heights"
+	},
+	"eco-dome-rhovan": {
+		"name": "Eco-Dome: Rhovan"
+	},
+	"vault-of-secrets": {
+		"name": "Vault of Secrets"
+	},
+	"hopes-ascent": {
+		"name": "Hope's Ascent"
+	},
+	"wintergarde-keep": {
+		"name": "Wintergarde Keep"
+	},
+	"deaths-rise": {
+		"name": "Death's Rise"
+	},
+	"the-shadow-vault": {
+		"name": "The Shadow Vault"
+	},
+	"trial-of-the-champion": {
+		"name": "Trial of the Champion"
+	},
+	"deliverance-point": {
+		"name": "Deliverance Point"
+	},
+	"ruins-of-yaathron": {
+		"name": "Ruins of Yaathron"
+	},
+	"heartwood-grove-spirit-glen": {
+		"name": "Heartwood Grove & Spirit Glen"
+	},
+	"heartwood-grove-crumbled-ridge": {
+		"name": "Heartwood Grove & Crumbled Ridge"
+	},
+	"emerald-glade-dreamshrine-basin": {
+		"name": "Emerald Glade & Dreamshrine Basin"
+	},
+	"renards-den": {
+		"name": "Renard's Den"
+	},
+	"garden-of-night": {
+		"name": "Garden of Night"
+	},
+	"kalliopes-rest": {
+		"name": "Kalliope's Rest"
+	},
+	"soryns-meadow": {
+		"name": "Soryn's Meadow"
+	},
+	"heart-of-the-forest": {
+		"name": "Heart of the Forest"
+	},
+	"dreamsong-fenn": {
+		"name": "Dreamsong Fenn"
+	},
+	"northern-headlands": {
+		"name": "Northern Headlands"
+	},
+	"ashenwood-grove-doesnt-retain-back-mushrooms-after-taming": {
+		"name": "Ashenwood Grove. Doesn't retain back mushrooms after taming"
+	},
+	"tidebreak-foothills": {
+		"name": "Tidebreak Foothills"
+	},
+	"whitewater-wash": {
+		"name": "Whitewater Wash"
+	},
+	"rhutvan-divide": {
+		"name": "Rhut'van Divide"
+	},
+	"eastpoint-station": {
+		"name": "Eastpoint Station"
+	},
+	"rockskip-woodlands": {
+		"name": "Rockskip Woodlands"
+	},
+	"vigil-hill": {
+		"name": "Vigil Hill"
+	},
+	"the-wild-plains": {
+		"name": "The Wild Plains"
+	},
+	"snowblind-cliffs-mesa": {
+		"name": "Snowblind Cliffs / Mesa"
+	},
+	"jaguero-isle": {
+		"name": "Jaguero Isle"
+	},
+	"spirit-den": {
+		"name": "Spirit Den"
+	},
+	"gorilla-gorge": {
+		"name": "Gorilla Gorge"
+	},
+	"greatwood-vale": {
+		"name": "Greatwood Vale"
+	},
+	"village-in-the-vines": {
+		"name": "Village in the Vines"
+	},
+	"old-merchant-road": {
+		"name": "Old Merchant Road"
+	},
+	"winds-redemption-quest-phase": {
+		"name": "Wind's Redemption (Quest Phase)"
+	},
+	"battle-of-dazaralor": {
+		"name": "Battle of Dazar'alor"
+	},
+	"stoneshapers-atrium-dornogal": {
+		"name": "Stoneshaper's Atrium - Dornogal"
+	},
+	"the-foregrounds-dornogal": {
+		"name": "The Foregrounds - Dornogal"
+	},
+	"dar-kazhad": {
+		"name": "Dar Kazhad"
+	},
+	"fallside-outpost": {
+		"name": "Fallside Outpost"
+	},
+	"ruszathar-reach": {
+		"name": "Rusza'thar Reach"
+	},
+	"mirror-of-the-sky": {
+		"name": "Mirror of the Sky"
+	},
+	"the-mallakh": {
+		"name": "The Mallakh"
+	},
+	"cave-dwellers": {
+		"name": "Cave Dwellers"
+	},
+	"hornswog-grounds-ebon-landing": {
+		"name": "Hornswog Grounds & Ebon Landing"
+	},
+	"stormsunder-crater": {
+		"name": "Stormsunder Crater"
+	},
+	"thunderspine-ridge": {
+		"name": "Thunderspine Ridge"
+	},
+	"pinewood-post": {
+		"name": "Pinewood Post"
+	},
+	"the-tundrid-hills": {
+		"name": "The Tundrid Hills"
+	},
+	"fuselight": {
+		"name": "Fuselight"
+	},
+	"webwinder-path": {
+		"name": "Webwinder Path"
+	},
+	"the-burlap-trail": {
+		"name": "The Burlap Trail"
+	},
+	"millstone-hamlet": {
+		"name": "Millstone Hamlet"
+	},
+	"camp-nowhere": {
+		"name": "Camp Nowhere"
+	},
+	"knucklethump-hole": {
+		"name": "Knucklethump Hole"
+	},
+	"the-spring-road": {
+		"name": "The Spring Road"
+	},
+	"tavern-in-the-mists": {
+		"name": "Tavern in the Mists"
+	},
+	"nesingwarys-retreat": {
+		"name": "Nesingwary's Retreat"
+	},
+	"hillcrest-pasture": {
+		"name": "Hillcrest Pasture"
+	},
+	"sanguine-grasps": {
+		"name": "Sanguine Grasps"
+	},
+	"rumshackle": {
+		"name": "Rumshackle"
+	},
+	"sprucewood": {
+		"name": "Sprucewood"
+	},
+	"kota-peak": {
+		"name": "Kota Peak"
+	},
+	"fungal-cleft": {
+		"name": "Fungal Cleft"
+	},
+	"vale-of-mists-blossoming-terrace": {
+		"name": "Vale of Mists & Blossoming Terrace"
+	},
+	"shrouded-grove": {
+		"name": "Shrouded Grove"
+	},
+	"shimmermist-falls": {
+		"name": "Shimmermist Falls"
+	},
+	"stagnant-mire": {
+		"name": "Stagnant Mire"
+	},
+	"abyssal-excavation": {
+		"name": "Abyssal Excavation"
+	},
+	"cinderbrew-meadery": {
+		"name": "Cinderbrew Meadery"
+	},
+	"the-warrens-chittering-den": {
+		"name": "The Warrens & Chittering Den"
+	},
+	"the-verdant-gutters": {
+		"name": "The Verdant Gutters"
+	},
+	"the-heaps-undermine": {
+		"name": "The Heaps"
+	},
+	"the-pulsing-pit": {
+		"name": "The Pulsing Pit"
+	},
+	"naitheren-grotto-harmara": {
+		"name": "Nai'theren Grotto & Har'mara"
+	},
+	"chittering-den": {
+		"name": "Chittering Den"
+	},
+	"the-living-grotto": {
+		"name": "The Living Grotto"
+	},
+	"dam-service-tunnel": {
+		"name": "Dam Service Tunnel"
+	},
+	"the-shadow-enclave": {
+		"name": "The Shadow Enclave"
+	},
+	"lightless-channels": {
+		"name": "Lightless Channels"
+	},
+	"the-waterworks-the-ringing-deeps": {
+		"name": "The Waterworks"
+	},
+	"eternal-watch": {
+		"name": "Eternal Watch"
+	},
+	"gromit-hollow": {
+		"name": "Gromit Hollow"
+	},
+	"keepers-respite": {
+		"name": "Keeper's Respite"
+	},
+	"maulers-outlook": {
+		"name": "Mauler's Outlook"
+	},
+	"glitterfall-heights": {
+		"name": "Glitterfall Heights"
+	},
+	"ballroom": {
+		"name": "Ballroom"
+	},
+	"frogmarsh": {
+		"name": "Frogmarsh"
+	},
+	"kragwas-shore": {
+		"name": "Krag'wa's Shore"
+	},
+	"darkwood-shoal-shrouded-shore": {
+		"name": "Darkwood Shoal & Shrouded Shore"
+	},
+	"stillwhisper-pond": {
+		"name": "Stillwhisper Pond"
+	},
+	"atalabasi": {
+		"name": "Atal'Abasi"
+	},
+	"zebnowa": {
+		"name": "Zeb'Nowa"
+	},
+	"lake-eldendar": {
+		"name": "Lake Eldendar"
+	},
+	"the-cursed-woods": {
+		"name": "The Cursed Woods"
+	},
+	"vile-cavern": {
+		"name": "Vile Cavern"
+	},
+	"the-shimmer-moor": {
+		"name": "The Shimmer Moor"
+	},
+	"croaking-hollow": {
+		"name": "Croaking Hollow"
+	},
+	"forge-of-aeons": {
+		"name": "Forge of Aeons"
+	},
+	"the-nightmarsh": {
+		"name": "The Nightmarsh"
+	},
+	"kragwas-burrow": {
+		"name": "Krag'wa's Burrow"
+	},
+	"haven": {
+		"name": "Haven"
+	},
+	"exiles-hollow": {
+		"name": "Exile's Hollow"
+	},
+	"toghusuq-village": {
+		"name": "Toghusuq Village"
+	},
+	"therons-watch": {
+		"name": "Theron's Watch"
+	},
+	"algethera": {
+		"name": "Algeth'era"
+	},
+	"cloverwood-hollow": {
+		"name": "Cloverwood Hollow"
+	},
+	"caverns-of-time": {
+		"name": "Caverns of Time"
+	},
+	"the-kindling-parlor": {
+		"name": "The Kindling Parlor"
+	},
+	"imbu": {
+		"name": "Imbu"
+	},
+	"helgarde-keep": {
+		"name": "Helgarde Keep"
+	},
+	"stonevigil-overlook": {
+		"name": "Stonevigil Overlook"
+	},
+	"trial-of-valor": {
+		"name": "Trial of Valor"
+	},
+	"the-eternal-battlefield": {
+		"name": "The Eternal Battlefield"
+	},
+	"crucible-of-the-damned-planes-of-torment": {
+		"name": "Crucible of the Damned & Planes of Torment"
+	},
+	"detrithos": {
+		"name": "Detrithos"
+	},
+	"the-tremaculum-detrithos": {
+		"name": "The Tremaculum & Detrithos"
+	},
+	"perdition-hold": {
+		"name": "Perdition Hold"
+	},
+	"planes-of-torment": {
+		"name": "Planes of Torment"
+	},
+	"skoldus-hall": {
+		"name": "Skoldus Hall"
+	},
+	"sanctum-of-domination": {
+		"name": "Sanctum of Domination"
+	},
+	"desmotaeron": {
+		"name": "Desmotaeron"
+	},
+	"ruins-cradle": {
+		"name": "Ruin's Cradle"
+	},
+	"protoform-repository": {
+		"name": "Protoform Repository"
+	},
+	"barrowknoll-cemetary": {
+		"name": "Barrowknoll Cemetary"
+	},
+	"the-naglfar": {
+		"name": "The Naglfar"
+	},
+	"blind-marshlands": {
+		"name": "Blind Marshlands"
+	},
+	"haustvald-the-eternal-battlefield": {
+		"name": "Haustvald & The Eternal Battlefield"
+	},
+	"the-burning-front": {
+		"name": "The Burning Front"
+	},
+	"west-of-tomb-of-lights": {
+		"name": "West of Tomb of Lights"
+	},
+	"icescar-boneyard": {
+		"name": "Icescar Boneyard"
+	},
+	"bloodhunt-highland": {
+		"name": "Bloodhunt Highland"
+	},
+	"court-of-souls": {
+		"name": "Court of Souls"
+	},
+	"argus": {
+		"name": "Argus"
+	},
+	"invasions": {
+		"name": "Invasions"
+	},
+	"the-pit-of-agony": {
+		"name": "The Pit of Agony"
+	},
+	"gloomshore": {
+		"name": "Gloomshore"
+	},
+	"telmor": {
+		"name": "Telmor"
+	},
+	"gulrok": {
+		"name": "Gul'rok"
+	},
+	"felborne-outpost": {
+		"name": "Felborne Outpost"
+	},
+	"ragefire-chasm": {
+		"name": "Ragefire Chasm"
+	},
+	"ashen-fields": {
+		"name": "Ashen Fields"
+	},
+	"the-molten-flow": {
+		"name": "The Molten Flow"
+	},
+	"the-secrets-of-ragefire": {
+		"name": "The Secrets of Ragefire"
+	},
+	"horde-airship": {
+		"name": "Horde Airship"
+	},
+	"tidecross": {
+		"name": "Tidecross"
+	},
+	"the-scullery": {
+		"name": "The Scullery"
+	},
+	"zovaals-cauldron": {
+		"name": "Zovaal's Cauldron"
+	},
+	"the-grimoirium": {
+		"name": "The Grimoirium"
+	},
+	"challengers-promenade": {
+		"name": "Challenger's Promenade"
+	},
+	"corprethar": {
+		"name": "Corp'rethar"
+	},
+	"the-underhalls": {
+		"name": "The Underhalls"
+	},
+	"construct-quarter": {
+		"name": "Construct Quarter"
+	},
+	"the-sunwell": {
+		"name": "The Sunwell"
+	},
+	"shrine-of-the-eclipse": {
+		"name": "Shrine of the Eclipse"
+	},
+	"vengeance-landing": {
+		"name": "Vengeance Landing"
+	},
+	"ember-ward": {
+		"name": "Ember Ward"
+	},
+	"garrens-haunt": {
+		"name": "Garren's Haunt"
+	},
+	"dredgewood-the-banewood": {
+		"name": "Dredgewood & The Banewood"
+	},
+	"the-aegis-wal": {
+		"name": "The Aegis Wal"
+	},
+	"arathi-basin": {
+		"name": "Arathi Basin"
+	},
+	"grove-of-terror-muck-pool-banewood": {
+		"name": "Grove of Terror & Muck Pool: Banewood"
+	},
+	"the-harrowing-depths": {
+		"name": "The Harrowing Depths"
+	},
+	"hall-of-chains-separation-chamber": {
+		"name": "Hall of Chains & Separation Chamber"
+	},
+	"house-of-constructs": {
+		"name": "House of Constructs"
+	},
+	"ossein-foundry": {
+		"name": "Ossein Foundry"
+	},
+	"stormglen-village": {
+		"name": "Stormglen Village"
+	},
+	"pyrox-flats": {
+		"name": "Pyrox Flats"
+	},
+	"chandlery-wharf": {
+		"name": "Chandlery Wharf"
+	},
+	"greywatch": {
+		"name": "Greywatch"
+	},
+	"the-crescent-vale": {
+		"name": "The Crescent Vale"
+	},
+	"northfold-manor": {
+		"name": "Northfold Manor"
+	},
+	"archmage-overwatch": {
+		"name": "Archmage Overwatch"
+	},
+	"mangrove-shore": {
+		"name": "Mangrove Shore"
+	},
+	"by-a-house-on-the-western-edge-of-the-amber-waves": {
+		"name": "by a house on the western edge of The Amber Waves"
+	},
+	"scarlet-monastery": {
+		"name": "Scarlet Monastery"
+	},
+	"scarlet-halls": {
+		"name": "Scarlet Halls"
+	},
+	"the-nexus": {
+		"name": "The Nexus"
+	},
+	"angorosh-ruins": {
+		"name": "Ango'rosh Ruins"
+	},
+	"wreck-of-pakus-talon": {
+		"name": "Wreck of Paku's Talon"
+	},
+	"blistering-terrace": {
+		"name": "Blistering Terrace"
+	},
+	"the-shadowed-crucible": {
+		"name": "the Shadowed Crucible"
+	},
+	"molten-crucible": {
+		"name": "Molten Crucible"
+	},
+	"shadowmoon-valley": {
+		"name": "Shadowmoon Valley"
+	},
+	"blademoon-bloom": {
+		"name": "Blademoon Bloom"
+	},
+	"ampitheater-of-annihilation": {
+		"name": "Ampitheater of Annihilation"
+	},
+	"saltherils-haven": {
+		"name": "Saltheril's Haven"
+	},
+	"collegiate-calamity": {
+		"name": "Collegiate Calamity"
+	},
+	"nagrand": {
+		"name": "Nagrand"
+	},
+	"ring-of-blood": {
+		"name": "Ring of Blood"
+	},
+	"iyun-weald": {
+		"name": "Iyun Weald"
+	},
+	"naielles-watch": {
+		"name": "Naielle's Watch"
+	},
+	"cerulean-lagoon": {
+		"name": "Cerulean Lagoon"
+	},
+	"tirna-vaal": {
+		"name": "Tirna Vaal"
+	},
+	"moiras-reach": {
+		"name": "Moira's Reach"
+	},
+	"thornmire": {
+		"name": "Thornmire"
+	},
+	"emerald-dream": {
+		"name": "Emerald Dream"
+	},
+	"affliction-ridge": {
+		"name": "Affliction Ridge"
+	},
+	"steamscar-rise": {
+		"name": "Steamscar Rise"
+	},
+	"lunarfall": {
+		"name": "Lunarfall"
+	},
+	"cracked-coast": {
+		"name": "Cracked Coast"
+	},
+	"nexus-point-xenas-voidstorm": {
+		"name": "Nexus-Point Xenas"
+	},
+	"stormarion-citadel": {
+		"name": "Stormarion Citadel"
+	},
+	"void-acropolis": {
+		"name": "Void Acropolis"
+	},
+	"the-howling-ridge": {
+		"name": "The Howling Ridge"
+	},
+	"gallery-of-failures": {
+		"name": "Gallery of Failures"
+	},
+	"ashen-strand": {
+		"name": "Ashen Strand"
+	},
+	"growling-hollow": {
+		"name": "Growling Hollow"
+	},
+	"south-sea": {
+		"name": "South Sea"
+	},
+	"doomtide-cove": {
+		"name": "Doomtide Cove"
+	},
+	"talgurub": {
+		"name": "Tal'gurub"
+	},
+	"the-writhing-mire": {
+		"name": "The Writhing Mire"
+	},
+	"the-south-sea-south-of-windroc-bay": {
+		"name": "The South Sea (south of Windroc Bay)"
+	},
+	"lernaen-shore-and-the-south-sea-south-of-windroc-bay": {
+		"name": "Lernaen Shore and The South Sea (south of Windroc Bay)"
+	},
+	"lernaen-shore-and-windroc-bay": {
+		"name": "Lernaen Shore and Windroc Bay"
+	},
+	"vashjir": {
+		"name": "Vashj'ir"
+	},
+	"shimmering-expanse-vashjir": {
+		"name": "Shimmering Expanse"
+	},
+	"gangameshs-den": {
+		"name": "Gangamesh's Den"
+	},
+	"echidnean-shelf": {
+		"name": "Echidnean Shelf"
+	},
+	"beach-east-of-everbloom-wilds": {
+		"name": "Beach east of Everbloom Wilds"
+	},
+	"gordal-fortress": {
+		"name": "Gordal Fortress"
+	},
+	"driftwood-shore": {
+		"name": "Driftwood Shore"
+	},
+	"spears-of-azshara": {
+		"name": "Spears of Azshara"
+	},
+	"the-underbog": {
+		"name": "The Underbog"
+	},
+	"bittertide-lake": {
+		"name": "Bittertide Lake"
+	},
+	"the-zoram-strand": {
+		"name": "The Zoram Strand"
+	},
+	"fungal-folly": {
+		"name": "Fungal Folly"
+	},
+	"sidestreet-sluice": {
+		"name": "Sidestreet Sluice"
+	},
+	"venture-plaza": {
+		"name": "Venture Plaza"
+	},
+	"the-eternal-spring": {
+		"name": "The Eternal Spring"
+	},
+	"arid-basin": {
+		"name": "Arid Basin"
+	},
+	"timbertooth-trail": {
+		"name": "Timbertooth Trail"
+	},
+	"big-tree-hills": {
+		"name": "Big Tree Hills"
+	},
+	"snowhide-camp": {
+		"name": "Snowhide Camp"
+	},
+	"brackenhide-waterhole": {
+		"name": "Brackenhide Waterhole"
+	},
+	"darktooth-pond": {
+		"name": "Darktooth Pond"
+	},
+	"the-verdant-gutters-gutterside-rocket-station": {
+		"name": "The Verdant Gutters & Gutterside Rocket Station"
+	},
+	"bouldered-bluffs": {
+		"name": "Bouldered Bluffs"
+	},
+	"exiles-enclave": {
+		"name": "Exiles' Enclave"
+	},
+	"dreadmaul-outpost": {
+		"name": "Dreadmaul Outpost"
+	},
+	"scarlet-monastery-old": {
+		"name": "Scarlet Monastery - Old"
+	},
+	"huntsmans-cloister": {
+		"name": "Huntsman's Cloister"
+	},
+	"broken-commons": {
+		"name": "Broken Commons"
+	},
+	"shallow-crossing": {
+		"name": "Shallow Crossing"
+	},
+	"rootwoven-strand": {
+		"name": "Rootwoven Strand"
+	},
+	"rayewood-retreat": {
+		"name": "Rayewood Retreat"
+	},
+	"stonetalon-peak": {
+		"name": "Stonetalon Peak"
+	},
+	"ruins-of-eldrethar": {
+		"name": "Ruins of Eldre'thar"
+	},
+	"dire-maul-west": {
+		"name": "Dire Maul West"
+	},
+	"fey-landing": {
+		"name": "Fey Landing"
+	},
+	"arbor-glen": {
+		"name": "Arbor Glen"
+	},
+	"ancient-bough-thaldraszus": {
+		"name": "Ancient Bough"
+	},
+	"woods-of-the-lost": {
+		"name": "Woods of the Lost"
+	},
+	"shanze-dao": {
+		"name": "Shan'ze Dao"
+	},
+	"de-other-side": {
+		"name": "De Other Side"
+	},
+	"mistveil-tangle-mists-of-tirna-scithe": {
+		"name": "Mistveil Tangle"
+	},
+	"the-cascades": {
+		"name": "The Cascades"
+	},
+	"camp-antonidas": {
+		"name": "Camp Antonidas"
+	},
+	"azure-archives": {
+		"name": "Azure Archives"
+	},
+	"hornswog-hollow": {
+		"name": "Hornswog Hollow"
+	},
+	"apex-canopy-dragonbane-keep": {
+		"name": "Apex Canopy & Dragonbane Keep"
+	},
+	"hornswog-grounds": {
+		"name": "Hornswog Grounds"
+	},
+	"cliffdrip-cave": {
+		"name": "Cliffdrip Cave"
+	},
+	"overflowing-rapids": {
+		"name": "Overflowing Rapids"
+	},
+	"upper-frostlands": {
+		"name": "Upper Frostlands"
+	},
+	"winterbough-glade": {
+		"name": "Winterbough Glade"
+	},
+	"mount-neverest": {
+		"name": "Mount Neverest"
+	},
+	"the-arboretum": {
+		"name": "The Arboretum"
+	},
+	"windward-isle": {
+		"name": "Windward Isle"
+	},
+	"the-foot-of-lei-shen": {
+		"name": "The Foot of Lei Shen"
+	},
+	"the-fall-of-shan-bu-isle-of-thunder": {
+		"name": "The Fall of Shan Bu (Isle of Thunder)"
+	},
+	"the-foot-of-lei-shen-the-fall-of-shan-bu-isle-of-thunder": {
+		"name": "The Foot of Lei Shen"
+	},
+	"guo-lai-halls": {
+		"name": "Guo-Lai Halls"
+	},
+	"the-hall-of-the-serpent": {
+		"name": "The Hall of the Serpent"
+	},
+	"mistfall-village": {
+		"name": "Mistfall Village"
+	},
+	"the-golden-stair": {
+		"name": "The Golden Stair"
+	},
+	"gate-of-the-august-celestials": {
+		"name": "Gate of the August Celestials"
+	},
+	"shado-pan-monastery": {
+		"name": "Shado-Pan Monastery"
+	},
+	"cloudstrike-dojo": {
+		"name": "Cloudstrike Dojo"
+	},
+	"terrace-of-endless-spring": {
+		"name": "Terrace of Endless Spring"
+	},
+	"the-celestial-court": {
+		"name": "The Celestial Court"
+	},
+	"the-draakorium": {
+		"name": "The Draakorium"
+	},
+	"twilight-glade": {
+		"name": "Twilight Glade"
+	},
+	"highpass": {
+		"name": "Highpass"
+	},
+	"shattrath-city": {
+		"name": "Shattrath City"
+	},
+	"verdant-landing": {
+		"name": "Verdant Landing"
+	},
+	"thresh-cove": {
+		"name": "Thresh Cove"
+	},
+	"the-ring-of-glory-the-whispering-marsh": {
+		"name": "The Ring of Glory & The Whispering Marsh"
+	},
+	"twilight-crypts": {
+		"name": "Twilight Crypts"
+	},
+	"ofis-hut": {
+		"name": "Ofi's Hut"
+	},
+	"funerary-coast": {
+		"name": "Funerary Coast"
+	},
+	"thunderspine-thicket": {
+		"name": "Thunderspine Thicket"
+	},
+	"singing-fen": {
+		"name": "Singing Fen"
+	},
+	"sulfur-wastes-acidbite-ravine": {
+		"name": "Sulfur Wastes & Acidbite Ravine"
+	},
+	"szar-skeleth": {
+		"name": "Szar Skeleth"
+	},
+	"blueshore-prairie-lilac-ramble": {
+		"name": "Blueshore Prairie & Lilac Ramble"
+	},
+	"reedwhistle-bay": {
+		"name": "Reedwhistle Bay"
+	},
+	"the-grudge-pit": {
+		"name": "The Grudge Pit"
+	},
+	"kalmethir": {
+		"name": "Kal'methir"
+	},
+	"naranan": {
+		"name": "Nar'anan"
+	},
+	"zanjir-terrace": {
+		"name": "Zanj'ir Terrace"
+	},
+	"alashir-spire": {
+		"name": "Alashir Spire"
+	},
+	"ritual-site-daggerspine-point": {
+		"name": "Ritual Site: Daggerspine Point"
+	},
+	"naranan-world-quest-phase": {
+		"name": "Nar'anan (world quest phase)"
+	},
+	"flotsam-shoal": {
+		"name": "Flotsam Shoal"
+	},
+	"daggerspine-landing": {
+		"name": "Daggerspine Landing"
+	},
+	"tranquillien": {
+		"name": "Tranquillien"
+	},
+	"dewscale-grotto": {
+		"name": "Dewscale Grotto"
+	},
+	"whistlebloom-oasis": {
+		"name": "Whistlebloom Oasis"
+	},
+	"scalespine-hill": {
+		"name": "Scalespine Hill"
+	},
+	"shatterstone-harbor": {
+		"name": "Shatterstone Harbor"
+	},
+	"scrapbone-den": {
+		"name": "Scrapbone Den"
+	},
+	"operation-mechagon": {
+		"name": "Operation: Mechagon"
+	},
+	"scrapbone-den-operation-mechagon": {
+		"name": "Scrapbone Den"
+	},
+	"westwind-weald-dewscale-grotto": {
+		"name": "Westwind Weald & Dewscale Grotto"
+	},
+	"fogcliff-strand": {
+		"name": "Fogcliff Strand"
+	},
+	"deathmist-hills": {
+		"name": "Deathmist Hills"
+	},
+	"kazai": {
+		"name": "Kazai"
+	},
+	"scavengers-strand": {
+		"name": "Scavenger's Strand"
+	},
+	"sunken-path": {
+		"name": "Sunken Path"
+	},
+	"mistfall-cleft": {
+		"name": "Mistfall Cleft"
+	},
+	"sourback-hideout": {
+		"name": "Sourback Hideout"
+	},
+	"blood-coast": {
+		"name": "Blood Coast"
+	},
+	"warport-rastari": {
+		"name": "Warport Rastari"
+	},
+	"sethrak-front": {
+		"name": "Sethrak Front"
+	},
+	"camp-murroch": {
+		"name": "Camp Murroch"
+	},
+	"taelloch-mine": {
+		"name": "Taelloch Mine"
+	},
+	"mariners-row": {
+		"name": "Mariner's Row"
+	},
+	"the-slough": {
+		"name": "The Slough"
+	},
+	"the-sliver-rootway-collapse": {
+		"name": "The Sliver & Rootway Collapse"
+	},
+	"rootway": {
+		"name": "Rootway"
+	},
+	"tusk-isle-and-isle-of-fangs": {
+		"name": "Tusk Isle and Isle of Fangs"
+	},
+	"warport-rastari-quest-instance": {
+		"name": "Warport Rastari (Quest Instance)"
+	},
+	"emberflow-scalecracker-keep": {
+		"name": "Emberflow & Scalecracker Keep"
+	},
+	"skystone-falls": {
+		"name": "Skystone Falls"
+	},
+	"altar-of-mamtoth": {
+		"name": "Altar of Mam'toth"
+	},
+	"snowblind-peaks": {
+		"name": "Snowblind Peaks"
+	},
+	"plain-echoes": {
+		"name": "Plain Echoes"
+	},
+	"valley-of-ancient-winters": {
+		"name": "Valley of Ancient Winters"
+	},
+	"the-oculus": {
+		"name": "The Oculus"
+	},
+	"drybone-hollow": {
+		"name": "Drybone Hollow"
+	},
+	"hills-of-valuun": {
+		"name": "Hills of Valuun"
+	},
+	"shattrath-port-authority": {
+		"name": "Shattrath Port Authority"
+	},
+	"auchindoun-talador": {
+		"name": "Auchindoun"
+	},
+	"grief-spire": {
+		"name": "Grief Spire"
+	},
+	"gloomshade-grove-plains-of-serenity": {
+		"name": "Gloomshade Grove & Plains of Serenity"
+	},
+	"great-tree-valuundira": {
+		"name": "Great Tree Valuundira"
+	},
+	"drybone-hollow-moonflower-valley": {
+		"name": "Drybone Hollow & Moonflower Valley"
+	},
+	"thunder-pass": {
+		"name": "Thunder Pass"
+	},
+	"morgran-logworks": {
+		"name": "Mor'gran Logworks"
+	},
+	"ruins-of-baari": {
+		"name": "Ruins of Baa'ri"
+	},
+	"the-exodar": {
+		"name": "The Exodar"
+	},
+	"thunder-bluff": {
+		"name": "Thunder Bluff"
+	},
+	"citadel-of-loyalty": {
+		"name": "Citadel of Loyalty"
+	},
+	"the-eternal-forge": {
+		"name": "The Eternal Forge"
+	},
+	"ta-repository": {
+		"name": "Ta Repository"
+	},
+	"vault-of-the-archon": {
+		"name": "Vault of the Archon"
+	},
+	"the-walk-of-recollection": {
+		"name": "The Walk of Recollection"
+	},
+	"face-of-oblivion": {
+		"name": "Face of Oblivion"
+	},
+	"coldheart-interstitia": {
+		"name": "Coldheart Interstitia"
+	},
+	"court-of-elation-exaltation-rise": {
+		"name": "Court of Elation & Exaltation Rise"
+	},
+	"citadel-of-doubt": {
+		"name": "Citadel of Doubt"
+	},
+	"temple-of-humility": {
+		"name": "Temple of Humility"
+	},
+	"third-chamber-of-kalliope": {
+		"name": "Third Chamber of Kalliope"
+	},
+	"forgefire-outpost": {
+		"name": "Forgefire Outpost"
+	},
+	"rusted-vault": {
+		"name": "Rusted Vault"
+	},
+	"the-jeweled-coast": {
+		"name": "The Jeweled Coast"
+	},
+	"krazzlefrazz-outpost": {
+		"name": "Krazzlefrazz Outpost"
+	},
+	"opportunity-point": {
+		"name": "Opportunity Point"
+	},
+	"ironwing-cavern": {
+		"name": "Ironwing Cavern"
+	},
+	"bondos-yard": {
+		"name": "Bondo's Yard"
+	},
+	"fungal-rock": {
+		"name": "Fungal Rock"
+	},
+	"alcaz-island": {
+		"name": "Alcaz Island"
+	},
+	"prospectus-bay": {
+		"name": "Prospectus Bay"
+	},
+	"sparkweaver-point": {
+		"name": "Sparkweaver Point"
+	},
+	"the-fleeting-forest": {
+		"name": "The Fleeting Forest"
+	},
+	"aroms-crossing": {
+		"name": "Arom's Crossing"
+	},
+	"engineering-labs": {
+		"name": "Engineering Labs"
+	},
+	"predator-pass": {
+		"name": "Predator Pass"
+	},
+	"the-under-junk": {
+		"name": "The Under Junk"
+	},
+	"chill-breeze-valley": {
+		"name": "Chill Breeze Valley"
+	},
+	"the-secret-lab": {
+		"name": "The Secret Lab"
+	},
+	"fuselight-by-the-sea": {
+		"name": "Fuselight-by-the-Sea"
+	},
+	"gates-of-orgrimmar": {
+		"name": "Gates of Orgrimmar"
+	},
+	"the-dormitory": {
+		"name": "The Dormitory"
+	},
+	"the-robodrome": {
+		"name": "The Robodrome"
+	},
+	"nesingwarys-expedition": {
+		"name": "Nesingwary's Expedition"
+	},
+	"crumbling-cliffs": {
+		"name": "Crumbling Cliffs"
+	},
+	"cobalt-assembly": {
+		"name": "Cobalt Assembly"
+	},
+	"the-warrens": {
+		"name": "The Warrens"
+	},
+	"ancient-falls-abyssal-excavation": {
+		"name": "Ancient Falls & Abyssal Excavation"
+	},
+	"the-maddening-deep": {
+		"name": "The Maddening Deep"
+	},
+	"torchlight-mine-stillstone-pond": {
+		"name": "Torchlight Mine & Stillstone Pond"
+	},
+	"fanged-pasture": {
+		"name": "Fanged Pasture"
+	},
+	"gaze-of-neltharion": {
+		"name": "Gaze of Neltharion"
+	},
+	"warders-teeth": {
+		"name": "Warder's Teeth"
+	},
+	"emerald-hills-golf-course-blackwater-marina": {
+		"name": "Emerald Hills Golf Course & Blackwater Marina"
+	},
+	"the-aegis-wall-sanguine-grasps": {
+		"name": "The Aegis Wall & Sanguine Grasps"
+	},
+	"fluttering-cavern-and-the-waterways-north-of-dragonheart-outpost": {
+		"name": "Fluttering Cavern and the waterways north of Dragonheart Outpost"
+	},
+	"singing-fen-sprigling-gloam": {
+		"name": "Singing Fen & Sprigling Gloam"
+	},
+	"sunrise-shadow": {
+		"name": "Sunrise Shadow"
+	},
+	"fluttering-cavern": {
+		"name": "Fluttering Cavern"
+	},
+	"the-faraway-pools": {
+		"name": "The Faraway Pools"
+	},
+	"the-distant-grotto": {
+		"name": "The Distant Grotto"
+	},
+	"eventide-grove": {
+		"name": "Eventide Grove"
+	},
+	"grove-of-awakening": {
+		"name": "Grove of Awakening"
+	},
+	"bell-shrine": {
+		"name": "Bell Shrine"
+	},
+	"garden-of-edenia": {
+		"name": "Garden of Edenia"
+	},
+	"firstbornes-bounty-kalliopes-rest": {
+		"name": "Firstborne's Bounty & Kalliope's Rest"
+	},
+	"firstbornes-bounty": {
+		"name": "Firstborne's Bounty"
+	},
+	"shimmering-pools": {
+		"name": "Shimmering Pools"
+	},
+	"scrollkeepers-sanctum": {
+		"name": "Scrollkeeper's Sanctum"
+	},
+	"silken-fields": {
+		"name": "Silken Fields"
+	},
+	"twilight-vineyards": {
+		"name": "Twilight Vineyards"
+	},
+	"cenarion-thicket": {
+		"name": "Cenarion Thicket"
+	},
+	"duskfall-island": {
+		"name": "Duskfall Island"
+	},
+	"felpaw-village": {
+		"name": "Felpaw Village"
+	},
+	"jorune-mine": {
+		"name": "Jorune Mine"
+	},
+	"gammoth": {
+		"name": "Gammoth"
+	},
+	"the-shimmer-mor": {
+		"name": "The Shimmer Mor"
+	},
+	"umbrafen-point": {
+		"name": "Umbrafen Point"
+	},
+	"purgation-isle": {
+		"name": "Purgation Isle"
+	},
+	"theater-of-pain-the-stabbing-wastes": {
+		"name": "Theater of Pain & The Stabbing Wastes"
+	},
+	"hall-of-chains": {
+		"name": "Hall of Chains"
+	},
+	"fire-camp-ordo": {
+		"name": "Fire Camp Ordo"
+	},
+	"muskpaw-ranch": {
+		"name": "Muskpaw Ranch"
+	},
+	"the-yaungol-advance": {
+		"name": "The Yaungol Advance"
+	},
+	"westwind-rest": {
+		"name": "Westwind Rest"
+	},
+	"pranksters-hollow": {
+		"name": "Prankster's Hollow"
+	},
+	"eastwind-rest": {
+		"name": "Eastwind Rest"
+	},
+	"neverest-base-camp": {
+		"name": "Neverest Base Camp"
+	},
+	"one-keg": {
+		"name": "One Keg"
+	},
+	"the-dooker-dome": {
+		"name": "The Dooker Dome"
+	},
+	"verdant-belt": {
+		"name": "Verdant Belt"
+	},
+	"kun-lai-pass": {
+		"name": "Kun-Lai Pass"
+	},
+	"mazus-overlook": {
+		"name": "Mazu's Overlook"
+	},
+	"tallmugs-camp": {
+		"name": "Tallmug's Camp"
+	},
+	"the-grummle-bazaar": {
+		"name": "The Grummle Bazaar"
+	},
+	"jotunnwood": {
+		"name": "Jotunnwood"
+	},
+	"cauldros-isle": {
+		"name": "Cauldros Isle"
+	},
+	"by-kamagua": {
+		"name": "By Kamagua"
+	},
+	"eastwind-shore": {
+		"name": "Eastwind Shore"
+	},
+	"shattered-river-zuljan-ruins": {
+		"name": "Shattered River& Zul'jan Ruins"
+	},
+	"at-the-primal-wetlands": {
+		"name": "At the Primal Wetlands"
+	},
+	"crackling-ridge": {
+		"name": "Crackling Ridge"
+	},
+	"skyrender-eyrie": {
+		"name": "Skyrender Eyrie"
+	},
+	"zebsaur": {
+		"name": "Zeb'saur"
+	},
+	"frogmarsh-and-the-shores-of-the-shattered-river": {
+		"name": "Frogmarsh and the shores of The Shattered River"
+	},
+	"ataldazar-non-instanced": {
+		"name": "Atal'dazar (Non-Instanced)"
+	},
+	"redrock-mesa": {
+		"name": "Redrock Mesa"
+	},
+	"kwathari-wildlands-kingsmouth-river": {
+		"name": "Kwathari Wildlands & Kingsmouth River"
+	},
+	"kingsmouth-river": {
+		"name": "Kingsmouth River"
+	},
+	"port-of-zandalar": {
+		"name": "Port of Zandalar"
+	},
+	"the-sliver-zanchul": {
+		"name": "The Sliver & Zanchul"
+	},
+	"rakjans-peak": {
+		"name": "Rakjan's Peak"
+	},
+	"mogushan-vaults": {
+		"name": "Mogu'shan Vaults"
+	},
+	"emperors-reach": {
+		"name": "Emperor's Reach"
+	},
+	"the-emperors-reach": {
+		"name": "The Emperor's Reach"
+	},
+	"zatual": {
+		"name": "Za'Tual"
+	},
+	"stormsea-landing": {
+		"name": "Stormsea Landing"
+	},
+	"screaming-reaches": {
+		"name": "Screaming Reaches"
+	},
+	"gorian-proving-grounds": {
+		"name": "Gorian Proving Grounds"
+	},
+	"violet-rise-dawnseeker-promontory": {
+		"name": "Violet Rise & Dawnseeker Promontory"
+	},
+	"dawnseeker-promontory": {
+		"name": "Dawnseeker Promontory"
+	},
+	"field-of-flames": {
+		"name": "Field of Flames"
+	},
+	"mandokirs-domain": {
+		"name": "Mandokir's Domain"
+	},
+	"terrace-of-sorrows": {
+		"name": "Terrace of Sorrows"
+	},
+	"ataldazar-zuldazar": {
+		"name": "Atal'Dazar"
+	},
+	"whelgars-excavation-site": {
+		"name": "Whelgar's Excavation Site"
+	},
+	"kings-rest": {
+		"name": "Kings' Rest"
+	},
+	"sepulcher-of-the-dahazi": {
+		"name": "Sepulcher of the Dahazi"
+	},
+	"savagelands-lair-of-umbrajin": {
+		"name": "Savagelands (Lair of Umbra'jin)"
+	},
+	"nathavor": {
+		"name": "Natha'vor"
+	},
+	"lair-of-gonk": {
+		"name": "Lair of Gonk"
+	},
+	"the-feeding-grounds": {
+		"name": "The Feeding Grounds"
+	},
+	"shoaljai-tar-pits-and-the-plains-to-the-south": {
+		"name": "Shoaljai Tar Pits and the plains to the south"
+	},
+	"gallagio": {
+		"name": "Gallagio"
+	},
+	"divers-arch": {
+		"name": "Diver's Arch"
+	},
+	"the-zocalo": {
+		"name": "The Zocalo"
+	},
+	"warbeast-kraal-savagelands": {
+		"name": "Warbeast Kraal & Savagelands"
+	},
+	"alluvanons-delta": {
+		"name": "Alluvanon's Delta"
+	},
+	"gull-rock": {
+		"name": "Gull Rock"
+	},
+	"verdant-cliffs": {
+		"name": "Verdant Cliffs"
+	},
+	"misty-coast": {
+		"name": "Misty Coast"
+	},
+	"south-east-rim-of-the-pit": {
+		"name": "South-east rim of The Pit"
+	},
+	"raptors-maw": {
+		"name": "Raptor's Maw"
+	},
+	"the-marshlands": {
+		"name": "The Marshlands"
+	},
+	"thorn-hill": {
+		"name": "Thorn Hill"
+	},
+	"the-dragonmurk": {
+		"name": "The Dragonmurk"
+	},
+	"dustfire-valley": {
+		"name": "Dustfire Valley"
+	},
+	"bleak-hollow": {
+		"name": "Bleak Hollow"
+	},
+	"the-thorn-pits": {
+		"name": "The Thorn Pits"
+	},
+	"shadowglade": {
+		"name": "Shadowglade"
+	},
+	"camp-thornscar": {
+		"name": "Camp Thornscar"
+	},
+	"the-fangfall": {
+		"name": "The Fangfall"
+	},
+	"overlook-ruins": {
+		"name": "Overlook Ruins"
+	},
+	"the-ingress": {
+		"name": "The Ingress"
+	},
+	"bloodthorn-hill": {
+		"name": "Bloodthorn Hill"
+	},
+	"gronn-canyon": {
+		"name": "Gronn Canyon"
+	},
+	"stonemaul-arena": {
+		"name": "Stonemaul Arena"
+	},
+	"razorthorn-rise": {
+		"name": "Razorthorn Rise"
+	},
+	"lethlor-ravine": {
+		"name": "Lethlor Ravine"
+	},
+	"the-admirals-den": {
+		"name": "The Admiral's Den"
+	},
+	"nexus-point-antius": {
+		"name": "Nexus-Point Antius"
+	},
+	"the-bloodplains": {
+		"name": "The Bloodplains"
+	},
+	"the-merciless-wastes": {
+		"name": "The Merciless Wastes"
+	},
+	"overlook-zoshuul": {
+		"name": "Overlook Zo'Shuul"
+	},
+	"ethereum-refinery": {
+		"name": "Ethereum Refinery"
+	},
+	"obscurion-citadel": {
+		"name": "Obscurion Citadel"
+	},
+	"castigaar": {
+		"name": "Castigaar"
+	},
+	"slagfell-hold": {
+		"name": "Slagfell Hold"
+	},
+	"the-char": {
+		"name": "The Char"
+	},
+	"taelloch-taelloch-mine": {
+		"name": "Taelloch & Taelloch Mine"
+	},
+	"acidbite-ravine": {
+		"name": "Acidbite Ravine"
+	},
+	"thunderhead-peak-rambleshire": {
+		"name": "Thunderhead Peak & Rambleshire"
+	},
+	"sunken-shield": {
+		"name": "Sunken Shield"
+	},
+	"obsidian-hollow": {
+		"name": "Obsidian Hollow"
+	},
+	"harkuai-verdant-sepulcher": {
+		"name": "Har'kuai & Verdant Sepulcher"
+	},
+	"coral-forest": {
+		"name": "Coral Forest"
+	},
+	"dunelles-kindness-the-aegis-wall": {
+		"name": "Dunelle's Kindness & The Aegis Wall"
+	},
+	"coral-forest-chitterspine-caverns": {
+		"name": "Coral Forest & Chitterspine Caverns"
+	},
+	"shadow-point": {
+		"name": "Shadow Point"
+	},
+	"triumvirates-end": {
+		"name": "Triumvirate's End"
+	},
+	"conservatory-of-the-arcane": {
+		"name": "Conservatory of the Arcane"
+	},
+	"shadow-point-apotheosis": {
+		"name": "Shadow Point: Apotheosis"
+	},
+	"shandorah": {
+		"name": "Shan'dorah"
+	},
+	"the-verdant-mire": {
+		"name": "The Verdant Mire"
+	},
+	"ogrila-plateau": {
+		"name": "Ogri'la Plateau"
+	},
+	"the-slave-pens": {
+		"name": "The Slave Pens"
+	},
+	"the-drift": {
+		"name": "The Drift"
+	},
+	"jaedenar": {
+		"name": "Jaedenar"
+	},
+	"black-tooth-hovel": {
+		"name": "Black Tooth Hovel"
+	},
+	"wild-feeding-pits-and-east-of-wild-preserve": {
+		"name": "Wild Feeding Pits and east of Wild Preserve"
+	},
+	"wild-preserve": {
+		"name": "Wild Preserve"
+	},
+	"lair-of-xaklar": {
+		"name": "Lair of Xak'lar"
+	},
+	"clearwater-basin": {
+		"name": "Clearwater Basin"
+	},
+	"the-preserve-the-tusk-pools": {
+		"name": "The Preserve & The Tusk Pools"
+	},
+	"the-cascades-the-azure-span": {
+		"name": "The Cascades"
+	},
+	"the-tusk-pools": {
+		"name": "The Tusk Pools"
+	},
+	"swamplight-trail": {
+		"name": "Swamplight Trail"
+	},
+	"thundertail-wallow": {
+		"name": "Thundertail Wallow"
+	},
+	"riverbeast-den": {
+		"name": "Riverbeast Den"
+	},
+	"the-fertile-ground": {
+		"name": "The Fertile Ground"
+	},
+	"razorbloom": {
+		"name": "Razorbloom"
+	},
+	"zailzar-span": {
+		"name": "Zail'Zar Span"
+	},
+	"hammerfall": {
+		"name": "Hammerfall"
+	},
+	"pleasant-heights": {
+		"name": "Pleasant Heights"
+	},
+	"mourning-rise": {
+		"name": "Mourning Rise"
+	},
+	"darkflame-cleft": {
+		"name": "Darkflame Cleft"
+	},
+	"sprawling-trackyard": {
+		"name": "Sprawling Trackyard"
+	},
+	"lost-mines": {
+		"name": "Lost Mines"
+	},
+	"campalot": {
+		"name": "Campalot"
+	},
+	"hermits-hovel": {
+		"name": "Hermit's Hovel"
+	},
+	"stonefray-falls": {
+		"name": "Stonefray Falls"
+	},
+	"uktulut-backwater": {
+		"name": "Uktulut Backwater"
+	},
+	"uktulut-pier": {
+		"name": "Uktulut Pier"
+	},
+	"morqut-islet": {
+		"name": "Morqut Islet"
+	},
+	"whelp-daycare": {
+		"name": "Whelp Daycare"
+	},
+	"genesis-fields-the-great-veldt": {
+		"name": "Genesis Fields & The Great Veldt"
+	},
+	"pilgrims-grace": {
+		"name": "Pilgrim's Grace"
+	},
+	"faiths-repose": {
+		"name": "Faith's Repose"
+	},
+	"dimensional-falls-the-great-veldt": {
+		"name": "Dimensional Falls & The Great Veldt"
+	},
+	"felicitous-glade": {
+		"name": "Felicitous Glade"
+	},
+	"nexus-of-actualization": {
+		"name": "Nexus of Actualization"
+	},
+	"desolate-hollow": {
+		"name": "Desolate Hollow"
+	},
+	"deaths-roar": {
+		"name": "Death's Roar"
+	},
+	"cocyrus-zovaals-cauldron": {
+		"name": "Cocyrus & Zovaal's Cauldron"
+	},
+	"planes-of-torment-calcis": {
+		"name": "Planes of Torment & Calcis"
+	},
+	"the-tremaculum": {
+		"name": "The Tremaculum"
+	},
+	"the-path-of-understanding": {
+		"name": "The Path of Understanding"
+	},
+	"provis-flora": {
+		"name": "Provis Flora"
+	},
+	"ruins-of-oronaar": {
+		"name": "Ruins of Oronaar"
+	},
+	"prophets-reflection": {
+		"name": "Prophet's Reflection"
+	},
+	"hawthornes-plot": {
+		"name": "Hawthorne's Plot"
+	},
+	"darkmaul-bridge": {
+		"name": "Darkmaul Bridge"
+	},
+	"slayers-rise": {
+		"name": "Slayer's Rise"
+	},
+	"bastion-of-valor-bastion-of-might": {
+		"name": "Bastion of Valor & Bastion of Might"
+	},
+	"the-approach": {
+		"name": "The Approach"
+	},
+	"nexus-point-midar": {
+		"name": "Nexus-Point Mid'Ar"
+	},
+	"the-husk": {
+		"name": "The Husk"
+	},
+	"hate-spire": {
+		"name": "Hate Spire"
+	},
+	"shrine-of-kulzi": {
+		"name": "Shrine of Kulzi"
+	},
+	"torwatha": {
+		"name": "Tor'Watha"
+	},
+	"camp-stonewash-amanizar-village": {
+		"name": "Camp Stonewash & Amani'Zar Village"
+	},
+	"torntusk-overlook-amanizar-village": {
+		"name": "Torntusk Overlook & Amani'Zar Village"
+	},
+	"altar-of-malacrass": {
+		"name": "Altar of Malacrass"
+	},
+	"storm-fields": {
+		"name": "Storm Fields"
+	},
+	"bastion-of-valor": {
+		"name": "Bastion of Valor"
+	},
+	"shadowguard-point": {
+		"name": "Shadowguard Point"
+	},
+	"bastion-of-might": {
+		"name": "Bastion of Might"
+	},
+	"night-trench": {
+		"name": "Night Trench"
+	},
+	"voidscar-arena-voidstorm": {
+		"name": "Voidscar Arena"
+	},
+	"dragonsprings-summit": {
+		"name": "Dragonsprings Summit"
+	},
+	"maulers-overlook": {
+		"name": "Mauler's Overlook"
+	},
+	"ring-of-the-law": {
+		"name": "Ring of the Law"
+	},
+	"cenarion-wildlands": {
+		"name": "Cenarion Wildlands"
+	},
+	"temple-of-akunda": {
+		"name": "Temple of Akunda"
+	},
+	"pawdon-glade": {
+		"name": "Paw'don Glade"
+	},
+	"the-thundering-run": {
+		"name": "The Thundering Run"
+	},
+	"chittering-coast": {
+		"name": "Chittering Coast"
+	},
+	"fire-camp-ruqin": {
+		"name": "Fire Camp Ruqin"
+	},
+	"murky-bank": {
+		"name": "Murky Bank"
+	},
+	"rumbling-terrace": {
+		"name": "Rumbling Terrace"
+	},
+	"amber-research-sanctum": {
+		"name": "Amber Research Sanctum"
+	},
+	"skyrange": {
+		"name": "Skyrange"
+	},
+	"thunderfoot-fields": {
+		"name": "Thunderfoot Fields"
+	},
+	"east-of-the-geyser-fields": {
+		"name": "East of the Geyser Fields."
+	},
+	"cenarion-refuge": {
+		"name": "Cenarion Refuge"
+	},
+	"dreadmist-camp": {
+		"name": "Dreadmist Camp"
+	},
+	"kodo-graveyard": {
+		"name": "Kodo Graveyard"
+	},
+	"red-cloud-mesa": {
+		"name": "Red Cloud Mesa"
+	},
+	"the-earthenworks": {
+		"name": "The Earthenworks"
+	},
+	"the-lost-road": {
+		"name": "The Lost Road"
+	},
+	"bleeding-hollow-hunting-grounds": {
+		"name": "Bleeding Hollow Hunting Grounds"
+	},
+	"magma-springs": {
+		"name": "Magma Springs"
+	},
+	"forge-of-arcanum": {
+		"name": "Forge of Arcanum"
+	},
+	"shadowridge-outpost": {
+		"name": "Shadowridge Outpost"
+	},
+	"obsidian-hollow-quest-phase": {
+		"name": "Obsidian Hollow (Quest Phase)"
+	},
+	"abundant-voidburrow": {
+		"name": "Abundant Voidburrow"
+	},
+	"firewatch-ridge": {
+		"name": "Firewatch Ridge"
+	},
+	"the-cauldron": {
+		"name": "The Cauldron"
+	},
+	"the-seal-of-wrath-the-serpents-tail": {
+		"name": "The Seal of Wrath & The Serpent's Tail"
+	},
+	"the-underbelly-the-coiled-isle": {
+		"name": "The Underbelly"
+	},
+	"venom-rise": {
+		"name": "Venom Rise"
+	},
+	"crypt-of-the-lost-warrior": {
+		"name": "Crypt of The Lost Warrior"
+	},
+	"thalassian-pass": {
+		"name": "Thalassian Pass"
+	},
+	"sanctum-of-the-moon": {
+		"name": "Sanctum of the Moon"
+	},
+	"murder-row": {
+		"name": "Murder Row"
+	},
+	"sunwell-ramparts": {
+		"name": "Sunwell Ramparts"
+	},
+	"daggerspine-point": {
+		"name": "Daggerspine Point"
+	},
+	"encroaching-bloom-the-blinding-bloom": {
+		"name": "Encroaching Bloom & The Blinding Bloom"
+	},
+	"wreck-of-grals-belly": {
+		"name": "Wreck of Gral's Belly"
+	},
+	"silken-ward-twitching-gorge": {
+		"name": "Silken Ward & Twitching Gorge"
+	},
+	"abandoned-reed-deepfin-ridge": {
+		"name": "Abandoned Reed & Deepfin Ridge"
+	},
+	"underlight-canyon": {
+		"name": "Underlight Canyon"
+	},
+	"burning-oasis": {
+		"name": "Burning Oasis"
+	},
+	"the-war-creche": {
+		"name": "The War Creche"
+	},
+	"grand-overlook": {
+		"name": "Grand Overlook"
+	},
+	"verdant-plateau": {
+		"name": "Verdant Plateau"
+	},
+	"the-darkway": {
+		"name": "The Darkway"
+	},
+	"the-serpents-tail-blistering-terrace": {
+		"name": "The Serpent's Tail & Blistering Terrace"
+	},
+	"den-of-sseratus": {
+		"name": "Den of Sseratus"
+	},
+	"altar-of-sseratus": {
+		"name": "Altar of Sseratus"
+	},
+	"virnaal-river-delta": {
+		"name": "Vir'naal River Delta"
+	},
+	"chamber-of-prophecy": {
+		"name": "Chamber of Prophecy"
+	},
+	"murkdeep-cavern": {
+		"name": "Murkdeep Cavern"
+	},
+	"the-coil": {
+		"name": "The Coil"
+	},
+	"frondfall": {
+		"name": "Frondfall"
+	},
+	"forest-heart": {
+		"name": "Forest Heart"
+	},
+	"ruins-of-thelserai-temple": {
+		"name": "Ruins of Thelserai Temple"
+	},
+	"twilight-ridge": {
+		"name": "Twilight Ridge"
+	},
+	"pit-of-fangs": {
+		"name": "Pit of Fangs"
+	},
+	"krasarang-river": {
+		"name": "Krasarang River"
+	},
+	"shrine-of-the-storm": {
+		"name": "Shrine of the Storm"
+	},
+	"chamber-of-the-harvesters": {
+		"name": "Chamber of the Harvesters"
+	},
+	"tomb-of-sargeras": {
+		"name": "Tomb of Sargeras"
+	},
+	"lair-of-harjatan": {
+		"name": "Lair of Harjatan"
+	},
+	"the-abyssal-throne": {
+		"name": "The Abyssal Throne"
+	},
+	"wreck-of-torgas-beak": {
+		"name": "Wreck of Torga's Beak"
+	},
+	"shasseras-lair": {
+		"name": "Shassera's Lair"
+	},
+	"wanderers-cove": {
+		"name": "Wanderer's Cove"
+	},
+	"falconhurst": {
+		"name": "Falconhurst"
+	},
+	"the-forgotten-tunnel": {
+		"name": "The Forgotten Tunnel"
+	},
+	"azshari-terrace": {
+		"name": "Azsh'ari Terrace"
+	},
+	"rockslip-falls": {
+		"name": "Rockslip Falls"
+	},
+	"dusky-grotto": {
+		"name": "Dusky Grotto"
+	},
+	"feed-pits": {
+		"name": "Feed Pits"
+	},
+	"zailzar-span-blistering-terrace": {
+		"name": "Zail'Zar Span & Blistering Terrace"
+	},
+	"sanctum-of-the-moon-ghostlands": {
+		"name": "Sanctum of the Moon"
+	},
+	"azurewing-repose": {
+		"name": "Azurewing Repose"
+	},
+	"mazthoril": {
+		"name": "Mazthoril"
+	},
+	"halls-of-theory": {
+		"name": "Halls of Theory"
+	},
+	"falanaar-tunnels": {
+		"name": "Falanaar Tunnels"
+	},
+	"magisters-terrace-midnight": {
+		"name": "Magisters' Terrace (Midnight)"
+	},
+	"ley-ruins-of-zarkhenar": {
+		"name": "Ley-Ruins of Zarkhenar"
+	},
+	"sunfury-hold": {
+		"name": "Sunfury Hold"
+	},
+	"court-of-stars": {
+		"name": "Court of Stars"
+	},
+	"the-menagerie-return-to-karazhan": {
+		"name": "The Menagerie"
+	},
+	"shalaran": {
+		"name": "Shal'Aran"
+	},
+	"withered-training-instance": {
+		"name": "Withered Training Instance"
+	},
+	"falanaar-tunnels-withered-training-instance": {
+		"name": "Falanaar Tunnels"
+	},
+	"guardians-library": {
+		"name": "Guardian's Library"
+	},
+	"bashir-landing": {
+		"name": "Bash'ir Landing"
+	},
+	"azurelight-square": {
+		"name": "Azurelight Square"
+	},
+	"guardians-study": {
+		"name": "Guardian's Study"
+	},
+	"the-menagerie-karazhan": {
+		"name": "The Menagerie"
+	},
+	"seat-of-destruction": {
+		"name": "Seat of Destruction"
+	},
+	"all-in": {
+		"name": "All In"
+	},
+	"forgotten-depths": {
+		"name": "Forgotten Depths"
+	},
+	"the-arcway": {
+		"name": "The Arcway"
+	},
+	"forgotten-library": {
+		"name": "Forgotten Library"
+	},
+	"shaldorei-terrace": {
+		"name": "Shal'dorei Terrace"
+	},
+	"telogrus-rift": {
+		"name": "Telogrus Rift"
+	},
+	"lothalor-woodlands": {
+		"name": "Lothalor Woodlands"
+	},
+	"coldarra": {
+		"name": "Coldarra"
+	},
+	"twilights-run": {
+		"name": "Twilight's Run"
+	},
+	"the-rift": {
+		"name": "The Rift"
+	},
+	"rainspeaker-rapids": {
+		"name": "Rainspeaker Rapids"
+	},
+	"hall-of-bones": {
+		"name": "Hall of Bones"
+	},
+	"the-briny-muck": {
+		"name": "The Briny Muck"
+	},
+	"zanvess": {
+		"name": "Zan'vess"
+	},
+	"rikkitun-village-surrounds": {
+		"name": "Rikkitun Village surrounds"
+	},
+	"gao-ran-battlefront": {
+		"name": "Gao-Ran Battlefront"
+	},
+	"jagged-wastes": {
+		"name": "Jagged Wastes"
+	},
+	"leyhollow": {
+		"name": "Leyhollow"
+	},
+	"telanor": {
+		"name": "Tel'anor"
+	},
+	"lucky-strike-mines": {
+		"name": "Lucky Strike Mines"
+	},
+	"the-maelstrom": {
+		"name": "The Maelstrom"
+	},
+	"nordrassil": {
+		"name": "Nordrassil"
+	},
+	"the-stonecore": {
+		"name": "The Stonecore"
+	},
+	"the-winding-halls": {
+		"name": "The Winding Halls"
+	},
+	"crumbling-depths": {
+		"name": "Crumbling Depths"
+	},
+	"kezan": {
+		"name": "Kezan"
+	},
+	"kajamine": {
+		"name": "Kaja'mine"
+	},
+	"scoured-reach": {
+		"name": "Scoured Reach"
+	},
+	"scoured-reach-crumbling-depths": {
+		"name": "Scoured Reach & Crumbling Depths"
+	},
+	"lorthunas-gate": {
+		"name": "Lorthuna's Gate"
+	},
+	"circle-of-inner-binding": {
+		"name": "Circle of Inner Binding"
+	},
+	"winterdeep-mine": {
+		"name": "Winterdeep Mine"
+	},
+	"oregrinds-dig": {
+		"name": "Oregrind's Dig"
+	},
+	"winterdeep-basin": {
+		"name": "Winterdeep Basin"
+	},
+	"shuddering-cave": {
+		"name": "Shuddering Cave"
+	},
+	"shattered-locus": {
+		"name": "Shattered Locus"
+	},
+	"shattered-locus-withered-training-instance": {
+		"name": "Shattered Locus (Withered Training Instance)"
+	},
+	"stillstone-pond-lights-blooming": {
+		"name": "Stillstone Pond & Light's Blooming"
+	},
+	"abandoned-harvest-site": {
+		"name": "Abandoned Harvest Site"
+	},
+	"little-scales-daycare": {
+		"name": "Little Scales Daycare"
+	},
+	"shiverweb-vale": {
+		"name": "Shiverweb Vale"
+	},
+	"frost-chitter-grotto": {
+		"name": "Frost Chitter Grotto"
+	},
+	"ancient-bough-ohnahran-plains": {
+		"name": "Ancient Bough"
+	},
+	"renders-valley": {
+		"name": "Render's Valley"
+	},
+	"lakeridge-highway": {
+		"name": "Lakeridge Highway"
+	},
+	"terrace-of-the-fang": {
+		"name": "Terrace of the Fang"
+	},
+	"deadsnare-caverns": {
+		"name": "Deadsnare Caverns"
+	},
+	"warders-solace-ebon-landing": {
+		"name": "Warder's Solace & Ebon Landing"
+	},
+	"thoradins-wall": {
+		"name": "Thoradin's Wall"
+	},
+	"kargpaws-den": {
+		"name": "Kargpaw's Den"
+	},
+	"the-oracle-glade": {
+		"name": "The Oracle Glade"
+	},
+	"earth-warders-cauldron": {
+		"name": "Earth-Warder's Cauldron"
+	},
+	"deserted-overlook": {
+		"name": "Deserted Overlook"
+	},
+	"feeders-thicket": {
+		"name": "Feeders' Thicket"
+	},
+	"forgotten-chamber": {
+		"name": "Forgotten Chamber"
+	},
+	"bony-spindels-house-of-eyes": {
+		"name": "Bony Spindels & House of Eyes"
+	},
+	"keres-rest-high-stand": {
+		"name": "Keres' Rest & High Stand"
+	},
+	"scaplian-ridge-keres-rest": {
+		"name": "Scaplian Ridge & Keres' Rest"
+	},
+	"scaplian-ridge": {
+		"name": "Scaplian Ridge"
+	},
+	"archivam": {
+		"name": "Archivam"
+	},
+	"zskera-vault-ur": {
+		"name": "Zskera Vault: Ur"
+	},
+	"sightless-hold": {
+		"name": "Sightless Hold"
+	},
+	"house-of-eyes": {
+		"name": "House of Eyes"
+	},
+	"zskera-vault-az": {
+		"name": "Zskera Vault: Az"
+	},
+	"etheric-vault": {
+		"name": "Etheric Vault"
+	},
+	"zekvirs-lair": {
+		"name": "Zekvir's Lair"
+	},
+	"naltiras-lair": {
+		"name": "Nal'tira's Lair"
+	},
+	"felsurge-nest": {
+		"name": "Felsurge Nest"
+	},
+	"moonshade-sanctum": {
+		"name": "Moonshade Sanctum"
+	},
+	"ley-station-anora": {
+		"name": "Ley Station Anora"
+	},
+	"shattered-chasm": {
+		"name": "Shattered Chasm"
+	},
+	"the-creeping-grotto": {
+		"name": "The Creeping Grotto"
+	},
+	"blood-nest": {
+		"name": "Blood Nest"
+	},
+	"vault-of-the-wardens": {
+		"name": "Vault of the Wardens"
+	},
+	"tomb-of-the-penitent": {
+		"name": "Tomb of the Penitent"
+	},
+	"shadow-fracture": {
+		"name": "Shadow Fracture"
+	},
+	"cathedral-of-eternal-night": {
+		"name": "Cathedral of Eternal Night"
+	},
+	"path-of-illumination": {
+		"name": "Path of Illumination"
+	},
+	"bybeen-lair": {
+		"name": "Bybeen Lair"
+	},
+	"the-burning-throne": {
+		"name": "the Burning Throne"
+	},
+	"halls-of-the-boundless-reach": {
+		"name": "Halls of the Boundless Reach"
+	},
+	"antorus": {
+		"name": "Antorus"
+	},
+	"xeritacs-burrow": {
+		"name": "Xeri'tac's Burrow"
+	},
+	"tower-of-azora": {
+		"name": "Tower of Azora"
+	},
+	"webwinder-hollow": {
+		"name": "Webwinder Hollow"
+	},
+	"item-summon": {
+		"name": "Item Summon"
+	},
+	"council-chambers": {
+		"name": "Council Chambers"
+	},
+	"skitterweb-tunnels": {
+		"name": "Skitterweb Tunnels"
+	},
+	"servants-quarters-return-to-karazhan": {
+		"name": "Servant's Quarters"
+	},
+	"hruns-barrow": {
+		"name": "Hrun's Barrow"
+	},
+	"shadowmoon-burial-grounds": {
+		"name": "Shadowmoon Burial Grounds"
+	},
+	"the-blackwald": {
+		"name": "The Blackwald"
+	},
+	"saltstone-mine": {
+		"name": "Saltstone Mine"
+	},
+	"ironmongers-hold": {
+		"name": "Ironmonger's Hold"
+	},
+	"the-felblight": {
+		"name": "The Felblight"
+	},
+	"sishir-canyon": {
+		"name": "Sishir Canyon"
+	},
+	"bleak-hills-mine": {
+		"name": "Bleak Hills Mine"
+	},
+	"vault-of-restless-bones": {
+		"name": "Vault of Restless Bones"
+	},
+	"the-widows-wail": {
+		"name": "The Widow's Wail"
+	},
+	"telotharan-crimson-thicket": {
+		"name": "Teloth'aran & Crimson Thicket"
+	},
+	"azurelode-mine": {
+		"name": "Azurelode Mine"
+	},
+	"telotharan": {
+		"name": "Teloth'aran"
+	},
+	"ruukjars-clutch": {
+		"name": "Ruuk'Jar's Clutch"
+	},
+	"the-silkwood": {
+		"name": "The Silkwood"
+	},
+	"crypt-of-the-denied": {
+		"name": "Crypt of the Denied"
+	},
+	"ahnkahet-the-old-kingdom": {
+		"name": "Ahn'kahet: The Old Kingdom"
+	},
+	"the-forgotten-caves": {
+		"name": "The Forgotten Caves"
+	},
+	"darksting-cave-the-forgotten-caves": {
+		"name": "Darksting Cave & The Forgotten Caves"
+	},
+	"darksting-cave": {
+		"name": "Darksting Cave"
+	},
+	"garden-of-the-loa": {
+		"name": "Garden of the Loa"
+	},
+	"witkalar-crypt": {
+		"name": "Wit'Kalar Crypt"
+	},
+	"shadraalor": {
+		"name": "Shadra'Alor"
+	},
+	"shrine-of-shadra": {
+		"name": "Shrine of Shadra"
+	},
+	"cavern-of-endless-echoes": {
+		"name": "Cavern of Endless Echoes"
+	},
+	"draksotra": {
+		"name": "Drak'Sotra"
+	},
+	"kolramas": {
+		"name": "Kolramas"
+	},
+	"the-rookery": {
+		"name": "The Rookery"
+	},
+	"the-rookery-landing": {
+		"name": "The Rookery Landing"
+	},
+	"storm-rookery": {
+		"name": "Storm Rookery"
+	},
+	"oath-gate": {
+		"name": "Oath Gate"
+	},
+	"temple-of-kimbul": {
+		"name": "Temple of Kimbul"
+	},
+	"temple-of-storms": {
+		"name": "Temple of Storms"
+	},
+	"cinderwold": {
+		"name": "Cinderwold"
+	},
+	"spark-of-the-imagination-hati-quest-phase": {
+		"name": "Spark of the Imagination (Hati quest phase)"
+	},
+	"valley-of-spirits": {
+		"name": "Valley of Spirits"
+	},
+	"the-weeping-terrace": {
+		"name": "The Weeping Terrace"
+	},
+	"deadwalker-pass": {
+		"name": "Deadwalker Pass"
+	},
+	"shazgul": {
+		"name": "Shaz'gul"
+	},
+	"anguish-fortress": {
+		"name": "Anguish Fortress"
+	},
+	"umbral-halls": {
+		"name": "Umbral Halls"
+	},
+	"the-battle-for-mount-hyjal": {
+		"name": "The Battle for Mount Hyjal"
+	},
+	"naigtal": {
+		"name": "Naigtal"
+	},
+	"soltian-marsh": {
+		"name": "Soltian Marsh"
+	},
+	"fungara-village": {
+		"name": "Fungara Village"
+	},
+	"umbrafen": {
+		"name": "Umbrafen"
+	},
+	"secluded-glade": {
+		"name": "Secluded Glade"
+	},
+	"zangarra": {
+		"name": "Zangarra"
+	},
+	"the-evanescent-sea": {
+		"name": "The Evanescent Sea"
+	},
+	"sporemist-shallows": {
+		"name": "Sporemist Shallows"
+	},
+	"serpentshrine-cavern": {
+		"name": "Serpentshrine Cavern"
+	},
+	"zangar-shore": {
+		"name": "Zangar Shore"
+	},
+	"the-fangs-hallowfall": {
+		"name": "The Fangs"
+	},
+	"slumbersome-shores": {
+		"name": "Slumbersome Shores"
+	},
+	"viridescent-thicket-lushdream-crags": {
+		"name": "Viridescent Thicket & Lushdream Crags"
+	},
+	"singing-fen-meandering-rootlands": {
+		"name": "Singing Fen & Meandering Rootlands"
+	},
+	"ruins-of-karnthar": {
+		"name": "Ruins of Karnthar"
+	},
+	"the-cascades-gardens-of-unity": {
+		"name": "The Cascades & Gardens of Unity"
+	},
+	"shadow-ledge-shadow-pass": {
+		"name": "Shadow Ledge & Shadow Pass"
+	},
+	"pleasant-hill-south-hold-gate": {
+		"name": "Pleasant Hill & South Hold Gate"
+	},
+	"scaleborn-pass-winglords-perch": {
+		"name": "Scaleborn Pass & Winglord's Perch"
+	},
+	"the-old-weyrn-grounds-scaleborn-pass": {
+		"name": "The Old Weyrn Grounds & Scaleborn Pass"
+	},
+	"tyrhold-reservoir-gelikyr-gardens": {
+		"name": "Tyrhold Reservoir & Gelikyr Gardens"
+	},
+	"gelikyr-gardens": {
+		"name": "Gelikyr Gardens"
+	},
+	"life-vault-ruins": {
+		"name": "Life Vault Ruins"
+	},
+	"felicitous-glade-the-great-veldt": {
+		"name": "Felicitous Glade & The Great Veldt"
+	},
+	"glittering-falls-soryns-meadow": {
+		"name": "Glittering Falls & Soryn's Meadow"
+	},
+	"glittering-falls": {
+		"name": "Glittering Falls"
+	},
+	"furrowed-glen-soryns-meadow": {
+		"name": "Furrowed Glen & Soryn's Meadow"
+	},
+	"the-forgotten-retreat": {
+		"name": "The Forgotten Retreat"
+	},
+	"petrified-forest": {
+		"name": "Petrified Forest"
+	},
+	"isolon": {
+		"name": "Isolon"
+	},
+	"deceivers-scar": {
+		"name": "Deceiver's Scar"
+	},
+	"darkmaul-plains-darkmaul-citadel": {
+		"name": "Darkmaul Plains & Darkmaul Citadel"
+	},
+	"ashenwood-grove": {
+		"name": "Ashenwood Grove"
+	},
+	"sagehold-mariners-strand": {
+		"name": "Sagehold & Mariner's Strand"
+	},
+	"valley-of-the-sword": {
+		"name": "Valley of the Sword"
+	},
+	"clearspring-pass-and-stagheart-cliffs": {
+		"name": "Clearspring Pass and Stagheart Cliffs"
+	},
+	"maw-of-the-void": {
+		"name": "Maw of the Void"
+	},
+	"stormtorn-foothills": {
+		"name": "Stormtorn Foothills"
+	},
+	"highland-trail": {
+		"name": "Highland Trail"
+	},
+	"twilight-vale": {
+		"name": "Twilight Vale"
+	},
+	"snowblind-cliffs": {
+		"name": "Snowblind Cliffs"
+	},
+	"roaming-hills": {
+		"name": "Roaming Hills"
+	},
+	"the-fleeting-forest-sparkweaver-point": {
+		"name": "The Fleeting Forest & Sparkweaver Point"
+	},
+	"oshugun": {
+		"name": "Oshu'gun"
+	},
+	"lonely-falls": {
+		"name": "Lonely Falls"
+	},
+	"suns-reach-sanctum": {
+		"name": "Sun's Reach Sanctum"
+	},
+	"verdant-plateau-bouldered-bluffs": {
+		"name": "Verdant Plateau & Bouldered Bluffs"
+	},
+	"growless-cave": {
+		"name": "Growless Cave"
+	},
+	"grand-palisade": {
+		"name": "Grand Palisade"
+	},
+	"halls-of-atonement": {
+		"name": "Halls of Atonement"
+	},
+	"halls-of-atonement-non-instanced": {
+		"name": "Halls of Atonement (Non-Instanced)"
+	},
+	"old-gate": {
+		"name": "Old Gate"
+	},
+	"wanecrypt-hill": {
+		"name": "Wanecrypt Hill"
+	},
+	"stalkers-lodge": {
+		"name": "Stalker's Lodge"
+	},
+	"sinfall": {
+		"name": "Sinfall"
+	},
+	"darkwall-tower": {
+		"name": "Darkwall Tower"
+	},
+	"grand-palisade-halls-of-atonement": {
+		"name": "Grand Palisade & Halls of Atonement"
+	},
+	"charred-ramparts": {
+		"name": "Charred Ramparts"
+	},
+	"redelav-district": {
+		"name": "Redelav District"
+	},
+	"castle-nathria": {
+		"name": "Castle Nathria"
+	},
+	"dominance-gate": {
+		"name": "Dominance Gate"
+	},
+	"caretakers-manor": {
+		"name": "Caretaker's Manor"
+	},
+	"grand-palisade-penance-bridge": {
+		"name": "Grand Palisade & Penance Bridge"
+	},
+	"deaths-end": {
+		"name": "Death's End"
+	},
+	"the-kennels": {
+		"name": "The Kennels"
+	},
+	"crypt-of-forgotten-kings": {
+		"name": "Crypt of Forgotten Kings"
+	},
+	"grand-courtyard": {
+		"name": "Grand Courtyard"
+	},
+	"ancestral-rise": {
+		"name": "Ancestral Rise"
+	},
+	"the-demon-ward": {
+		"name": "The Demon Ward"
+	},
+	"the-silent-sanctuary": {
+		"name": "The Silent Sanctuary"
+	},
+	"troves-of-the-thunder-king": {
+		"name": "Troves of the Thunder King"
+	},
+	"guo-lai-vault": {
+		"name": "Guo-Lai Vault"
+	},
+	"ruins-rise": {
+		"name": "Ruins Rise"
+	},
+	"greater-vigilant": {
+		"name": "Greater Vigilant"
+	},
+	"seekers-point": {
+		"name": "Seeker's Point"
+	},
+	"autumnshade-ridge": {
+		"name": "Autumnshade Ridge"
+	},
+	"fairbreeze-village-tranquillien": {
+		"name": "Fairbreeze Village & Tranquillien"
+	},
+	"grove-of-the-ancients": {
+		"name": "Grove of the Ancients"
+	},
+	"house-of-edune": {
+		"name": "House of Edune"
+	},
+	"misty-reed-strand": {
+		"name": "Misty Reed Strand"
+	},
+	"singing-marshes": {
+		"name": "Singing Marshes"
+	},
+	"korgalls-hovel": {
+		"name": "Kor'gall's Hovel"
+	},
+	"summerjoy-shoal": {
+		"name": "Summerjoy Shoal"
+	},
+	"ancient-bough-shallow-crossing": {
+		"name": "Ancient Bough & Shallow Crossing"
+	},
+	"hatecoil-warcamp": {
+		"name": "Hatecoil Warcamp"
+	},
+	"timeworn-strand": {
+		"name": "Timeworn Strand"
+	},
+	"arena-of-annihilation": {
+		"name": "Arena of Annihilation"
+	},
+	"the-veiled-isles": {
+		"name": "The Veiled Isles"
+	},
+	"pools-of-purity": {
+		"name": "Pools of Purity"
+	},
+	"the-pool-of-askar": {
+		"name": "The Pool of Ask'ar"
+	},
+	"the-temple-of-purity": {
+		"name": "The Temple of Purity"
+	},
+	"korinnas-conservatory-firstbornes-bounty": {
+		"name": "Korinna's Conservatory & Firstborne's Bounty"
+	},
+	"the-royal-pond": {
+		"name": "The Royal Pond"
+	},
+	"fizzpsrings-resort": {
+		"name": "Fizzpsrings Resort"
+	},
+	"spiritsong-river": {
+		"name": "Spiritsong River"
+	},
+	"puritys-reflection-aspirants-crucible": {
+		"name": "Purity's Reflection & Aspirant's Crucible"
+	},
+	"fizzsprings-resort": {
+		"name": "Fizzsprings Resort"
+	},
+	"grassy-cline": {
+		"name": "Grassy Cline"
+	},
+	"screaming-gully": {
+		"name": "Screaming Gully"
+	},
+	"gloaming-reef-valsharah": {
+		"name": "Gloaming Reef"
+	},
+	"nexus-port-extraction-coast": {
+		"name": "Nexus Port & Extraction Coast"
+	},
+	"archival-assault": {
+		"name": "Archival Assault"
+	},
+	"locus-point": {
+		"name": "Locus Point"
+	},
+	"pit-of-spite": {
+		"name": "Pit of Spite"
+	},
+	"kuuros-claim": {
+		"name": "Kuuro's Claim"
+	},
+	"shattrath-city-exodar": {
+		"name": "Shattrath City"
+	},
+	"oronaar-collapse": {
+		"name": "Oronaar Collapse"
+	},
+	"vision-of-stormwind": {
+		"name": "Vision of Stormwind"
+	},
+	"the-buzz-barns": {
+		"name": "The Buzz Barns"
+	},
+	"the-flaming-taps": {
+		"name": "The Flaming Taps"
+	},
+	"droning-precipice": {
+		"name": "Droning Precipice"
+	},
+	"house-of-plagues": {
+		"name": "House of Plagues"
+	},
+	"quorum-of-the-seekers": {
+		"name": "Quorum of the Seekers"
+	},
+	"the-black-empire": {
+		"name": "The Black Empire"
+	},
+	"worldsoul-terror": {
+		"name": "Worldsoul Terror"
+	},
+	"the-four-stingers": {
+		"name": "The Four Stingers"
+	},
+	"the-four-stingers-the-bone-pit": {
+		"name": "The Four Stingers & The Bone Pit"
+	},
+	"separation-chamber": {
+		"name": "Separation Chamber"
+	},
+	"house-of-eyes-nurakkir": {
+		"name": "House of Eyes & Nurakkir"
+	},
+	"zulnazman-xalvor": {
+		"name": "Zul'Nazman & Xal'vor"
+	},
+	"burning-thicket-ossein-foundry": {
+		"name": "Burning Thicket & Ossein Foundry"
+	},
+	"shadowmire": {
+		"name": "Shadowmire"
+	},
+	"xalvor": {
+		"name": "Xal'vor"
+	},
+	"rosalines-apiary": {
+		"name": "Rosaline's Apiary"
+	},
+	"priory-of-the-sacred-flame-hallowfall": {
+		"name": "Priory of the Sacred Flame"
+	},
+	"the-prickly-grove": {
+		"name": "The Prickly Grove"
+	},
+	"ruby-lifeshrine": {
+		"name": "Ruby Lifeshrine"
+	},
+	"highland-flats": {
+		"name": "Highland Flats"
+	},
+	"honeyback-hatchery": {
+		"name": "Honeyback Hatchery"
+	},
+	"barbthorn-ridge": {
+		"name": "Barbthorn Ridge"
+	},
+	"mildenhall-meadery-wendigo-highlands": {
+		"name": "Mildenhall Meadery & Wendigo Highlands"
+	},
+	"east-of-murkbog": {
+		"name": "East of Murkbog"
+	},
+	"gorian-falls": {
+		"name": "Gorian Falls"
+	},
+	"wreck-of-the-mother-lode": {
+		"name": "Wreck of the Mother Lode"
+	},
+	"tangleheart": {
+		"name": "Tangleheart"
+	},
+	"swamplight-cave": {
+		"name": "Swamplight Cave"
+	},
+	"paoquan-hollow": {
+		"name": "Paoquan Hollow"
+	},
+	"gossamer-cliffs": {
+		"name": "Gossamer Cliffs"
+	},
+	"dabyries-farmstead": {
+		"name": "Dabyrie's Farmstead"
+	},
+	"misty-valley": {
+		"name": "Misty Valley"
+	},
+	"the-comb": {
+		"name": "The Comb"
+	},
+	"the-slithering-scar": {
+		"name": "The Slithering Scar"
+	},
+	"thaldarah-grove": {
+		"name": "Thal'darah Grove"
+	},
+	"drake-eyes-pond": {
+		"name": "Drake Eye's Pond"
+	},
+	"stonefray-cliffs": {
+		"name": "Stonefray Cliffs"
+	},
+	"emberwatch": {
+		"name": "Emberwatch"
+	},
+	"blushwater-brook-and-winterdeep-basin": {
+		"name": "Blushwater Brook and Winterdeep Basin"
+	},
+	"the-growthworks-banks-of-life": {
+		"name": "The Growthworks & Banks of Life"
+	},
+	"dojani-river": {
+		"name": "Dojani River"
+	},
+	"emerald-glade": {
+		"name": "Emerald Glade"
+	},
+	"emerald-hills-golf-course": {
+		"name": "Emerald Hills Golf Course"
+	},
+	"dreamers-pavilion": {
+		"name": "Dreamer's Pavilion"
+	},
+	"gorloc-shore": {
+		"name": "Gorloc Shore"
+	},
+	"halls-of-infusion": {
+		"name": "Halls of Infusion"
+	},
+	"mistvale": {
+		"name": "Mistvale"
+	},
+	"forlorn-delta": {
+		"name": "Forlorn Delta"
+	},
+	"the-skybridge-the-coiled-isle": {
+		"name": "The Skybridge"
+	},
+	"hall-of-beasts-the-golden-pasture": {
+		"name": "Hall of Beasts & The Golden Pasture"
+	},
+	"small-shrine": {
+		"name": "Small Shrine"
+	},
+	"forge-of-the-zephyr": {
+		"name": "Forge of the Zephyr"
+	},
+	"sunken-temple": {
+		"name": "Sunken Temple"
+	},
+	"sanctum-of-the-fallen-god": {
+		"name": "Sanctum of the Fallen God"
+	},
+	"sethekk-hollow": {
+		"name": "Sethekk Hollow"
+	},
+	"altar-of-quetzlun": {
+		"name": "Altar of Quetz'lun"
+	},
+	"draktharon-overlook": {
+		"name": "Drak'Tharon Overlook"
+	},
+	"smoldering-perch": {
+		"name": "Smoldering Perch"
+	},
+	"gloomtails-den": {
+		"name": "Gloomtail's Den"
+	},
+	"the-slough-garden-of-the-loa": {
+		"name": "The Slough & Garden of the Loa"
+	},
+	"merithras-watch": {
+		"name": "Merithra's Watch"
+	},
+	"boulderslide-cavern": {
+		"name": "Boulderslide Cavern"
+	},
+	"the-shifting-mire": {
+		"name": "The Shifting Mire"
+	},
+	"blackrock-stronghold": {
+		"name": "Blackrock Stronghold"
+	},
+	"underground-burrows": {
+		"name": "Underground Burrows"
+	},
+	"the-wormlands": {
+		"name": "The Wormlands"
+	},
+	"rumshackle-the-fangs": {
+		"name": "Rumshackle & The Fangs"
+	},
+	"grudge-grotto": {
+		"name": "Grudge Grotto"
+	},
+	"the-forgotten-depths": {
+		"name": "The Forgotten Depths"
+	},
+	"chittering-den-azj-kahet": {
+		"name": "Chittering Den"
+	},
+	"ancient-falls-opportunity-point": {
+		"name": "Ancient Falls & Opportunity Point"
+	},
+	"wanderers-landing": {
+		"name": "Wanderer's Landing"
+	},
+	"coldwind-heights": {
+		"name": "Coldwind Heights"
+	},
+	"greystone-enclave": {
+		"name": "Greystone Enclave"
+	},
+	"path-of-the-worm": {
+		"name": "Path of the Worm"
+	},
+	"amberlight-cavern": {
+		"name": "Amberlight Cavern"
+	},
+	"earthmothers-bounty": {
+		"name": "Earthmother's Bounty"
+	},
+	"crusaders-coliseum-trial-of-the-crusader": {
+		"name": "Crusaders' Coliseum: Trial of the Crusader"
+	},
+	"frostwind-dunes": {
+		"name": "Frostwind Dunes"
+	},
+	"highmountain-summit": {
+		"name": "Highmountain Summit"
+	},
+	"chills-reach": {
+		"name": "Chill's Reach"
+	},
+	"feltotem-caverns-quest-instance": {
+		"name": "Feltotem Caverns (quest instance)"
+	},
+	"soul-ruin": {
+		"name": "Soul Ruin"
+	},
+	"isle-of-reckoning": {
+		"name": "Isle of Reckoning"
+	},
+	"earthcrawl-mines": {
+		"name": "Earthcrawl Mines"
+	},
+	"dragonblight-the-deaths-of-chromie": {
+		"name": "Dragonblight"
+	},
+	"magmaws-fissure": {
+		"name": "Magmaw's Fissure"
+	},
+	"theater-of-pain-iron-trench": {
+		"name": "Theater of Pain & Iron Trench"
+	},
+	"trophy-hall": {
+		"name": "Trophy Hall"
+	},
+	"shadowfen": {
+		"name": "Shadowfen"
+	},
+	"lightless-depths": {
+		"name": "Lightless Depths"
+	},
+	"tu-shen-burial-ground": {
+		"name": "Tu Shen Burial Ground"
+	},
+	"the-broken-tower": {
+		"name": "The Broken Tower"
+	},
+	"altar-of-rot": {
+		"name": "Altar of Rot"
+	},
+	"arinor-gardens": {
+		"name": "Arinor Gardens"
+	},
+	"ankhaten-harbor": {
+		"name": "Ankhaten Harbor"
+	},
+	"the-festering-core": {
+		"name": "The Festering Core"
+	},
+	"dalaran-broken-isles": {
+		"name": "Dalaran (Broken Isles)"
+	},
+	"kriegvals-rest": {
+		"name": "Kriegval's Rest"
+	},
+	"amirdrassil-dragon-isles-zone": {
+		"name": "Amirdrassil (Dragon Isles Zone)"
+	},
+	"pandaria-multiple-regions": {
+		"name": "Pandaria (multiple regions)"
+	},
+	"dragonheart-outpost": {
+		"name": "Dragonheart Outpost"
+	},
+	"obsidian-throne": {
+		"name": "Obsidian Throne"
+	},
+	"eye-of-azshara-non-instanced": {
+		"name": "Eye of Azshara (Non-Instanced)"
+	},
+	"the-wandering-isle-open-zone": {
+		"name": "The Wandering Isle (Open Zone)"
+	},
+	"hour-of-twilight": {
+		"name": "Hour of Twilight"
+	},
+	"the-wandering-isle-pandaren-starting-zone": {
+		"name": "The Wandering Isle (Pandaren Starting Zone)"
+	},
+	"pei-wu-forest-the-wandering-isle-open-zone": {
+		"name": "Pei-Wu Forest"
+	},
+	"eversong-woods-classic": {
+		"name": "Eversong Woods (Classic)"
+	},
+	"the-sinkhole": {
+		"name": "The Sinkhole"
+	},
+	"tak-rethan-abyss": {
+		"name": "Tak-Rethan Abyss"
+	},
+	"dalaran-northrend": {
+		"name": "Dalaran (Northrend)"
+	},
+	"viridescent-thicket-amirdrassil-dragon-isles-zone": {
+		"name": "Viridescent Thicket"
+	},
+	"the-dawning-valley-the-wandering-isle-open-zone": {
+		"name": "The Dawning Valley"
+	},
+	"fangrila": {
+		"name": "Fang'rila"
+	},
+	"blackrock-depths-anniversary-version": {
+		"name": "Blackrock Depths (Anniversary Version)"
+	},
+	"ohnaran-plains": {
+		"name": "Ohn'aran Plains"
+	},
+	"emberflow": {
+		"name": "Emberflow"
+	},
+	"the-rows-the-wandering-isle-open-zone": {
+		"name": "The Rows"
+	},
+	"sunstrider-isle-eversong-woods-classic": {
+		"name": "Sunstrider Isle"
+	},
+	"the-dread-pit": {
+		"name": "The Dread Pit"
+	},
+	"ironforge": {
+		"name": "Ironforge"
+	},
+	"singing-fen-amirdrassil-dragon-isles-zone": {
+		"name": "Singing Fen"
+	},
+	"twisting-corridors": {
+		"name": "Twisting Corridors"
+	},
+	"twisting-wood-amirdrassil-dragon-isles-zone": {
+		"name": "Twisting Wood"
+	},
+	"the-singing-pools-the-wandering-isle-open-zone": {
+		"name": "The Singing Pools"
+	},
+	"maraudon-non-instanced": {
+		"name": "Maraudon (Non-Instanced)"
+	},
+	"terrace-of-the-moon": {
+		"name": "Terrace of the Moon"
+	},
+	"ratchet-booty-bay": {
+		"name": "Ratchet & Booty Bay"
+	},
+	"frostwall-lunarfall-garrisons": {
+		"name": "Frostwall & Lunarfall (Garrisons)"
+	},
+	"whorlwing-basin-sprigling-gloam": {
+		"name": "Whorlwing Basin & Sprigling Gloam"
+	},
+	"amirdrassil": {
+		"name": "Amirdrassil"
+	},
+	"dawning-watchtower": {
+		"name": "Dawning Watchtower"
+	},
+	"pei-wu-forest": {
+		"name": "Pei-Wu Forest"
+	},
+	"mandori-village": {
+		"name": "Mandori Village"
+	},
+	"iron-docks-dungeon-and-non-instanced": {
+		"name": "Iron Docks (Dungeon and Non-Instanced)"
+	},
+	"aegwynns-gallery": {
+		"name": "Aegwynn's Gallery"
+	},
+	"cliffdrip-camp": {
+		"name": "Cliffdrip Camp"
+	},
+	"the-dawning-valley": {
+		"name": "The Dawning Valley"
+	},
+	"newstead": {
+		"name": "Newstead"
+	},
+	"the-grim-guzzler": {
+		"name": "The Grim Guzzler"
+	},
+	"the-dai-lo-farmstead": {
+		"name": "The Dai-Lo Farmstead"
+	},
+	"the-rows": {
+		"name": "The Rows"
+	},
+	"the-singing-pools": {
+		"name": "The Singing Pools"
+	},
+	"by-wreck-of-the-skyseeker": {
+		"name": "By Wreck of the Skyseeker"
+	},
+	"teeming-burrow": {
+		"name": "Teeming Burrow"
+	},
+	"amani-pass-leech-bog": {
+		"name": "Amani Pass & Leech Bog"
+	},
+	"duskwither-grounds": {
+		"name": "Duskwither Grounds"
+	},
+	"circle-of-wills": {
+		"name": "Circle of Wills"
+	},
+	"ridge-of-laughing-winds": {
+		"name": "Ridge of Laughing Winds"
+	},
+	"the-elders-path": {
+		"name": "The Elder's Path"
+	},
+	"pei-wu-forest-wreck-of-the-skyseeker": {
+		"name": "Pei-Wu Forest & Wreck of the Skyseeker"
+	},
+	"westwind-weald-barbthorn-ridge": {
+		"name": "Westwind Weald & Barbthorn Ridge"
 	}
 }

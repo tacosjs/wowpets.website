@@ -1,0 +1,12 @@
+{
+	"name": "Gold-Orange Mechanical Chicken",
+	"variant": "Gold-Orange",
+	"npcs": {
+		"44616": {
+			"name": "Haywire Battle-Chicken"
+		},
+		"184287": {
+			"name": "Full-Winged Peckinator"
+		}
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"id": "lightningworg-darkblue",
+	"family": "spiritbeast",
+	"modelGroup": "spiritstormwolves",
+	"npcs": [
+		{
+			"id": 151148,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-storm-peaks",
+					"area": "temple-of-storms"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 217735,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "dhar-oztan"
+				}
+			]
+		}
+	]
+}

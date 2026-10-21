@@ -1,0 +1,12 @@
+{
+	"name": "Purple Dreamsaber",
+	"variant": "Purple",
+	"npcs": {
+		"210046": {
+			"name": "Keen-eyed Cian"
+		},
+		"210335": {
+			"name": "Hunting Dreamsaber"
+		}
+	}
+}

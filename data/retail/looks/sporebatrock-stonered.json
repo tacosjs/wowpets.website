@@ -1,0 +1,228 @@
+{
+	"id": "sporebatrock-stonered",
+	"family": "ray",
+	"modelGroup": "shalewings",
+	"npcs": [
+		{
+			"id": 202317,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "sulfur-wastes"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 205065,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "the-throughway"
+				}
+			]
+		},
+		{
+			"id": 201306,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "the-crystal-fields"
+				}
+			]
+		},
+		{
+			"id": 222347,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn"
+				}
+			]
+		},
+		{
+			"id": 222869,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "shadowvein-extraction-site"
+				}
+			]
+		},
+		{
+			"id": 226648,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn"
+				}
+			]
+		},
+		{
+			"id": 226413,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "brunwins-terrace"
+				}
+			]
+		},
+		{
+			"id": 226381,
+			"tameable": true,
+			"level": {
+				"min": 74,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "the-cataract-river"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 221217,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "obsidian-hollow"
+				}
+			]
+		},
+		{
+			"id": 242773,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "drethamar-cavern"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 251550,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "harkuai-verdant-sepulcher"
+				}
+			]
+		},
+		{
+			"id": 237258,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "den-of-echoes"
+				}
+			]
+		},
+		{
+			"id": 250321,
+			"tameable": true,
+			"level": {
+				"min": 81,
+				"max": 91
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "the-blinding-bloom"
+				}
+			],
+			"keepsName": true
+		}
+	],
+	"alsoNpcs": [
+		203596,
+		205840,
+		203785,
+		202785,
+		215384,
+		212364,
+		212368,
+		205812,
+		204157,
+		220887
+	]
+}

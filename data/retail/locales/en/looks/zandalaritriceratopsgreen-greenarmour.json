@@ -1,0 +1,12 @@
+{
+	"name": "Armoured Green Direhorn",
+	"variant": "Armoured Green Direhorn",
+	"npcs": {
+		"132301": {
+			"name": "Linebreaker Grin'cha"
+		},
+		"132302": {
+			"name": "Linebreaker Wol'ko"
+		}
+	}
+}

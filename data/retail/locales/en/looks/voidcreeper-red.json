@@ -1,0 +1,32 @@
+{
+	"name": "Red Void Creeper",
+	"variant": "Red Void Creeper",
+	"npcs": {
+		"232108": {
+			"name": "Morgil the Netherspawn"
+		},
+		"234282": {
+			"name": "Glutted Creeper"
+		},
+		"234421": {
+			"name": "Bound Creeper",
+			"title": "Shadowguard Voidtamer's Pet"
+		},
+		"234608": {
+			"name": "Shadowguard Bug"
+		},
+		"235344": {
+			"name": "Void Creeper"
+		},
+		"243358": {
+			"name": "Bound Creeper"
+		},
+		"245092": {
+			"name": "Burrowing Creeper"
+		},
+		"248023": {
+			"name": "Void Creeper",
+			"title": "Korgorath the Ravager's Pet"
+		}
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"id": "komododragon-purple",
+	"family": "lizard",
+	"modelGroup": "saurolisks",
+	"npcs": [
+		{
+			"id": 127939,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "warport-rastari"
+				}
+			],
+			"keepsName": true
+		}
+	],
+	"alsoNpcs": [
+		151998
+	]
+}

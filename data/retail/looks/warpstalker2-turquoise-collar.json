@@ -1,0 +1,22 @@
+{
+	"id": "warpstalker2-turquoise-collar",
+	"family": "warpstalker",
+	"modelGroup": "wirywarpstalkers",
+	"npcs": [
+		{
+			"id": 246051,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "the-bloodplains"
+				}
+			]
+		}
+	]
+}

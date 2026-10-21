@@ -1,0 +1,36 @@
+{
+	"id": "progenitorsnail-red",
+	"family": "carapid",
+	"modelGroup": "helicids",
+	"npcs": [
+		{
+			"id": 179043,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "zereth-mortis"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 185487,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zereth-mortis"
+				}
+			]
+		}
+	]
+}

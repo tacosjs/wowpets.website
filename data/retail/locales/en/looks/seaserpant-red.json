@@ -1,0 +1,10 @@
+{
+	"name": "Red-Black Abyss Worm",
+	"variant": "Red-Black",
+	"npcs": {
+		"152552": {
+			"name": "Shassera",
+			"title": "Nightmare in the Depths"
+		}
+	}
+}

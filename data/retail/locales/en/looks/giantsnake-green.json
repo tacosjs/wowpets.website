@@ -1,0 +1,15 @@
+{
+	"name": "Green Cobra",
+	"variant": "Green",
+	"npcs": {
+		"134389": {
+			"name": "Venomous Ophidian"
+		},
+		"135562": {
+			"name": "Venomous Ophidian"
+		},
+		"138540": {
+			"name": "Venomous Cobra"
+		}
+	}
+}

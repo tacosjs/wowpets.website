@@ -1,0 +1,9 @@
+{
+	"name": "Armoured Stone Gargon",
+	"variant": "Armoured Stone Gargon",
+	"npcs": {
+		"169458": {
+			"name": "Hecutis"
+		}
+	}
+}

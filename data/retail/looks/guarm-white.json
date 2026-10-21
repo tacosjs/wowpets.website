@@ -1,0 +1,62 @@
+{
+	"id": "guarm-white",
+	"family": "hound",
+	"modelGroup": "helheimhounds",
+	"npcs": [
+		{
+			"id": 91386,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "helheim"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 114323,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "trial-of-valor",
+					"area": "the-eternal-battlefield"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 177442,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-maw",
+					"area": "helgarde-keep"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 165973,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-maw",
+					"area": "the-beastwarrens"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

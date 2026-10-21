@@ -1,0 +1,39 @@
+{
+	"name": "Purple Shale Spider",
+	"variant": "Purple",
+	"npcs": {
+		"46580": {
+			"name": "Elementium Spinner"
+		},
+		"47071": {
+			"name": "Deep Spider"
+		},
+		"97720": {
+			"name": "Blightshard Skitter"
+		},
+		"101580": {
+			"name": "Tanzanite Skitterer"
+		},
+		"105585": {
+			"name": "Shardback Spiderling"
+		},
+		"105613": {
+			"name": "Shardback Skitterer"
+		},
+		"109326": {
+			"name": "Leystone Spiderling"
+		},
+		"110369": {
+			"name": "Shardback Skitterer"
+		},
+		"110371": {
+			"name": "Shardback Spiderling"
+		},
+		"135745": {
+			"name": "Shale Crawler"
+		},
+		"195406": {
+			"name": "Crystal Crawler"
+		}
+	}
+}

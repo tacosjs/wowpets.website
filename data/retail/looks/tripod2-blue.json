@@ -1,0 +1,82 @@
+{
+	"id": "tripod2-blue",
+	"family": "waterstrider",
+	"modelGroup": "mirestalkers",
+	"npcs": [
+		{
+			"id": 254203,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "the-grudge-pit-non-instanced"
+				}
+			]
+		},
+		{
+			"id": 256380,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "vale-of-mists"
+				}
+			]
+		},
+		{
+			"id": 248890,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "naitheren-grotto"
+				}
+			]
+		},
+		{
+			"id": 249166,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 1
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "vale-of-mists"
+				}
+			]
+		},
+		{
+			"id": 264326,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "naigtal",
+					"area": "soltian-marsh"
+				}
+			]
+		}
+	]
+}

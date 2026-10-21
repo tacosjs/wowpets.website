@@ -1,0 +1,45 @@
+{
+	"name": "Orange Shale Spider",
+	"variant": "Orange",
+	"npcs": {
+		"49815": {
+			"name": "Deep Spider"
+		},
+		"51067": {
+			"name": "Glint"
+		},
+		"67758": {
+			"name": "Shale Skitterers"
+		},
+		"68653": {
+			"name": "Shale Shards"
+		},
+		"70587": {
+			"name": "Shale Stalker"
+		},
+		"74509": {
+			"name": "Blue Shale Crawler"
+		},
+		"96247": {
+			"name": "Vileshard Crawler"
+		},
+		"123712": {
+			"name": "Azerite Gorger"
+		},
+		"123713": {
+			"name": "Azerite Nibbler"
+		},
+		"152834": {
+			"name": "Azerite Skitterer"
+		},
+		"153205": {
+			"name": "Gemicide"
+		},
+		"154687": {
+			"name": "Thrashing Crawler"
+		},
+		"229994": {
+			"name": "Fragmented Crawler"
+		}
+	}
+}

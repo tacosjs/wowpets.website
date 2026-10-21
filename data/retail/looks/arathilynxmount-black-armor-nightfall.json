@@ -1,0 +1,50 @@
+{
+	"id": "arathilynxmount-black-armor-nightfall",
+	"family": "cat",
+	"modelGroup": "armoredlynxes",
+	"npcs": [
+		{
+			"id": 242998,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		},
+		{
+			"id": 233262,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		},
+		{
+			"id": 240907,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "lothars-landing"
+				}
+			]
+		}
+	]
+}

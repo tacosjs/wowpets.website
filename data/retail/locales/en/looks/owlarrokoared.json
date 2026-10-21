@@ -1,0 +1,15 @@
+{
+	"name": "Red Owl",
+	"variant": "Red",
+	"npcs": {
+		"20127": {
+			"name": "Tame Kaliri"
+		},
+		"21891": {
+			"name": "Avian Ripper"
+		},
+		"23051": {
+			"name": "Monstrous Kaliri"
+		}
+	}
+}

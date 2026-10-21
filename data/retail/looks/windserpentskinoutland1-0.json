@@ -1,0 +1,23 @@
+{
+	"id": "windserpentskinoutland1-0",
+	"family": "windserpent",
+	"modelGroup": "spikedwindserpents",
+	"npcs": [
+		{
+			"id": 50790,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "swamp-of-sorrows",
+					"area": "the-shifting-mire"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

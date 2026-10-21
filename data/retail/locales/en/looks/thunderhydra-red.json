@@ -1,0 +1,33 @@
+{
+	"name": "Red Thunder Hydra",
+	"variant": "Red",
+	"npcs": {
+		"80371": {
+			"name": "Typhon"
+		},
+		"80471": {
+			"name": "Gennadian"
+		},
+		"83393": {
+			"name": "Typhon Scout"
+		},
+		"89031": {
+			"name": "Typhon Broodmother"
+		},
+		"128710": {
+			"name": "Shattered Hydra"
+		},
+		"132741": {
+			"name": "Flamescale Hydra"
+		},
+		"132742": {
+			"name": "Flamescale Strider"
+		},
+		"132743": {
+			"name": "Flamescale Wavebreaker"
+		},
+		"138299": {
+			"name": "Bloodmaw"
+		}
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"name": "Orange Magma Snail",
+	"variant": "Orange",
+	"npcs": {
+		"184851": {
+			"name": "Lava Snail"
+		},
+		"186622": {
+			"name": "Basalt Shell"
+		},
+		"186833": {
+			"name": "Spiteful Snail"
+		},
+		"191628": {
+			"name": "Lava Snail"
+		},
+		"193139": {
+			"name": "Basalt Shell"
+		},
+		"214724": {
+			"name": "Molten Slagshell"
+		},
+		"219790": {
+			"name": "Tamed Lava Snail"
+		},
+		"225391": {
+			"name": "Slagshell Slider"
+		},
+		"225393": {
+			"name": "Massive Slagshell"
+		}
+	}
+}

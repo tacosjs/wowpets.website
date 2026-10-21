@@ -1,0 +1,86 @@
+{
+	"id": "deathwargwhite",
+	"family": "stonehound",
+	"modelGroup": "gargons",
+	"npcs": [
+		{
+			"id": 167719,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "halls-of-atonement"
+				}
+			]
+		},
+		{
+			"id": 158797,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "stonevigil-overlook"
+				}
+			]
+		},
+		{
+			"id": 164197,
+			"tameable": true,
+			"level": {
+				"min": 57,
+				"max": 58
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "halls-of-atonement"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 168395,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 59
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "dredhollow"
+				}
+			]
+		},
+		{
+			"id": 162894,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "grove-of-terror"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		158702
+	]
+}

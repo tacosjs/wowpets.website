@@ -1,0 +1,36 @@
+{
+	"id": "wormskinblue",
+	"family": "worm",
+	"modelGroup": "worms",
+	"npcs": [
+		{
+			"id": 51026,
+			"tameable": true,
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "silverpine-forest"
+				}
+			],
+			"keepsName": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			}
+		},
+		{
+			"id": 11789,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 31
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maraudon"
+				}
+			]
+		}
+	]
+}

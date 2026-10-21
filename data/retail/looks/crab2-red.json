@@ -1,0 +1,129 @@
+{
+	"id": "crab2-red",
+	"family": "crab",
+	"modelGroup": "grandcrabs",
+	"npcs": [
+		{
+			"id": 127630,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "snapclaw-shore"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 153903,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "abyssal-pool"
+				}
+			]
+		},
+		{
+			"id": 263695,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 126423,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				},
+				{
+					"zone": "nazjatar"
+				}
+			]
+		},
+		{
+			"id": 147738,
+			"tameable": false,
+			"level": {
+				"min": 51,
+				"max": 51
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "darkshore",
+					"area": "mists-edge"
+				}
+			]
+		},
+		{
+			"id": 198312,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "leval-rock-isle"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		123236,
+		141872,
+		145337,
+		189313,
+		193604,
+		197898,
+		197955,
+		188328,
+		193236,
+		222312,
+		222156,
+		224876,
+		227664,
+		252222,
+		251705,
+		248460,
+		260081,
+		155943,
+		188074,
+		190133,
+		182439,
+		223057,
+		234030
+	]
+}

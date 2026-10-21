@@ -1,0 +1,22 @@
+{
+	"name": "Pale Gargon",
+	"variant": "Pale",
+	"npcs": {
+		"158797": {
+			"name": "Gargon Oppressor"
+		},
+		"162894": {
+			"name": "Lurking Soulstalker"
+		},
+		"164197": {
+			"name": "Justice",
+			"title": "The Accuser's Pet"
+		},
+		"167719": {
+			"name": "Forgotten Watcher"
+		},
+		"168395": {
+			"name": "Pain"
+		}
+	}
+}

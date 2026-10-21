@@ -1,0 +1,9 @@
+{
+	"name": "Orange Outland Hydra",
+	"variant": "Orange",
+	"npcs": {
+		"20324": {
+			"name": "Parched Hydra"
+		}
+	}
+}

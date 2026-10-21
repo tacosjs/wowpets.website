@@ -1,0 +1,21 @@
+{
+	"name": "Tan Elderhorn",
+	"variant": "Tan",
+	"npcs": {
+		"93856": {
+			"name": "Mountainstrider Bull"
+		},
+		"94151": {
+			"name": "Pinerock Elderhorn"
+		},
+		"95043": {
+			"name": "Young Mountainstrider"
+		},
+		"96267": {
+			"name": "Rockhorn Stag"
+		},
+		"146111": {
+			"name": "Twenty Points"
+		}
+	}
+}

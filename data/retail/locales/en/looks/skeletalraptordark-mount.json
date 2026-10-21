@@ -1,0 +1,9 @@
+{
+	"name": "Saddled Dark Skeletal Raptor",
+	"variant": "Saddled Dark",
+	"npcs": {
+		"52157": {
+			"name": "Ohgan"
+		}
+	}
+}

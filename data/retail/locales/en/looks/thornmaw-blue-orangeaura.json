@@ -1,0 +1,9 @@
+{
+	"name": "Spectral Orange Thornmaw",
+	"variant": "Spectral Orange",
+	"npcs": {
+		"255847": {
+			"name": "Paint-Crazed Thornmaw"
+		}
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"id": "elekkwild01",
+	"family": "mammoth",
+	"modelGroup": "classicelekks",
+	"npcs": [
+		{
+			"id": 21802,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-outland",
+					"area": "ruins-of-baari"
+				}
+			]
+		},
+		{
+			"id": 18334,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-outland"
+				}
+			]
+		}
+	]
+}

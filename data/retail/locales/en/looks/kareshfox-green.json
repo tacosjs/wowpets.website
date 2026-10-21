@@ -1,0 +1,15 @@
+{
+	"name": "Green Thorntail",
+	"variant": "Green",
+	"npcs": {
+		"233346": {
+			"name": "Thorntail Matriarch"
+		},
+		"244056": {
+			"name": "Thorntail Matriarch"
+		},
+		"249797": {
+			"name": "Eager Thorntail"
+		}
+	}
+}

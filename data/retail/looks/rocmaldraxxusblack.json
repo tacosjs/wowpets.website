@@ -1,0 +1,123 @@
+{
+	"id": "rocmaldraxxusblack",
+	"family": "birdofprey",
+	"modelGroup": "deathrocs",
+	"npcs": [
+		{
+			"id": 168036,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "unfallens-sanctum"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 170781,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "bleak-redoubt"
+				}
+			]
+		},
+		{
+			"id": 168310,
+			"tameable": true,
+			"level": {
+				"min": 53,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "plaguefall"
+				}
+			]
+		},
+		{
+			"id": 168153,
+			"tameable": true,
+			"level": {
+				"min": 53,
+				"max": 61
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "plaguefall"
+				}
+			]
+		},
+		{
+			"id": 162237,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "house-of-rituals"
+				}
+			]
+		},
+		{
+			"id": 168965,
+			"tameable": false,
+			"level": {
+				"min": 53,
+				"max": 53
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "plaguefall"
+				}
+			]
+		},
+		{
+			"id": 168314,
+			"tameable": false,
+			"level": {
+				"min": 53,
+				"max": 53
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "plaguefall"
+				}
+			]
+		},
+		{
+			"id": 168315,
+			"tameable": false,
+			"level": {
+				"min": 53,
+				"max": 53
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "plaguefall"
+				}
+			]
+		}
+	]
+}

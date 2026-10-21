@@ -1,0 +1,37 @@
+{
+	"name": "Blue-Purple Flowering Crystalspine",
+	"variant": "Blue-Purple",
+	"npcs": {
+		"187400": {
+			"name": "Lord Basilton",
+			"title": "Executive Assistant"
+		},
+		"189148": {
+			"name": "Wounded Violet Pineback"
+		},
+		"190743": {
+			"name": "Frosty Flowerpine"
+		},
+		"192882": {
+			"name": "Snowy Crystalspine"
+		},
+		"193044": {
+			"name": "Prickly Crystalspine"
+		},
+		"193891": {
+			"name": "Elusive Crystalspine"
+		},
+		"194414": {
+			"name": "Snowspine Snuffler"
+		},
+		"195541": {
+			"name": "Elusive Flourishing Quillbloom"
+		},
+		"203668": {
+			"name": "Shimmering Crystalspine"
+		},
+		"233276": {
+			"name": "Shimmering Crystalspine"
+		}
+	}
+}

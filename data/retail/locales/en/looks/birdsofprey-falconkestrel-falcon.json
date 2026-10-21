@@ -1,0 +1,39 @@
+{
+	"name": "White-Spotted Tawny Falcon",
+	"variant": "White-Spotted Tawny",
+	"npcs": {
+		"131764": {
+			"name": "Winston"
+		},
+		"136143": {
+			"name": "Miranda"
+		},
+		"142273": {
+			"name": "Hannibal"
+		},
+		"151811": {
+			"name": "Suntouched Falcon"
+		},
+		"151883": {
+			"name": "Anaua"
+		},
+		"220300": {
+			"name": "Bandtail Kestrel"
+		},
+		"221065": {
+			"name": "Fluffy Sharpface"
+		},
+		"227247": {
+			"name": "Alpine Hawk"
+		},
+		"227627": {
+			"name": "Grandtalon Kestral"
+		},
+		"227638": {
+			"name": "Sharptalon Kestral"
+		},
+		"229534": {
+			"name": "Stormfeather Falcon"
+		}
+	}
+}

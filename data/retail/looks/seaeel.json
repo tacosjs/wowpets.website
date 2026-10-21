@@ -1,0 +1,58 @@
+{
+	"id": "seaeel",
+	"family": "serpent",
+	"modelGroup": "eelserpents",
+	"npcs": [
+		{
+			"id": 129980,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley"
+				}
+			]
+		},
+		{
+			"id": 137944,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley",
+					"area": "windswept-coast"
+				}
+			]
+		},
+		{
+			"id": 149707,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "azshari-terrace"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		218735,
+		222810,
+		215680,
+		263393,
+		222794
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Saddled Grey Skeletal Horse",
+	"variant": "Saddled Grey Skeletal Horse",
+	"npcs": {
+		"15547": {
+			"name": "Spectral Charger"
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Purple Crab",
+	"variant": "Purple",
+	"npcs": {
+		"123290": {
+			"name": "Sparkleshell Clacker"
+		},
+		"132650": {
+			"name": "Ol' Bubbly"
+		},
+		"257265": {
+			"name": "Crazed Crawler"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Dark Death Boar",
+	"variant": "Dark",
+	"npcs": {
+		"168342": {
+			"name": "Roaming Crackedskull"
+		}
+	}
+}

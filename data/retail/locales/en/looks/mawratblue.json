@@ -1,0 +1,12 @@
+{
+	"name": "Purple Mawrat",
+	"variant": "Purple",
+	"npcs": {
+		"172524": {
+			"name": "Skittering Broodmother"
+		},
+		"183466": {
+			"name": "Thieving Mawrat"
+		}
+	}
+}

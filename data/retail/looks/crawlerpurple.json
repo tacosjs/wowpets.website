@@ -1,0 +1,21 @@
+{
+	"id": "crawlerpurple",
+	"family": "ravager",
+	"modelGroup": "ravagers",
+	"npcs": [
+		{
+			"id": 22123,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blades-edge-mountains"
+				}
+			]
+		}
+	]
+}

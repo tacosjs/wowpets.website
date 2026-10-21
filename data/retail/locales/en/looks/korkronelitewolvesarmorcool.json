@@ -1,0 +1,9 @@
+{
+	"name": "Brown Kor",
+	"variant": "Brown Armor",
+	"npcs": {
+		"71921": {
+			"name": "Darkfang"
+		}
+	}
+}

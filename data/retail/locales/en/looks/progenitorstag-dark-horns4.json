@@ -1,0 +1,9 @@
+{
+	"name": "Black Cervid w/ Swept Horns",
+	"variant": "Black",
+	"npcs": {
+		"182269": {
+			"name": "Carnivorous Cervid"
+		}
+	}
+}

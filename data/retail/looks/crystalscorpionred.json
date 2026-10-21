@@ -1,0 +1,64 @@
+{
+	"id": "crystalscorpionred",
+	"family": "scorpid",
+	"modelGroup": "crystalscorpions",
+	"npcs": [
+		{
+			"id": 108359,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-nighthold"
+				}
+			]
+		},
+		{
+			"id": 194408,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "forge-of-arcanum"
+				}
+			]
+		},
+		{
+			"id": 215881,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn"
+				},
+				{
+					"zone": "the-ringing-deeps"
+				},
+				{
+					"zone": "hallowfall"
+				},
+				{
+					"zone": "azj-kahet"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

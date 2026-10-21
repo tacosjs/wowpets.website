@@ -1,0 +1,82 @@
+{
+	"id": "dragonflyred",
+	"family": "wasp",
+	"modelGroup": "hookwasps",
+	"npcs": [
+		{
+			"id": 81168,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "wreck-of-the-mother-lode"
+				}
+			]
+		},
+		{
+			"id": 85403,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "wreck-of-the-mother-lode"
+				}
+			]
+		},
+		{
+			"id": 140594,
+			"tameable": true,
+			"level": {
+				"min": 51,
+				"max": 51
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "uldir",
+					"area": "archives-of-eternity"
+				}
+			]
+		},
+		{
+			"id": 90314,
+			"tameable": false,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "everbloom-wilds"
+				}
+			]
+		},
+		{
+			"id": 191187,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "war-of-the-shifting-sands"
+				}
+			]
+		}
+	]
+}

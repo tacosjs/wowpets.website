@@ -1,0 +1,44 @@
+{
+	"id": "berserker-red",
+	"family": "scalehide",
+	"modelGroup": "ultradons",
+	"npcs": [
+		{
+			"id": 247672,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "the-molt"
+				}
+			]
+		},
+		{
+			"id": 238409,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "nexus-point-antius"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		249620,
+		257955,
+		244624,
+		257960,
+		257115
+	]
+}

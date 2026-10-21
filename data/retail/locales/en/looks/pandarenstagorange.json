@@ -1,0 +1,24 @@
+{
+	"name": "Patterned Orange Stag",
+	"variant": "Patterned Orange",
+	"npcs": {
+		"59743": {
+			"name": "Silverhorn Stag"
+		},
+		"59745": {
+			"name": "Silverhorn Calf"
+		},
+		"96609": {
+			"name": "Gildedfur Stag"
+		},
+		"106837": {
+			"name": "Sablehorn Stag"
+		},
+		"140267": {
+			"name": "Greathorn Uwanu"
+		},
+		"140271": {
+			"name": "Severhorn"
+		}
+	}
+}

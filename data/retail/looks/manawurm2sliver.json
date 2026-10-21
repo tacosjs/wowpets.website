@@ -1,0 +1,330 @@
+{
+	"id": "manawurm2sliver",
+	"family": "serpent",
+	"modelGroup": "manawyrms",
+	"npcs": [
+		{
+			"id": 15274,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 10
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods-classic",
+					"area": "sunstrider-isle-eversong-woods-classic"
+				}
+			]
+		},
+		{
+			"id": 16310,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ghostlands",
+					"area": "sanctum-of-the-moon-ghostlands"
+				}
+			]
+		},
+		{
+			"id": 89393,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna"
+				}
+			]
+		},
+		{
+			"id": 107098,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna",
+					"area": "azurewing-repose"
+				}
+			]
+		},
+		{
+			"id": 50317,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "winterspring",
+					"area": "mazthoril"
+				}
+			]
+		},
+		{
+			"id": 19306,
+			"tameable": true,
+			"level": {
+				"min": 19,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mana-tombs"
+				}
+			]
+		},
+		{
+			"id": 24761,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "magisters-terrace",
+					"area": "halls-of-theory"
+				}
+			]
+		},
+		{
+			"id": 105884,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "falanaar-tunnels"
+				}
+			]
+		},
+		{
+			"id": 232106,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "magisters-terrace-midnight"
+				}
+			]
+		},
+		{
+			"id": 187114,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 1
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "camp-nowhere"
+				}
+			]
+		},
+		{
+			"id": 90242,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna",
+					"area": "ley-ruins-of-zarkhenar"
+				}
+			]
+		},
+		{
+			"id": 19731,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "netherstorm",
+					"area": "sunfury-hold"
+				}
+			]
+		},
+		{
+			"id": 105703,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "court-of-stars"
+				}
+			]
+		},
+		{
+			"id": 114364,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "return-to-karazhan",
+					"area": "the-menagerie-return-to-karazhan"
+				}
+			]
+		},
+		{
+			"id": 109411,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "shalaran"
+				}
+			]
+		},
+		{
+			"id": 109023,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "twilight-vineyards"
+				}
+			]
+		},
+		{
+			"id": 110386,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "withered-training-instance",
+					"area": "falanaar-tunnels-withered-training-instance"
+				}
+			]
+		},
+		{
+			"id": 112804,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-nighthold"
+				}
+			]
+		},
+		{
+			"id": 114751,
+			"tameable": false,
+			"level": {
+				"min": 46,
+				"max": 46
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "suramar-city"
+				}
+			]
+		},
+		{
+			"id": 180858,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-veiled-market",
+					"area": "tazavesh"
+				}
+			]
+		},
+		{
+			"id": 236191,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh"
+				}
+			]
+		},
+		{
+			"id": 231024,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh"
+				}
+			]
+		}
+	]
+}

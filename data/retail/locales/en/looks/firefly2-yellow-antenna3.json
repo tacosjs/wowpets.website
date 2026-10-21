@@ -1,0 +1,18 @@
+{
+	"name": "Orange Candlefly w/ Feathery Antennae",
+	"variant": "Orange w/ Feathery Antennae",
+	"npcs": {
+		"213960": {
+			"name": "Domesticated Candlefly"
+		},
+		"214963": {
+			"name": "Wandering Glimmerfly"
+		},
+		"225515": {
+			"name": "Diminutive Glowmite"
+		},
+		"256056": {
+			"name": "Luminescent Hatchling"
+		}
+	}
+}

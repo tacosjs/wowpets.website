@@ -1,0 +1,90 @@
+{
+	"id": "progenitorworm-dark-moss",
+	"family": "worm",
+	"modelGroup": "annelids",
+	"npcs": [
+		{
+			"id": 179005,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "untamed-verdure"
+				}
+			]
+		},
+		{
+			"id": 182360,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "untamed-verdure"
+				}
+			]
+		},
+		{
+			"id": 181075,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "untamed-verdure"
+				}
+			]
+		},
+		{
+			"id": 179962,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "untamed-verdure"
+				}
+			]
+		},
+		{
+			"id": 184324,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "provis-flora"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		182363
+	]
+}

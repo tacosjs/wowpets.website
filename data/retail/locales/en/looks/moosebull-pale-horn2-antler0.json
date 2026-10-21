@@ -1,0 +1,12 @@
+{
+	"name": "Grey Bruffalon w/ No Antlers & Shorter Nose Horn",
+	"variant": "Grey",
+	"npcs": {
+		"193719": {
+			"name": "Pinehoof Cow"
+		},
+		"193739": {
+			"name": "Forkriver Pinehoof"
+		}
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"id": "mukleech-5",
+	"family": "worm",
+	"modelGroup": "mukleeches",
+	"npcs": [
+		{
+			"id": 255141,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "leech-bog"
+				}
+			]
+		},
+		{
+			"id": 253489,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "the-ring-of-glory-the-whispering-marsh"
+				}
+			]
+		},
+		{
+			"id": 265337,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "mlurkkr-mire"
+				}
+			]
+		}
+	]
+}

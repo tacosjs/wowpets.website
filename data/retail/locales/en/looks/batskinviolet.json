@@ -1,0 +1,30 @@
+{
+	"name": "Purple-Red Bat",
+	"variant": "Purple-Red",
+	"npcs": {
+		"1554": {
+			"name": "Vampiric Duskbat"
+		},
+		"8600": {
+			"name": "Plaguebat"
+		},
+		"8602": {
+			"name": "Monstrous Plaguebat"
+		},
+		"16175": {
+			"name": "Vampiric Shadowbat"
+		},
+		"48456": {
+			"name": "Rabid Screecher"
+		},
+		"50329": {
+			"name": "Rrakk"
+		},
+		"68497": {
+			"name": "Vampiric Cave Bat"
+		},
+		"69352": {
+			"name": "Vampiric Cave Bat"
+		}
+	}
+}

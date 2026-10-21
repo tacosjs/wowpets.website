@@ -1,0 +1,18 @@
+{
+	"name": "Thundering Red Cloud Serpent",
+	"variant": "Thundering Red",
+	"npcs": {
+		"64403": {
+			"name": "Alani",
+			"title": "The Stormborn"
+		},
+		"64965": {
+			"name": "Milau",
+			"title": "Child of Alani"
+		},
+		"163386": {
+			"name": "Alani",
+			"title": "The Stormborn"
+		}
+	}
+}

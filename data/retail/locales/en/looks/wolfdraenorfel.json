@@ -1,0 +1,27 @@
+{
+	"name": "Fel Green Maned Wolf",
+	"variant": "Fel Green",
+	"npcs": {
+		"73101": {
+			"name": "Cursed Wolf"
+		},
+		"73205": {
+			"name": "Mother of Wolves"
+		},
+		"90416": {
+			"name": "Tormented Wolf"
+		},
+		"90434": {
+			"name": "Ceraxas"
+		},
+		"90517": {
+			"name": "Felbound Wolf"
+		},
+		"95248": {
+			"name": "Felbound Stalker"
+		},
+		"119189": {
+			"name": "Felcorrupted Alpha"
+		}
+	}
+}

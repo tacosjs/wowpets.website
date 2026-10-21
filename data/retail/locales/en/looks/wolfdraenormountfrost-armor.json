@@ -1,0 +1,9 @@
+{
+	"name": "Armored Silver Maned Wolf",
+	"variant": "Armored Silver Maned Wolf",
+	"npcs": {
+		"76471": {
+			"name": "Snowsong"
+		}
+	}
+}

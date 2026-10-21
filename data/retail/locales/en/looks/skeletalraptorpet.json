@@ -1,0 +1,9 @@
+{
+	"name": "Bronze Skeletal Raptor",
+	"variant": "Bronze",
+	"npcs": {
+		"126117": {
+			"name": "Bound Scavenger"
+		}
+	}
+}

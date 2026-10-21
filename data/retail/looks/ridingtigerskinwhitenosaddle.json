@@ -1,0 +1,35 @@
+{
+	"id": "ridingtigerskinwhitenosaddle",
+	"family": "cat",
+	"modelGroup": "sabercats",
+	"npcs": [
+		{
+			"id": 7431,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "winterspring"
+				}
+			]
+		},
+		{
+			"id": 4242,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "darnassus"
+				}
+			]
+		}
+	]
+}

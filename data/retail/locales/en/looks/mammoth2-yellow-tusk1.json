@@ -1,0 +1,15 @@
+{
+	"name": "Pale Orange Mammoth w/ Shorter Tusks",
+	"variant": "Pale Orange",
+	"npcs": {
+		"187939": {
+			"name": "Plainswalker Calf"
+		},
+		"188099": {
+			"name": "Plainswalker Calf"
+		},
+		"190908": {
+			"name": "Plainswalker Calf"
+		}
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"name": "Black-Striped Black Cat",
+	"variant": "Black-Striped Black",
+	"npcs": {
+		"2031": {
+			"name": "Young Nightsaber"
+		},
+		"2033": {
+			"name": "Elder Nightsaber"
+		},
+		"2034": {
+			"name": "Feral Nightsaber"
+		},
+		"2042": {
+			"name": "Nightsaber"
+		},
+		"2071": {
+			"name": "Moonstalker Matriarch"
+		},
+		"17202": {
+			"name": "Infected Nightstalker Runt"
+		},
+		"17203": {
+			"name": "Nightstalker"
+		},
+		"43498": {
+			"name": "Moonshadow"
+		}
+	}
+}

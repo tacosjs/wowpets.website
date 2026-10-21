@@ -1,0 +1,45 @@
+{
+	"id": "blistercreep-yellow-yellow",
+	"family": "bloodbeast",
+	"modelGroup": "blistercreeps",
+	"npcs": [
+		{
+			"id": 249417,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm"
+				}
+			]
+		},
+		{
+			"id": 252470,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "torments-rise"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		258510,
+		250564,
+		254711
+	]
+}

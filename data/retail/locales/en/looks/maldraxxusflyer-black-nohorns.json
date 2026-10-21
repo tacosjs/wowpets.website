@@ -1,0 +1,39 @@
+{
+	"name": "Black Death Chimaera",
+	"variant": "Black",
+	"npcs": {
+		"162258": {
+			"name": "Ravenous Galescreamer"
+		},
+		"162259": {
+			"name": "Galescreamer Pup"
+		},
+		"162300": {
+			"name": "Ravenous Galescreamer"
+		},
+		"162588": {
+			"name": "Gristlebeak"
+		},
+		"164829": {
+			"name": "Chosen Flayedwing"
+		},
+		"166421": {
+			"name": "Trained Flayedwing"
+		},
+		"166423": {
+			"name": "Trained Flayedwing"
+		},
+		"166519": {
+			"name": "Scavenging Fleshwing"
+		},
+		"167629": {
+			"name": "Trained Flayedwing"
+		},
+		"168946": {
+			"name": "Trained Flayedwing"
+		},
+		"170785": {
+			"name": "Screeching Flayedwing"
+		}
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"id": "snaplizard-blue",
+	"family": "lizard",
+	"modelGroup": "amazards",
+	"npcs": [
+		{
+			"id": 250150,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		257525,
+		257527,
+		257529,
+		254167,
+		254166,
+		262965,
+		256894
+	]
+}

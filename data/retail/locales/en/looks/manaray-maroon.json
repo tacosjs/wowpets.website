@@ -1,0 +1,37 @@
+{
+	"name": "Maroon Manaray",
+	"variant": "Maroon",
+	"npcs": {
+		"162593": {
+			"name": "Luminous Necroray"
+		},
+		"171093": {
+			"name": "Ancient Necroray"
+		},
+		"231527": {
+			"name": "Naia"
+		},
+		"231528": {
+			"name": "Naia",
+			"title": "Jayaan's Companion"
+		},
+		"234197": {
+			"name": "Flametouched Ray"
+		},
+		"236953": {
+			"name": "Tranquil Necroray"
+		},
+		"237925": {
+			"name": "Lassoed Necroray"
+		},
+		"237933": {
+			"name": "Lassoed Necroray"
+		},
+		"237951": {
+			"name": "Zooming Necroray"
+		},
+		"237954": {
+			"name": "Zooming Necroray"
+		}
+	}
+}

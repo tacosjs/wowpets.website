@@ -1,0 +1,33 @@
+{
+	"name": "Maroon Falcon",
+	"variant": "Maroon",
+	"npcs": {
+		"126626": {
+			"name": "Hollowbeak Falcon"
+		},
+		"128389": {
+			"name": "Vale Falcon"
+		},
+		"143262": {
+			"name": "Captain"
+		},
+		"192623": {
+			"name": "Falcon"
+		},
+		"195470": {
+			"name": "Dappled Cragdiver"
+		},
+		"215036": {
+			"name": "Redwing Falcon"
+		},
+		"216292": {
+			"name": "Idle Falcon"
+		},
+		"217428": {
+			"name": "Agitated Rockpercher"
+		},
+		"222223": {
+			"name": "Watchful Falcon"
+		}
+	}
+}

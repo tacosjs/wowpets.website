@@ -1,0 +1,47 @@
+{
+	"id": "crab2-darkred-hermitcrabshell-algae",
+	"family": "crab",
+	"modelGroup": "hermitcrabs",
+	"npcs": [
+		{
+			"id": 188334,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores"
+				}
+			]
+		},
+		{
+			"id": 193596,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-waking-shores"
+				}
+			],
+			"keepsName": true
+		}
+	],
+	"alsoNpcs": [
+		192123,
+		193605,
+		197954,
+		197000,
+		198783,
+		199776,
+		210382,
+		200949,
+		217122
+	]
+}

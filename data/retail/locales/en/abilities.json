@@ -24,5 +24,242 @@
 	"dune-strider": {
 		"name": "Dune Strider",
 		"description": "Increases the Aqiri's movement speed by 30%."
+	},
+	"petrifying-gaze": {
+		"name": "Petrifying Gaze"
+	},
+	"sonic-screech": {
+		"name": "Sonic Screech"
+	},
+	"thick-fur": {
+		"name": "Thick Fur"
+	},
+	"harden-carapace": {
+		"name": "Harden Carapace"
+	},
+	"talon-rend": {
+		"name": "Talon Rend"
+	},
+	"blood-bolt": {
+		"name": "Blood Bolt"
+	},
+	"bristle": {
+		"name": "Bristle"
+	},
+	"hardy": {
+		"name": "Hardy"
+	},
+	"bulwark": {
+		"name": "Bulwark"
+	},
+	"calcified-carapace": {
+		"name": "Calcified Carapace"
+	},
+	"bloody-screech": {
+		"name": "Bloody Screech"
+	},
+	"catlike-reflexes": {
+		"name": "Catlike Reflexes"
+	},
+	"prowl": {
+		"name": "Prowl"
+	},
+	"frost-breath": {
+		"name": "Frost Breath"
+	},
+	"froststorm-breath": {
+		"name": "Froststorm Breath"
+	},
+	"smack": {
+		"name": "Smack"
+	},
+	"thick-hide": {
+		"name": "Thick Hide"
+	},
+	"blood-of-the-rhino": {
+		"name": "Blood of the Rhino"
+	},
+	"obsidian-skin": {
+		"name": "Obsidian Skin"
+	},
+	"molten-hide": {
+		"name": "Molten Hide"
+	},
+	"fleethoof": {
+		"name": "Fleethoof"
+	},
+	"pin": {
+		"name": "Pin"
+	},
+	"ankle-crack": {
+		"name": "Ankle Crack"
+	},
+	"monstrous-bite": {
+		"name": "Monstrous Bite"
+	},
+	"feast": {
+		"name": "Feast"
+	},
+	"gore": {
+		"name": "Gore"
+	},
+	"dragons-guile": {
+		"name": "Dragon's Guile"
+	},
+	"feather-flurry": {
+		"name": "Feather Flurry"
+	},
+	"updraft": {
+		"name": "Updraft"
+	},
+	"agile-reflexes": {
+		"name": "Agile Reflexes"
+	},
+	"silverback": {
+		"name": "Silverback"
+	},
+	"gruff": {
+		"name": "Gruff"
+	},
+	"swarm-of-flies": {
+		"name": "Swarm of Flies"
+	},
+	"lock-jaw": {
+		"name": "Lock Jaw"
+	},
+	"acid-bite": {
+		"name": "Acid Bite"
+	},
+	"infected-bite": {
+		"name": "Infected Bite"
+	},
+	"shimmering-scales": {
+		"name": "Shimmering Scales"
+	},
+	"grievous-bite": {
+		"name": "Grievous Bite"
+	},
+	"trample": {
+		"name": "Trample"
+	},
+	"defense-matrix": {
+		"name": "Defense Matrix"
+	},
+	"primal-agility": {
+		"name": "Primal Agility"
+	},
+	"serenity-dust": {
+		"name": "Serenity Dust"
+	},
+	"niuzaos-fortitude": {
+		"name": "Niuzao's Fortitude"
+	},
+	"ancient-hide": {
+		"name": "Ancient Hide"
+	},
+	"savage-rend": {
+		"name": "Savage Rend"
+	},
+	"ravage": {
+		"name": "Ravage"
+	},
+	"nether-energy": {
+		"name": "Nether Energy"
+	},
+	"gruesome-bite": {
+		"name": "Gruesome Bite"
+	},
+	"gnaw": {
+		"name": "Gnaw"
+	},
+	"scale-shield": {
+		"name": "Scale Shield"
+	},
+	"deadly-sting": {
+		"name": "Deadly Sting"
+	},
+	"serpents-swiftness": {
+		"name": "Serpent's Swiftness"
+	},
+	"solid-shell": {
+		"name": "Solid Shell"
+	},
+	"shimmering-shale": {
+		"name": "Shimmering Shale"
+	},
+	"web-spray": {
+		"name": "Web Spray"
+	},
+	"spirit-pulse": {
+		"name": "Spirit Pulse"
+	},
+	"spirit-mend": {
+		"name": "Spirit Mend"
+	},
+	"spirit-walk": {
+		"name": "Spirit Walk"
+	},
+	"spore-cloud": {
+		"name": "Spore Cloud"
+	},
+	"natures-grace": {
+		"name": "Nature's Grace"
+	},
+	"stone-armor": {
+		"name": "Stone Armor"
+	},
+	"eternal-guardian": {
+		"name": "Eternal Guardian"
+	},
+	"dust-cloud": {
+		"name": "Dust Cloud"
+	},
+	"shell-shield": {
+		"name": "Shell Shield"
+	},
+	"warp-time": {
+		"name": "Warp Time"
+	},
+	"toxic-sting": {
+		"name": "Toxic Sting"
+	},
+	"oiled-feathers": {
+		"name": "Oiled Feathers"
+	},
+	"soothing-waters": {
+		"name": "Soothing Waters"
+	},
+	"surface-trot": {
+		"name": "Surface Trot"
+	},
+	"serrated-strike": {
+		"name": "Serrated Strike"
+	},
+	"shadow-jump": {
+		"name": "Shadow Jump"
+	},
+	"winged-agility": {
+		"name": "Winged Agility"
+	},
+	"acid-spit": {
+		"name": "Acid Spit"
+	},
+	"burrow-attack": {
+		"name": "Burrow Attack"
+	},
+	"rest": {
+		"name": "Rest"
+	},
+	"trick": {
+		"name": "Trick"
+	},
+	"play": {
+		"name": "Play"
+	},
+	"rest-126364": {
+		"name": "Rest"
+	},
+	"trick-126259": {
+		"name": "Trick"
 	}
 }

@@ -1,0 +1,12 @@
+{
+	"name": "Light Green Pterrordax",
+	"variant": "Light Green",
+	"npcs": {
+		"136025": {
+			"name": "Child of Pa'ku"
+		},
+		"229836": {
+			"name": "Saltwind Hatchling"
+		}
+	}
+}

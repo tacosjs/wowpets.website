@@ -1,0 +1,18 @@
+{
+	"name": "White & Red Peafowl",
+	"variant": "White & Red",
+	"npcs": {
+		"191375": {
+			"name": "Radiant Peafowl"
+		},
+		"193273": {
+			"name": "Liskron the Dazzling"
+		},
+		"193609": {
+			"name": "Ruby Peafowl"
+		},
+		"214949": {
+			"name": "Resplendent Peafowl"
+		}
+	}
+}

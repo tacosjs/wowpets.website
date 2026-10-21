@@ -1,0 +1,9 @@
+{
+	"name": "Green Skyscreamer",
+	"variant": "Green",
+	"npcs": {
+		"88208": {
+			"name": "Pit Beast"
+		}
+	}
+}

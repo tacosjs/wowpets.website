@@ -1,0 +1,57 @@
+{
+	"name": "White Bear",
+	"variant": "White",
+	"npcs": {
+		"1961": {
+			"name": "Mangeclaw"
+		},
+		"7444": {
+			"name": "Shardtooth Bear"
+		},
+		"10806": {
+			"name": "Ursius"
+		},
+		"24547": {
+			"name": "Hozzer"
+		},
+		"26482": {
+			"name": "Arctic Grizzly"
+		},
+		"27274": {
+			"name": "Orsonn",
+			"title": "Son of Ursoc"
+		},
+		"29319": {
+			"name": "Icepaw Bear"
+		},
+		"29562": {
+			"name": "Icemaw Bear"
+		},
+		"29994": {
+			"name": "Shardtooth",
+			"title": "Udoho's Pet"
+		},
+		"33053": {
+			"name": "Grimclaw"
+		},
+		"48765": {
+			"name": "Rimepelt"
+		},
+		"99638": {
+			"name": "Caged Polar Bear"
+		},
+		"139278": {
+			"name": "Ranja",
+			"title": "The Last Chillpaw"
+		},
+		"140147": {
+			"name": "Great Ursu"
+		},
+		"140148": {
+			"name": "Rampaging Grizzlefur"
+		},
+		"216753": {
+			"name": "Grimclaw"
+		}
+	}
+}

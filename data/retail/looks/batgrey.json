@@ -1,0 +1,204 @@
+{
+	"id": "batgrey",
+	"family": "bat",
+	"modelGroup": "greaterbats",
+	"npcs": [
+		{
+			"id": 75466,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "razorfen-kraul"
+				}
+			]
+		},
+		{
+			"id": 79643,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge"
+				}
+			]
+		},
+		{
+			"id": 80192,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge"
+				}
+			]
+		},
+		{
+			"id": 123423,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "razorjaw-river"
+				}
+			]
+		},
+		{
+			"id": 126353,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "wayward-thicket"
+				}
+			]
+		},
+		{
+			"id": 223167,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "the-fangs-rumshackle"
+				}
+			]
+		},
+		{
+			"id": 250048,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "windrunner-village"
+				}
+			]
+		},
+		{
+			"id": 242227,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "windrunner-village"
+				}
+			]
+		},
+		{
+			"id": 236645,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "wathanan-crypts"
+				}
+			]
+		},
+		{
+			"id": 250876,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "ruins-of-deatholme"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 249421,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "windrunner-village"
+				}
+			]
+		},
+		{
+			"id": 144948,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 250902,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-gulf-of-memory"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		97895,
+		110729,
+		204109,
+		253473
+	]
+}

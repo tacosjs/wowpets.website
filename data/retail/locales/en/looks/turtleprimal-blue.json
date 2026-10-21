@@ -1,0 +1,91 @@
+{
+	"name": "Teal Turtle",
+	"variant": "Teal",
+	"npcs": {
+		"186308": {
+			"name": "Mud Snapper"
+		},
+		"190438": {
+			"name": "Jadeshell Tortoise"
+		},
+		"191329": {
+			"name": "Sleepless Fickleshell"
+		},
+		"191404": {
+			"name": "Cascadia Fickleshell"
+		},
+		"191462": {
+			"name": "Towering Fickleshells"
+		},
+		"192678": {
+			"name": "Clearwater Snapper"
+		},
+		"194045": {
+			"name": "Coastal Scaleshell"
+		},
+		"195506": {
+			"name": "Invasive Clearwater Snapper"
+		},
+		"195970": {
+			"name": "Munchbeak Turtle"
+		},
+		"197403": {
+			"name": "Alpha Sleepless Fickleshell"
+		},
+		"197866": {
+			"name": "Dragonshell Tyrant"
+		},
+		"210195": {
+			"name": "Cantankerous Turtle"
+		},
+		"210272": {
+			"name": "Lucidshell Tortoise"
+		},
+		"210410": {
+			"name": "Tortoise"
+		},
+		"210449": {
+			"name": "Slumberpod Turtle"
+		},
+		"210782": {
+			"name": "Singing Shore Snapper"
+		},
+		"210783": {
+			"name": "Singing Shore Tortoise"
+		},
+		"210826": {
+			"name": "Blueslate Tortoise"
+		},
+		"211145": {
+			"name": "Dewdrop Tortoise"
+		},
+		"212143": {
+			"name": "Cerulean Greyback"
+		},
+		"214215": {
+			"name": "Vigilant Snapper"
+		},
+		"240676": {
+			"name": "Cautious Turtle"
+		},
+		"245699": {
+			"name": "Silverscale",
+			"title": "Renowned Turtle"
+		},
+		"250165": {
+			"name": "Tempered Spikeshell"
+		},
+		"258111": {
+			"name": "Clouded Crystalshell"
+		},
+		"262977": {
+			"name": "Snapping Fractureshell"
+		},
+		"267547": {
+			"name": "Artolla's Lost Turtle"
+		},
+		"269750": {
+			"name": "Venom-Crazed Turtle"
+		}
+	}
+}

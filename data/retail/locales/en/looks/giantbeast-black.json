@@ -1,0 +1,12 @@
+{
+	"name": "Black Tauralus w/ Teal Eyes",
+	"variant": "Black w/ Teal Eyes",
+	"npcs": {
+		"162477": {
+			"name": "Bloodskin Tauralus"
+		},
+		"162586": {
+			"name": "Tahonta"
+		}
+	}
+}

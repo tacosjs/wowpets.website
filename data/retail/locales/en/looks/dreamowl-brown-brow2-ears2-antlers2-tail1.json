@@ -1,0 +1,12 @@
+{
+	"name": "Brown Somnowl w/ Crescent Antlers, Small Ears, Wide Brows, Short Tail",
+	"variant": "Brown w/ Short Tail",
+	"npcs": {
+		"209676": {
+			"name": "Tawny Somnowl"
+		},
+		"210942": {
+			"name": "Dusty Somnowl"
+		}
+	}
+}

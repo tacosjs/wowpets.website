@@ -1,0 +1,12 @@
+{
+	"name": "Dark Blue Spiked Crab w/ Blue Markings",
+	"variant": "Dark Blue w/ Blue Markings",
+	"npcs": {
+		"69384": {
+			"name": "Luminescent Crawler"
+		},
+		"134791": {
+			"name": "Luminous Crawler"
+		}
+	}
+}

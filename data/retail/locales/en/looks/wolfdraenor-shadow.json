@@ -1,0 +1,31 @@
+{
+	"name": "Shadowy Draenor Wolf",
+	"variant": "Shadowy Purple",
+	"npcs": {
+		"73693": {
+			"name": "Void Howler",
+			"title": "Shadowmoon Voidbringer's Pet"
+		},
+		"74698": {
+			"name": "Void Wolf"
+		},
+		"78798": {
+			"name": "Void Wolf"
+		},
+		"82373": {
+			"name": "Void Wolf"
+		},
+		"85082": {
+			"name": "Void Alpha"
+		},
+		"88708": {
+			"name": "Gara"
+		},
+		"88710": {
+			"name": "Lost Netherwolf"
+		},
+		"89277": {
+			"name": "Void Wolf"
+		}
+	}
+}

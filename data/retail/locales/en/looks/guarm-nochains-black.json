@@ -1,0 +1,13 @@
+{
+	"name": "Black Helhound",
+	"variant": "Black",
+	"npcs": {
+		"171245": {
+			"name": "Feral Helhound"
+		},
+		"177444": {
+			"name": "Yiva",
+			"title": "Mate of Guarm"
+		}
+	}
+}

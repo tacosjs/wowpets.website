@@ -1,0 +1,74 @@
+{
+	"id": "butterflyorange",
+	"family": "moth",
+	"modelGroup": "butterflies",
+	"npcs": [
+		{
+			"id": 199248,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus"
+				}
+			]
+		},
+		{
+			"id": 224133,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "sunrise-shadow"
+				}
+			]
+		},
+		{
+			"id": 250386,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "brightwing-estate"
+				}
+			]
+		},
+		{
+			"id": 246679,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "solaarian-sunbath"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		198428,
+		189744,
+		210767,
+		227202,
+		227205,
+		191458
+	]
+}

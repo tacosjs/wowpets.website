@@ -1,0 +1,36 @@
+{
+	"name": "Black & Copper Proto Avian",
+	"variant": "Black & Copper",
+	"npcs": {
+		"178835": {
+			"name": "Sharpeye Collector"
+		},
+		"181330": {
+			"name": "Mawtouched Avian"
+		},
+		"182096": {
+			"name": "Enhanced Avian"
+		},
+		"182372": {
+			"name": "Gardens Avian"
+		},
+		"183185": {
+			"name": "Thieving Proto Avian"
+		},
+		"183191": {
+			"name": "Thieving Proto Avian"
+		},
+		"183674": {
+			"name": "Enhanced Avian"
+		},
+		"184623": {
+			"name": "Ancient Avian"
+		},
+		"185291": {
+			"name": "Larcenous Avian"
+		},
+		"185451": {
+			"name": "Gardens Avian"
+		}
+	}
+}

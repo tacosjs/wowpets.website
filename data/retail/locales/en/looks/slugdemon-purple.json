@@ -1,0 +1,9 @@
+{
+	"name": "Purple Spiked Grub",
+	"variant": "Purple Spiked Grub",
+	"npcs": {
+		"154368": {
+			"name": "Aqir Grub"
+		}
+	}
+}

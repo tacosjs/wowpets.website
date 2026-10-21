@@ -1,0 +1,30 @@
+{
+	"name": "Dark Red Blood Tick",
+	"variant": "Dark Red",
+	"npcs": {
+		"121896": {
+			"name": "Bloodbelly Flyer"
+		},
+		"121898": {
+			"name": "Bloodbelly Flyer"
+		},
+		"122242": {
+			"name": "Bloodbound Dreadtick"
+		},
+		"128344": {
+			"name": "Bloodbelly Flyer"
+		},
+		"138727": {
+			"name": "Bloodswarmer"
+		},
+		"142935": {
+			"name": "Pollen-Coated Swarmer"
+		},
+		"249418": {
+			"name": "Insatiate Karion"
+		},
+		"257466": {
+			"name": "Bloodseeker Karion"
+		}
+	}
+}

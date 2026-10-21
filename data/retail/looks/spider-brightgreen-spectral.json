@@ -1,0 +1,22 @@
+{
+	"id": "spider-brightgreen-spectral",
+	"family": "spider",
+	"modelGroup": "greatspiders",
+	"npcs": [
+		{
+			"id": 162428,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "etheric-vault"
+				}
+			]
+		}
+	]
+}

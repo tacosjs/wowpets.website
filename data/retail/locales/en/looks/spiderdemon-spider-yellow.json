@@ -1,0 +1,48 @@
+{
+	"name": "Yellow Demon Spider",
+	"variant": "Yellow",
+	"npcs": {
+		"97677": {
+			"name": "Barbed Spiderling"
+		},
+		"107102": {
+			"name": "Felsurge Spiderling"
+		},
+		"107103": {
+			"name": "Felsurge Webspinner"
+		},
+		"108542": {
+			"name": "Skittering Spiderling"
+		},
+		"112039": {
+			"name": "Screeching Spiderling"
+		},
+		"117101": {
+			"name": "Vile Felspinner"
+		},
+		"117354": {
+			"name": "Vile Broodling"
+		},
+		"117509": {
+			"name": "Skittering Demon"
+		},
+		"118706": {
+			"name": "Necrotic Spiderling"
+		},
+		"118721": {
+			"name": "Venomous Spitter"
+		},
+		"120016": {
+			"name": "Necrotic Spiderling"
+		},
+		"120071": {
+			"name": "Felcrawler Dreadfang"
+		},
+		"123702": {
+			"name": "Feltouched Skitterer"
+		},
+		"125547": {
+			"name": "Feltouched Skitterer"
+		}
+	}
+}

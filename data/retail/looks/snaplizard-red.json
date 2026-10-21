@@ -1,0 +1,57 @@
+{
+	"id": "snaplizard-red",
+	"family": "lizard",
+	"modelGroup": "amazards",
+	"npcs": [
+		{
+			"id": 236168,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "temple-of-janalai"
+				}
+			]
+		},
+		{
+			"id": 258656,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "temple-of-janalai"
+				}
+			]
+		},
+		{
+			"id": 261487,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-venomous-abyss"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		257526,
+		257524,
+		257530,
+		257528
+	]
+}

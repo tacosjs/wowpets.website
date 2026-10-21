@@ -1,0 +1,35 @@
+{
+	"id": "progenitorwormpet-red",
+	"family": "serpent",
+	"modelGroup": "viperids",
+	"npcs": [
+		{
+			"id": 181086,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis"
+				}
+			]
+		},
+		{
+			"id": 185511,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"id": "seaserpant-blue",
+	"family": "serpent",
+	"modelGroup": "abyssworms",
+	"npcs": [
+		{
+			"id": 140038,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shrine-of-the-storm"
+				}
+			]
+		},
+		{
+			"id": 145343,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "chamber-of-the-harvesters"
+				}
+			]
+		}
+	]
+}

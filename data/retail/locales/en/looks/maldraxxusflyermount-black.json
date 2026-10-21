@@ -1,0 +1,12 @@
+{
+	"name": "Saddled Black Death Chimaera",
+	"variant": "Black",
+	"npcs": {
+		"164479": {
+			"name": "Bonefang"
+		},
+		"172390": {
+			"name": "Flayedwing Fleshripper"
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Grey & Brown Runestag w/ Short Horns",
+	"variant": "Grey & Brown w/ Short Horns",
+	"npcs": {
+		"164874": {
+			"name": "Juvenile Miredeer"
+		},
+		"166024": {
+			"name": "Skittish Runefoal"
+		},
+		"171342": {
+			"name": "Juvenile Runestag"
+		}
+	}
+}

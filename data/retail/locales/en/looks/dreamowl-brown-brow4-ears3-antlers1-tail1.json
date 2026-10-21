@@ -1,0 +1,12 @@
+{
+	"name": "Brown Somnowl w/ Pronged Antlers, Medium Ears, Horned Brows, Short Tail",
+	"variant": "Brown w/ Short Tail",
+	"npcs": {
+		"209975": {
+			"name": "Sorreldown Somnowl"
+		},
+		"211073": {
+			"name": "Hazelfeather Somnowl"
+		}
+	}
+}

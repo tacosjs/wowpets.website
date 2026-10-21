@@ -1,0 +1,15 @@
+{
+	"name": "Blue & Red Boss Wasp",
+	"variant": "Blue & Red",
+	"npcs": {
+		"14661": {
+			"name": "Stinglasher"
+		},
+		"50892": {
+			"name": "Cyn"
+		},
+		"65616": {
+			"name": "Orchard Needler"
+		}
+	}
+}

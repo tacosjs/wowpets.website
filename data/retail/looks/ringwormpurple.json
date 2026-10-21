@@ -1,0 +1,55 @@
+{
+	"id": "ringwormpurple",
+	"family": "shalebeast",
+	"modelGroup": "gyreworms",
+	"npcs": [
+		{
+			"id": 106630,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna",
+					"area": "leyhollow"
+				}
+			]
+		},
+		{
+			"id": 101581,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "telanor"
+				}
+			]
+		},
+		{
+			"id": 242548,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "shadow-point"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		133562
+	]
+}

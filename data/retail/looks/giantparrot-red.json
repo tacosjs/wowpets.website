@@ -1,0 +1,120 @@
+{
+	"id": "giantparrot-red",
+	"family": "birdofprey",
+	"modelGroup": "grandparrots",
+	"npcs": [
+		{
+			"id": 133843,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "redsilt-wash"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 129446,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "freehold-non-instanced"
+				}
+			]
+		},
+		{
+			"id": 137304,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "grand-bazaar"
+				}
+			]
+		},
+		{
+			"id": 129719,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 132280,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "freehold-non-instanced"
+				}
+			]
+		},
+		{
+			"id": 137018,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "anyport"
+				}
+			]
+		},
+		{
+			"id": 201294,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-forbidden-reach",
+					"area": "tempest-cove"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		132275,
+		140464,
+		227686,
+		129230,
+		132339,
+		200857
+	]
+}

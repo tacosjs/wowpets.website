@@ -1,0 +1,12 @@
+{
+	"name": "Brown Woolly Rhino",
+	"variant": "Brown",
+	"npcs": {
+		"25487": {
+			"name": "Wooly Rhino Matriarch"
+		},
+		"25488": {
+			"name": "Wooly Rhino Calf"
+		}
+	}
+}

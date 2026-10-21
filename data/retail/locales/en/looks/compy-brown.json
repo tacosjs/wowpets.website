@@ -1,0 +1,21 @@
+{
+	"name": "Brown Saurid",
+	"variant": "Brown",
+	"npcs": {
+		"126023": {
+			"name": "Harbor Saurid"
+		},
+		"126653": {
+			"name": "Hungry Saurid"
+		},
+		"128585": {
+			"name": "Shore Saurid"
+		},
+		"128616": {
+			"name": "Shore Saurid Matriarch"
+		},
+		"205857": {
+			"name": "Un'Gorian Saurid"
+		}
+	}
+}

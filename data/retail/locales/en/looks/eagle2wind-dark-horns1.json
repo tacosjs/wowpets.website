@@ -1,0 +1,10 @@
+{
+	"name": "Horned Black & White Ohuna",
+	"variant": "Horned Black & White",
+	"npcs": {
+		"192453": {
+			"name": "Vaniik the Stormtouched",
+			"title": "Corrupted Child of Ohn'ahra"
+		}
+	}
+}

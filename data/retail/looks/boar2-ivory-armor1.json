@@ -1,0 +1,37 @@
+{
+	"id": "boar2-ivory-armor1",
+	"family": "boar",
+	"modelGroup": "boars",
+	"npcs": [
+		{
+			"id": 74620,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 31
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "razorfen-kraul"
+				}
+			]
+		},
+		{
+			"id": 50946,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "searing-gorge",
+					"area": "blackchar-cave"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"name": "Green Gormling",
+	"variant": "Green Gormling",
+	"npcs": {
+		"160713": {
+			"name": "Wayward Gormling"
+		},
+		"161457": {
+			"name": "Scavenging Gormling"
+		},
+		"164802": {
+			"name": "Invasive Gormling"
+		},
+		"174458": {
+			"name": "Dire Gormling",
+			"title": "Gormtamer Tizo's Guardian"
+		}
+	}
+}

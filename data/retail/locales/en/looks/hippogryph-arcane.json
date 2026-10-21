@@ -1,0 +1,15 @@
+{
+	"name": "Arcane Purple Hippogryph",
+	"variant": "Arcane Purple",
+	"npcs": {
+		"16875": {
+			"name": "Netherbeak"
+		},
+		"115537": {
+			"name": "Lorthalium"
+		},
+		"116059": {
+			"name": "Regal Cloudwing"
+		}
+	}
+}

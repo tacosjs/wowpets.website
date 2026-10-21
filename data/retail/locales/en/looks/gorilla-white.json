@@ -1,0 +1,22 @@
+{
+	"name": "Icy Blue Gorilla",
+	"variant": "Icy Blue",
+	"npcs": {
+		"1514": {
+			"name": "Mokk the Savage"
+		},
+		"6585": {
+			"name": "Uhk'loc"
+		},
+		"51661": {
+			"name": "Tsul'Kalu",
+			"title": "The Earth Spirit"
+		},
+		"131476": {
+			"name": "Zayoos"
+		},
+		"140171": {
+			"name": "Mistfur"
+		}
+	}
+}

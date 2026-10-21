@@ -1,0 +1,55 @@
+{
+	"id": "snailrock-blue-shell1",
+	"family": "carapid",
+	"modelGroup": "rocksnails",
+	"npcs": [
+		{
+			"id": 203239,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "glitterspore-lake"
+				}
+			]
+		},
+		{
+			"id": 204614,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "glimmerogg"
+				}
+			]
+		},
+		{
+			"id": 202621,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "glimmerogg"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		205594
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Cerulean Flowering Crystalspine",
+	"variant": "Cerulean",
+	"npcs": {
+		"186495": {
+			"name": "Starsha"
+		},
+		"195305": {
+			"name": "Crystalspine Forager"
+		}
+	}
+}

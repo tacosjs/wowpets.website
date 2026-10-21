@@ -1,0 +1,36 @@
+{
+	"name": "Black Gormling",
+	"variant": "Black Gormling",
+	"npcs": {
+		"155211": {
+			"name": "Gormling Pest"
+		},
+		"155219": {
+			"name": "Gormling Spitter"
+		},
+		"160077": {
+			"name": "Wild Gormling"
+		},
+		"163233": {
+			"name": "Swarming Mite"
+		},
+		"163350": {
+			"name": "Evolving Mite"
+		},
+		"163451": {
+			"name": "Feasting Gormling"
+		},
+		"164040": {
+			"name": "Duskwarren Gormling"
+		},
+		"169285": {
+			"name": "Gormdaughter"
+		},
+		"171194": {
+			"name": "Escaped Gormling"
+		},
+		"180499": {
+			"name": "Doomed Gormling"
+		}
+	}
+}

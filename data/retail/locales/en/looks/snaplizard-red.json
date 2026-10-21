@@ -1,0 +1,15 @@
+{
+	"name": "Red Amazard",
+	"variant": "Red",
+	"npcs": {
+		"236168": {
+			"name": "Cinderdig Amazard"
+		},
+		"258656": {
+			"name": "Cinderscale Patriarch"
+		},
+		"261487": {
+			"name": "Thunderous Amazard"
+		}
+	}
+}

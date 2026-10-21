@@ -1,0 +1,42 @@
+{
+	"name": "Orange Wasp",
+	"variant": "Orange",
+	"npcs": {
+		"137450": {
+			"name": "The Hornet"
+		},
+		"146185": {
+			"name": "Firesting Drone"
+		},
+		"146246": {
+			"name": "Ovix the Toxic"
+		},
+		"155048": {
+			"name": "Honey Seeker Swarmer"
+		},
+		"159747": {
+			"name": "Marrowbore Queen"
+		},
+		"168579": {
+			"name": "Fen Hatchling"
+		},
+		"220238": {
+			"name": "Cindersting"
+		},
+		"242028": {
+			"name": "Lightwood Borer"
+		},
+		"250126": {
+			"name": "Furious Mudcoat"
+		},
+		"255549": {
+			"name": "Netherwasp Drone"
+		},
+		"257149": {
+			"name": "Spitesting Hatchling"
+		},
+		"261682": {
+			"name": "Fiery Yellowjacket"
+		}
+	}
+}

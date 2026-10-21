@@ -1,0 +1,12 @@
+{
+	"name": "Dark Mammoth w/ Large Tusks",
+	"variant": "Dark Mammoth w/ Large Tusks",
+	"npcs": {
+		"190907": {
+			"name": "Blitztusk"
+		},
+		"193269": {
+			"name": "Grumbletrunk"
+		}
+	}
+}

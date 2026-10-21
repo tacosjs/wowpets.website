@@ -1,0 +1,35 @@
+{
+	"id": "larva2-bloodgod",
+	"family": "worm",
+	"modelGroup": "grubs",
+	"npcs": [
+		{
+			"id": 130909,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-underrot"
+				}
+			]
+		},
+		{
+			"id": 169830,
+			"tameable": false,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus"
+				}
+			]
+		}
+	]
+}

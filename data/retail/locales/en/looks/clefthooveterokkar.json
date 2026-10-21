@@ -1,0 +1,12 @@
+{
+	"name": "Grey Clefthoof",
+	"variant": "Grey",
+	"npcs": {
+		"22105": {
+			"name": "Decrepit Clefthoof"
+		},
+		"73234": {
+			"name": "Ashmane Clefthoof"
+		}
+	}
+}

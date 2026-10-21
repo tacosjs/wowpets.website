@@ -1,0 +1,66 @@
+{
+	"id": "fandralfirescorpion",
+	"family": "scorpid",
+	"modelGroup": "firescorpions",
+	"npcs": [
+		{
+			"id": 123636,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "molten-front",
+					"area": "magma-springs"
+				}
+			]
+		},
+		{
+			"id": 211242,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "the-smoldering-copse"
+				}
+			]
+		},
+		{
+			"id": 105141,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "firelands"
+				}
+			]
+		},
+		{
+			"id": 213696,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-dreams-hope",
+					"area": "the-scorched-hall"
+				}
+			]
+		}
+	]
+}

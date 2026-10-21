@@ -1,0 +1,21 @@
+{
+	"name": "Maroon Scarab w/ Turquoise Spots",
+	"variant": "Maroon w/ Turquoise Spots",
+	"npcs": {
+		"39440": {
+			"name": "Venomous Skitterer"
+		},
+		"51057": {
+			"name": "Weevil"
+		},
+		"51062": {
+			"name": "Khep-Re"
+		},
+		"140391": {
+			"name": "Emerald Deepseeker"
+		},
+		"140392": {
+			"name": "Direbore of the Thousand Tunnels"
+		}
+	}
+}

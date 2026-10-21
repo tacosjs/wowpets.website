@@ -1,0 +1,51 @@
+{
+	"name": "Lightbloom Petalwing",
+	"variant": "Lightbloom",
+	"npcs": {
+		"236560": {
+			"name": "Lucent Hookbeak"
+		},
+		"237402": {
+			"name": "Lightbloom Petalwing"
+		},
+		"237500": {
+			"name": "Invasive Shinesipper"
+		},
+		"237590": {
+			"name": "Lightbloom Petalwing"
+		},
+		"240577": {
+			"name": "Lightfrenzy Shinesipper"
+		},
+		"241465": {
+			"name": "Swarming Shinesipper"
+		},
+		"242944": {
+			"name": "Crazed Petalwing"
+		},
+		"244533": {
+			"name": "Lucent Hookbeak"
+		},
+		"245484": {
+			"name": "Lightfeather Petalwing"
+		},
+		"250317": {
+			"name": "Oro'ohna"
+		},
+		"250822": {
+			"name": "Intruding Shinesipper"
+		},
+		"253238": {
+			"name": "Lightcursed Petalwing"
+		},
+		"256095": {
+			"name": "Lightcursed Petalwing"
+		},
+		"256230": {
+			"name": "Barkborn Petalwing"
+		},
+		"256713": {
+			"name": "Lightcursed Petalwing"
+		}
+	}
+}

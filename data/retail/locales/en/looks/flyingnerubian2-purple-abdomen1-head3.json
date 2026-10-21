@@ -1,0 +1,24 @@
+{
+	"name": "Purple Swarmite w/ Fangs & Short Tail",
+	"variant": "Purple w/ Fangs & Short Tail",
+	"npcs": {
+		"222511": {
+			"name": "Swarming Threadling"
+		},
+		"226767": {
+			"name": "Speeding Swarmmite"
+		},
+		"232086": {
+			"name": "Sureki Swarmite"
+		},
+		"232156": {
+			"name": "Sureki Swarmite"
+		},
+		"238768": {
+			"name": "Sureki Swarmite"
+		},
+		"239201": {
+			"name": "Sureki Swarmite"
+		}
+	}
+}

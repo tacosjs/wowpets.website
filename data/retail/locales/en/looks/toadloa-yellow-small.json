@@ -1,0 +1,30 @@
+{
+	"name": "Green-Striped Yellow Dire Toad",
+	"variant": "Green-Striped Yellow",
+	"npcs": {
+		"125507": {
+			"name": "Krol'dra the Wise"
+		},
+		"136475": {
+			"name": "Speckled Bullfrog"
+		},
+		"137233": {
+			"name": "Plague Toad"
+		},
+		"143317": {
+			"name": "Lost Spawn of Krag'wa"
+		},
+		"183540": {
+			"name": "Bullfrog"
+		},
+		"183989": {
+			"name": "Slimy Leaper"
+		},
+		"193699": {
+			"name": "Boggy Bullfrog"
+		},
+		"196641": {
+			"name": "Horned Flysnatcher"
+		}
+	}
+}

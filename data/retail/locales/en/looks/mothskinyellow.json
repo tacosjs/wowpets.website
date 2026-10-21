@@ -1,0 +1,24 @@
+{
+	"name": "Blue & Yellow Moth",
+	"variant": "Blue & Yellow",
+	"npcs": {
+		"18438": {
+			"name": "Naphthal'ar"
+		},
+		"18469": {
+			"name": "Royal Teromoth"
+		},
+		"21373": {
+			"name": "Silkwing"
+		},
+		"21839": {
+			"name": "Mature Silkwing"
+		},
+		"27421": {
+			"name": "Fern Feeder Moth"
+		},
+		"63725": {
+			"name": "Bonedust Moth"
+		}
+	}
+}

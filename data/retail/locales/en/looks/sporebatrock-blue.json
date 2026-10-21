@@ -1,0 +1,9 @@
+{
+	"name": "Blue Magma Shalewing",
+	"variant": "Blue",
+	"npcs": {
+		"203625": {
+			"name": "Karokta"
+		}
+	}
+}

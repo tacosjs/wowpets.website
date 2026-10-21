@@ -1,0 +1,24 @@
+{
+	"name": "Sickly Auburn Bear",
+	"variant": "Sickly Auburn",
+	"npcs": {
+		"44482": {
+			"name": "Hulking Plaguebear"
+		},
+		"95779": {
+			"name": "Festerhide Grizzly"
+		},
+		"98890": {
+			"name": "Slumber"
+		},
+		"140151": {
+			"name": "Rotclaw Cub"
+		},
+		"140152": {
+			"name": "Rotclaw Mauler"
+		},
+		"155656": {
+			"name": "Misha"
+		}
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"name": "Greater Green Dragonhawk",
+	"variant": "Green",
+	"npcs": {
+		"236165": {
+			"name": "Dragonhawk Mossbeak"
+		},
+		"250111": {
+			"name": "Mistveil Dragonhawk"
+		},
+		"254196": {
+			"name": "Summoned Dragonhawk"
+		},
+		"255653": {
+			"name": "Corrupted Amani Dragonhawk"
+		},
+		"255821": {
+			"name": "Child of Jan'alai"
+		},
+		"257520": {
+			"name": "Mirebeak Alpha"
+		},
+		"259914": {
+			"name": "Tortured Dragonhawk"
+		}
+	}
+}

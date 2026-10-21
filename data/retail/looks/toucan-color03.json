@@ -1,0 +1,66 @@
+{
+	"id": "toucan-color03",
+	"family": "birdofprey",
+	"modelGroup": "axebeaks",
+	"npcs": [
+		{
+			"id": 134780,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "backwater-beach"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 130846,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar"
+				}
+			]
+		},
+		{
+			"id": 130832,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		85856,
+		85564,
+		90245,
+		85808,
+		81903,
+		88592,
+		189688,
+		192186,
+		191098
+	]
+}

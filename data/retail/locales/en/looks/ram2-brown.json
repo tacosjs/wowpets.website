@@ -1,0 +1,15 @@
+{
+	"name": "Brown Ram",
+	"variant": "Brown",
+	"npcs": {
+		"34894": {
+			"name": "Stonetalon Ram"
+		},
+		"46393": {
+			"name": "Billy Goat"
+		},
+		"168333": {
+			"name": "Gildfur Bighorn"
+		}
+	}
+}

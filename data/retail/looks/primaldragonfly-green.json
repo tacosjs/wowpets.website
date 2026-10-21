@@ -1,0 +1,60 @@
+{
+	"id": "primaldragonfly-green",
+	"family": "waterstrider",
+	"modelGroup": "skitterflies",
+	"npcs": [
+		{
+			"id": 183986,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 62
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "bluefeather-cliffs"
+				}
+			]
+		},
+		{
+			"id": 191730,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "overflowing-rapids"
+				}
+			]
+		},
+		{
+			"id": 198420,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		189614,
+		192376,
+		183541,
+		185644,
+		189368,
+		193703,
+		185643
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"id": "thunderpterodactyl-red",
+	"family": "pterrordax",
+	"modelGroup": "skyscreamers",
+	"npcs": [
+		{
+			"id": 69279,
+			"tameable": false,
+			"level": {
+				"min": 32,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-thunder",
+					"area": "stormsea-landing"
+				}
+			]
+		},
+		{
+			"id": 94605,
+			"tameable": false,
+			"level": {
+				"min": 32,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-thunder",
+					"area": "diremoor"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		70494,
+		70120,
+		70558,
+		70021,
+		70020,
+		73223
+	]
+}

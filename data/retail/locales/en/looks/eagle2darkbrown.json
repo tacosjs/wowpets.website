@@ -1,0 +1,92 @@
+{
+	"name": "Dark Brown Eagle",
+	"variant": "Dark Brown",
+	"npcs": {
+		"23693": {
+			"name": "Duskwing Eagle"
+		},
+		"24159": {
+			"name": "Amani Eagle"
+		},
+		"24518": {
+			"name": "Talonshrike"
+		},
+		"24858": {
+			"name": "Soaring Eagle"
+		},
+		"28004": {
+			"name": "Goretalon Roc"
+		},
+		"34886": {
+			"name": "Kalimdor Eagle"
+		},
+		"42658": {
+			"name": "Hyjal Roc"
+		},
+		"44261": {
+			"name": "Sharptalon Eagle",
+			"title": "Oathsworn Pathfinder's Pet"
+		},
+		"44475": {
+			"name": "Brownfeather Hawk"
+		},
+		"56034": {
+			"name": "Thieving Plainshawk"
+		},
+		"56396": {
+			"name": "Hungry Bloodtalon"
+		},
+		"57215": {
+			"name": "Grainhunter Hawk"
+		},
+		"57216": {
+			"name": "Soaring Hunter"
+		},
+		"58231": {
+			"name": "Dampnet Osprey"
+		},
+		"58910": {
+			"name": "Plainshawk"
+		},
+		"59112": {
+			"name": "Dawnfeather Flyer"
+		},
+		"59384": {
+			"name": "Bluff Hawk"
+		},
+		"59700": {
+			"name": "Northwind Hawk"
+		},
+		"60072": {
+			"name": "Swooping Plainshawk"
+		},
+		"62253": {
+			"name": "Shado-Pan Hawk"
+		},
+		"63480": {
+			"name": "Training Hawk",
+			"title": "Hawkmaster's Pet"
+		},
+		"70191": {
+			"name": "Eagle"
+		},
+		"91717": {
+			"name": "Azsunian Oliveback"
+		},
+		"97976": {
+			"name": "Bonebeak Hawk"
+		},
+		"99828": {
+			"name": "Trained Hawk"
+		},
+		"103592": {
+			"name": "Bonebeak Hawk"
+		},
+		"107928": {
+			"name": "Cliffdiver Eagle"
+		},
+		"205854": {
+			"name": "Sholazian Roc"
+		}
+	}
+}

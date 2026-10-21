@@ -1,0 +1,15 @@
+{
+	"name": "Pale Pink Pig",
+	"variant": "Pale Pink",
+	"npcs": {
+		"220312": {
+			"name": "Little Skybeam"
+		},
+		"221155": {
+			"name": "Wiggle Snout"
+		},
+		"221160": {
+			"name": "Dr. Pigment"
+		}
+	}
+}

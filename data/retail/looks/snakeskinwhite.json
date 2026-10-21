@@ -1,0 +1,41 @@
+{
+	"id": "snakeskinwhite",
+	"family": "serpent",
+	"modelGroup": "groundsnakes",
+	"npcs": [
+		{
+			"id": 8886,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 31
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "wailing-caverns",
+					"area": "pit-of-fangs"
+				}
+			]
+		},
+		{
+			"id": 140695,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		29630,
+		39444,
+		254511
+	]
+}

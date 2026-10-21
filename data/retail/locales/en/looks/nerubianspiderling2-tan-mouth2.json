@@ -1,0 +1,12 @@
+{
+	"name": "Tan Threadling w/ Long Mandibles",
+	"variant": "Tan w/ Long Mandibles",
+	"npcs": {
+		"216844": {
+			"name": "Spored Skitterer"
+		},
+		"218012": {
+			"name": "Silkweaver Hollowguard"
+		}
+	}
+}

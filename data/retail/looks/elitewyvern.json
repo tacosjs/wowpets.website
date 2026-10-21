@@ -1,0 +1,138 @@
+{
+	"id": "elitewyvern",
+	"family": "feathermane",
+	"modelGroup": "grandwindriders",
+	"npcs": [
+		{
+			"id": 229622,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "siren-isle",
+					"area": "deadfine-mire"
+				}
+			]
+		},
+		{
+			"id": 229522,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "siren-isle",
+					"area": "deadfin-mire"
+				}
+			]
+		},
+		{
+			"id": 233254,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "siren-isle",
+					"area": "ghoststone-diggings"
+				}
+			]
+		},
+		{
+			"id": 98731,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "trueshot-lodge"
+				}
+			]
+		},
+		{
+			"id": 139624,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "algerson-lumber-yard"
+				}
+			]
+		},
+		{
+			"id": 239987,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "razorwing-shores"
+				}
+			]
+		},
+		{
+			"id": 253150,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "razorwind-shores"
+				}
+			]
+		},
+		{
+			"id": 253148,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "razorwind-shores"
+				}
+			]
+		},
+		{
+			"id": 84100,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak"
+				}
+			]
+		}
+	]
+}

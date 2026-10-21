@@ -1,0 +1,68 @@
+{
+	"name": "Brown Amani Lynx",
+	"variant": "Brown",
+	"npcs": {
+		"236186": {
+			"name": "Captured Witherbark Lynx"
+		},
+		"236187": {
+			"name": "Lynx Matriarch"
+		},
+		"241420": {
+			"name": "Curious Ruffian"
+		},
+		"245190": {
+			"name": "Loyal Saberfang"
+		},
+		"247741": {
+			"name": "Sparky"
+		},
+		"247743": {
+			"name": "Ham"
+		},
+		"247744": {
+			"name": "Da Piper"
+		},
+		"250091": {
+			"name": "Juvenile Swiftclaw"
+		},
+		"250297": {
+			"name": "Child of Halazzi"
+		},
+		"253064": {
+			"name": "Taka"
+		},
+		"253070": {
+			"name": "Dokii",
+			"title": "Apprentice Fisher"
+		},
+		"253382": {
+			"name": "Mibaza",
+			"title": "Kul'amara's Pet"
+		},
+		"255089": {
+			"name": "Zari"
+		},
+		"255137": {
+			"name": "Juvenile Swiftclaw"
+		},
+		"255415": {
+			"name": "Amani Lynx"
+		},
+		"255459": {
+			"name": "Jynx"
+		},
+		"255834": {
+			"name": "Ros'merah",
+			"title": "Elder Shimarra's Companion"
+		},
+		"257452": {
+			"name": "Mibaza",
+			"title": "Kul'amara's Pet"
+		},
+		"257460": {
+			"name": "Mibaza",
+			"title": "Kul'amara's Pet"
+		}
+	}
+}

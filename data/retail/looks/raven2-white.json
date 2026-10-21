@@ -1,0 +1,38 @@
+{
+	"id": "raven2-white",
+	"family": "carrionbird",
+	"modelGroup": "cbravens",
+	"npcs": [
+		{
+			"id": 130138,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "barrowknoll-cemetery"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 197786,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "valdrakken"
+				}
+			]
+		}
+	]
+}

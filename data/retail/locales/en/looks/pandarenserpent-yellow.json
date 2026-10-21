@@ -1,0 +1,15 @@
+{
+	"name": "Yellow Cloud Serpent",
+	"variant": "Yellow",
+	"npcs": {
+		"62599": {
+			"name": "Wild Cloudrunner"
+		},
+		"65679": {
+			"name": "Golden Hatchling"
+		},
+		"231315": {
+			"name": "Visiting Cloud Serpent"
+		}
+	}
+}

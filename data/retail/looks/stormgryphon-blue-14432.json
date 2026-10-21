@@ -1,0 +1,28 @@
+{
+	"id": "stormgryphon-blue-14432",
+	"family": "spiritbeast",
+	"modelGroup": "stormrooks",
+	"npcs": [
+		{
+			"id": 213428,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-rookery",
+					"area": "the-rookery-landing"
+				}
+			],
+			"keepsName": true,
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

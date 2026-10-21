@@ -1,0 +1,15 @@
+{
+	"name": "Blue & White Dreamrunner",
+	"variant": "Blue & White",
+	"npcs": {
+		"250195": {
+			"name": "Tranquil Springrunner"
+		},
+		"252713": {
+			"name": "Enraged Springrunner"
+		},
+		"256858": {
+			"name": "Skittish Springrunner"
+		}
+	}
+}

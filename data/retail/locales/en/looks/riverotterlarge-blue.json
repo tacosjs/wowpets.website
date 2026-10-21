@@ -1,0 +1,30 @@
+{
+	"name": "Blue Ottuk",
+	"variant": "Blue",
+	"npcs": {
+		"187811": {
+			"name": "Icecling Ottuk"
+		},
+		"191456": {
+			"name": "Giant Ocean Ottuk"
+		},
+		"192854": {
+			"name": "Clearwater Ottuk"
+		},
+		"194169": {
+			"name": "Imprisoned Ottuk"
+		},
+		"194242": {
+			"name": "Icecling Ottuk"
+		},
+		"196884": {
+			"name": "Calm Gurd"
+		},
+		"198811": {
+			"name": "Giant Ocean Ottuk"
+		},
+		"199784": {
+			"name": "Saltwhisker Ottuk"
+		}
+	}
+}

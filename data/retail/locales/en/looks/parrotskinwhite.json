@@ -1,0 +1,12 @@
+{
+	"name": "White Parrot",
+	"variant": "White",
+	"npcs": {
+		"48448": {
+			"name": "Albino Eyegouger"
+		},
+		"50337": {
+			"name": "Cackle"
+		}
+	}
+}

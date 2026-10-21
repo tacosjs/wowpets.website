@@ -1,0 +1,24 @@
+{
+	"name": "Brown Thorntail",
+	"variant": "Brown",
+	"npcs": {
+		"230795": {
+			"name": "Regal Thorntail"
+		},
+		"232284": {
+			"name": "Regal Thorntail"
+		},
+		"234150": {
+			"name": "Captured Fox"
+		},
+		"237309": {
+			"name": "Trembling Thorntail"
+		},
+		"237313": {
+			"name": "Terrified Thorntail"
+		},
+		"239832": {
+			"name": "Enraged Thorntail Shade"
+		}
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"id": "nzothserpent-pale",
+	"family": "worm",
+	"modelGroup": "aqiriworms",
+	"npcs": [
+		{
+			"id": 157266,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms",
+					"area": "tu-shen-burial-ground"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		152550,
+		204671
+	]
+}

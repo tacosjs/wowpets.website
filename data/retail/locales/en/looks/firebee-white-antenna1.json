@@ -1,0 +1,15 @@
+{
+	"name": "Pale Cinderbee w/ Long Antennae",
+	"variant": "Pale w/ Long Antennae",
+	"npcs": {
+		"221126": {
+			"name": "Tephratennae"
+		},
+		"223044": {
+			"name": "Elusive Cinderbee"
+		},
+		"223073": {
+			"name": "Elusive Smoldering Cinderbee"
+		}
+	}
+}

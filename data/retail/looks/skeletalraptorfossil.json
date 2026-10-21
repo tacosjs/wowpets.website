@@ -1,0 +1,61 @@
+{
+	"id": "skeletalraptorfossil",
+	"family": "raptor",
+	"modelGroup": "skeletalraptors",
+	"npcs": [
+		{
+			"id": 41388,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "wetlands",
+					"area": "whelgars-excavation-site"
+				}
+			]
+		},
+		{
+			"id": 127247,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "burial-mound"
+				}
+			]
+		},
+		{
+			"id": 86292,
+			"tameable": false,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-draenor",
+					"area": "stonecrag-gorge"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		135433,
+		129517
+	]
+}

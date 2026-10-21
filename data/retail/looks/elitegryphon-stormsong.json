@@ -1,0 +1,40 @@
+{
+	"id": "elitegryphon-stormsong",
+	"family": "feathermane",
+	"modelGroup": "grandgryphons",
+	"npcs": [
+		{
+			"id": 139931,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley",
+					"area": "howling-isles"
+				}
+			]
+		},
+		{
+			"id": 139932,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley",
+					"area": "howling-isles"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		199544
+	]
+}

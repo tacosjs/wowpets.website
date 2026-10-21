@@ -1,0 +1,52 @@
+{
+	"id": "mammoth2lava-orange-tusk1-horn2",
+	"family": "mammoth",
+	"modelGroup": "magmammoths",
+	"npcs": [
+		{
+			"id": 191677,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "scalecracker-keep"
+				}
+			]
+		},
+		{
+			"id": 194625,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "burning-ascent"
+				}
+			]
+		},
+		{
+			"id": 197224,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "dragonbane-keep"
+				}
+			]
+		}
+	]
+}

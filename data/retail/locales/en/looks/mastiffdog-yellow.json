@@ -1,0 +1,21 @@
+{
+	"name": "Brown Mastiff",
+	"variant": "Brown",
+	"npcs": {
+		"17840": {
+			"name": "Durnholde Tracking Hound"
+		},
+		"44476": {
+			"name": "Bullmastiff"
+		},
+		"45453": {
+			"name": "Blighthound"
+		},
+		"51037": {
+			"name": "Lost Gilnean Wardog"
+		},
+		"128718": {
+			"name": "Duke"
+		}
+	}
+}

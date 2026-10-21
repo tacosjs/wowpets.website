@@ -1,0 +1,39 @@
+{
+	"id": "nzothserpent-purple",
+	"family": "worm",
+	"modelGroup": "aqiriworms",
+	"npcs": [
+		{
+			"id": 234210,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "excavation-site-9"
+				}
+			]
+		},
+		{
+			"id": 250913,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-gulf-of-memory"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		152550,
+		204671
+	]
+}

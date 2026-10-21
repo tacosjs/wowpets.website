@@ -1,0 +1,30 @@
+{
+	"name": "Purple Silithid",
+	"variant": "Purple",
+	"npcs": {
+		"5460": {
+			"name": "Centipaar Sandreaver"
+		},
+		"8204": {
+			"name": "Soriid the Devourer"
+		},
+		"11730": {
+			"name": "Hive'Regal Ambusher"
+		},
+		"11734": {
+			"name": "Hive'Regal Hive Lord"
+		},
+		"14473": {
+			"name": "Lapress"
+		},
+		"15233": {
+			"name": "Vekniss Guardian"
+		},
+		"15620": {
+			"name": "Hive'Regal Hunter-Killer"
+		},
+		"47388": {
+			"name": "Silithid Ravager"
+		}
+	}
+}

@@ -1,0 +1,42 @@
+{
+	"id": "druidbearkultiran-noarmor-dark",
+	"family": "bear",
+	"modelGroup": "thornbears",
+	"npcs": [
+		{
+			"id": 210989,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "springrain-river"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 134753,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "crimson-forest"
+				}
+			]
+		}
+	]
+}

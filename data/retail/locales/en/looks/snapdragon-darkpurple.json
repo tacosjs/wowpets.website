@@ -1,0 +1,15 @@
+{
+	"name": "Purple-Black Snapdragon",
+	"variant": "Purple-Black",
+	"npcs": {
+		"152358": {
+			"name": "Snapdragon Terrormaw"
+		},
+		"154752": {
+			"name": "Snapdragon Vicejaw"
+		},
+		"156099": {
+			"name": "Snapdragon Terrormaw"
+		}
+	}
+}

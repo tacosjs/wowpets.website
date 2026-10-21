@@ -1,0 +1,23 @@
+{
+	"id": "unicornmoose-brown-fungi",
+	"family": "stag",
+	"modelGroup": "shalehorns",
+	"npcs": [
+		{
+			"id": 219267,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "boskroot-basin"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

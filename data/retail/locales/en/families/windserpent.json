@@ -1,0 +1,29 @@
+{
+	"name": "Bird of Prey",
+	"modelGroups": {
+		"skyfangs": {
+			"name": "Skyfang Wind Serpents"
+		},
+		"harnessedskyfangs": {
+			"name": "Harnessed Skyfang Wind Serpents"
+		},
+		"etherwyrms": {
+			"name": "Etherwyrms"
+		},
+		"skeletalwindserpents": {
+			"name": "Skeletal Windserpents"
+		},
+		"grandwindserpents": {
+			"name": "Wind Serpents"
+		},
+		"spikedwindserpents": {
+			"name": "Spiked Wind Serpents"
+		},
+		"bloodwindserpents": {
+			"name": "Blood Wind Serpents"
+		},
+		"windserpents": {
+			"name": "Classic Wind Serpents"
+		}
+	}
+}

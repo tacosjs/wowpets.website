@@ -1,0 +1,12 @@
+{
+	"name": "Green Mana Wyrm",
+	"variant": "Green",
+	"npcs": {
+		"15966": {
+			"name": "Mana Serpent"
+		},
+		"236258": {
+			"name": "Crackling Wyrmling"
+		}
+	}
+}

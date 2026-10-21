@@ -1,0 +1,101 @@
+{
+	"id": "pangolin-orange",
+	"family": "scalehide",
+	"modelGroup": "pangos",
+	"npcs": [
+		{
+			"id": 257942,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman"
+				}
+			]
+		},
+		{
+			"id": 257513,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman"
+				}
+			]
+		},
+		{
+			"id": 257511,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "bitterbark"
+				}
+			]
+		},
+		{
+			"id": 245778,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "altar-of-malacrass"
+				}
+			]
+		},
+		{
+			"id": 244239,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "amani-pass"
+				}
+			]
+		},
+		{
+			"id": 249354,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "amani-pass-leech-bog"
+				},
+				{
+					"zone": "zulaman"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		252526
+	]
+}

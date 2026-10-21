@@ -1,0 +1,9 @@
+{
+	"name": "Grey Outland Hydra",
+	"variant": "Grey",
+	"npcs": {
+		"18286": {
+			"name": "Mragesh"
+		}
+	}
+}

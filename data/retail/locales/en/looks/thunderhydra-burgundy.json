@@ -1,0 +1,15 @@
+{
+	"name": "Burgundy Thunder Hydra",
+	"variant": "Burgundy",
+	"npcs": {
+		"152543": {
+			"name": "Voidscale Hydra"
+		},
+		"152544": {
+			"name": "Voidscale Trenchstalker"
+		},
+		"152545": {
+			"name": "Scale Matriarch Vynara"
+		}
+	}
+}

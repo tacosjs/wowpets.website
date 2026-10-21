@@ -1,0 +1,81 @@
+{
+	"id": "grovecrawler-blue",
+	"family": "serpent",
+	"modelGroup": "grovecrawlers",
+	"npcs": [
+		{
+			"id": 245659,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "blooming-lattice"
+				}
+			]
+		},
+		{
+			"id": 256695,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar"
+				}
+			]
+		},
+		{
+			"id": 250327,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "amirdrassil-roots-shrouded-grove"
+				}
+			]
+		},
+		{
+			"id": 249163,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 1
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "vale-of-mists"
+				}
+			]
+		},
+		{
+			"id": 246390,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "abundant-grotto"
+				}
+			]
+		}
+	]
+}

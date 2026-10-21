@@ -1,0 +1,18 @@
+{
+	"name": "Gold Vulpin",
+	"variant": "Gold",
+	"npcs": {
+		"168436": {
+			"name": "Goldenpaw Vulpin"
+		},
+		"168943": {
+			"name": "Goldenpaw Stalker"
+		},
+		"169114": {
+			"name": "Goldenpaw Lurker"
+		},
+		"170333": {
+			"name": "Goldenpaw Prowler"
+		}
+	}
+}

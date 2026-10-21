@@ -1,0 +1,12 @@
+{
+	"name": "Armored Black Rylak w/ Engines",
+	"variant": "Black w/ Engines",
+	"npcs": {
+		"78420": {
+			"name": "Sedated Rylak"
+		},
+		"95615": {
+			"name": "Iron War Rylak"
+		}
+	}
+}

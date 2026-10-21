@@ -1,0 +1,23 @@
+{
+	"id": "wolfboss",
+	"family": "wolf",
+	"modelGroup": "scarredworgs",
+	"npcs": [
+		{
+			"id": 119990,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "halls-of-valor",
+					"area": "fields-of-the-eternal-hunt"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

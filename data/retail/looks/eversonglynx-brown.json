@@ -1,0 +1,34 @@
+{
+	"id": "eversonglynx-brown",
+	"family": "cat",
+	"modelGroup": "eversonglynxes",
+	"npcs": [
+		{
+			"id": 237400,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "fairbreeze-village"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		242604,
+		242603,
+		250038,
+		254361,
+		254363,
+		250035,
+		250040,
+		253850,
+		247505,
+		251260
+	]
+}

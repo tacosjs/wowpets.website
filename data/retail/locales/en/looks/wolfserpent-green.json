@@ -1,0 +1,9 @@
+{
+	"name": "Green Wilderling",
+	"variant": "Green Wilderling",
+	"npcs": {
+		"180341": {
+			"name": "Rebellious Wilderling"
+		}
+	}
+}

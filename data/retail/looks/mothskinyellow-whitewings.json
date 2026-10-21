@@ -1,0 +1,23 @@
+{
+	"id": "mothskinyellow-whitewings",
+	"family": "moth",
+	"modelGroup": "moths",
+	"npcs": [
+		{
+			"id": 50858,
+			"tameable": true,
+			"level": {
+				"min": 7,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "hillsbrad-foothills",
+					"area": "purgation-isle"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

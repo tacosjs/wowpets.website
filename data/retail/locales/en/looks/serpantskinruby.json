@@ -1,0 +1,9 @@
+{
+	"name": "Ruby Serpent",
+	"variant": "Ruby",
+	"npcs": {
+		"44594": {
+			"name": "Sunburst Adder"
+		}
+	}
+}

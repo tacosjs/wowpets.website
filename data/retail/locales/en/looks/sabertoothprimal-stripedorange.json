@@ -1,0 +1,27 @@
+{
+	"name": "Striped Orange Rockfang",
+	"variant": "Striped Orange",
+	"npcs": {
+		"190161": {
+			"name": "Sarana"
+		},
+		"193666": {
+			"name": "Rokmur"
+		},
+		"194085": {
+			"name": "Elusive Elder Rockfang"
+		},
+		"194873": {
+			"name": "Playful Prowler"
+		},
+		"195319": {
+			"name": "Ageless Rockfang"
+		},
+		"195472": {
+			"name": "Elusive Ferocious Titanfang"
+		},
+		"196515": {
+			"name": "Tallpeak Cub"
+		}
+	}
+}

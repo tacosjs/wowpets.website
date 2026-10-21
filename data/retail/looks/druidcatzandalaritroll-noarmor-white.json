@@ -1,0 +1,66 @@
+{
+	"id": "druidcatzandalaritroll-noarmor-white",
+	"family": "lizard",
+	"modelGroup": "sabertusks",
+	"npcs": [
+		{
+			"id": 130752,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar"
+				}
+			]
+		},
+		{
+			"id": 129323,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zuldazar"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 140664,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "tusk-isle-and-isle-of-fangs"
+				}
+			]
+		},
+		{
+			"id": 141502,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "warport-rastari-quest-instance"
+				}
+			]
+		}
+	]
+}

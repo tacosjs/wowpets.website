@@ -1,0 +1,12 @@
+{
+	"name": "Dark Grey Elekk",
+	"variant": "Dark Grey",
+	"npcs": {
+		"18289": {
+			"name": "Bull Elekk"
+		},
+		"55118": {
+			"name": "Jumbo"
+		}
+	}
+}

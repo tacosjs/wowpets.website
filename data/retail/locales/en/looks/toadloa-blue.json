@@ -1,0 +1,15 @@
+{
+	"name": "Blue Loa Toad",
+	"variant": "Blue",
+	"npcs": {
+		"144829": {
+			"name": "Thundercroak"
+		},
+		"144833": {
+			"name": "Whiptongue"
+		},
+		"180848": {
+			"name": "Dew Monster"
+		}
+	}
+}

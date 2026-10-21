@@ -1,0 +1,27 @@
+{
+	"name": "Orange Wind Serpent",
+	"variant": "Orange",
+	"npcs": {
+		"3630": {
+			"name": "Deviate Coiler"
+		},
+		"4346": {
+			"name": "Noxious Flayer"
+		},
+		"8336": {
+			"name": "Hakkari Sapper"
+		},
+		"20797": {
+			"name": "Deviate Coiler Hatchling"
+		},
+		"129128": {
+			"name": "Crackling Razorwing"
+		},
+		"140353": {
+			"name": "Brightscale Coilfang"
+		},
+		"140354": {
+			"name": "Brightscale Wind Serpent"
+		}
+	}
+}

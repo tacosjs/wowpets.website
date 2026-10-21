@@ -1,0 +1,22 @@
+{
+	"id": "tigerskinbrown-tigergem",
+	"family": "cat",
+	"modelGroup": "hunchedcats",
+	"npcs": [
+		{
+			"id": 51663,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "northern-stranglethorn"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

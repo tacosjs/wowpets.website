@@ -1,0 +1,15 @@
+{
+	"name": "Orange-Blue Basilisk w/ Purple Crest",
+	"variant": "Orange-Blue w/ Purple Crest",
+	"npcs": {
+		"8120": {
+			"name": "Sul'lithuz Abomination"
+		},
+		"84805": {
+			"name": "Stonespite"
+		},
+		"88481": {
+			"name": "Sandhide Watcher"
+		}
+	}
+}

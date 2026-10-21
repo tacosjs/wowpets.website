@@ -1,0 +1,10 @@
+{
+	"name": "Void Dark Phoenix",
+	"variant": "Void Dark Phoenix",
+	"npcs": {
+		"246728": {
+			"name": "Void Ember",
+			"title": "Child of Belo'ren"
+		}
+	}
+}

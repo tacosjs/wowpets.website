@@ -1,0 +1,32 @@
+{
+	"id": "direwolfskinbrown",
+	"family": "wolf",
+	"modelGroup": "worgs",
+	"npcs": [
+		{
+			"id": 19458,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hellfire-peninsula"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 17548,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "karazhan"
+				}
+			]
+		}
+	]
+}

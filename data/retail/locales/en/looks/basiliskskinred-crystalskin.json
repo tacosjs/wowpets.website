@@ -1,0 +1,9 @@
+{
+	"name": "Orange-Blue Basilisk w/ Blue Crest",
+	"variant": "Orange-Blue w/ Blue Crest",
+	"npcs": {
+		"5990": {
+			"name": "Redstone Basilisk"
+		}
+	}
+}

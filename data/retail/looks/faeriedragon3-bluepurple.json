@@ -1,0 +1,25 @@
+{
+	"id": "faeriedragon3-bluepurple",
+	"family": "lesserdragonkin",
+	"modelGroup": "dreamfeydarters",
+	"npcs": [
+		{
+			"id": 213390,
+			"tameable": false,
+			"level": {
+				"min": 73,
+				"max": 73
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-dreams-hope",
+					"area": "sylvan-conservatory"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		213547
+	]
+}

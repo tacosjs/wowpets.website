@@ -1,0 +1,9 @@
+{
+	"name": "Bronze-Armoured Undead Ravasaur",
+	"variant": "Bronze-Armoured Undead",
+	"npcs": {
+		"136976": {
+			"name": "T'zala"
+		}
+	}
+}

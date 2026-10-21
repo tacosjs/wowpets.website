@@ -1,0 +1,59 @@
+{
+	"id": "druidcatzandalaritroll-noarmor-green",
+	"family": "lizard",
+	"modelGroup": "sabertusks",
+	"npcs": [
+		{
+			"id": 137829,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "old-merchant-road"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 130774,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar"
+				}
+			]
+		},
+		{
+			"id": 130489,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		129337,
+		129338
+	]
+}

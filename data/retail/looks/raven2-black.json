@@ -1,0 +1,156 @@
+{
+	"id": "raven2-black",
+	"family": "carrionbird",
+	"modelGroup": "cbravens",
+	"npcs": [
+		{
+			"id": 135049,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "waycrest-manor"
+				}
+			]
+		},
+		{
+			"id": 124890,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "shrouded-foothills"
+				}
+			]
+		},
+		{
+			"id": 137468,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "upper-corlain"
+				}
+			]
+		},
+		{
+			"id": 137329,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "teller-farm"
+				}
+			]
+		},
+		{
+			"id": 128937,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "fletchers-hollow"
+				}
+			]
+		},
+		{
+			"id": 130147,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "anyport"
+				}
+			]
+		},
+		{
+			"id": 125411,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "watchers-wood"
+				}
+			]
+		},
+		{
+			"id": 121610,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "watchers-wood-glenbrook-homestead"
+				}
+			]
+		},
+		{
+			"id": 69349,
+			"tameable": true,
+			"level": {
+				"min": 32,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-thunder",
+					"area": "conquerors-terrace"
+				}
+			]
+		},
+		{
+			"id": 175699,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-maw",
+					"area": "the-beastwarrens"
+				}
+			]
+		}
+	]
+}

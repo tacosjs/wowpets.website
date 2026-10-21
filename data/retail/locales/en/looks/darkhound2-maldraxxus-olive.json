@@ -1,0 +1,12 @@
+{
+	"name": "Stitched Olive Darkhound",
+	"variant": "Stitched Olive",
+	"npcs": {
+		"169872": {
+			"name": "Chosen Corpsehound"
+		},
+		"170159": {
+			"name": "Stiched Fleshripper"
+		}
+	}
+}

@@ -1,0 +1,39 @@
+{
+	"name": "Beige Krolusk",
+	"variant": "Beige",
+	"npcs": {
+		"129638": {
+			"name": "Tamed Krolusk"
+		},
+		"130415": {
+			"name": "Krolusk Warcrawler"
+		},
+		"134557": {
+			"name": "Maimed Krolusk"
+		},
+		"134562": {
+			"name": "Captured Krolusk"
+		},
+		"135582": {
+			"name": "Krolusk Sandhunter"
+		},
+		"136667": {
+			"name": "Krolusk Dunecrawler"
+		},
+		"140585": {
+			"name": "Umber Lurker"
+		},
+		"217741": {
+			"name": "Deeps Krolusk"
+		},
+		"221358": {
+			"name": "Waste Krolusk"
+		},
+		"230922": {
+			"name": "Darkchasm Krolusk"
+		},
+		"249590": {
+			"name": "Angry Krolusk"
+		}
+	}
+}

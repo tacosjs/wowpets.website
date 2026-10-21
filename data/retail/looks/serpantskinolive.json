@@ -1,0 +1,35 @@
+{
+	"id": "serpantskinolive",
+	"family": "serpent",
+	"modelGroup": "serpents",
+	"npcs": [
+		{
+			"id": 48131,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thousand-needles"
+				}
+			]
+		},
+		{
+			"id": 29774,
+			"tameable": false,
+			"level": {
+				"min": 21,
+				"max": 31
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "gundrak"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"id": "serpantskingreen",
+	"family": "serpent",
+	"modelGroup": "serpents",
+	"npcs": [
+		{
+			"id": 50735,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "dustwallow-marsh"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 5225,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "swamp-of-sorrows",
+					"area": "hall-of-bones"
+				}
+			]
+		},
+		{
+			"id": 102091,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "blind-marshlands"
+				}
+			]
+		}
+	]
+}

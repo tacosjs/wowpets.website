@@ -1,0 +1,36 @@
+{
+	"name": "Green Wind Serpent",
+	"variant": "Green",
+	"npcs": {
+		"3631": {
+			"name": "Deviate Stinglash"
+		},
+		"4118": {
+			"name": "Venomous Cloud Serpent"
+		},
+		"4347": {
+			"name": "Noxious Reaver"
+		},
+		"4348": {
+			"name": "Noxious Shredder"
+		},
+		"5756": {
+			"name": "Deviate Venomwing"
+		},
+		"48249": {
+			"name": "Sorrow Screecher"
+		},
+		"130413": {
+			"name": "Feral Razorwing"
+		},
+		"130572": {
+			"name": "Feral Razorwing"
+		},
+		"140355": {
+			"name": "Brightscale Screecher"
+		},
+		"140356": {
+			"name": "Brightscale Hatchling"
+		}
+	}
+}

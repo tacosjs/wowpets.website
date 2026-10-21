@@ -1,0 +1,12 @@
+{
+	"id": "rat2undermine-brown",
+	"family": "rodent",
+	"modelGroup": "rats",
+	"npcs": [],
+	"alsoNpcs": [
+		234292,
+		231217,
+		240402,
+		240579
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"name": "Tan Bat",
+	"variant": "Tan",
+	"npcs": {
+		"4861": {
+			"name": "Shrike Bat"
+		},
+		"8601": {
+			"name": "Noxious Plaguebat"
+		},
+		"8927": {
+			"name": "Dark Screecher"
+		},
+		"16036": {
+			"name": "Frenzied Bat"
+		},
+		"16037": {
+			"name": "Plagued Bat"
+		},
+		"16173": {
+			"name": "Shadowbat"
+		},
+		"16174": {
+			"name": "Greater Shadowbat"
+		},
+		"26622": {
+			"name": "Drakkari Bat"
+		},
+		"42338": {
+			"name": "Tainted Screecher"
+		},
+		"42523": {
+			"name": "Stone Bat"
+		},
+		"59984": {
+			"name": "Trained Jibberwing"
+		}
+	}
+}

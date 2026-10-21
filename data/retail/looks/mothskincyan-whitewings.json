@@ -1,0 +1,22 @@
+{
+	"id": "mothskincyan-whitewings",
+	"family": "moth",
+	"modelGroup": "moths",
+	"npcs": [
+		{
+			"id": 87425,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "umbrafen-point"
+				}
+			]
+		}
+	]
+}

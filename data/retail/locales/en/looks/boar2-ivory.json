@@ -1,0 +1,27 @@
+{
+	"name": "Pale Boar",
+	"variant": "Pale",
+	"npcs": {
+		"113": {
+			"name": "Stonetusk Boar"
+		},
+		"330": {
+			"name": "Princess"
+		},
+		"524": {
+			"name": "Rockhide Boar"
+		},
+		"1689": {
+			"name": "Scarred Crag Boar"
+		},
+		"3098": {
+			"name": "Mottled Boar"
+		},
+		"3100": {
+			"name": "Elder Mottled Boar"
+		},
+		"39224": {
+			"name": "Lo'Shall"
+		}
+	}
+}

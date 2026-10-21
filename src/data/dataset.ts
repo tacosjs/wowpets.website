@@ -50,7 +50,7 @@ export type AbilityBase = { id: string };
 
 export type Issue = {
 	level: "error" | "warning";
-	/** Path relative to data/, e.g. retail/looks/worg-black.json */
+	/** Path relative to data/, e.g. retail/looks/worgblack.json */
 	file: string;
 	/** Dotted key path inside the file, when known. */
 	path?: string;

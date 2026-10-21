@@ -1,0 +1,21 @@
+{
+	"name": "Greater Black Dragonhawk",
+	"variant": "Black",
+	"npcs": {
+		"250030": {
+			"name": "Ghostfeather Dragonhawk"
+		},
+		"250228": {
+			"name": "Carefree Dragonhawk"
+		},
+		"254313": {
+			"name": "Ghostfeather Dragonhawk"
+		},
+		"254610": {
+			"name": "Ghostfeather Alpha"
+		},
+		"259903": {
+			"name": "Voidshadow Dragonhawk"
+		}
+	}
+}

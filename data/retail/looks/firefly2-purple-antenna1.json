@@ -1,0 +1,30 @@
+{
+	"id": "firefly2-purple-antenna1",
+	"family": "moth",
+	"modelGroup": "candleflies",
+	"npcs": [
+		{
+			"id": 226029,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		227364,
+		229111,
+		246103,
+		249059,
+		250330,
+		256204,
+		248428
+	]
+}

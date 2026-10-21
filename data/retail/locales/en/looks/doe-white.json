@@ -1,0 +1,27 @@
+{
+	"name": "White Doe",
+	"variant": "White",
+	"npcs": {
+		"93314": {
+			"name": "Gleamhoof Doe"
+		},
+		"93316": {
+			"name": "Gleamhoof Fawn"
+		},
+		"93328": {
+			"name": "Frenzybound Doe"
+		},
+		"93329": {
+			"name": "Frenzybound Doe"
+		},
+		"94238": {
+			"name": "Skittish Doe"
+		},
+		"140260": {
+			"name": "Runehoof Courser"
+		},
+		"140264": {
+			"name": "Runehoof Calf"
+		}
+	}
+}

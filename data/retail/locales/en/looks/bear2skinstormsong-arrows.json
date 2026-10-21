@@ -1,0 +1,9 @@
+{
+	"name": "Wounded Tawny Bear",
+	"variant": "Wounded Tawny",
+	"npcs": {
+		"141239": {
+			"name": "Osca the Bloodied"
+		}
+	}
+}

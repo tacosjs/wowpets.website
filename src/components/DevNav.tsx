@@ -5,12 +5,12 @@ import LocaleSwitcher from "./LocaleSwitcher";
 const looks = [
 	{
 		version: "retail",
-		lookId: "mantid-tank-green",
+		lookId: "mantidtank-green",
 		label: "Retail: Green Kunchong",
 	},
 	{
 		version: "retail",
-		lookId: "worg-black",
+		lookId: "worgblack",
 		label: "Retail: Black Saber Worg",
 	},
 	{ version: "classic", lookId: "wolf-black", label: "Classic: Black Wolf" },

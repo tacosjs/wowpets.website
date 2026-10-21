@@ -1,0 +1,12 @@
+{
+	"name": "Spotted Orange Saber Cat",
+	"variant": "Spotted Orange",
+	"npcs": {
+		"28001": {
+			"name": "Dreadsaber"
+		},
+		"204518": {
+			"name": "Sholazian Dreadsaber"
+		}
+	}
+}

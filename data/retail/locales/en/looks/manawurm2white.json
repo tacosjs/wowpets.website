@@ -1,0 +1,12 @@
+{
+	"name": "Golden-Silver Mana Wyrm",
+	"variant": "Golden-Silver",
+	"npcs": {
+		"16491": {
+			"name": "Mana Feeder"
+		},
+		"18883": {
+			"name": "Mana Snapper"
+		}
+	}
+}

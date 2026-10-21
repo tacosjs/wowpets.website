@@ -1,0 +1,21 @@
+{
+	"name": "Red & White Moth",
+	"variant": "Red & White",
+	"npcs": {
+		"77719": {
+			"name": "Glimmerwing"
+		},
+		"79910": {
+			"name": "Shimmerwing Moth"
+		},
+		"79923": {
+			"name": "Shimmerwing Mothling"
+		},
+		"86810": {
+			"name": "Protective Shimmerwing Moth"
+		},
+		"87089": {
+			"name": "Moth of Wrath"
+		}
+	}
+}

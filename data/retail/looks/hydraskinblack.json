@@ -1,0 +1,21 @@
+{
+	"id": "hydraskinblack",
+	"family": "hydra",
+	"modelGroup": "hydras",
+	"npcs": [
+		{
+			"id": 4374,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "dustwallow-marsh"
+				}
+			]
+		}
+	]
+}

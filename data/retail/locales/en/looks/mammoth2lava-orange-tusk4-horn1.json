@@ -1,0 +1,18 @@
+{
+	"name": "Orange Magmammoth w/ Medium Tusks & Large Spikes",
+	"variant": "Orange",
+	"npcs": {
+		"181875": {
+			"name": "Olphis the Molten"
+		},
+		"191679": {
+			"name": "Magmammoth Bull"
+		},
+		"191903": {
+			"name": "Magmammoth Bull"
+		},
+		"194060": {
+			"name": "Elusive Magmammoth Bull"
+		}
+	}
+}

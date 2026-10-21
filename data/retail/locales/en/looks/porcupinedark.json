@@ -1,0 +1,24 @@
+{
+	"name": "Blue Porcupine",
+	"variant": "Blue",
+	"npcs": {
+		"50944": {
+			"name": "Bristlespine"
+		},
+		"113123": {
+			"name": "Leytouched Cliffquill"
+		},
+		"146116": {
+			"name": "Needleback Forager"
+		},
+		"146118": {
+			"name": "Territorial Needleback"
+		},
+		"146119": {
+			"name": "Needleback Brute"
+		},
+		"146143": {
+			"name": "Razorspike"
+		}
+	}
+}

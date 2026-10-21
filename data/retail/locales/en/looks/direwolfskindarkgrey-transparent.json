@@ -1,0 +1,9 @@
+{
+	"name": "Ghostly Dark Grey Worg",
+	"variant": "Ghostly Dark Grey",
+	"npcs": {
+		"45450": {
+			"name": "The Lone Hunter"
+		}
+	}
+}

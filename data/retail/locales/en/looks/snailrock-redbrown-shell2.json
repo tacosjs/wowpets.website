@@ -1,0 +1,18 @@
+{
+	"name": "Maroon Rock Snail",
+	"variant": "Maroon",
+	"npcs": {
+		"202526": {
+			"name": "Snailmantha"
+		},
+		"203080": {
+			"name": "Rosy"
+		},
+		"204553": {
+			"name": "Rosy"
+		},
+		"227794": {
+			"name": "Slimy Mollusc"
+		}
+	}
+}

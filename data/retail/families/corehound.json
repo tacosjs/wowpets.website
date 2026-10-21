@@ -1,0 +1,36 @@
+{
+	"id": "corehound",
+	"icon": "ability_hunter_pet_corehound",
+	"spec": "ferocity",
+	"exotic": true,
+	"diet": [
+		"meat"
+	],
+	"abilities": {
+		"basic": "bite",
+		"family": [
+			"obsidian-skin",
+			"molten-hide"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "blazehounds"
+		},
+		{
+			"id": "corehounds"
+		},
+		{
+			"id": "classiccorehounds"
+		},
+		{
+			"id": "guardianhounds"
+		},
+		{
+			"id": "drakehounds"
+		},
+		{
+			"id": "voidhounds"
+		}
+	]
+}

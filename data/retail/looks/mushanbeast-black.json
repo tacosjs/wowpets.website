@@ -1,0 +1,97 @@
+{
+	"id": "mushanbeast-black",
+	"family": "scalehide",
+	"modelGroup": "mushan",
+	"npcs": [
+		{
+			"id": 58435,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds",
+					"area": "the-wild-plains"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 60623,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "kun-lai-summit",
+					"area": "the-yaungol-advance"
+				}
+			]
+		},
+		{
+			"id": 61618,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "townlong-steppes"
+				}
+			]
+		},
+		{
+			"id": 63827,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dread-wastes",
+					"area": "chittering-coast"
+				}
+			]
+		},
+		{
+			"id": 73185,
+			"tameable": true,
+			"level": {
+				"min": 37,
+				"max": 37
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "siege-of-orgrimmar",
+					"area": "the-menagerie-siege-of-orgrimmar"
+				}
+			]
+		},
+		{
+			"id": 61875,
+			"tameable": false,
+			"level": {
+				"min": 20,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "kun-lai-summit",
+					"area": "fire-camp-ruqin"
+				}
+			]
+		}
+	]
+}

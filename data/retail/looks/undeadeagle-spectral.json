@@ -1,0 +1,22 @@
+{
+	"id": "undeadeagle-spectral",
+	"family": "birdofprey",
+	"modelGroup": "deathhawks",
+	"npcs": [
+		{
+			"id": 189087,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "the-eternal-kurgans"
+				}
+			]
+		}
+	]
+}

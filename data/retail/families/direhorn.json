@@ -1,0 +1,29 @@
+{
+	"id": "direhorn",
+	"wowId": 138,
+	"icon": "inv_pet_direhorn",
+	"spec": "tenacity",
+	"exotic": false,
+	"requiredSkill": "direhorn",
+	"diet": [
+		"fruit",
+		"fungus"
+	],
+	"abilities": {
+		"basic": "bite",
+		"family": [
+			"gore"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "chloroceroses"
+		},
+		{
+			"id": "direhorns"
+		},
+		{
+			"id": "armoreddirehorns"
+		}
+	]
+}

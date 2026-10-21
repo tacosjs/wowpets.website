@@ -1,0 +1,39 @@
+{
+	"name": "Blue Rugged Scorpion",
+	"variant": "Blue",
+	"npcs": {
+		"51404": {
+			"name": "Madexx"
+		},
+		"61299": {
+			"name": "Seething Fleshripper"
+		},
+		"96021": {
+			"name": "King Azureback"
+		},
+		"108009": {
+			"name": "Azureback Broodling"
+		},
+		"122153": {
+			"name": "Scorpashi Venomtail"
+		},
+		"135728": {
+			"name": "Scorpashi Venomtail"
+		},
+		"137217": {
+			"name": "Oasis Deathstrike"
+		},
+		"140112": {
+			"name": "Stonelash"
+		},
+		"161382": {
+			"name": "Chittering Scorpling"
+		},
+		"215830": {
+			"name": "Agitated Scorpid"
+		},
+		"226573": {
+			"name": "Cliffwalk Scavenger"
+		}
+	}
+}

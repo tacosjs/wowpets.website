@@ -1,0 +1,21 @@
+{
+	"name": "Blue Saurolisk",
+	"variant": "Blue",
+	"npcs": {
+		"130019": {
+			"name": "Saurolisk Tidehunter"
+		},
+		"139161": {
+			"name": "Brinefang Tidestalker"
+		},
+		"141641": {
+			"name": "Stonejaw Saurolisk"
+		},
+		"141716": {
+			"name": "Stonejaw Youngling"
+		},
+		"151998": {
+			"name": "Saurolisk Bonenipper"
+		}
+	}
+}

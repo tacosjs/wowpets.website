@@ -1,0 +1,39 @@
+{
+	"id": "protosheep-black-flowers1",
+	"family": "gruffhorn",
+	"modelGroup": "mosswools",
+	"npcs": [
+		{
+			"id": 227127,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn"
+				}
+			]
+		},
+		{
+			"id": 212373,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "rambleshire"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		212371
+	]
+}

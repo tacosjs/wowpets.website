@@ -1,0 +1,47 @@
+{
+	"id": "decomposermediumblue-face1",
+	"family": "carapid",
+	"modelGroup": "gorms",
+	"npcs": [
+		{
+			"id": 163992,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "tirna-scithe"
+				}
+			]
+		},
+		{
+			"id": 168897,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		169972,
+		169976,
+		163316,
+		165190
+	]
+}

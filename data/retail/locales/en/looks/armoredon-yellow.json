@@ -1,0 +1,15 @@
+{
+	"name": "Gold Armoredon",
+	"variant": "Gold",
+	"npcs": {
+		"193212": {
+			"name": "Malsegan"
+		},
+		"196555": {
+			"name": "Gladehorn Armoredon"
+		},
+		"196655": {
+			"name": "Sturdy Gladehorn"
+		}
+	}
+}

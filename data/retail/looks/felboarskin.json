@@ -1,0 +1,35 @@
+{
+	"id": "felboarskin",
+	"family": "boar",
+	"modelGroup": "felboars",
+	"npcs": [
+		{
+			"id": 16880,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hellfire-peninsula"
+				}
+			]
+		},
+		{
+			"id": 16879,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hellfire-peninsula"
+				}
+			]
+		}
+	]
+}

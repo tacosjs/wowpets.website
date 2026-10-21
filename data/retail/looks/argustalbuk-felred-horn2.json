@@ -1,0 +1,22 @@
+{
+	"id": "argustalbuk-felred-horn2",
+	"family": "stag",
+	"modelGroup": "ruggedtalbuks",
+	"npcs": [
+		{
+			"id": 124225,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "krokuun",
+					"area": "deceivers-scar"
+				}
+			]
+		}
+	]
+}

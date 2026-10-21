@@ -1,0 +1,42 @@
+{
+	"name": "Violet Mana Wyrm",
+	"variant": "Violet",
+	"npcs": {
+		"16492": {
+			"name": "Syphoner"
+		},
+		"18879": {
+			"name": "Phase Hunter"
+		},
+		"41212": {
+			"name": "Void Wurm"
+		},
+		"41374": {
+			"name": "Void Wurm"
+		},
+		"70507": {
+			"name": "Nether Wyrm"
+		},
+		"102351": {
+			"name": "Mana Wyrm"
+		},
+		"112955": {
+			"name": "Shadescale Wyrm"
+		},
+		"113202": {
+			"name": "Runebound Wyrm"
+		},
+		"114770": {
+			"name": "Shadescale Wyrm"
+		},
+		"121674": {
+			"name": "Void Nibbler"
+		},
+		"126788": {
+			"name": "Shadowy Voidwyrm"
+		},
+		"191033": {
+			"name": "Mana Wyrmling"
+		}
+	}
+}

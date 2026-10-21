@@ -1,0 +1,81 @@
+{
+	"id": "feathermane",
+	"wowId": 160,
+	"icon": "inv_misc_elitehippogryph",
+	"spec": "tenacity",
+	"exotic": false,
+	"requiredSkill": "feathermane",
+	"diet": [
+		"bread",
+		"cheese",
+		"fish",
+		"raw-fish",
+		"fruit",
+		"fungus",
+		"meat",
+		"raw-meat"
+	],
+	"abilities": {
+		"basic": "bite",
+		"family": [
+			"feather-flurry",
+			"updraft"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "grandwindriders"
+		},
+		{
+			"id": "cloudrooks"
+		},
+		{
+			"id": "umbraclaws"
+		},
+		{
+			"id": "slyverns"
+		},
+		{
+			"id": "owlsteeds"
+		},
+		{
+			"id": "larions"
+		},
+		{
+			"id": "grandhippogryphs"
+		},
+		{
+			"id": "hippogryphs"
+		},
+		{
+			"id": "owlcats"
+		},
+		{
+			"id": "wolfhawks"
+		},
+		{
+			"id": "gryphons"
+		},
+		{
+			"id": "grandgryphons"
+		},
+		{
+			"id": "windriders"
+		},
+		{
+			"id": "wildhammergryphons"
+		},
+		{
+			"id": "razorwings"
+		},
+		{
+			"id": "skeletalgryphons"
+		},
+		{
+			"id": "saddledskeletalgryphons"
+		},
+		{
+			"id": "spectralwindriders"
+		}
+	]
+}

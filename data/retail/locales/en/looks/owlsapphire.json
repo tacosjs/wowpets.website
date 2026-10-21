@@ -1,0 +1,9 @@
+{
+	"name": "Blue Crystal Owl",
+	"variant": "Blue Crystal",
+	"npcs": {
+		"50343": {
+			"name": "Quall"
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"id": "clefthoofdraenormount-blue",
+	"family": "clefthoof",
+	"modelGroup": "draenorsaddledclefthooves",
+	"npcs": [
+		{
+			"id": 76576,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "colossals-fall"
+				}
+			]
+		}
+	]
+}

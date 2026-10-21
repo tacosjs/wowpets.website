@@ -1,0 +1,40 @@
+{
+	"name": "Orange-Red Magma Shalewing",
+	"variant": "Orange-Red",
+	"npcs": {
+		"202303": {
+			"name": "Slaghide Shalewing"
+		},
+		"204381": {
+			"name": "Ember Shalewing"
+		},
+		"205235": {
+			"name": "Slaghide Shalewing"
+		},
+		"207025": {
+			"name": "Lava Sporebat",
+			"title": "Dreadfire Sporebat's Pet"
+		},
+		"207090": {
+			"name": "Zaqali Shalewing"
+		},
+		"207560": {
+			"name": "Fireswarm Shalewing"
+		},
+		"208187": {
+			"name": "Moltenjaw Sporebat"
+		},
+		"208662": {
+			"name": "Dreadfire Sporebat"
+		},
+		"210064": {
+			"name": "Molten Leadspike"
+		},
+		"211651": {
+			"name": "Moltenjaw Sporebat"
+		},
+		"211755": {
+			"name": "Moltenjaw Shalewing"
+		}
+	}
+}

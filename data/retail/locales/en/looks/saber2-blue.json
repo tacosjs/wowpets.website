@@ -1,0 +1,22 @@
+{
+	"name": "Blue Mana Saber",
+	"variant": "Blue",
+	"npcs": {
+		"102748": {
+			"name": "Tamed Manasaber"
+		},
+		"110727": {
+			"name": "Astrix",
+			"title": "Cadraeus's Pet"
+		},
+		"112068": {
+			"name": "Leyline Prowler"
+		},
+		"112627": {
+			"name": "Curious Manahunter"
+		},
+		"113201": {
+			"name": "Thicket Manahunter"
+		}
+	}
+}

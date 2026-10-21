@@ -1,0 +1,28 @@
+{
+	"id": "pig2-darkpinkspots",
+	"family": "boar",
+	"modelGroup": "pigs",
+	"npcs": [
+		{
+			"id": 219683,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mycomancer-cavern"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		142403,
+		214928,
+		214926,
+		56132,
+		129501
+	]
+}

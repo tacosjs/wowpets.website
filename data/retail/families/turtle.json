@@ -1,0 +1,39 @@
+{
+	"id": "turtle",
+	"wowId": 21,
+	"icon": "ability_hunter_pet_turtle",
+	"spec": "tenacity",
+	"exotic": false,
+	"diet": [
+		"bread",
+		"fish",
+		"fruit",
+		"fungus"
+	],
+	"abilities": {
+		"basic": "bite",
+		"family": [
+			"shell-shield"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "smoothdragonturtles"
+		},
+		{
+			"id": "stonedragonturtles"
+		},
+		{
+			"id": "spikeddragonturtles"
+		},
+		{
+			"id": "dragonturtles"
+		},
+		{
+			"id": "ancientturtles"
+		},
+		{
+			"id": "turtles"
+		}
+	]
+}

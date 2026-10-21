@@ -1,0 +1,9 @@
+{
+	"name": "Damaged Orange Silithid Colossus",
+	"variant": "Damaged Orange",
+	"npcs": {
+		"50744": {
+			"name": "Qu'rik"
+		}
+	}
+}

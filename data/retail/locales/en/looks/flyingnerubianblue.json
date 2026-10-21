@@ -1,0 +1,15 @@
+{
+	"name": "Blue-Grey Swarmite",
+	"variant": "Blue-Grey Swarmite",
+	"npcs": {
+		"29213": {
+			"name": "Anub'ar Darter"
+		},
+		"29349": {
+			"name": "Anub'ar Darter"
+		},
+		"139862": {
+			"name": "Voru'kar Spitter"
+		}
+	}
+}

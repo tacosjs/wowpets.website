@@ -1,0 +1,27 @@
+{
+	"name": "Yellow Silithid",
+	"variant": "Yellow",
+	"npcs": {
+		"6553": {
+			"name": "Gorishi Reaver"
+		},
+		"6582": {
+			"name": "Clutchmother Zavas"
+		},
+		"10040": {
+			"name": "Gorishi Hive Guard"
+		},
+		"11728": {
+			"name": "Hive'Zora Reaver"
+		},
+		"15323": {
+			"name": "Hive'Zara Sandstalker"
+		},
+		"50741": {
+			"name": "Kaxx"
+		},
+		"195652": {
+			"name": "Silithid Guardian"
+		}
+	}
+}

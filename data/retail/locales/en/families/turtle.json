@@ -1,0 +1,23 @@
+{
+	"name": "Turtle",
+	"modelGroups": {
+		"smoothdragonturtles": {
+			"name": "Smooth Dragon Turtles"
+		},
+		"stonedragonturtles": {
+			"name": "Stone Dragon Turtles"
+		},
+		"spikeddragonturtles": {
+			"name": "Spiked Dragon Turtles"
+		},
+		"dragonturtles": {
+			"name": "Dragon Turtles"
+		},
+		"ancientturtles": {
+			"name": "Ancient Turtles"
+		},
+		"turtles": {
+			"name": "Classic Turtles"
+		}
+	}
+}

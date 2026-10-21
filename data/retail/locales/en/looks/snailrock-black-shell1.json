@@ -1,0 +1,21 @@
+{
+	"name": "Silver-Grey Crystalline Snail",
+	"variant": "Silver-Grey",
+	"npcs": {
+		"200121": {
+			"name": "Prismastic Snailette"
+		},
+		"201081": {
+			"name": "Slimy Whelk"
+		},
+		"203241": {
+			"name": "Stone Infused Rock Snail"
+		},
+		"204618": {
+			"name": "Roggy"
+		},
+		"251548": {
+			"name": "Deeprock Snail"
+		}
+	}
+}

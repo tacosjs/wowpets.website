@@ -1,0 +1,13 @@
+{
+	"name": "Ghostly Green Crystal Owl",
+	"variant": "Ghostly Green Crystal",
+	"npcs": {
+		"34982": {
+			"name": "Emerald Spirit"
+		},
+		"197243": {
+			"name": "Starfall",
+			"title": "Soh Larr's Pet"
+		}
+	}
+}

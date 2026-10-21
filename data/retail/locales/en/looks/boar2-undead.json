@@ -1,0 +1,27 @@
+{
+	"name": "Diseased Boar",
+	"variant": "Diseased",
+	"npcs": {
+		"16117": {
+			"name": "Plagued Swine"
+		},
+		"50937": {
+			"name": "Hamhide"
+		},
+		"155657": {
+			"name": "Huffer"
+		},
+		"155951": {
+			"name": "Ruffer"
+		},
+		"155952": {
+			"name": "Suffer"
+		},
+		"155953": {
+			"name": "C'Thuffer"
+		},
+		"157349": {
+			"name": "Void Boar"
+		}
+	}
+}

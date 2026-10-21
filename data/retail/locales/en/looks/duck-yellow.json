@@ -1,0 +1,16 @@
+{
+	"name": "Yellow Duck",
+	"variant": "Yellow",
+	"npcs": {
+		"188844": {
+			"name": "Humduck Livingsworth the Third",
+			"title": "Numernormi's Companion"
+		},
+		"190126": {
+			"name": "Roberts"
+		},
+		"211948": {
+			"name": "Firequackers"
+		}
+	}
+}

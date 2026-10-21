@@ -1,0 +1,20 @@
+{
+	"id": "rutaanibird-tan",
+	"family": "carrionbird",
+	"modelGroup": "petalwings",
+	"npcs": [],
+	"alsoNpcs": [
+		242945,
+		253881,
+		246713,
+		250193,
+		237709,
+		248475,
+		256903,
+		256898,
+		247772,
+		249107,
+		249164,
+		259972
+	]
+}

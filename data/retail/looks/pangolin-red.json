@@ -1,0 +1,55 @@
+{
+	"id": "pangolin-red",
+	"family": "scalehide",
+	"modelGroup": "pangos",
+	"npcs": [
+		{
+			"id": 257512,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman"
+				}
+			]
+		},
+		{
+			"id": 257517,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "bitterbark"
+				}
+			]
+		},
+		{
+			"id": 255091,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "amanizar-village"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		257515,
+		259960
+	]
+}

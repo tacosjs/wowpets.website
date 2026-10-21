@@ -1,0 +1,9 @@
+{
+	"name": "Brown Jawcrawler w/ No Graspers",
+	"variant": "Brown w/ No Graspers",
+	"npcs": {
+		"214285": {
+			"name": "Razormouth Wormling"
+		}
+	}
+}

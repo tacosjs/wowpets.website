@@ -1,0 +1,77 @@
+{
+	"id": "wolfdraenorrusticyellow",
+	"family": "wolf",
+	"modelGroup": "draenorwolves",
+	"npcs": [
+		{
+			"id": 141051,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "stagheart-cliffs"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 128774,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "stagheart-cliffs"
+				}
+			]
+		},
+		{
+			"id": 136697,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "highroad-pass"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 140075,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		144494,
+		124885,
+		125464,
+		135197,
+		137461,
+		136416,
+		136418
+	]
+}

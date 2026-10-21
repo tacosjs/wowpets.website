@@ -1,0 +1,15 @@
+{
+	"name": "Greenish-Blue Spiked Crab",
+	"variant": "Greenish-Blue",
+	"npcs": {
+		"66472": {
+			"name": "King Spineclaw"
+		},
+		"72766": {
+			"name": "Ancient Spineclaw"
+		},
+		"125214": {
+			"name": "Krubbs"
+		}
+	}
+}

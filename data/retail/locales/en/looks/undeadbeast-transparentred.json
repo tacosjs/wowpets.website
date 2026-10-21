@@ -1,0 +1,9 @@
+{
+	"name": "Ghostly Red Beast Abomination",
+	"variant": "Ghostly Red",
+	"npcs": {
+		"146564": {
+			"name": "Blight Hound"
+		}
+	}
+}

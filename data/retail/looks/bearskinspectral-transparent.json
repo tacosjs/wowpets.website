@@ -1,0 +1,37 @@
+{
+	"id": "bearskinspectral-transparent",
+	"family": "bear",
+	"modelGroup": "retrobears",
+	"npcs": [
+		{
+			"id": 59783,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "krasarang-wilds",
+					"area": "the-forbidden-jungle"
+				}
+			]
+		},
+		{
+			"id": 59784,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "krasarang-wilds",
+					"area": "the-forbidden-jungle"
+				}
+			]
+		}
+	]
+}

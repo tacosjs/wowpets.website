@@ -1,0 +1,211 @@
+{
+	"id": "jailerhound-gray",
+	"family": "hound",
+	"modelGroup": "soulseekers",
+	"npcs": [
+		{
+			"id": 167960,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-maw",
+					"area": "planes-of-torment"
+				}
+			]
+		},
+		{
+			"id": 183651,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "haven"
+				}
+			]
+		},
+		{
+			"id": 161763,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-maw"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 161172,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-maw",
+					"area": "planes-of-torment"
+				}
+			]
+		},
+		{
+			"id": 152708,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tower-of-the-damned",
+					"area": "skoldus-hall"
+				}
+			]
+		},
+		{
+			"id": 178630,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "sanctum-of-domination"
+				}
+			]
+		},
+		{
+			"id": 175720,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-maw",
+					"area": "desmotaeron"
+				}
+			]
+		},
+		{
+			"id": 160785,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-maw",
+					"area": "desmotaeron"
+				}
+			]
+		},
+		{
+			"id": 168673,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-maw",
+					"area": "ruins-cradle"
+				}
+			]
+		},
+		{
+			"id": 166934,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tower-of-the-damned",
+					"area": "skoldus-hall"
+				}
+			],
+			"retired": true
+		},
+		{
+			"id": 179823,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "korthia"
+				}
+			]
+		},
+		{
+			"id": 183461,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "protoform-repository"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 166933,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tower-of-the-damned",
+					"area": "skoldus-hall"
+				}
+			],
+			"retired": true
+		}
+	]
+}

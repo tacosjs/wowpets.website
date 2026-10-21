@@ -1,0 +1,51 @@
+{
+	"name": "Brown & White Ohuna",
+	"variant": "Brown & White",
+	"npcs": {
+		"186190": {
+			"name": "Halu"
+		},
+		"187226": {
+			"name": "Longwing Skyhunter"
+		},
+		"187337": {
+			"name": "Time-Charged Ohuna"
+		},
+		"190132": {
+			"name": "Shikaar Ohuna"
+		},
+		"191802": {
+			"name": "Shikaar Ohuna"
+		},
+		"192609": {
+			"name": "Swift Craghunter"
+		},
+		"192978": {
+			"name": "Range Ohuna"
+		},
+		"193065": {
+			"name": "Ohuna"
+		},
+		"193099": {
+			"name": "Shikaar Hunting Ohuna"
+		},
+		"193341": {
+			"name": "Angen"
+		},
+		"194771": {
+			"name": "Sunwing Ohuna"
+		},
+		"195483": {
+			"name": "Messenger Ohuna"
+		},
+		"196142": {
+			"name": "Shikaar Ohuna"
+		},
+		"197007": {
+			"name": "Sunwing Ohuna"
+		},
+		"198819": {
+			"name": "Wild Ohuna"
+		}
+	}
+}

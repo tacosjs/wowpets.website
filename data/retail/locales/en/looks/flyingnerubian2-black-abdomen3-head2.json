@@ -1,0 +1,52 @@
+{
+	"name": "Black Swarmite w/ Proboscis & Long Tail",
+	"variant": "Black w/ Proboscis & Long Tail",
+	"npcs": {
+		"211742": {
+			"name": "Nerubian Abductor"
+		},
+		"211817": {
+			"name": "Swarmite Lookout"
+		},
+		"212425": {
+			"name": "Shadow Vanguard Scout"
+		},
+		"215595": {
+			"name": "Siege Webwing"
+		},
+		"217371": {
+			"name": "Siege Webwing"
+		},
+		"218094": {
+			"name": "Rak-Ush Bombardier"
+		},
+		"218654": {
+			"name": "Nerubian Slashjaw"
+		},
+		"219654": {
+			"name": "Drone Bomber"
+		},
+		"219655": {
+			"name": "Drone Abductor"
+		},
+		"222722": {
+			"name": "Venomous Flyer"
+		},
+		"224521": {
+			"name": "Frenzied Siege Artillery"
+		},
+		"224663": {
+			"name": "Mesmerised Flyer",
+			"title": "Swarm-Maven Donmiss's Minion"
+		},
+		"227143": {
+			"name": "Patrolling Swarmite"
+		},
+		"227214": {
+			"name": "Patrolling Swarmite"
+		},
+		"227239": {
+			"name": "Patrolling Swarmite"
+		}
+	}
+}

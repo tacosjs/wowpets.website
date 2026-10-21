@@ -1,0 +1,194 @@
+{
+	"id": "amanilynx-pale",
+	"family": "cat",
+	"modelGroup": "amanilynxes",
+	"npcs": [
+		{
+			"id": 250093,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman"
+				}
+			]
+		},
+		{
+			"id": 255217,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "temple-of-halazzi"
+				}
+			]
+		},
+		{
+			"id": 239878,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "temple-of-halazzi"
+				}
+			]
+		},
+		{
+			"id": 236189,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "temple-of-halazzi"
+				}
+			]
+		},
+		{
+			"id": 255090,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "amanizar-village"
+				}
+			]
+		},
+		{
+			"id": 239880,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "temple-of-halazzi"
+				}
+			]
+		},
+		{
+			"id": 247742,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "witherbark-bluffs"
+				}
+			]
+		},
+		{
+			"id": 257273,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "amanizar-village"
+				}
+			]
+		},
+		{
+			"id": 247738,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "witherbark-bluffs"
+				}
+			]
+		},
+		{
+			"id": 255416,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "amanizar-village"
+				}
+			]
+		},
+		{
+			"id": 253155,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "witherbark-bluffs"
+				}
+			]
+		},
+		{
+			"id": 261104,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "amanizar-village"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		242226,
+		244029,
+		255496,
+		255497,
+		254405,
+		265617
+	]
+}

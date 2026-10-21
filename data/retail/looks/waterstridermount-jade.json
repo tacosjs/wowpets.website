@@ -1,0 +1,41 @@
+{
+	"id": "waterstridermount-jade",
+	"family": "waterstrider",
+	"modelGroup": "platedwaterstriders",
+	"npcs": [
+		{
+			"id": 58067,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "krasarang-wilds"
+				}
+			]
+		},
+		{
+			"id": 112334,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		209521,
+		216771,
+		209367,
+		256537
+	]
+}

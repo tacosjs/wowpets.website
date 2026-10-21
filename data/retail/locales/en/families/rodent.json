@@ -1,0 +1,44 @@
+{
+	"name": "Rodent",
+	"modelGroups": {
+		"capybaras": {
+			"name": "Capybaras"
+		},
+		"rats": {
+			"name": "Rats"
+		},
+		"moles": {
+			"name": "Moles"
+		},
+		"saddledmoles": {
+			"name": "Saddled Moles"
+		},
+		"skunks": {
+			"name": "Skunks"
+		},
+		"rockmice": {
+			"name": "Rock Mice"
+		},
+		"ottuks": {
+			"name": "Ottuks"
+		},
+		"floweringcrystalspines": {
+			"name": "Flowering Crystalspines"
+		},
+		"beavers": {
+			"name": "Beavers"
+		},
+		"vombatas": {
+			"name": "Vombatas"
+		},
+		"mawrats": {
+			"name": "Mawrats"
+		},
+		"marsuul": {
+			"name": "Marsuul"
+		},
+		"porcupines": {
+			"name": "Porcupines"
+		}
+	}
+}

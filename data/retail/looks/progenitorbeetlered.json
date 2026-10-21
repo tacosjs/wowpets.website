@@ -1,0 +1,23 @@
+{
+	"id": "progenitorbeetlered",
+	"family": "beetle",
+	"modelGroup": "scarabids",
+	"npcs": [
+		{
+			"id": 178563,
+			"tameable": true,
+			"level": {
+				"min": 61,
+				"max": 61
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "resonant-peaks"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Bronze Scorpid",
+	"variant": "Bronze",
+	"npcs": {
+		"3126": {
+			"name": "Armored Scorpid"
+		},
+		"3127": {
+			"name": "Venomtail Scorpid"
+		},
+		"9691": {
+			"name": "Venomtip Scorpid"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"id": "horse2-green-horse2bastion-noglow",
+	"family": "courser",
+	"modelGroup": "dreamrunners",
+	"npcs": [],
+	"alsoNpcs": [
+		256857,
+		256860,
+		250195,
+		252713
+	]
+}

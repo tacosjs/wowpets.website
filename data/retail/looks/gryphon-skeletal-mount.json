@@ -1,0 +1,66 @@
+{
+	"id": "gryphon-skeletal-mount",
+	"family": "feathermane",
+	"modelGroup": "saddledskeletalgryphons",
+	"npcs": [
+		{
+			"id": 29648,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "icecrown",
+					"area": "deaths-rise"
+				}
+			]
+		},
+		{
+			"id": 30335,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "icecrown",
+					"area": "the-shadow-vault"
+				}
+			]
+		},
+		{
+			"id": 35491,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "trial-of-the-champion"
+				}
+			]
+		},
+		{
+			"id": 117589,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "broken-shore",
+					"area": "deliverance-point"
+				}
+			]
+		}
+	]
+}

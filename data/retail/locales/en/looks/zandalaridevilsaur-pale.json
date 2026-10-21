@@ -1,0 +1,22 @@
+{
+	"name": "Light Brown Devilsaur",
+	"variant": "Light Brown",
+	"npcs": {
+		"69218": {
+			"name": "Kroshik"
+		},
+		"70007": {
+			"name": "Young Primal Devilsaur"
+		},
+		"70010": {
+			"name": "Primal Devilsaur"
+		},
+		"128051": {
+			"name": "Gruesh",
+			"title": "The Bone Crusher"
+		},
+		"139703": {
+			"name": "Young Savagelands Devilsaur"
+		}
+	}
+}

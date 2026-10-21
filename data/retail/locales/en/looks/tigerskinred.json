@@ -1,0 +1,33 @@
+{
+	"name": "Orange Striped Cat",
+	"variant": "Striped Orange",
+	"npcs": {
+		"681": {
+			"name": "Young Stranglethorn Tiger"
+		},
+		"682": {
+			"name": "Stranglethorn Tiger"
+		},
+		"698": {
+			"name": "Bloodscalp Tiger"
+		},
+		"729": {
+			"name": "Sin'Dall"
+		},
+		"772": {
+			"name": "Stranglethorn Tigress"
+		},
+		"976": {
+			"name": "Kurzen War Tiger"
+		},
+		"1085": {
+			"name": "Elder Stranglethorn Tiger"
+		},
+		"45025": {
+			"name": "Mimbubu"
+		},
+		"202339": {
+			"name": "Ancient Tiger"
+		}
+	}
+}

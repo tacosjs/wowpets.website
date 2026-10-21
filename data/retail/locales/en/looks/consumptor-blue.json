@@ -1,0 +1,39 @@
+{
+	"name": "Blue Consumptor",
+	"variant": "Blue",
+	"npcs": {
+		"242750": {
+			"name": "Marrowmouth Consumptor"
+		},
+		"247590": {
+			"name": "Ridge Consumptor"
+		},
+		"248448": {
+			"name": "Territorial Consumptor"
+		},
+		"249250": {
+			"name": "Thrashing Consumptor"
+		},
+		"249734": {
+			"name": "Consumptor Helminth"
+		},
+		"250366": {
+			"name": "Burrowing Consumptor"
+		},
+		"253401": {
+			"name": "Rabid Consumptor"
+		},
+		"255511": {
+			"name": "Voidcraven Consumptor"
+		},
+		"256608": {
+			"name": "Invasive Consumptor"
+		},
+		"257182": {
+			"name": "Mature Ridgecrawler"
+		},
+		"258269": {
+			"name": "Voidsated Consumptor"
+		}
+	}
+}

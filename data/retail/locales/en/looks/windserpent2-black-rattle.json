@@ -1,0 +1,27 @@
+{
+	"name": "Blue-Black Wind Serpent",
+	"variant": "Blue-Black",
+	"npcs": {
+		"5056": {
+			"name": "Deviate Dreadfang"
+		},
+		"37557": {
+			"name": "Thunderhawk Cloudscraper"
+		},
+		"140334": {
+			"name": "Nightscale Coilfang"
+		},
+		"140336": {
+			"name": "Nightscale Wind Serpent"
+		},
+		"185592": {
+			"name": "Swooping Snitch"
+		},
+		"191645": {
+			"name": "Wind Serpent"
+		},
+		"191647": {
+			"name": "Young Wind Serpent"
+		}
+	}
+}

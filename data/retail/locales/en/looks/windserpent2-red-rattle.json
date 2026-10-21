@@ -1,0 +1,42 @@
+{
+	"name": "Red Wind Serpent",
+	"variant": "Red",
+	"npcs": {
+		"5708": {
+			"name": "Spawn of Hakkar"
+		},
+		"5834": {
+			"name": "Azzere the Skyblade"
+		},
+		"46146": {
+			"name": "Stagalbog Serpent"
+		},
+		"84833": {
+			"name": "Sangrikass"
+		},
+		"105652": {
+			"name": "Confined Wind Serpent"
+		},
+		"134048": {
+			"name": "Vukuba"
+		},
+		"135304": {
+			"name": "Territorial Razorwing"
+		},
+		"135736": {
+			"name": "Gore"
+		},
+		"137316": {
+			"name": "Gore"
+		},
+		"140357": {
+			"name": "Venomreaver"
+		},
+		"140358": {
+			"name": "Sorrowcall"
+		},
+		"165905": {
+			"name": "Son of Hakkar"
+		}
+	}
+}

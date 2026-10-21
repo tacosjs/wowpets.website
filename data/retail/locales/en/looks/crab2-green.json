@@ -1,0 +1,12 @@
+{
+	"name": "Green & Purple Crab",
+	"variant": "Green & Purple",
+	"npcs": {
+		"151327": {
+			"name": "Sandclaw Scuttler"
+		},
+		"260081": {
+			"name": "Hefty Stonecracker"
+		}
+	}
+}

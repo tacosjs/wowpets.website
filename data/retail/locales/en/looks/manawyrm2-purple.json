@@ -1,0 +1,15 @@
+{
+	"name": "Purple Eversong Mana Wyrm",
+	"variant": "Purple",
+	"npcs": {
+		"247558": {
+			"name": "Mana Wyrm"
+		},
+		"247569": {
+			"name": "Captured Mana Wyrm"
+		},
+		"249392": {
+			"name": "Nesting Silk Wyrm"
+		}
+	}
+}

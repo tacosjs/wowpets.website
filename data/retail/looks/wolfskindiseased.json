@@ -1,0 +1,93 @@
+{
+	"id": "wolfskindiseased",
+	"family": "wolf",
+	"modelGroup": "wolves",
+	"npcs": [
+		{
+			"id": 1766,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "silverpine-forest"
+				}
+			]
+		},
+		{
+			"id": 1817,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "western-plaguelands"
+				}
+			]
+		},
+		{
+			"id": 8960,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "felwood"
+				}
+			]
+		},
+		{
+			"id": 8959,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "felwood"
+				}
+			]
+		},
+		{
+			"id": 46570,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tol-barad-peninsula",
+					"area": "forgotten-hill"
+				}
+			]
+		},
+		{
+			"id": 23232,
+			"tameable": true,
+			"level": {
+				"min": 31,
+				"max": 31
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "black-temple",
+					"area": "halls-of-anguish"
+				}
+			]
+		}
+	]
+}

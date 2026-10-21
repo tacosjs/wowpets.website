@@ -1,0 +1,12 @@
+{
+	"name": "Plated Orange Water Strider",
+	"variant": "Orange",
+	"npcs": {
+		"60804": {
+			"name": "Lightfooted Snapclaw"
+		},
+		"63755": {
+			"name": "Swamp Strider"
+		}
+	}
+}

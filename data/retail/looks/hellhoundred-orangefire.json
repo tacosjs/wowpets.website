@@ -1,0 +1,157 @@
+{
+	"id": "hellhoundred-orangefire",
+	"family": "hound",
+	"modelGroup": "infernalhellhounds",
+	"npcs": [
+		{
+			"id": 61657,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ragefire-chasm"
+				}
+			]
+		},
+		{
+			"id": 70702,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-secrets-of-ragefire"
+				}
+			]
+		},
+		{
+			"id": 53206,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "firelands"
+				}
+			]
+		},
+		{
+			"id": 53265,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "mount-hyjal",
+					"area": "sethrias-roost"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 53695,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "firelands"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 122998,
+			"tameable": true,
+			"level": {
+				"min": 46,
+				"max": 46
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-deaths-of-chromie"
+				}
+			]
+		},
+		{
+			"id": 156083,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms",
+					"area": "jin-yang-road"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 165960,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "house-of-the-chosen"
+				}
+			]
+		},
+		{
+			"id": 140561,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 140563,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		53152,
+		207429
+	]
+}

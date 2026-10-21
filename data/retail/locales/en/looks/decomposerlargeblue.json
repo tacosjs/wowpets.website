@@ -1,0 +1,21 @@
+{
+	"name": "Blue Greater Gorm",
+	"variant": "Blue Greater Gorm",
+	"npcs": {
+		"160070": {
+			"name": "Gorm Matriarch"
+		},
+		"160143": {
+			"name": "Gorm Matriarch"
+		},
+		"160145": {
+			"name": "Gorm Matriarch"
+		},
+		"169042": {
+			"name": "Contender Brahn"
+		},
+		"172120": {
+			"name": "Gorm Matriarch"
+		}
+	}
+}

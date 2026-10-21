@@ -1,0 +1,101 @@
+{
+	"id": "deathwargpale",
+	"family": "stonehound",
+	"modelGroup": "gargons",
+	"npcs": [
+		{
+			"id": 160401,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "halls-of-atonement-non-instanced"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 157301,
+			"tameable": true,
+			"level": {
+				"min": 57,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "grand-palisade-penance-bridge"
+				}
+			]
+		},
+		{
+			"id": 161294,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "deaths-end"
+				}
+			]
+		},
+		{
+			"id": 161348,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "darkwall-tower"
+				}
+			]
+		},
+		{
+			"id": 169707,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "darkwall-tower"
+				}
+			]
+		},
+		{
+			"id": 162278,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "stalkers-lodge"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		158702
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"id": "nerubianspiderling2-tan-mouth1",
+	"family": "spider",
+	"modelGroup": "threadlings",
+	"npcs": [
+		{
+			"id": 223065,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "abandoned-harvest-site"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		219664,
+		216555,
+		227661
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"name": "Dark Brown Maned Wolf",
+	"variant": "Dark Brown",
+	"npcs": {
+		"100409": {
+			"name": "Dusky Howler"
+		},
+		"121620": {
+			"name": "Darkmaw Prowler"
+		},
+		"126252": {
+			"name": "Scruffs",
+			"title": "Loyal Companion"
+		},
+		"131365": {
+			"name": "Coppertooth Prowler"
+		},
+		"136417": {
+			"name": "Razorclaw Alpha"
+		},
+		"138079": {
+			"name": "Darkmaw Pup"
+		},
+		"138086": {
+			"name": "Darkmaw Den Mother"
+		},
+		"138181": {
+			"name": "Darkmaw Prowler"
+		},
+		"138854": {
+			"name": "Sweet Water",
+			"title": "Birgita's Companion"
+		},
+		"140073": {
+			"name": "Rabidmaw"
+		},
+		"197252": {
+			"name": "Mishka"
+		}
+	}
+}

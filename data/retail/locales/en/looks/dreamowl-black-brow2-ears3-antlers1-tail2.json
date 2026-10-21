@@ -1,0 +1,9 @@
+{
+	"name": "Black Somnowl w/ Pronged Antlers, Medium Ears, Wide Brows, Medium Tail",
+	"variant": "Black w/ Medium Tail",
+	"npcs": {
+		"213545": {
+			"name": "Watchful Somnowl"
+		}
+	}
+}

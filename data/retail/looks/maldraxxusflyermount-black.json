@@ -1,0 +1,36 @@
+{
+	"id": "maldraxxusflyermount-black",
+	"family": "chimaera",
+	"modelGroup": "saddleddeathchimaeras",
+	"npcs": [
+		{
+			"id": 164479,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 62
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-necrotic-wake"
+				}
+			]
+		},
+		{
+			"id": 172390,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "unyielding-assembly"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Astral Serpent",
+	"variant": "Astral",
+	"npcs": {
+		"60410": {
+			"name": "Elegon"
+		}
+	}
+}

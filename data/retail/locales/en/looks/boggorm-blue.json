@@ -1,0 +1,12 @@
+{
+	"name": "Blue Tidal Worm",
+	"variant": "Blue",
+	"npcs": {
+		"249012": {
+			"name": "Putrid Boggorm"
+		},
+		"250157": {
+			"name": "Boggorm Corroder"
+		}
+	}
+}

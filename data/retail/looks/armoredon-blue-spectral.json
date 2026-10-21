@@ -1,0 +1,22 @@
+{
+	"id": "armoredon-blue-spectral",
+	"family": "spiritbeast",
+	"modelGroup": "spectralarmoredons",
+	"npcs": [
+		{
+			"id": 193254,
+			"tameable": true,
+			"level": {
+				"min": 65,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

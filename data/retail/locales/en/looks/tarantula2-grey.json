@@ -1,0 +1,69 @@
+{
+	"name": "Grey Tarantula",
+	"variant": "Grey",
+	"npcs": {
+		"2563": {
+			"name": "Plains Creeper"
+		},
+		"2565": {
+			"name": "Giant Plains Creeper"
+		},
+		"3819": {
+			"name": "Wildthorn Stalker"
+		},
+		"3821": {
+			"name": "Wildthorn Lurker"
+		},
+		"4005": {
+			"name": "Deepmoss Creeper"
+		},
+		"7319": {
+			"name": "Lady Sathrah"
+		},
+		"7411": {
+			"name": "Spirit of Sathrah"
+		},
+		"14266": {
+			"name": "Shanda the Spinner"
+		},
+		"14279": {
+			"name": "Creepthess"
+		},
+		"14472": {
+			"name": "Gretheer"
+		},
+		"18983": {
+			"name": "Blackfang Tarantula"
+		},
+		"20027": {
+			"name": "Blackfang Tarantula Specimen"
+		},
+		"129805": {
+			"name": "Beshol"
+		},
+		"132760": {
+			"name": "Plains Creeper"
+		},
+		"132766": {
+			"name": "Plains Creeper"
+		},
+		"134905": {
+			"name": "Shadeweb Huntress"
+		},
+		"134949": {
+			"name": "Slateskitter"
+		},
+		"136341": {
+			"name": "Jungleweb Hunter"
+		},
+		"142333": {
+			"name": "Giant Plains Creeper"
+		},
+		"142334": {
+			"name": "Plains Creeper"
+		},
+		"184303": {
+			"name": "Skittering Crawler"
+		}
+	}
+}

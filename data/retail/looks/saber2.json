@@ -1,0 +1,22 @@
+{
+	"id": "saber2",
+	"family": "spiritbeast",
+	"modelGroup": "manasabers",
+	"npcs": [
+		{
+			"id": 103326,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "moon-guard-stronghold"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"name": "Black & Purple Runestag w/ Short Horns",
+	"variant": "Black & Purple w/ Short Horns",
+	"npcs": {
+		"159029": {
+			"name": "Juvenile Runedeer"
+		},
+		"165908": {
+			"name": "Juvenile Runedeer"
+		},
+		"166967": {
+			"name": "Juvenile Runedeer"
+		},
+		"170144": {
+			"name": "Juvenile Runedeer"
+		},
+		"170205": {
+			"name": "Juvenile Runedeer"
+		},
+		"172943": {
+			"name": "Wildbough Juvenile"
+		}
+	}
+}

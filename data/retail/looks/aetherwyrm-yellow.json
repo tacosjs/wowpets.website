@@ -1,0 +1,114 @@
+{
+	"id": "aetherwyrm-yellow",
+	"family": "windserpent",
+	"modelGroup": "etherwyrms",
+	"npcs": [
+		{
+			"id": 157277,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "aspirants-crucible"
+				}
+			]
+		},
+		{
+			"id": 158054,
+			"tameable": true,
+			"level": {
+				"min": 51,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "korinnas-conservatory"
+				}
+			]
+		},
+		{
+			"id": 169513,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion"
+				}
+			]
+		},
+		{
+			"id": 172017,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion"
+				}
+			]
+		},
+		{
+			"id": 172704,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "firstbornes-bounty"
+				}
+			]
+		},
+		{
+			"id": 170387,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "everdawn-terrace"
+				}
+			]
+		},
+		{
+			"id": 175038,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "korinnas-reliquary"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		165068,
+		163546
+	]
+}

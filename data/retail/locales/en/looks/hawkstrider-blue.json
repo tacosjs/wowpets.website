@@ -1,0 +1,39 @@
+{
+	"name": "Blue Hawkstrider",
+	"variant": "Blue",
+	"npcs": {
+		"243832": {
+			"name": "Cowed Hawkstrider"
+		},
+		"244918": {
+			"name": "Supply Strider"
+		},
+		"250229": {
+			"name": "Brightwing Hawkstrider"
+		},
+		"250566": {
+			"name": "Brilliant Hawkstrider"
+		},
+		"251055": {
+			"name": "Brilliant Hawkstrider"
+		},
+		"251271": {
+			"name": "Docile Hawkstrider"
+		},
+		"251733": {
+			"name": "Brilliant Hawkstrider"
+		},
+		"254722": {
+			"name": "Supply Strider"
+		},
+		"256836": {
+			"name": "Glistening Hawkstrider"
+		},
+		"256843": {
+			"name": "Glistening Hawkstrider"
+		},
+		"257954": {
+			"name": "Irritated Supply Strider"
+		}
+	}
+}

@@ -1,0 +1,102 @@
+{
+	"id": "snapdragon-cream",
+	"family": "lizard",
+	"modelGroup": "snapdragons",
+	"npcs": [
+		{
+			"id": 152356,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "naranan"
+				}
+			]
+		},
+		{
+			"id": 150857,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 1
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar"
+				}
+			]
+		},
+		{
+			"id": 156101,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar"
+				}
+			]
+		},
+		{
+			"id": 154755,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "naranan-world-quest-phase"
+				}
+			]
+		},
+		{
+			"id": 233698,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "siren-isle",
+					"area": "flotsam-shoal"
+				}
+			]
+		},
+		{
+			"id": 246746,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "tranquillien"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		193873,
+		247553,
+		257830,
+		244048,
+		190193
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Jade Mystic Cat",
+	"variant": "Jade",
+	"npcs": {
+		"55236": {
+			"name": "Jade Guardian"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Gold Nether Ray",
+	"variant": "Gold",
+	"npcs": {
+		"22181": {
+			"name": "Aether Ray"
+		}
+	}
+}

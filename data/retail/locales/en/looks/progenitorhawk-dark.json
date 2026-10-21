@@ -1,0 +1,30 @@
+{
+	"name": "Black Raptora",
+	"variant": "Black",
+	"npcs": {
+		"179004": {
+			"name": "Basal Raptora"
+		},
+		"180052": {
+			"name": "Grasslands Raptora"
+		},
+		"182314": {
+			"name": "Raptora Prototype"
+		},
+		"183274": {
+			"name": "Desert Nester"
+		},
+		"183284": {
+			"name": "Desert Protector"
+		},
+		"183440": {
+			"name": "Curious Raptora"
+		},
+		"183505": {
+			"name": "The Matriarch"
+		},
+		"185266": {
+			"name": "Thieving Raptora"
+		}
+	}
+}

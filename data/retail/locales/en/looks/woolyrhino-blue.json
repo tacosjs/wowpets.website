@@ -1,0 +1,24 @@
+{
+	"name": "Grey Woolly Rhino",
+	"variant": "Grey",
+	"npcs": {
+		"28009": {
+			"name": "Shardhorn Rhino"
+		},
+		"29838": {
+			"name": "Drakkari Rhino"
+		},
+		"29931": {
+			"name": "Drakkari Rhino"
+		},
+		"50997": {
+			"name": "Bornak the Gorer"
+		},
+		"55608": {
+			"name": "Crush"
+		},
+		"205855": {
+			"name": "Sholazian Rhino"
+		}
+	}
+}

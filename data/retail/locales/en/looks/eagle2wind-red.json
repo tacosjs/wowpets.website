@@ -1,0 +1,52 @@
+{
+	"name": "Black & Red Ohuna",
+	"variant": "Black & Red",
+	"npcs": {
+		"191201": {
+			"name": "Hill Hunter"
+		},
+		"191245": {
+			"name": "Companion Ohuna"
+		},
+		"191588": {
+			"name": "Untamed Stormwing"
+		},
+		"192803": {
+			"name": "War Eagle",
+			"title": "Nokhud Beastmaster's Pet"
+		},
+		"193306": {
+			"name": "Stream Hunter"
+		},
+		"194750": {
+			"name": "Cliffside Kite"
+		},
+		"194849": {
+			"name": "Clawfisher Ohuna"
+		},
+		"194913": {
+			"name": "Ohn'ir Galeguide"
+		},
+		"195004": {
+			"name": "Protective Gustfeather"
+		},
+		"195045": {
+			"name": "Cliffside Kite"
+		},
+		"195208": {
+			"name": "Grasslands Raptor"
+		},
+		"195456": {
+			"name": "Clawfisher Eagle"
+		},
+		"195731": {
+			"name": "Wild Ohuna"
+		},
+		"196059": {
+			"name": "Seafeather Ohuna"
+		},
+		"197950": {
+			"name": "Steelcliff Ohuna"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Dark Brown Horse w/ White Belly & Short Mane/Tail",
+	"variant": "Dark Brown w/ White Belly & Short Mane/Tail",
+	"npcs": {
+		"128838": {
+			"name": "Pack Mule"
+		},
+		"134264": {
+			"name": "Melancholy Mule"
+		}
+	}
+}

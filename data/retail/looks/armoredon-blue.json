@@ -1,0 +1,12 @@
+{
+	"id": "armoredon-blue",
+	"family": "scalehide",
+	"modelGroup": "armoredons",
+	"npcs": [],
+	"alsoNpcs": [
+		194692,
+		190339,
+		193417,
+		196134
+	]
+}

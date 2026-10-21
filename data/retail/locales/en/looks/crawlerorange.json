@@ -1,0 +1,12 @@
+{
+	"name": "Orange & Crimson Ravager",
+	"variant": "Orange & Crimson",
+	"npcs": {
+		"17199": {
+			"name": "Ravager Specimen"
+		},
+		"19461": {
+			"name": "Tamed Ravager"
+		}
+	}
+}

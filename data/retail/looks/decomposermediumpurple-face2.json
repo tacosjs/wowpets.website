@@ -1,0 +1,63 @@
+{
+	"id": "decomposermediumpurple-face2",
+	"family": "carapid",
+	"modelGroup": "gorms",
+	"npcs": [
+		{
+			"id": 171827,
+			"tameable": true,
+			"level": {
+				"min": 56,
+				"max": 56
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "dusty-burrows"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 158364,
+			"tameable": true,
+			"level": {
+				"min": 56,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "banks-of-life"
+				}
+			]
+		},
+		{
+			"id": 170933,
+			"tameable": true,
+			"level": {
+				"min": 61,
+				"max": 61
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "mistveil-tangle"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		176338,
+		163994,
+		169977,
+		165190
+	]
+}

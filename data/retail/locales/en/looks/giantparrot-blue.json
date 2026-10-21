@@ -1,0 +1,32 @@
+{
+	"name": "Blue Parrot",
+	"variant": "Blue",
+	"npcs": {
+		"129230": {
+			"name": "Greatwing Macaw"
+		},
+		"132211": {
+			"name": "Fowlmouth",
+			"title": "The Last of His Crew"
+		},
+		"132275": {
+			"name": "Parrot-in-Training"
+		},
+		"132339": {
+			"name": "Runaway Macaw"
+		},
+		"137019": {
+			"name": "Clear Skies",
+			"title": "Parrot for Hire"
+		},
+		"140464": {
+			"name": "Trained Parrot"
+		},
+		"200857": {
+			"name": "Irontide Squawker"
+		},
+		"227686": {
+			"name": "Trained Parrot"
+		}
+	}
+}

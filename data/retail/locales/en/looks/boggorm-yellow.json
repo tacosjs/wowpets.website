@@ -1,0 +1,9 @@
+{
+	"name": "Yellow Tidal Worm",
+	"variant": "Yellow",
+	"npcs": {
+		"250156": {
+			"name": "Wriggling Boggorm"
+		}
+	}
+}

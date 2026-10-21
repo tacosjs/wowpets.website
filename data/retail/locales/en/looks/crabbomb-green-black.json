@@ -1,0 +1,12 @@
+{
+	"name": "Black Bombshell Crab",
+	"variant": "Black",
+	"npcs": {
+		"231115": {
+			"name": "Explosive Cargo"
+		},
+		"238625": {
+			"name": "Escaped Bombshell"
+		}
+	}
+}

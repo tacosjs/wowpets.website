@@ -1,0 +1,9 @@
+{
+	"name": "Blue Fen Strider",
+	"variant": "Blue",
+	"npcs": {
+		"18134": {
+			"name": "Fen Strider"
+		}
+	}
+}

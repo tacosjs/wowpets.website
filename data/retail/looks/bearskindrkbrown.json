@@ -1,0 +1,23 @@
+{
+	"id": "bearskindrkbrown",
+	"family": "bear",
+	"modelGroup": "retrobears",
+	"npcs": [
+		{
+			"id": 50926,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "elwynn-forest",
+					"area": "mirror-lake-orchard"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

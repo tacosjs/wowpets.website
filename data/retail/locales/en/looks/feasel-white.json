@@ -1,0 +1,9 @@
+{
+	"name": "Pale Blue Marsuul",
+	"variant": "Pale Blue",
+	"npcs": {
+		"122364": {
+			"name": "Marsuul Kit"
+		}
+	}
+}

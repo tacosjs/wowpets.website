@@ -1,0 +1,30 @@
+{
+	"name": "Light Brown Death Boar",
+	"variant": "Light Brown",
+	"npcs": {
+		"166559": {
+			"name": "Ol' Big Head"
+		},
+		"168388": {
+			"name": "Tufted Bonesnout"
+		},
+		"168677": {
+			"name": "Scavenging Bonetusk"
+		},
+		"169184": {
+			"name": "Bonetusk Runt"
+		},
+		"169190": {
+			"name": "Vengeful Bonetusk Sow"
+		},
+		"169234": {
+			"name": "Bonetusk Sow"
+		},
+		"174391": {
+			"name": "Captive Bonetusk"
+		},
+		"175162": {
+			"name": "Bloodtusk Ancient"
+		}
+	}
+}

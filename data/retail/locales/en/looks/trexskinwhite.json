@@ -1,0 +1,9 @@
+{
+	"name": "White Devilsaur",
+	"variant": "White",
+	"npcs": {
+		"6498": {
+			"name": "Devilsaur"
+		}
+	}
+}

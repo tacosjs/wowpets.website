@@ -1,0 +1,21 @@
+{
+	"name": "Black Draenor Talbuk",
+	"variant": "Black",
+	"npcs": {
+		"78274": {
+			"name": "Silverpelt Calf"
+		},
+		"78276": {
+			"name": "Silverpelt Charger"
+		},
+		"80532": {
+			"name": "Prize"
+		},
+		"82513": {
+			"name": "Void-Touched Charger"
+		},
+		"82778": {
+			"name": "Gnarlhoof the Rabid"
+		}
+	}
+}

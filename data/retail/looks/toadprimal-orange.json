@@ -1,0 +1,89 @@
+{
+	"id": "toadprimal-orange",
+	"family": "lesserdragonkin",
+	"modelGroup": "hornswogs",
+	"npcs": [
+		{
+			"id": 193521,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores"
+				},
+				{
+					"zone": "ohnaran-plains"
+				}
+			]
+		},
+		{
+			"id": 200275,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-forbidden-reach",
+					"area": "hornswog-grounds"
+				}
+			]
+		},
+		{
+			"id": 193539,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "cliffdrip-cave"
+				}
+			]
+		},
+		{
+			"id": 191608,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "roaring-dragonsprings"
+				}
+			]
+		},
+		{
+			"id": 201186,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-forbidden-reach",
+					"area": "hornswog-grounds"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		191563,
+		187574,
+		193479
+	]
+}

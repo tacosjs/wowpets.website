@@ -1,0 +1,9 @@
+{
+	"name": "Green Tauralus",
+	"variant": "Green",
+	"npcs": {
+		"165336": {
+			"name": "Decrepit Tauralus"
+		}
+	}
+}

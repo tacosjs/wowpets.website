@@ -1,0 +1,9 @@
+{
+	"name": "Pink Hermit Crab w/ Plain Shell",
+	"variant": "Pink",
+	"npcs": {
+		"227660": {
+			"name": "Sandsifting Hardshell"
+		}
+	}
+}

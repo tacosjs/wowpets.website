@@ -1,0 +1,71 @@
+{
+	"name": "Dark Hornswog",
+	"variant": "Dark",
+	"npcs": {
+		"184867": {
+			"name": "Fussy Swoglet"
+		},
+		"186834": {
+			"name": "Stubborn Hornswog"
+		},
+		"187111": {
+			"name": "Ancient Hornswog"
+		},
+		"187140": {
+			"name": "Cantankerous Hornswog"
+		},
+		"188043": {
+			"name": "Bloatbelly Croaker"
+		},
+		"190607": {
+			"name": "Cozy Hornswog"
+		},
+		"190608": {
+			"name": "Carefree Hornswog"
+		},
+		"191060": {
+			"name": "Fussy Swoglet"
+		},
+		"191479": {
+			"name": "Charred Hornspike"
+		},
+		"191604": {
+			"name": "Brackish Hornswog"
+		},
+		"192402": {
+			"name": "Hornspike Swoglet"
+		},
+		"192405": {
+			"name": "Hornspike Spawnlings"
+		},
+		"192430": {
+			"name": "Spiked Matriarch"
+		},
+		"193120": {
+			"name": "Smogswog the Firebreather"
+		},
+		"193923": {
+			"name": "Mature Obsidian Hornswog"
+		},
+		"193925": {
+			"name": "Obsidian Swoglet"
+		},
+		"193926": {
+			"name": "Elder Obsidian Hornswog"
+		},
+		"194003": {
+			"name": "Queasy Hornswog"
+		},
+		"194922": {
+			"name": "Beef",
+			"title": "Obsidian Outcasts"
+		},
+		"196398": {
+			"name": "Blind Hornspike"
+		},
+		"196411": {
+			"name": "Wellington",
+			"title": "Obsidian Outcasts"
+		}
+	}
+}

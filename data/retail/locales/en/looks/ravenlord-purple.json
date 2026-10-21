@@ -1,0 +1,30 @@
+{
+	"name": "Purple Dread Raven",
+	"variant": "Purple",
+	"npcs": {
+		"79285": {
+			"name": "Lunarfall Matriarch"
+		},
+		"82037": {
+			"name": "Lunarfall Raven"
+		},
+		"82165": {
+			"name": "Lunarfall Chick"
+		},
+		"82411": {
+			"name": "Darktalon"
+		},
+		"82514": {
+			"name": "Darktalon Young"
+		},
+		"82515": {
+			"name": "Darktalon Hatchling"
+		},
+		"145058": {
+			"name": "Shadefeather Raven"
+		},
+		"145060": {
+			"name": "Monstrous Shadefeather"
+		}
+	}
+}

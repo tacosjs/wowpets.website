@@ -1,0 +1,39 @@
+{
+	"name": "Purple Thunder Hydra",
+	"variant": "Purple",
+	"npcs": {
+		"79020": {
+			"name": "Echidnian Hydra"
+		},
+		"80372": {
+			"name": "Echidna"
+		},
+		"80558": {
+			"name": "Echidnaean Broodmother"
+		},
+		"80559": {
+			"name": "Echidnaean Monitor"
+		},
+		"80560": {
+			"name": "Echidnaean Scout"
+		},
+		"85555": {
+			"name": "Nagidna"
+		},
+		"88489": {
+			"name": "Echidnaean Rockjaw"
+		},
+		"89653": {
+			"name": "Gangamesh"
+		},
+		"102514": {
+			"name": "Brineblood Hydra"
+		},
+		"108535": {
+			"name": "Marsh Hydra"
+		},
+		"132068": {
+			"name": "Bashmu"
+		}
+	}
+}

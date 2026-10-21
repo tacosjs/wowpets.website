@@ -1,0 +1,12 @@
+{
+	"name": "Diseased Gazelle",
+	"variant": "Diseased",
+	"npcs": {
+		"48455": {
+			"name": "Felrot Courser"
+		},
+		"180846": {
+			"name": "Sickly Gazelle"
+		}
+	}
+}

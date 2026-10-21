@@ -1,0 +1,36 @@
+{
+	"name": "Pale Blue Ice Spider",
+	"variant": "Pale Blue",
+	"npcs": {
+		"185810": {
+			"name": "Shiverweb Crawler"
+		},
+		"186064": {
+			"name": "Shiverweb Queen"
+		},
+		"186399": {
+			"name": "Ice Webber"
+		},
+		"188360": {
+			"name": "Glacial Tunneler"
+		},
+		"192591": {
+			"name": "Shiverweb Crawler"
+		},
+		"195397": {
+			"name": "Shiverweb Cloaker"
+		},
+		"260988": {
+			"name": "Frost Crawler"
+		},
+		"260989": {
+			"name": "Chill Mite"
+		},
+		"260990": {
+			"name": "Chill Mite"
+		},
+		"265570": {
+			"name": "Chill Mite"
+		}
+	}
+}

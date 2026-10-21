@@ -1,0 +1,10 @@
+{
+	"name": "Black & Bronze Tarachnid",
+	"variant": "Black & Bronze",
+	"npcs": {
+		"178508": {
+			"name": "Mother Phestis",
+			"title": "Tarachnid Prime"
+		}
+	}
+}

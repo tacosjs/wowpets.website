@@ -1,0 +1,9 @@
+{
+	"name": "Red-Nosed Winter Veil Stag",
+	"variant": "Red-Nosed",
+	"npcs": {
+		"158558": {
+			"name": "Red-Nosed Reindeer"
+		}
+	}
+}

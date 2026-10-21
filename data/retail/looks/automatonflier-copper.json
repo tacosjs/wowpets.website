@@ -1,0 +1,57 @@
+{
+	"id": "automatonflier-copper",
+	"family": "mechanical",
+	"modelGroup": "aquilons",
+	"npcs": [
+		{
+			"id": 181213,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "the-eternal-forge"
+				}
+			]
+		},
+		{
+			"id": 178937,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "ta-repository"
+				}
+			]
+		},
+		{
+			"id": 178938,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "ta-repository"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

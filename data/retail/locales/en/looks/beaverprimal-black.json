@@ -1,0 +1,39 @@
+{
+	"name": "Black Beaver",
+	"variant": "Black",
+	"npcs": {
+		"187579": {
+			"name": "Trapped Beaver"
+		},
+		"189338": {
+			"name": "Riverbend Chomper"
+		},
+		"190886": {
+			"name": "Riverbend Chomper"
+		},
+		"193405": {
+			"name": "Wildwater Timbertooth"
+		},
+		"193496": {
+			"name": "Mud Beaver"
+		},
+		"193599": {
+			"name": "Wildwater Matriarch"
+		},
+		"194718": {
+			"name": "Intrepid Timbertooth"
+		},
+		"194719": {
+			"name": "Resourceful Timbertooth"
+		},
+		"196185": {
+			"name": "Tenacious Timbertooth"
+		},
+		"197914": {
+			"name": "Dammed Beaver"
+		},
+		"214225": {
+			"name": "Opportunistic Timbertooth"
+		}
+	}
+}

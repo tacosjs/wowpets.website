@@ -1,0 +1,15 @@
+{
+	"name": "Green & Yellow Ravager",
+	"variant": "Green & Yellow",
+	"npcs": {
+		"17527": {
+			"name": "Enraged Ravager"
+		},
+		"24922": {
+			"name": "Razorthorn Ravager"
+		},
+		"50731": {
+			"name": "Needlefang"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"name": "Green Spiked Crab w/ Blue Markings",
+	"variant": "Green w/ Blue Markings",
+	"npcs": {
+		"40239": {
+			"name": "Enormous Sand Crab"
+		},
+		"67439": {
+			"name": "Colossal Viseclaw"
+		},
+		"67557": {
+			"name": "Colossal Viseclaw"
+		},
+		"108536": {
+			"name": "Monstrous Leycrawler"
+		},
+		"109752": {
+			"name": "Enormous Sea Crab"
+		},
+		"133587": {
+			"name": "Monstrous Pincher"
+		}
+	}
+}

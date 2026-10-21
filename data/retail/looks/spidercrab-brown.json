@@ -1,0 +1,61 @@
+{
+	"id": "spidercrab-brown",
+	"family": "crab",
+	"modelGroup": "spidercrabs",
+	"npcs": [
+		{
+			"id": 152460,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "chitterspine-caverns"
+				}
+			]
+		},
+		{
+			"id": 153971,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "chitterspine-caverns"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 153965,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "chitterspine-grotto"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		203105,
+		192129
+	]
+}

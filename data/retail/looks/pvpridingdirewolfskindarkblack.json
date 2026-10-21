@@ -1,0 +1,63 @@
+{
+	"id": "pvpridingdirewolfskindarkblack",
+	"family": "wolf",
+	"modelGroup": "saddledworgs",
+	"npcs": [
+		{
+			"id": 17280,
+			"tameable": true,
+			"level": {
+				"min": 9,
+				"max": 29
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hellfire-ramparts"
+				}
+			]
+		},
+		{
+			"id": 17669,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-shattered-halls"
+				}
+			]
+		},
+		{
+			"id": 22946,
+			"tameable": true,
+			"level": {
+				"min": 31,
+				"max": 31
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "black-temple"
+				}
+			]
+		},
+		{
+			"id": 23083,
+			"tameable": false,
+			"level": {
+				"min": 31,
+				"max": 31
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "black-temple"
+				}
+			]
+		}
+	]
+}

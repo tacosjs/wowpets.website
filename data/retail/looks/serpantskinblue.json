@@ -1,0 +1,54 @@
+{
+	"id": "serpantskinblue",
+	"family": "serpent",
+	"modelGroup": "serpents",
+	"npcs": [
+		{
+			"id": 5048,
+			"tameable": true,
+			"level": {
+				"min": 8,
+				"max": 31
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "wailing-caverns"
+				}
+			]
+		},
+		{
+			"id": 52085,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zulgurub"
+				}
+			]
+		},
+		{
+			"id": 26865,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "grizzly-hills"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

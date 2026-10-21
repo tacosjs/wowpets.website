@@ -1,0 +1,18 @@
+{
+	"name": "Red Draenor Talbuk",
+	"variant": "Red",
+	"npcs": {
+		"78277": {
+			"name": "Breezestrider Colt"
+		},
+		"78279": {
+			"name": "Breezestrider Stallion"
+		},
+		"82116": {
+			"name": "Tall Buck"
+		},
+		"86729": {
+			"name": "Direhoof"
+		}
+	}
+}

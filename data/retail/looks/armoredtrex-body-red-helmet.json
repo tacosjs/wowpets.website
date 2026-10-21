@@ -1,0 +1,23 @@
+{
+	"id": "armoredtrex-body-red-helmet",
+	"family": "devilsaur",
+	"modelGroup": "skeletaldevilsaurs",
+	"npcs": [
+		{
+			"id": 134852,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "the-dreadmire"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

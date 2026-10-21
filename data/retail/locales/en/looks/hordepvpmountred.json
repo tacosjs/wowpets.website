@@ -1,0 +1,12 @@
+{
+	"name": "Grey Wolf w/ Red Armour & Horde Banner",
+	"variant": "Grey Wolf w/ Red Armour & Horde Banner",
+	"npcs": {
+		"72768": {
+			"name": "Kor'kron War Wolf"
+		},
+		"73538": {
+			"name": "Kor'kron War Wolf"
+		}
+	}
+}

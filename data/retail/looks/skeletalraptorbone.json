@@ -1,0 +1,23 @@
+{
+	"id": "skeletalraptorbone",
+	"family": "raptor",
+	"modelGroup": "skeletalraptors",
+	"npcs": [
+		{
+			"id": 44226,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "wetlands",
+					"area": "whelgars-excavation-site"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

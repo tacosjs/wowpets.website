@@ -1,0 +1,23 @@
+{
+	"id": "ravager2blue",
+	"family": "ravager",
+	"modelGroup": "draenorravagers",
+	"npcs": [
+		{
+			"id": 83522,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "overlook-ruins"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

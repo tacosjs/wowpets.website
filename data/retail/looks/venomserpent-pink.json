@@ -1,0 +1,40 @@
+{
+	"id": "venomserpent-pink",
+	"family": "serpent",
+	"modelGroup": "venomfangs",
+	"npcs": [
+		{
+			"id": 263942,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-venomous-abyss"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 266538,
+			"tameable": false,
+			"level": {
+				"min": 92,
+				"max": 92
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-venomous-abyss"
+				}
+			]
+		}
+	]
+}

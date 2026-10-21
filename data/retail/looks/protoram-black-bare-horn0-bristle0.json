@@ -1,0 +1,24 @@
+{
+	"id": "protoram-black-bare-horn0-bristle0",
+	"family": "gruffhorn",
+	"modelGroup": "ramoliths",
+	"npcs": [
+		{
+			"id": 227756,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		226881
+	]
+}

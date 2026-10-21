@@ -1,0 +1,22 @@
+{
+	"id": "wolfdraenormountfrost-armor",
+	"family": "wolf",
+	"modelGroup": "draenorarmoredwolves",
+	"npcs": [
+		{
+			"id": 76471,
+			"tameable": false,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "bladespire-fortress"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Pink Sandreaver",
+	"variant": "Pink",
+	"npcs": {
+		"87250": {
+			"name": "Sandreaver Matriarch"
+		},
+		"88525": {
+			"name": "Reaver Pit Fodder"
+		}
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"id": "seaslug-orangeblue",
+	"family": "worm",
+	"modelGroup": "seaslugs",
+	"npcs": [
+		{
+			"id": 152790,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		250060,
+		244505,
+		244731,
+		263925,
+		259984
+	]
+}

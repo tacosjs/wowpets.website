@@ -1,0 +1,15 @@
+{
+	"name": "Black Scarab w/ Magenta Spots",
+	"variant": "Black w/ Magenta Spots",
+	"npcs": {
+		"46129": {
+			"name": "Amethyst Scarab"
+		},
+		"140389": {
+			"name": "Tunnel-Keeper Ky'nyx"
+		},
+		"140390": {
+			"name": "Onyx Bilefeaster"
+		}
+	}
+}

@@ -1,0 +1,180 @@
+{
+	"id": "elekkdraenor-grey",
+	"family": "mammoth",
+	"modelGroup": "draenorelekks",
+	"npcs": [
+		{
+			"id": 82452,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "drybone-hollow-moonflower-valley"
+				}
+			]
+		},
+		{
+			"id": 73960,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "embaari-village"
+				}
+			]
+		},
+		{
+			"id": 81084,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "embaari-village"
+				}
+			]
+		},
+		{
+			"id": 80175,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "gloomshade-grove"
+				}
+			]
+		},
+		{
+			"id": 81083,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "embaari-village"
+				}
+			]
+		},
+		{
+			"id": 78385,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor"
+				}
+			]
+		},
+		{
+			"id": 82258,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "the-burial-fields"
+				}
+			]
+		},
+		{
+			"id": 79148,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "the-burial-fields"
+				}
+			]
+		},
+		{
+			"id": 87698,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor"
+				}
+			]
+		},
+		{
+			"id": 82174,
+			"tameable": false,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "great-tree-valuundira"
+				}
+			]
+		},
+		{
+			"id": 81085,
+			"tameable": false,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "embaari-village"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		73686,
+		78371,
+		79149,
+		82172,
+		83664,
+		81745,
+		81828,
+		259365
+	]
+}

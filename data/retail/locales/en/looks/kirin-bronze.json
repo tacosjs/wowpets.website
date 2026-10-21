@@ -1,0 +1,39 @@
+{
+	"name": "Olive Vorquin",
+	"variant": "Olive",
+	"npcs": {
+		"181432": {
+			"name": "Vorquin"
+		},
+		"187336": {
+			"name": "Time-Charged Vorquin"
+		},
+		"188929": {
+			"name": "Tranquil Grazer"
+		},
+		"191203": {
+			"name": "Pleasant Hart"
+		},
+		"191748": {
+			"name": "Burnished Ledgehopper"
+		},
+		"193752": {
+			"name": "Elegant Vorquin"
+		},
+		"195048": {
+			"name": "Sparring Vorquin"
+		},
+		"196632": {
+			"name": "Reservoir Dapple"
+		},
+		"197438": {
+			"name": "Mountainside Dapple"
+		},
+		"197555": {
+			"name": "Arboreal Grazer"
+		},
+		"198415": {
+			"name": "Tyrhold Dapple"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Black Jawcrawler w/ Stunted Graspers",
+	"variant": "Black Jawcrawler w/ Stunted Graspers",
+	"npcs": {
+		"232160": {
+			"name": "Sureki Jawcrawler"
+		},
+		"238931": {
+			"name": "Sureki Jawcrawler"
+		}
+	}
+}

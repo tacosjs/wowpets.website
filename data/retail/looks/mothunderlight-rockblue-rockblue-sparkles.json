@@ -1,0 +1,67 @@
+{
+	"id": "mothunderlight-rockblue-rockblue-sparkles",
+	"family": "moth",
+	"modelGroup": "dustmoths",
+	"npcs": [
+		{
+			"id": 202841,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "gaze-of-neltharion"
+				}
+			]
+		},
+		{
+			"id": 201068,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "the-crystal-fields"
+				}
+			]
+		},
+		{
+			"id": 200120,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "the-throughway"
+				}
+			]
+		},
+		{
+			"id": 203851,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "deephollow-lake"
+				}
+			]
+		}
+	]
+}

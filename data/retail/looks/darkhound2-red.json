@@ -1,0 +1,86 @@
+{
+	"id": "darkhound2-red",
+	"family": "hound",
+	"modelGroup": "granddarkhounds",
+	"npcs": [
+		{
+			"id": 8921,
+			"tameable": true,
+			"level": {
+				"min": 19,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blackrock-depths"
+				}
+			]
+		},
+		{
+			"id": 8922,
+			"tameable": true,
+			"level": {
+				"min": 19,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blackrock-depths"
+				}
+			]
+		},
+		{
+			"id": 9042,
+			"tameable": true,
+			"level": {
+				"min": 21,
+				"max": 31
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "blackrock-depths"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 16181,
+			"tameable": true,
+			"level": {
+				"min": 33,
+				"max": 33
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "karazhan",
+					"area": "servants-quarters"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 144122,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blackrock-mountain",
+					"area": "shadowforge-city"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		229097,
+		229096,
+		218330
+	]
+}

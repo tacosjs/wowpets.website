@@ -1,0 +1,208 @@
+{
+	"id": "larva2-green",
+	"family": "worm",
+	"modelGroup": "grubs",
+	"npcs": [
+		{
+			"id": 13533,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 31
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "maraudon"
+				}
+			]
+		},
+		{
+			"id": 9498,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "ungoro-crater",
+					"area": "the-slithering-scar"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			],
+			"retired": true
+		},
+		{
+			"id": 69948,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "ungoro-crater",
+					"area": "the-slithering-scar"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 142587,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "waycrest-manor",
+					"area": "banquet-hall"
+				}
+			]
+		},
+		{
+			"id": 134024,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "waycrest-manor"
+				}
+			]
+		},
+		{
+			"id": 16056,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "naxxramas"
+				}
+			]
+		},
+		{
+			"id": 83519,
+			"tameable": false,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaan-jungle",
+					"area": "thornmire"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 93607,
+			"tameable": false,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaan-jungle",
+					"area": "thornmire"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 169731,
+			"tameable": false,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "separation-chamber"
+				}
+			]
+		},
+		{
+			"id": 168711,
+			"tameable": false,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "separation-chamber"
+				}
+			]
+		},
+		{
+			"id": 170227,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "dusty-burrows"
+				}
+			]
+		},
+		{
+			"id": 170249,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "dusty-burrows"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		160916
+	]
+}

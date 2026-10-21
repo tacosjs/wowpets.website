@@ -1,0 +1,12 @@
+{
+	"name": "Light Grey Gryphon",
+	"variant": "Light Grey",
+	"npcs": {
+		"137825": {
+			"name": "Avalanche"
+		},
+		"139615": {
+			"name": "Storm's Feather"
+		}
+	}
+}

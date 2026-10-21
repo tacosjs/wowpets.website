@@ -1,0 +1,21 @@
+{
+	"name": "Spotted Orange Cat",
+	"variant": "Spotted Orange",
+	"npcs": {
+		"2731": {
+			"name": "Ridge Stalker"
+		},
+		"2732": {
+			"name": "Ridge Huntress"
+		},
+		"2734": {
+			"name": "Ridge Stalker Patriarch"
+		},
+		"5865": {
+			"name": "Dishu"
+		},
+		"62131": {
+			"name": "Plainsland Cheetah"
+		}
+	}
+}

@@ -1,0 +1,42 @@
+{
+	"name": "Amber Rhinoceros Beetle",
+	"variant": "Amber",
+	"npcs": {
+		"190611": {
+			"name": "Frenzied Pollenstag"
+		},
+		"195304": {
+			"name": "Coarse Stagbeetle"
+		},
+		"198423": {
+			"name": "Cliffside Pollinator"
+		},
+		"199533": {
+			"name": "Invasive Scalecrawler"
+		},
+		"207072": {
+			"name": "Flame-Touched Gemback"
+		},
+		"209504": {
+			"name": "Smoldering Firebug"
+		},
+		"237249": {
+			"name": "Underroot Beetle"
+		},
+		"248127": {
+			"name": "Peckish Beetle"
+		},
+		"250335": {
+			"name": "Underroot Beetle"
+		},
+		"251251": {
+			"name": "Skittering Underroot Beetle"
+		},
+		"256304": {
+			"name": "Vivid Gladebeetle"
+		},
+		"256715": {
+			"name": "Bloomskitter Beetle"
+		}
+	}
+}

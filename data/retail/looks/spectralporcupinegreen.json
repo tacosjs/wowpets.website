@@ -1,0 +1,22 @@
+{
+	"id": "spectralporcupinegreen",
+	"family": "spiritbeast",
+	"modelGroup": "spiritporcupines",
+	"npcs": [
+		{
+			"id": 69946,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-jade-forest"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

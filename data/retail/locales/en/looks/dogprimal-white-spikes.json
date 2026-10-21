@@ -1,0 +1,15 @@
+{
+	"name": "White Bakar w/ Spikes",
+	"variant": "White",
+	"npcs": {
+		"190745": {
+			"name": "Imbu Bakar"
+		},
+		"193053": {
+			"name": "Barbed Bakar"
+		},
+		"193401": {
+			"name": "Snowscruff Bakar"
+		}
+	}
+}

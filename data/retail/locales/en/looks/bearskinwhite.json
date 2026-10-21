@@ -1,0 +1,9 @@
+{
+	"name": "White Bear",
+	"variant": "White",
+	"npcs": {
+		"1130": {
+			"name": "Bjarn"
+		}
+	}
+}

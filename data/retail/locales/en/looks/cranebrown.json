@@ -1,0 +1,28 @@
+{
+	"name": "Brown Crane",
+	"variant": "Brown",
+	"npcs": {
+		"57299": {
+			"name": "Glade Hunter"
+		},
+		"59787": {
+			"name": "Sunrise Crane"
+		},
+		"60616": {
+			"name": "Child of Chi-Ji"
+		},
+		"67128": {
+			"name": "Kracor",
+			"title": "Songstress of the Glade"
+		},
+		"72095": {
+			"name": "Fishgorged Crane"
+		},
+		"103817": {
+			"name": "Tufted Crane Chick"
+		},
+		"137181": {
+			"name": "Mead-Craving Crane"
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name": "Orange Spiked Crab w/ Blue Markings",
+	"variant": "Orange w/ Blue Markings",
+	"npcs": {
+		"64436": {
+			"name": "Spineclaw Scuttler"
+		},
+		"65790": {
+			"name": "Muck Sifter"
+		},
+		"97928": {
+			"name": "Tamed Coralback"
+		},
+		"110824": {
+			"name": "Tideclaw"
+		},
+		"131687": {
+			"name": "Tambano",
+			"title": "The Clawed Horror"
+		}
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"name": "Green Stagshell w/ Small Mandibles, Large Graspers, No Horn",
+	"variant": "Green w/ Small Mandibles, Large Graspers, No Horn",
+	"npcs": {
+		"215991": {
+			"name": "Siege Sniffer"
+		},
+		"216205": {
+			"name": "Ravenous Spawn"
+		},
+		"216340": {
+			"name": "Sentry Stagshell"
+		},
+		"216537": {
+			"name": "Burrowing Stoneswarmer"
+		},
+		"220409": {
+			"name": "Zeki"
+		},
+		"225698": {
+			"name": "Emerald Stagshell"
+		},
+		"225865": {
+			"name": "Emerald Stagshell"
+		}
+	}
+}

@@ -1,0 +1,37 @@
+{
+	"id": "sandreaverskin1",
+	"family": "aqiri",
+	"modelGroup": "sandreavers",
+	"npcs": [
+		{
+			"id": 87250,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "talador",
+					"area": "the-sunset-shore"
+				}
+			]
+		},
+		{
+			"id": 88525,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-draenor",
+					"area": "the-ring-of-blood"
+				}
+			]
+		}
+	]
+}

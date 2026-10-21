@@ -1,0 +1,56 @@
+{
+	"id": "protoram-grey-bare-horn1-bristle0",
+	"family": "gruffhorn",
+	"modelGroup": "ramoliths",
+	"npcs": [
+		{
+			"id": 225527,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "the-proscenium"
+				}
+			]
+		},
+		{
+			"id": 216410,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "fallside-outpost"
+				}
+			]
+		},
+		{
+			"id": 216409,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "fallside-outpost"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		227756,
+		219378
+	]
+}

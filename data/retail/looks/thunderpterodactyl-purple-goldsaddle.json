@@ -1,0 +1,33 @@
+{
+	"id": "thunderpterodactyl-purple-goldsaddle",
+	"family": "pterrordax",
+	"modelGroup": "armouredskyscreamers",
+	"npcs": [
+		{
+			"id": 69815,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "krasarang-wilds"
+				},
+				{
+					"zone": "dread-wastes"
+				},
+				{
+					"zone": "kun-lai-summit"
+				},
+				{
+					"zone": "the-jade-forest"
+				},
+				{
+					"zone": "townlong-steppes"
+				}
+			]
+		}
+	]
+}

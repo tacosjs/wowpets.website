@@ -1,0 +1,21 @@
+{
+	"id": "manaray-blackfel",
+	"family": "ray",
+	"modelGroup": "manarays",
+	"npcs": [
+		{
+			"id": 124279,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "krokuun"
+				}
+			]
+		}
+	]
+}

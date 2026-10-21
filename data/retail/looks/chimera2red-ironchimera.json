@@ -1,0 +1,22 @@
+{
+	"id": "chimera2red-ironchimera",
+	"family": "chimaera",
+	"modelGroup": "armoredrylaks",
+	"npcs": [
+		{
+			"id": 83591,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "nagrand-draenor"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

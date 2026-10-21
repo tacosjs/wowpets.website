@@ -1,0 +1,9 @@
+{
+	"name": "Fiery Maned Wolf",
+	"variant": "Fiery Maned Wolf",
+	"npcs": {
+		"76794": {
+			"name": "Cinder Wolf"
+		}
+	}
+}

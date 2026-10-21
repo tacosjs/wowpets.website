@@ -1,0 +1,145 @@
+{
+	"id": "firehawk-noarmorred",
+	"family": "birdofprey",
+	"modelGroup": "firehawks",
+	"npcs": [
+		{
+			"id": 52649,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "mount-hyjal"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 53267,
+			"tameable": false,
+			"level": {
+				"min": 32,
+				"max": 37
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "mount-hyjal",
+					"area": "sethrias-roost"
+				}
+			]
+		},
+		{
+			"id": 53245,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "molten-front",
+					"area": "fireplume-peak"
+				}
+			]
+		},
+		{
+			"id": 52660,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "molten-front",
+					"area": "fireplume-peak"
+				}
+			]
+		},
+		{
+			"id": 53249,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "molten-front",
+					"area": "fireplume-peak"
+				}
+			]
+		},
+		{
+			"id": 53648,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "firelands",
+					"area": "bethtilacs-lair"
+				}
+			]
+		},
+		{
+			"id": 53102,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "firelands"
+				}
+			]
+		},
+		{
+			"id": 53786,
+			"tameable": false,
+			"level": {
+				"min": 37,
+				"max": 37
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "firelands",
+					"area": "shatterstone"
+				}
+			]
+		},
+		{
+			"id": 53791,
+			"tameable": false,
+			"level": {
+				"min": 37,
+				"max": 37
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "firelands",
+					"area": "shatterstone"
+				}
+			]
+		}
+	]
+}

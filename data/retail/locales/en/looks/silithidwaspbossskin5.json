@@ -1,0 +1,12 @@
+{
+	"name": "Green & Red Boss Wasp",
+	"variant": "Green & Red",
+	"npcs": {
+		"15509": {
+			"name": "Princess Huhuran"
+		},
+		"50905": {
+			"name": "Cida"
+		}
+	}
+}

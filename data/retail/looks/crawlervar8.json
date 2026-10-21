@@ -1,0 +1,21 @@
+{
+	"id": "crawlervar8",
+	"family": "ravager",
+	"modelGroup": "ravagers",
+	"npcs": [
+		{
+			"id": 19350,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hellfire-peninsula"
+				}
+			]
+		}
+	]
+}

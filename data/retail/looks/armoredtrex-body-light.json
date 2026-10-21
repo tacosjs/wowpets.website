@@ -1,0 +1,19 @@
+{
+	"id": "armoredtrex-body-light",
+	"family": "devilsaur",
+	"modelGroup": "skeletaldevilsaurs",
+	"npcs": [
+		{
+			"id": 138794,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "the-bone-pit"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

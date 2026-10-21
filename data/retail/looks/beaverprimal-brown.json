@@ -1,0 +1,49 @@
+{
+	"id": "beaverprimal-brown",
+	"family": "rodent",
+	"modelGroup": "beavers",
+	"npcs": [
+		{
+			"id": 183522,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "sundapple-copse"
+				}
+			]
+		},
+		{
+			"id": 193037,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "valdrakken"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		197914,
+		193496,
+		194719,
+		189338,
+		190886,
+		196185,
+		193599,
+		193405,
+		214225,
+		187579
+	]
+}

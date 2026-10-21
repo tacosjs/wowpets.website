@@ -1,0 +1,18 @@
+{
+	"name": "Green Scarab w/ Blue Spots",
+	"variant": "Green w/ Blue Spots",
+	"npcs": {
+		"40458": {
+			"name": "Jeweled Scarab"
+		},
+		"46127": {
+			"name": "Sapphire Scarab"
+		},
+		"140381": {
+			"name": "Jeweled Swarmer"
+		},
+		"140382": {
+			"name": "Jeweled Harvester"
+		}
+	}
+}

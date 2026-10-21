@@ -1,0 +1,15 @@
+{
+	"name": "Green Death Chimaera",
+	"variant": "Green",
+	"npcs": {
+		"165634": {
+			"name": "Flayedwing Transporter"
+		},
+		"165957": {
+			"name": "Flayedwing Overwatch"
+		},
+		"170456": {
+			"name": "Diseased Galescreamer"
+		}
+	}
+}

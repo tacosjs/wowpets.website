@@ -1,0 +1,12 @@
+{
+	"name": "Armoured Black Pterrordax w/ Black Saddle",
+	"variant": "Armoured Black Pterrordax w/ Black Saddle",
+	"npcs": {
+		"125816": {
+			"name": "Sky Queen"
+		},
+		"129763": {
+			"name": "Rakjan the Unbroken"
+		}
+	}
+}

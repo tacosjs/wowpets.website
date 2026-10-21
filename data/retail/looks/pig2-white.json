@@ -1,0 +1,58 @@
+{
+	"id": "pig2-white",
+	"family": "boar",
+	"modelGroup": "pigs",
+	"npcs": [
+		{
+			"id": 221160,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mycomancer-cavern"
+				}
+			]
+		},
+		{
+			"id": 220312,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mycomancer-cavern"
+				}
+			]
+		},
+		{
+			"id": 221155,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mycomancer-cavern"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		25362,
+		124170,
+		137457,
+		142403,
+		214928,
+		214926,
+		129501
+	]
+}

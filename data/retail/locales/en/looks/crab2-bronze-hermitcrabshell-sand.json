@@ -1,0 +1,12 @@
+{
+	"name": "Bronze Hermit Crab w/ Sandy Shell",
+	"variant": "Bronze",
+	"npcs": {
+		"139298": {
+			"name": "Pinku'shon"
+		},
+		"142577": {
+			"name": "Hardshell Scavenger"
+		}
+	}
+}

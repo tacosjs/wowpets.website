@@ -1,0 +1,18 @@
+{
+	"name": "Black Mystic Cat",
+	"variant": "Black",
+	"npcs": {
+		"34014": {
+			"name": "Sanctum Sentry"
+		},
+		"34034": {
+			"name": "Swarming Guardian"
+		},
+		"52061": {
+			"name": "Pride of Bethekk"
+		},
+		"52345": {
+			"name": "Pride of Bethekk"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"name": "Russet Hawk",
+	"variant": "Russet",
+	"npcs": {
+		"126953": {
+			"name": "Tiragarde Hawk"
+		},
+		"131600": {
+			"name": "Highland Falcon"
+		},
+		"132127": {
+			"name": "Foxhollow Skyterror"
+		},
+		"141049": {
+			"name": "Tiragarde Skyhunter"
+		},
+		"142199": {
+			"name": "Alpine Hawk"
+		},
+		"172164": {
+			"name": "Ember Skyterror"
+		}
+	}
+}

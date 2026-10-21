@@ -1,0 +1,15 @@
+{
+	"name": "Red & Black Flightless Teroclaw",
+	"variant": "Red & Black",
+	"npcs": {
+		"68193": {
+			"name": "Fledgling"
+		},
+		"77627": {
+			"name": "Hen Chick"
+		},
+		"170699": {
+			"name": "Solstar Fledgling"
+		}
+	}
+}

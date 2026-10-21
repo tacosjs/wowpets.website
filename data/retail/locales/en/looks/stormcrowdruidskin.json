@@ -1,0 +1,12 @@
+{
+	"name": "Classic Black Stormcrow",
+	"variant": "Black",
+	"npcs": {
+		"24172": {
+			"name": "Daggercap Hawk"
+		},
+		"64551": {
+			"name": "Duskwing Crow"
+		}
+	}
+}

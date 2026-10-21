@@ -1,0 +1,22 @@
+{
+	"id": "mothunderlight-pink-teal",
+	"family": "moth",
+	"modelGroup": "dustmoths",
+	"npcs": [
+		{
+			"id": 219850,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "brunwins-terrace"
+				}
+			]
+		}
+	]
+}

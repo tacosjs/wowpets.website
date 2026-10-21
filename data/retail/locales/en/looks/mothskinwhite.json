@@ -1,0 +1,20 @@
+{
+	"name": "White Moth",
+	"variant": "White",
+	"npcs": {
+		"25498": {
+			"name": "Aspatha the Broodmother"
+		},
+		"57422": {
+			"name": "Mutated Silkmoth",
+			"title": "Brood of Mothallus"
+		},
+		"65984": {
+			"name": "Tiny Mutated Silkmoth",
+			"title": "Brood of Mothallus"
+		},
+		"82192": {
+			"name": "Glittering Mothling"
+		}
+	}
+}

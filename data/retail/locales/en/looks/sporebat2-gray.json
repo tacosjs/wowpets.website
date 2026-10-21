@@ -1,0 +1,24 @@
+{
+	"name": "Grey Draenor Sporebat",
+	"variant": "Grey",
+	"npcs": {
+		"75482": {
+			"name": "Veloss"
+		},
+		"79332": {
+			"name": "Zangarra Sporebat"
+		},
+		"81138": {
+			"name": "Spore Drifter"
+		},
+		"83720": {
+			"name": "Sporebat Darter"
+		},
+		"84856": {
+			"name": "Blightglow"
+		},
+		"85316": {
+			"name": "Windswept Spore Drifter"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Black Spider Crab w/ Red Luminescence",
+	"variant": "Black w/ Red Luminescence",
+	"npcs": {
+		"152464": {
+			"name": "Caverndark Terror"
+		},
+		"193152": {
+			"name": "Massive Magmashell"
+		}
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "Devilsaur",
+	"modelGroups": {
+		"devilsaptors": {
+			"name": "Devilsaptors"
+		},
+		"skeletaldevilsaurs": {
+			"name": "Skeletal Devilsaurs"
+		},
+		"armoreddevilsaurs": {
+			"name": "Armoured Devilsaurs"
+		},
+		"zandalaridevilsaurs": {
+			"name": "Devilsaurs"
+		},
+		"hordedevilsaurs": {
+			"name": "Horde Devilsaurs"
+		},
+		"devilsaurs": {
+			"name": "Classic Devilsaurs"
+		},
+		"royalzandalaridevilsaurs": {
+			"name": "Royal Zandalari Devilsaurs"
+		}
+	}
+}

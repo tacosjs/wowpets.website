@@ -1,0 +1,18 @@
+{
+	"name": "Black Dire Worg",
+	"variant": "Black",
+	"npcs": {
+		"96608": {
+			"name": "Ebonclaw Worg"
+		},
+		"157589": {
+			"name": "Highland Worg"
+		},
+		"214970": {
+			"name": "Ironwold Stormpaw"
+		},
+		"218401": {
+			"name": "Scavenging Stormfang"
+		}
+	}
+}

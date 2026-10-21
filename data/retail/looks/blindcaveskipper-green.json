@@ -1,0 +1,75 @@
+{
+	"id": "blindcaveskipper-green",
+	"family": "hopper",
+	"modelGroup": "skippers",
+	"npcs": [
+		{
+			"id": 215790,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "the-living-grotto"
+				}
+			]
+		},
+		{
+			"id": 231197,
+			"tameable": false,
+			"level": {
+				"min": 81,
+				"max": 81
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "operation-floodgate",
+					"area": "dam-service-tunnel"
+				}
+			]
+		},
+		{
+			"id": 260174,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-shadow-enclave"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		226625,
+		214960,
+		224578,
+		224789,
+		220736,
+		220022,
+		213700,
+		223704,
+		219843,
+		229812,
+		226417,
+		227325,
+		230917,
+		230918,
+		237282,
+		214801,
+		237583,
+		250333,
+		256227,
+		221927,
+		220590,
+		257106
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"id": "wolfdraenormountred-armor",
+	"family": "wolf",
+	"modelGroup": "draenorarmoredwolves",
+	"npcs": [
+		{
+			"id": 81297,
+			"tameable": false,
+			"level": {
+				"min": 17,
+				"max": 42
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "iron-docks"
+				}
+			]
+		}
+	]
+}

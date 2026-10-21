@@ -1,0 +1,70 @@
+{
+	"id": "hippogryph2valshara",
+	"family": "feathermane",
+	"modelGroup": "grandhippogryphs",
+	"npcs": [
+		{
+			"id": 90057,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "azsuna"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 97504,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "valsharah"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 109594,
+			"tameable": true,
+			"level": {
+				"min": 47,
+				"max": 47
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "azsuna"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 95766,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "darkheart-thicket"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		235022,
+		116059
+	]
+}

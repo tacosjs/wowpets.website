@@ -1,0 +1,44 @@
+{
+	"id": "decomposermediumyellow-face1",
+	"family": "carapid",
+	"modelGroup": "gorms",
+	"npcs": [
+		{
+			"id": 159693,
+			"tameable": true,
+			"level": {
+				"min": 55,
+				"max": 55
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "spirit-glen"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 164238,
+			"tameable": true,
+			"level": {
+				"min": 61,
+				"max": 61
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "banks-of-life"
+				}
+			],
+			"keepsName": true
+		}
+	],
+	"alsoNpcs": [
+		169972,
+		163992,
+		169976
+	]
+}

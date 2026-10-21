@@ -1,0 +1,15 @@
+{
+	"name": "Yellow Magma Cobra",
+	"variant": "Yellow",
+	"npcs": {
+		"203900": {
+			"name": "Sulfurous Viper"
+		},
+		"204316": {
+			"name": "Contaminated Rock Cobra"
+		},
+		"205814": {
+			"name": "Sulfurous Viper"
+		}
+	}
+}

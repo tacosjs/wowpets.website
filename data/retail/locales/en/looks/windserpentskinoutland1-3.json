@@ -1,0 +1,12 @@
+{
+	"name": "Grey & Green Spiked Wind Serpent",
+	"variant": "Grey & Green",
+	"npcs": {
+		"50788": {
+			"name": "Quetzl"
+		},
+		"102093": {
+			"name": "Winged Swampserpent"
+		}
+	}
+}

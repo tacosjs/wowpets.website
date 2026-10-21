@@ -1,0 +1,12 @@
+{
+	"name": "Blue Spiked Wind Serpent",
+	"variant": "Blue",
+	"npcs": {
+		"19428": {
+			"name": "Cobalt Serpent"
+		},
+		"26446": {
+			"name": "Ice Serpent"
+		}
+	}
+}

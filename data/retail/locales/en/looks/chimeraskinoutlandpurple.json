@@ -1,0 +1,12 @@
+{
+	"name": "Purple Plated Chimaera",
+	"variant": "Purple",
+	"npcs": {
+		"20932": {
+			"name": "Nuramoc"
+		},
+		"50348": {
+			"name": "Norissis"
+		}
+	}
+}

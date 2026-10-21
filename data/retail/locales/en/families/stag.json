@@ -1,0 +1,71 @@
+{
+	"name": "Stag",
+	"modelGroups": {
+		"windsteeds": {
+			"name": "Windsteeds"
+		},
+		"slatebacks": {
+			"name": "Slatebacks"
+		},
+		"winterveilstags": {
+			"name": "Winter Veil Stags"
+		},
+		"shalehorns": {
+			"name": "Shalehorns"
+		},
+		"dreamstags": {
+			"name": "Dreamstags"
+		},
+		"thornbucks": {
+			"name": "Thornbucks"
+		},
+		"vorquins": {
+			"name": "Vorquins"
+		},
+		"bruffalons": {
+			"name": "Bruffalons"
+		},
+		"cervids": {
+			"name": "Cervids"
+		},
+		"runestags": {
+			"name": "Runestags"
+		},
+		"ruggedtalbuks": {
+			"name": "Argus Talbuks"
+		},
+		"greaterstags": {
+			"name": "Stags"
+		},
+		"elderhorn": {
+			"name": "Elderhorns"
+		},
+		"does": {
+			"name": "Does"
+		},
+		"stags": {
+			"name": "Classic Stags"
+		},
+		"draenortalbuks": {
+			"name": "Draenor Talbuks"
+		},
+		"talbuks": {
+			"name": "Outland Talbuks"
+		},
+		"gazelles": {
+			"name": "Gazelles"
+		},
+		"reindeer": {
+			"name": "Reindeer"
+		},
+		"giraffes": {
+			"name": "Giraffes"
+		},
+		"celestialwindsteeds": {
+			"name": "Celestial Windsteeds"
+		},
+		"deepstriders": {
+			"name": "Deepstriders"
+		}
+	}
+}

@@ -1,0 +1,75 @@
+{
+	"name": "Black Argali",
+	"variant": "Black",
+	"npcs": {
+		"191553": {
+			"name": "Wild Argali"
+		},
+		"191554": {
+			"name": "Argali Lamb"
+		},
+		"193199": {
+			"name": "Corralled Argali"
+		},
+		"193309": {
+			"name": "Wild Argali"
+		},
+		"194061": {
+			"name": "Wandering Cliffhorn"
+		},
+		"194608": {
+			"name": "Kholdeg"
+		},
+		"194726": {
+			"name": "Shoreside Argali"
+		},
+		"195036": {
+			"name": "Grazing Lamb"
+		},
+		"195040": {
+			"name": "Vigilant Ram"
+		},
+		"195849": {
+			"name": "Stubborn Ram"
+		},
+		"195909": {
+			"name": "Wild Cliffhoof"
+		},
+		"196488": {
+			"name": "Grazing Ram"
+		},
+		"196821": {
+			"name": "Wild Argali"
+		},
+		"196882": {
+			"name": "Argali Lamb"
+		},
+		"196917": {
+			"name": "Rambunctious Argali"
+		},
+		"198802": {
+			"name": "Territorial Argali"
+		},
+		"198823": {
+			"name": "Wild Argali"
+		},
+		"202506": {
+			"name": "Elusive Argali"
+		},
+		"202510": {
+			"name": "Elusive Elder Argali"
+		},
+		"214231": {
+			"name": "Rockhorn Argali"
+		},
+		"255811": {
+			"name": "Choleric Cliffdweller"
+		},
+		"260369": {
+			"name": "Feral Ram"
+		},
+		"264656": {
+			"name": "Forum Frondchewer"
+		}
+	}
+}

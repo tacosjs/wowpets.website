@@ -1,0 +1,21 @@
+{
+	"id": "mammothmountbrown-transparent",
+	"family": "mammoth",
+	"modelGroup": "classicmammoths",
+	"npcs": [
+		{
+			"id": 27642,
+			"tameable": true,
+			"level": {
+				"min": 19,
+				"max": 31
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-oculus"
+				}
+			]
+		}
+	]
+}

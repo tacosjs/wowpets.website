@@ -1,0 +1,24 @@
+{
+	"name": "Blue-Black Teroclaw",
+	"variant": "Blue-Black",
+	"npcs": {
+		"69836": {
+			"name": "Juvenile"
+		},
+		"70095": {
+			"name": "Juvenile"
+		},
+		"77430": {
+			"name": "Kil'uun"
+		},
+		"136385": {
+			"name": "Azurethos"
+		},
+		"157153": {
+			"name": "Ha-Li"
+		},
+		"170067": {
+			"name": "Savagewing Teroclaw"
+		}
+	}
+}

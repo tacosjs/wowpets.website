@@ -1,0 +1,14 @@
+{
+	"id": "horse3-white-mane3",
+	"family": "courser",
+	"modelGroup": "horses",
+	"npcs": [],
+	"alsoNpcs": [
+		210835,
+		174412,
+		123604,
+		127572,
+		130889,
+		244688
+	]
+}

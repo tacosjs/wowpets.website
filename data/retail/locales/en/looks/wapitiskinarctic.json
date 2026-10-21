@@ -1,0 +1,21 @@
+{
+	"name": "Silver Stag",
+	"variant": "Silver",
+	"npcs": {
+		"17200": {
+			"name": "Moongraze Stag"
+		},
+		"17201": {
+			"name": "Moongraze Buck"
+		},
+		"26615": {
+			"name": "Snowfall Elk"
+		},
+		"27230": {
+			"name": "Silvercoat Stag"
+		},
+		"48918": {
+			"name": "Winterhorn Stag"
+		}
+	}
+}

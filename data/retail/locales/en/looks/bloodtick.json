@@ -1,0 +1,15 @@
+{
+	"name": "Red Blood Tick",
+	"variant": "Red",
+	"npcs": {
+		"128699": {
+			"name": "Bloodbulge"
+		},
+		"239940": {
+			"name": "Enraged Bloodfeaster"
+		},
+		"258627": {
+			"name": "Enraged Bloodfeaster"
+		}
+	}
+}

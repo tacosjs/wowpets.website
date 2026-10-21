@@ -1,0 +1,60 @@
+{
+	"id": "thunderisleyoungbirdred",
+	"family": "carrionbird",
+	"modelGroup": "flightlessteroclaws",
+	"npcs": [
+		{
+			"id": 77627,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "talador",
+					"area": "aruunas-desolation"
+				}
+			]
+		},
+		{
+			"id": 170699,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "furrowed-glen"
+				}
+			]
+		},
+		{
+			"id": 68193,
+			"tameable": false,
+			"level": {
+				"min": 37,
+				"max": 37
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "throne-of-thunder",
+					"area": "roost-of-ji-kun"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		79752
+	]
+}

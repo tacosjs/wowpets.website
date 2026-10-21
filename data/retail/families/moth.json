@@ -1,0 +1,39 @@
+{
+	"id": "moth",
+	"wowId": 26,
+	"icon": "ability_hunter_pet_moth",
+	"spec": "cunning",
+	"exotic": false,
+	"diet": [
+		"bread",
+		"cheese",
+		"fruit",
+		"fungus"
+	],
+	"abilities": {
+		"basic": "smack",
+		"family": [
+			"serenity-dust"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "candleflies"
+		},
+		{
+			"id": "dustmoths"
+		},
+		{
+			"id": "butterflies"
+		},
+		{
+			"id": "ardenmoths"
+		},
+		{
+			"id": "glimmerflies"
+		},
+		{
+			"id": "moths"
+		}
+	]
+}

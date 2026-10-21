@@ -1,0 +1,9 @@
+{
+	"name": "Classic Onyx & Ruby Crab",
+	"variant": "Onyx & Ruby",
+	"npcs": {
+		"50959": {
+			"name": "Karkin"
+		}
+	}
+}

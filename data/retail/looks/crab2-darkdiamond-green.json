@@ -1,0 +1,67 @@
+{
+	"id": "crab2-darkdiamond-green",
+	"family": "crab",
+	"modelGroup": "grandcrabs",
+	"npcs": [
+		{
+			"id": 136183,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "stormsong-valley",
+					"area": "drowned-lands"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 152795,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "nazjatar"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 209909,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "the-emerald-dream"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 134767,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	]
+}

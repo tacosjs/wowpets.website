@@ -1,0 +1,53 @@
+{
+	"id": "scorpionskindarkiron",
+	"family": "scorpid",
+	"modelGroup": "scorpids",
+	"npcs": [
+		{
+			"id": 51000,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "badlands",
+					"area": "lethlor-ravine"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 44599,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaris"
+				}
+			]
+		},
+		{
+			"id": 51010,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "searing-gorge",
+					"area": "the-cauldron"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

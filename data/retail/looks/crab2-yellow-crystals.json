@@ -1,0 +1,22 @@
+{
+	"id": "crab2-yellow-crystals",
+	"family": "crab",
+	"modelGroup": "grandcrabs",
+	"npcs": [
+		{
+			"id": 233938,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "kajacoast"
+				}
+			]
+		}
+	]
+}

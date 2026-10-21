@@ -1,0 +1,12 @@
+{
+	"name": "Pale Cobra",
+	"variant": "Pale Cobra",
+	"npcs": {
+		"262398": {
+			"name": "Uncoiled Writhe"
+		},
+		"270417": {
+			"name": "Uncoiled Writhe"
+		}
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"id": "ancientseaturtlefire",
+	"family": "turtle",
+	"modelGroup": "ancientturtles",
+	"npcs": [
+		{
+			"id": 50058,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "mount-hyjal"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 38855,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "the-lost-isles"
+				}
+			]
+		},
+		{
+			"id": 41614,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "mount-hyjal"
+				}
+			]
+		},
+		{
+			"id": 53096,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "firelands"
+				}
+			]
+		},
+		{
+			"id": 53095,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "firelands"
+				}
+			]
+		},
+		{
+			"id": 53094,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "firelands"
+				}
+			]
+		}
+	]
+}

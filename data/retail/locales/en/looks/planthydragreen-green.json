@@ -1,0 +1,27 @@
+{
+	"name": "Yellow & Green Mandragora",
+	"variant": "Yellow & Green",
+	"npcs": {
+		"80699": {
+			"name": "Mandragora Lifedrinker"
+		},
+		"82396": {
+			"name": "Mandragora Lifedrinker"
+		},
+		"82722": {
+			"name": "Putrid Mandragora"
+		},
+		"84309": {
+			"name": "Noxious Mandragora"
+		},
+		"84406": {
+			"name": "Mandrakor"
+		},
+		"249329": {
+			"name": "Toadshade"
+		},
+		"256234": {
+			"name": "Ravaging Hydra"
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"id": "owlcat-black",
+	"family": "feathermane",
+	"modelGroup": "owlcats",
+	"npcs": [
+		{
+			"id": 103497,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "feathermane-hunting-grounds"
+				}
+			]
+		}
+	]
+}

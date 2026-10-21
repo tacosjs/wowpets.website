@@ -1,0 +1,24 @@
+{
+	"name": "Blue Jawcrawler w/ Stunted Graspers",
+	"variant": "Blue w/ Stunted Graspers",
+	"npcs": {
+		"216583": {
+			"name": "Chittering Fearmonger"
+		},
+		"225049": {
+			"name": "Caustic Jawcrawler"
+		},
+		"250909": {
+			"name": "Chittering Fearmonger"
+		},
+		"261981": {
+			"name": "Rime Worm"
+		},
+		"265063": {
+			"name": "Angry Rime Worm"
+		},
+		"265072": {
+			"name": "Rime Worm Matriarch"
+		}
+	}
+}

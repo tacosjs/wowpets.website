@@ -1,0 +1,109 @@
+{
+	"id": "direwolfskinlightblue",
+	"family": "wolf",
+	"modelGroup": "worgs",
+	"npcs": [
+		{
+			"id": 3056,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mulgore"
+				}
+			]
+		},
+		{
+			"id": 1132,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "dun-morogh"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 521,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "duskwood",
+					"area": "the-darkened-bank"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 14339,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "felwood"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 10981,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "alterac-valley"
+				}
+			]
+		},
+		{
+			"id": 12121,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "alterac-valley"
+				}
+			]
+		},
+		{
+			"id": 12122,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "alterac-valley"
+				}
+			]
+		}
+	]
+}

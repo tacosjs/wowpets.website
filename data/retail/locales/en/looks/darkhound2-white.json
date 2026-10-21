@@ -1,0 +1,37 @@
+{
+	"name": "Light Grey Darkhound",
+	"variant": "Light Grey",
+	"npcs": {
+		"15072": {
+			"name": "Spike"
+		},
+		"30158": {
+			"name": "Billie",
+			"title": "Nicole Morris's Companion"
+		},
+		"51042": {
+			"name": "Bleakheart"
+		},
+		"51046": {
+			"name": "Fidonis"
+		},
+		"163282": {
+			"name": "Packmother Soulfang"
+		},
+		"168321": {
+			"name": "Scavenging Alpha"
+		},
+		"172888": {
+			"name": "Lurking Alpha"
+		},
+		"229167": {
+			"name": "Duskborn Mongrel"
+		},
+		"229172": {
+			"name": "Duskborn Mongrel"
+		},
+		"229179": {
+			"name": "Duskborn Pup"
+		}
+	}
+}

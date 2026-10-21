@@ -1,0 +1,9 @@
+{
+	"name": "Electrified Mechanical Gorilla",
+	"variant": "Electrified Mechanical",
+	"npcs": {
+		"151933": {
+			"name": "Malfunctioning Beastbot"
+		}
+	}
+}

@@ -1,0 +1,37 @@
+{
+	"id": "decomposerlargewhite",
+	"family": "carapid",
+	"modelGroup": "greatergorms",
+	"npcs": [
+		{
+			"id": 169041,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "gormhive"
+				}
+			]
+		},
+		{
+			"id": 161971,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "underweald"
+				}
+			]
+		}
+	]
+}

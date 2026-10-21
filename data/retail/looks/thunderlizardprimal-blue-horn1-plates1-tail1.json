@@ -1,0 +1,27 @@
+{
+	"id": "thunderlizardprimal-blue-horn1-plates1-tail1",
+	"family": "scalehide",
+	"modelGroup": "primalthunderlizards",
+	"npcs": [
+		{
+			"id": 192941,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "thunderspine-ridge"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		191827,
+		193859,
+		193307
+	]
+}

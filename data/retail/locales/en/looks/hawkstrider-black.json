@@ -1,0 +1,30 @@
+{
+	"name": "Black Hawkstrider",
+	"variant": "Black",
+	"npcs": {
+		"237407": {
+			"name": "Displaced Hawkstrider"
+		},
+		"243133": {
+			"name": "Runaway Hawkstrider"
+		},
+		"244060": {
+			"name": "Displaced Hawkstrider"
+		},
+		"246895": {
+			"name": "Runaway Supply Strider"
+		},
+		"252715": {
+			"name": "Frenzied Hawkstrider"
+		},
+		"256835": {
+			"name": "Refulgent Hawkstrider"
+		},
+		"256862": {
+			"name": "Brilliant Hawkstrider"
+		},
+		"264269": {
+			"name": "Brilliant Hawkstrider"
+		}
+	}
+}

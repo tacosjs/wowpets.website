@@ -1,0 +1,64 @@
+{
+	"name": "Orange Tiger w/ Pink Nose",
+	"variant": "Orange w/ Pink Nose",
+	"npcs": {
+		"54988": {
+			"name": "Waxwood Hunter"
+		},
+		"55238": {
+			"name": "Waxwood Matriarch"
+		},
+		"55946": {
+			"name": "Pei-Wu Tiger"
+		},
+		"56329": {
+			"name": "Kher Shan",
+			"title": "The Hozu Bane"
+		},
+		"56655": {
+			"name": "Wild Huntress"
+		},
+		"58472": {
+			"name": "Kyo",
+			"title": "Che Wildwalker's Pet"
+		},
+		"58884": {
+			"name": "Sha-Haunted Tigress"
+		},
+		"59037": {
+			"name": "Kung Din"
+		},
+		"63769": {
+			"name": "Kyo",
+			"title": "Che Wildwalker's Pet"
+		},
+		"65147": {
+			"name": "Azunyan",
+			"title": "Zach Chow's Pet"
+		},
+		"67438": {
+			"name": "Krasari Elder"
+		},
+		"67556": {
+			"name": "Krasari Elder"
+		},
+		"72049": {
+			"name": "Cranegnasher"
+		},
+		"104837": {
+			"name": "Caged Tiger"
+		},
+		"128253": {
+			"name": "Captured Tiger"
+		},
+		"128297": {
+			"name": "Zul the Cuddly"
+		},
+		"135644": {
+			"name": "Dawnstalker"
+		},
+		"230971": {
+			"name": "Pei-Wu Tiger"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Diamond-Back Cobra",
+	"variant": "Diamond-Back",
+	"npcs": {
+		"128356": {
+			"name": "Soulspitter Cobra"
+		}
+	}
+}

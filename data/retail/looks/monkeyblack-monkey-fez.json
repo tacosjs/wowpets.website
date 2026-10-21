@@ -1,0 +1,22 @@
+{
+	"id": "monkeyblack-monkey-fez",
+	"family": "monkey",
+	"modelGroup": "monkeyswithfezzes",
+	"npcs": [
+		{
+			"id": 51052,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "swamp-of-sorrows"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

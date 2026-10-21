@@ -1,0 +1,12 @@
+{
+	"name": "Yellow Panthara w/ Pale Green Glow",
+	"variant": "Yellow Panthara w/ Pale Green Glow",
+	"npcs": {
+		"124269": {
+			"name": "Panthara Apex"
+		},
+		"124271": {
+			"name": "Panthara Stalker"
+		}
+	}
+}

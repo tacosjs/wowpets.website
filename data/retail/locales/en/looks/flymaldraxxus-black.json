@@ -1,0 +1,10 @@
+{
+	"name": "Green & Purple Corpsefly",
+	"variant": "Green & Purple",
+	"npcs": {
+		"180042": {
+			"name": "Fleshwing",
+			"title": "Lord of the Heap"
+		}
+	}
+}

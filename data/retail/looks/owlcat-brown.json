@@ -1,0 +1,98 @@
+{
+	"id": "owlcat-brown",
+	"family": "feathermane",
+	"modelGroup": "owlcats",
+	"npcs": [
+		{
+			"id": 106920,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna"
+				}
+			]
+		},
+		{
+			"id": 90313,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna",
+					"area": "llothien"
+				}
+			]
+		},
+		{
+			"id": 90901,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "azsuna",
+					"area": "llothien"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 105547,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "feathermane-hunting-grounds"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 118893,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna",
+					"area": "llothien"
+				}
+			]
+		},
+		{
+			"id": 104479,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "feathermane-hunting-grounds"
+				}
+			]
+		}
+	]
+}

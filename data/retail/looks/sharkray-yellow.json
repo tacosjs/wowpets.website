@@ -1,0 +1,44 @@
+{
+	"id": "sharkray-yellow",
+	"family": "ray",
+	"modelGroup": "fathomrays",
+	"npcs": [
+		{
+			"id": 153764,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "ashen-strand"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 206070,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "dawn-of-the-infinites"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		150696,
+		223492,
+		209579,
+		223494,
+		223491
+	]
+}

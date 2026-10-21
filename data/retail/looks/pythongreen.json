@@ -1,0 +1,58 @@
+{
+	"id": "pythongreen",
+	"family": "serpent",
+	"modelGroup": "pythons",
+	"npcs": [
+		{
+			"id": 73163,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "timeless-isle"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 92606,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "tanaan-jungle",
+					"area": "zorammarsh"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 135061,
+			"tameable": true,
+			"level": {
+				"min": 48,
+				"max": 49
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "verdant-plateau"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		70448,
+		87039,
+		126894
+	]
+}

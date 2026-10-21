@@ -1,0 +1,21 @@
+{
+	"name": "Pale Mushan",
+	"variant": "Pale",
+	"npcs": {
+		"58893": {
+			"name": "Sungraze Mushan"
+		},
+		"58922": {
+			"name": "Miss Rose"
+		},
+		"62760": {
+			"name": "Frightened Mushan"
+		},
+		"64309": {
+			"name": "Skyrange Mushan"
+		},
+		"66096": {
+			"name": "Sungraze Mushan Calf"
+		}
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"id": "berserker-teal",
+	"family": "scalehide",
+	"modelGroup": "ultradons",
+	"npcs": [
+		{
+			"id": 252810,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "the-bloodplains"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		257955,
+		250535,
+		257764,
+		258226
+	]
+}

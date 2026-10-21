@@ -1,0 +1,40 @@
+{
+	"id": "horse2-brown-horse2bastion-noglow",
+	"family": "courser",
+	"modelGroup": "dreamrunners",
+	"npcs": [
+		{
+			"id": 256857,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "azurebreeze-coast"
+				}
+			]
+		},
+		{
+			"id": 256860,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		256858,
+		250195
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"name": "Fiery Spirit Somnowl",
+	"variant": "Fiery",
+	"npcs": {
+		"210908": {
+			"name": "Nah'qi",
+			"title": "Ember of Regrowth"
+		}
+	}
+}

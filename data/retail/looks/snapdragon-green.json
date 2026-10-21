@@ -1,0 +1,131 @@
+{
+	"id": "snapdragon-green",
+	"family": "lizard",
+	"modelGroup": "snapdragons",
+	"npcs": [
+		{
+			"id": 152357,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "naranan"
+				}
+			]
+		},
+		{
+			"id": 145339,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "naranan"
+				}
+			]
+		},
+		{
+			"id": 244048,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "lightbloom-athran"
+				}
+			]
+		},
+		{
+			"id": 154757,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "naranan-world-quest-phase"
+				}
+			]
+		},
+		{
+			"id": 156100,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar"
+				}
+			]
+		},
+		{
+			"id": 154753,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "naranan-world-quest-phase"
+				}
+			]
+		},
+		{
+			"id": 235237,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "siren-isle",
+					"area": "flotsam-shoal"
+				}
+			]
+		},
+		{
+			"id": 233696,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "siren-isle",
+					"area": "flotsam-shoal"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		193873,
+		257830,
+		190193
+	]
+}

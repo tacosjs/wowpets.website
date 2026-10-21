@@ -1,0 +1,27 @@
+{
+	"id": "wolfdraenorfire",
+	"family": "wolf",
+	"modelGroup": "draenorwolves",
+	"npcs": [
+		{
+			"id": 76794,
+			"tameable": false,
+			"level": {
+				"min": 42,
+				"max": 42
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "blackrock-foundry",
+					"area": "burning-font"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

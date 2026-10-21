@@ -1,0 +1,33 @@
+{
+	"name": "Blue Electric Eel",
+	"variant": "Blue Electric Eel",
+	"npcs": {
+		"227645": {
+			"name": "Marina Zapper"
+		},
+		"233472": {
+			"name": "Voltstrike the Charged"
+		},
+		"242453": {
+			"name": "Zapgut Eel"
+		},
+		"250114": {
+			"name": "Galvanized Eel"
+		},
+		"250115": {
+			"name": "Electric Eel"
+		},
+		"254201": {
+			"name": "Hexxa Eel"
+		},
+		"260257": {
+			"name": "Lambent Zapgut"
+		},
+		"260260": {
+			"name": "Juvenile Zapgut"
+		},
+		"262982": {
+			"name": "Electric Watersnake"
+		}
+	}
+}

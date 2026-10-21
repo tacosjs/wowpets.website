@@ -1,0 +1,22 @@
+{
+	"id": "undeadbeast-transparentred",
+	"family": "hound",
+	"modelGroup": "beastabominations",
+	"npcs": [
+		{
+			"id": 146564,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-sunwell",
+					"area": "shrine-of-the-eclipse"
+				}
+			]
+		}
+	]
+}

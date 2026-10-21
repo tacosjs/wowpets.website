@@ -1,0 +1,23 @@
+{
+	"id": "gorilla-amy-lightning",
+	"family": "mechanical",
+	"modelGroup": "updatedrobotgorillas",
+	"npcs": [
+		{
+			"id": 151933,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "mechagon",
+					"area": "bondos-yard"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

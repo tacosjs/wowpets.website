@@ -1,0 +1,9 @@
+{
+	"name": "Tan Swarmite w/ Proboscis & Medium Tail",
+	"variant": "Tan w/ Proboscis & Medium Tail",
+	"npcs": {
+		"216341": {
+			"name": "Jabbing Flyer"
+		}
+	}
+}

@@ -1,0 +1,60 @@
+{
+	"id": "progenitorhawk-blue",
+	"family": "birdofprey",
+	"modelGroup": "raptoras",
+	"npcs": [
+		{
+			"id": 184472,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "arrangement-index"
+				}
+			]
+		},
+		{
+			"id": 182421,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "dimensional-falls-cavern"
+				}
+			]
+		},
+		{
+			"id": 183554,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "garudeons-nest"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		179004,
+		183274,
+		183284,
+		180052,
+		185266,
+		182314
+	]
+}

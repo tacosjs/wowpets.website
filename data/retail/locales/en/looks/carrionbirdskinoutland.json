@@ -1,0 +1,25 @@
+{
+	"name": "Red Two-Headed Vulture",
+	"variant": "Red",
+	"npcs": {
+		"5430": {
+			"name": "Searing Roc"
+		},
+		"8207": {
+			"name": "Emberwing"
+		},
+		"16972": {
+			"name": "Bonestripper Buzzard"
+		},
+		"16973": {
+			"name": "Bonestripper Vulture"
+		},
+		"50807": {
+			"name": "Catal"
+		},
+		"142717": {
+			"name": "SQUAAAWK!",
+			"title": "Man-Hunter Rog's Pet"
+		}
+	}
+}

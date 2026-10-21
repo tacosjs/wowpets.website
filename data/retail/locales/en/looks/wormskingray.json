@@ -1,0 +1,18 @@
+{
+	"name": "Black Worm",
+	"variant": "Black",
+	"npcs": {
+		"8925": {
+			"name": "Dredge Worm"
+		},
+		"11740": {
+			"name": "Dredge Striker"
+		},
+		"11741": {
+			"name": "Dredge Crusher"
+		},
+		"121176": {
+			"name": "Bone Crawler Juvenile"
+		}
+	}
+}

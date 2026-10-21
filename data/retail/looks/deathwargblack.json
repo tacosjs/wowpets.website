@@ -1,0 +1,328 @@
+{
+	"id": "deathwargblack",
+	"family": "stonehound",
+	"modelGroup": "gargons",
+	"npcs": [
+		{
+			"id": 167501,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "grand-palisade"
+				}
+			]
+		},
+		{
+			"id": 159026,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "halls-of-atonement"
+				}
+			]
+		},
+		{
+			"id": 176113,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "halls-of-atonement"
+				}
+			]
+		},
+		{
+			"id": 160402,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "halls-of-atonement-non-instanced"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 176117,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "halls-of-atonement"
+				}
+			]
+		},
+		{
+			"id": 158979,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "halls-of-atonement"
+				}
+			]
+		},
+		{
+			"id": 164198,
+			"tameable": true,
+			"level": {
+				"min": 57,
+				"max": 58
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "halls-of-atonement"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 164563,
+			"tameable": true,
+			"level": {
+				"min": 57,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "halls-of-atonement"
+				}
+			]
+		},
+		{
+			"id": 158978,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "dominance-keep"
+				}
+			]
+		},
+		{
+			"id": 159218,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "dominance-keep"
+				}
+			]
+		},
+		{
+			"id": 159978,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "dominance-keep"
+				}
+			]
+		},
+		{
+			"id": 171455,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "sanguine-depths"
+				}
+			]
+		},
+		{
+			"id": 163216,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "old-gate"
+				}
+			]
+		},
+		{
+			"id": 166679,
+			"tameable": true,
+			"level": {
+				"min": 62,
+				"max": 62
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "chalice-district"
+				}
+			],
+			"keepsName": true,
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 163439,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "wanecrypt-hill"
+				}
+			]
+		},
+		{
+			"id": 163466,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "wanecrypt-hill"
+				}
+			]
+		},
+		{
+			"id": 162276,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "stalkers-lodge"
+				}
+			]
+		},
+		{
+			"id": 162990,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "grove-of-terror"
+				}
+			]
+		},
+		{
+			"id": 174044,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "sinfall"
+				}
+			]
+		},
+		{
+			"id": 161225,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "darkwall-tower"
+				}
+			]
+		},
+		{
+			"id": 178012,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-maw",
+					"area": "planes-of-torment"
+				}
+			]
+		}
+	]
+}

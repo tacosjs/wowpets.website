@@ -1,0 +1,9 @@
+{
+	"name": "Armored Red & Yellow Rylak",
+	"variant": "Red & Yellow w/ Engines",
+	"npcs": {
+		"80098": {
+			"name": "Ironbarb Skyreaver"
+		}
+	}
+}

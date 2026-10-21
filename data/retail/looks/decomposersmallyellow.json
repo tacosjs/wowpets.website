@@ -1,0 +1,28 @@
+{
+	"id": "decomposersmallyellow",
+	"family": "carapid",
+	"modelGroup": "gormlings",
+	"npcs": [
+		{
+			"id": 174362,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "the-root-cellar"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		164802,
+		174458,
+		163987,
+		171194
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Dark Hook Wasp",
+	"variant": "Dark Green",
+	"npcs": {
+		"83444": {
+			"name": "Electrified Stingtail"
+		},
+		"84905": {
+			"name": "Stingtail Worker"
+		},
+		"88041": {
+			"name": "Stingtail Worker"
+		}
+	}
+}

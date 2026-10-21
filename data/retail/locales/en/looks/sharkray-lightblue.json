@@ -1,0 +1,12 @@
+{
+	"name": "Teal Blue Fathom Ray",
+	"variant": "Teal Blue",
+	"npcs": {
+		"154420": {
+			"name": "Enraged Fathom Ray"
+		},
+		"210833": {
+			"name": "Barbtail Ray"
+		}
+	}
+}

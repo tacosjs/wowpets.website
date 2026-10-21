@@ -1,0 +1,9 @@
+{
+	"name": "Orange & Magenta Ravager",
+	"variant": "Orange & Magenta",
+	"npcs": {
+		"50370": {
+			"name": "Karapax"
+		}
+	}
+}

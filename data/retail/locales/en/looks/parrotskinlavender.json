@@ -1,0 +1,12 @@
+{
+	"name": "Lavender-Blue Parrot",
+	"variant": "Lavender-Blue",
+	"npcs": {
+		"22424": {
+			"name": "Skywing"
+		},
+		"48449": {
+			"name": "Brilliant Macaw"
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"name": "Brown Jawcrawler w/ Full Graspers",
+	"variant": "Brown w/ Full Graspers",
+	"npcs": {
+		"217379": {
+			"name": "Infested Jawgrub"
+		},
+		"217417": {
+			"name": "Infested Jawgrub"
+		},
+		"218083": {
+			"name": "Off-duty Silkhauler"
+		},
+		"220483": {
+			"name": "Attentive Silkhauler"
+		}
+	}
+}

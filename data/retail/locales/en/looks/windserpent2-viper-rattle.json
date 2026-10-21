@@ -1,0 +1,12 @@
+{
+	"name": "Olive Green Wind Serpent",
+	"variant": "Olive Green",
+	"npcs": {
+		"140338": {
+			"name": "Clutch Guardian Jinka'lo"
+		},
+		"140343": {
+			"name": "Razorwing"
+		}
+	}
+}

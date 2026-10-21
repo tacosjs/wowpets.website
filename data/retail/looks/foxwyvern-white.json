@@ -1,0 +1,108 @@
+{
+	"id": "foxwyvern-white",
+	"family": "feathermane",
+	"modelGroup": "slyverns",
+	"npcs": [
+		{
+			"id": 188202,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "apex-canopy"
+				}
+			]
+		},
+		{
+			"id": 188204,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "apex-canopy"
+				}
+			]
+		},
+		{
+			"id": 190742,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		},
+		{
+			"id": 199786,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-forbidden-reach",
+					"area": "aerie-chasm-skyfox-den"
+				}
+			]
+		},
+		{
+			"id": 192473,
+			"tameable": false,
+			"level": {
+				"min": 58,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-forbidden-reach",
+					"area": "aerie-chasm"
+				}
+			]
+		},
+		{
+			"id": 186401,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "kauriq-gleamlet"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		195708,
+		197871,
+		196057,
+		192169,
+		193353,
+		189852,
+		193438,
+		194102,
+		194568,
+		187489
+	]
+}

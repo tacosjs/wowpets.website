@@ -1,0 +1,18 @@
+{
+	"name": "Spotted Pink Pig",
+	"variant": "Spotted Pink",
+	"npcs": {
+		"59603": {
+			"name": "Piggy"
+		},
+		"66670": {
+			"name": "Petuna"
+		},
+		"214930": {
+			"name": "Shadow-Mad Sow"
+		},
+		"220311": {
+			"name": "Rosepetal"
+		}
+	}
+}

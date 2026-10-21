@@ -1,0 +1,13 @@
+{
+	"name": "Phase-Lost Cosmic Ray",
+	"variant": "Phase-Lost",
+	"npcs": {
+		"232111": {
+			"name": "The Nightreaver"
+		},
+		"241673": {
+			"name": "Netherdeath",
+			"title": "Untethered Horror"
+		}
+	}
+}

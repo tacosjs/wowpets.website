@@ -1,0 +1,21 @@
+{
+	"id": "giraffeskindark",
+	"family": "stag",
+	"modelGroup": "giraffes",
+	"npcs": [
+		{
+			"id": 28129,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "sholazar-basin"
+				}
+			]
+		}
+	]
+}

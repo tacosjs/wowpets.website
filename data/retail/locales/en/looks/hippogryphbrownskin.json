@@ -1,0 +1,21 @@
+{
+	"name": "Brown & White Hippogryph",
+	"variant": "Brown & White",
+	"npcs": {
+		"6377": {
+			"name": "Thunderhead Stagwing"
+		},
+		"23772": {
+			"name": "Spotted Hippogryph"
+		},
+		"24514": {
+			"name": "Steelfeather"
+		},
+		"36147": {
+			"name": "Static-Charged Hippogryph"
+		},
+		"36852": {
+			"name": "Skychaser Hippogryph"
+		}
+	}
+}

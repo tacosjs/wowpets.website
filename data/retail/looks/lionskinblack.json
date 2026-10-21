@@ -1,0 +1,67 @@
+{
+	"id": "lionskinblack",
+	"family": "cat",
+	"modelGroup": "lions",
+	"npcs": [
+		{
+			"id": 5828,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "northern-barrens"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 50818,
+			"tameable": true,
+			"level": {
+				"min": 7,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "hillsbrad-foothills"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 28097,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "sholazar-basin"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 49960,
+			"tameable": false,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "silverpine-forest",
+					"area": "the-sepulcher"
+				}
+			]
+		}
+	]
+}

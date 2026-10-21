@@ -1,0 +1,24 @@
+{
+	"name": "Grey Skeletal Devilsaur",
+	"variant": "Grey",
+	"npcs": {
+		"123757": {
+			"name": "Urok"
+		},
+		"127768": {
+			"name": "Siege Monstrosity"
+		},
+		"130643": {
+			"name": "Twisted Child of Rezan"
+		},
+		"134507": {
+			"name": "Siege Monstrosity"
+		},
+		"139709": {
+			"name": "Rotting Monstrosity"
+		},
+		"166027": {
+			"name": "Resurfaced Tyrant"
+		}
+	}
+}

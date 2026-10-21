@@ -1,0 +1,9 @@
+{
+	"name": "Spectral Hippogryph",
+	"variant": "Spectral Hippogryph",
+	"npcs": {
+		"91839": {
+			"name": "Kaldorei Windgryph"
+		}
+	}
+}

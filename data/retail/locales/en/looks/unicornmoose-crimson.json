@@ -1,0 +1,15 @@
+{
+	"name": "Rufous Shalehorn",
+	"variant": "Rufous",
+	"npcs": {
+		"214764": {
+			"name": "Rustmane Shalehorn"
+		},
+		"221786": {
+			"name": "Pride of Beledar"
+		},
+		"224586": {
+			"name": "Daunted Bull"
+		}
+	}
+}

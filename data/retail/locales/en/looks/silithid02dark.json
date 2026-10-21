@@ -1,0 +1,12 @@
+{
+	"name": "Rugged Black Silithid",
+	"variant": "Black",
+	"npcs": {
+		"132578": {
+			"name": "Qroshekx"
+		},
+		"183940": {
+			"name": "Silithid Ravager"
+		}
+	}
+}

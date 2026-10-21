@@ -1,0 +1,14 @@
+{
+	"id": "electriceel-green",
+	"family": "serpent",
+	"modelGroup": "greaterelectriceels",
+	"npcs": [],
+	"alsoNpcs": [
+		227645,
+		250115,
+		254201,
+		262982,
+		260260,
+		260257
+	]
+}

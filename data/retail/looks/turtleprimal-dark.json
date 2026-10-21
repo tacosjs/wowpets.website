@@ -1,0 +1,92 @@
+{
+	"id": "turtleprimal-dark",
+	"family": "turtle",
+	"modelGroup": "smoothdragonturtles",
+	"npcs": [
+		{
+			"id": 211032,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream"
+				}
+			]
+		},
+		{
+			"id": 214226,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "amirdrassil-dragon-isles-zone",
+					"area": "twisting-wood-amirdrassil-dragon-isles-zone"
+				}
+			]
+		},
+		{
+			"id": 214227,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "amirdrassil-dragon-isles-zone",
+					"area": "twisting-wood-amirdrassil-dragon-isles-zone"
+				}
+			]
+		},
+		{
+			"id": 193133,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		},
+		{
+			"id": 191305,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "the-cascades"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		194045,
+		197864,
+		210195,
+		210782,
+		210783,
+		210449,
+		210410,
+		258111,
+		262977,
+		269750
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"id": "mechanicalrabbit",
+	"family": "mechanical",
+	"modelGroup": "robotrabbits",
+	"npcs": [
+		{
+			"id": 167337,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 10
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "exiles-reach"
+				}
+			]
+		},
+		{
+			"id": 107431,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "dun-morogh",
+					"area": "chill-breeze-valley"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 67544,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "krasarang-wilds",
+					"area": "domination-point"
+				}
+			]
+		}
+	]
+}

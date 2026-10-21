@@ -1,0 +1,51 @@
+{
+	"id": "sporebatyellow",
+	"family": "sporebat",
+	"modelGroup": "sporebats",
+	"npcs": [
+		{
+			"id": 18280,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zangarmarsh"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 50779,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "eastern-plaguelands"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 265792,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "naigtal"
+				}
+			]
+		}
+	]
+}

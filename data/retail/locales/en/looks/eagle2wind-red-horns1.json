@@ -1,0 +1,16 @@
+{
+	"name": "Horned Black & Red Ohuna",
+	"variant": "Horned Black & Red",
+	"npcs": {
+		"187507": {
+			"name": "Frenzied Grovetalon"
+		},
+		"193209": {
+			"name": "Zenet Avis",
+			"title": "The Hard Wind"
+		},
+		"193229": {
+			"name": "Henlare"
+		}
+	}
+}

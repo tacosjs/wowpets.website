@@ -1,0 +1,27 @@
+{
+	"id": "arathilynx-white-armor-red",
+	"family": "cat",
+	"modelGroup": "arathilynxes",
+	"npcs": [
+		{
+			"id": 215041,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "hillhelm-stead"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		225419,
+		222750,
+		206699
+	]
+}

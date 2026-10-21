@@ -1,0 +1,24 @@
+{
+	"name": "Grey Gryphon",
+	"variant": "Grey",
+	"npcs": {
+		"150188": {
+			"name": "Gilneas Gryphon"
+		},
+		"191626": {
+			"name": "Ancient Gryphon"
+		},
+		"195268": {
+			"name": "Proud Plumecrest"
+		},
+		"198417": {
+			"name": "Tyrhold Gryphon"
+		},
+		"199192": {
+			"name": "Isles Gryphon"
+		},
+		"199544": {
+			"name": "Reservoir Skyfeather"
+		}
+	}
+}

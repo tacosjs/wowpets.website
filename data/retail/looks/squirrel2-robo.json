@@ -1,0 +1,38 @@
+{
+	"id": "squirrel2-robo",
+	"family": "mechanical",
+	"modelGroup": "robotsquirrels",
+	"npcs": [
+		{
+			"id": 107477,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azshara",
+					"area": "the-secret-lab"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 67546,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "krasarang-wilds",
+					"area": "domination-point"
+				}
+			]
+		}
+	]
+}

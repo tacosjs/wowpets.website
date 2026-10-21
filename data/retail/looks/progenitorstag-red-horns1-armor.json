@@ -1,0 +1,22 @@
+{
+	"id": "progenitorstag-red-horns1-armor",
+	"family": "stag",
+	"modelGroup": "cervids",
+	"npcs": [
+		{
+			"id": 183596,
+			"tameable": true,
+			"level": {
+				"min": 61,
+				"max": 61
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "zereth-mortis"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

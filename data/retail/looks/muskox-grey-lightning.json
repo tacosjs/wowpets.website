@@ -1,0 +1,23 @@
+{
+	"id": "muskox-grey-lightning",
+	"family": "oxen",
+	"modelGroup": "musken",
+	"npcs": [
+		{
+			"id": 100838,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "stormheim",
+					"area": "nastrondir"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"id": "horse3-brown-mane1",
+	"family": "courser",
+	"modelGroup": "horses",
+	"npcs": [
+		{
+			"id": 27626,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "grizzly-hills",
+					"area": "solstice-village"
+				}
+			]
+		},
+		{
+			"id": 55272,
+			"tameable": false,
+			"level": {
+				"min": 51,
+				"max": 51
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormwind",
+					"area": "the-wollerton-stead"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		37785,
+		48180,
+		123212,
+		129139,
+		127572,
+		123604,
+		137836,
+		142347,
+		23747,
+		55715
+	]
+}

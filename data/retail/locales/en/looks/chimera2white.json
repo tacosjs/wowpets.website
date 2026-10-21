@@ -1,0 +1,10 @@
+{
+	"name": "Silver Rylak",
+	"variant": "Silver",
+	"npcs": {
+		"77140": {
+			"name": "Amaukwa",
+			"title": "The Breath of Moon"
+		}
+	}
+}

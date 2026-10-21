@@ -1,0 +1,9 @@
+{
+	"name": "Gold Electric Eel",
+	"variant": "Gold Electric Eel",
+	"npcs": {
+		"113137": {
+			"name": "Tidepool Eel"
+		}
+	}
+}

@@ -1,0 +1,42 @@
+{
+	"name": "Beige Elderhorn",
+	"variant": "Beige",
+	"npcs": {
+		"94386": {
+			"name": "Cursed Elderhorn"
+		},
+		"95268": {
+			"name": "Highland Elderhorn"
+		},
+		"96266": {
+			"name": "Pale Elderhorn"
+		},
+		"98884": {
+			"name": "Bewitched Elderhorn"
+		},
+		"110502": {
+			"name": "Snowstrider Bull"
+		},
+		"110503": {
+			"name": "Young Snowstrider"
+		},
+		"139790": {
+			"name": "Highland Proudhorn"
+		},
+		"145975": {
+			"name": "Stonehide Buck"
+		},
+		"145976": {
+			"name": "Stonehide Bull"
+		},
+		"145977": {
+			"name": "Mammoth Stonehide"
+		},
+		"146113": {
+			"name": "Thunderhoof"
+		},
+		"152092": {
+			"name": "Bronzefur Elk"
+		}
+	}
+}

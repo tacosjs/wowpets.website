@@ -1,0 +1,9 @@
+{
+	"name": "Horde War Kodo",
+	"variant": "Horde War Kodo",
+	"npcs": {
+		"147444": {
+			"name": "War Kodo"
+		}
+	}
+}

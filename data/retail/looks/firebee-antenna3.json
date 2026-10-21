@@ -1,0 +1,42 @@
+{
+	"id": "firebee-antenna3",
+	"family": "wasp",
+	"modelGroup": "cinderbees",
+	"npcs": [
+		{
+			"id": 210265,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "cinderbrew-meadery",
+					"area": "the-buzz-barns"
+				}
+			]
+		},
+		{
+			"id": 223497,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "cinderbrew-meadery",
+					"area": "the-buzz-barns"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

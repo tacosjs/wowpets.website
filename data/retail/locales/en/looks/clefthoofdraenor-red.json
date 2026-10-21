@@ -1,0 +1,21 @@
+{
+	"name": "Red Draenor Clefthoof",
+	"variant": "Red",
+	"npcs": {
+		"50990": {
+			"name": "Nakk the Thunderer"
+		},
+		"78570": {
+			"name": "Witherhide Calf"
+		},
+		"78572": {
+			"name": "Wild Witherhide Bull"
+		},
+		"83392": {
+			"name": "Rampaging Clefthoof"
+		},
+		"86732": {
+			"name": "Bergruu"
+		}
+	}
+}

@@ -1,0 +1,64 @@
+{
+	"name": "Mummified Eagle",
+	"variant": "Mummified",
+	"npcs": {
+		"29453": {
+			"name": "Vargul Plaguetalon"
+		},
+		"30988": {
+			"name": "Scourgebeak Fleshripper"
+		},
+		"31263": {
+			"name": "Carrion Hunter"
+		},
+		"44481": {
+			"name": "Diseased Hawk"
+		},
+		"50335": {
+			"name": "Alitus"
+		},
+		"54517": {
+			"name": "Time-Twisted Shadowtalon"
+		},
+		"71739": {
+			"name": "Windgore"
+		},
+		"84102": {
+			"name": "Cadaverous Vulture"
+		},
+		"91527": {
+			"name": "Dread Falke"
+		},
+		"93064": {
+			"name": "Black Rook Falcon"
+		},
+		"94009": {
+			"name": "Black Rook Falcon"
+		},
+		"94383": {
+			"name": "Rotbeak"
+		},
+		"97163": {
+			"name": "Cursed Falke"
+		},
+		"103045": {
+			"name": "Plaguemaw"
+		},
+		"105531": {
+			"name": "Dread Falke"
+		},
+		"110332": {
+			"name": "Black Rook Falcon"
+		},
+		"146885": {
+			"name": "Foulshriek",
+			"title": "The Putrid Winds"
+		},
+		"146910": {
+			"name": "Fleshrot Plaguetalon"
+		},
+		"263820": {
+			"name": "Boneless Wings"
+		}
+	}
+}

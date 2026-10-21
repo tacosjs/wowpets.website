@@ -1,0 +1,35 @@
+{
+	"id": "feathereddragon-orange",
+	"family": "lesserdragonkin",
+	"modelGroup": "veilwings",
+	"npcs": [
+		{
+			"id": 167503,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald"
+				}
+			]
+		},
+		{
+			"id": 178956,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald"
+				}
+			]
+		}
+	]
+}

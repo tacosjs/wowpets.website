@@ -1,0 +1,52 @@
+{
+	"id": "rutaanibird-purple",
+	"family": "carrionbird",
+	"modelGroup": "petalwings",
+	"npcs": [
+		{
+			"id": 243775,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "blossoming-terrace"
+				}
+			]
+		},
+		{
+			"id": 249006,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		242945,
+		253881,
+		246713,
+		256545,
+		250193,
+		256671,
+		256878,
+		237709,
+		248475,
+		256805,
+		256354,
+		256353,
+		249164,
+		259972
+	]
+}

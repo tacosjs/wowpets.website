@@ -1,0 +1,9 @@
+{
+	"name": "Grassy Red Ramolith - Hornless",
+	"variant": "Grassy Red - Hornless",
+	"npcs": {
+		"217404": {
+			"name": "Persistent Forager"
+		}
+	}
+}

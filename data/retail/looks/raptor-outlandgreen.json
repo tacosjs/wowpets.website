@@ -1,0 +1,53 @@
+{
+	"id": "raptor-outlandgreen",
+	"family": "raptor",
+	"modelGroup": "spikedraptors",
+	"npcs": [
+		{
+			"id": 50882,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "swamp-of-sorrows"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 26641,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "draktharon-keep"
+				}
+			]
+		},
+		{
+			"id": 21124,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blades-edge-mountains"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		38187
+	]
+}

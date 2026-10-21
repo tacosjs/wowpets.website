@@ -1,0 +1,18 @@
+{
+	"name": "Teal Dreamsaber",
+	"variant": "Teal",
+	"npcs": {
+		"207624": {
+			"name": "Prowling Dreamsaber"
+		},
+		"210320": {
+			"name": "Manifested Dreamsaber"
+		},
+		"210594": {
+			"name": "Verdant Dreamsaber"
+		},
+		"211373": {
+			"name": "Verdant Dreamsaber"
+		}
+	}
+}

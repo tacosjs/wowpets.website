@@ -1,0 +1,72 @@
+{
+	"id": "mawexpansionbear-red",
+	"family": "scalehide",
+	"modelGroup": "shardhides",
+	"npcs": [
+		{
+			"id": 178527,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "korthia",
+					"area": "maulers-outlook"
+				}
+			]
+		},
+		{
+			"id": 180511,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "korthia",
+					"area": "windswept-aerie"
+				}
+			]
+		},
+		{
+			"id": 177353,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "korthia",
+					"area": "hopes-ascent"
+				}
+			]
+		},
+		{
+			"id": 179684,
+			"tameable": false,
+			"level": {
+				"min": 61,
+				"max": 61
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "korthia",
+					"area": "maulers-overlook"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,87 @@
+{
+	"id": "raptor-outlandblack",
+	"family": "raptor",
+	"modelGroup": "spikedraptors",
+	"npcs": [
+		{
+			"id": 38187,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 20
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-lost-isles"
+				}
+			]
+		},
+		{
+			"id": 26628,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 31
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "draktharon-keep"
+				}
+			]
+		},
+		{
+			"id": 20729,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "blades-edge-mountains"
+				}
+			]
+		},
+		{
+			"id": 22052,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blades-edge-mountains"
+				}
+			]
+		},
+		{
+			"id": 20716,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormwind-city"
+				}
+			]
+		},
+		{
+			"id": 36735,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "the-lost-isles"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"id": "boggorm-red",
+	"family": "worm",
+	"modelGroup": "tidalworms",
+	"npcs": [],
+	"alsoNpcs": [
+		249012
+	]
+}

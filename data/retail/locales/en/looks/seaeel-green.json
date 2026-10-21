@@ -1,0 +1,20 @@
+{
+	"name": "Green Eel-Serpent",
+	"variant": "Green",
+	"npcs": {
+		"130232": {
+			"name": "Venomous Coilscale"
+		},
+		"145338": {
+			"name": "Abyssal Eel"
+		},
+		"155698": {
+			"name": "Fanged Guardian",
+			"title": "Azsh'ari Tempest's Pet"
+		},
+		"224621": {
+			"name": "Colossal Eel",
+			"title": "Tamed Kobyss Monstrosity"
+		}
+	}
+}

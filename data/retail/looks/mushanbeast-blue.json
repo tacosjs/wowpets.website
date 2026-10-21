@@ -1,0 +1,111 @@
+{
+	"id": "mushanbeast-blue",
+	"family": "scalehide",
+	"modelGroup": "mushan",
+	"npcs": [
+		{
+			"id": 66213,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-jade-forest",
+					"area": "pawdon-glade"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 66463,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "townlong-steppes"
+				}
+			]
+		},
+		{
+			"id": 66599,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dread-wastes",
+					"area": "the-thundering-run"
+				}
+			]
+		},
+		{
+			"id": 63729,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dread-wastes",
+					"area": "chittering-coast"
+				}
+			]
+		},
+		{
+			"id": 59599,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds",
+					"area": "halfhill"
+				}
+			]
+		},
+		{
+			"id": 58924,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds",
+					"area": "the-heartland"
+				}
+			]
+		},
+		{
+			"id": 60739,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "townlong-steppes"
+				}
+			]
+		}
+	]
+}

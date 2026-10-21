@@ -1,0 +1,21 @@
+{
+	"name": "Gold Phalynx",
+	"variant": "Gold",
+	"npcs": {
+		"158768": {
+			"name": "Obedient Phalynx"
+		},
+		"160110": {
+			"name": "First Guardian of Kalliope"
+		},
+		"162913": {
+			"name": "Loyal Clawguard"
+		},
+		"167387": {
+			"name": "Depleted Clawguard"
+		},
+		"169564": {
+			"name": "Gleaming Phalynx"
+		}
+	}
+}

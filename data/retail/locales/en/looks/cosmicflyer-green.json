@@ -1,0 +1,15 @@
+{
+	"name": "Green Cosmic Ray",
+	"variant": "Green",
+	"npcs": {
+		"230365": {
+			"name": "Sand Swooper"
+		},
+		"249039": {
+			"name": "Lurking Stormray"
+		},
+		"255886": {
+			"name": "Sand Swooper"
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name": "Green Devilsaur",
+	"variant": "Green",
+	"npcs": {
+		"70006": {
+			"name": "Young Primal Devilsaur"
+		},
+		"70009": {
+			"name": "Primal Devilsaur"
+		},
+		"103634": {
+			"name": "Su'esh",
+			"title": "Star Attraction"
+		},
+		"139706": {
+			"name": "Savagelands Devilsaur"
+		},
+		"152296": {
+			"name": "Hungry Savagelands Juvenile"
+		}
+	}
+}

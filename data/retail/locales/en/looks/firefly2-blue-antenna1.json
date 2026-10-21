@@ -1,0 +1,30 @@
+{
+	"name": "Blue Candlefly w/ Wavy Antennae",
+	"variant": "Blue w/ Wavy Antennae",
+	"npcs": {
+		"217329": {
+			"name": "Twinkling Candlefly"
+		},
+		"217637": {
+			"name": "Phosphorescent Lampyrid"
+		},
+		"219350": {
+			"name": "Phosphorescent Lampyrid"
+		},
+		"219764": {
+			"name": "Phosphorescent Lampyrid"
+		},
+		"225244": {
+			"name": "Ravenous Glowmite"
+		},
+		"246103": {
+			"name": "Cascades Shimmerbug"
+		},
+		"248428": {
+			"name": "Luminescent Cavefly"
+		},
+		"249059": {
+			"name": "Firefly"
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"name": "Green Somnowl w/ Crescent Antlers, Large Ears, Horned Brows, Long Tail",
+	"variant": "Green w/ Long Tail",
+	"npcs": {
+		"208234": {
+			"name": "Ancient Somnowl"
+		},
+		"209876": {
+			"name": "Albon the Watcher"
+		},
+		"210047": {
+			"name": "Somnambulant Ori"
+		},
+		"211154": {
+			"name": "Predatory Ferntalon"
+		}
+	}
+}

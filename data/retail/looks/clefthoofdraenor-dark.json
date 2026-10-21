@@ -1,0 +1,39 @@
+{
+	"id": "clefthoofdraenor-dark",
+	"family": "clefthoof",
+	"modelGroup": "draenorclefthooves",
+	"npcs": [
+		{
+			"id": 78571,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "witherwind-pass"
+				}
+			]
+		},
+		{
+			"id": 86731,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nagrand-draenor"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		78570
+	]
+}

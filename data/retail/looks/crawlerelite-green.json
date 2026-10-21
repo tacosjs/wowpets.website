@@ -1,0 +1,65 @@
+{
+	"id": "crawlerelite-green",
+	"family": "ravager",
+	"modelGroup": "extraspikyravagers",
+	"npcs": [
+		{
+			"id": 16934,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hellfire-peninsula"
+				}
+			]
+		},
+		{
+			"id": 50724,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "felwood"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 50730,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "burning-steppes"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 144836,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	]
+}

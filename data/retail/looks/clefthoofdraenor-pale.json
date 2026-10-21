@@ -1,0 +1,132 @@
+{
+	"id": "clefthoofdraenor-pale",
+	"family": "clefthoof",
+	"modelGroup": "draenorclefthooves",
+	"npcs": [
+		{
+			"id": 76710,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge"
+				}
+			]
+		},
+		{
+			"id": 77513,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "frostfire-ridge"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 75680,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "worgol"
+				}
+			]
+		},
+		{
+			"id": 78920,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "icewind-drifts"
+				}
+			]
+		},
+		{
+			"id": 72162,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "bladespire-ravine"
+				}
+			]
+		},
+		{
+			"id": 78574,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-draenor"
+				}
+			]
+		},
+		{
+			"id": 76389,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "worgol"
+				}
+			]
+		},
+		{
+			"id": 75771,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		86000,
+		84798,
+		80420,
+		78918,
+		80136,
+		78576
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"id": "vulture-albatrossbrown",
+	"family": "birdofprey",
+	"modelGroup": "albatrosses",
+	"npcs": [
+		{
+			"id": 127530,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "snapclaw-shore"
+				}
+			]
+		},
+		{
+			"id": 191532,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "roaring-dragonsprings"
+				}
+			]
+		}
+	]
+}

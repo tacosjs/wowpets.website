@@ -1,0 +1,18 @@
+{
+	"name": "Dark Olive Swarmite",
+	"variant": "Dark Olive Swarmite",
+	"npcs": {
+		"25445": {
+			"name": "Nerub'ar Corpse Harvester"
+		},
+		"25582": {
+			"name": "Scourged Flamespitter"
+		},
+		"55573": {
+			"name": "Nerubian Flyer"
+		},
+		"139876": {
+			"name": "Nightleech"
+		}
+	}
+}

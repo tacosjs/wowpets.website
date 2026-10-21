@@ -1,0 +1,10 @@
+{
+	"name": "Blue & Brown Quilen w/ Grey Flight Armour",
+	"variant": "Blue & Brown w/ Grey Armour",
+	"npcs": {
+		"68081": {
+			"name": "Dam'ren",
+			"title": "The Frozen Sage"
+		}
+	}
+}

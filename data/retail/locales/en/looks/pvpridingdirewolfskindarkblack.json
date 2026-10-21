@@ -1,0 +1,18 @@
+{
+	"name": "Saddled Black Worg",
+	"variant": "Black",
+	"npcs": {
+		"17280": {
+			"name": "Shattered Hand Warhound"
+		},
+		"17669": {
+			"name": "Rabid Warhound"
+		},
+		"22946": {
+			"name": "Shadowmoon War Hound"
+		},
+		"23083": {
+			"name": "Shadowmoon Riding Hound"
+		}
+	}
+}

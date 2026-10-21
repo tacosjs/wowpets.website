@@ -1,0 +1,18 @@
+{
+	"name": "Brown Serpent",
+	"variant": "Brown",
+	"npcs": {
+		"28011": {
+			"name": "Emperor Cobra"
+		},
+		"40657": {
+			"name": "Basking Cobra"
+		},
+		"52173": {
+			"name": "Razzashi Serpent"
+		},
+		"52224": {
+			"name": "Jungle Serpent"
+		}
+	}
+}

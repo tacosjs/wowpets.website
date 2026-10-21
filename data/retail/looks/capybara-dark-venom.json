@@ -1,0 +1,22 @@
+{
+	"id": "capybara-dark-venom",
+	"family": "rodent",
+	"modelGroup": "capybaras",
+	"npcs": [
+		{
+			"id": 261482,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "zailzar-span"
+				}
+			]
+		}
+	]
+}

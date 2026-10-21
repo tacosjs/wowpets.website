@@ -1,0 +1,51 @@
+{
+	"name": "Teal-Black Raven",
+	"variant": "Teal-Black",
+	"npcs": {
+		"65629": {
+			"name": "Upland Raven"
+		},
+		"94718": {
+			"name": "Greater Raven"
+		},
+		"100411": {
+			"name": "Ravenous Stormcrow"
+		},
+		"108927": {
+			"name": "Gluttonous Raven"
+		},
+		"110846": {
+			"name": "Cove Raven"
+		},
+		"111629": {
+			"name": "Runecrazed Raven"
+		},
+		"120386": {
+			"name": "Scavenging Crow"
+		},
+		"124382": {
+			"name": "Bonepicker Raven"
+		},
+		"124921": {
+			"name": "Harbor Raven"
+		},
+		"126695": {
+			"name": "Baleful Raven"
+		},
+		"134774": {
+			"name": "Hexed Raven"
+		},
+		"135574": {
+			"name": "Coastal Raven"
+		},
+		"145065": {
+			"name": "Fledgling Nightwing"
+		},
+		"145067": {
+			"name": "Shadefeather Hatchling"
+		},
+		"180252": {
+			"name": "Anima-Starved Soulfeaster"
+		}
+	}
+}

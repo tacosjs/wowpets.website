@@ -1,0 +1,13 @@
+{
+	"name": "Black Basilisk w/Blue Fringes",
+	"variant": "Black w/ Blue Crest",
+	"npcs": {
+		"5935": {
+			"name": "Ironeye the Invincible"
+		},
+		"55598": {
+			"name": "Krystal",
+			"title": "Please Avoid Eye Contact"
+		}
+	}
+}

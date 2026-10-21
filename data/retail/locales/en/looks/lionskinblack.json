@@ -1,0 +1,19 @@
+{
+	"name": "Black Lion",
+	"variant": "Black",
+	"npcs": {
+		"5828": {
+			"name": "Humar The Pridelord"
+		},
+		"28097": {
+			"name": "Pitch"
+		},
+		"49960": {
+			"name": "Hobbes",
+			"title": "Matt's Pet"
+		},
+		"50818": {
+			"name": "The Dark Prowler"
+		}
+	}
+}

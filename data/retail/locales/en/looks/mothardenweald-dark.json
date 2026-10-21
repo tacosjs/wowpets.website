@@ -1,0 +1,34 @@
+{
+	"name": "Purple-Black Ardenmoth",
+	"variant": "Purple-Black",
+	"npcs": {
+		"155483": {
+			"name": "Faeleaf Shimmerwing"
+		},
+		"164862": {
+			"name": "Weald Shimmermoth"
+		},
+		"166019": {
+			"name": "Shimmermoth"
+		},
+		"168085": {
+			"name": "Duster",
+			"title": "Tinybell's Pet"
+		},
+		"169798": {
+			"name": "Illusory Ardenmoth"
+		},
+		"170526": {
+			"name": "Silky Ardenmoth"
+		},
+		"174248": {
+			"name": "Ardenmoth"
+		},
+		"174713": {
+			"name": "Twilight Glitterwing"
+		},
+		"182343": {
+			"name": "Placid Ardenmoth"
+		}
+	}
+}

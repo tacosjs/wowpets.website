@@ -1,0 +1,44 @@
+{
+	"id": "saptor-brown",
+	"family": "raptor",
+	"modelGroup": "saptors",
+	"npcs": [
+		{
+			"id": 256268,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar"
+				}
+			]
+		},
+		{
+			"id": 250170,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		237201,
+		242403,
+		249285,
+		248470,
+		249508,
+		249165,
+		246392
+	]
+}

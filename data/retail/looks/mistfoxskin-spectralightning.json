@@ -1,0 +1,22 @@
+{
+	"id": "mistfoxskin-spectralightning",
+	"family": "spiritbeast",
+	"modelGroup": "spiritfoxes",
+	"npcs": [
+		{
+			"id": 118244,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 60
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "duskwood"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"id": "tigerskinblack-tigergem",
+	"family": "cat",
+	"modelGroup": "hunchedcats",
+	"npcs": [
+		{
+			"id": 34034,
+			"tameable": true,
+			"level": {
+				"min": 31,
+				"max": 31
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ulduar"
+				}
+			]
+		},
+		{
+			"id": 52345,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zulgurub"
+				}
+			]
+		},
+		{
+			"id": 34014,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "ulduar"
+				}
+			]
+		},
+		{
+			"id": 52061,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zulgurub"
+				}
+			]
+		}
+	]
+}

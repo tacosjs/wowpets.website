@@ -1,0 +1,37 @@
+{
+	"id": "faeriedragon2-ghost",
+	"family": "lesserdragonkin",
+	"modelGroup": "feydarters",
+	"npcs": [
+		{
+			"id": 59788,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-jade-forest",
+					"area": "woods-of-the-lost"
+				}
+			]
+		},
+		{
+			"id": 62753,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "townlong-steppes",
+					"area": "shanze-dao"
+				}
+			]
+		}
+	]
+}

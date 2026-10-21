@@ -1,0 +1,48 @@
+{
+	"id": "emeralddreamstag-green-antlers2",
+	"family": "stag",
+	"modelGroup": "dreamstags",
+	"npcs": [
+		{
+			"id": 211370,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "meandering-rootlands"
+				}
+			]
+		},
+		{
+			"id": 210596,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "meandering-rootlands"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		208231,
+		211990,
+		216699,
+		212061,
+		210774,
+		211767,
+		211347,
+		209492,
+		210976
+	]
+}

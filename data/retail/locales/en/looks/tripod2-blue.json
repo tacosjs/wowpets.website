@@ -1,0 +1,21 @@
+{
+	"name": "Blue Mirestalker",
+	"variant": "Blue",
+	"npcs": {
+		"248890": {
+			"name": "Wandering Stalker"
+		},
+		"249166": {
+			"name": "Mist Stalker"
+		},
+		"254203": {
+			"name": "Scavenging Stalker"
+		},
+		"256380": {
+			"name": "Vale Fogstalker"
+		},
+		"264326": {
+			"name": "Fungal Stalker"
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Tan Wasp",
+	"variant": "Tan",
+	"npcs": {
+		"15236": {
+			"name": "Vekniss Wasp"
+		},
+		"48179": {
+			"name": "Silithid Wasp"
+		},
+		"50897": {
+			"name": "Ffexk the Dunestalker"
+		}
+	}
+}

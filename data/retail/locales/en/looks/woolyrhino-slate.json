@@ -1,0 +1,18 @@
+{
+	"name": "Grey-Black Woolly Rhino",
+	"variant": "Grey-Black",
+	"npcs": {
+		"25489": {
+			"name": "Wooly Rhino Bull"
+		},
+		"28288": {
+			"name": "Farunn"
+		},
+		"30445": {
+			"name": "Ice Steppe Bull"
+		},
+		"50995": {
+			"name": "Bruiser"
+		}
+	}
+}

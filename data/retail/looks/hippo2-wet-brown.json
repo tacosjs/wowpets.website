@@ -1,0 +1,108 @@
+{
+	"id": "hippo2-wet-brown",
+	"family": "riverbeast",
+	"modelGroup": "stockyriverbeasts",
+	"npcs": [
+		{
+			"id": 133896,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "whistlebloom-oasis"
+				}
+			]
+		},
+		{
+			"id": 133897,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "whistlebloom-oasis"
+				}
+			]
+		},
+		{
+			"id": 130771,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar"
+				}
+			]
+		},
+		{
+			"id": 128300,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "port-of-zemlan"
+				}
+			]
+		},
+		{
+			"id": 187620,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "restless-wetlands"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		124084,
+		123731,
+		190144,
+		192594,
+		194075,
+		194145,
+		191686,
+		194079,
+		192597,
+		196017,
+		191684,
+		191687,
+		194144,
+		194078,
+		189469,
+		189468,
+		189465,
+		189463,
+		235013,
+		123736,
+		126628,
+		187467,
+		187462,
+		190301,
+		192596
+	]
+}

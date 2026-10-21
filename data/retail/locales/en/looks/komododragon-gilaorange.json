@@ -1,0 +1,9 @@
+{
+	"name": "Black & Orange Saurolisk",
+	"variant": "Black & Orange",
+	"npcs": {
+		"124301": {
+			"name": "Saurolisk Matriarch"
+		}
+	}
+}

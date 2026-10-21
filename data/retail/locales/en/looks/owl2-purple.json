@@ -1,0 +1,24 @@
+{
+	"name": "Purple Warden Owl",
+	"variant": "Purple",
+	"npcs": {
+		"95769": {
+			"name": "Mindshattered Screecher"
+		},
+		"103811": {
+			"name": "Starclutch Hatchling"
+		},
+		"103841": {
+			"name": "Shadowquill"
+		},
+		"109809": {
+			"name": "Deepwoods Owl"
+		},
+		"112336": {
+			"name": "Meredil Glider"
+		},
+		"112421": {
+			"name": "Moist Owlette"
+		}
+	}
+}

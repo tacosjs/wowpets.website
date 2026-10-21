@@ -1,0 +1,10 @@
+{
+	"id": "giantbeastmount-green",
+	"family": "oxen",
+	"modelGroup": "saddledtauralus",
+	"npcs": [],
+	"alsoNpcs": [
+		175478,
+		164833
+	]
+}

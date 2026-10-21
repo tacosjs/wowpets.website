@@ -1,0 +1,82 @@
+{
+	"id": "quilin-jade",
+	"family": "stonehound",
+	"modelGroup": "quilen",
+	"npcs": [
+		{
+			"id": 66772,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "greenstone-village"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 157290,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms",
+					"area": "ruins-rise"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 139475,
+			"tameable": false,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 64686,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms",
+					"area": "the-silent-sanctuary"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 63092,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mogushan-palace"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Saddled Blue Skeletal Horse",
+	"variant": "Saddled Blue Skeletal Horse",
+	"npcs": {
+		"88141": {
+			"name": "Skeletal Horse"
+		}
+	}
+}

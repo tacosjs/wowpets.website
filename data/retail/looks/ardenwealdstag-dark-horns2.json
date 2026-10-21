@@ -1,0 +1,28 @@
+{
+	"id": "ardenwealdstag-dark-horns2",
+	"family": "stag",
+	"modelGroup": "runestags",
+	"npcs": [
+		{
+			"id": 170674,
+			"tameable": true,
+			"level": {
+				"min": 57,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "tirna-noch-forests-edge"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		166966,
+		159030,
+		165907,
+		170145
+	]
+}

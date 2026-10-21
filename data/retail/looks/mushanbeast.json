@@ -1,0 +1,77 @@
+{
+	"id": "mushanbeast",
+	"family": "scalehide",
+	"modelGroup": "mushan",
+	"npcs": [
+		{
+			"id": 58895,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-jade-forest",
+					"area": "murky-bank"
+				}
+			]
+		},
+		{
+			"id": 65627,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds",
+					"area": "the-wild-plains"
+				}
+			]
+		},
+		{
+			"id": 56523,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds"
+				}
+			]
+		},
+		{
+			"id": 62346,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds",
+					"area": "rumbling-terrace"
+				}
+			]
+		},
+		{
+			"id": 63568,
+			"tameable": false,
+			"level": {
+				"min": 37,
+				"max": 37
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "heart-of-fear",
+					"area": "amber-research-sanctum"
+				}
+			]
+		}
+	]
+}

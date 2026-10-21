@@ -1,0 +1,9 @@
+{
+	"name": "Purple Gormling",
+	"variant": "Purple Gormling",
+	"npcs": {
+		"158426": {
+			"name": "Gormling Nibbler"
+		}
+	}
+}

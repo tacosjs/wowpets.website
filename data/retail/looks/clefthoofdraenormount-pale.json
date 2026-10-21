@@ -1,0 +1,24 @@
+{
+	"id": "clefthoofdraenormount-pale",
+	"family": "clefthoof",
+	"modelGroup": "draenorsaddledclefthooves",
+	"npcs": [
+		{
+			"id": 72881,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		76576
+	]
+}

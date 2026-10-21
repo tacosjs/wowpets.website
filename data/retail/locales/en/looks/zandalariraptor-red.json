@@ -1,0 +1,27 @@
+{
+	"name": "Red Ravasaur",
+	"variant": "Red",
+	"npcs": {
+		"127869": {
+			"name": "Coastal Scrounger"
+		},
+		"127870": {
+			"name": "Scrounger Youngling"
+		},
+		"127873": {
+			"name": "Scrounger Patriarch"
+		},
+		"130722": {
+			"name": "Fenclaw Stalker"
+		},
+		"131624": {
+			"name": "Xibalan Ravasaur"
+		},
+		"132071": {
+			"name": "Ripta"
+		},
+		"149147": {
+			"name": "N'chala the Egg Thief"
+		}
+	}
+}

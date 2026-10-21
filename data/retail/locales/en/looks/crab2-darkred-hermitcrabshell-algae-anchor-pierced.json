@@ -1,0 +1,15 @@
+{
+	"name": "Pierced Hermit Crab w/ Anchor",
+	"variant": "Pierced w/ Anchor",
+	"npcs": {
+		"200907": {
+			"name": "Karkinus the Capsizer"
+		},
+		"228547": {
+			"name": "Slaughtershell"
+		},
+		"236892": {
+			"name": "Treasure Crab"
+		}
+	}
+}

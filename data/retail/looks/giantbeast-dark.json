@@ -1,0 +1,51 @@
+{
+	"id": "giantbeast-dark",
+	"family": "oxen",
+	"modelGroup": "tauralus",
+	"npcs": [
+		{
+			"id": 171383,
+			"tameable": true,
+			"level": {
+				"min": 53,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "the-stabbing-wastes"
+				}
+			]
+		},
+		{
+			"id": 170194,
+			"tameable": true,
+			"level": {
+				"min": 54,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "ossein-foundry"
+				}
+			]
+		},
+		{
+			"id": 162536,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "theater-of-pain"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"id": "lavasnail-red",
+	"family": "carapid",
+	"modelGroup": "magmasnails",
+	"npcs": [
+		{
+			"id": 200806,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "igiras-watch-zaqali-caldera"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		184851,
+		191628,
+		186833,
+		193139,
+		225393,
+		214724,
+		225391
+	]
+}

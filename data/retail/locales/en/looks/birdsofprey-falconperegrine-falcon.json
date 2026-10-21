@@ -1,0 +1,34 @@
+{
+	"name": "Grey Falcon",
+	"variant": "Grey",
+	"npcs": {
+		"127780": {
+			"name": "Alpine Falcon"
+		},
+		"128188": {
+			"name": "Alpine Falcon"
+		},
+		"128852": {
+			"name": "Chillwind Hawk"
+		},
+		"131518": {
+			"name": "Cursed Falcon",
+			"title": "Hexthralled Falconer's Companion"
+		},
+		"132240": {
+			"name": "Cursed Falcon"
+		},
+		"133988": {
+			"name": "Cursed Gyrfalcon"
+		},
+		"161125": {
+			"name": "Cursed Falcon"
+		},
+		"179905": {
+			"name": "Stringfellowe"
+		},
+		"218201": {
+			"name": "Circling Sharpbeak"
+		}
+	}
+}

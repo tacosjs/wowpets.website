@@ -1,0 +1,12 @@
+{
+	"name": "Burgundy Basilisk w/Jade Fringes",
+	"variant": "Burgundy w/Jade",
+	"npcs": {
+		"689": {
+			"name": "Crystal Spine Basilisk"
+		},
+		"40403": {
+			"name": "Spinescale Matriarch"
+		}
+	}
+}

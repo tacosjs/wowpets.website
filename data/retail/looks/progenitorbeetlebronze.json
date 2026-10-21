@@ -1,0 +1,36 @@
+{
+	"id": "progenitorbeetlebronze",
+	"family": "beetle",
+	"modelGroup": "scarabids",
+	"npcs": [
+		{
+			"id": 178155,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis"
+				}
+			]
+		},
+		{
+			"id": 185366,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "sepulcher-of-the-first-ones",
+					"area": "ephemeral-plains"
+				}
+			]
+		}
+	]
+}

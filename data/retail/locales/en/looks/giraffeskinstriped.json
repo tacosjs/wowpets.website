@@ -1,0 +1,9 @@
+{
+	"name": "Light Giraffe",
+	"variant": "Light",
+	"npcs": {
+		"55602": {
+			"name": "Urefu"
+		}
+	}
+}

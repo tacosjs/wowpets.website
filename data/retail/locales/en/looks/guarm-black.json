@@ -1,0 +1,22 @@
+{
+	"name": "Black Helhound w/ Chains",
+	"variant": "Black w/ Chains",
+	"npcs": {
+		"157662": {
+			"name": "Unfallen Warhound"
+		},
+		"157665": {
+			"name": "Unfallen Warhound"
+		},
+		"164847": {
+			"name": "Requisitioner Packhound"
+		},
+		"172388": {
+			"name": "Chosen Warhound"
+		},
+		"177445": {
+			"name": "Vanargun",
+			"title": "Child of Guarm"
+		}
+	}
+}

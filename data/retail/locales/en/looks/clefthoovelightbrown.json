@@ -1,0 +1,9 @@
+{
+	"name": "Brown Clefthoof",
+	"variant": "Brown",
+	"npcs": {
+		"17132": {
+			"name": "Clefthoof Bull"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Purple Firefly w/ Yellow Glow",
+	"variant": "Purple w/ Yellow Glow",
+	"npcs": {
+		"109025": {
+			"name": "Moonglow Locust"
+		}
+	}
+}

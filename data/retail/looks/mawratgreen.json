@@ -1,0 +1,26 @@
+{
+	"id": "mawratgreen",
+	"family": "rodent",
+	"modelGroup": "mawrats",
+	"npcs": [
+		{
+			"id": 174712,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-maw",
+					"area": "ruins-cradle"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		175811,
+		175826
+	]
+}

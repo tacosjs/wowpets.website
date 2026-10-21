@@ -1,0 +1,9 @@
+{
+	"name": "Saddled Grey Maned Wolf",
+	"variant": "Grey",
+	"npcs": {
+		"77845": {
+			"name": "Ironmarch War Wolf"
+		}
+	}
+}

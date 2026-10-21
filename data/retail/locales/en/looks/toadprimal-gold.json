@@ -1,0 +1,15 @@
+{
+	"name": "Yellow Hornswog",
+	"variant": "Yellow",
+	"npcs": {
+		"187324": {
+			"name": "Time-Charged Hornswog"
+		},
+		"196403": {
+			"name": "Obstructed Hornswog"
+		},
+		"200276": {
+			"name": "Invasive Swoglet"
+		}
+	}
+}

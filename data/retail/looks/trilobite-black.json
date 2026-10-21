@@ -1,0 +1,123 @@
+{
+	"id": "trilobite-black",
+	"family": "carapid",
+	"modelGroup": "krolusks",
+	"npcs": [
+		{
+			"id": 133842,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "dolwatha"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 136335,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "the-brine-basin"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 136548,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "the-bone-pit-the-blistering-waste"
+				}
+			]
+		},
+		{
+			"id": 242374,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "voidscar-cavern"
+				}
+			]
+		},
+		{
+			"id": 204189,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "glimmerogg"
+				}
+			]
+		},
+		{
+			"id": 246608,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "fracture-of-laacuna"
+				}
+			]
+		},
+		{
+			"id": 242237,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "voidscar-cavern"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		223056,
+		223074
+	]
+}

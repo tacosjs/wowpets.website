@@ -1,0 +1,31 @@
+{
+	"name": "White Draenor Clefthoof",
+	"variant": "White",
+	"npcs": {
+		"72162": {
+			"name": "Wooly Clefthoof"
+		},
+		"75680": {
+			"name": "Frosthoof"
+		},
+		"75771": {
+			"name": "Trained Clefthoof"
+		},
+		"76389": {
+			"name": "Thunderhoof",
+			"title": "Beastmaster Trokar's Companion"
+		},
+		"76710": {
+			"name": "Ashmane Clefthoof"
+		},
+		"77513": {
+			"name": "Coldstomp the Griever"
+		},
+		"78574": {
+			"name": "Ancient Leatherhide"
+		},
+		"78920": {
+			"name": "Icehoof Bull"
+		}
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"id": "mole-dark-nose0-teeth0-bumps0",
+	"family": "rodent",
+	"modelGroup": "moles",
+	"npcs": [
+		{
+			"id": 227183,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "wildcamp-orlay"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		227346,
+		219623,
+		225482,
+		213973,
+		227184,
+		211977
+	]
+}

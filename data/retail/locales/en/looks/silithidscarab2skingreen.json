@@ -1,0 +1,15 @@
+{
+	"name": "Green & Blue Beetle",
+	"variant": "Green & Blue",
+	"npcs": {
+		"3253": {
+			"name": "Silithid Harvester"
+		},
+		"140327": {
+			"name": "Queen Stonehusk"
+		},
+		"140331": {
+			"name": "Deeptunnel Ambusher"
+		}
+	}
+}

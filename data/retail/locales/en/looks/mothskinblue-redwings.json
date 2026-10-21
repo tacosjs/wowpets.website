@@ -1,0 +1,9 @@
+{
+	"name": "Blue Moth w/Green Wings",
+	"variant": "Green & Blue",
+	"npcs": {
+		"50864": {
+			"name": "Thicket"
+		}
+	}
+}

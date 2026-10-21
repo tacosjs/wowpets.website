@@ -1,0 +1,10 @@
+{
+	"id": "flymaldraxxus-green",
+	"family": "wasp",
+	"modelGroup": "corpseflies",
+	"npcs": [],
+	"alsoNpcs": [
+		181211,
+		180096
+	]
+}

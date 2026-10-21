@@ -1,0 +1,26 @@
+{
+	"id": "silithid02",
+	"family": "aqiri",
+	"modelGroup": "ruggedsilithids",
+	"npcs": [
+		{
+			"id": 132584,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "silithus",
+					"area": "hivezora"
+				}
+			],
+			"keepsName": true
+		}
+	],
+	"alsoNpcs": [
+		183940
+	]
+}

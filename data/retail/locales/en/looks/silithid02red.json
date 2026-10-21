@@ -1,0 +1,12 @@
+{
+	"name": "Rugged Red Silithid",
+	"variant": "Red",
+	"npcs": {
+		"131892": {
+			"name": "Silithid Sentinel"
+		},
+		"134503": {
+			"name": "Silithid Warrior"
+		}
+	}
+}

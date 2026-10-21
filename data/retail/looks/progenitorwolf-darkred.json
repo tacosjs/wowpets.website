@@ -1,0 +1,41 @@
+{
+	"id": "progenitorwolf-darkred",
+	"family": "wolf",
+	"modelGroup": "lupines",
+	"npcs": [
+		{
+			"id": 182419,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "dimensional-falls-cavern"
+				}
+			]
+		},
+		{
+			"id": 182273,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		184403,
+		181484,
+		182077
+	]
+}

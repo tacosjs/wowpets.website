@@ -1,0 +1,15 @@
+{
+	"name": "Robotic Rabbit",
+	"variant": "mechanicalrabbit",
+	"npcs": {
+		"67544": {
+			"name": "Scout-o-Meter Mk I"
+		},
+		"107431": {
+			"name": "Weaponized Rabbot"
+		},
+		"167337": {
+			"name": "Mechanical Bunny"
+		}
+	}
+}

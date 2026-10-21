@@ -1,0 +1,61 @@
+{
+	"id": "poisondartfrog-yellow",
+	"family": "hopper",
+	"modelGroup": "diretoads",
+	"npcs": [
+		{
+			"id": 256853,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "suncrown-tree"
+				}
+			]
+		},
+		{
+			"id": 256854,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "lake-eldendar"
+				}
+			]
+		},
+		{
+			"id": 264502,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "the-forum"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		250143,
+		243171,
+		256851,
+		247011,
+		253305,
+		249358,
+		245946
+	]
+}

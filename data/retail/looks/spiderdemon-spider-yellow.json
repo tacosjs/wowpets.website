@@ -1,0 +1,235 @@
+{
+	"id": "spiderdemon-spider-yellow",
+	"family": "spider",
+	"modelGroup": "demonspiders",
+	"npcs": [
+		{
+			"id": 97677,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "vault-of-the-wardens",
+					"area": "tomb-of-the-penitent"
+				}
+			]
+		},
+		{
+			"id": 118721,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "broken-shore",
+					"area": "shadow-fracture"
+				}
+			]
+		},
+		{
+			"id": 120071,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna"
+				}
+			]
+		},
+		{
+			"id": 107102,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna",
+					"area": "felsurge-nest"
+				}
+			]
+		},
+		{
+			"id": 107103,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna",
+					"area": "felsurge-nest"
+				}
+			]
+		},
+		{
+			"id": 118706,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "cathedral-of-eternal-night",
+					"area": "path-of-illumination"
+				}
+			]
+		},
+		{
+			"id": 120016,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "cathedral-of-eternal-night",
+					"area": "path-of-illumination"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 112039,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-emerald-nightmare",
+					"area": "mulgore-the-emerald-nightmare"
+				}
+			]
+		},
+		{
+			"id": 117509,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "broken-shore",
+					"area": "the-creeping-grotto"
+				}
+			]
+		},
+		{
+			"id": 108542,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-nightmare",
+					"area": "mulgore-the-emerald-nightmare"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 117354,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "broken-shore",
+					"area": "the-creeping-grotto"
+				}
+			]
+		},
+		{
+			"id": 117101,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "broken-shore",
+					"area": "bybeen-lair"
+				}
+			]
+		},
+		{
+			"id": 125547,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 46
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-burning-throne",
+					"area": "halls-of-the-boundless-reach"
+				}
+			]
+		},
+		{
+			"id": 123702,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-burning-throne",
+					"area": "antorus"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		119721,
+		107811
+	]
+}

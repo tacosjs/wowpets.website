@@ -1,0 +1,54 @@
+{
+	"id": "giantdragonturtle2-bronze",
+	"family": "turtle",
+	"modelGroup": "stonedragonturtles",
+	"npcs": [
+		{
+			"id": 163556,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "garden-of-edenia"
+				}
+			]
+		},
+		{
+			"id": 170005,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "bastion"
+				}
+			]
+		},
+		{
+			"id": 210508,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "springrain-river"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		207285
+	]
+}

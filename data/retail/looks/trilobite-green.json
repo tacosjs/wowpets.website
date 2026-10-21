@@ -1,0 +1,54 @@
+{
+	"id": "trilobite-green",
+	"family": "carapid",
+	"modelGroup": "krolusks",
+	"npcs": [
+		{
+			"id": 126237,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "wailing-tideway-and-the-umber-shore"
+				}
+			]
+		},
+		{
+			"id": 134616,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "temple-of-sethraliss"
+				}
+			]
+		},
+		{
+			"id": 264785,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "temple-of-sethraliss"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		140585,
+		229625
+	]
+}

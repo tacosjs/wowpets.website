@@ -1,0 +1,24 @@
+{
+	"name": "Teal & Purple Beetle",
+	"variant": "Teal & Purple",
+	"npcs": {
+		"5451": {
+			"name": "Hazzali Swarmer"
+		},
+		"11721": {
+			"name": "Hive'Ashi Worker"
+		},
+		"15461": {
+			"name": "Shrieker Scarab"
+		},
+		"140329": {
+			"name": "Vy'lix the Corpse-Mauler"
+		},
+		"140332": {
+			"name": "Chitterbore"
+		},
+		"168196": {
+			"name": "Virulent Pest"
+		}
+	}
+}

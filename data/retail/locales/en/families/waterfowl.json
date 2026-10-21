@@ -1,0 +1,14 @@
+{
+	"name": "Waterfowl",
+	"modelGroups": {
+		"ducks": {
+			"name": "Ducks"
+		},
+		"cranes": {
+			"name": "Cranes"
+		},
+		"penguins": {
+			"name": "Penguins"
+		}
+	}
+}

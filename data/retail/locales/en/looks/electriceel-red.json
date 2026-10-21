@@ -1,0 +1,12 @@
+{
+	"name": "Red Electric Eel",
+	"variant": "Red Electric Eel",
+	"npcs": {
+		"250113": {
+			"name": "Voltaic Eel"
+		},
+		"250687": {
+			"name": "Zapgut Lunker"
+		}
+	}
+}

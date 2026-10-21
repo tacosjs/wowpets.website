@@ -1,0 +1,36 @@
+{
+	"id": "boggorm-blue",
+	"family": "worm",
+	"modelGroup": "tidalworms",
+	"npcs": [
+		{
+			"id": 250157,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "maisara-deeps"
+				}
+			]
+		},
+		{
+			"id": 249012,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maisara-caverns"
+				}
+			]
+		}
+	]
+}

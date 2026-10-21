@@ -1,0 +1,32 @@
+{
+	"id": "fox",
+	"icon": "ability_hunter_aspectofthefox",
+	"spec": "cunning",
+	"exotic": false,
+	"diet": [
+		"fish",
+		"fruit",
+		"meat"
+	],
+	"abilities": {
+		"basic": "bite",
+		"family": [
+			"agile-reflexes",
+			"play"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "thorntails"
+		},
+		{
+			"id": "vulpin"
+		},
+		{
+			"id": "foxes"
+		},
+		{
+			"id": "wiryfoxes"
+		}
+	]
+}

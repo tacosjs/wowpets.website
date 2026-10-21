@@ -1,0 +1,39 @@
+{
+	"id": "beetle",
+	"icon": "inv_misc_ahnqirajtrinket_01",
+	"spec": "tenacity",
+	"exotic": false,
+	"diet": [
+		"fruit",
+		"fungus"
+	],
+	"abilities": {
+		"basic": "bite",
+		"family": [
+			"harden-carapace"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "stagshells"
+		},
+		{
+			"id": "rhinocerosbeetles"
+		},
+		{
+			"id": "scarabids"
+		},
+		{
+			"id": "mawroaches"
+		},
+		{
+			"id": "aqirscarabs"
+		},
+		{
+			"id": "grandbeetles"
+		},
+		{
+			"id": "beetles"
+		}
+	]
+}

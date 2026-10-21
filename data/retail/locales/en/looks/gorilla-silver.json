@@ -1,0 +1,43 @@
+{
+	"name": "Steel Grey Gorilla",
+	"variant": "Steel Grey",
+	"npcs": {
+		"1511": {
+			"name": "Enraged Silverback Gorilla"
+		},
+		"1558": {
+			"name": "Silverback Patriarch"
+		},
+		"6513": {
+			"name": "Un'Goro Stomper"
+		},
+		"6514": {
+			"name": "Un'Goro Gorilla"
+		},
+		"6516": {
+			"name": "Un'Goro Thunderer"
+		},
+		"68361": {
+			"name": "Dizzy"
+		},
+		"130543": {
+			"name": "Silverback Thumpknuckle"
+		},
+		"130948": {
+			"name": "King Da'ka",
+			"title": "Lord of the Mists"
+		},
+		"130954": {
+			"name": "Da'kani Highbrow"
+		},
+		"140076": {
+			"name": "Knucklebump Silverback"
+		},
+		"140078": {
+			"name": "Knucklebump Gorilla"
+		},
+		"143782": {
+			"name": "Knucklebump Gorilla"
+		}
+	}
+}

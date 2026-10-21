@@ -1,0 +1,9 @@
+{
+	"name": "Armoured Void-Touched Hawkstrider",
+	"variant": "Armoured Void-Touched",
+	"npcs": {
+		"261337": {
+			"name": "Voidsinged Hawkstrider"
+		}
+	}
+}

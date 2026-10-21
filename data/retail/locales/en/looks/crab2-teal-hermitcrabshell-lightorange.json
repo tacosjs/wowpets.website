@@ -1,0 +1,9 @@
+{
+	"name": "Teal Hermit Crab w/ Pale Orange & Blue Shell",
+	"variant": "Teal",
+	"npcs": {
+		"211045": {
+			"name": "Snapping Crab"
+		}
+	}
+}

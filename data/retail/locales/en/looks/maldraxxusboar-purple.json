@@ -1,0 +1,9 @@
+{
+	"name": "Purple Death Boar",
+	"variant": "Purple",
+	"npcs": {
+		"158752": {
+			"name": "Predatory Bloodtusk"
+		}
+	}
+}

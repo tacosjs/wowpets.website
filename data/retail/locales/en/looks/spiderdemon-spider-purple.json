@@ -1,0 +1,54 @@
+{
+	"name": "Purple Demon Spider",
+	"variant": "Purple",
+	"npcs": {
+		"98759": {
+			"name": "Vicious Manafang"
+		},
+		"105756": {
+			"name": "Leyline Spiderling"
+		},
+		"105876": {
+			"name": "Enchanted Broodling"
+		},
+		"107398": {
+			"name": "Moonfall Stalker"
+		},
+		"107440": {
+			"name": "Felsurge Hunter"
+		},
+		"107811": {
+			"name": "Vile Weaver"
+		},
+		"110376": {
+			"name": "Leyline Spiderling"
+		},
+		"110966": {
+			"name": "Vicious Manafang"
+		},
+		"111456": {
+			"name": "Spiderling"
+		},
+		"111980": {
+			"name": "Nightmother"
+		},
+		"112858": {
+			"name": "Hungry Spiderling"
+		},
+		"113974": {
+			"name": "Leyline Spiderling"
+		},
+		"114692": {
+			"name": "Leyline Spiderling"
+		},
+		"120666": {
+			"name": "Legion Webspewer"
+		},
+		"130903": {
+			"name": "Creepy Spider"
+		},
+		"134296": {
+			"name": "Lucille"
+		}
+	}
+}

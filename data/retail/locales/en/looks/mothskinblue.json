@@ -1,0 +1,21 @@
+{
+	"name": "Blue & Magenta Moth",
+	"variant": "Blue & Magenta",
+	"npcs": {
+		"17349": {
+			"name": "Blue Flutterer"
+		},
+		"17350": {
+			"name": "Royal Blue Flutterer"
+		},
+		"20611": {
+			"name": "Shimmerwing Moth"
+		},
+		"57421": {
+			"name": "Mothallus"
+		},
+		"146321": {
+			"name": "Tattered Silkwing"
+		}
+	}
+}

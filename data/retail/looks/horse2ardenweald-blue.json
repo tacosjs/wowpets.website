@@ -1,0 +1,36 @@
+{
+	"id": "horse2ardenweald-blue",
+	"family": "courser",
+	"modelGroup": "ardenwealddreamrunners",
+	"npcs": [
+		{
+			"id": 165685,
+			"tameable": true,
+			"level": {
+				"min": 55,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "spirit-glen"
+				}
+			]
+		},
+		{
+			"id": 172966,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald"
+				}
+			]
+		}
+	]
+}

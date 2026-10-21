@@ -1,0 +1,24 @@
+{
+	"name": "Grey Toothed Larva",
+	"variant": "Grey Toothed Larva",
+	"npcs": {
+		"26467": {
+			"name": "Jormungar Tunneler"
+		},
+		"41042": {
+			"name": "Giant Sea Grub"
+		},
+		"83534": {
+			"name": "Stoneshard Grubling"
+		},
+		"92745": {
+			"name": "Demonfang Larva"
+		},
+		"95023": {
+			"name": "Diseased Grub"
+		},
+		"111697": {
+			"name": "Felblood Maggot"
+		}
+	}
+}

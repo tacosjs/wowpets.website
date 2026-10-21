@@ -1,0 +1,9 @@
+{
+	"name": "Blue Amazard",
+	"variant": "Blue",
+	"npcs": {
+		"250150": {
+			"name": "Terrorspine Amazard"
+		}
+	}
+}

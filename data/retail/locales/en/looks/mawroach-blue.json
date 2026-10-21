@@ -1,0 +1,15 @@
+{
+	"name": "Blue Maw Roach",
+	"variant": "Blue",
+	"npcs": {
+		"169747": {
+			"name": "Maw Roach"
+		},
+		"171525": {
+			"name": "Maw Roach Hatchling"
+		},
+		"172946": {
+			"name": "Maw Roach Hatchling"
+		}
+	}
+}

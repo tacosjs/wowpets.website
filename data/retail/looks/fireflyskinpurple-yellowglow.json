@@ -1,0 +1,22 @@
+{
+	"id": "fireflyskinpurple-yellowglow",
+	"family": "wasp",
+	"modelGroup": "fireflies",
+	"npcs": [
+		{
+			"id": 109025,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "twilight-vineyards"
+				}
+			]
+		}
+	]
+}

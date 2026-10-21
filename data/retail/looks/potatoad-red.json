@@ -1,0 +1,47 @@
+{
+	"id": "potatoad-red",
+	"family": "hopper",
+	"modelGroup": "potatoads",
+	"npcs": [
+		{
+			"id": 244326,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "ahlua-wetland"
+				}
+			]
+		},
+		{
+			"id": 249756,
+			"tameable": false,
+			"level": {
+				"min": 81,
+				"max": 91
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-blinding-vale"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		246715,
+		250185,
+		258090,
+		250273,
+		242755,
+		251915,
+		198029,
+		248471,
+		237204
+	]
+}

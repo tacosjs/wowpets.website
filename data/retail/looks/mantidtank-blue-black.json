@@ -1,0 +1,23 @@
+{
+	"id": "mantidtank-blue-black",
+	"family": "aqiri",
+	"modelGroup": "kunchong",
+	"npcs": [
+		{
+			"id": 64724,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "dread-wastes",
+					"area": "clutches-of-shekzeer"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

@@ -1,0 +1,102 @@
+{
+	"id": "spider-nightmare",
+	"family": "spider",
+	"modelGroup": "demonspiders",
+	"npcs": [
+		{
+			"id": 106311,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-emerald-nightmare",
+					"area": "mulgore-the-emerald-nightmare"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 111933,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-emerald-nightmare",
+					"area": "mulgore-the-emerald-nightmare"
+				}
+			]
+		},
+		{
+			"id": 111721,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-emerald-nightmare",
+					"area": "mulgore-the-emerald-nightmare"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 107459,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-emerald-nightmare",
+					"area": "mulgore-the-emerald-nightmare"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 113626,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-emerald-nightmare",
+					"area": "mulgore-the-emerald-nightmare"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

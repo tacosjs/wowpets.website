@@ -1,0 +1,27 @@
+{
+	"id": "decomposermediumwhite-face1",
+	"family": "carapid",
+	"modelGroup": "gorms",
+	"npcs": [
+		{
+			"id": 165398,
+			"tameable": true,
+			"level": {
+				"min": 56,
+				"max": 56
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "banks-of-life"
+				}
+			],
+			"keepsName": true
+		}
+	],
+	"alsoNpcs": [
+		169972,
+		169976
+	]
+}

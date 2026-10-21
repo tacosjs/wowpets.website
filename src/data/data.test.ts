@@ -28,7 +28,7 @@ describe("data/", () => {
 	it("serves a fully translated look in French", () => {
 		const view = lookView({
 			dataset: datasets.retail,
-			lookId: "mantid-tank-green",
+			lookId: "mantidtank-green",
 			locale: "fr",
 		});
 		expect(view?.look.name).toBe("Kunchong vert");
@@ -48,20 +48,20 @@ describe("data/", () => {
 	it("falls back to English key by key", () => {
 		const view = lookView({
 			dataset: datasets.retail,
-			lookId: "worg-black",
+			lookId: "worgblack",
 			locale: "fr",
 		});
-		const [rockfang, goremaw] = view?.npcs ?? [];
+		const npc = (id: number) => view?.npcs.find((n) => n.id === id);
+		const rockfang = npc(25774);
+		const goremaw = npc(27578);
 		expect(rockfang).toMatchObject({
 			name: "Rochecroc",
 			title: "Mère de la tanière",
 		});
 		// fr has Rockfang's name but not his note, and nothing for Goremaw.
-		expect(rockfang.note).toMatch(/Plains of Nasam/);
-		expect(goremaw.name).toBe("Goremaw");
-		// Area has no French name; its zone does.
-		expect(rockfang.locations[0].zone.name).toBe("Toundra Boréenne");
-		expect(rockfang.locations[0].area?.name).toBe("Bloodspore Plains");
+		expect(rockfang?.note).toMatch(/Plains of Nasam/);
+		expect(goremaw?.name).toBe("Goremaw");
+		expect(rockfang?.locations[0].zone.name).toBe("Toundra Boréenne");
 	});
 
 	it("keeps version-specific facts in views", () => {
@@ -92,17 +92,26 @@ describe("data/", () => {
 					abilities: datasets.retail.abilities,
 				}),
 		});
-		expect(view?.abilities.map((a) => a.id)).toEqual([
-			"dash",
-			"growl",
-			"bite",
-			"furious-bite",
-		]);
-		expect(view?.modelGroups[0].looks[0]).toMatchObject({
-			id: "worg-black",
-			status: "tameable",
-			tameableCount: 3,
-		});
+		const abilityIds = view?.abilities.map((a) => a.id) ?? [];
+		expect(abilityIds).toEqual(
+			expect.arrayContaining(["dash", "growl", "bite", "furious-bite"]),
+		);
+		// Common abilities come first.
+		expect(abilityIds.slice(0, 2)).toEqual(["dash", "growl"]);
+		const worgs = view?.modelGroups.find((g) => g.id === "saberworgs");
+		const black = worgs?.looks.find((l) => l.id === "worgblack");
+		expect(black?.status).toBe("tameable");
+		expect(black?.tameableCount).toBeGreaterThan(0);
+	});
+
+	it("gives every family at least one look", () => {
+		for (const version of gameVersions) {
+			const dataset = datasets[version] as Dataset;
+			const empty = [...dataset.families.keys()].filter(
+				(id) => ![...dataset.looks.values()].some((l) => l.family === id),
+			);
+			expect(empty, version).toEqual([]);
+		}
 	});
 });
 

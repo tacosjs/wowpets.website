@@ -1,0 +1,24 @@
+{
+	"id": "cosmicworm-red",
+	"family": "worm",
+	"modelGroup": "cosmicworms",
+	"npcs": [
+		{
+			"id": 246471,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "twilight-highlands"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		256408
+	]
+}

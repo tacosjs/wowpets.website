@@ -1,0 +1,9 @@
+{
+	"name": "Yellow Python",
+	"variant": "Yellow",
+	"npcs": {
+		"261375": {
+			"name": "Swarming Python"
+		}
+	}
+}

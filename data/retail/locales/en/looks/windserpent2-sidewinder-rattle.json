@@ -1,0 +1,33 @@
+{
+	"name": "Fawn Wind Serpent",
+	"variant": "Fawn",
+	"npcs": {
+		"4117": {
+			"name": "Cloud Serpent"
+		},
+		"5291": {
+			"name": "Hakkari Frostwing"
+		},
+		"5349": {
+			"name": "Arash-ethis"
+		},
+		"14234": {
+			"name": "Hayoc"
+		},
+		"26806": {
+			"name": "Guardian Serpent"
+		},
+		"29693": {
+			"name": "Serpent Defender"
+		},
+		"132412": {
+			"name": "Feathered Viper Hatchling"
+		},
+		"140341": {
+			"name": "Cloudscraper"
+		},
+		"140345": {
+			"name": "Stormscreech"
+		}
+	}
+}

@@ -1,0 +1,112 @@
+{
+	"id": "berserker-orange",
+	"family": "scalehide",
+	"modelGroup": "ultradons",
+	"npcs": [
+		{
+			"id": 242481,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "the-husk"
+				}
+			]
+		},
+		{
+			"id": 249620,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowguard-point"
+				}
+			]
+		},
+		{
+			"id": 247944,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "bastion-of-might"
+				}
+			]
+		},
+		{
+			"id": 244963,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "gnawing-reach"
+				}
+			]
+		},
+		{
+			"id": 244624,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "night-trench"
+				}
+			]
+		},
+		{
+			"id": 257115,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm"
+				}
+			]
+		},
+		{
+			"id": 257960,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		257955
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"name": "Primal Teal Ultradon",
+	"variant": "Primal Teal Ultradon",
+	"npcs": {
+		"235570": {
+			"name": "Sinewshredder"
+		},
+		"257482": {
+			"name": "Mammoth Ultradon"
+		},
+		"257962": {
+			"name": "Mammoth Ultradon"
+		},
+		"259369": {
+			"name": "Shackled Ultradon"
+		},
+		"262270": {
+			"name": "Ultradon Slayer"
+		}
+	}
+}

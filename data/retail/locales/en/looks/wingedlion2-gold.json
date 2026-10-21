@@ -1,0 +1,36 @@
+{
+	"name": "Gold & Teal Larion",
+	"variant": "Gold & Teal",
+	"npcs": {
+		"157697": {
+			"name": "Lentios"
+		},
+		"158081": {
+			"name": "Kala"
+		},
+		"158254": {
+			"name": "Kala"
+		},
+		"159612": {
+			"name": "Leonid"
+		},
+		"168613": {
+			"name": "Aurumane Larion"
+		},
+		"168617": {
+			"name": "Aurumane Patriarch"
+		},
+		"170325": {
+			"name": "Argentwing Larion"
+		},
+		"170659": {
+			"name": "Basilofos, King of the Hill"
+		},
+		"178357": {
+			"name": "Andira"
+		},
+		"178376": {
+			"name": "Battleready Larion"
+		}
+	}
+}

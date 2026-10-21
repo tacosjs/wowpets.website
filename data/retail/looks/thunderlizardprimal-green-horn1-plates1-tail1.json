@@ -1,0 +1,27 @@
+{
+	"id": "thunderlizardprimal-green-horn1-plates1-tail1",
+	"family": "scalehide",
+	"modelGroup": "primalthunderlizards",
+	"npcs": [
+		{
+			"id": 198815,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-forbidden-reach",
+					"area": "the-old-weyrn-grounds"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		191827,
+		193859,
+		193307
+	]
+}

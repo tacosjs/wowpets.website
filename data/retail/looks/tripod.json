@@ -1,0 +1,21 @@
+{
+	"id": "tripod",
+	"family": "waterstrider",
+	"modelGroup": "fenstriders",
+	"npcs": [
+		{
+			"id": 18134,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zangarmarsh"
+				}
+			]
+		}
+	]
+}

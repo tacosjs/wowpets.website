@@ -1,0 +1,27 @@
+{
+	"name": "Sickly White Bear",
+	"variant": "Sickly White",
+	"npcs": {
+		"26643": {
+			"name": "Rabid Grizzly"
+		},
+		"51962": {
+			"name": "Tirisfal Bear"
+		},
+		"95270": {
+			"name": "Bewitched Bear"
+		},
+		"102361": {
+			"name": "Boilback Bristlefur"
+		},
+		"140157": {
+			"name": "Rotclaw Cub-Eater"
+		},
+		"140158": {
+			"name": "Bilesoaked Rotclaw"
+		},
+		"142440": {
+			"name": "Yogursa"
+		}
+	}
+}

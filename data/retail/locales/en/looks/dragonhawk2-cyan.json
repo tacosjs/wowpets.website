@@ -1,0 +1,12 @@
+{
+	"name": "Greater Blue Dragonhawk",
+	"variant": "Blue",
+	"npcs": {
+		"232056": {
+			"name": "Territorial Dragonhawk"
+		},
+		"236891": {
+			"name": "Territorial Dragonhawk"
+		}
+	}
+}

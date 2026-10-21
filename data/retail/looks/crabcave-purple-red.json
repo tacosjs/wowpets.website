@@ -1,0 +1,9 @@
+{
+	"id": "crabcave-purple-red",
+	"family": "crab",
+	"modelGroup": "cavecrabs",
+	"npcs": [],
+	"alsoNpcs": [
+		239210
+	]
+}

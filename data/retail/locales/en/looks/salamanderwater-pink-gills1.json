@@ -1,0 +1,27 @@
+{
+	"name": "Pink Salamanther w/ Gills & Fins",
+	"variant": "Pink",
+	"npcs": {
+		"190389": {
+			"name": "Displaced Muckslider"
+		},
+		"193123": {
+			"name": "Steamgill"
+		},
+		"193163": {
+			"name": "Territorial Coastling"
+		},
+		"212144": {
+			"name": "Rosemale Salamanther"
+		},
+		"212502": {
+			"name": "Petaldancer Salamanther"
+		},
+		"217743": {
+			"name": "Leg Chewer"
+		},
+		"220775": {
+			"name": "Bleached Sandskitter"
+		}
+	}
+}

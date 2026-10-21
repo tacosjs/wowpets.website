@@ -1,0 +1,42 @@
+{
+	"id": "decomposermediumwhite-face3",
+	"family": "carapid",
+	"modelGroup": "gorms",
+	"npcs": [
+		{
+			"id": 165401,
+			"tameable": true,
+			"level": {
+				"min": 56,
+				"max": 56
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "banks-of-life"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 172083,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 61
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "tirna-scithe"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		169974,
+		169975
+	]
+}

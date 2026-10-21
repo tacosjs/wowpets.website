@@ -1,0 +1,105 @@
+{
+	"name": "Grey Spiny Basilisk",
+	"variant": "Grey",
+	"npcs": {
+		"91006": {
+			"name": "Rockback Gnasher"
+		},
+		"96878": {
+			"name": "Catacomb Gazecrawler"
+		},
+		"97991": {
+			"name": "Misthunter Basilisk"
+		},
+		"99598": {
+			"name": "Axetail Basilisk Matriarch"
+		},
+		"99779": {
+			"name": "Stonespine Gazer"
+		},
+		"101785": {
+			"name": "Steelgaze Basilisk"
+		},
+		"103459": {
+			"name": "Rockback Snapper"
+		},
+		"108185": {
+			"name": "Coldscale Gazecrawler"
+		},
+		"108529": {
+			"name": "Seascale Basilisk"
+		},
+		"109867": {
+			"name": "Fjara Rockjaw"
+		},
+		"130334": {
+			"name": "Gritplate Gazer"
+		},
+		"134821": {
+			"name": "Vilegaze Petrifier"
+		},
+		"184023": {
+			"name": "Vicious Basilisk"
+		},
+		"188128": {
+			"name": "Stonejaw Basilisk"
+		},
+		"189756": {
+			"name": "Lazy Basilisk"
+		},
+		"189757": {
+			"name": "Snoozing Basilisk Bull"
+		},
+		"190249": {
+			"name": "Frazzled Basilisk"
+		},
+		"191694": {
+			"name": "Young Basilisk"
+		},
+		"191695": {
+			"name": "Stalking Basilisk"
+		},
+		"191696": {
+			"name": "Mature Basilisk"
+		},
+		"191697": {
+			"name": "Ancient Basilisk"
+		},
+		"192466": {
+			"name": "Thornsided Basilisk"
+		},
+		"193702": {
+			"name": "Blistered Basilisk"
+		},
+		"195359": {
+			"name": "Thornsided Basilisk"
+		},
+		"195424": {
+			"name": "Bloated Basilisk"
+		},
+		"197352": {
+			"name": "Alpha Thornsided Basilisk"
+		},
+		"199194": {
+			"name": "Cave Basilisk"
+		},
+		"199197": {
+			"name": "Cavernous Tyrant"
+		},
+		"219949": {
+			"name": "Cavern Basilisk"
+		},
+		"221298": {
+			"name": "Cavern Basilisk"
+		},
+		"222302": {
+			"name": "Sandscale Riplisk"
+		},
+		"225026": {
+			"name": "Sandscale Riplisk"
+		},
+		"226397": {
+			"name": "Rockslab Basilisk"
+		}
+	}
+}

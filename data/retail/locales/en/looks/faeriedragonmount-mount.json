@@ -1,0 +1,21 @@
+{
+	"name": "Harnessed Colour-Shifting Feywing",
+	"variant": "Harnessed Colour-Shifting Feywing",
+	"npcs": {
+		"80300": {
+			"name": "Raindash"
+		},
+		"82207": {
+			"name": "Faebright"
+		},
+		"84995": {
+			"name": "Glimmering Fey Dragon"
+		},
+		"86319": {
+			"name": "Sha'tari Fey Dragon"
+		},
+		"208306": {
+			"name": "Faerie Drake"
+		}
+	}
+}

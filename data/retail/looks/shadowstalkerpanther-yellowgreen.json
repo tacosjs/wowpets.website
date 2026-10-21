@@ -1,0 +1,35 @@
+{
+	"id": "shadowstalkerpanther-yellowgreen",
+	"family": "cat",
+	"modelGroup": "panthara",
+	"npcs": [
+		{
+			"id": 124269,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "krokuun"
+				}
+			]
+		},
+		{
+			"id": 124271,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "krokuun"
+				}
+			]
+		}
+	]
+}

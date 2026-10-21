@@ -1,0 +1,40 @@
+{
+	"name": "White Draenor Boar",
+	"variant": "White",
+	"npcs": {
+		"75194": {
+			"name": "Gnasher"
+		},
+		"77298": {
+			"name": "Trained Coldsnout",
+			"title": "Thunderlord Hogbreaker's Pet"
+		},
+		"77300": {
+			"name": "Goretusk Piglet"
+		},
+		"80298": {
+			"name": "Tame Moontusk"
+		},
+		"82533": {
+			"name": "Smash"
+		},
+		"84893": {
+			"name": "Goregore"
+		},
+		"84943": {
+			"name": "Gochar"
+		},
+		"140180": {
+			"name": "Brutalgore"
+		},
+		"140182": {
+			"name": "Trampleleaf the Jungle Quake"
+		},
+		"242166": {
+			"name": "Weeping Swine"
+		},
+		"242401": {
+			"name": "Saltleaf Snouter"
+		}
+	}
+}

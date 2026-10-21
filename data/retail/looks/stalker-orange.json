@@ -1,0 +1,59 @@
+{
+	"id": "stalker-orange",
+	"family": "whiptail",
+	"modelGroup": "shredclaws",
+	"npcs": [
+		{
+			"id": 252108,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "the-ingress"
+				}
+			]
+		},
+		{
+			"id": 257740,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm"
+				}
+			]
+		},
+		{
+			"id": 257246,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		254577,
+		250545,
+		254576,
+		255354,
+		257127,
+		253331,
+		243897
+	]
+}

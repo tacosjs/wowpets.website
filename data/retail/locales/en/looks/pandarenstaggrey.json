@@ -1,0 +1,12 @@
+{
+	"name": "Patterned Grey Stag",
+	"variant": "Patterned Grey",
+	"npcs": {
+		"140259": {
+			"name": "Runehoof Greatstag"
+		},
+		"197651": {
+			"name": "Grey Tailed Stag"
+		}
+	}
+}

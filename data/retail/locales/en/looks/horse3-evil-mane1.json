@@ -1,0 +1,9 @@
+{
+	"name": "Demonic Horse",
+	"variant": "Demonic",
+	"npcs": {
+		"3864": {
+			"name": "Fel Steed"
+		}
+	}
+}

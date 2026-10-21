@@ -1,0 +1,76 @@
+{
+	"id": "bearice-dark",
+	"family": "bear",
+	"modelGroup": "icebears",
+	"npcs": [
+		{
+			"id": 193063,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "slyvern-plunge"
+				}
+			]
+		},
+		{
+			"id": 194103,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 193698,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "slyvern-plunge"
+				}
+			]
+		},
+		{
+			"id": 194491,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "slyvern-plunge"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

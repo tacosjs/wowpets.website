@@ -1,0 +1,42 @@
+{
+	"name": "Blue Spiked Crab",
+	"variant": "Blue",
+	"npcs": {
+		"44390": {
+			"name": "Spiny Rock Crab"
+		},
+		"46369": {
+			"name": "Enthralled Crustacean"
+		},
+		"60437": {
+			"name": "Azure Prickly Crawler"
+		},
+		"63722": {
+			"name": "Azure Prickly Crawler"
+		},
+		"63723": {
+			"name": "Azure Prickly Crawler"
+		},
+		"66476": {
+			"name": "Reef Pincher"
+		},
+		"88926": {
+			"name": "Spiny Siltshell"
+		},
+		"93058": {
+			"name": "Fathomless Skitterer"
+		},
+		"111571": {
+			"name": "Siltshore Crab"
+		},
+		"129470": {
+			"name": "Deepsea Crab"
+		},
+		"130325": {
+			"name": "Deepsea Viceclaw"
+		},
+		"154936": {
+			"name": "Hungry Nibbler"
+		}
+	}
+}

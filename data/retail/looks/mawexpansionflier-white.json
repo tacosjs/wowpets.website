@@ -1,0 +1,41 @@
+{
+	"id": "mawexpansionflier-white",
+	"family": "feathermane",
+	"modelGroup": "razorwings",
+	"npcs": [
+		{
+			"id": 177356,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "korthia",
+					"area": "hopes-ascent"
+				}
+			]
+		},
+		{
+			"id": 179359,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "korthia"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

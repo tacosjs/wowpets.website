@@ -1,0 +1,65 @@
+{
+	"id": "flyingnerubian2-tan-abdomen1-head1",
+	"family": "bloodbeast",
+	"modelGroup": "swarmites",
+	"npcs": [
+		{
+			"id": 217038,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet"
+				}
+			]
+		},
+		{
+			"id": 217127,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "mmarl"
+				}
+			]
+		},
+		{
+			"id": 225642,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "ruptured-lake"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		213320,
+		220087,
+		217916,
+		219670,
+		218310,
+		218311,
+		218309,
+		218314,
+		218308,
+		218312,
+		222235,
+		222042
+	]
+}

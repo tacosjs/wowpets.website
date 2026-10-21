@@ -1,0 +1,42 @@
+{
+	"id": "mawratblue",
+	"family": "rodent",
+	"modelGroup": "mawrats",
+	"npcs": [
+		{
+			"id": 172524,
+			"tameable": true,
+			"level": {
+				"min": 62,
+				"max": 62
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "the-maw",
+					"area": "deaths-roar"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 183466,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "the-great-veldt"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		175811,
+		175826
+	]
+}

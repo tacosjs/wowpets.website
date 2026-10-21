@@ -1,0 +1,38 @@
+{
+	"name": "Wasp",
+	"modelGroups": {
+		"cinderbees": {
+			"name": "Cinderbees"
+		},
+		"vespoids": {
+			"name": "Vespoids"
+		},
+		"corpseflies": {
+			"name": "Corpseflies"
+		},
+		"gormwasps": {
+			"name": "Gorm Wasps"
+		},
+		"aqirfliers": {
+			"name": "Aqir Fliers"
+		},
+		"sturdywasps": {
+			"name": "Wasps"
+		},
+		"bees": {
+			"name": "Bees"
+		},
+		"hookwasps": {
+			"name": "Dire Wasps"
+		},
+		"fireflies": {
+			"name": "Fireflies"
+		},
+		"wasps": {
+			"name": "Classic Wasps"
+		},
+		"bosswasps": {
+			"name": "Classic Boss Wasps"
+		}
+	}
+}

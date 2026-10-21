@@ -1,0 +1,15 @@
+{
+	"name": "Brown Spider Crab",
+	"variant": "Brown",
+	"npcs": {
+		"152460": {
+			"name": "Chitterspine Clicker"
+		},
+		"153965": {
+			"name": "Chitterspine Clicker"
+		},
+		"153971": {
+			"name": "Chitterspine Clicker"
+		}
+	}
+}

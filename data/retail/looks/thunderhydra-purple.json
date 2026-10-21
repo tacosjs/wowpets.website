@@ -1,0 +1,176 @@
+{
+	"id": "thunderhydra-purple",
+	"family": "hydra",
+	"modelGroup": "thunderhydras",
+	"npcs": [
+		{
+			"id": 79020,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "the-nightmarsh"
+				}
+			]
+		},
+		{
+			"id": 89653,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azsuna",
+					"area": "gangameshs-den"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 132068,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "anglepoint-bay"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 80559,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "spires-of-arak"
+				}
+			]
+		},
+		{
+			"id": 88489,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak"
+				}
+			]
+		},
+		{
+			"id": 80560,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "echidnean-shelf"
+				}
+			]
+		},
+		{
+			"id": 80372,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "echidnean-shelf"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 80558,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "echidnean-shelf"
+				}
+			]
+		},
+		{
+			"id": 108535,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "sundered-shoals"
+				}
+			]
+		},
+		{
+			"id": 102514,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gloaming-reef"
+				}
+			]
+		},
+		{
+			"id": 85555,
+			"tameable": false,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "darktide-roost"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		224751,
+		192126
+	]
+}

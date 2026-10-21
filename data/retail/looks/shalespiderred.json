@@ -1,0 +1,139 @@
+{
+	"id": "shalespiderred",
+	"family": "shalebeast",
+	"modelGroup": "shalespiders",
+	"npcs": [
+		{
+			"id": 134521,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "winterdeep-mine"
+				}
+			]
+		},
+		{
+			"id": 51066,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "blackrock-mountain"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 51069,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "dustwallow-marsh"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 47072,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "deepholm",
+					"area": "crumbling-depths"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 44425,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "deepholm"
+				}
+			]
+		},
+		{
+			"id": 49816,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "deepholm"
+				}
+			]
+		},
+		{
+			"id": 43917,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-stonecore"
+				}
+			]
+		},
+		{
+			"id": 42845,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-stonecore"
+				}
+			]
+		},
+		{
+			"id": 67759,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "krasarang-wilds",
+					"area": "oregrinds-dig"
+				}
+			]
+		}
+	]
+}

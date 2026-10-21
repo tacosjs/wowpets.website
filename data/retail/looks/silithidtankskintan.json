@@ -1,0 +1,66 @@
+{
+	"id": "silithidtankskintan",
+	"family": "aqiri",
+	"modelGroup": "silithids",
+	"npcs": [
+		{
+			"id": 4132,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "thousand-needles"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 48178,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thousand-needles"
+				}
+			]
+		},
+		{
+			"id": 50747,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "silithus",
+					"area": "ahnqiraj-the-fallen-kingdom"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 15230,
+			"tameable": true,
+			"level": {
+				"min": 31,
+				"max": 31
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "temple-of-ahnqiraj"
+				}
+			]
+		}
+	]
+}

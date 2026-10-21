@@ -1,0 +1,57 @@
+{
+	"name": "Black Eel-Serpent",
+	"variant": "Black",
+	"npcs": {
+		"126672": {
+			"name": "Cove Eel"
+		},
+		"137824": {
+			"name": "Arclight"
+		},
+		"139285": {
+			"name": "Shiverscale the Toxic"
+		},
+		"152556": {
+			"name": "Chasm-Haunter"
+		},
+		"192132": {
+			"name": "Depths Eel"
+		},
+		"214548": {
+			"name": "Slippery Syphoner"
+		},
+		"215680": {
+			"name": "Deepwater Eel"
+		},
+		"216031": {
+			"name": "Abyssal Devourer"
+		},
+		"218735": {
+			"name": "Spiteful Ophidian"
+		},
+		"222794": {
+			"name": "Undersea Wavecutter"
+		},
+		"222810": {
+			"name": "Undersea Depthstalker"
+		},
+		"227369": {
+			"name": "Agitated Eel"
+		},
+		"228212": {
+			"name": "Tidewake Eel"
+		},
+		"228213": {
+			"name": "Tidewake Moray"
+		},
+		"229523": {
+			"name": "Sieve Spinedrifter"
+		},
+		"255914": {
+			"name": "Deep Eel"
+		},
+		"263393": {
+			"name": "Territorial Eel"
+		}
+	}
+}

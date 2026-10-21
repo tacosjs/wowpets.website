@@ -1,0 +1,26 @@
+{
+	"id": "shadowstalkerpanther-purpleyellow",
+	"family": "cat",
+	"modelGroup": "panthara",
+	"npcs": [
+		{
+			"id": 122010,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eredath",
+					"area": "umbra-hollows"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		127286,
+		216421
+	]
+}

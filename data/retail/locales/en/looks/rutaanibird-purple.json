@@ -1,0 +1,12 @@
+{
+	"name": "Red-Violet Petalwing",
+	"variant": "Red-Violet",
+	"npcs": {
+		"243775": {
+			"name": "Blossom-bound Thiever"
+		},
+		"249006": {
+			"name": "Pernicious Petalwing"
+		}
+	}
+}

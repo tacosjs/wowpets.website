@@ -1,0 +1,16 @@
+{
+	"name": "Dark Red Vulpin",
+	"variant": "Dark Red Vulpin",
+	"npcs": {
+		"165808": {
+			"name": "Lord Renard",
+			"title": "The Court of Night"
+		},
+		"165810": {
+			"name": "Crimson Retainer"
+		},
+		"173646": {
+			"name": "Modriguez the Sly"
+		}
+	}
+}

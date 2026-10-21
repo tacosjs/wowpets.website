@@ -1,0 +1,21 @@
+{
+	"name": "Bright Green Jormungar",
+	"variant": "Bright Green",
+	"npcs": {
+		"91916": {
+			"name": "Spiked Rockworm"
+		},
+		"94687": {
+			"name": "Infectious Worm"
+		},
+		"102918": {
+			"name": "Harvest Worm"
+		},
+		"140985": {
+			"name": "Acidic Worm"
+		},
+		"195093": {
+			"name": "Moskhoi"
+		}
+	}
+}

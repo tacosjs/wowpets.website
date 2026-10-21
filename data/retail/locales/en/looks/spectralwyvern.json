@@ -1,0 +1,9 @@
+{
+	"name": "Spectral Wind Rider",
+	"variant": "Spectral Wind Rider",
+	"npcs": {
+		"231353": {
+			"name": "Tempest Talon"
+		}
+	}
+}

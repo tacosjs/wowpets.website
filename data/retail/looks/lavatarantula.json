@@ -1,0 +1,95 @@
+{
+	"id": "lavatarantula",
+	"family": "spider",
+	"modelGroup": "grandtarantulas",
+	"npcs": [
+		{
+			"id": 5858,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "searing-gorge"
+				}
+			]
+		},
+		{
+			"id": 8277,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "searing-gorge"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 5857,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "searing-gorge"
+				}
+			]
+		},
+		{
+			"id": 191672,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "scalecracker-keep"
+				}
+			]
+		},
+		{
+			"id": 202913,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-forbidden-reach",
+					"area": "earth-warders-cauldron"
+				}
+			]
+		},
+		{
+			"id": 200978,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "the-forbidden-reach",
+					"area": "earth-warders-cauldron"
+				}
+			]
+		}
+	]
+}

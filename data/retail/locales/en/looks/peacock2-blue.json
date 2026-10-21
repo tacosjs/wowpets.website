@@ -1,0 +1,45 @@
+{
+	"name": "Blue Peafowl",
+	"variant": "Blue",
+	"npcs": {
+		"192383": {
+			"name": "Iridescent Peafowl"
+		},
+		"193070": {
+			"name": "Peacock"
+		},
+		"193276": {
+			"name": "Enthralled Peahen"
+		},
+		"195163": {
+			"name": "Azure Cryer"
+		},
+		"197889": {
+			"name": "Lushfeather Cryer"
+		},
+		"199246": {
+			"name": "Academy Peafowl"
+		},
+		"212710": {
+			"name": "Infected Peafowl"
+		},
+		"218771": {
+			"name": "Bluebell Peacock"
+		},
+		"221523": {
+			"name": "Dazzling Peafowl"
+		},
+		"225271": {
+			"name": "Dazzling Peafowl"
+		},
+		"226386": {
+			"name": "Shimmering Peafowl"
+		},
+		"227198": {
+			"name": "Island Proudfeather"
+		},
+		"251412": {
+			"name": "Curious Peahen"
+		}
+	}
+}

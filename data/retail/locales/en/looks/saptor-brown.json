@@ -1,0 +1,12 @@
+{
+	"name": "Maroon Saptor",
+	"variant": "Maroon",
+	"npcs": {
+		"250170": {
+			"name": "Splintclaw Saptor"
+		},
+		"256268": {
+			"name": "Cleftstalker Saptor"
+		}
+	}
+}

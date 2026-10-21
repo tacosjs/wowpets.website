@@ -1,0 +1,10 @@
+{
+	"name": "Brown Thornbuck",
+	"variant": "Brown",
+	"npcs": {
+		"210985": {
+			"name": "Argyr",
+			"title": "Thornborn Spirit"
+		}
+	}
+}

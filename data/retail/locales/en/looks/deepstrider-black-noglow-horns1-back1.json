@@ -1,0 +1,12 @@
+{
+	"name": "Black Deepstrider w/ Large Horns & Maned Back",
+	"variant": "Black Deepstrider w/ Large Horns & Maned Back",
+	"npcs": {
+		"204833": {
+			"name": "Elusive Deepstrider"
+		},
+		"204834": {
+			"name": "Elusive Colossal Deepstrider"
+		}
+	}
+}

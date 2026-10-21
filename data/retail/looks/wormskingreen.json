@@ -1,0 +1,50 @@
+{
+	"id": "wormskingreen",
+	"family": "worm",
+	"modelGroup": "worms",
+	"npcs": [
+		{
+			"id": 11787,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maraudon-non-instanced"
+				}
+			]
+		},
+		{
+			"id": 11788,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maraudon-non-instanced"
+				}
+			]
+		},
+		{
+			"id": 51025,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "felwood"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

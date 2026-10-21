@@ -1,0 +1,24 @@
+{
+	"name": "Buff Draenor Ravager",
+	"variant": "Buff",
+	"npcs": {
+		"86294": {
+			"name": "Bladefist Skitterer"
+		},
+		"88630": {
+			"name": "Bonespike Ravager"
+		},
+		"235415": {
+			"name": "Hungry Kilivore"
+		},
+		"248447": {
+			"name": "Kilivore Drone"
+		},
+		"248940": {
+			"name": "Bloodthirsty Kilivore"
+		},
+		"254970": {
+			"name": "Bloodletter Kilivore"
+		}
+	}
+}

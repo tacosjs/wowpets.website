@@ -1,0 +1,12 @@
+{
+	"name": "Saddled Brown Draenor Clefthoof",
+	"variant": "Brown",
+	"npcs": {
+		"78364": {
+			"name": "Iron Horde Battlebeast"
+		},
+		"90124": {
+			"name": "Emberhide Warbeast"
+		}
+	}
+}

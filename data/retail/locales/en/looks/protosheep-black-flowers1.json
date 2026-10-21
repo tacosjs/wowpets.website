@@ -1,0 +1,12 @@
+{
+	"name": "Blooming Brown Mosswool",
+	"variant": "Blooming Brown Mosswool",
+	"npcs": {
+		"212373": {
+			"name": "Rambleshire Mosswool"
+		},
+		"227127": {
+			"name": "Grazing Mosswool"
+		}
+	}
+}

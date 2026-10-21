@@ -1,0 +1,15 @@
+{
+	"name": "Green Krolusk",
+	"variant": "Green",
+	"npcs": {
+		"126237": {
+			"name": "Tide Lurker"
+		},
+		"134616": {
+			"name": "Krolusk Pup"
+		},
+		"264785": {
+			"name": "Swarming Krolusk"
+		}
+	}
+}

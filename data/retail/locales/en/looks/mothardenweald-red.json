@@ -1,0 +1,27 @@
+{
+	"name": "Red Ardenmoth",
+	"variant": "Red",
+	"npcs": {
+		"166075": {
+			"name": "Greatwing Ardenmoth"
+		},
+		"166182": {
+			"name": "Withered Ardenmoth"
+		},
+		"167721": {
+			"name": "The Slumbering Emperor"
+		},
+		"169742": {
+			"name": "Vibrant Ardenmoth"
+		},
+		"170730": {
+			"name": "Withering Ardenmoth"
+		},
+		"170769": {
+			"name": "Withering Ardenmoth"
+		},
+		"172945": {
+			"name": "Sunrise Glitterwing"
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Pink Mole w/ Black Saddle, Small Nose, No Teeth",
+	"variant": "Pink Mole w/ Black Saddle, Small Nose, No Teeth",
+	"npcs": {
+		"218912": {
+			"name": "Mole Steed"
+		},
+		"230567": {
+			"name": "Trusty Steed"
+		},
+		"230574": {
+			"name": "Trusty Steed"
+		}
+	}
+}

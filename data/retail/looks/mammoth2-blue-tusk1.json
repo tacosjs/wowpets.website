@@ -1,0 +1,25 @@
+{
+	"id": "mammoth2-blue-tusk1",
+	"family": "mammoth",
+	"modelGroup": "mammoths",
+	"npcs": [
+		{
+			"id": 186691,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "kauriq-gleamlet"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		255764
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"id": "tigerskinsnow-tigergem",
+	"family": "cat",
+	"modelGroup": "hunchedcats",
+	"npcs": [
+		{
+			"id": 54700,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "end-time"
+				}
+			]
+		}
+	]
+}

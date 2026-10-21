@@ -1,0 +1,27 @@
+{
+	"name": "Tan Etherwyrm",
+	"variant": "Tan",
+	"npcs": {
+		"157277": {
+			"name": "Starved Etherwyrm"
+		},
+		"158054": {
+			"name": "Anima-Starved Wyrm"
+		},
+		"169513": {
+			"name": "Etherwyrm Scavenger"
+		},
+		"170387": {
+			"name": "Vigilant Etherwyrm"
+		},
+		"172017": {
+			"name": "Highloft Etherwym"
+		},
+		"172704": {
+			"name": "Insatiable Etherwyrm"
+		},
+		"175038": {
+			"name": "Anima-Starved Wyrm"
+		}
+	}
+}

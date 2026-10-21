@@ -1,0 +1,37 @@
+{
+	"id": "hordepvpmountred",
+	"family": "wolf",
+	"modelGroup": "hordebannerwolves",
+	"npcs": [
+		{
+			"id": 73538,
+			"tameable": false,
+			"level": {
+				"min": 37,
+				"max": 37
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "siege-of-orgrimmar",
+					"area": "korkron-barracks"
+				}
+			]
+		},
+		{
+			"id": 72768,
+			"tameable": false,
+			"level": {
+				"min": 37,
+				"max": 37
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "siege-of-orgrimmar",
+					"area": "korkron-barracks"
+				}
+			]
+		}
+	]
+}

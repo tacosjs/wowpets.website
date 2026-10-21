@@ -1,0 +1,9 @@
+{
+	"name": "Dark-Yellow Tidal Worm",
+	"variant": "Dark-Yellow",
+	"npcs": {
+		"255154": {
+			"name": "Boggorm Recluse"
+		}
+	}
+}

@@ -1,0 +1,37 @@
+{
+	"id": "wolfhawk-green",
+	"family": "feathermane",
+	"modelGroup": "wolfhawks",
+	"npcs": [
+		{
+			"id": 121624,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "eye-of-azshara-non-instanced"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 233293,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "undermine",
+					"area": "bilgewater-flats"
+				}
+			]
+		}
+	]
+}

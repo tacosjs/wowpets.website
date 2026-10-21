@@ -1,0 +1,12 @@
+{
+	"name": "Olive Mirestalker",
+	"variant": "Olive",
+	"npcs": {
+		"249332": {
+			"name": "Slewstalk"
+		},
+		"249413": {
+			"name": "Mire Stalker"
+		}
+	}
+}

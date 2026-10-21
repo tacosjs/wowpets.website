@@ -1,0 +1,22 @@
+{
+	"id": "chimeraskingreen",
+	"family": "chimaera",
+	"modelGroup": "chimaeras",
+	"npcs": [
+		{
+			"id": 8660,
+			"tameable": true,
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "azshara"
+				}
+			],
+			"keepsName": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			}
+		}
+	]
+}

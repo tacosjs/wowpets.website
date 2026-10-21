@@ -1,0 +1,22 @@
+{
+	"id": "cranemauve",
+	"family": "waterfowl",
+	"modelGroup": "cranes",
+	"npcs": [
+		{
+			"id": 162449,
+			"tameable": true,
+			"level": {
+				"min": 57,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "emerald-glade"
+				}
+			]
+		}
+	]
+}

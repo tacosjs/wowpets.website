@@ -1,0 +1,25 @@
+{
+	"id": "mouserock-white-white-ruff",
+	"family": "rodent",
+	"modelGroup": "rockmice",
+	"npcs": [
+		{
+			"id": 227298,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "wildcamp-orlay"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		204685
+	]
+}

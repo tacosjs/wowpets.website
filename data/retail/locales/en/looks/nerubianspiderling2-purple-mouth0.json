@@ -1,0 +1,21 @@
+{
+	"name": "Purple Threadling w/ No Mandibles",
+	"variant": "Purple w/ No Mandibles",
+	"npcs": {
+		"223974": {
+			"name": "Threadling Nester"
+		},
+		"232091": {
+			"name": "Sureki Spiderling"
+		},
+		"237764": {
+			"name": "Sureki Threadling"
+		},
+		"238927": {
+			"name": "Sureki Spiderling"
+		},
+		"271247": {
+			"name": "Spiderling"
+		}
+	}
+}

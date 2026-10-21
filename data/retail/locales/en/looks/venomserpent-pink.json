@@ -1,0 +1,12 @@
+{
+	"name": "Crimson Venomfang",
+	"variant": "Crimson Venomfang",
+	"npcs": {
+		"263942": {
+			"name": "Toxic Blightscale"
+		},
+		"266538": {
+			"name": "Shriekcoil"
+		}
+	}
+}

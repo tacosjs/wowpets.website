@@ -1,0 +1,15 @@
+{
+	"name": "Pale Yellow Pig",
+	"variant": "Pale Yellow",
+	"npcs": {
+		"56255": {
+			"name": "Smelly"
+		},
+		"215206": {
+			"name": "Night-Twisted Hog"
+		},
+		"220310": {
+			"name": "Cookie Crumb"
+		}
+	}
+}

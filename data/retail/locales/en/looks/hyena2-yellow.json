@@ -1,0 +1,21 @@
+{
+	"name": "Yellow Hyena",
+	"variant": "Yellow",
+	"npcs": {
+		"4127": {
+			"name": "Hecklefang Hyena"
+		},
+		"4660": {
+			"name": "Maraudine Bonepaw"
+		},
+		"12418": {
+			"name": "Gordok Hyena"
+		},
+		"13036": {
+			"name": "Gordok Hound"
+		},
+		"151945": {
+			"name": "Scavenging Dunerunner"
+		}
+	}
+}

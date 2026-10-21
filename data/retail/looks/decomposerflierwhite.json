@@ -1,0 +1,41 @@
+{
+	"id": "decomposerflierwhite",
+	"family": "wasp",
+	"modelGroup": "gormwasps",
+	"npcs": [
+		{
+			"id": 171366,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "gormhive"
+				}
+			]
+		},
+		{
+			"id": 163395,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "gormhive"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		179385,
+		179386
+	]
+}

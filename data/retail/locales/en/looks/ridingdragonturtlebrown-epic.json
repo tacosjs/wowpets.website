@@ -1,0 +1,15 @@
+{
+	"name": "Gold Spiked Dragon Turtle",
+	"variant": "Gold",
+	"npcs": {
+		"58940": {
+			"name": "Elder Seadragon"
+		},
+		"72045": {
+			"name": "Chelon"
+		},
+		"122264": {
+			"name": "Elder Spineshell"
+		}
+	}
+}

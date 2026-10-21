@@ -1,0 +1,12 @@
+{
+	"name": "Blue Thornmaw",
+	"variant": "Blue",
+	"npcs": {
+		"241527": {
+			"name": "Koozat"
+		},
+		"251914": {
+			"name": "Voracious Thornmaw"
+		}
+	}
+}

@@ -1,0 +1,76 @@
+{
+	"id": "thunderpterodactyl-purple",
+	"family": "pterrordax",
+	"modelGroup": "skyscreamers",
+	"npcs": [
+		{
+			"id": 70494,
+			"tameable": true,
+			"level": {
+				"min": 32,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-thunder",
+					"area": "stormsea-landing"
+				}
+			]
+		},
+		{
+			"id": 70120,
+			"tameable": true,
+			"level": {
+				"min": 32,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-thunder",
+					"area": "stormsea-landing"
+				}
+			]
+		},
+		{
+			"id": 70558,
+			"tameable": true,
+			"level": {
+				"min": 32,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-thunder",
+					"area": "stormsea-landing"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 118277,
+			"tameable": false,
+			"level": {
+				"min": 63,
+				"max": 63
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ungoro-crater",
+					"area": "screaming-reaches"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		70020,
+		70021
+	]
+}

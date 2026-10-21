@@ -1,0 +1,37 @@
+{
+	"id": "crabbomb-green-black",
+	"family": "crab",
+	"modelGroup": "bombcrabs",
+	"npcs": [
+		{
+			"id": 238625,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "undermine",
+					"area": "tailgate-park"
+				}
+			]
+		},
+		{
+			"id": 231115,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "undermine",
+					"area": "slam-central-station"
+				}
+			]
+		}
+	]
+}

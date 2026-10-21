@@ -1,0 +1,64 @@
+{
+	"id": "aqirflying-red",
+	"family": "wasp",
+	"modelGroup": "aqirfliers",
+	"npcs": [
+		{
+			"id": 162150,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "uldum"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 157256,
+			"tameable": false,
+			"level": {
+				"min": 51,
+				"max": 51
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-waking-city",
+					"area": "the-hive"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 162305,
+			"tameable": false,
+			"level": {
+				"min": 51,
+				"max": 51
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-waking-city",
+					"area": "nyalotha"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		154367
+	]
+}

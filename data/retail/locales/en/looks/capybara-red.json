@@ -1,0 +1,9 @@
+{
+	"name": "Red Capybara",
+	"variant": "Red",
+	"npcs": {
+		"255136": {
+			"name": "Kapara"
+		}
+	}
+}

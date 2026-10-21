@@ -1,0 +1,12 @@
+{
+	"name": "Purple Sea Slug",
+	"variant": "Purple",
+	"npcs": {
+		"224604": {
+			"name": "Spiked Rockslime"
+		},
+		"228411": {
+			"name": "Venomous Rockslime"
+		}
+	}
+}

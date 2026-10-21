@@ -1,0 +1,21 @@
+{
+	"id": "wolfserpent-pink",
+	"family": "lesserdragonkin",
+	"modelGroup": "wilderlings",
+	"npcs": [
+		{
+			"id": 180230,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald"
+				}
+			]
+		}
+	]
+}

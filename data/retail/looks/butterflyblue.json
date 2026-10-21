@@ -1,0 +1,96 @@
+{
+	"id": "butterflyblue",
+	"family": "moth",
+	"modelGroup": "butterflies",
+	"npcs": [
+		{
+			"id": 191639,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "fluttering-cavern-and-the-waterways-north-of-dragonheart-outpost"
+				}
+			]
+		},
+		{
+			"id": 210767,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "singing-fen-sprigling-gloam"
+				}
+			]
+		},
+		{
+			"id": 221519,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn"
+				}
+			]
+		},
+		{
+			"id": 227202,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "the-three-shields"
+				}
+			]
+		},
+		{
+			"id": 227205,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "the-three-shields"
+				}
+			]
+		},
+		{
+			"id": 191458,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "pleasant-hill"
+				}
+			]
+		}
+	]
+}

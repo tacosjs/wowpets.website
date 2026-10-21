@@ -1,0 +1,23 @@
+{
+	"id": "dragonturtleblack-epic",
+	"family": "turtle",
+	"modelGroup": "spikeddragonturtles",
+	"npcs": [
+		{
+			"id": 74446,
+			"tameable": true,
+			"level": {
+				"min": 12,
+				"max": 32
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "blackfathom-deeps",
+					"area": "the-pool-of-askar"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"id": "wormskinwhite-transparent",
+	"family": "worm",
+	"modelGroup": "worms",
+	"npcs": [
+		{
+			"id": 51027,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "eastern-plaguelands"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

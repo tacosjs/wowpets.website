@@ -1,0 +1,30 @@
+{
+	"name": "Orange Candlefly w/ Wavy Antennae",
+	"variant": "Orange w/ Wavy Antennae",
+	"npcs": {
+		"214831": {
+			"name": "Stillpond Lightqueen"
+		},
+		"219329": {
+			"name": "Cavern Glowmite"
+		},
+		"220376": {
+			"name": "Captured Candlefly"
+		},
+		"227469": {
+			"name": "Blinding Glowmite"
+		},
+		"230921": {
+			"name": "Guttercrag Glowbug"
+		},
+		"244363": {
+			"name": "Poisonous Firefly"
+		},
+		"250330": {
+			"name": "Glimmering Darter"
+		},
+		"256204": {
+			"name": "Glowing Firefly"
+		}
+	}
+}

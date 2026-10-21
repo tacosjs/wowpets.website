@@ -1,0 +1,21 @@
+{
+	"name": "Red Devilsaur",
+	"variant": "Red",
+	"npcs": {
+		"6500": {
+			"name": "Tyrant Devilsaur"
+		},
+		"6584": {
+			"name": "King Mosh"
+		},
+		"27483": {
+			"name": "King Dred"
+		},
+		"38346": {
+			"name": "Devilsaur Queen"
+		},
+		"50846": {
+			"name": "Slavermaw"
+		}
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"name": "Red Infernal Hellhound w/ Orange Flames",
+	"variant": "Red w/ Orange Flames",
+	"npcs": {
+		"53206": {
+			"name": "Hell Hound"
+		},
+		"53265": {
+			"name": "Kelbnar"
+		},
+		"53695": {
+			"name": "Rageface"
+		},
+		"61657": {
+			"name": "Adolescent Flame Hound"
+		},
+		"70702": {
+			"name": "Flame Hound"
+		},
+		"122998": {
+			"name": "Flame Hound"
+		},
+		"140561": {
+			"name": "Brimstone Pup"
+		},
+		"140563": {
+			"name": "Brimstone Tracker"
+		},
+		"156083": {
+			"name": "Sanguifang"
+		},
+		"165960": {
+			"name": "Blazing Forgehound"
+		}
+	}
+}

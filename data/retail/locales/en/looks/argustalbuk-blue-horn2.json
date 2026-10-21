@@ -1,0 +1,15 @@
+{
+	"name": "Blue Rugged Talbuk w/ Backswept Horns",
+	"variant": "Blue w/ Backswept Horns",
+	"npcs": {
+		"122363": {
+			"name": "Chitinbuk Ruinwalker"
+		},
+		"123527": {
+			"name": "Chitinbuk Grazer"
+		},
+		"126945": {
+			"name": "Subdued Ruins Wanderer"
+		}
+	}
+}

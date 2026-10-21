@@ -1,0 +1,12 @@
+{
+	"name": "Gold Rock Mouse w/ Neck Ruff",
+	"variant": "Gold",
+	"npcs": {
+		"204167": {
+			"name": "Scurrying Rock Mouse"
+		},
+		"205001": {
+			"name": "Treasurewhiskers"
+		}
+	}
+}

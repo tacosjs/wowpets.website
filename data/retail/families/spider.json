@@ -1,0 +1,69 @@
+{
+	"id": "spider",
+	"wowId": 3,
+	"icon": "ability_hunter_pet_spider",
+	"spec": "ferocity",
+	"exotic": false,
+	"diet": [
+		"meat"
+	],
+	"abilities": {
+		"basic": "bite",
+		"family": [
+			"web-spray"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "undercrawlers"
+		},
+		{
+			"id": "threadlings"
+		},
+		{
+			"id": "spectralbarbedspiders"
+		},
+		{
+			"id": "icespiders"
+		},
+		{
+			"id": "grandtarantulas"
+		},
+		{
+			"id": "tarachnids"
+		},
+		{
+			"id": "greatspiders"
+		},
+		{
+			"id": "demonspiders"
+		},
+		{
+			"id": "grandspiders"
+		},
+		{
+			"id": "grandbonespiders"
+		},
+		{
+			"id": "grandbarbedspiders"
+		},
+		{
+			"id": "firespiders"
+		},
+		{
+			"id": "spiders"
+		},
+		{
+			"id": "bonespiders"
+		},
+		{
+			"id": "tarantulas"
+		},
+		{
+			"id": "barbedspiders"
+		},
+		{
+			"id": "classicthreadlings"
+		}
+	]
+}

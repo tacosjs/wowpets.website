@@ -1,0 +1,39 @@
+{
+	"id": "hippo2-wet-white",
+	"family": "riverbeast",
+	"modelGroup": "stockyriverbeasts",
+	"npcs": [
+		{
+			"id": 192833,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		192651,
+		192594,
+		194079,
+		191686,
+		194075,
+		194145,
+		194663,
+		194665,
+		194666,
+		192597,
+		196017,
+		191684,
+		194144,
+		191687,
+		194078,
+		192596
+	]
+}

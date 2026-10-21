@@ -1,0 +1,13 @@
+{
+	"name": "Grey Pterrordax",
+	"variant": "Grey",
+	"npcs": {
+		"124397": {
+			"name": "Kal'draxa",
+			"title": "Bane of Blood Trolls"
+		},
+		"132634": {
+			"name": "Wild Pterrordax Hatchling"
+		}
+	}
+}

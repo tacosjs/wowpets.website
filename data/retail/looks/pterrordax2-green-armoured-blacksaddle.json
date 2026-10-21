@@ -1,0 +1,22 @@
+{
+	"id": "pterrordax2-green-armoured-blacksaddle",
+	"family": "pterrordax",
+	"modelGroup": "armouredpterrordaxes",
+	"npcs": [
+		{
+			"id": 233939,
+			"tameable": true,
+			"level": {
+				"min": 81,
+				"max": 81
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "kajacoast"
+				}
+			]
+		}
+	]
+}

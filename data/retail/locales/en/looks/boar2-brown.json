@@ -1,0 +1,36 @@
+{
+	"name": "Brown Boar",
+	"variant": "Brown",
+	"npcs": {
+		"345": {
+			"name": "Bellygrub"
+		},
+		"22114": {
+			"name": "Huffer"
+		},
+		"37559": {
+			"name": "Savannah Boar"
+		},
+		"37573": {
+			"name": "Razormane Boar"
+		},
+		"39889": {
+			"name": "Stonemaul Swine"
+		},
+		"42504": {
+			"name": "Mature Swine"
+		},
+		"42859": {
+			"name": "Wild Mature Swine"
+		},
+		"44627": {
+			"name": "Mudbelly Boar"
+		},
+		"50302": {
+			"name": "Imported Mottled Boar"
+		},
+		"50942": {
+			"name": "Snoot the Rooter"
+		}
+	}
+}

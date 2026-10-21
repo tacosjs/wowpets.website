@@ -1,0 +1,62 @@
+{
+	"name": "Cat",
+	"modelGroups": {
+		"eversonglynxes": {
+			"name": "Eversong Lynxes"
+		},
+		"amanilynxes": {
+			"name": "Amani Lynxes"
+		},
+		"arathilynxes": {
+			"name": "Arathi Lynxes"
+		},
+		"armoredlynxes": {
+			"name": "Armoured Arathi Lynxes"
+		},
+		"dreamsabers": {
+			"name": "Dreamsabers"
+		},
+		"thornclaws": {
+			"name": "Thornclaws"
+		},
+		"firecats": {
+			"name": "Firecats"
+		},
+		"rockfangs": {
+			"name": "Rockfangs"
+		},
+		"grandnightsabers": {
+			"name": "Grand Nightsabers"
+		},
+		"panthara": {
+			"name": "Panthara"
+		},
+		"nightsabers": {
+			"name": "Nightsabers"
+		},
+		"grandtigers": {
+			"name": "Tigers"
+		},
+		"catmanasabers": {
+			"name": "Mana Sabers"
+		},
+		"grandlions": {
+			"name": "Grand Lions"
+		},
+		"lions": {
+			"name": "Lions"
+		},
+		"cats": {
+			"name": "Classic Cats"
+		},
+		"sabercats": {
+			"name": "Saber Cats"
+		},
+		"hunchedcats": {
+			"name": "Mystic Cats"
+		},
+		"classiclynxes": {
+			"name": "Classic Lynxes"
+		}
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"id": "horse2ardenweald-dark",
+	"family": "courser",
+	"modelGroup": "ardenwealddreamrunners",
+	"npcs": [
+		{
+			"id": 168135,
+			"tameable": true,
+			"level": {
+				"min": 62,
+				"max": 62
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "dreamshrine-basin"
+				}
+			],
+			"keepsName": true
+		}
+	],
+	"alsoNpcs": [
+		169750
+	]
+}

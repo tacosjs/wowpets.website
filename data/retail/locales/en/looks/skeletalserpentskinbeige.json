@@ -1,0 +1,27 @@
+{
+	"name": "Skeletal Windserpent",
+	"variant": "Brown",
+	"npcs": {
+		"8440": {
+			"name": "Avatar of Hakkar"
+		},
+		"9397": {
+			"name": "Unearthed Fossil"
+		},
+		"23204": {
+			"name": "Vakkiz the Windrager"
+		},
+		"26632": {
+			"name": "The Prophet Tharon'ja"
+		},
+		"28671": {
+			"name": "Prophet of Quetz'lun"
+		},
+		"80643": {
+			"name": "Sethekk Wind Serpent"
+		},
+		"261874": {
+			"name": "Venomous Birthling"
+		}
+	}
+}

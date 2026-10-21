@@ -1,0 +1,65 @@
+{
+	"id": "stormcrowdruidskin-brown",
+	"family": "birdofprey",
+	"modelGroup": "classicstormcrows",
+	"npcs": [
+		{
+			"id": 24747,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "howling-fjord"
+				}
+			]
+		},
+		{
+			"id": 25748,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "borean-tundra",
+					"area": "scalding-pools"
+				}
+			]
+		},
+		{
+			"id": 25817,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "borean-tundra",
+					"area": "scalding-pools"
+				}
+			]
+		},
+		{
+			"id": 38154,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "icecrown-citadel"
+				}
+			]
+		}
+	]
+}

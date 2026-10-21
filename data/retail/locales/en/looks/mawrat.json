@@ -1,0 +1,63 @@
+{
+	"name": "Teal Mawrat",
+	"variant": "Teal",
+	"npcs": {
+		"151353": {
+			"name": "Mawrat"
+		},
+		"154030": {
+			"name": "Oddly Large Mawrat"
+		},
+		"165342": {
+			"name": "Mawrat"
+		},
+		"165343": {
+			"name": "Scurrying Mawrat"
+		},
+		"165345": {
+			"name": "Giant Mawrat"
+		},
+		"165978": {
+			"name": "Scavenging Mawrat"
+		},
+		"167485": {
+			"name": "Starving Mawrat"
+		},
+		"169857": {
+			"name": "Monstrous Mawrat"
+		},
+		"175255": {
+			"name": "Giant Mawrat"
+		},
+		"178148": {
+			"name": "Oddly Large Mawrat"
+		},
+		"178149": {
+			"name": "Mawrat"
+		},
+		"178626": {
+			"name": "Mawrat"
+		},
+		"178756": {
+			"name": "Submissive Mawrat"
+		},
+		"178809": {
+			"name": "Submissive Mawrat"
+		},
+		"179308": {
+			"name": "Voracious Mawrat"
+		},
+		"183323": {
+			"name": "Invading Vermin"
+		},
+		"184360": {
+			"name": "Giant Mawrat"
+		},
+		"231808": {
+			"name": "Pilfering Mawrat"
+		},
+		"231809": {
+			"name": "Emboldened Mawrat"
+		}
+	}
+}

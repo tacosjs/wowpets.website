@@ -1,0 +1,18 @@
+{
+	"name": "Green Skeletal Horse",
+	"variant": "Green Skeletal Horse",
+	"npcs": {
+		"3865": {
+			"name": "Shadow Charger"
+		},
+		"15548": {
+			"name": "Spectral Stallion"
+		},
+		"20495": {
+			"name": "Skeletal Stallion"
+		},
+		"114804": {
+			"name": "Spectral Charger"
+		}
+	}
+}

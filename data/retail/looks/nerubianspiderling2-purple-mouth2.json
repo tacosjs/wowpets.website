@@ -1,0 +1,25 @@
+{
+	"id": "nerubianspiderling2-purple-mouth2",
+	"family": "spider",
+	"modelGroup": "threadlings",
+	"npcs": [
+		{
+			"id": 237766,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		223067,
+		223076
+	]
+}

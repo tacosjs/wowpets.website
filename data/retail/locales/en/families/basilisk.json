@@ -1,0 +1,14 @@
+{
+	"name": "Basilisk",
+	"modelGroups": {
+		"spinybasilisks": {
+			"name": "Spiny Basilisks"
+		},
+		"outlandbasilisks": {
+			"name": "Three-Eyed Basilisks"
+		},
+		"basilisks": {
+			"name": "Crested Basilisks"
+		}
+	}
+}

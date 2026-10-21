@@ -1,0 +1,9 @@
+{
+	"name": "Pink Crab",
+	"variant": "Pink",
+	"npcs": {
+		"123291": {
+			"name": "Sparkleshell Crab"
+		}
+	}
+}

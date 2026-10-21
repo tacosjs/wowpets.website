@@ -1,0 +1,62 @@
+{
+	"name": "Vermilion Crab",
+	"variant": "Vermilion",
+	"npcs": {
+		"3106": {
+			"name": "Surf Crawler"
+		},
+		"3107": {
+			"name": "Mature Surf Crawler"
+		},
+		"18241": {
+			"name": "Crusty"
+		},
+		"23929": {
+			"name": "Giant Tidecrawler"
+		},
+		"24287": {
+			"name": "Caldemere Snapper"
+		},
+		"32935": {
+			"name": "Corrupted Tide Crawler"
+		},
+		"39004": {
+			"name": "Pygmy Surf Crawler"
+		},
+		"40276": {
+			"name": "Sabreclaw Skitterer"
+		},
+		"40527": {
+			"name": "Duneshore Crab"
+		},
+		"44116": {
+			"name": "Harbor Crawler"
+		},
+		"127651": {
+			"name": "Vicemaul"
+		},
+		"134764": {
+			"name": "Clattershell"
+		},
+		"139648": {
+			"name": "Tiny Toa"
+		},
+		"144842": {
+			"name": "Tide Crawler"
+		},
+		"147748": {
+			"name": "Shallows Crawler",
+			"title": "Glrglrr's Pet"
+		},
+		"153818": {
+			"name": "Crackleclaw Crab"
+		},
+		"223059": {
+			"name": "Gizwig"
+		},
+		"225916": {
+			"name": "Depressed Pinchpinch",
+			"title": "Venture Co."
+		}
+	}
+}

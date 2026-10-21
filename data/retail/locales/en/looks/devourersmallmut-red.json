@@ -1,0 +1,21 @@
+{
+	"name": "Teal Mutant Animite",
+	"variant": "Teal Mutant Animite",
+	"npcs": {
+		"181115": {
+			"name": "Engorged Mite"
+		},
+		"181879": {
+			"name": "Lured Mite"
+		},
+		"183629": {
+			"name": "Bloated Mite"
+		},
+		"183689": {
+			"name": "Bloated Mite"
+		},
+		"183744": {
+			"name": "Bloated Mite"
+		}
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"name": "Black Gorm w/ Horns",
+	"variant": "Black w/ Horns",
+	"npcs": {
+		"158948": {
+			"name": "Gorm Hulk"
+		},
+		"163316": {
+			"name": "Gorm Rampager"
+		},
+		"164037": {
+			"name": "Darkwarren Bulwark"
+		},
+		"165190": {
+			"name": "Enraged Gorm Rampager"
+		},
+		"167111": {
+			"name": "Spinemaw Staghorn"
+		},
+		"169972": {
+			"name": "Bloated Gorm"
+		},
+		"169976": {
+			"name": "Gorm Cleaver"
+		},
+		"172082": {
+			"name": "Thrashspine"
+		},
+		"173409": {
+			"name": "Fortified Dessicator"
+		}
+	}
+}

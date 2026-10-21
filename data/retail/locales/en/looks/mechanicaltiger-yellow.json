@@ -1,0 +1,12 @@
+{
+	"name": "Gold & Grey Mechanical Tiger",
+	"variant": "Gold & Grey",
+	"npcs": {
+		"139335": {
+			"name": "Sabertron"
+		},
+		"150293": {
+			"name": "Mechagon Prowler"
+		}
+	}
+}

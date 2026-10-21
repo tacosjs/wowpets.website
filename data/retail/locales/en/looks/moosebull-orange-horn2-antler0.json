@@ -1,0 +1,45 @@
+{
+	"name": "Russet Bruffalon w/ No Antlers & Shorter Nose Horn",
+	"variant": "Russet",
+	"npcs": {
+		"187477": {
+			"name": "Sylvan Calf"
+		},
+		"193386": {
+			"name": "Grazing Broadhoof"
+		},
+		"193502": {
+			"name": "Red Furred Calf"
+		},
+		"193503": {
+			"name": "Red Furred Cow"
+		},
+		"194300": {
+			"name": "Highlands Cow"
+		},
+		"194305": {
+			"name": "Highlands Calf"
+		},
+		"194947": {
+			"name": "Milk Cow"
+		},
+		"195191": {
+			"name": "Highlands Calf"
+		},
+		"195192": {
+			"name": "Highlands Cow"
+		},
+		"195525": {
+			"name": "Bruffalon Calf"
+		},
+		"195627": {
+			"name": "Rambunctious Calf"
+		},
+		"197948": {
+			"name": "Red Furred Cow"
+		},
+		"197949": {
+			"name": "Red Furred Calf"
+		}
+	}
+}

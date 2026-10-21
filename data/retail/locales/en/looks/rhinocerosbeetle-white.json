@@ -1,0 +1,27 @@
+{
+	"name": "Ivory Rhinoceros Beetle",
+	"variant": "Ivory",
+	"npcs": {
+		"186456": {
+			"name": "Flyspawn Beetle"
+		},
+		"193996": {
+			"name": "Flyspawn Beetle"
+		},
+		"196616": {
+			"name": "Reservoir Scarab"
+		},
+		"197439": {
+			"name": "Mountainside Scarab"
+		},
+		"198244": {
+			"name": "Isles Scarab"
+		},
+		"207625": {
+			"name": "Incendiary Beetle"
+		},
+		"227439": {
+			"name": "Iridescent Beetle"
+		}
+	}
+}

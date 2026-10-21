@@ -1,0 +1,93 @@
+{
+	"id": "kirin-pale",
+	"family": "stag",
+	"modelGroup": "vorquins",
+	"npcs": [
+		{
+			"id": 188277,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "gardens-of-unity"
+				}
+			]
+		},
+		{
+			"id": 192639,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "gelikyr-gardens"
+				}
+			]
+		},
+		{
+			"id": 198416,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus"
+				}
+			]
+		},
+		{
+			"id": 192036,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "gardens-of-unity"
+				}
+			]
+		},
+		{
+			"id": 193261,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "life-vault-ruins"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		190216,
+		197438,
+		196632,
+		196517,
+		191624,
+		194701,
+		194699,
+		187575,
+		195518,
+		193855
+	]
+}

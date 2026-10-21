@@ -1,0 +1,22 @@
+{
+	"id": "chimera2red-taxi",
+	"family": "chimaera",
+	"modelGroup": "saddledrylaks",
+	"npcs": [
+		{
+			"id": 77122,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "bones-of-agurak"
+				}
+			]
+		}
+	]
+}

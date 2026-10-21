@@ -1,0 +1,15 @@
+{
+	"name": "Indigo Crystalline Snail",
+	"variant": "Indigo",
+	"npcs": {
+		"202621": {
+			"name": "Rock Snail"
+		},
+		"203239": {
+			"name": "Primordial Infused Rock Snail"
+		},
+		"204614": {
+			"name": "Bashful"
+		}
+	}
+}

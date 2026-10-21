@@ -1,0 +1,15 @@
+{
+	"name": "Striped Orange Mystic Cat",
+	"variant": "Striped Orange",
+	"npcs": {
+		"45096": {
+			"name": "Tamed Tol'vir Prowler"
+		},
+		"47726": {
+			"name": "Tiger"
+		},
+		"162361": {
+			"name": "Tiger"
+		}
+	}
+}

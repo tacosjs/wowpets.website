@@ -1,0 +1,95 @@
+{
+	"id": "kotobeast2woolyskin",
+	"family": "scalehide",
+	"modelGroup": "kodos",
+	"npcs": [
+		{
+			"id": 3058,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "mulgore"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 4701,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "desolace"
+				}
+			]
+		},
+		{
+			"id": 35434,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "desolace",
+					"area": "cenarion-wildlands"
+				}
+			]
+		},
+		{
+			"id": 48111,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "burning-steppes"
+				}
+			]
+		},
+		{
+			"id": 25606,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "borean-tundra",
+					"area": "east-of-the-geyser-fields"
+				}
+			]
+		},
+		{
+			"id": 18332,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zangarmarsh",
+					"area": "cenarion-refuge"
+				}
+			]
+		}
+	]
+}

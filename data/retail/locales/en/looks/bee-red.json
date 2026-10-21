@@ -1,0 +1,39 @@
+{
+	"name": "Orange Bee",
+	"variant": "Orange",
+	"npcs": {
+		"127333": {
+			"name": "Barbthorn Queen"
+		},
+		"132341": {
+			"name": "Hive Mother"
+		},
+		"134519": {
+			"name": "Royal Guard"
+		},
+		"141901": {
+			"name": "Bumbling Bee"
+		},
+		"155045": {
+			"name": "Harvest Stinger"
+		},
+		"155559": {
+			"name": "Honeyback Drone"
+		},
+		"190543": {
+			"name": "Bothersome Bee"
+		},
+		"190809": {
+			"name": "Relocated Bee"
+		},
+		"190810": {
+			"name": "Relocated Bee"
+		},
+		"190811": {
+			"name": "Relocated Bee"
+		},
+		"193809": {
+			"name": "Productive Pollinator"
+		}
+	}
+}

@@ -1,0 +1,37 @@
+{
+	"id": "dragonturtlemagenta-greenglow",
+	"family": "turtle",
+	"modelGroup": "dragonturtles",
+	"npcs": [
+		{
+			"id": 158427,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "korinnas-conservatory-firstbornes-bounty"
+				}
+			]
+		},
+		{
+			"id": 163566,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "garden-of-edenia"
+				}
+			]
+		}
+	]
+}

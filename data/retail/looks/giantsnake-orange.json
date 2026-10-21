@@ -1,0 +1,27 @@
+{
+	"id": "giantsnake-orange",
+	"family": "serpent",
+	"modelGroup": "cobras",
+	"npcs": [
+		{
+			"id": 136593,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "whistlebloom-oasis"
+				}
+			],
+			"keepsName": true
+		}
+	],
+	"alsoNpcs": [
+		259131,
+		259132
+	]
+}

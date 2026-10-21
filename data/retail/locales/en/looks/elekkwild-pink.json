@@ -1,0 +1,30 @@
+{
+	"name": "Pink Elekk",
+	"variant": "Pink",
+	"npcs": {
+		"21250": {
+			"name": "Pink Elekk"
+		},
+		"23507": {
+			"name": "Elwynn Pink Elekk"
+		},
+		"23527": {
+			"name": "Teldrassil Pink Elekk"
+		},
+		"23528": {
+			"name": "Azuremyst Pink Elekk"
+		},
+		"23529": {
+			"name": "Mulgore Pink Elekk"
+		},
+		"23530": {
+			"name": "Tirisfal Pink Elekk"
+		},
+		"23531": {
+			"name": "Eversong Pink Elekk"
+		},
+		"220052": {
+			"name": "Alekk"
+		}
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"name": "Orange Mammoth w/ Medium Tusks",
+	"variant": "Orange",
+	"npcs": {
+		"188098": {
+			"name": "Auburntusk Mammoth"
+		},
+		"253098": {
+			"name": "Tamed Mammoth"
+		},
+		"254010": {
+			"name": "Vilebranch Rampager"
+		},
+		"256849": {
+			"name": "Belligerent Mammoth"
+		},
+		"258192": {
+			"name": "Packpeddle of Victory",
+			"title": "Repair Vendor"
+		},
+		"261315": {
+			"name": "Belligerent Mammoth"
+		}
+	}
+}

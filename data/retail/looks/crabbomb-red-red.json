@@ -1,0 +1,25 @@
+{
+	"id": "crabbomb-red-red",
+	"family": "crab",
+	"modelGroup": "bombcrabs",
+	"npcs": [
+		{
+			"id": 231531,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "liberation-of-undermine"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		238625,
+		231115
+	]
+}

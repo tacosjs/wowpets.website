@@ -1,0 +1,22 @@
+{
+	"id": "arathilynx-gold-armor-yellow",
+	"family": "cat",
+	"modelGroup": "arathilynxes",
+	"npcs": [
+		{
+			"id": 225420,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "dunelles-kindness"
+				}
+			]
+		}
+	]
+}

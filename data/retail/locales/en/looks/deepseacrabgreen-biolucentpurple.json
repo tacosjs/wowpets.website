@@ -1,0 +1,12 @@
+{
+	"name": "Green Spiked Crab w/ Purple Markings",
+	"variant": "Green w/ Purple Markings",
+	"npcs": {
+		"50955": {
+			"name": "Carcinak"
+		},
+		"61446": {
+			"name": "Mosstide Crab"
+		}
+	}
+}

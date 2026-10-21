@@ -1,0 +1,12 @@
+{
+	"name": "Spectral Fey Darter",
+	"variant": "Spectral",
+	"npcs": {
+		"59788": {
+			"name": "Spirit Darter"
+		},
+		"62753": {
+			"name": "Fae Spirit"
+		}
+	}
+}

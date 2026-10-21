@@ -1,0 +1,9 @@
+{
+	"name": "Mummified Ravasaur",
+	"variant": "Mummified",
+	"npcs": {
+		"136984": {
+			"name": "Reban"
+		}
+	}
+}

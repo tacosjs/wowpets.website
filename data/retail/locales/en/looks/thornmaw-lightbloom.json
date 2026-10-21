@@ -1,0 +1,38 @@
+{
+	"name": "Lightbloom",
+	"variant": "Lightbloom",
+	"npcs": {
+		"237737": {
+			"name": "Koozat"
+		},
+		"240495": {
+			"name": "Swarming Shinemaw"
+		},
+		"242055": {
+			"name": "Blinding Thornmaw"
+		},
+		"242057": {
+			"name": "Glimmering Thornmaw"
+		},
+		"246637": {
+			"name": "Lightbloom Briarblaze"
+		},
+		"246871": {
+			"name": "Luminous Thornmaw"
+		},
+		"247397": {
+			"name": "Brightthorn",
+			"title": "Thornmaw Matriarch"
+		},
+		"248320": {
+			"name": "Unstoppable Thornmaw",
+			"title": "Spawn of Brightthorn"
+		},
+		"249776": {
+			"name": "Thorm'belan"
+		},
+		"255977": {
+			"name": "Lightblighted Thornmaw"
+		}
+	}
+}

@@ -1,0 +1,57 @@
+{
+	"id": "decomposermediumgreen-face2",
+	"family": "carapid",
+	"modelGroup": "gorms",
+	"npcs": [
+		{
+			"id": 159016,
+			"tameable": true,
+			"level": {
+				"min": 56,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "tranquil-pools"
+				}
+			]
+		},
+		{
+			"id": 163185,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "gormhive-defense-wall"
+				}
+			]
+		},
+		{
+			"id": 163433,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "gormhive-defense-wall"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		176338,
+		163994,
+		169977
+	]
+}

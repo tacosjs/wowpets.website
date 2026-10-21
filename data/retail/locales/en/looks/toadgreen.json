@@ -1,0 +1,15 @@
+{
+	"name": "Green Toad",
+	"variant": "Green",
+	"npcs": {
+		"75470": {
+			"name": "Belly Toad"
+		},
+		"75590": {
+			"name": "Enormous Bullfrog"
+		},
+		"78673": {
+			"name": "Noxious Riverhopper"
+		}
+	}
+}

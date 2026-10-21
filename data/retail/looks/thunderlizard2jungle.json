@@ -1,0 +1,40 @@
+{
+	"id": "thunderlizard2jungle",
+	"family": "scalehide",
+	"modelGroup": "thunderlizards",
+	"npcs": [
+		{
+			"id": 37208,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "southern-barrens"
+				}
+			]
+		},
+		{
+			"id": 6583,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "ungoro-crater",
+					"area": "terror-run"
+				}
+			],
+			"keepsName": true
+		}
+	],
+	"alsoNpcs": [
+		8928
+	]
+}

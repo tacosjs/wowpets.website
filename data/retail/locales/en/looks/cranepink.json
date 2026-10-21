@@ -1,0 +1,22 @@
+{
+	"name": "Pink Crane",
+	"variant": "Pink",
+	"npcs": {
+		"50885": {
+			"name": "Patrannache"
+		},
+		"72762": {
+			"name": "Brilliant Windfeather"
+		},
+		"230931": {
+			"name": "Scrapbeak",
+			"title": "Scourge of the Course"
+		},
+		"232417": {
+			"name": "Oily Flamingo"
+		},
+		"240070": {
+			"name": "Docile Flamingo"
+		}
+	}
+}

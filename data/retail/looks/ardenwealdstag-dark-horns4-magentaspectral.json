@@ -1,0 +1,21 @@
+{
+	"id": "ardenwealdstag-dark-horns4-magentaspectral",
+	"family": "stag",
+	"modelGroup": "runestags",
+	"npcs": [
+		{
+			"id": 164547,
+			"tameable": false,
+			"level": {
+				"min": 62,
+				"max": 62
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "ardenweald"
+				}
+			]
+		}
+	]
+}

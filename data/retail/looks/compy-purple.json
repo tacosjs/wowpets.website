@@ -1,0 +1,56 @@
+{
+	"id": "compy-purple",
+	"family": "raptor",
+	"modelGroup": "saurids",
+	"npcs": [
+		{
+			"id": 137545,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "dreadpearl-shallows"
+				}
+			]
+		},
+		{
+			"id": 126689,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "primal-wetlands"
+				}
+			]
+		},
+		{
+			"id": 69311,
+			"tameable": true,
+			"level": {
+				"min": 32,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-thunder",
+					"area": "the-beast-pens"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		126653,
+		128585
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Purple Hippogryph",
+	"variant": "Purple",
+	"npcs": {
+		"5300": {
+			"name": "Frayfeather Hippogryph"
+		},
+		"108366": {
+			"name": "Long-Forgotten Hippogryph"
+		}
+	}
+}

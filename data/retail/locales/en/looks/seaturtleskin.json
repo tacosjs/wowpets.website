@@ -1,0 +1,24 @@
+{
+	"name": "Green Turtle",
+	"variant": "Green",
+	"npcs": {
+		"2408": {
+			"name": "Snapjaw"
+		},
+		"4824": {
+			"name": "Aku'mai Fisher"
+		},
+		"5955": {
+			"name": "Tooga"
+		},
+		"6015": {
+			"name": "Torta"
+		},
+		"33710": {
+			"name": "Lake Snapper"
+		},
+		"44626": {
+			"name": "Lakebed Snapper"
+		}
+	}
+}

@@ -1,0 +1,66 @@
+{
+	"id": "spidercrab-blackblue",
+	"family": "crab",
+	"modelGroup": "spidercrabs",
+	"npcs": [
+		{
+			"id": 152463,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "chitterspine-grotto-deepcoil-tunnels"
+				}
+			]
+		},
+		{
+			"id": 153814,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "brinestone-cove"
+				}
+			]
+		},
+		{
+			"id": 227569,
+			"tameable": true,
+			"level": {
+				"min": 81,
+				"max": 81
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "siren-isle",
+					"area": "stormtide-dregs"
+				}
+			]
+		},
+		{
+			"id": 192129,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores"
+				}
+			]
+		}
+	]
+}

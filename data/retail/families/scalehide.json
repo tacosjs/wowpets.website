@@ -1,0 +1,62 @@
+{
+	"id": "scalehide",
+	"icon": "inv_mushanbeastmount",
+	"spec": "ferocity",
+	"exotic": false,
+	"diet": [
+		"bread",
+		"cheese",
+		"fruit",
+		"fungus"
+	],
+	"abilities": {
+		"basic": "smack",
+		"family": [
+			"scale-shield"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "primalultradons"
+		},
+		{
+			"id": "pangos"
+		},
+		{
+			"id": "ultradons"
+		},
+		{
+			"id": "thornmaws"
+		},
+		{
+			"id": "toxicultradons"
+		},
+		{
+			"id": "armoredons"
+		},
+		{
+			"id": "shardhides"
+		},
+		{
+			"id": "ankylodons"
+		},
+		{
+			"id": "primalthunderlizards"
+		},
+		{
+			"id": "thunderlizards"
+		},
+		{
+			"id": "mushan"
+		},
+		{
+			"id": "kodos"
+		},
+		{
+			"id": "warkodos"
+		},
+		{
+			"id": "stegodons"
+		}
+	]
+}

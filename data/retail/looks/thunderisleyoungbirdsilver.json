@@ -1,0 +1,39 @@
+{
+	"id": "thunderisleyoungbirdsilver",
+	"family": "carrionbird",
+	"modelGroup": "flightlessteroclaws",
+	"npcs": [
+		{
+			"id": 169382,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion"
+				}
+			]
+		},
+		{
+			"id": 170384,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "everdawn-terrace"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		159289
+	]
+}

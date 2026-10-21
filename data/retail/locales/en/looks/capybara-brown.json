@@ -1,0 +1,27 @@
+{
+	"name": "Brown Capybara",
+	"variant": "Brown",
+	"npcs": {
+		"250101": {
+			"name": "Kapara"
+		},
+		"256517": {
+			"name": "Kapara Pup"
+		},
+		"256882": {
+			"name": "Lost Kapara"
+		},
+		"257928": {
+			"name": "Grand Kapara Guard"
+		},
+		"258206": {
+			"name": "Pilgrim Kapara"
+		},
+		"261473": {
+			"name": "Spotted Kapara"
+		},
+		"263042": {
+			"name": "Mangled Kapara"
+		}
+	}
+}

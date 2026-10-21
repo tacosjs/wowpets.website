@@ -1,0 +1,24 @@
+{
+	"name": "Green Rylak",
+	"variant": "Green",
+	"npcs": {
+		"77093": {
+			"name": "Roardan the Sky Terror"
+		},
+		"77096": {
+			"name": "Vilemaw Hatchling"
+		},
+		"82646": {
+			"name": "Venombarb"
+		},
+		"83740": {
+			"name": "Toxicfang Rylak"
+		},
+		"88643": {
+			"name": "Viletongue Rylak"
+		},
+		"89011": {
+			"name": "Rylak Skyterror"
+		}
+	}
+}

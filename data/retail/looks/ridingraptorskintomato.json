@@ -1,0 +1,21 @@
+{
+	"id": "ridingraptorskintomato",
+	"family": "raptor",
+	"modelGroup": "saddledraptors",
+	"npcs": [
+		{
+			"id": 26824,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 31
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "draktharon-keep"
+				}
+			]
+		}
+	]
+}

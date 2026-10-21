@@ -1,0 +1,23 @@
+{
+	"id": "windserpentskinoutland2",
+	"family": "windserpent",
+	"modelGroup": "spikedwindserpents",
+	"npcs": [
+		{
+			"id": 50792,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "burning-steppes",
+					"area": "blackrock-stronghold"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

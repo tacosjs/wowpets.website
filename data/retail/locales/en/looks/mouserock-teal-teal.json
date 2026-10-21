@@ -1,0 +1,27 @@
+{
+	"name": "Azure Rock Mouse w/o Neck Ruff",
+	"variant": "Azure",
+	"npcs": {
+		"201829": {
+			"name": "Rock Burrower"
+		},
+		"202607": {
+			"name": "Persii",
+			"title": "Sniffing-Nose Companion"
+		},
+		"203357": {
+			"name": "Persii",
+			"title": "Sniffing-Nose Companion"
+		},
+		"203374": {
+			"name": "Persii",
+			"title": "Sniffing-Nose Companion"
+		},
+		"205082": {
+			"name": "Crystalfur Murine"
+		},
+		"205215": {
+			"name": "Thicktail Rat"
+		}
+	}
+}

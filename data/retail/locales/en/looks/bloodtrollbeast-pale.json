@@ -1,0 +1,33 @@
+{
+	"name": "Light Grey Crawg",
+	"variant": "Light Grey",
+	"npcs": {
+		"127060": {
+			"name": "Blood Crawg"
+		},
+		"128910": {
+			"name": "Crawgling Spawn"
+		},
+		"131817": {
+			"name": "Cragmaw the Infested"
+		},
+		"134433": {
+			"name": "Blood Crawg"
+		},
+		"141935": {
+			"name": "Thrashing Crawg"
+		},
+		"143579": {
+			"name": "Spud"
+		},
+		"206066": {
+			"name": "Timestream Leech"
+		},
+		"234207": {
+			"name": "Tainted Feaster"
+		},
+		"250917": {
+			"name": "Tainted Feaster"
+		}
+	}
+}

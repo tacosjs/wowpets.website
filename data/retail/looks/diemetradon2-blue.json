@@ -1,0 +1,57 @@
+{
+	"id": "diemetradon2-blue",
+	"family": "lizard",
+	"modelGroup": "diemetradons",
+	"npcs": [
+		{
+			"id": 13323,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 31
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maraudon"
+				}
+			]
+		},
+		{
+			"id": 135510,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "savagelands"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 55609,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "darkmoon-island",
+					"area": "the-darkmoon-faire"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		144496,
+		123098,
+		145457
+	]
+}

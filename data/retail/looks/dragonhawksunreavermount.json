@@ -1,0 +1,21 @@
+{
+	"id": "dragonhawksunreavermount",
+	"family": "dragonhawk",
+	"modelGroup": "dragonhawks",
+	"npcs": [
+		{
+			"id": 35984,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "crystalsong-forest"
+				}
+			]
+		}
+	]
+}

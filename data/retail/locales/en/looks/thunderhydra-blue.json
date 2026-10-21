@@ -1,0 +1,45 @@
+{
+	"name": "Blue Thunder Hydra",
+	"variant": "Blue",
+	"npcs": {
+		"80122": {
+			"name": "Gaz'orda"
+		},
+		"80398": {
+			"name": "Keravnos"
+		},
+		"80401": {
+			"name": "Child of Keravnos"
+		},
+		"80404": {
+			"name": "Keravnos Monitor"
+		},
+		"80405": {
+			"name": "Keravnos Broodmother"
+		},
+		"80453": {
+			"name": "Keravnos Wanderer"
+		},
+		"84955": {
+			"name": "Jiasska the Sporegorger"
+		},
+		"86265": {
+			"name": "Sulfurscale Hydra"
+		},
+		"91792": {
+			"name": "Stormwake Hydra"
+		},
+		"120850": {
+			"name": "Gahz'ragon"
+		},
+		"132744": {
+			"name": "Frostscale Hydra"
+		},
+		"132745": {
+			"name": "Frostscale Wanderer"
+		},
+		"132746": {
+			"name": "Frostscale Broodmother"
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"id": "manawurm2sliver-shiny",
+	"family": "serpent",
+	"modelGroup": "manawyrms",
+	"npcs": [
+		{
+			"id": 205300,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "mysterious-cave"
+				}
+			]
+		}
+	]
+}

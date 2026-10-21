@@ -1,0 +1,12 @@
+{
+	"name": "Dark Shoveltusk",
+	"variant": "Dark",
+	"npcs": {
+		"23691": {
+			"name": "Shoveltusk Stag"
+		},
+		"29487": {
+			"name": "Wild Shoveltusk"
+		}
+	}
+}

@@ -1,0 +1,50 @@
+{
+	"id": "tidalguardian-black",
+	"family": "worm",
+	"modelGroup": "tidalworms",
+	"npcs": [
+		{
+			"id": 155702,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "spears-of-azshara"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 224924,
+			"tameable": false,
+			"level": {
+				"min": 82,
+				"max": 82
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "chittering-den"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		153654,
+		214594,
+		223058,
+		222280,
+		224350,
+		223078
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"name": "Lesser Dragonkin",
+	"modelGroups": {
+		"dreamfeydarters": {
+			"name": "Dream Darters"
+		},
+		"feydarters": {
+			"name": "Fey Darters"
+		},
+		"veilwings": {
+			"name": "Veilwings"
+		},
+		"hornswogs": {
+			"name": "Hornswogs"
+		},
+		"cloudserpents": {
+			"name": "Cloud Serpents"
+		},
+		"celestialcloudserpents": {
+			"name": "Celestial Cloud Serpents"
+		},
+		"feywings": {
+			"name": "Feywings"
+		},
+		"harnessedfeywings": {
+			"name": "Harnessed Feywings"
+		},
+		"wilderlings": {
+			"name": "Wilderlings"
+		}
+	}
+}

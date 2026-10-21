@@ -1,0 +1,36 @@
+{
+	"id": "basilisk-outlandred",
+	"family": "basilisk",
+	"modelGroup": "outlandbasilisks",
+	"npcs": [
+		{
+			"id": 18648,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "terokkar-forest"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 20925,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blades-edge-mountains"
+				}
+			]
+		}
+	]
+}

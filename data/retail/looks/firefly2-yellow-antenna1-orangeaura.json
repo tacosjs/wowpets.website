@@ -1,0 +1,22 @@
+{
+	"id": "firefly2-yellow-antenna1-orangeaura",
+	"family": "moth",
+	"modelGroup": "candleflies",
+	"npcs": [
+		{
+			"id": 252994,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "shrouded-grove"
+				}
+			]
+		}
+	]
+}

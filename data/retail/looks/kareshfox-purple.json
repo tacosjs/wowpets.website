@@ -1,0 +1,22 @@
+{
+	"id": "kareshfox-purple",
+	"family": "fox",
+	"modelGroup": "thorntails",
+	"npcs": [
+		{
+			"id": 249798,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "eco-dome-primus"
+				}
+			]
+		}
+	]
+}

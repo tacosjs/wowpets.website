@@ -1,0 +1,30 @@
+{
+	"name": "Gold Owl Steed",
+	"variant": "Gold",
+	"npcs": {
+		"159298": {
+			"name": "Gilded Cloudstrider"
+		},
+		"160606": {
+			"name": "Glimmerhoof Cloudstrider"
+		},
+		"168442": {
+			"name": "Cloudstrider Grazer"
+		},
+		"168887": {
+			"name": "Gilded Cloudstrider"
+		},
+		"168890": {
+			"name": "Goldenback Stag"
+		},
+		"169123": {
+			"name": "Goldenback Grazer"
+		},
+		"170008": {
+			"name": "Goldenback Roamer"
+		},
+		"170383": {
+			"name": "Goldenback Drifter"
+		}
+	}
+}

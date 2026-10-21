@@ -1,0 +1,27 @@
+{
+	"name": "Green Silithid",
+	"variant": "Green",
+	"npcs": {
+		"5454": {
+			"name": "Hazzali Sandreaver"
+		},
+		"8205": {
+			"name": "Haarka the Ravenous"
+		},
+		"11723": {
+			"name": "Hive'Ashi Sandstalker"
+		},
+		"15320": {
+			"name": "Hive'Zara Soldier"
+		},
+		"15622": {
+			"name": "Vekniss Borer"
+		},
+		"48177": {
+			"name": "Silithid Ravager"
+		},
+		"50748": {
+			"name": "Nyaj"
+		}
+	}
+}

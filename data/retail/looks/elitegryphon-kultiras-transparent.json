@@ -1,0 +1,21 @@
+{
+	"id": "elitegryphon-kultiras-transparent",
+	"family": "feathermane",
+	"modelGroup": "grandgryphons",
+	"npcs": [
+		{
+			"id": 193154,
+			"tameable": true,
+			"level": {
+				"min": 62,
+				"max": 72
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "the-waking-shores"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,72 @@
+{
+	"name": "Black Bakar",
+	"variant": "Black",
+	"npcs": {
+		"185465": {
+			"name": "Nokhud Wardog"
+		},
+		"186861": {
+			"name": "Chonk"
+		},
+		"187839": {
+			"name": "Fogl"
+		},
+		"190962": {
+			"name": "Nokhud Warhound"
+		},
+		"191565": {
+			"name": "Nokhud Warhound"
+		},
+		"191803": {
+			"name": "Shikaar Bakar"
+		},
+		"192950": {
+			"name": "Shenzai"
+		},
+		"192951": {
+			"name": "Bankai"
+		},
+		"192952": {
+			"name": "Edai"
+		},
+		"193197": {
+			"name": "Herding Bakar"
+		},
+		"193208": {
+			"name": "Scavenging Bakar"
+		},
+		"193553": {
+			"name": "Nokhudon Warhound"
+		},
+		"194786": {
+			"name": "Cliffside Bakar"
+		},
+		"195221": {
+			"name": "Grasslands Bakar"
+		},
+		"195479": {
+			"name": "Shikaar Bakar"
+		},
+		"195753": {
+			"name": "Bloodcrazed Warhound"
+		},
+		"195954": {
+			"name": "Raven"
+		},
+		"196082": {
+			"name": "Coastal Bakar"
+		},
+		"196085": {
+			"name": "Juvenile Bakar"
+		},
+		"197514": {
+			"name": "Soyoo"
+		},
+		"212480": {
+			"name": "Murkfur Bakar"
+		},
+		"212482": {
+			"name": "Murkfur Pup"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Blue & Orange Mana Ray",
+	"variant": "Blue & Orange",
+	"npcs": {
+		"119969": {
+			"name": "Ancient Skyfin"
+		},
+		"126867": {
+			"name": "Venomtail Skyfin"
+		}
+	}
+}

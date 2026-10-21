@@ -1,0 +1,12 @@
+{
+	"name": "Dark Purple Crane",
+	"variant": "Dark Purple",
+	"npcs": {
+		"172072": {
+			"name": "Mist-Maddened Wader"
+		},
+		"175654": {
+			"name": "Dusky Mistwalker"
+		}
+	}
+}

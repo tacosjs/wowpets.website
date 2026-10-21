@@ -1,0 +1,18 @@
+{
+	"name": "Slate Blue Aqir Flier",
+	"variant": "Slate Blue",
+	"npcs": {
+		"154367": {
+			"name": "Aqir Impaler"
+		},
+		"162147": {
+			"name": "Corpse Eater"
+		},
+		"163091": {
+			"name": "Aqir Impaler"
+		},
+		"180153": {
+			"name": "Aqir Impaler"
+		}
+	}
+}

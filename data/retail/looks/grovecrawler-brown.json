@@ -1,0 +1,28 @@
+{
+	"id": "grovecrawler-brown",
+	"family": "serpent",
+	"modelGroup": "grovecrawlers",
+	"npcs": [
+		{
+			"id": 250231,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "harandar"
+				}
+			],
+			"keepsName": true
+		}
+	],
+	"alsoNpcs": [
+		245659,
+		250327,
+		249163,
+		246390
+	]
+}

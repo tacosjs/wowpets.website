@@ -1,0 +1,33 @@
+{
+	"name": "Brown Hornstrider w/ Regular Horns",
+	"variant": "Brown",
+	"npcs": {
+		"188089": {
+			"name": "Swift Hornstrider"
+		},
+		"190029": {
+			"name": "Swift Hornstrider"
+		},
+		"190909": {
+			"name": "Swift Hornstrider"
+		},
+		"191334": {
+			"name": "Anxious Hornstrider"
+		},
+		"192176": {
+			"name": "Hornstrider Hatchling"
+		},
+		"193301": {
+			"name": "Aggressive Hornstrider"
+		},
+		"193308": {
+			"name": "Hornstrider Chick"
+		},
+		"194673": {
+			"name": "Sprightly Hornstrider"
+		},
+		"195458": {
+			"name": "Sprightly Hornstrider"
+		}
+	}
+}

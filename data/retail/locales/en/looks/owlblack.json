@@ -1,0 +1,24 @@
+{
+	"name": "Black Owl",
+	"variant": "Black",
+	"npcs": {
+		"17039": {
+			"name": "Male Kaliri Hatchling"
+		},
+		"17053": {
+			"name": "Kaliri Swooper"
+		},
+		"18257": {
+			"name": "Gutripper"
+		},
+		"19055": {
+			"name": "Windroc Matriarch"
+		},
+		"42660": {
+			"name": "Hyjal Darkhawk"
+		},
+		"44020": {
+			"name": "Barn Owl"
+		}
+	}
+}

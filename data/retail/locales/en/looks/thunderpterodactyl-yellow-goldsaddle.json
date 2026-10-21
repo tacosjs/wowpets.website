@@ -1,0 +1,15 @@
+{
+	"name": "Yellow Skyscreamer w/ Gold Harness",
+	"variant": "Yellow Skyscreamer w/ Gold Harness",
+	"npcs": {
+		"69156": {
+			"name": "Zandalari Skyscreamer"
+		},
+		"69411": {
+			"name": "Zandalari Skyscreamer"
+		},
+		"69772": {
+			"name": "Zandalari Skyscreamer"
+		}
+	}
+}

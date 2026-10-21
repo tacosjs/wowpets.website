@@ -1,0 +1,21 @@
+{
+	"id": "manaray-blue-spectral",
+	"family": "ray",
+	"modelGroup": "manarays",
+	"npcs": [
+		{
+			"id": 170723,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shattered-grove"
+				}
+			]
+		}
+	]
+}

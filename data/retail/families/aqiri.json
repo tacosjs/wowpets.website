@@ -16,6 +16,26 @@
 	"modelGroups": [
 		{
 			"id": "kunchong"
+		},
+		{
+			"id": "aqirgoliaths"
+		},
+		{
+			"id": "ruggedsilithids"
+		},
+		{
+			"id": "silithids"
+		},
+		{
+			"id": "bosssilithids"
+		},
+		{
+			"id": "workersilithids"
+		},
+		{
+			"id": "sandreavers"
 		}
-	]
+	],
+	"wowId": 41,
+	"icon": "ability_hunter_pet_silithid"
 }

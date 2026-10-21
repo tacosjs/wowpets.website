@@ -1,0 +1,30 @@
+{
+	"name": "Yellow Grub",
+	"variant": "Yellow Grub",
+	"npcs": {
+		"8603": {
+			"name": "Carrion Grub"
+		},
+		"8605": {
+			"name": "Carrion Devourer"
+		},
+		"11896": {
+			"name": "Borelgore"
+		},
+		"15555": {
+			"name": "Hive'Zara Larva"
+		},
+		"16057": {
+			"name": "Rotting Maggot"
+		},
+		"20747": {
+			"name": "Silkwing Larva"
+		},
+		"27228": {
+			"name": "Jormungar Worm"
+		},
+		"118929": {
+			"name": "Ravenous Larva"
+		}
+	}
+}

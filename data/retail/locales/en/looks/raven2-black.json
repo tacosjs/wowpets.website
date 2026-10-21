@@ -1,0 +1,36 @@
+{
+	"name": "Black Raven",
+	"variant": "Black",
+	"npcs": {
+		"69349": {
+			"name": "Dark-Eye Raven"
+		},
+		"121610": {
+			"name": "Watchful Raven"
+		},
+		"124890": {
+			"name": "Ensorcelled Bonepicker"
+		},
+		"125411": {
+			"name": "Watchful Raven"
+		},
+		"128937": {
+			"name": "Scavenging Raven"
+		},
+		"130147": {
+			"name": "Watcher Raven"
+		},
+		"135049": {
+			"name": "Dreadwing Raven"
+		},
+		"137329": {
+			"name": "Grove Watcher"
+		},
+		"137468": {
+			"name": "Gorging Raven"
+		},
+		"175699": {
+			"name": "Soul Feaster"
+		}
+	}
+}

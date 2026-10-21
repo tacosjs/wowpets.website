@@ -1,0 +1,12 @@
+{
+	"name": "Silver Panthara w/ Pale Blue Glow",
+	"variant": "Silver Panthara w/ Pale Blue Glow",
+	"npcs": {
+		"123076": {
+			"name": "Duskcloak Alpha"
+		},
+		"126860": {
+			"name": "Kaara the Pale"
+		}
+	}
+}

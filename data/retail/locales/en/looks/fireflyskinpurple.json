@@ -1,0 +1,12 @@
+{
+	"name": "Purple Firefly w/ Purple Glow",
+	"variant": "Purple w/ Purple Glow",
+	"npcs": {
+		"18133": {
+			"name": "Marshlight Bleeder"
+		},
+		"65617": {
+			"name": "Zijin Hollowfly"
+		}
+	}
+}

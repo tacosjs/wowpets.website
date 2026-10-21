@@ -1,0 +1,48 @@
+{
+	"id": "nerubianbeetle-blue-mouth2-grasper1-horn1",
+	"family": "beetle",
+	"modelGroup": "stagshells",
+	"npcs": [
+		{
+			"id": 227279,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "the-skeins-city-of-threads"
+				}
+			]
+		},
+		{
+			"id": 227271,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "the-skeins-city-of-threads"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		223433,
+		223458,
+		227454,
+		215348,
+		225297,
+		223216,
+		225136,
+		227575,
+		214932
+	]
+}

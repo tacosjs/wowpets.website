@@ -1,0 +1,41 @@
+{
+	"name": "Orange Undercrawler w/ Blue Glow",
+	"variant": "Orange w/ Blue Glow",
+	"npcs": {
+		"213179": {
+			"name": "Avanoxx"
+		},
+		"215739": {
+			"name": "Invasive Undercrawler"
+		},
+		"216336": {
+			"name": "Ravenous Crawler"
+		},
+		"218015": {
+			"name": "Xesh Amputator",
+			"title": "Brood of Xishirra"
+		},
+		"218066": {
+			"name": "Xesh Hatchling"
+		},
+		"218961": {
+			"name": "Starved Crawler"
+		},
+		"219221": {
+			"name": "Ravenous Crawler"
+		},
+		"220257": {
+			"name": "Captured Undercrawler"
+		},
+		"222173": {
+			"name": "Invasive Undercrawler"
+		},
+		"222183": {
+			"name": "Freed Undercrawler"
+		},
+		"223329": {
+			"name": "Captured Undercrawler",
+			"title": "Glumtooth Trapper's Minion"
+		}
+	}
+}

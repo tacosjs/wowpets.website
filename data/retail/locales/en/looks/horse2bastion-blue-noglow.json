@@ -1,0 +1,12 @@
+{
+	"name": "Milky-Blue Dreamrunner",
+	"variant": "Milky-Blue",
+	"npcs": {
+		"248646": {
+			"name": "Skittish Springrunner"
+		},
+		"250212": {
+			"name": "Tranquil Springrunner"
+		}
+	}
+}

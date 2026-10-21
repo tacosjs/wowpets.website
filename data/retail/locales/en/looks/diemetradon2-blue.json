@@ -1,0 +1,15 @@
+{
+	"name": "Blue Diemetradon",
+	"variant": "Blue",
+	"npcs": {
+		"13323": {
+			"name": "Subterranean Diemetradon"
+		},
+		"55609": {
+			"name": "Lizzy"
+		},
+		"135510": {
+			"name": "Azuresail the Ancient"
+		}
+	}
+}

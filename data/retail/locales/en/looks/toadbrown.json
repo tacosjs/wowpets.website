@@ -1,0 +1,15 @@
+{
+	"name": "Brown Toad",
+	"variant": "Brown",
+	"npcs": {
+		"78671": {
+			"name": "Palebelly Croaker"
+		},
+		"109124": {
+			"name": "Pondswallow Frog"
+		},
+		"128099": {
+			"name": "Swamp Toad"
+		}
+	}
+}

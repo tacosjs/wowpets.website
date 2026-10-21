@@ -1,0 +1,18 @@
+{
+	"name": "Red & Black Teroclaw",
+	"variant": "Red & Black",
+	"npcs": {
+		"69712": {
+			"name": "Ji-Kun"
+		},
+		"73193": {
+			"name": "Hatchling"
+		},
+		"169050": {
+			"name": "Anima-Starved Shrieker"
+		},
+		"170698": {
+			"name": "Solstar Hunter"
+		}
+	}
+}

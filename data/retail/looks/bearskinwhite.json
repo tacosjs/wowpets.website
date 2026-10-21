@@ -1,0 +1,22 @@
+{
+	"id": "bearskinwhite",
+	"family": "bear",
+	"modelGroup": "retrobears",
+	"npcs": [
+		{
+			"id": 1130,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "dun-morogh"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

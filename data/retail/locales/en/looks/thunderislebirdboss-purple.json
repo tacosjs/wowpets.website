@@ -1,0 +1,18 @@
+{
+	"name": "Purple Teroclaw",
+	"variant": "Purple",
+	"npcs": {
+		"158256": {
+			"name": "Corrupted Cloudfeather"
+		},
+		"164391": {
+			"name": "Old Ardeite"
+		},
+		"168402": {
+			"name": "Darkwing"
+		},
+		"168475": {
+			"name": "Nesting Valeshrieker"
+		}
+	}
+}

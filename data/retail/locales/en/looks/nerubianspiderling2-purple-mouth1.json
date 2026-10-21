@@ -1,0 +1,21 @@
+{
+	"name": "Purple Threadling w/ Short Mandibles",
+	"variant": "Purple w/ Short Mandibles",
+	"npcs": {
+		"219739": {
+			"name": "Infested Spawn"
+		},
+		"221131": {
+			"name": "Threadling Scavenger"
+		},
+		"226013": {
+			"name": "Feral Threadling"
+		},
+		"227661": {
+			"name": "Distorted Threadling"
+		},
+		"229679": {
+			"name": "Scavenger Threadling"
+		}
+	}
+}

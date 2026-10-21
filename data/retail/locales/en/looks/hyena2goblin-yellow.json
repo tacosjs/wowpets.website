@@ -1,0 +1,23 @@
+{
+	"name": "Brown Goblin Hyena w/ Yellow Armor",
+	"variant": "Brown w/ Yellow Armor",
+	"npcs": {
+		"225726": {
+			"name": "Heckler"
+		},
+		"225789": {
+			"name": "Guarding Junktooth"
+		},
+		"227737": {
+			"name": "Rebar",
+			"title": "Krome's Enforcer"
+		},
+		"230995": {
+			"name": "Nitro",
+			"title": "Black Blood Hound"
+		},
+		"238607": {
+			"name": "Junkyard Hyena"
+		}
+	}
+}

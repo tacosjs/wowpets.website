@@ -1,0 +1,12 @@
+{
+	"name": "Auburn Maned Wolf w/ Grey Bands",
+	"variant": "Auburn w/ Grey Bands",
+	"npcs": {
+		"140070": {
+			"name": "Bloodscent the Tracker"
+		},
+		"167346": {
+			"name": "Wolf"
+		}
+	}
+}

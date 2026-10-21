@@ -1,0 +1,42 @@
+{
+	"name": "Brown Draenor Boar",
+	"variant": "Brown",
+	"npcs": {
+		"82534": {
+			"name": "Spike"
+		},
+		"86850": {
+			"name": "Young Rocktusk"
+		},
+		"89170": {
+			"name": "Gorian Battle Boar"
+		},
+		"130164": {
+			"name": "Highland Boar"
+		},
+		"130165": {
+			"name": "Highland Shoat"
+		},
+		"133822": {
+			"name": "Scavenging Boar"
+		},
+		"140094": {
+			"name": "Mudsnout Thornback"
+		},
+		"140096": {
+			"name": "Mudsnout Boar"
+		},
+		"250117": {
+			"name": "Tusksplitter Boar"
+		},
+		"255749": {
+			"name": "Tusksplitter Boar"
+		},
+		"258070": {
+			"name": "Tusksplitter Boar"
+		},
+		"258073": {
+			"name": "Tusksplitter Boar"
+		}
+	}
+}

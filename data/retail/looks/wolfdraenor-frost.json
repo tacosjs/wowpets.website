@@ -1,0 +1,21 @@
+{
+	"id": "wolfdraenor-frost",
+	"family": "wolf",
+	"modelGroup": "draenorwolves",
+	"npcs": [
+		{
+			"id": 241874,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "den-of-nalorakk"
+				}
+			]
+		}
+	]
+}

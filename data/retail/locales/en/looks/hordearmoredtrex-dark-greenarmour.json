@@ -1,0 +1,9 @@
+{
+	"name": "Black-Armored Black Horde Devilsaur",
+	"variant": "Black Armored Black",
+	"npcs": {
+		"71529": {
+			"name": "Thok the Bloodthirsty"
+		}
+	}
+}

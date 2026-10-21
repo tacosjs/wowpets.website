@@ -1,0 +1,9 @@
+{
+	"name": "Pink Sea Slug",
+	"variant": "Pink Sea Slug",
+	"npcs": {
+		"152791": {
+			"name": "Prismatic Slug"
+		}
+	}
+}

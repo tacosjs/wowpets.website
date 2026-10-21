@@ -1,0 +1,51 @@
+{
+	"name": "Scarlet Wasp",
+	"variant": "Scarlet",
+	"npcs": {
+		"128974": {
+			"name": "Queen Tzxi'kik"
+		},
+		"129288": {
+			"name": "Whistlebloom Sentry"
+		},
+		"133901": {
+			"name": "Whistlebloom Impaler"
+		},
+		"137054": {
+			"name": "Sandstinger Drone"
+		},
+		"140275": {
+			"name": "Dire Barb"
+		},
+		"146187": {
+			"name": "Firesting Dominator"
+		},
+		"157567": {
+			"name": "Ravager Worker"
+		},
+		"159756": {
+			"name": "Marrowbore Hatchling"
+		},
+		"160906": {
+			"name": "Skiver"
+		},
+		"220500": {
+			"name": "Sweet-sting Worker"
+		},
+		"222936": {
+			"name": "Sweet-sting Worker"
+		},
+		"252683": {
+			"name": "Scavenging Netherwasp"
+		},
+		"257140": {
+			"name": "Spitesting Netherwasp"
+		},
+		"257150": {
+			"name": "Spitesting Netherwasp"
+		},
+		"257946": {
+			"name": "Stinger Hatchling"
+		}
+	}
+}

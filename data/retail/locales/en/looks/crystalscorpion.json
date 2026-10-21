@@ -1,0 +1,58 @@
+{
+	"name": "Sapphire Scorpion",
+	"variant": "Sapphire",
+	"npcs": {
+		"102263": {
+			"name": "Skorpyron"
+		},
+		"103217": {
+			"name": "Crystalline Scorpid"
+		},
+		"108361": {
+			"name": "Crystalline Scorpid"
+		},
+		"216948": {
+			"name": "Scary Sticker"
+		},
+		"239461": {
+			"name": "Heinous Klaxid"
+		},
+		"246566": {
+			"name": "Mirrorvise"
+		},
+		"247444": {
+			"name": "Infused Klaxid"
+		},
+		"247519": {
+			"name": "Loanite Klaxid"
+		},
+		"248220": {
+			"name": "Fledgling Klaxid"
+		},
+		"252682": {
+			"name": "Hoarding Klaxid"
+		},
+		"254720": {
+			"name": "Frenzied Klaxid"
+		},
+		"255514": {
+			"name": "Shardstinger Klaxid"
+		},
+		"257088": {
+			"name": "Shardstinger Klaxid"
+		},
+		"257112": {
+			"name": "Crystalback Juvenile"
+		},
+		"261085": {
+			"name": "Invasive Crystalback"
+		},
+		"264866": {
+			"name": "Krilkan",
+			"title": "The Crystal Bulwark"
+		},
+		"265935": {
+			"name": "Corrupted Scorpion"
+		}
+	}
+}

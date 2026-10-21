@@ -1,0 +1,13 @@
+{
+	"name": "Teal & Yellow Cosmic Ray",
+	"variant": "Teal & Yellow",
+	"npcs": {
+		"234201": {
+			"name": "Wastes Ray",
+			"title": "Wastelander Wildcaller's Pet"
+		},
+		"246460": {
+			"name": "Ray of Putrescence"
+		}
+	}
+}

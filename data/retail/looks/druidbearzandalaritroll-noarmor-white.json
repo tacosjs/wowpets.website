@@ -1,0 +1,10 @@
+{
+	"id": "druidbearzandalaritroll-noarmor-white",
+	"family": "scalehide",
+	"modelGroup": "ankylodons",
+	"npcs": [],
+	"alsoNpcs": [
+		123093,
+		180095
+	]
+}

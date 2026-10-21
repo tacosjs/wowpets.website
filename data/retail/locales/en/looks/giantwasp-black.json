@@ -1,0 +1,72 @@
+{
+	"name": "Pewter Wasp",
+	"variant": "Pewter",
+	"npcs": {
+		"124536": {
+			"name": "Bilewing Crippler"
+		},
+		"128966": {
+			"name": "Marsh Hornet"
+		},
+		"129287": {
+			"name": "Whistlebloom Drone"
+		},
+		"129298": {
+			"name": "Whistlebloom Drone"
+		},
+		"146238": {
+			"name": "Blacksting"
+		},
+		"146245": {
+			"name": "Skitterwing"
+		},
+		"155050": {
+			"name": "Honey Seeker Hivemother"
+		},
+		"168692": {
+			"name": "Ossein Worker"
+		},
+		"169250": {
+			"name": "Rotsting Worker"
+		},
+		"216078": {
+			"name": "Fallowbarb"
+		},
+		"222496": {
+			"name": "Wandering Stinger"
+		},
+		"223178": {
+			"name": "Shacklefang Hornet"
+		},
+		"224501": {
+			"name": "Berrybuzz Stinger"
+		},
+		"226128": {
+			"name": "Berrybuzz Harvester"
+		},
+		"226291": {
+			"name": "Territorial Wasp"
+		},
+		"227285": {
+			"name": "Sweetstinger Scout"
+		},
+		"227631": {
+			"name": "Sweetstinger Wasp"
+		},
+		"235413": {
+			"name": "Territorial Netherwasp"
+		},
+		"250128": {
+			"name": "Buzzing Mudcoat"
+		},
+		"257945": {
+			"name": "Stinger Matriarch"
+		},
+		"261476": {
+			"name": "Spineback Hornet"
+		},
+		"261651": {
+			"name": "Carrion Hornet"
+		}
+	}
+}

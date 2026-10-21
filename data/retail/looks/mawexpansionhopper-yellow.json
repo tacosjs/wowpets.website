@@ -1,0 +1,36 @@
+{
+	"id": "mawexpansionhopper-yellow",
+	"family": "hopper",
+	"modelGroup": "gromits",
+	"npcs": [
+		{
+			"id": 177335,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "korthia",
+					"area": "gromit-hollow"
+				}
+			]
+		},
+		{
+			"id": 230598,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh"
+				}
+			]
+		}
+	]
+}

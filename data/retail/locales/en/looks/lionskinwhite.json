@@ -1,0 +1,12 @@
+{
+	"name": "White Lion",
+	"variant": "White",
+	"npcs": {
+		"3475": {
+			"name": "Echeyakee"
+		},
+		"10741": {
+			"name": "Sian-Rotam"
+		}
+	}
+}

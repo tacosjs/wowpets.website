@@ -1,0 +1,12 @@
+{
+	"name": "Plated Green Water Strider",
+	"variant": "Green",
+	"npcs": {
+		"58067": {
+			"name": "Jungle Skitterer"
+		},
+		"112334": {
+			"name": "Frenzied Riverbug"
+		}
+	}
+}

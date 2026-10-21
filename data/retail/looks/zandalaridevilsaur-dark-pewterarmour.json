@@ -1,0 +1,51 @@
+{
+	"id": "zandalaridevilsaur-dark-pewterarmour",
+	"family": "devilsaur",
+	"modelGroup": "armoreddevilsaurs",
+	"npcs": [
+		{
+			"id": 135908,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "temple-of-rezan"
+				}
+			]
+		},
+		{
+			"id": 67477,
+			"tameable": false,
+			"level": {
+				"min": 32,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "isle-of-thunder"
+				}
+			]
+		},
+		{
+			"id": 122639,
+			"tameable": false,
+			"level": {
+				"min": 52,
+				"max": 52
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "dazaralor"
+				}
+			]
+		}
+	]
+}

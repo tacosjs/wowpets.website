@@ -1,0 +1,15 @@
+{
+	"name": "Purple Hyena",
+	"variant": "Purple",
+	"npcs": {
+		"5427": {
+			"name": "Rabid Blisterpaw"
+		},
+		"5829": {
+			"name": "Snort the Heckler"
+		},
+		"8300": {
+			"name": "Ravage"
+		}
+	}
+}

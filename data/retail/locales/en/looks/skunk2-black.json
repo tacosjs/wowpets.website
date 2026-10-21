@@ -1,0 +1,15 @@
+{
+	"name": "Black Skunk",
+	"variant": "Black",
+	"npcs": {
+		"209496": {
+			"name": "Frightened Skunk"
+		},
+		"238582": {
+			"name": "Skunk"
+		},
+		"261369": {
+			"name": "Odorous Stripeback"
+		}
+	}
+}

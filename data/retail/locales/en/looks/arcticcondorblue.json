@@ -1,0 +1,40 @@
+{
+	"name": "Blue Condor",
+	"variant": "Blue",
+	"npcs": {
+		"26483": {
+			"name": "Dragonbone Condor"
+		},
+		"39833": {
+			"name": "Twilight Buzzard"
+		},
+		"50812": {
+			"name": "Arae"
+		},
+		"50814": {
+			"name": "Corpsefeeder"
+		},
+		"74414": {
+			"name": "Juvenile Bonestripper"
+		},
+		"75348": {
+			"name": "Frostfire Bonestripper"
+		},
+		"76819": {
+			"name": "Frostfire Fleshripper"
+		},
+		"77306": {
+			"name": "Trained Bonestripper",
+			"title": "Thunderlord Wrangler's Pet"
+		},
+		"78108": {
+			"name": "Frostbeak Scavenger"
+		},
+		"92117": {
+			"name": "Gorebeak"
+		},
+		"180851": {
+			"name": "Dragonbone Condor"
+		}
+	}
+}

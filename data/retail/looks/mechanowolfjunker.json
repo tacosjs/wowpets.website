@@ -1,0 +1,76 @@
+{
+	"id": "mechanowolfjunker",
+	"family": "mechanical",
+	"modelGroup": "mechanowolves",
+	"npcs": [
+		{
+			"id": 150254,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "operation-mechagon"
+				}
+			]
+		},
+		{
+			"id": 144246,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "operation-mechagon",
+					"area": "the-under-junk"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 150785,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mechagon",
+					"area": "bondos-yard"
+				}
+			]
+		},
+		{
+			"id": 234480,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "undermine"
+				}
+			]
+		},
+		{
+			"id": 229283,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "liberation-of-undermine"
+				}
+			]
+		}
+	]
+}

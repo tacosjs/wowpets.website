@@ -1,0 +1,39 @@
+{
+	"id": "oxen",
+	"wowId": 157,
+	"icon": "ability_mount_yakmount",
+	"spec": "tenacity",
+	"exotic": false,
+	"diet": [
+		"bread",
+		"cheese",
+		"fruit",
+		"fungus"
+	],
+	"abilities": {
+		"basic": "smack",
+		"family": [
+			"niuzaos-fortitude"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "tauralus"
+		},
+		{
+			"id": "armouredtauralus"
+		},
+		{
+			"id": "saddledtauralus"
+		},
+		{
+			"id": "yaks"
+		},
+		{
+			"id": "musken"
+		},
+		{
+			"id": "shoveltusks"
+		}
+	]
+}

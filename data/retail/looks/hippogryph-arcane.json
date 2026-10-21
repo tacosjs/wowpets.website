@@ -1,0 +1,57 @@
+{
+	"id": "hippogryph-arcane",
+	"family": "feathermane",
+	"modelGroup": "grandhippogryphs",
+	"npcs": [
+		{
+			"id": 16875,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "azsuna"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 116059,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "the-nighthold",
+					"area": "nightspire"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 115537,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "feralas",
+					"area": "frayfeather-highlands"
+				}
+			]
+		}
+	]
+}

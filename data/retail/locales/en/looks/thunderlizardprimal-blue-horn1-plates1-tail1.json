@@ -1,0 +1,9 @@
+{
+	"name": "Simple Blue Primal Thunder Lizard",
+	"variant": "Blue",
+	"npcs": {
+		"192941": {
+			"name": "Thunderspine Rumbler"
+		}
+	}
+}

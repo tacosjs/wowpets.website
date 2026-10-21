@@ -1,0 +1,12 @@
+{
+	"name": "Primal Orange Ultradon",
+	"variant": "Primal Orange Ultradon",
+	"npcs": {
+		"239923": {
+			"name": "Assimilated Ultradon"
+		},
+		"245226": {
+			"name": "Voidborn Linebreaker"
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"name": "Silver-Grey Hyena",
+	"variant": "Silver-Grey",
+	"npcs": {
+		"5985": {
+			"name": "Snickerfang Hyena"
+		},
+		"14228": {
+			"name": "Giggler"
+		},
+		"60932": {
+			"name": "Ashfang Hyena"
+		},
+		"130439": {
+			"name": "Ashmane"
+		},
+		"162381": {
+			"name": "Rabid Hyena"
+		}
+	}
+}

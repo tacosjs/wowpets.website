@@ -1,0 +1,9 @@
+{
+	"name": "Grey Maned Wolf w/ Brown Bands",
+	"variant": "Grey w/ Brown Bands",
+	"npcs": {
+		"140300": {
+			"name": "Ripshread"
+		}
+	}
+}

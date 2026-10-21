@@ -1,0 +1,85 @@
+{
+	"id": "zandalaridevilsaur-green",
+	"family": "devilsaur",
+	"modelGroup": "zandalaridevilsaurs",
+	"npcs": [
+		{
+			"id": 139706,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "savagelands"
+				}
+			]
+		},
+		{
+			"id": 70006,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "isle-of-giants"
+				}
+			]
+		},
+		{
+			"id": 70009,
+			"tameable": true,
+			"level": {
+				"min": 36,
+				"max": 36
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "isle-of-giants"
+				}
+			]
+		},
+		{
+			"id": 152296,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "savagelands"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 103634,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "sueshs-lair"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		187262,
+		124728
+	]
+}

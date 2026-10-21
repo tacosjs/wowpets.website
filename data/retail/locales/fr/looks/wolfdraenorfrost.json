@@ -1,0 +1,30 @@
+{
+	"npcs": {
+		"73323": {
+			"name": "Loup de givre"
+		},
+		"73571": {
+			"name": "Neigepatte",
+			"title": "Compagnon d’Urukag"
+		},
+		"74032": {
+			"name": "Loup de givre"
+		},
+		"74748": {
+			"name": "Loup de givre"
+		},
+		"76241": {
+			"name": "Traque-Nuit",
+			"title": "Compagnon de Durotan"
+		},
+		"77886": {
+			"name": "Loup de givre"
+		},
+		"92906": {
+			"name": "Loup de givre"
+		},
+		"112497": {
+			"name": "Maia la Blanche"
+		}
+	}
+}

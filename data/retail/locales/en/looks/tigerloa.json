@@ -1,0 +1,16 @@
+{
+	"name": "Loa Tiger",
+	"variant": "Red Loa",
+	"npcs": {
+		"123052": {
+			"name": "Kimbul"
+		},
+		"210868": {
+			"name": "Sul'raka",
+			"title": "Daughter of Kimbul"
+		},
+		"233755": {
+			"name": "Imagined Rug Monster"
+		}
+	}
+}

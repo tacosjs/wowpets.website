@@ -1,0 +1,12 @@
+{
+	"name": "Black-Winged White Hawk",
+	"variant": "Black-Winged White",
+	"npcs": {
+		"131136": {
+			"name": "Glacial Hunter"
+		},
+		"224018": {
+			"name": "Bloated Seagull"
+		}
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"name": "White Fen Strider",
+	"variant": "White",
+	"npcs": {
+		"50960": {
+			"name": "Hexapos"
+		},
+		"159637": {
+			"name": "Ol' Gertie",
+			"title": "Silkstrider Matriarch"
+		},
+		"167065": {
+			"name": "Maribel"
+		},
+		"167066": {
+			"name": "Daisy"
+		},
+		"167069": {
+			"name": "Lillythistle Jr."
+		},
+		"167070": {
+			"name": "Rose"
+		},
+		"167071": {
+			"name": "Miss Spot"
+		},
+		"167480": {
+			"name": "The Lonely Matriarch"
+		},
+		"168090": {
+			"name": "Betsy",
+			"title": "Silkstrider"
+		},
+		"179671": {
+			"name": "Ella"
+		},
+		"179672": {
+			"name": "Ella"
+		}
+	}
+}

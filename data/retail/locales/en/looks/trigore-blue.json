@@ -1,0 +1,12 @@
+{
+	"name": "Blue Trigore",
+	"variant": "Blue",
+	"npcs": {
+		"256606": {
+			"name": "Voltaic Trigore"
+		},
+		"260954": {
+			"name": "Vicious Trigore"
+		}
+	}
+}

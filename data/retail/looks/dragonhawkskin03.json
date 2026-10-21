@@ -1,0 +1,50 @@
+{
+	"id": "dragonhawkskin03",
+	"family": "dragonhawk",
+	"modelGroup": "dragonhawks",
+	"npcs": [
+		{
+			"id": 20502,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-outland"
+				}
+			]
+		},
+		{
+			"id": 20039,
+			"tameable": true,
+			"level": {
+				"min": 32,
+				"max": 32
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "tempest-keep-the-eye"
+				}
+			]
+		},
+		{
+			"id": 67676,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "townlong-steppes",
+					"area": "shado-pan-garrison"
+				}
+			]
+		}
+	]
+}

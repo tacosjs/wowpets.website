@@ -1,0 +1,12 @@
+{
+	"name": "Orange Veilwing",
+	"variant": "Orange",
+	"npcs": {
+		"167503": {
+			"name": "Veilwing Guardian"
+		},
+		"178956": {
+			"name": "Terrified Veilwing"
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"id": "armoredtrex-body-light-armor-armor-light",
+	"family": "devilsaur",
+	"modelGroup": "skeletaldevilsaurs",
+	"npcs": [
+		{
+			"id": 206052,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "shifting-sands"
+				}
+			]
+		}
+	]
+}

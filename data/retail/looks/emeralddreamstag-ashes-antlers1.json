@@ -1,0 +1,27 @@
+{
+	"id": "emeralddreamstag-ashes-antlers1",
+	"family": "stag",
+	"modelGroup": "dreamstags",
+	"npcs": [
+		{
+			"id": 210894,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "viridescent-thicket-lushdream-crags"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		211990,
+		211347,
+		209492
+	]
+}

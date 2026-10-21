@@ -1,0 +1,33 @@
+{
+	"name": "White Bakar",
+	"variant": "White",
+	"npcs": {
+		"187838": {
+			"name": "Zephyr"
+		},
+		"189377": {
+			"name": "Hugo"
+		},
+		"191408": {
+			"name": "Wish"
+		},
+		"191417": {
+			"name": "Wish"
+		},
+		"193052": {
+			"name": "Barbed Bakar Runt"
+		},
+		"193402": {
+			"name": "Snowscruff Runt"
+		},
+		"196871": {
+			"name": "Baga"
+		},
+		"221052": {
+			"name": "Captain"
+		},
+		"250972": {
+			"name": "Captain"
+		}
+	}
+}

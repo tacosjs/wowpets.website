@@ -1,0 +1,22 @@
+{
+	"id": "crab2-ivory-hermitcrabshell-default",
+	"family": "crab",
+	"modelGroup": "hermitcrabs",
+	"npcs": [
+		{
+			"id": 217477,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "the-faded-shore-bleak-sand"
+				}
+			]
+		}
+	]
+}

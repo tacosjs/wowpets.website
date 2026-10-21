@@ -1,0 +1,15 @@
+{
+	"name": "Blue Basilisk w/Purple Fringes",
+	"variant": "Blue w/Purple",
+	"npcs": {
+		"1552": {
+			"name": "Scale Belly"
+		},
+		"43237": {
+			"name": "Deadly Crystalgazer"
+		},
+		"105646": {
+			"name": "Captive Basilisk"
+		}
+	}
+}

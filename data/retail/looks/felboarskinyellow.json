@@ -1,0 +1,36 @@
+{
+	"id": "felboarskinyellow",
+	"family": "boar",
+	"modelGroup": "felboars",
+	"npcs": [
+		{
+			"id": 8303,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "blasted-lands"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 21195,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-outland"
+				}
+			]
+		}
+	]
+}

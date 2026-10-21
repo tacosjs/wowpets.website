@@ -1,0 +1,13 @@
+{
+	"name": "Grey-Brown Owlcat",
+	"variant": "Grey-Brown",
+	"npcs": {
+		"103712": {
+			"name": "Yowlon",
+			"title": "King of the Feathermane"
+		},
+		"121502": {
+			"name": "Very Lost Feathermane Kitten"
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": "basiliskskingreen-crystalskinjade",
+	"family": "basilisk",
+	"modelGroup": "basilisks",
+	"npcs": [
+		{
+			"id": 4863,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "uldaman"
+				}
+			]
+		}
+	]
+}

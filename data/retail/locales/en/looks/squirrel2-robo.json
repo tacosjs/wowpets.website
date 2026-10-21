@@ -1,0 +1,12 @@
+{
+	"name": "Mechanical Squirrel",
+	"variant": "squirrel2_robo",
+	"npcs": {
+		"67546": {
+			"name": "Scout-o-Meter Mk II"
+		},
+		"107477": {
+			"name": "N.U.T.Z."
+		}
+	}
+}

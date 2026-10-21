@@ -1,0 +1,21 @@
+{
+	"name": "Green Dragon Turtle",
+	"variant": "Green",
+	"npcs": {
+		"56832": {
+			"name": "Razorback Snapper"
+		},
+		"58811": {
+			"name": "Jade Snapping Turtle"
+		},
+		"61971": {
+			"name": "Sharpshell Wader"
+		},
+		"124580": {
+			"name": "Grotto Terrapin"
+		},
+		"136149": {
+			"name": "Wetshell Matriarch"
+		}
+	}
+}

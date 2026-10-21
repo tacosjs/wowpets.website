@@ -1,0 +1,27 @@
+{
+	"id": "monkeywhite",
+	"family": "monkey",
+	"modelGroup": "monkeys",
+	"npcs": [
+		{
+			"id": 48278,
+			"tameable": true,
+			"level": {
+				"min": 6,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-deadmines"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		34699,
+		35812,
+		52441,
+		36383
+	]
+}

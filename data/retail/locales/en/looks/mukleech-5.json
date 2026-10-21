@@ -1,0 +1,15 @@
+{
+	"name": "Black & Brown Mukleech",
+	"variant": "Black & Brown",
+	"npcs": {
+		"253489": {
+			"name": "Sludge Biter"
+		},
+		"255141": {
+			"name": "Spiny Leechling"
+		},
+		"265337": {
+			"name": "Sludgling"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"name": "White Hydra",
+	"variant": "White",
+	"npcs": {
+		"7273": {
+			"name": "Gahz'rilla"
+		},
+		"12207": {
+			"name": "Thessala Hydra"
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"name": "Black Storm Wolf",
+	"variant": "Black",
+	"npcs": {
+		"151144": {
+			"name": "Hati"
+		},
+		"214971": {
+			"name": "Ironwold Alpha"
+		},
+		"216017": {
+			"name": "Great Stormfang"
+		},
+		"222797": {
+			"name": "Tempest Wolf"
+		},
+		"233274": {
+			"name": "Tempest Wolf"
+		}
+	}
+}

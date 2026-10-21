@@ -1,0 +1,95 @@
+{
+	"name": "Bird of Prey",
+	"modelGroups": {
+		"amanieagles": {
+			"name": "Amani Eagles"
+		},
+		"lightanddarkphoenixes": {
+			"name": "Light & Dark Phoenixes"
+		},
+		"hexedamanieagles": {
+			"name": "Hexed Amani Eagles"
+		},
+		"karrocs": {
+			"name": "K'arrocs"
+		},
+		"dreamowls": {
+			"name": "Somnowls"
+		},
+		"ohunas": {
+			"name": "Ohunas"
+		},
+		"phoenixes": {
+			"name": "Phoenixes"
+		},
+		"raptoras": {
+			"name": "Raptoras"
+		},
+		"protoavians": {
+			"name": "Proto Avians"
+		},
+		"deathrocs": {
+			"name": "Death Rocs"
+		},
+		"dreadravens": {
+			"name": "Dread Ravens"
+		},
+		"rocs": {
+			"name": "Dread Rocs"
+		},
+		"falcons": {
+			"name": "Falcons"
+		},
+		"hawks": {
+			"name": "Hawks"
+		},
+		"grandparrots": {
+			"name": "Parrots"
+		},
+		"albatrosses": {
+			"name": "Albatrosses"
+		},
+		"wardenowls": {
+			"name": "Warden Owls"
+		},
+		"eagles": {
+			"name": "Eagles"
+		},
+		"draenorkaliri": {
+			"name": "Draenor Kaliri"
+		},
+		"axebeaks": {
+			"name": "Axebeaks"
+		},
+		"owls": {
+			"name": "Owls"
+		},
+		"parrots": {
+			"name": "Classic Parrots"
+		},
+		"corrupteddreadravens": {
+			"name": "Corrupted Dread Ravens"
+		},
+		"classicstormcrows": {
+			"name": "Classic Stormcrows"
+		},
+		"deathhawks": {
+			"name": "Death Hawks"
+		},
+		"classicseagulls": {
+			"name": "Classic Seagulls"
+		},
+		"classiceagles": {
+			"name": "Classic Eagles"
+		},
+		"firehawks": {
+			"name": "Firehawks"
+		},
+		"mysticalphoenixes": {
+			"name": "Mystical Phoenixes"
+		},
+		"bramblewings": {
+			"name": "Bramblewings"
+		}
+	}
+}

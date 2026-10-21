@@ -1,0 +1,10 @@
+{
+	"id": "alpaca-yellow",
+	"family": "camel",
+	"modelGroup": "alpacas",
+	"npcs": [],
+	"alsoNpcs": [
+		126627,
+		136354
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Silver-Grey Goblin Hyena w/ Purple Armor",
+	"variant": "Silver-Grey w/ Purple Armor",
+	"npcs": {
+		"230945": {
+			"name": "Contraband Sniffer"
+		},
+		"238611": {
+			"name": "Off-Duty Sniffer"
+		}
+	}
+}

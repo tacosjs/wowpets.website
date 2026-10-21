@@ -1,0 +1,15 @@
+{
+	"name": "Dark Yellow Water Strider",
+	"variant": "Dark Yellow",
+	"npcs": {
+		"60411": {
+			"name": "Water Pincer"
+		},
+		"66891": {
+			"name": "Summit Strider"
+		},
+		"231322": {
+			"name": "Lambent Waterstrider"
+		}
+	}
+}

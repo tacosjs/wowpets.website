@@ -1,0 +1,52 @@
+{
+	"id": "pandarenserpent-white-lightning",
+	"family": "lesserdragonkin",
+	"modelGroup": "cloudserpents",
+	"npcs": [
+		{
+			"id": 154761,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms",
+					"area": "mistfall-village"
+				}
+			]
+		},
+		{
+			"id": 156389,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms",
+					"area": "the-golden-stair"
+				}
+			]
+		},
+		{
+			"id": 156416,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "kun-lai-summit",
+					"area": "gate-of-the-august-celestials"
+				}
+			]
+		}
+	]
+}

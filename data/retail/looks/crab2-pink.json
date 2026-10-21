@@ -1,0 +1,32 @@
+{
+	"id": "crab2-pink",
+	"family": "crab",
+	"modelGroup": "grandcrabs",
+	"npcs": [
+		{
+			"id": 123291,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		151327,
+		188334,
+		197955,
+		188328,
+		224876,
+		222312,
+		222156,
+		227664,
+		182439
+	]
+}

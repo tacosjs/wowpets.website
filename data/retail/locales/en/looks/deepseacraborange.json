@@ -1,0 +1,28 @@
+{
+	"name": "Orange Spiked Crab",
+	"variant": "Orange",
+	"npcs": {
+		"41609": {
+			"name": "Silversand Burrower"
+		},
+		"42880": {
+			"name": "Crushclaw",
+			"title": "Miriam's Pet"
+		},
+		"97926": {
+			"name": "Coralback Scuttler"
+		},
+		"99720": {
+			"name": "Coastal Spikeback"
+		},
+		"134786": {
+			"name": "Spineclaw Sandsnapper"
+		},
+		"134788": {
+			"name": "Spineclaw Rockshell"
+		},
+		"144611": {
+			"name": "Coralback Scuttler"
+		}
+	}
+}

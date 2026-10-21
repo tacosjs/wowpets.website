@@ -1,0 +1,22 @@
+{
+	"name": "Dark Mammoth w/ Medium Tusks",
+	"variant": "Dark",
+	"npcs": {
+		"189220": {
+			"name": "Highland Mammoth Bull"
+		},
+		"194306": {
+			"name": "Highland Mammoth Bull"
+		},
+		"195195": {
+			"name": "Highland Mammoth Bull"
+		},
+		"242167": {
+			"name": "Moody Mammoth"
+		},
+		"258211": {
+			"name": "Packpeddle of the Hunt",
+			"title": "Repair Vendor"
+		}
+	}
+}

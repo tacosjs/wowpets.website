@@ -1,0 +1,34 @@
+{
+	"id": "hawkstrider-green",
+	"family": "tallstrider",
+	"modelGroup": "hawkstriders",
+	"npcs": [
+		{
+			"id": 251464,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "isle-of-queldanas-eversong-woods"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		256843,
+		256836,
+		250229,
+		251055,
+		243832,
+		257954,
+		244918,
+		254722,
+		264269,
+		252715
+	]
+}

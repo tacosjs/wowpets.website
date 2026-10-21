@@ -1,0 +1,9 @@
+{
+	"name": "Orange Sandreaver",
+	"variant": "Orange",
+	"npcs": {
+		"87251": {
+			"name": "Sandreaver"
+		}
+	}
+}

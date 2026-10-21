@@ -1,0 +1,12 @@
+{
+	"name": "Black Ankylodon",
+	"variant": "Black",
+	"npcs": {
+		"123093": {
+			"name": "Ankylodon Bull"
+		},
+		"180095": {
+			"name": "Ankylodon Bull"
+		}
+	}
+}

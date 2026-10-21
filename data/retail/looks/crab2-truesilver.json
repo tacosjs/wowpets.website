@@ -1,0 +1,55 @@
+{
+	"id": "crab2-truesilver",
+	"family": "crab",
+	"modelGroup": "grandcrabs",
+	"npcs": [
+		{
+			"id": 84341,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "eventide-landing"
+				}
+			]
+		},
+		{
+			"id": 101624,
+			"tameable": true,
+			"level": {
+				"min": 16,
+				"max": 61
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "northern-stranglethorn",
+					"area": "the-vile-reef"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 84432,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-draenor"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		111784
+	]
+}

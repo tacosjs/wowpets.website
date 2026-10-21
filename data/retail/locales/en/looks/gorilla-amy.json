@@ -1,0 +1,19 @@
+{
+	"name": "Mechanical Gorilla",
+	"variant": "Mechanical",
+	"npcs": {
+		"9623": {
+			"name": "A-Me 01"
+		},
+		"107836": {
+			"name": "A-Me 02"
+		},
+		"145790": {
+			"name": "Remote-Controlled Mechanogorilla"
+		},
+		"151634": {
+			"name": "Motorback Ape",
+			"title": "Scrap King's Minion"
+		}
+	}
+}

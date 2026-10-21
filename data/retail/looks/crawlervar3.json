@@ -1,0 +1,22 @@
+{
+	"id": "crawlervar3",
+	"family": "ravager",
+	"modelGroup": "ravagers",
+	"npcs": [
+		{
+			"id": 50370,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "silithus"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

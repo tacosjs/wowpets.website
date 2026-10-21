@@ -1,0 +1,27 @@
+{
+	"name": "Light Grey Beetle",
+	"variant": "Light Grey",
+	"npcs": {
+		"15462": {
+			"name": "Spitting Scarab"
+		},
+		"51063": {
+			"name": "Phalanax"
+		},
+		"140369": {
+			"name": "Cryptseeker"
+		},
+		"140372": {
+			"name": "Hive Guardian Ksh'ix"
+		},
+		"141720": {
+			"name": "Ridge Crawler"
+		},
+		"141755": {
+			"name": "Ridge Skimmer"
+		},
+		"214317": {
+			"name": "Shadow-Sour Mite"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Spotted Orange Mystic Cat",
+	"variant": "Spotted Orange",
+	"npcs": {
+		"50825": {
+			"name": "Feras"
+		}
+	}
+}

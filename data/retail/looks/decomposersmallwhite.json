@@ -1,0 +1,27 @@
+{
+	"id": "decomposersmallwhite",
+	"family": "carapid",
+	"modelGroup": "gormlings",
+	"npcs": [
+		{
+			"id": 171370,
+			"tameable": false,
+			"level": {
+				"min": 55,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "gormhive"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		174458,
+		161457,
+		171194
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"name": "Brown Warden Owl",
+	"variant": "Brown",
+	"npcs": {
+		"91269": {
+			"name": "Llothien Owl"
+		},
+		"127636": {
+			"name": "Tiragarde Owl"
+		},
+		"168919": {
+			"name": "Elysian Owl"
+		},
+		"193387": {
+			"name": "Owl"
+		},
+		"193509": {
+			"name": "Woodland Filcher"
+		},
+		"195151": {
+			"name": "Perching Hunter"
+		},
+		"216710": {
+			"name": "Bel'ameth Watcher"
+		},
+		"235452": {
+			"name": "Owl"
+		}
+	}
+}

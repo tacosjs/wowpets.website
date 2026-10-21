@@ -1,0 +1,12 @@
+{
+	"name": "Red Aqir Goliath",
+	"variant": "Red",
+	"npcs": {
+		"155703": {
+			"name": "Anq'uri the Titanic"
+		},
+		"160970": {
+			"name": "Vuk'laz the Earthbreaker"
+		}
+	}
+}

@@ -1,0 +1,101 @@
+{
+	"id": "poisondartfrog-red",
+	"family": "hopper",
+	"modelGroup": "diretoads",
+	"npcs": [
+		{
+			"id": 257155,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "atalabasi"
+				}
+			]
+		},
+		{
+			"id": 250826,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "zebnowa"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 247011,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman"
+				}
+			]
+		},
+		{
+			"id": 242032,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "the-stump"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 254533,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "atalaman"
+				}
+			]
+		},
+		{
+			"id": 268662,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-venomous-abyss"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		250143,
+		243171,
+		264270
+	]
+}

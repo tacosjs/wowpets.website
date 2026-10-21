@@ -1,0 +1,39 @@
+{
+	"id": "gruffhorn",
+	"icon": "inv_pet_goat",
+	"spec": "cunning",
+	"exotic": false,
+	"diet": [
+		"bread",
+		"cheese",
+		"fish",
+		"raw-fish",
+		"fruit",
+		"fungus",
+		"meat",
+		"raw-meat"
+	],
+	"abilities": {
+		"basic": "smack",
+		"family": [
+			"gruff"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "mosswools"
+		},
+		{
+			"id": "ramoliths"
+		},
+		{
+			"id": "argalis"
+		},
+		{
+			"id": "greaterrams"
+		},
+		{
+			"id": "goats"
+		}
+	]
+}

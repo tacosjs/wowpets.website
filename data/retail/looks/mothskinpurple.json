@@ -1,0 +1,37 @@
+{
+	"id": "mothskinpurple",
+	"family": "moth",
+	"modelGroup": "moths",
+	"npcs": [
+		{
+			"id": 78390,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "talador",
+					"area": "jorune-mine"
+				}
+			]
+		},
+		{
+			"id": 78598,
+			"tameable": false,
+			"level": {
+				"min": 20,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "talador",
+					"area": "jorune-mine"
+				}
+			]
+		}
+	]
+}

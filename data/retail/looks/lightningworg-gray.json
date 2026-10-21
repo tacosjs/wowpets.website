@@ -1,0 +1,51 @@
+{
+	"id": "lightningworg-gray",
+	"family": "spiritbeast",
+	"modelGroup": "spiritstormwolves",
+	"npcs": [
+		{
+			"id": 151145,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-storm-peaks",
+					"area": "temple-of-storms"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 218205,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn"
+				}
+			]
+		},
+		{
+			"id": 226295,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn"
+				}
+			]
+		}
+	]
+}

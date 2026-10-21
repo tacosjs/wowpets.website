@@ -1,0 +1,27 @@
+{
+	"name": "Black Thunder Hydra",
+	"variant": "Black",
+	"npcs": {
+		"152546": {
+			"name": "Stonemaw Devourer"
+		},
+		"152547": {
+			"name": "Stonemaw Hydra"
+		},
+		"152548": {
+			"name": "Scale Matriarch Gratinax"
+		},
+		"153801": {
+			"name": "Scale Lord Theronar"
+		},
+		"192126": {
+			"name": "Ancient Hydra"
+		},
+		"224751": {
+			"name": "Garlic-Breathed Hydra"
+		},
+		"228154": {
+			"name": "Bloodbrine"
+		}
+	}
+}

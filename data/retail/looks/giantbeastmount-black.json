@@ -1,0 +1,36 @@
+{
+	"id": "giantbeastmount-black",
+	"family": "oxen",
+	"modelGroup": "saddledtauralus",
+	"npcs": [
+		{
+			"id": 175478,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 53
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus"
+				}
+			]
+		},
+		{
+			"id": 164833,
+			"tameable": false,
+			"level": {
+				"min": 52,
+				"max": 53
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "challengers-promenade"
+				}
+			]
+		}
+	]
+}

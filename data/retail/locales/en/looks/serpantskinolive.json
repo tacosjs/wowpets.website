@@ -1,0 +1,12 @@
+{
+	"name": "Green Serpent",
+	"variant": "Green",
+	"npcs": {
+		"29774": {
+			"name": "Spitting Cobra"
+		},
+		"48131": {
+			"name": "Needlespine Cobra"
+		}
+	}
+}

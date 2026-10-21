@@ -1,0 +1,19 @@
+{
+	"name": "Blue Hippogryph",
+	"variant": "Blue",
+	"npcs": {
+		"5304": {
+			"name": "Frayfeather Stagwing"
+		},
+		"12676": {
+			"name": "Sharptalon"
+		},
+		"16098": {
+			"name": "Empyrean"
+		},
+		"90816": {
+			"name": "Skystormer",
+			"title": "The Unruly"
+		}
+	}
+}

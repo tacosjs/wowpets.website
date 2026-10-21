@@ -1,0 +1,10 @@
+{
+	"id": "progenitorwolf-dark",
+	"family": "wolf",
+	"modelGroup": "lupines",
+	"npcs": [],
+	"alsoNpcs": [
+		185298,
+		185302
+	]
+}

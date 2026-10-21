@@ -1,0 +1,48 @@
+{
+	"name": "Brown Goat",
+	"variant": "Brown",
+	"npcs": {
+		"58892": {
+			"name": "Wild Shaghorn"
+		},
+		"58906": {
+			"name": "Shaghorn"
+		},
+		"59139": {
+			"name": "Stout Shaghorn"
+		},
+		"94198": {
+			"name": "Soothoof Hillstrider"
+		},
+		"98808": {
+			"name": "Sated Hillstrider"
+		},
+		"134349": {
+			"name": "Mountain Goat"
+		},
+		"134350": {
+			"name": "Baby Goat"
+		},
+		"140431": {
+			"name": "Craghoof Goat"
+		},
+		"140434": {
+			"name": "Craghoof Rockhorn"
+		},
+		"141313": {
+			"name": "Hillcrest Goat"
+		},
+		"141314": {
+			"name": "Hillcrest Kid"
+		},
+		"190220": {
+			"name": "Headbutting Caprine"
+		},
+		"194697": {
+			"name": "Headbutting Caprine"
+		},
+		"194747": {
+			"name": "Blaring Caprine"
+		}
+	}
+}

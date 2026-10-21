@@ -1,0 +1,15 @@
+{
+	"name": "Grey & Brown Amani Eagle",
+	"variant": "Grey & Brown",
+	"npcs": {
+		"242189": {
+			"name": "Melancholy Eagle"
+		},
+		"249446": {
+			"name": "Rallying Fledgling"
+		},
+		"264671": {
+			"name": "Forum Windchaser"
+		}
+	}
+}

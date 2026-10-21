@@ -1,0 +1,102 @@
+{
+	"id": "trilobite-orange",
+	"family": "carapid",
+	"modelGroup": "krolusks",
+	"npcs": [
+		{
+			"id": 129476,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "the-bone-pit"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 124526,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun"
+				}
+			]
+		},
+		{
+			"id": 203898,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "sulfur-wastes"
+				}
+			]
+		},
+		{
+			"id": 202738,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "viridian-throne"
+				}
+			]
+		},
+		{
+			"id": 219930,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "candleslag-quarry"
+				}
+			]
+		},
+		{
+			"id": 205810,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "ruins-of-drekazera"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		140034,
+		129638,
+		217741
+	]
+}

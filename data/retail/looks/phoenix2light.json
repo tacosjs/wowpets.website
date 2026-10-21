@@ -1,0 +1,21 @@
+{
+	"id": "phoenix2light",
+	"family": "birdofprey",
+	"modelGroup": "lightanddarkphoenixes",
+	"npcs": [
+		{
+			"id": 246729,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "march-on-queldanas"
+				}
+			]
+		}
+	]
+}

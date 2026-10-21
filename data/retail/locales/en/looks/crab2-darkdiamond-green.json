@@ -1,0 +1,18 @@
+{
+	"name": "Onyx & Emerald Crab",
+	"variant": "Onyx & Emerald",
+	"npcs": {
+		"134767": {
+			"name": "Deathclaw Egg-Mother"
+		},
+		"136183": {
+			"name": "Crushtacean"
+		},
+		"152795": {
+			"name": "Sandclaw Stoneshell"
+		},
+		"209909": {
+			"name": "Crabtankerous"
+		}
+	}
+}

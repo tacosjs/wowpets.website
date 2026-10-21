@@ -1,0 +1,12 @@
+{
+	"name": "Orange Gorm w/ Modified Head",
+	"variant": "Orange w/ Modified Head",
+	"npcs": {
+		"164110": {
+			"name": "Chompy"
+		},
+		"173940": {
+			"name": "Izik the Dissolver"
+		}
+	}
+}

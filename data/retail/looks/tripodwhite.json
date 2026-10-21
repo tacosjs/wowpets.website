@@ -1,0 +1,172 @@
+{
+	"id": "tripodwhite",
+	"family": "waterstrider",
+	"modelGroup": "fenstriders",
+	"npcs": [
+		{
+			"id": 50960,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "dread-wastes"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 168090,
+			"tameable": false,
+			"level": {
+				"min": 54,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "heart-of-the-forest"
+				}
+			]
+		},
+		{
+			"id": 167066,
+			"tameable": false,
+			"level": {
+				"min": 54,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "gossamer-cliffs"
+				}
+			]
+		},
+		{
+			"id": 167069,
+			"tameable": false,
+			"level": {
+				"min": 54,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "gossamer-cliffs"
+				}
+			]
+		},
+		{
+			"id": 167065,
+			"tameable": false,
+			"level": {
+				"min": 54,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "gossamer-cliffs"
+				}
+			]
+		},
+		{
+			"id": 167071,
+			"tameable": false,
+			"level": {
+				"min": 54,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "gossamer-cliffs"
+				}
+			]
+		},
+		{
+			"id": 159637,
+			"tameable": false,
+			"level": {
+				"min": 54,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "gossamer-cliffs"
+				}
+			]
+		},
+		{
+			"id": 167070,
+			"tameable": false,
+			"level": {
+				"min": 54,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "gossamer-cliffs"
+				}
+			]
+		},
+		{
+			"id": 179672,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tower-of-the-damned",
+					"area": "torghast"
+				}
+			]
+		},
+		{
+			"id": 179671,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tower-of-the-damned",
+					"area": "torghast"
+				}
+			]
+		},
+		{
+			"id": 167480,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "the-forgotten-retreat"
+				}
+			]
+		}
+	]
+}

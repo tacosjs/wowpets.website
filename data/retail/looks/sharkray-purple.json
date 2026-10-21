@@ -1,0 +1,29 @@
+{
+	"id": "sharkray-purple",
+	"family": "ray",
+	"modelGroup": "fathomrays",
+	"npcs": [
+		{
+			"id": 150696,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "coral-forest"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		223492,
+		153350,
+		209579,
+		223494,
+		223491
+	]
+}

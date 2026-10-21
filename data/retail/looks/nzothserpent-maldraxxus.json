@@ -1,0 +1,27 @@
+{
+	"id": "nzothserpent-maldraxxus",
+	"family": "worm",
+	"modelGroup": "aqiriworms",
+	"npcs": [
+		{
+			"id": 158626,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "plaguefall",
+					"area": "the-broken-tower"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

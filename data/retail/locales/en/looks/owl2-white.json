@@ -1,0 +1,38 @@
+{
+	"name": "Pale Warden Owl",
+	"variant": "Pale",
+	"npcs": {
+		"92118": {
+			"name": "Pygmy Owl"
+		},
+		"93333": {
+			"name": "Painwracked Streaker"
+		},
+		"95585": {
+			"name": "Moonbeak",
+			"title": "Razen Swingblade's Pet"
+		},
+		"100496": {
+			"name": "Silvered Streaker"
+		},
+		"102415": {
+			"name": "Suramar Skyhunter"
+		},
+		"102747": {
+			"name": "Tamed Owl"
+		},
+		"105059": {
+			"name": "Kal"
+		},
+		"113110": {
+			"name": "Spellwing Strix"
+		},
+		"193406": {
+			"name": "Icy Owl"
+		},
+		"232192": {
+			"name": "Dori'thur",
+			"title": "Tyrande's Companion"
+		}
+	}
+}

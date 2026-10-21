@@ -1,0 +1,23 @@
+{
+	"id": "hippogryphfelskin",
+	"family": "feathermane",
+	"modelGroup": "hippogryphs",
+	"npcs": [
+		{
+			"id": 121540,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "the-nighthold-non-instanced"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

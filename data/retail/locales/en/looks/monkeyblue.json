@@ -1,0 +1,9 @@
+{
+	"name": "Dark Grey Monkey",
+	"variant": "Dark Grey",
+	"npcs": {
+		"48442": {
+			"name": "Mining Monkey"
+		}
+	}
+}

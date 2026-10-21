@@ -1,0 +1,21 @@
+{
+	"id": "marmosetpet",
+	"family": "monkey",
+	"modelGroup": "marmonis",
+	"npcs": [
+		{
+			"id": 193263,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "the-waking-shores"
+				}
+			]
+		}
+	]
+}

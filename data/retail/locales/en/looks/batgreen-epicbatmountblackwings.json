@@ -1,0 +1,12 @@
+{
+	"name": "Green Bat w/ Dark Red Wings",
+	"variant": "Green w/ Dark Red Wings",
+	"npcs": {
+		"128290": {
+			"name": "Spawn of Hir'eek"
+		},
+		"128547": {
+			"name": "Redrock Screecher"
+		}
+	}
+}

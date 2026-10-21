@@ -1,0 +1,28 @@
+{
+	"id": "basilisk",
+	"wowId": 130,
+	"icon": "inv_pet_basilisk",
+	"spec": "cunning",
+	"exotic": false,
+	"diet": [
+		"fish",
+		"meat"
+	],
+	"abilities": {
+		"basic": "bite",
+		"family": [
+			"petrifying-gaze"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "spinybasilisks"
+		},
+		{
+			"id": "outlandbasilisks"
+		},
+		{
+			"id": "basilisks"
+		}
+	]
+}

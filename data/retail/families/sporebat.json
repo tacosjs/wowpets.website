@@ -1,0 +1,29 @@
+{
+	"id": "sporebat",
+	"icon": "ability_hunter_pet_sporebat",
+	"spec": "cunning",
+	"exotic": false,
+	"diet": [
+		"bread",
+		"cheese",
+		"fruit",
+		"fungus"
+	],
+	"abilities": {
+		"basic": "smack",
+		"family": [
+			"spore-cloud"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "sporegliders"
+		},
+		{
+			"id": "draenorsporebats"
+		},
+		{
+			"id": "sporebats"
+		}
+	]
+}

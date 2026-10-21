@@ -1,0 +1,54 @@
+{
+	"id": "hyena2goblin-red",
+	"family": "hyena",
+	"modelGroup": "goblinhyenas",
+	"npcs": [
+		{
+			"id": 238610,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "undermine",
+					"area": "hovel-hill"
+				}
+			]
+		},
+		{
+			"id": 238357,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "undermine"
+				}
+			]
+		},
+		{
+			"id": 234182,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "the-writhing-fields"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		229252
+	]
+}

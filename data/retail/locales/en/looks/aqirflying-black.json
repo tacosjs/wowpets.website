@@ -1,0 +1,30 @@
+{
+	"name": "Black Aqir Flier",
+	"variant": "Black",
+	"npcs": {
+		"154354": {
+			"name": "Aqir Stinger"
+		},
+		"162140": {
+			"name": "Skikx'traz"
+		},
+		"163045": {
+			"name": "Aqir Stinger"
+		},
+		"163514": {
+			"name": "Shadowbarb Stinger"
+		},
+		"191342": {
+			"name": "Winged Ruin"
+		},
+		"191399": {
+			"name": "Winged Ruin"
+		},
+		"207911": {
+			"name": "Aqir Locust"
+		},
+		"253503": {
+			"name": "Winged Ruin"
+		}
+	}
+}

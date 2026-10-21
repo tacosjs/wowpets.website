@@ -1,0 +1,40 @@
+{
+	"id": "shadowstalkerpanther-whiteblue",
+	"family": "cat",
+	"modelGroup": "panthara",
+	"npcs": [
+		{
+			"id": 123076,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "krokuun"
+				}
+			]
+		},
+		{
+			"id": 126860,
+			"tameable": false,
+			"level": {
+				"min": 47,
+				"max": 47
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "eredath",
+					"area": "umbra-hollows"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		122408,
+		128317
+	]
+}

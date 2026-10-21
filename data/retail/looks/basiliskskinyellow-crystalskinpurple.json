@@ -1,0 +1,22 @@
+{
+	"id": "basiliskskinyellow-crystalskinpurple",
+	"family": "basilisk",
+	"modelGroup": "basilisks",
+	"npcs": [
+		{
+			"id": 39186,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "tanaris"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

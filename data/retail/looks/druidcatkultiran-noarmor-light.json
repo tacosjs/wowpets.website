@@ -1,0 +1,27 @@
+{
+	"id": "druidcatkultiran-noarmor-light",
+	"family": "cat",
+	"modelGroup": "thornclaws",
+	"npcs": [
+		{
+			"id": 210983,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "sprigling-gloam"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

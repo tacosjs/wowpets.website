@@ -1,0 +1,12 @@
+{
+	"name": "Teal-Green Roc",
+	"variant": "Teal-Green",
+	"npcs": {
+		"98743": {
+			"name": "Cursedwing Guardian"
+		},
+		"120226": {
+			"name": "Deadwood Roc"
+		}
+	}
+}

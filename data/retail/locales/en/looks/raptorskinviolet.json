@@ -1,0 +1,54 @@
+{
+	"name": "Purple Raptor",
+	"variant": "Purple",
+	"npcs": {
+		"687": {
+			"name": "Jungle Stalker"
+		},
+		"3254": {
+			"name": "Sunscale Lashtail"
+		},
+		"3255": {
+			"name": "Sunscale Screecher"
+		},
+		"3256": {
+			"name": "Sunscale Scytheclaw"
+		},
+		"3632": {
+			"name": "Deviate Creeper"
+		},
+		"3636": {
+			"name": "Deviate Ravager"
+		},
+		"6505": {
+			"name": "Ravasaur"
+		},
+		"6507": {
+			"name": "Ravasaur Hunter"
+		},
+		"9683": {
+			"name": "Lar'korwi Mate"
+		},
+		"36509": {
+			"name": "Experimental Raptor"
+		},
+		"41343": {
+			"name": "Mottled Raptor"
+		},
+		"44164": {
+			"name": "Sunscale Ravager"
+		},
+		"44165": {
+			"name": "Sunscale Consort"
+		},
+		"44167": {
+			"name": "Sunscale Raptor"
+		},
+		"69540": {
+			"name": "Zeb'tula Raptor"
+		},
+		"70289": {
+			"name": "Shaol'mara Raptor"
+		}
+	}
+}

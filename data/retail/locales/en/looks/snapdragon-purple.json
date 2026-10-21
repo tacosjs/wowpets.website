@@ -1,0 +1,15 @@
+{
+	"name": "Purple Snapdragon",
+	"variant": "Purple",
+	"npcs": {
+		"152360": {
+			"name": "Toxigore the Alpha"
+		},
+		"155884": {
+			"name": "Benn"
+		},
+		"250582": {
+			"name": "Bloated Snapdragon"
+		}
+	}
+}

@@ -1,0 +1,130 @@
+{
+	"name": "Black Vulture",
+	"variant": "Black",
+	"npcs": {
+		"154": {
+			"name": "Greater Fleshripper"
+		},
+		"2578": {
+			"name": "Young Mesa Buzzard"
+		},
+		"2579": {
+			"name": "Mesa Buzzard"
+		},
+		"2580": {
+			"name": "Elder Mesa Buzzard"
+		},
+		"2829": {
+			"name": "Starving Buzzard"
+		},
+		"2830": {
+			"name": "Parched Buzzard"
+		},
+		"2831": {
+			"name": "Giant Buzzard"
+		},
+		"2969": {
+			"name": "Wiry Swoop"
+		},
+		"2970": {
+			"name": "Swoop"
+		},
+		"2971": {
+			"name": "Taloned Swoop"
+		},
+		"34640": {
+			"name": "Barrens Vulture"
+		},
+		"42235": {
+			"name": "Darktail Bonepicker"
+		},
+		"113103": {
+			"name": "Corrupted Swoop"
+		},
+		"124527": {
+			"name": "Bonebeak Scavenger"
+		},
+		"126502": {
+			"name": "Fattened Buzzard"
+		},
+		"126909": {
+			"name": "Bonebeak Vulture"
+		},
+		"130070": {
+			"name": "Canyon Vulture"
+		},
+		"130248": {
+			"name": "Bonebeak Scavenger"
+		},
+		"130409": {
+			"name": "Bonebeak Fledgling"
+		},
+		"131188": {
+			"name": "Sandtalon Vulture"
+		},
+		"131229": {
+			"name": "Bonescrape Scavenger"
+		},
+		"132755": {
+			"name": "Breakbeak Scavenger"
+		},
+		"132758": {
+			"name": "Young Mesa Buzzard"
+		},
+		"135726": {
+			"name": "Starving Buzzard"
+		},
+		"136664": {
+			"name": "Bonebeak Vulture"
+		},
+		"136993": {
+			"name": "Bonebeak Scavenger"
+		},
+		"138258": {
+			"name": "Bonepicker Scavenger"
+		},
+		"138596": {
+			"name": "Gutgut",
+			"title": "Shath'kar's Pet"
+		},
+		"139071": {
+			"name": "Bonebeak Buzzard"
+		},
+		"139072": {
+			"name": "Bonebeak Buzzard"
+		},
+		"140793": {
+			"name": "Breakbeak Hatchling"
+		},
+		"142335": {
+			"name": "Young Mesa Buzzard"
+		},
+		"142337": {
+			"name": "Mesa Buzzard"
+		},
+		"142341": {
+			"name": "Elder Mesa Buzzard"
+		},
+		"154268": {
+			"name": "Hungry Vulture"
+		},
+		"157146": {
+			"name": "Rotfeaster"
+		},
+		"190960": {
+			"name": "Feasting Buzzard"
+		},
+		"193313": {
+			"name": "Watching Corpsewing"
+		},
+		"193430": {
+			"name": "Prowling Vulture"
+		},
+		"194545": {
+			"name": "Disruptive Corpsewing"
+		},
+		"230668": {
+			"name": "Corpse Bird"
+		}
+	}
+}

@@ -1,0 +1,40 @@
+{
+	"id": "flyingnerubian2-black-abdomen2-head2",
+	"family": "bloodbeast",
+	"modelGroup": "swarmites",
+	"npcs": [
+		{
+			"id": 222721,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "arathis-end"
+				}
+			]
+		},
+		{
+			"id": 216365,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "city-of-echoes",
+					"area": "the-undercache"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		215411
+	]
+}

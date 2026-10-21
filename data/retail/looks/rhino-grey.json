@@ -1,0 +1,12 @@
+{
+	"id": "rhino-grey",
+	"family": "clefthoof",
+	"modelGroup": "rhinos",
+	"npcs": [],
+	"alsoNpcs": [
+		193348,
+		193346,
+		193407,
+		194868
+	]
+}

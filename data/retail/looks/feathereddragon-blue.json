@@ -1,0 +1,54 @@
+{
+	"id": "feathereddragon-blue",
+	"family": "lesserdragonkin",
+	"modelGroup": "veilwings",
+	"npcs": [
+		{
+			"id": 172049,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "mistveil-tangle"
+				}
+			]
+		},
+		{
+			"id": 169874,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald"
+				}
+			]
+		},
+		{
+			"id": 173608,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "house-of-rituals"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		167442
+	]
+}

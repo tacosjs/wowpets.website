@@ -1,0 +1,12 @@
+{
+	"name": "Chimaeron",
+	"variant": "chimerabeast",
+	"npcs": {
+		"43296": {
+			"name": "Chimaeron"
+		},
+		"77081": {
+			"name": "The Lanticore"
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"name": "Green Loa Toad",
+	"variant": "Green",
+	"npcs": {
+		"120551": {
+			"name": "Krag'wa the Huge"
+		},
+		"144825": {
+			"name": "Toxinbelly Croaker"
+		},
+		"144826": {
+			"name": "Man-Eater"
+		},
+		"144831": {
+			"name": "Colossal Spadefoot"
+		},
+		"214757": {
+			"name": "Croakit"
+		}
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"name": "Water Striders",
+	"modelGroups": {
+		"mirestalkers": {
+			"name": "Mire Stalkers"
+		},
+		"lapbugs": {
+			"name": "Lapbugs"
+		},
+		"skitterflies": {
+			"name": "Skitterflies"
+		},
+		"waterstriders": {
+			"name": "Light Water Striders"
+		},
+		"platedwaterstriders": {
+			"name": "Heavy Water Striders"
+		},
+		"fenstriders": {
+			"name": "Fen Striders"
+		}
+	}
+}

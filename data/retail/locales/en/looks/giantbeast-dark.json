@@ -1,0 +1,15 @@
+{
+	"name": "Black Tauralus w/ Yellow-Green Eyes",
+	"variant": "Black w/ Yellow-Green Eyes",
+	"npcs": {
+		"162536": {
+			"name": "Feeding Tauralus"
+		},
+		"170194": {
+			"name": "Ashenflank Tauralus"
+		},
+		"171383": {
+			"name": "Furious Alphahoof"
+		}
+	}
+}

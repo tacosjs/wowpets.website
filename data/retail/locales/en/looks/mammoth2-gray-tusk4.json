@@ -1,0 +1,12 @@
+{
+	"name": "Grey Mammoth w/ Large Tusks",
+	"variant": "Grey",
+	"npcs": {
+		"192915": {
+			"name": "Frostytrunk Mammoth"
+		},
+		"193598": {
+			"name": "Snowy Mammoth"
+		}
+	}
+}

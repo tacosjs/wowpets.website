@@ -1,0 +1,15 @@
+{
+	"name": "Green Sabertusk",
+	"variant": "Green",
+	"npcs": {
+		"130489": {
+			"name": "Dazarian Stalker"
+		},
+		"130774": {
+			"name": "Dazarian Stalker"
+		},
+		"137829": {
+			"name": "Dazarian Stalker"
+		}
+	}
+}

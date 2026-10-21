@@ -1,0 +1,68 @@
+{
+	"id": "decomposermediumblack-face2",
+	"family": "carapid",
+	"modelGroup": "gorms",
+	"npcs": [
+		{
+			"id": 164036,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "creeping-hive"
+				}
+			]
+		},
+		{
+			"id": 169977,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "crumbled-ridge"
+				}
+			]
+		},
+		{
+			"id": 163370,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 61
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "gormhive"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 179405,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "dominance-keep"
+				}
+			]
+		}
+	]
+}

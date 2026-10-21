@@ -1,0 +1,45 @@
+{
+	"name": "Grey Goat",
+	"variant": "Grey",
+	"npcs": {
+		"50998": {
+			"name": "Stompy"
+		},
+		"97828": {
+			"name": "Silvertail Mountain Goat"
+		},
+		"107020": {
+			"name": "Storm's Reach Cliffwalker"
+		},
+		"129742": {
+			"name": "Tufted Craghopper"
+		},
+		"129744": {
+			"name": "Craghopper Kid"
+		},
+		"136939": {
+			"name": "Mother Goat"
+		},
+		"139796": {
+			"name": "Wayward Goat"
+		},
+		"140426": {
+			"name": "Moonbeard"
+		},
+		"144477": {
+			"name": "Mountain Goat"
+		},
+		"161130": {
+			"name": "Coastal Goat"
+		},
+		"172028": {
+			"name": "Mountain Roamer"
+		},
+		"193976": {
+			"name": "Craghorn Goat"
+		},
+		"195003": {
+			"name": "Rowdy Goat"
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"id": "bearskindrkbrowndiseased",
+	"family": "bear",
+	"modelGroup": "retrobears",
+	"npcs": [
+		{
+			"id": 107617,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "the-hinterlands"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"id": "hippo2-pink",
+	"family": "riverbeast",
+	"modelGroup": "stockyriverbeasts",
+	"npcs": [
+		{
+			"id": 133539,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "upper-frogmarsh"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

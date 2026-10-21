@@ -1,0 +1,38 @@
+{
+	"id": "aqir-black",
+	"family": "aqiri",
+	"modelGroup": "aqirgoliaths",
+	"npcs": [
+		{
+			"id": 154604,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "uldum",
+					"area": "chamber-of-the-moon"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 207912,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "tyrhold-reservoir"
+				}
+			]
+		}
+	]
+}

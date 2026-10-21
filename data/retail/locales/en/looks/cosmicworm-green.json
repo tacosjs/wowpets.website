@@ -1,0 +1,16 @@
+{
+	"name": "Green Cosmic Worm",
+	"variant": "Green",
+	"npcs": {
+		"242260": {
+			"name": "Toxic Ridgeworm"
+		},
+		"256408": {
+			"name": "Spawn of Ix"
+		},
+		"264576": {
+			"name": "Slaipaan",
+			"title": "The Fel-Gorged"
+		}
+	}
+}

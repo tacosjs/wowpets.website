@@ -1,0 +1,42 @@
+{
+	"name": "Green Grub",
+	"variant": "Green Grub",
+	"npcs": {
+		"9498": {
+			"name": "Gorishi Grub"
+		},
+		"13533": {
+			"name": "Spewed Larva"
+		},
+		"16056": {
+			"name": "Diseased Maggot"
+		},
+		"69948": {
+			"name": "Gorishi Grub"
+		},
+		"83519": {
+			"name": "Bloodfang Grub"
+		},
+		"93607": {
+			"name": "Bloodfang Grub"
+		},
+		"134024": {
+			"name": "Devouring Maggot"
+		},
+		"142587": {
+			"name": "Devouring Maggot"
+		},
+		"168711": {
+			"name": "Septic Maggot"
+		},
+		"169731": {
+			"name": "Bursting Maggot"
+		},
+		"170227": {
+			"name": "Gorm Larva"
+		},
+		"170249": {
+			"name": "Gorm Larva"
+		}
+	}
+}

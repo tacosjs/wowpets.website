@@ -1,0 +1,21 @@
+{
+	"name": "Black Etherwyrm",
+	"variant": "Black",
+	"npcs": {
+		"158179": {
+			"name": "Vyrm the Ravenous"
+		},
+		"163503": {
+			"name": "Etherdiver"
+		},
+		"170007": {
+			"name": "Disturbed Etherwyrm"
+		},
+		"170232": {
+			"name": "Etherwyrm Shadewing"
+		},
+		"170388": {
+			"name": "Brooding Shadewing"
+		}
+	}
+}

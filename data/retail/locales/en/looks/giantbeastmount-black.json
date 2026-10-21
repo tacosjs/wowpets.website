@@ -1,0 +1,12 @@
+{
+	"name": "Saddled Black Tauralus",
+	"variant": "Black",
+	"npcs": {
+		"164833": {
+			"name": "Pack Tauralus"
+		},
+		"175478": {
+			"name": "Pack Tauralus"
+		}
+	}
+}

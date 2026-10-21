@@ -32,12 +32,16 @@ const zoneKindLabel: Record<string, (() => string) | undefined> = {
 	dungeon: m.zone_kind_dungeon,
 	raid: m.zone_kind_raid,
 	scenario: m.zone_kind_scenario,
+	battleground: m.zone_kind_battleground,
+	warfront: m.zone_kind_warfront,
+	delve: m.zone_kind_delve,
 };
 
 const conditionLabel = {
 	quest: m.condition_quest,
 	invasion: m.condition_invasion,
 	summoned: m.condition_summoned,
+	phase: m.condition_phase,
 };
 
 function wowheadUrl(page: LookPage, npcId: number) {
@@ -100,6 +104,7 @@ function NpcList({
 									` (${zoneKindLabel[location.zone.kind]?.()})`}
 							</span>
 						))}
+						{npc.retired && <div>{m.npc_retired()}</div>}
 						{npc.keepsName && <div>{m.npc_keeps_name()}</div>}
 						{npc.conditions?.map((condition) => (
 							<div key={condition.kind}>{conditionLabel[condition.kind]()}</div>

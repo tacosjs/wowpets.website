@@ -1,0 +1,15 @@
+{
+	"name": "Bronze & Green Mukleech",
+	"variant": "Bronze & Green",
+	"npcs": {
+		"250153": {
+			"name": "Ravenous Mukleech"
+		},
+		"257363": {
+			"name": "Ravenous Mukleech"
+		},
+		"265336": {
+			"name": "Sludgeback Leech"
+		}
+	}
+}

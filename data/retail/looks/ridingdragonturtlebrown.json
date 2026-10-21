@@ -1,0 +1,55 @@
+{
+	"id": "ridingdragonturtlebrown",
+	"family": "turtle",
+	"modelGroup": "dragonturtles",
+	"npcs": [
+		{
+			"id": 130776,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "fizzpsrings-resort"
+				}
+			]
+		},
+		{
+			"id": 152384,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "ashen-strand"
+				}
+			]
+		},
+		{
+			"id": 124581,
+			"tameable": false,
+			"level": {
+				"min": 9,
+				"max": 49
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		66099,
+		58941
+	]
+}

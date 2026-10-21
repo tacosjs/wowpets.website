@@ -1,0 +1,57 @@
+{
+	"name": "Black Swarmite w/ Pedipalps & Short Tail",
+	"variant": "Black w/ Pedipalps & Short Tail",
+	"npcs": {
+		"213320": {
+			"name": "Dreadstrike Flitterer"
+		},
+		"217916": {
+			"name": "Dreadstrike Defender"
+		},
+		"218082": {
+			"name": "Xesh Skystinger"
+		},
+		"218308": {
+			"name": "Noth Drone"
+		},
+		"218309": {
+			"name": "Noth Drone"
+		},
+		"218310": {
+			"name": "Noth Drone"
+		},
+		"218311": {
+			"name": "Noth Drone"
+		},
+		"218312": {
+			"name": "Noth Drone"
+		},
+		"218314": {
+			"name": "Noth Drone"
+		},
+		"218325": {
+			"name": "Swarming Flyer"
+		},
+		"219670": {
+			"name": "Venomous Scavenger"
+		},
+		"220087": {
+			"name": "Swarming Screamer"
+		},
+		"222042": {
+			"name": "Shrillwing"
+		},
+		"222235": {
+			"name": "Bloodthirsty Swarmer"
+		},
+		"226007": {
+			"name": "Leechwing Swarmite"
+		},
+		"227026": {
+			"name": "Trained Skyflayer"
+		},
+		"229688": {
+			"name": "Starved Swarmite"
+		}
+	}
+}

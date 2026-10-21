@@ -1,0 +1,9 @@
+{
+	"name": "Silver Gormling",
+	"variant": "Silver Gormling",
+	"npcs": {
+		"171370": {
+			"name": "Ravenous Larva"
+		}
+	}
+}

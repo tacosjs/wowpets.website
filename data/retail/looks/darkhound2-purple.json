@@ -1,0 +1,200 @@
+{
+	"id": "darkhound2-purple",
+	"family": "hound",
+	"modelGroup": "granddarkhounds",
+	"npcs": [
+		{
+			"id": 10356,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "tirisfal-glades"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 16177,
+			"tameable": true,
+			"level": {
+				"min": 31,
+				"max": 31
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "karazhan"
+				}
+			]
+		},
+		{
+			"id": 168676,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 57
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "pridefall-hamlet-decimated-crossroad"
+				}
+			]
+		},
+		{
+			"id": 168678,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 57
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "pridefall-hamlet-decimated-crossroad"
+				}
+			]
+		},
+		{
+			"id": 156596,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 59
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "dredgewood-the-banewood"
+				}
+			]
+		},
+		{
+			"id": 168319,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 59
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "dredhollow"
+				}
+			]
+		},
+		{
+			"id": 169160,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "dredhollow"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 157695,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "grove-of-terror-muck-pool-banewood"
+				}
+			]
+		},
+		{
+			"id": 217698,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "the-harrowing-depths"
+				}
+			]
+		},
+		{
+			"id": 229097,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		},
+		{
+			"id": 229096,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall"
+				}
+			]
+		},
+		{
+			"id": 218330,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "the-aegis-wal"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		229167,
+		229172,
+		229179,
+		225445,
+		224623,
+		229099,
+		229098,
+		225612,
+		225255
+	]
+}

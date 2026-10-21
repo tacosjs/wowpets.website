@@ -1,0 +1,12 @@
+{
+	"name": "Red Veilwing",
+	"variant": "Red",
+	"npcs": {
+		"172081": {
+			"name": "Shan'ala, Lost to the Tangle"
+		},
+		"173655": {
+			"name": "Mistveil Matriarch"
+		}
+	}
+}

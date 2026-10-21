@@ -1,0 +1,9 @@
+{
+	"name": "Ghostly White Worm",
+	"variant": "Ghostly White",
+	"npcs": {
+		"51027": {
+			"name": "Spirocula"
+		}
+	}
+}

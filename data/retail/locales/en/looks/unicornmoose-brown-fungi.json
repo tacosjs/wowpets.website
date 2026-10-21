@@ -1,0 +1,9 @@
+{
+	"name": "Fungal Shalehorn",
+	"variant": "Fungal",
+	"npcs": {
+		"219267": {
+			"name": "Plaguehart"
+		}
+	}
+}

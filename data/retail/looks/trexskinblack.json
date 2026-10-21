@@ -1,0 +1,36 @@
+{
+	"id": "trexskinblack",
+	"family": "devilsaur",
+	"modelGroup": "devilsaurs",
+	"npcs": [
+		{
+			"id": 20931,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "netherstorm"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 6499,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ungoro-crater"
+				}
+			]
+		}
+	]
+}

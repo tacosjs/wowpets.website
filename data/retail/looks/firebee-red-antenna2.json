@@ -1,0 +1,10 @@
+{
+	"id": "firebee-red-antenna2",
+	"family": "wasp",
+	"modelGroup": "cinderbees",
+	"npcs": [],
+	"alsoNpcs": [
+		218865,
+		223498
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"id": "devilsaptor-tan",
+	"family": "devilsaur",
+	"modelGroup": "devilsaptors",
+	"npcs": [
+		{
+			"id": 249328,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "gloom-mire"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		252851,
+		244887
+	]
+}

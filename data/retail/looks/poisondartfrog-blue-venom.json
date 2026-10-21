@@ -1,0 +1,36 @@
+{
+	"id": "poisondartfrog-blue-venom",
+	"family": "hopper",
+	"modelGroup": "diretoads",
+	"npcs": [
+		{
+			"id": 258512,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "the-forum"
+				}
+			]
+		},
+		{
+			"id": 269747,
+			"tameable": false,
+			"level": {
+				"min": 91,
+				"max": 91
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "midnight-delves"
+				}
+			]
+		}
+	]
+}

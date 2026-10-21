@@ -1,0 +1,25 @@
+{
+	"id": "crab2-ivory-hermitcrabshell-lightorange",
+	"family": "crab",
+	"modelGroup": "hermitcrabs",
+	"npcs": [
+		{
+			"id": 180850,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-veiled-market",
+					"area": "tazavesh"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		148454
+	]
+}

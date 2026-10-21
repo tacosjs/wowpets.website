@@ -1,0 +1,29 @@
+{
+	"id": "maldraxxusflyer-red",
+	"family": "chimaera",
+	"modelGroup": "deathchimaeras",
+	"npcs": [
+		{
+			"id": 173045,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "bony-spindles"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		164312,
+		167448,
+		170823,
+		170780,
+		170822
+	]
+}

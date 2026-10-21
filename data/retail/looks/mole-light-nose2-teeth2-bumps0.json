@@ -1,0 +1,22 @@
+{
+	"id": "mole-light-nose2-teeth2-bumps0",
+	"family": "rodent",
+	"modelGroup": "moles",
+	"npcs": [
+		{
+			"id": 221297,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "the-cataract-river"
+				}
+			]
+		}
+	]
+}

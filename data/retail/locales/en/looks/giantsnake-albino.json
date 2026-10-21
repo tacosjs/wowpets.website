@@ -1,0 +1,9 @@
+{
+	"name": "Albino Cobra",
+	"variant": "Albino",
+	"npcs": {
+		"125299": {
+			"name": "Soultainted Cobra"
+		}
+	}
+}

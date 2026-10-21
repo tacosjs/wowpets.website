@@ -1,0 +1,9 @@
+{
+	"name": "Green Spiked Wind Serpent",
+	"variant": "Green",
+	"npcs": {
+		"21123": {
+			"name": "Felsworn Scalewing"
+		}
+	}
+}

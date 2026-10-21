@@ -1,0 +1,9 @@
+{
+	"name": "Blue Dustmoth w/ Purple Body",
+	"variant": "Blue w/ Purple Body",
+	"npcs": {
+		"219850": {
+			"name": "Terrace Moth"
+		}
+	}
+}

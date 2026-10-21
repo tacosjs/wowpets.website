@@ -1,0 +1,15 @@
+{
+	"name": "Violet-Blue Veilwing",
+	"variant": "Violet-Blue",
+	"npcs": {
+		"169874": {
+			"name": "Veilwing Matriarch"
+		},
+		"172049": {
+			"name": "Mistfeather Matriarch"
+		},
+		"173608": {
+			"name": "Elusive Veilwing"
+		}
+	}
+}

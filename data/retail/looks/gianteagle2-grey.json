@@ -1,0 +1,77 @@
+{
+	"id": "gianteagle2-grey",
+	"family": "birdofprey",
+	"modelGroup": "amanieagles",
+	"npcs": [
+		{
+			"id": 258394,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "mlurkkr-mire"
+				}
+			]
+		},
+		{
+			"id": 252277,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "temple-of-akilzon"
+				}
+			]
+		},
+		{
+			"id": 244926,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "temple-of-akilzon"
+				}
+			]
+		},
+		{
+			"id": 244556,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "dawnstar-spire"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		243679,
+		250120,
+		255042,
+		261307,
+		255490,
+		240515,
+		256902,
+		257388
+	]
+}

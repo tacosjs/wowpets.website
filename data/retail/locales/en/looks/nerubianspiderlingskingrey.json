@@ -1,0 +1,12 @@
+{
+	"name": "Dark Brown Threadling",
+	"variant": "Dark Brown Threadling",
+	"npcs": {
+		"25622": {
+			"name": "Nerub'ar Tunneler"
+		},
+		"139858": {
+			"name": "Voru'kar Infector"
+		}
+	}
+}

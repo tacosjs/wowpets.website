@@ -1,0 +1,65 @@
+{
+	"id": "voidterror3",
+	"family": "corehound",
+	"modelGroup": "voidhounds",
+	"npcs": [
+		{
+			"id": 246572,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "twilight-highlands"
+				}
+			]
+		},
+		{
+			"id": 232129,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "serrated-peaks"
+				}
+			]
+		},
+		{
+			"id": 230427,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "the-tempest-fields"
+				}
+			]
+		},
+		{
+			"id": 240599,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-queldanas"
+				}
+			]
+		}
+	]
+}

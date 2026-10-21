@@ -1,0 +1,12 @@
+{
+	"name": "Black Death Boar",
+	"variant": "Black",
+	"npcs": {
+		"165473": {
+			"name": "Bloodtusk Alpha"
+		},
+		"166676": {
+			"name": "Voracious Slopslurper"
+		}
+	}
+}

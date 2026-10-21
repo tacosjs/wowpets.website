@@ -1,0 +1,41 @@
+{
+	"id": "sharkray-dark",
+	"family": "ray",
+	"modelGroup": "fathomrays",
+	"npcs": [
+		{
+			"id": 150373,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "coral-forest"
+				}
+			]
+		},
+		{
+			"id": 211030,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		223492,
+		223494,
+		223491
+	]
+}

@@ -1,0 +1,99 @@
+{
+	"id": "owl2-purple",
+	"family": "birdofprey",
+	"modelGroup": "wardenowls",
+	"npcs": [
+		{
+			"id": 109809,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valsharah"
+				}
+			]
+		},
+		{
+			"id": 112336,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "meredil"
+				}
+			]
+		},
+		{
+			"id": 112421,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar"
+				}
+			]
+		},
+		{
+			"id": 103841,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "feathermane-hunting-grounds"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 95769,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "darkheart-thicket"
+				}
+			]
+		},
+		{
+			"id": 103811,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		171997,
+		195151,
+		216710
+	]
+}

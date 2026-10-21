@@ -1,0 +1,22 @@
+{
+	"id": "hyena2goblin-green",
+	"family": "hyena",
+	"modelGroup": "goblinhyenas",
+	"npcs": [
+		{
+			"id": 238608,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "undermine",
+					"area": "the-vatworks"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"name": "Blue Cloud Serpent",
+	"variant": "Blue",
+	"npcs": {
+		"58213": {
+			"name": "Windward Matriarch"
+		},
+		"58214": {
+			"name": "Windward Matriarch"
+		},
+		"58217": {
+			"name": "Windward Viper"
+		},
+		"62267": {
+			"name": "Wild Cloudrunner"
+		},
+		"65724": {
+			"name": "Azure Hatchling"
+		},
+		"231259": {
+			"name": "Amused Cloud Serpent"
+		}
+	}
+}

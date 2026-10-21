@@ -1,0 +1,30 @@
+{
+	"name": "Red Fire Spider",
+	"variant": "Red",
+	"npcs": {
+		"52447": {
+			"name": "Cinderweb Spiderling"
+		},
+		"52981": {
+			"name": "Cinderweb Spinner"
+		},
+		"53631": {
+			"name": "Cinderweb Spiderling"
+		},
+		"54324": {
+			"name": "Skitterflame"
+		},
+		"66686": {
+			"name": "Echoweb Cinderfang"
+		},
+		"70703": {
+			"name": "Core Spider"
+		},
+		"140540": {
+			"name": "Kindleweb Clutchkeeper"
+		},
+		"140542": {
+			"name": "Kindleweb Spider"
+		}
+	}
+}

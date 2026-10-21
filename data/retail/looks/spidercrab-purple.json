@@ -1,0 +1,26 @@
+{
+	"id": "spidercrab-purple",
+	"family": "crab",
+	"modelGroup": "spidercrabs",
+	"npcs": [
+		{
+			"id": 194769,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		152463,
+		153814,
+		192129
+	]
+}

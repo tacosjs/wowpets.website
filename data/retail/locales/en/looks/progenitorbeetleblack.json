@@ -1,0 +1,9 @@
+{
+	"name": "Dark Scarabid",
+	"variant": "Dark",
+	"npcs": {
+		"183927": {
+			"name": "Sand Matriarch Ileus"
+		}
+	}
+}

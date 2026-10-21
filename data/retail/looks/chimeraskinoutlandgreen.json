@@ -1,0 +1,21 @@
+{
+	"id": "chimeraskinoutlandgreen",
+	"family": "chimaera",
+	"modelGroup": "armoredchimaeras",
+	"npcs": [
+		{
+			"id": 21879,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-outland"
+				}
+			]
+		}
+	]
+}

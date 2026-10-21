@@ -1,0 +1,53 @@
+{
+	"id": "netherrayskinred",
+	"family": "ray",
+	"modelGroup": "netherrays",
+	"npcs": [
+		{
+			"id": 50362,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "felwood",
+					"area": "jaedenar"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 50361,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "burning-steppes",
+					"area": "black-tooth-hovel"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 21901,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-outland"
+				}
+			]
+		}
+	]
+}

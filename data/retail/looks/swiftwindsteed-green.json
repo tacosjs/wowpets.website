@@ -1,0 +1,22 @@
+{
+	"id": "swiftwindsteed-green",
+	"family": "stag",
+	"modelGroup": "windsteeds",
+	"npcs": [
+		{
+			"id": 231194,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-wandering-isle-open-zone",
+					"area": "the-dawning-valley-the-wandering-isle-open-zone"
+				}
+			]
+		}
+	]
+}

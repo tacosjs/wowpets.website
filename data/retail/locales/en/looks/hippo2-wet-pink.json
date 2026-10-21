@@ -1,0 +1,18 @@
+{
+	"name": "Darker Pink Riverbeast",
+	"variant": "Darker Pink",
+	"npcs": {
+		"129645": {
+			"name": "Gryff"
+		},
+		"192654": {
+			"name": "Clearwater Calf"
+		},
+		"192834": {
+			"name": "Greenbelt Riverbeast"
+		},
+		"194357": {
+			"name": "Encroaching Riverbeast"
+		}
+	}
+}

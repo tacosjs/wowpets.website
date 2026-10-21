@@ -1,0 +1,11 @@
+{
+	"id": "arathilynx-red-armor-dark",
+	"family": "cat",
+	"modelGroup": "arathilynxes",
+	"npcs": [],
+	"alsoNpcs": [
+		225419,
+		222750,
+		206699
+	]
+}

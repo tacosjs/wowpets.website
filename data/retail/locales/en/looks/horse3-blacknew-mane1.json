@@ -1,0 +1,15 @@
+{
+	"name": "Black Horse",
+	"variant": "Black",
+	"npcs": {
+		"123212": {
+			"name": "Fjord Mustang"
+		},
+		"129139": {
+			"name": "Freehold Colt"
+		},
+		"137342": {
+			"name": "Korthos"
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"id": "dreamowl-fire",
+	"family": "spiritbeast",
+	"modelGroup": "spiritdreamowls",
+	"npcs": [
+		{
+			"id": 210908,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "amirdrassil"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"name": "Bat",
+	"modelGroups": {
+		"spinybats": {
+			"name": "Spiny Bats"
+		},
+		"dredbats": {
+			"name": "Dredbats"
+		},
+		"greaterbats": {
+			"name": "Bats"
+		},
+		"bats": {
+			"name": "Classic Bats"
+		}
+	}
+}

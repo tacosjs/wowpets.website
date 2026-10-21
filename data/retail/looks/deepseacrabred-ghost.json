@@ -1,0 +1,22 @@
+{
+	"id": "deepseacrabred-ghost",
+	"family": "crab",
+	"modelGroup": "spikedcrabs",
+	"npcs": [
+		{
+			"id": 149654,
+			"tameable": true,
+			"level": {
+				"min": 51,
+				"max": 51
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "darkshore"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

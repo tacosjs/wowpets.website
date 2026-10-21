@@ -1,0 +1,28 @@
+{
+	"name": "Turquoise Wiry Warp Stalker",
+	"variant": "Turquoise",
+	"npcs": {
+		"232257": {
+			"name": "Escaped Stalker"
+		},
+		"233213": {
+			"name": "Trained Thief-Hunter"
+		},
+		"234779": {
+			"name": "K'aresh Cragstalker"
+		},
+		"234960": {
+			"name": "Tamed Ruinstalker"
+		},
+		"236407": {
+			"name": "Ruins Stalker",
+			"title": "Sufaadi Farstalker's Pet"
+		},
+		"257122": {
+			"name": "Barbscale Voidcrawler"
+		},
+		"257445": {
+			"name": "Agitated Voidcrawler"
+		}
+	}
+}

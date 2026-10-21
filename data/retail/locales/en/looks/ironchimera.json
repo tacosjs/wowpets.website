@@ -1,0 +1,12 @@
+{
+	"name": "Tan Armored Rylak w/ Engines",
+	"variant": "Tan Armored Rylak w/ Engines",
+	"npcs": {
+		"86462": {
+			"name": "Burning Blade Rylak"
+		},
+		"86555": {
+			"name": "Burning Blade Rylak"
+		}
+	}
+}

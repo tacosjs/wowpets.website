@@ -1,0 +1,29 @@
+{
+	"id": "decomposersmallpurple",
+	"family": "carapid",
+	"modelGroup": "gormlings",
+	"npcs": [
+		{
+			"id": 158426,
+			"tameable": false,
+			"level": {
+				"min": 56,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "banks-of-life"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		174458,
+		163987,
+		171194,
+		155211,
+		155219
+	]
+}

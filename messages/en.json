@@ -24,5 +24,10 @@
   "zone_kind_scenario": "Scenario",
   "condition_quest": "Only appears during a quest.",
   "condition_invasion": "Only appears during an invasion.",
-  "condition_summoned": "Summoned or spawned by an event."
+  "condition_summoned": "Summoned or spawned by an event.",
+  "zone_kind_battleground": "Battleground",
+  "zone_kind_warfront": "Warfront",
+  "zone_kind_delve": "Delve",
+  "condition_phase": "Only appears in a quest phase.",
+  "npc_retired": "No longer in the game."
 }

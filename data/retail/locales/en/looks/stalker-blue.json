@@ -1,0 +1,69 @@
+{
+	"name": "Blue Shredclaw",
+	"variant": "Blue",
+	"npcs": {
+		"235414": {
+			"name": "Ravenous Shredclaw"
+		},
+		"238162": {
+			"name": "Trench Shredclaw"
+		},
+		"238369": {
+			"name": "Whipwind Shredclaw"
+		},
+		"238488": {
+			"name": "Seething Shredclaw"
+		},
+		"240089": {
+			"name": "Trench Shredclaw"
+		},
+		"240227": {
+			"name": "Voidstalker Patriarch"
+		},
+		"240737": {
+			"name": "Trench Stalker"
+		},
+		"242382": {
+			"name": "Ravenous Shredclaw"
+		},
+		"242955": {
+			"name": "Voidstalker Patriarch"
+		},
+		"243264": {
+			"name": "Seething Shredclaw"
+		},
+		"243658": {
+			"name": "Void-Yoked Shredclaw"
+		},
+		"243864": {
+			"name": "Voidfang"
+		},
+		"244617": {
+			"name": "Shredclaw Packhunter"
+		},
+		"244945": {
+			"name": "Rampant Shredclaw"
+		},
+		"247559": {
+			"name": "Den-Gorger Zitoc"
+		},
+		"247807": {
+			"name": "Prowling Griefshredder"
+		},
+		"248016": {
+			"name": "Grafted Shredder"
+		},
+		"249611": {
+			"name": "Captured Shredclaw"
+		},
+		"252107": {
+			"name": "Encroaching Shredclaw"
+		},
+		"256609": {
+			"name": "Voracious Shredclaw"
+		},
+		"257240": {
+			"name": "Ripfang Stalker"
+		}
+	}
+}

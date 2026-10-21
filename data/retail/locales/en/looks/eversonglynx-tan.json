@@ -1,0 +1,12 @@
+{
+	"name": "Tan Eversong Lynx",
+	"variant": "Tan",
+	"npcs": {
+		"240416": {
+			"name": "Hot-Head Lynx"
+		},
+		"251457": {
+			"name": "Ambershade Lynx"
+		}
+	}
+}

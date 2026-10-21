@@ -1,0 +1,70 @@
+{
+	"name": "Purple Jormungar",
+	"variant": "Purple",
+	"npcs": {
+		"25454": {
+			"name": "Tundra Crawler"
+		},
+		"26293": {
+			"name": "Hulking Jormungar"
+		},
+		"29390": {
+			"name": "Snowdrift Jormungar"
+		},
+		"30014": {
+			"name": "Yggdras"
+		},
+		"30093": {
+			"name": "Yggdras Worm"
+		},
+		"30148": {
+			"name": "Infesting Jormungar"
+		},
+		"30422": {
+			"name": "Roaming Jormungar"
+		},
+		"32882": {
+			"name": "Jormungar Behemoth"
+		},
+		"34137": {
+			"name": "Winter Jormungar"
+		},
+		"34799": {
+			"name": "Dreadscale"
+		},
+		"82202": {
+			"name": "Big Pete"
+		},
+		"82616": {
+			"name": "Jabberjaw",
+			"title": "Devourer of Ogres"
+		},
+		"82711": {
+			"name": "Tamed Rockworm"
+		},
+		"88927": {
+			"name": "Petey"
+		},
+		"88928": {
+			"name": "Lil' Peter"
+		},
+		"88929": {
+			"name": "Pete Jr."
+		},
+		"140984": {
+			"name": "Frostbore Worm"
+		},
+		"190319": {
+			"name": "Ice Burrower"
+		},
+		"190730": {
+			"name": "Deep Wyrm"
+		},
+		"193585": {
+			"name": "Ice Burrower Larvae"
+		},
+		"195012": {
+			"name": "Raging Ice Burrower"
+		}
+	}
+}

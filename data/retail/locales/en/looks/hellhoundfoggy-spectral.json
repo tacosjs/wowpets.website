@@ -1,0 +1,9 @@
+{
+	"name": "Spectral Infernal Hellhound",
+	"variant": "Spectral",
+	"npcs": {
+		"188510": {
+			"name": "Risen Bakar"
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Beige Moth",
+	"variant": "Beige",
+	"npcs": {
+		"18468": {
+			"name": "Teromoth"
+		},
+		"57232": {
+			"name": "Dappled Moth"
+		},
+		"59785": {
+			"name": "Singing Moth"
+		}
+	}
+}

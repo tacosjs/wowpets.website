@@ -1,0 +1,15 @@
+{
+	"name": "Sparkly Brown Dustmoth w/ Orange Glow",
+	"variant": "Brown w/ Orange Glow",
+	"npcs": {
+		"203784": {
+			"name": "Underlight Flickerwing"
+		},
+		"204187": {
+			"name": "Underlight Flickerwing"
+		},
+		"205122": {
+			"name": "Underlight Flickerwing"
+		}
+	}
+}

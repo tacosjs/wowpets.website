@@ -1,0 +1,54 @@
+{
+	"id": "toadgreen",
+	"family": "hopper",
+	"modelGroup": "toads",
+	"npcs": [
+		{
+			"id": 75590,
+			"tameable": true,
+			"level": {
+				"min": 11,
+				"max": 31
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "razorfen-kraul"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 78673,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "talador"
+				}
+			]
+		},
+		{
+			"id": 75470,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "the-nightmarsh"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		127612
+	]
+}

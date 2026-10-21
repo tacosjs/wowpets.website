@@ -1,0 +1,39 @@
+{
+	"id": "raptor-outlandblue",
+	"family": "raptor",
+	"modelGroup": "spikedraptors",
+	"npcs": [
+		{
+			"id": 50874,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "stonetalon-mountains"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 29698,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldrak"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		38187
+	]
+}

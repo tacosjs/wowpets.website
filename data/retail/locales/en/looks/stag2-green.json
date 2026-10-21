@@ -1,0 +1,21 @@
+{
+	"name": "Green-Brown Stag",
+	"variant": "Green-Brown",
+	"npcs": {
+		"112691": {
+			"name": "Greathorn Stag"
+		},
+		"196413": {
+			"name": "Pinehoof Stag"
+		},
+		"210849": {
+			"name": "Gilnean Stag"
+		},
+		"214221": {
+			"name": "Loamheart Stag"
+		},
+		"216701": {
+			"name": "Migrating Plains Stag"
+		}
+	}
+}

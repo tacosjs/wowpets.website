@@ -1,0 +1,21 @@
+{
+	"id": "spectralgryphon",
+	"family": "spiritbeast",
+	"modelGroup": "spectralgryphons",
+	"npcs": [
+		{
+			"id": 121567,
+			"tameable": true,
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormwind-city"
+				}
+			],
+			"level": {
+				"min": 1,
+				"max": 60
+			}
+		}
+	]
+}

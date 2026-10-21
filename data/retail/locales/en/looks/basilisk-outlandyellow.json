@@ -1,0 +1,33 @@
+{
+	"name": "Yellow Outland Basilisk",
+	"variant": "Yellow",
+	"npcs": {
+		"19706": {
+			"name": "Marshrock Threshalisk"
+		},
+		"19729": {
+			"name": "Ironspine Threshalisk"
+		},
+		"19730": {
+			"name": "Ironspine Gazer"
+		},
+		"20279": {
+			"name": "Ragestone Threshalisk"
+		},
+		"20280": {
+			"name": "Ragestone Trampler"
+		},
+		"20283": {
+			"name": "Marshrock Stomper"
+		},
+		"20783": {
+			"name": "Porfus the Gem Gorger"
+		},
+		"20924": {
+			"name": "Grishnath Basilisk"
+		},
+		"74962": {
+			"name": "Stoneshamble Basilisk"
+		}
+	}
+}

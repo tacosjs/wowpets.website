@@ -1,0 +1,84 @@
+{
+	"id": "zandalaridevilsaur-pale",
+	"family": "devilsaur",
+	"modelGroup": "zandalaridevilsaurs",
+	"npcs": [
+		{
+			"id": 139703,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "savagelands"
+				}
+			]
+		},
+		{
+			"id": 128051,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "torgas-rest"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 69218,
+			"tameable": true,
+			"level": {
+				"min": 32,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "isle-of-thunder"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 70007,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "isle-of-giants"
+				}
+			]
+		},
+		{
+			"id": 70010,
+			"tameable": true,
+			"level": {
+				"min": 36,
+				"max": 36
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "isle-of-giants"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		187262
+	]
+}

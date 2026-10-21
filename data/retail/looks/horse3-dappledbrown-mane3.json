@@ -1,0 +1,10 @@
+{
+	"id": "horse3-dappledbrown-mane3",
+	"family": "courser",
+	"modelGroup": "horses",
+	"npcs": [],
+	"alsoNpcs": [
+		174412,
+		124845
+	]
+}

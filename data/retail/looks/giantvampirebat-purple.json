@@ -1,0 +1,70 @@
+{
+	"id": "giantvampirebat-purple",
+	"family": "bat",
+	"modelGroup": "dredbats",
+	"npcs": [
+		{
+			"id": 169154,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 58
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "grove-of-terror"
+				}
+			]
+		},
+		{
+			"id": 161207,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "chalice-district"
+				}
+			]
+		},
+		{
+			"id": 157828,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "muck-pool-banewood"
+				}
+			]
+		},
+		{
+			"id": 158976,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "dominance-keep"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		168591
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"name": "Armoured Fiery Red Dread Raven",
+	"variant": "Armoured Fiery Red",
+	"npcs": {
+		"76143": {
+			"name": "Rukhran"
+		},
+		"83746": {
+			"name": "Rukhmar"
+		},
+		"187949": {
+			"name": "Ancient Dreadsquall"
+		},
+		"188698": {
+			"name": "Dreadsquall Feaster"
+		},
+		"191509": {
+			"name": "Blazing Dreadsquall"
+		},
+		"193291": {
+			"name": "Apex Blazewing"
+		},
+		"193862": {
+			"name": "Elusive Fiery Dreadsquall"
+		},
+		"197225": {
+			"name": "Transformed Dreadsquall",
+			"title": "Dragonbane Soldier's Pet"
+		}
+	}
+}

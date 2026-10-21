@@ -1,0 +1,22 @@
+{
+	"name": "Green Undercrawler w/ Gold Glow",
+	"variant": "Green w/ Gold Glow",
+	"npcs": {
+		"214840": {
+			"name": "Engorged Crawler"
+		},
+		"215771": {
+			"name": "Encroaching Undercrawler"
+		},
+		"222653": {
+			"name": "Bytta",
+			"title": "The Bucket Nabber"
+		},
+		"227373": {
+			"name": "Vicious Spiderling"
+		},
+		"229605": {
+			"name": "Deepwalking Ambusher"
+		}
+	}
+}

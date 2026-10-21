@@ -1,0 +1,65 @@
+{
+	"id": "dreadravenwarbirdfel-armour",
+	"family": "birdofprey",
+	"modelGroup": "dreadravens",
+	"npcs": [
+		{
+			"id": 91539,
+			"tameable": true,
+			"level": {
+				"min": 42,
+				"max": 42
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "hellfire-citadel"
+				}
+			]
+		},
+		{
+			"id": 93952,
+			"tameable": true,
+			"level": {
+				"min": 42,
+				"max": 42
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "hellfire-citadel"
+				}
+			]
+		},
+		{
+			"id": 95328,
+			"tameable": true,
+			"level": {
+				"min": 42,
+				"max": 42
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "tanaan-jungle"
+				}
+			]
+		},
+		{
+			"id": 95053,
+			"tameable": true,
+			"level": {
+				"min": 43,
+				"max": 43
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "tanaan-jungle",
+					"area": "ruins-of-kranak"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

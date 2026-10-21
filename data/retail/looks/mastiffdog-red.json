@@ -1,0 +1,156 @@
+{
+	"id": "mastiffdog-red",
+	"family": "hound",
+	"modelGroup": "mastiffs",
+	"npcs": [
+		{
+			"id": 58876,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "scarlet-monastery",
+					"area": "scarlet-halls"
+				}
+			]
+		},
+		{
+			"id": 58674,
+			"tameable": true,
+			"level": {
+				"min": 11,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "scarlet-monastery",
+					"area": "scarlet-halls"
+				}
+			]
+		},
+		{
+			"id": 59309,
+			"tameable": true,
+			"level": {
+				"min": 11,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "scarlet-monastery",
+					"area": "scarlet-halls"
+				}
+			]
+		},
+		{
+			"id": 51031,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "western-plaguelands"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 136469,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley",
+					"area": "dire-hills-lodge"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 141118,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley"
+				}
+			]
+		},
+		{
+			"id": 142119,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "boralus"
+				}
+			]
+		},
+		{
+			"id": 129166,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "gol-koval"
+				}
+			]
+		},
+		{
+			"id": 143592,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley",
+					"area": "deadwash"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		37718,
+		41561,
+		129857,
+		128551,
+		129070,
+		135773,
+		36405,
+		36713,
+		35631,
+		38468,
+		48124,
+		128718
+	]
+}

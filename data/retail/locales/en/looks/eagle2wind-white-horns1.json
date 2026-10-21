@@ -1,0 +1,24 @@
+{
+	"name": "Horned Grey & White Ohuna",
+	"variant": "Horned Grey & White",
+	"npcs": {
+		"181215": {
+			"name": "Altan"
+		},
+		"188088": {
+			"name": "Windblessed Ohuna"
+		},
+		"190022": {
+			"name": "Godoloto"
+		},
+		"191355": {
+			"name": "Angry Wind Eagle"
+		},
+		"193379": {
+			"name": "Displaced Nestling"
+		},
+		"212504": {
+			"name": "Keen-Eye Ohuna"
+		}
+	}
+}

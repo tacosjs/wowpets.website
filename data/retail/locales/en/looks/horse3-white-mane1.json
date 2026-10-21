@@ -1,0 +1,15 @@
+{
+	"name": "Grey Horse",
+	"variant": "Grey",
+	"npcs": {
+		"582": {
+			"name": "Old Blanchy"
+		},
+		"18651": {
+			"name": "Young Blanchy"
+		},
+		"137340": {
+			"name": "Mara"
+		}
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"name": "Core Hounds",
+	"modelGroups": {
+		"blazehounds": {
+			"name": "Blaze Hounds"
+		},
+		"corehounds": {
+			"name": "Core Hounds"
+		},
+		"classiccorehounds": {
+			"name": "Classic Core Hounds"
+		},
+		"guardianhounds": {
+			"name": "Guardian Hounds"
+		},
+		"drakehounds": {
+			"name": "Drake Hounds"
+		},
+		"voidhounds": {
+			"name": "Void Hounds"
+		}
+	}
+}

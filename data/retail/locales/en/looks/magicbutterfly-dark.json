@@ -1,0 +1,21 @@
+{
+	"name": "Purple-Orange Glimmerfly",
+	"variant": "Purple-Orange",
+	"npcs": {
+		"160581": {
+			"name": "Giant Glimmerfly"
+		},
+		"169618": {
+			"name": "Umbrawing Glimmerfly"
+		},
+		"169914": {
+			"name": "Umbrawing Monarch"
+		},
+		"170243": {
+			"name": "Umbrawing Darter"
+		},
+		"170390": {
+			"name": "Umbrawing Duster"
+		}
+	}
+}

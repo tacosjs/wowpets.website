@@ -1,0 +1,24 @@
+{
+	"name": "Black & Bronze Vombata w/ Medium Crest",
+	"variant": "Black & Bronze",
+	"npcs": {
+		"178196": {
+			"name": "Docile Vombata"
+		},
+		"178913": {
+			"name": "Grasslands Vombata"
+		},
+		"181359": {
+			"name": "Mawtouched Bull"
+		},
+		"182315": {
+			"name": "Vombata Prototype"
+		},
+		"185296": {
+			"name": "Agitated Vombata"
+		},
+		"185303": {
+			"name": "Peaceful Vombata"
+		}
+	}
+}

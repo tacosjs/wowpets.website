@@ -1,0 +1,73 @@
+{
+	"id": "snapdragon-red",
+	"family": "lizard",
+	"modelGroup": "snapdragons",
+	"npcs": [
+		{
+			"id": 152361,
+			"tameable": true,
+			"level": {
+				"min": 51,
+				"max": 51
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "naranan"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 262321,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ritual-site-daggerspine-point"
+				}
+			]
+		},
+		{
+			"id": 154422,
+			"tameable": false,
+			"level": {
+				"min": 51,
+				"max": 51
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "naranan"
+				}
+			]
+		},
+		{
+			"id": 233695,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "siren-isle",
+					"area": "flotsam-shoal"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		193873,
+		257830,
+		190193,
+		235243
+	]
+}

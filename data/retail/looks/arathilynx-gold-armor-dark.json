@@ -1,0 +1,52 @@
+{
+	"id": "arathilynx-gold-armor-dark",
+	"family": "cat",
+	"modelGroup": "arathilynxes",
+	"npcs": [
+		{
+			"id": 225419,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "dunelles-kindness"
+				}
+			]
+		},
+		{
+			"id": 222750,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "lorels-crossing"
+				}
+			]
+		},
+		{
+			"id": 206699,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "priory-of-the-sacred-flame",
+					"area": "sanctified-grounds"
+				}
+			]
+		}
+	]
+}

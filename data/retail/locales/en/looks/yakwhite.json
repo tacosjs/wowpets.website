@@ -1,0 +1,35 @@
+{
+	"name": "White Yak",
+	"variant": "White",
+	"npcs": {
+		"59307": {
+			"name": "Clean Yak"
+		},
+		"59407": {
+			"name": "Kobeyak"
+		},
+		"60954": {
+			"name": "Cream",
+			"title": "Tallmug's Yak"
+		},
+		"60955": {
+			"name": "Sugar",
+			"title": "Littlebrew's Yak"
+		},
+		"62929": {
+			"name": "Travel Yak"
+		},
+		"66587": {
+			"name": "Pengsong"
+		},
+		"73160": {
+			"name": "Ironfur Steelhorn"
+		},
+		"140436": {
+			"name": "Snorthoof"
+		},
+		"140439": {
+			"name": "Muskflank Herdleader"
+		}
+	}
+}

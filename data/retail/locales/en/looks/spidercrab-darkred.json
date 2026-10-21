@@ -1,0 +1,9 @@
+{
+	"name": "Red Spider Crab",
+	"variant": "Red",
+	"npcs": {
+		"152465": {
+			"name": "Needlespine"
+		}
+	}
+}

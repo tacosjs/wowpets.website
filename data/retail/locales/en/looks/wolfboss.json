@@ -1,0 +1,9 @@
+{
+	"name": "Battle-Scarred Runed Worg",
+	"variant": "wolfboss",
+	"npcs": {
+		"119990": {
+			"name": "Fenryr"
+		}
+	}
+}

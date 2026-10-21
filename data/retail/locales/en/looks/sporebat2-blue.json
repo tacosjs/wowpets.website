@@ -1,0 +1,9 @@
+{
+	"name": "Blue Draenor Sporebat",
+	"variant": "Blue",
+	"npcs": {
+		"82323": {
+			"name": "Moonglow Sporebat"
+		}
+	}
+}

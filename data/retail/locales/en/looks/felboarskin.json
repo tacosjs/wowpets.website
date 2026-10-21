@@ -1,0 +1,12 @@
+{
+	"name": "Red & Black Felboar",
+	"variant": "Red & Black",
+	"npcs": {
+		"16879": {
+			"name": "Starving Helboar"
+		},
+		"16880": {
+			"name": "Hulking Helboar"
+		}
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"name": "Orange Tiger w/ Black Nose",
+	"variant": "Orange w/ Black Nose",
+	"npcs": {
+		"64287": {
+			"name": "Summer",
+			"title": "Lorewalker Cho's Companion"
+		},
+		"66164": {
+			"name": "Zouchin Tiger"
+		},
+		"130765": {
+			"name": "Jungle Stalker Cub"
+		},
+		"131356": {
+			"name": "Jungle Stalker"
+		},
+		"132070": {
+			"name": "Carva"
+		},
+		"136032": {
+			"name": "Child of Kimbul"
+		},
+		"143779": {
+			"name": "Jungle Stalker Cub"
+		}
+	}
+}

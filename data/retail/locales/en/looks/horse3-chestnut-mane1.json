@@ -1,0 +1,9 @@
+{
+	"name": "Chestnut Horse",
+	"variant": "Chestnut",
+	"npcs": {
+		"44836": {
+			"name": "Hearthglen Mustang"
+		}
+	}
+}

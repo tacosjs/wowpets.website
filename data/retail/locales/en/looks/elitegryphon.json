@@ -1,0 +1,81 @@
+{
+	"name": "Brown Gryphon",
+	"variant": "Brown",
+	"npcs": {
+		"84104": {
+			"name": "Riding Gryphon"
+		},
+		"94576": {
+			"name": "Skyfire Gryphon"
+		},
+		"106235": {
+			"name": "Huey",
+			"title": "Grif Wildheart's Pet"
+		},
+		"110740": {
+			"name": "Skyfire Gryphon"
+		},
+		"129001": {
+			"name": "Wild Gryphon"
+		},
+		"129108": {
+			"name": "Captured Gryphon"
+		},
+		"129416": {
+			"name": "Greatfeather"
+		},
+		"129427": {
+			"name": "Plumeria",
+			"title": "Okri's Gryphon"
+		},
+		"129580": {
+			"name": "Outrigger Gryphon"
+		},
+		"131332": {
+			"name": "Wild Gryphon"
+		},
+		"133328": {
+			"name": "Roughneck Gryphon"
+		},
+		"135025": {
+			"name": "Bertram"
+		},
+		"137128": {
+			"name": "Greatfeather"
+		},
+		"137398": {
+			"name": "Lup"
+		},
+		"137724": {
+			"name": "Alpine Gryphon"
+		},
+		"138009": {
+			"name": "Roughneck Gryphon"
+		},
+		"138744": {
+			"name": "Swiftwing"
+		},
+		"141793": {
+			"name": "Wildhammer Gryphon"
+		},
+		"193360": {
+			"name": "Deaglan",
+			"title": "Avis's Companion"
+		},
+		"194586": {
+			"name": "Wildfeather"
+		},
+		"200300": {
+			"name": "Sharpbeak"
+		},
+		"244547": {
+			"name": "Gryphon"
+		},
+		"252511": {
+			"name": "Overkafanated Gryphon"
+		},
+		"252513": {
+			"name": "Overkafanated Gryphon"
+		}
+	}
+}

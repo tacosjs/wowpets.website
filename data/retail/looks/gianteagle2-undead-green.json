@@ -1,0 +1,36 @@
+{
+	"id": "gianteagle2-undead-green",
+	"family": "birdofprey",
+	"modelGroup": "amanieagles",
+	"npcs": [
+		{
+			"id": 244650,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "temple-of-halazzi"
+				}
+			]
+		},
+		{
+			"id": 254011,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "atalaman"
+				}
+			]
+		}
+	]
+}

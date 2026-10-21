@@ -1,0 +1,12 @@
+{
+	"name": "Yellow Basilisk w/Blue Fringes",
+	"variant": "Yellow w/Blue",
+	"npcs": {
+		"5419": {
+			"name": "Glasshide Basilisk"
+		},
+		"35750": {
+			"name": "Snapjaw Basilisk"
+		}
+	}
+}

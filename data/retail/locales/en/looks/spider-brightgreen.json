@@ -1,0 +1,21 @@
+{
+	"name": "Olive & Magenta Spider",
+	"variant": "Olive & Magenta",
+	"npcs": {
+		"159737": {
+			"name": "Boneweave Ambusher"
+		},
+		"159901": {
+			"name": "Boneweave Spiderling"
+		},
+		"168784": {
+			"name": "Hive Eater"
+		},
+		"168873": {
+			"name": "Hive Eater Matriarch"
+		},
+		"169290": {
+			"name": "Bonefang Spiderling"
+		}
+	}
+}

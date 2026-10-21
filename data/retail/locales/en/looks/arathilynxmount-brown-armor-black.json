@@ -1,0 +1,16 @@
+{
+	"name": "Brown Lynx w/ Grey Armor",
+	"variant": "Brown w/ Grey Armor",
+	"npcs": {
+		"221534": {
+			"name": "Lytfang the Lost"
+		},
+		"221712": {
+			"name": "Imperial Lynx"
+		},
+		"241108": {
+			"name": "Magpie",
+			"title": "Maera's Companion"
+		}
+	}
+}

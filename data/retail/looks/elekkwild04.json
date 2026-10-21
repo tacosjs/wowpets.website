@@ -1,0 +1,36 @@
+{
+	"id": "elekkwild04",
+	"family": "mammoth",
+	"modelGroup": "classicelekks",
+	"npcs": [
+		{
+			"id": 18289,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-outland"
+				}
+			]
+		},
+		{
+			"id": 55118,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "darkmoon-island",
+					"area": "the-darkmoon-faire"
+				}
+			]
+		}
+	]
+}

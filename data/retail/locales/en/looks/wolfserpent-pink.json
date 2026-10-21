@@ -1,0 +1,9 @@
+{
+	"name": "Purple Wilderling",
+	"variant": "Purple Wilderling",
+	"npcs": {
+		"180230": {
+			"name": "Twilight Wilderling"
+		}
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"id": "amanibearmount-witherbark",
+	"family": "bear",
+	"modelGroup": "amanibears",
+	"npcs": [
+		{
+			"id": 263381,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ritual-site-broken-throne"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 257000,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "tokkas-landing"
+				}
+			]
+		}
+	]
+}

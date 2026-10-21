@@ -1,0 +1,27 @@
+{
+	"name": "Amber Pango",
+	"variant": "Amber",
+	"npcs": {
+		"237959": {
+			"name": "Pangopup"
+		},
+		"252526": {
+			"name": "Yoked Pangolin"
+		},
+		"255188": {
+			"name": "Stabled Pango"
+		},
+		"255244": {
+			"name": "Weary Pango"
+		},
+		"257506": {
+			"name": "Juvenile Pango"
+		},
+		"257507": {
+			"name": "Juvenile Pango"
+		},
+		"257514": {
+			"name": "Foraging Pango"
+		}
+	}
+}

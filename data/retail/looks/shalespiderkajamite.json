@@ -1,0 +1,37 @@
+{
+	"id": "shalespiderkajamite",
+	"family": "shalebeast",
+	"modelGroup": "shalespiders",
+	"npcs": [
+		{
+			"id": 228556,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "kajacoast"
+				}
+			]
+		},
+		{
+			"id": 228555,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "kajacoast"
+				}
+			]
+		}
+	]
+}

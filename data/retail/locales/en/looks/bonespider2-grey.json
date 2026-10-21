@@ -1,0 +1,72 @@
+{
+	"name": "Grey Bone Spider",
+	"variant": "Grey",
+	"npcs": {
+		"30206": {
+			"name": "Carrion Fleshstripper"
+		},
+		"31747": {
+			"name": "Necrotic Webspinner"
+		},
+		"32475": {
+			"name": "Terror Spinner"
+		},
+		"50765": {
+			"name": "Miasmiss"
+		},
+		"65658": {
+			"name": "Widowspawn"
+		},
+		"74412": {
+			"name": "Aarux"
+		},
+		"84097": {
+			"name": "Boneshallow Spider"
+		},
+		"84190": {
+			"name": "Boneshallow Spider"
+		},
+		"113417": {
+			"name": "Swarming Spiderling"
+		},
+		"124262": {
+			"name": "Spiderling"
+		},
+		"125130": {
+			"name": "Venomous Weaver"
+		},
+		"129497": {
+			"name": "Sandspinner Spiderling"
+		},
+		"129498": {
+			"name": "Sandspinner Spiderling"
+		},
+		"129500": {
+			"name": "Sandspinner Stalker"
+		},
+		"129505": {
+			"name": "Sandspinner Hunter"
+		},
+		"130233": {
+			"name": "Sandspinner Hunter"
+		},
+		"132317": {
+			"name": "Bilefang Hunter"
+		},
+		"134902": {
+			"name": "Shadow-Weaver"
+		},
+		"203480": {
+			"name": "Spinmarrow"
+		},
+		"262124": {
+			"name": "Crawling Boneleach"
+		},
+		"262134": {
+			"name": "Crawling Boneleach"
+		},
+		"262136": {
+			"name": "Crawling Boneleach"
+		}
+	}
+}

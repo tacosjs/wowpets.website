@@ -1,0 +1,45 @@
+{
+	"name": "White Bat",
+	"variant": "White",
+	"npcs": {
+		"3868": {
+			"name": "Blood Seeker"
+		},
+		"10357": {
+			"name": "Ressan the Needler"
+		},
+		"11897": {
+			"name": "Duskwing"
+		},
+		"16180": {
+			"name": "Shadikith the Glider"
+		},
+		"28170": {
+			"name": "Frosthowl Screecher"
+		},
+		"28233": {
+			"name": "Zul'Drak Bat"
+		},
+		"50330": {
+			"name": "Kree"
+		},
+		"55453": {
+			"name": "Shadowbat"
+		},
+		"57117": {
+			"name": "Shadowbat"
+		},
+		"57458": {
+			"name": "Shadowbat"
+		},
+		"59235": {
+			"name": "Albino Canopy Screecher"
+		},
+		"61415": {
+			"name": "Giant Cave Bat"
+		},
+		"70232": {
+			"name": "Muckbat"
+		}
+	}
+}

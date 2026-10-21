@@ -1,0 +1,13 @@
+{
+	"name": "Spectral Skeletal Windserpent",
+	"variant": "Spectral Brown",
+	"npcs": {
+		"90782": {
+			"name": "Rasthe",
+			"title": "Son of Sethe"
+		},
+		"92937": {
+			"name": "Soul Fragment"
+		}
+	}
+}

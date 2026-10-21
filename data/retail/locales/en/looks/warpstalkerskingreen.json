@@ -1,0 +1,16 @@
+{
+	"name": "Green Warp Stalker",
+	"variant": "Green",
+	"npcs": {
+		"20906": {
+			"name": "Phase-Hunter"
+		},
+		"50313": {
+			"name": "Displaced Warp Stalker"
+		},
+		"234202": {
+			"name": "Wastes Stalker",
+			"title": "Wastelander Wildcaller's Pet"
+		}
+	}
+}

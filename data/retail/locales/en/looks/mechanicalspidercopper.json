@@ -1,0 +1,27 @@
+{
+	"name": "Copper-Grey Mechanical Spider",
+	"variant": "Copper-Grey",
+	"npcs": {
+		"114992": {
+			"name": "Copper Arachnodrone"
+		},
+		"152287": {
+			"name": "Motospider"
+		},
+		"152288": {
+			"name": "Motospider"
+		},
+		"152994": {
+			"name": "Leaping Bugbot"
+		},
+		"153473": {
+			"name": "Abducted Motospider"
+		},
+		"153980": {
+			"name": "Arachnoid Destroyer"
+		},
+		"154219": {
+			"name": "Motospider"
+		}
+	}
+}

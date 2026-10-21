@@ -1,0 +1,26 @@
+{
+	"id": "boggorm-black",
+	"family": "worm",
+	"modelGroup": "tidalworms",
+	"npcs": [
+		{
+			"id": 255154,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "leech-bog"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		250156,
+		249012
+	]
+}

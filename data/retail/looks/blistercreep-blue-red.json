@@ -1,0 +1,22 @@
+{
+	"id": "blistercreep-blue-red",
+	"family": "bloodbeast",
+	"modelGroup": "blistercreeps",
+	"npcs": [
+		{
+			"id": 256923,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "den-of-predaxus"
+				}
+			]
+		}
+	]
+}

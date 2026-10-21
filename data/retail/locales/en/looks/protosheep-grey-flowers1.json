@@ -1,0 +1,12 @@
+{
+	"name": "Blooming Grey Mosswool",
+	"variant": "Blooming Grey Mosswool",
+	"npcs": {
+		"214136": {
+			"name": "Rambleshire Mosswool"
+		},
+		"222956": {
+			"name": "Lost Mosswool"
+		}
+	}
+}

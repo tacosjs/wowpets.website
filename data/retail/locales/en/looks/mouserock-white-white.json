@@ -1,0 +1,9 @@
+{
+	"name": "Silver Rock Mouse w/o Neck Ruff",
+	"variant": "Silver",
+	"npcs": {
+		"205175": {
+			"name": "Ashfur Murine"
+		}
+	}
+}

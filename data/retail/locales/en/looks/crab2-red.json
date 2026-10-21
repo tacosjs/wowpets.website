@@ -1,0 +1,26 @@
+{
+	"name": "Red & White Crab",
+	"variant": "Red & White",
+	"npcs": {
+		"126423": {
+			"name": "Coralback Crab"
+		},
+		"127630": {
+			"name": "Agitated Snapclaw"
+		},
+		"147738": {
+			"name": "Shallows Crawler",
+			"title": "Greymist Tidehunter's Pet"
+		},
+		"153903": {
+			"name": "Tucel",
+			"title": "Sardina's Friend"
+		},
+		"198312": {
+			"name": "Crustosteo"
+		},
+		"263695": {
+			"name": "Zecrogon"
+		}
+	}
+}

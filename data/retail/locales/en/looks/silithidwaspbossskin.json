@@ -1,0 +1,15 @@
+{
+	"name": "Orange Boss Wasp",
+	"variant": "Orange",
+	"npcs": {
+		"15369": {
+			"name": "Ayamiss the Hunter"
+		},
+		"28087": {
+			"name": "Sapphire Hive Queen"
+		},
+		"118271": {
+			"name": "Clutchmother Zavas"
+		}
+	}
+}

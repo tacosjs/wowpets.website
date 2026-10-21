@@ -1,0 +1,12 @@
+{
+	"name": "Green & Silver Scarabid",
+	"variant": "Green & Silver Scarabid",
+	"npcs": {
+		"181385": {
+			"name": "Coreless Scarabid"
+		},
+		"181493": {
+			"name": "Resonant Scarabid"
+		}
+	}
+}

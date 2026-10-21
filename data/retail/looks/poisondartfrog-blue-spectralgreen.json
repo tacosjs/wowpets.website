@@ -1,0 +1,22 @@
+{
+	"id": "poisondartfrog-blue-spectralgreen",
+	"family": "hopper",
+	"modelGroup": "diretoads",
+	"npcs": [
+		{
+			"id": 239372,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "loaknit-den"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Spectral Bone Spider",
+	"variant": "Spectral Bone Spider",
+	"npcs": {
+		"96323": {
+			"name": "Arachnis"
+		}
+	}
+}

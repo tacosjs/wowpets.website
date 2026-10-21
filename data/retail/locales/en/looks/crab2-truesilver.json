@@ -1,0 +1,15 @@
+{
+	"name": "Light Blue Crab",
+	"variant": "Light Blue",
+	"npcs": {
+		"84341": {
+			"name": "Moonshell Crawler"
+		},
+		"84432": {
+			"name": "Glass Crab"
+		},
+		"101624": {
+			"name": "Adult Truesilver Crab"
+		}
+	}
+}

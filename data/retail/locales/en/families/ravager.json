@@ -1,0 +1,14 @@
+{
+	"name": "Ravager",
+	"modelGroups": {
+		"draenorravagers": {
+			"name": "Winged Ravagers"
+		},
+		"ravagers": {
+			"name": "Ravagers"
+		},
+		"extraspikyravagers": {
+			"name": "Dire Ravagers"
+		}
+	}
+}

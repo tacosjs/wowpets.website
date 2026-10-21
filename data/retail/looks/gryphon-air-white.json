@@ -1,0 +1,41 @@
+{
+	"id": "gryphon-air-white",
+	"family": "feathermane",
+	"modelGroup": "cloudrooks",
+	"npcs": [
+		{
+			"id": 229705,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn"
+				}
+			]
+		},
+		{
+			"id": 219281,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "dhar-oztan"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		229638,
+		224402,
+		227215
+	]
+}

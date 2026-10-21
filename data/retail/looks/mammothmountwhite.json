@@ -1,0 +1,89 @@
+{
+	"id": "mammothmountwhite",
+	"family": "mammoth",
+	"modelGroup": "classicmammoths",
+	"npcs": [
+		{
+			"id": 26272,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dragonblight",
+					"area": "the-dragon-wastes"
+				},
+				{
+					"zone": "hour-of-twilight"
+				}
+			]
+		},
+		{
+			"id": 29402,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-storm-peaks",
+					"area": "snowblind-peaks"
+				}
+			]
+		},
+		{
+			"id": 30448,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-storm-peaks",
+					"area": "plain-echoes"
+				}
+			]
+		},
+		{
+			"id": 30260,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-storm-peaks",
+					"area": "valley-of-ancient-winters"
+				}
+			]
+		},
+		{
+			"id": 32400,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "dragonblight",
+					"area": "the-dragon-wastes"
+				}
+			],
+			"keepsName": true
+		}
+	],
+	"alsoNpcs": [
+		26273
+	]
+}

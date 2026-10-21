@@ -1,0 +1,15 @@
+{
+	"name": "Golden Orange Cobra",
+	"variant": "Golden Orange",
+	"npcs": {
+		"261372": {
+			"name": "Dustscale Cobra"
+		},
+		"263824": {
+			"name": "Snake Snack"
+		},
+		"265049": {
+			"name": "Burrow Stinger"
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"name": "Green Gorm w/ Modified Head",
+	"variant": "Green w/ Modified Head",
+	"npcs": {
+		"160075": {
+			"name": "Gorm Spewer"
+		},
+		"163207": {
+			"name": "Burrowing Mite"
+		},
+		"163991": {
+			"name": "Dustwilt Acidmaw"
+		},
+		"167113": {
+			"name": "Spinemaw Acidgullet"
+		}
+	}
+}

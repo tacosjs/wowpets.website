@@ -1,0 +1,12 @@
+{
+	"name": "Green Snake",
+	"variant": "Green",
+	"npcs": {
+		"29713": {
+			"name": "Slad'ran Constrictor"
+		},
+		"140696": {
+			"name": "Da'zu the Feared"
+		}
+	}
+}

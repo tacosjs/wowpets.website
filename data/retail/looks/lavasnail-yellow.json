@@ -1,0 +1,15 @@
+{
+	"id": "lavasnail-yellow",
+	"family": "carapid",
+	"modelGroup": "magmasnails",
+	"npcs": [],
+	"alsoNpcs": [
+		184851,
+		191628,
+		186833,
+		193139,
+		225393,
+		214724,
+		225391
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"name": "Beige Alpaca w/ Harness",
+	"variant": "Beige w/ Harness",
+	"npcs": {
+		"126217": {
+			"name": "Dot"
+		},
+		"126219": {
+			"name": "Dolly"
+		},
+		"128848": {
+			"name": "Dolly"
+		},
+		"128849": {
+			"name": "Dot"
+		},
+		"142449": {
+			"name": "Alpaca"
+		},
+		"143700": {
+			"name": "Domestic Alpaca"
+		},
+		"143740": {
+			"name": "Dot"
+		},
+		"143741": {
+			"name": "Dolly"
+		},
+		"147453": {
+			"name": "Alpaca"
+		},
+		"147499": {
+			"name": "Molly"
+		},
+		"147500": {
+			"name": "Max"
+		},
+		"196714": {
+			"name": "Dolly"
+		},
+		"196715": {
+			"name": "Dot"
+		}
+	}
+}

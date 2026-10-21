@@ -1,0 +1,12 @@
+{
+	"name": "Void Warp Stalker w/ Purple Effects",
+	"variant": "Void Warp Stalker w/ Purple Effects",
+	"npcs": {
+		"225138": {
+			"name": "Gloom Stalker"
+		},
+		"225139": {
+			"name": "Umbral Stalker"
+		}
+	}
+}

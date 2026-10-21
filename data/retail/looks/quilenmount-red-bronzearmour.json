@@ -1,0 +1,28 @@
+{
+	"id": "quilenmount-red-bronzearmour",
+	"family": "stonehound",
+	"modelGroup": "armouredquilen",
+	"npcs": [
+		{
+			"id": 158409,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "vale-of-eternal-blossoms",
+					"area": "autumnshade-ridge"
+				}
+			],
+			"keepsName": true,
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

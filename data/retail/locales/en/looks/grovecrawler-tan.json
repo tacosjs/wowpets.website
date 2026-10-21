@@ -1,0 +1,15 @@
+{
+	"name": "Green & Tan Grovecrawler",
+	"variant": "Green & Tan",
+	"npcs": {
+		"250344": {
+			"name": "Juvenile Grovecrawler"
+		},
+		"253397": {
+			"name": "Slithering Grovecrawler"
+		},
+		"255079": {
+			"name": "Opportunistic Grovecrawler"
+		}
+	}
+}

@@ -1,0 +1,174 @@
+{
+	"id": "sporebat3-purple-purple",
+	"family": "sporebat",
+	"modelGroup": "sporegliders",
+	"npcs": [
+		{
+			"id": 252773,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "the-grudge-pit-non-instanced"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 246162,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "the-grudge-pit-non-instanced"
+				}
+			]
+		},
+		{
+			"id": 243780,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "the-grudge-pit-non-instanced"
+				}
+			]
+		},
+		{
+			"id": 248598,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "naitheren-grotto"
+				}
+			]
+		},
+		{
+			"id": 256381,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "rift-of-aln"
+				}
+			]
+		},
+		{
+			"id": 256357,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "vale-of-mists-the-grudge-pit-non-instanced"
+				}
+			]
+		},
+		{
+			"id": 251758,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "the-grudge-pit-non-instanced"
+				}
+			]
+		},
+		{
+			"id": 245690,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "harandar"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 254543,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "the-grudge-pit-non-instanced"
+				}
+			]
+		},
+		{
+			"id": 265698,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 95
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "naigtal",
+					"area": "soltian-marsh"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		237704,
+		260031,
+		250168,
+		256061,
+		257933,
+		264342
+	]
+}

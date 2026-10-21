@@ -1,0 +1,21 @@
+{
+	"name": "Brown Shalehorn",
+	"variant": "Brown",
+	"npcs": {
+		"212704": {
+			"name": "Mycotic Shalehorn"
+		},
+		"222618": {
+			"name": "Alert Shalehorn"
+		},
+		"227934": {
+			"name": "Penumbral Bull"
+		},
+		"228000": {
+			"name": "Penumbral Bull"
+		},
+		"228012": {
+			"name": "Immature Shalehorn"
+		}
+	}
+}

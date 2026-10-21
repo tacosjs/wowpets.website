@@ -1,0 +1,72 @@
+{
+	"name": "Beige & Taupe Shalehorn",
+	"variant": "Beige & Taupe",
+	"npcs": {
+		"212701": {
+			"name": "Elder Shalehorn"
+		},
+		"212702": {
+			"name": "Mycotic Shalehorn"
+		},
+		"214973": {
+			"name": "Shalehorn Bull"
+		},
+		"215812": {
+			"name": "Stampeding Shalehorn"
+		},
+		"217121": {
+			"name": "Brightland Hornface"
+		},
+		"218187": {
+			"name": "Grazing Stomper"
+		},
+		"221024": {
+			"name": "Enraged Shalehorn"
+		},
+		"222619": {
+			"name": "Meandering Shalehorn"
+		},
+		"223042": {
+			"name": "Elusive Shalehorn"
+		},
+		"223079": {
+			"name": "Elusive Swifthoof Shalehorn"
+		},
+		"224588": {
+			"name": "Spooked Cow"
+		},
+		"224611": {
+			"name": "Unnerved Calf"
+		},
+		"225268": {
+			"name": "Plainswalker Shalehorn"
+		},
+		"225311": {
+			"name": "Plainswalker Shalehorn"
+		},
+		"226115": {
+			"name": "Upland Shalehorn"
+		},
+		"226116": {
+			"name": "Upland Shalehorn"
+		},
+		"226117": {
+			"name": "Upland Calf"
+		},
+		"226252": {
+			"name": "Upland Calf"
+		},
+		"227150": {
+			"name": "Immature Shalehorn"
+		},
+		"228120": {
+			"name": "Wary Bull"
+		},
+		"228153": {
+			"name": "Immature Shalehorn"
+		},
+		"228450": {
+			"name": "Highrock Bull"
+		}
+	}
+}

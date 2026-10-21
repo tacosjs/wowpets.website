@@ -1,0 +1,27 @@
+{
+	"name": "Black Skitterfly",
+	"variant": "Black",
+	"npcs": {
+		"183541": {
+			"name": "Dragonfly"
+		},
+		"183990": {
+			"name": "Thirsty Darner"
+		},
+		"185643": {
+			"name": "Wispy Skimmerling"
+		},
+		"185644": {
+			"name": "Wispy Skimmer"
+		},
+		"189614": {
+			"name": "Grimy Skimmer"
+		},
+		"193367": {
+			"name": "Dismay Fly"
+		},
+		"193703": {
+			"name": "Scrambling Skitterfly"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"name": "Stone Dredbat",
+	"variant": "Stone",
+	"npcs": {
+		"157083": {
+			"name": "Stonewing Ravager"
+		},
+		"163507": {
+			"name": "Fanged Dredbat"
+		},
+		"163893": {
+			"name": "Fanged Dredbat"
+		},
+		"164234": {
+			"name": "Fanged Dredbat"
+		},
+		"214162": {
+			"name": "The Ringing Death"
+		},
+		"254928": {
+			"name": "Flarebat"
+		}
+	}
+}

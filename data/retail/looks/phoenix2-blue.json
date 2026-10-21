@@ -1,0 +1,21 @@
+{
+	"id": "phoenix2-blue",
+	"family": "birdofprey",
+	"modelGroup": "phoenixes",
+	"npcs": [
+		{
+			"id": 229532,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "siren-isle"
+				}
+			]
+		}
+	]
+}

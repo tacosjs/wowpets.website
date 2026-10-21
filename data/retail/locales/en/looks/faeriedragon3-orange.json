@@ -1,0 +1,15 @@
+{
+	"name": "Purple Orange Dream Darter",
+	"variant": "Purple Orange",
+	"npcs": {
+		"209444": {
+			"name": "Unstable Faerie Dragon"
+		},
+		"209602": {
+			"name": "Injured Faerie Whelp"
+		},
+		"210873": {
+			"name": "Zebnis"
+		}
+	}
+}

@@ -1,0 +1,58 @@
+{
+	"name": "Green Thunder Hydra",
+	"variant": "Green",
+	"npcs": {
+		"80370": {
+			"name": "Lernaea"
+		},
+		"80541": {
+			"name": "Lernaean Broodmother"
+		},
+		"80542": {
+			"name": "Lernaean Monitor"
+		},
+		"80543": {
+			"name": "Lernaean Scout"
+		},
+		"81537": {
+			"name": "Khargax the Devourer"
+		},
+		"82050": {
+			"name": "Varasha"
+		},
+		"85429": {
+			"name": "Varashian Vilefang"
+		},
+		"85693": {
+			"name": "Lernaea Vilescale"
+		},
+		"86266": {
+			"name": "Venolasix"
+		},
+		"111180": {
+			"name": "The Goroboros"
+		},
+		"111383": {
+			"name": "Lytheron Gloomscale"
+		},
+		"112861": {
+			"name": "Marsh Hydra"
+		},
+		"129027": {
+			"name": "Golanar",
+			"title": "The River Lord"
+		},
+		"129954": {
+			"name": "Gahz'ralka"
+		},
+		"131410": {
+			"name": "Gargantuan Venomscale"
+		},
+		"131411": {
+			"name": "Venomscale Monitor"
+		},
+		"132740": {
+			"name": "Venomscale Hydra"
+		}
+	}
+}

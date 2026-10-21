@@ -1,0 +1,28 @@
+{
+	"id": "wingedlion2-gold-transparent",
+	"family": "feathermane",
+	"modelGroup": "larions",
+	"npcs": [
+		{
+			"id": 161529,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "aspirants-crucible"
+				}
+			],
+			"keepsName": true,
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,65 @@
+{
+	"name": "Red Tiger",
+	"variant": "Red",
+	"npcs": {
+		"55550": {
+			"name": "Lurking Tiger"
+		},
+		"56382": {
+			"name": "Ki Ki",
+			"title": "Bo Bo's Guardian"
+		},
+		"58070": {
+			"name": "Krasari Huntress"
+		},
+		"58641": {
+			"name": "Krasari Prowler"
+		},
+		"59102": {
+			"name": "Forest Huntress"
+		},
+		"59116": {
+			"name": "Krasari Huntress"
+		},
+		"59196": {
+			"name": "Krasari Prowler"
+		},
+		"59753": {
+			"name": "Golden Tiger"
+		},
+		"62945": {
+			"name": "Bloodthirsty Prowler"
+		},
+		"63537": {
+			"name": "Windward Tiger"
+		},
+		"63540": {
+			"name": "Young Windward Tiger"
+		},
+		"63989": {
+			"name": "Saari",
+			"title": "Jaul Hsu's Pet"
+		},
+		"68348": {
+			"name": "Krasari Stalker"
+		},
+		"72807": {
+			"name": "Crag Stalker"
+		},
+		"128923": {
+			"name": "Sha'khee"
+		},
+		"130788": {
+			"name": "Taghira"
+		},
+		"134263": {
+			"name": "Tiger"
+		},
+		"167347": {
+			"name": "Tiger"
+		},
+		"205685": {
+			"name": "Apex Tiger"
+		}
+	}
+}

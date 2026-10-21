@@ -1,0 +1,152 @@
+{
+	"id": "thornmaw-lightbloom",
+	"family": "scalehide",
+	"modelGroup": "thornmaws",
+	"npcs": [
+		{
+			"id": 242055,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "the-blinding-bloom"
+				}
+			]
+		},
+		{
+			"id": 242057,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "the-blinding-bloom"
+				}
+			]
+		},
+		{
+			"id": 255977,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "encroaching-bloom"
+				}
+			]
+		},
+		{
+			"id": 240495,
+			"tameable": true,
+			"level": {
+				"min": 82,
+				"max": 92
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "lightbloom-lashra"
+				}
+			]
+		},
+		{
+			"id": 247397,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-grudge-pit"
+				}
+			]
+		},
+		{
+			"id": 237737,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "harmara"
+				}
+			]
+		},
+		{
+			"id": 246637,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "collegiate-calamity"
+				},
+				{
+					"zone": "the-gulf-of-memory"
+				}
+			]
+		},
+		{
+			"id": 246871,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-blinding-vale"
+				}
+			]
+		},
+		{
+			"id": 248320,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-grudge-pit"
+				}
+			]
+		},
+		{
+			"id": 249776,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "encroaching-bloom"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"name": "Crimson Writhing Serpents",
+	"variant": "Crimson",
+	"npcs": {
+		"258962": {
+			"name": "Writhing Ripcoil"
+		},
+		"260844": {
+			"name": "Seething Venommaw"
+		},
+		"261398": {
+			"name": "Writhing Coiler"
+		},
+		"262011": {
+			"name": "Rattling Writhe"
+		},
+		"263356": {
+			"name": "Lurking Coiler"
+		},
+		"263359": {
+			"name": "Sacred Doomcoiler"
+		},
+		"265968": {
+			"name": "Writhing Bonechewer"
+		},
+		"266193": {
+			"name": "Ula'tek's Amphisbaena"
+		},
+		"267180": {
+			"name": "Writhing Coiler"
+		},
+		"268908": {
+			"name": "Coiling Writhewatcher"
+		},
+		"269450": {
+			"name": "Blightfang"
+		},
+		"270261": {
+			"name": "Writhing Bonechewer"
+		},
+		"273290": {
+			"name": "Writhing Coiler"
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"name": "Purple Skipper",
+	"variant": "Purple",
+	"npcs": {
+		"219962": {
+			"name": "Glowshade Skipper"
+		},
+		"226421": {
+			"name": "Stonepool Skipper"
+		},
+		"226929": {
+			"name": "Stonepool Skipper"
+		},
+		"227132": {
+			"name": "Gluglurp",
+			"title": "The Glimmering Gobbler"
+		}
+	}
+}

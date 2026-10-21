@@ -1,0 +1,9 @@
+{
+	"name": "Green Mechanowolf",
+	"variant": "Green",
+	"npcs": {
+		"115479": {
+			"name": "Model GU-4RD-3R"
+		}
+	}
+}

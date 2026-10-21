@@ -1,0 +1,30 @@
+{
+	"id": "waterfowl",
+	"wowId": 125,
+	"icon": "inv_pet_crane",
+	"spec": "tenacity",
+	"exotic": false,
+	"diet": [
+		"bread",
+		"fish",
+		"raw-fish"
+	],
+	"abilities": {
+		"basic": "smack",
+		"family": [
+			"oiled-feathers",
+			"trick-126259"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "ducks"
+		},
+		{
+			"id": "cranes"
+		},
+		{
+			"id": "penguins"
+		}
+	]
+}

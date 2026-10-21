@@ -1,0 +1,12 @@
+{
+	"name": "Red-Tinged Steel Blue Spiked Crab",
+	"variant": "Red-Tinged Steel Blue",
+	"npcs": {
+		"101554": {
+			"name": "Spikebacked Scuttler"
+		},
+		"102516": {
+			"name": "Tidescuttler"
+		}
+	}
+}

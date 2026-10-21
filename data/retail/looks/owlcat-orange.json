@@ -1,0 +1,36 @@
+{
+	"id": "owlcat-orange",
+	"family": "feathermane",
+	"modelGroup": "owlcats",
+	"npcs": [
+		{
+			"id": 121502,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar"
+				}
+			]
+		},
+		{
+			"id": 103712,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "feathermane-hunting-grounds"
+				}
+			]
+		}
+	]
+}

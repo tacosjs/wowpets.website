@@ -1,0 +1,26 @@
+{
+	"id": "spidercrab-darkred",
+	"family": "crab",
+	"modelGroup": "spidercrabs",
+	"npcs": [
+		{
+			"id": 152465,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "zanjir-terrace-abyssal-pools"
+				}
+			],
+			"keepsName": true
+		}
+	],
+	"alsoNpcs": [
+		192129
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Orange Skyfiend",
+	"variant": "Orange",
+	"npcs": {
+		"255088": {
+			"name": "Looming Mutagenitor"
+		},
+		"261554": {
+			"name": "Twinfang Harrower"
+		}
+	}
+}

@@ -1,0 +1,147 @@
+{
+	"name": "Brown-Black Bear",
+	"variant": "Brown-Black",
+	"npcs": {
+		"1186": {
+			"name": "Black Bear"
+		},
+		"1225": {
+			"name": "Ol' Sooty"
+		},
+		"5352": {
+			"name": "Old Grizzlegut"
+		},
+		"27715": {
+			"name": "Ironhide"
+		},
+		"44016": {
+			"name": "Coalpelt Bear"
+		},
+		"44473": {
+			"name": "Shaggy Black Bear"
+		},
+		"49249": {
+			"name": "Vicious Black Bear"
+		},
+		"50093": {
+			"name": "Rae"
+		},
+		"51972": {
+			"name": "Black Bear"
+		},
+		"92735": {
+			"name": "Resting Dauorbjorn"
+		},
+		"93095": {
+			"name": "Voracious Bear"
+		},
+		"96146": {
+			"name": "Bristlefur Bear"
+		},
+		"96677": {
+			"name": "Steeljaw Grizzly"
+		},
+		"97449": {
+			"name": "Bristlemaul"
+		},
+		"98955": {
+			"name": "Tideskorn Warbear"
+		},
+		"99571": {
+			"name": "Insatiable Bristlefur"
+		},
+		"100447": {
+			"name": "Tamed Black Bear"
+		},
+		"102385": {
+			"name": "Bristlefur Bear"
+		},
+		"109324": {
+			"name": "Mac the Bear"
+		},
+		"130256": {
+			"name": "Amani Bear"
+		},
+		"137835": {
+			"name": "Vicious Black Bear"
+		},
+		"140062": {
+			"name": "Diremaul"
+		},
+		"140065": {
+			"name": "Muskhide"
+		},
+		"142342": {
+			"name": "Vicious Black Bear"
+		},
+		"149651": {
+			"name": "Blackpaw"
+		},
+		"155053": {
+			"name": "Honey-Crazed Grizzly"
+		},
+		"167375": {
+			"name": "Bear"
+		},
+		"220059": {
+			"name": "Shadegrumble Bear"
+		},
+		"227255": {
+			"name": "Caverndeep Kodiak"
+		},
+		"227265": {
+			"name": "Kodiak Cub"
+		},
+		"227483": {
+			"name": "Caverndeep Kodiak"
+		},
+		"227484": {
+			"name": "Kodiak Cub"
+		},
+		"227954": {
+			"name": "Gloomcliff Grizzly"
+		},
+		"228875": {
+			"name": "Gloomcliff Grizzly"
+		},
+		"228876": {
+			"name": "Gloomcliff Matriarch"
+		},
+		"229060": {
+			"name": "Enraged Kodiak"
+		},
+		"230157": {
+			"name": "Enraged Kodiak"
+		},
+		"240728": {
+			"name": "Avatar of Nalorakk"
+		},
+		"241809": {
+			"name": "Curious Yearling"
+		},
+		"247504": {
+			"name": "Wandering Mauler"
+		},
+		"249359": {
+			"name": "Barkfur Bear"
+		},
+		"249464": {
+			"name": "Vision of the Matriarch"
+		},
+		"250043": {
+			"name": "Eversong Mauler"
+		},
+		"250044": {
+			"name": "Rageclaw Matriarch"
+		},
+		"250099": {
+			"name": "Amani Mauler"
+		},
+		"254815": {
+			"name": "Rageclaw Matriarch"
+		},
+		"255752": {
+			"name": "Amani Mauler"
+		}
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"id": "raptor2-lightning-frost",
+	"family": "spiritbeast",
+	"modelGroup": "spiritraptors",
+	"npcs": [
+		{
+			"id": 121571,
+			"tameable": true,
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "orgrimmar",
+					"area": "valley-of-spirits"
+				}
+			],
+			"keepsName": true,
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			],
+			"level": {
+				"min": 1,
+				"max": 60
+			}
+		}
+	]
+}

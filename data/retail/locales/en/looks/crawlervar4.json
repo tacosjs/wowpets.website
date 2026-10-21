@@ -1,0 +1,12 @@
+{
+	"name": "Green & Crimson Ravager",
+	"variant": "Green & Crimson",
+	"npcs": {
+		"50320": {
+			"name": "Lost Ravager"
+		},
+		"50726": {
+			"name": "Kalixx"
+		}
+	}
+}

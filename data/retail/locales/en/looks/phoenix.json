@@ -1,0 +1,25 @@
+{
+	"name": "Gold Phoenix",
+	"variant": "Gold Phoenix",
+	"npcs": {
+		"19514": {
+			"name": "Al'ar",
+			"title": "Phoenix God"
+		},
+		"19551": {
+			"name": "Ember of Al'ar"
+		},
+		"21362": {
+			"name": "Phoenix"
+		},
+		"24674": {
+			"name": "Phoenix"
+		},
+		"48906": {
+			"name": "Blaze of the Heavens"
+		},
+		"50057": {
+			"name": "Blazewing"
+		}
+	}
+}

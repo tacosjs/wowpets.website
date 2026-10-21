@@ -1,0 +1,18 @@
+{
+	"name": "Brown Ottuk",
+	"variant": "Brown",
+	"npcs": {
+		"188104": {
+			"name": "Ottuk Pup"
+		},
+		"193409": {
+			"name": "Wildwater Ottuk"
+		},
+		"193491": {
+			"name": "Thickfur Ottuk"
+		},
+		"196093": {
+			"name": "Briskwater Ottuk"
+		}
+	}
+}

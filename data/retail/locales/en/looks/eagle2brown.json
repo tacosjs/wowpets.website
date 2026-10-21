@@ -1,0 +1,55 @@
+{
+	"name": "Brown Eagle",
+	"variant": "Brown",
+	"npcs": {
+		"24787": {
+			"name": "Fjord Hawk Matriarch"
+		},
+		"26369": {
+			"name": "Imperial Eagle"
+		},
+		"42657": {
+			"name": "Hyjal Eagle"
+		},
+		"94081": {
+			"name": "Great Eagle"
+		},
+		"97328": {
+			"name": "Captured Eagle"
+		},
+		"97755": {
+			"name": "Galecrested Eagle"
+		},
+		"98356": {
+			"name": "Corrupted Great Eagle"
+		},
+		"98937": {
+			"name": "Skyhorn Eagle"
+		},
+		"99862": {
+			"name": "Great Eagle"
+		},
+		"103079": {
+			"name": "Highmountain Eagle"
+		},
+		"108552": {
+			"name": "Great Eagle"
+		},
+		"112290": {
+			"name": "Horrid Eagle"
+		},
+		"112444": {
+			"name": "Highland Skyraptor"
+		},
+		"135212": {
+			"name": "Skyhorn Eagle"
+		},
+		"137720": {
+			"name": "Soaring Eagle"
+		},
+		"138293": {
+			"name": "Meyaru",
+			"title": "Tallelah's Pet"
+		}
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"id": "waterstrider",
+	"family": "waterstrider",
+	"modelGroup": "waterstriders",
+	"npcs": [
+		{
+			"id": 66895,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		210795,
+		207626,
+		250167,
+		256368,
+		237694,
+		210282
+	]
+}

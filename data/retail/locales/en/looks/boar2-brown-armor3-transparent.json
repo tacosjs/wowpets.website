@@ -1,0 +1,9 @@
+{
+	"name": "Armoured Brown Ghost Boar",
+	"variant": "Ghostly Brown",
+	"npcs": {
+		"6021": {
+			"name": "Boar Spirit"
+		}
+	}
+}

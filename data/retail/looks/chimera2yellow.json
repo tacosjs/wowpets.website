@@ -1,0 +1,65 @@
+{
+	"id": "chimera2yellow",
+	"family": "chimaera",
+	"modelGroup": "rylaks",
+	"npcs": [
+		{
+			"id": 74981,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "frostfire-ridge",
+					"area": "gromgar"
+				}
+			]
+		},
+		{
+			"id": 84151,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond"
+				}
+			]
+		},
+		{
+			"id": 86074,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "crimson-fen"
+				}
+			]
+		},
+		{
+			"id": 85888,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak"
+				}
+			]
+		}
+	]
+}

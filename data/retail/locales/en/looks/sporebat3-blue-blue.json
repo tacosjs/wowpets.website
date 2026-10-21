@@ -1,0 +1,13 @@
+{
+	"name": "Teal Sporeglider w/ Pink Glow",
+	"variant": "Teal w/ Pink Glow",
+	"npcs": {
+		"246106": {
+			"name": "Majestic Sporeglider"
+		},
+		"251756": {
+			"name": "Kipkip",
+			"title": "Spore Storm"
+		}
+	}
+}

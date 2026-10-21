@@ -1,0 +1,22 @@
+{
+	"id": "caveborerworm-nocturne-graspers12",
+	"family": "worm",
+	"modelGroup": "jawcrawlers",
+	"npcs": [
+		{
+			"id": 219970,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "grudge-grotto"
+				}
+			]
+		}
+	]
+}

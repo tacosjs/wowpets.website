@@ -1,0 +1,13 @@
+{
+	"id": "tidalguardian-green",
+	"family": "worm",
+	"modelGroup": "tidalworms",
+	"npcs": [],
+	"alsoNpcs": [
+		153655,
+		214594,
+		223058,
+		224350,
+		223078
+	]
+}

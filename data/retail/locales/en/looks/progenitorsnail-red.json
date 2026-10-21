@@ -1,0 +1,13 @@
+{
+	"name": "Pink & Grey Helicid",
+	"variant": "Pink & Grey",
+	"npcs": {
+		"179043": {
+			"name": "Orixal",
+			"title": "Gastropod Prime"
+		},
+		"185487": {
+			"name": "Overgrown Helicid"
+		}
+	}
+}

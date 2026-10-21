@@ -1,0 +1,24 @@
+{
+	"id": "fox2-white",
+	"family": "fox",
+	"modelGroup": "vulpin",
+	"npcs": [
+		{
+			"id": 169921,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		160632
+	]
+}

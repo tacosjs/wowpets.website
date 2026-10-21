@@ -1,0 +1,27 @@
+{
+	"name": "Green-Black Dredbat",
+	"variant": "Green-Black",
+	"npcs": {
+		"156077": {
+			"name": "Fiendish Terrorwing"
+		},
+		"156395": {
+			"name": "Starving Dredbat"
+		},
+		"159178": {
+			"name": "Dire Evedweller"
+		},
+		"161206": {
+			"name": "Fanged Dredbat"
+		},
+		"168591": {
+			"name": "Ravenous Dreadbat"
+		},
+		"168679": {
+			"name": "Fiendish Terrorwing"
+		},
+		"168722": {
+			"name": "Terrorwing Pup"
+		}
+	}
+}

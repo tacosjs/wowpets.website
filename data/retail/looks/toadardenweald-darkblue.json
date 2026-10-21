@@ -1,0 +1,21 @@
+{
+	"id": "toadardenweald-darkblue",
+	"family": "hopper",
+	"modelGroup": "ardenwealdtoads",
+	"npcs": [
+		{
+			"id": 173635,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald"
+				}
+			]
+		}
+	]
+}

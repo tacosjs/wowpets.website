@@ -1,0 +1,29 @@
+{
+	"name": "Grey Gargon",
+	"variant": "Grey",
+	"npcs": {
+		"157301": {
+			"name": "Carved Tracker",
+			"title": "Avowed Stalker's Pet"
+		},
+		"160401": {
+			"name": "Grenich",
+			"title": "Soulstalker Doina's Pet"
+		},
+		"161294": {
+			"name": "Carved Sniffer",
+			"title": "Retained Lookout's Pet"
+		},
+		"161348": {
+			"name": "Darkwall Suppresser",
+			"title": "Darkfall Betrayer's Pet"
+		},
+		"162278": {
+			"name": "Floki",
+			"title": "Sara Wight's Companion"
+		},
+		"169707": {
+			"name": "Darkwall Suppresser"
+		}
+	}
+}

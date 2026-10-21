@@ -1,0 +1,21 @@
+{
+	"name": "Teal Scarab w/ Green Spots",
+	"variant": "Teal w/ Green Spots",
+	"npcs": {
+		"42556": {
+			"name": "Jeweled Scarab"
+		},
+		"46126": {
+			"name": "Turquoise Scarab"
+		},
+		"69773": {
+			"name": "Scarab"
+		},
+		"140383": {
+			"name": "Jeweled Scarab"
+		},
+		"140384": {
+			"name": "Jeweled Broodwatcher"
+		}
+	}
+}

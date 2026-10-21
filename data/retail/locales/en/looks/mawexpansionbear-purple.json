@@ -1,0 +1,18 @@
+{
+	"name": "Purple Shardhide",
+	"variant": "Purple",
+	"npcs": {
+		"177299": {
+			"name": "Shardhide Growler"
+		},
+		"177354": {
+			"name": "Shardhide Dominator"
+		},
+		"178907": {
+			"name": "Ripmaul"
+		},
+		"180381": {
+			"name": "Shardhide Dominator"
+		}
+	}
+}

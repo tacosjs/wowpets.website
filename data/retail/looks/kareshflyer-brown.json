@@ -1,0 +1,52 @@
+{
+	"id": "kareshflyer-brown",
+	"family": "birdofprey",
+	"modelGroup": "karrocs",
+	"npcs": [
+		{
+			"id": 238547,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "lunnall-river"
+				}
+			]
+		},
+		{
+			"id": 249806,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "the-oasis"
+				}
+			]
+		},
+		{
+			"id": 230464,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "the-oasis"
+				}
+			]
+		}
+	]
+}

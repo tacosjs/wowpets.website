@@ -1,0 +1,12 @@
+{
+	"name": "Red Grovecrawler",
+	"variant": "Red",
+	"npcs": {
+		"246707": {
+			"name": "Riverscale"
+		},
+		"256936": {
+			"name": "Riverscale"
+		}
+	}
+}

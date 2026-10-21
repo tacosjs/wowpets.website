@@ -1,0 +1,23 @@
+{
+	"id": "crab2-blue-hermitcrabshell-algae",
+	"family": "crab",
+	"modelGroup": "hermitcrabs",
+	"npcs": [
+		{
+			"id": 139290,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "umber-shore"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

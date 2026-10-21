@@ -1,0 +1,12 @@
+{
+	"name": "Bare Brown Rock Snail",
+	"variant": "Brown",
+	"npcs": {
+		"237237": {
+			"name": "Cragshell Snail"
+		},
+		"248424": {
+			"name": "Glimmering Stonesnail"
+		}
+	}
+}

@@ -1,0 +1,55 @@
+{
+	"id": "devilsaptor-purple",
+	"family": "devilsaur",
+	"modelGroup": "devilsaptors",
+	"npcs": [
+		{
+			"id": 250086,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "harandar"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 249170,
+			"tameable": false,
+			"level": {
+				"min": 1,
+				"max": 1
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "vale-of-mists"
+				}
+			]
+		},
+		{
+			"id": 253400,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "harathir"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		252851
+	]
+}

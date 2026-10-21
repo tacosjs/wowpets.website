@@ -1,0 +1,31 @@
+{
+	"id": "gianteagle2-burgundy",
+	"family": "birdofprey",
+	"modelGroup": "amanieagles",
+	"npcs": [
+		{
+			"id": 250118,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "bitterbark"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		243679,
+		255042,
+		255490,
+		252277,
+		244556,
+		256902,
+		257388
+	]
+}

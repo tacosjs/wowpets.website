@@ -1,0 +1,18 @@
+{
+	"name": "Greater Purple-Pink Dragonhawk",
+	"variant": "Purple-Pink",
+	"npcs": {
+		"236166": {
+			"name": "Dragonhawk Plumesparker"
+		},
+		"242397": {
+			"name": "Hidegorger the Everburning"
+		},
+		"250112": {
+			"name": "Mistveil Alpha"
+		},
+		"255264": {
+			"name": "Mistveil Alpha"
+		}
+	}
+}

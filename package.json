@@ -16,7 +16,8 @@
     "paraglide": "paraglide-js compile --project ./project.inlang --outdir ./src/paraglide",
     "typecheck": "pnpm paraglide && tsc --noEmit",
     "test": "pnpm paraglide && vitest run",
-    "data:check": "pnpm paraglide && vitest run src/data"
+    "data:check": "pnpm paraglide && vitest run src/data",
+    "import:retail": "node scripts/import/retail.ts"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.18",
@@ -42,6 +43,7 @@
     "@types/react": "^19.2.0",
     "@types/react-dom": "^19.2.0",
     "@vitejs/plugin-react": "^6.0.1",
+    "cheerio": "^1.2.0",
     "typescript": "^6.0.2",
     "vite": "^8.0.0",
     "vitest": "^5.0.5"

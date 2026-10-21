@@ -1,0 +1,21 @@
+{
+	"id": "talbukskinwhite",
+	"family": "stag",
+	"modelGroup": "talbuks",
+	"npcs": [
+		{
+			"id": 20610,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "netherstorm"
+				}
+			]
+		}
+	]
+}

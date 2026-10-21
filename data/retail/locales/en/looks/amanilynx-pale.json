@@ -1,0 +1,43 @@
+{
+	"name": "Tan Amani Lynx",
+	"variant": "Tan",
+	"npcs": {
+		"236189": {
+			"name": "Burrowpaw Kitten"
+		},
+		"239878": {
+			"name": "Weary Matriarch"
+		},
+		"239880": {
+			"name": "Curious Kitten"
+		},
+		"247738": {
+			"name": "Peanut"
+		},
+		"247742": {
+			"name": "Foot"
+		},
+		"250093": {
+			"name": "Swiftclaw Elder"
+		},
+		"253155": {
+			"name": "Xer'talu",
+			"title": "Witherbark Guardian"
+		},
+		"255090": {
+			"name": "Chu"
+		},
+		"255217": {
+			"name": "Swiftclaw Elder"
+		},
+		"255416": {
+			"name": "Rana"
+		},
+		"257273": {
+			"name": "Maro"
+		},
+		"261104": {
+			"name": "Maro"
+		}
+	}
+}

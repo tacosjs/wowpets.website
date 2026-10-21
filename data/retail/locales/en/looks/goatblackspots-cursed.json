@@ -1,0 +1,30 @@
+{
+	"name": "Cursed Goat",
+	"variant": "Cursed",
+	"npcs": {
+		"143929": {
+			"name": "Hexed Craghopper"
+		},
+		"224808": {
+			"name": "Horrific Baelgat"
+		},
+		"224879": {
+			"name": "Horrific Baelgat"
+		},
+		"225078": {
+			"name": "Ghastly Baelgat"
+		},
+		"225102": {
+			"name": "Entranced Lihtgat"
+		},
+		"226050": {
+			"name": "Malefic Goat"
+		},
+		"229165": {
+			"name": "Spiteful Baelgat"
+		},
+		"229166": {
+			"name": "Baleful Baelgat"
+		}
+	}
+}

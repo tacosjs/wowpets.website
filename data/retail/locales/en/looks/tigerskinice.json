@@ -1,0 +1,9 @@
+{
+	"name": "Icy Blue Cat",
+	"variant": "Icy Blue",
+	"npcs": {
+		"50819": {
+			"name": "Iceclaw"
+		}
+	}
+}

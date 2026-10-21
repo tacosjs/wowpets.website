@@ -1,0 +1,9 @@
+{
+	"name": "Purple Saurolisk",
+	"variant": "Purple",
+	"npcs": {
+		"127939": {
+			"name": "Torraske the Eternal"
+		}
+	}
+}

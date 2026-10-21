@@ -1,0 +1,12 @@
+{
+	"name": "Diamond Hermit Crab w/ Pale Orange & Blue Shell",
+	"variant": "Diamond",
+	"npcs": {
+		"152448": {
+			"name": "Iridescent Glimmershell"
+		},
+		"219278": {
+			"name": "Shallowshell the Clacker"
+		}
+	}
+}

@@ -1,0 +1,65 @@
+{
+	"name": "Mechanical",
+	"modelGroups": {
+		"mechanicaldevilsaurs": {
+			"name": "Mechanical Devilsaurs"
+		},
+		"aquilons": {
+			"name": "Aquilons"
+		},
+		"phalynxes": {
+			"name": "Phalynx"
+		},
+		"mechanotigers": {
+			"name": "Mechanical Tigers"
+		},
+		"updatedrocketchickens": {
+			"name": "Rocket Chickens"
+		},
+		"updatedrobotchickens": {
+			"name": "Robot Chickens"
+		},
+		"updatedrobotgorillas": {
+			"name": "Robotic Gorillas"
+		},
+		"mechanospiders": {
+			"name": "Mechanical Spiders"
+		},
+		"mechanowolves": {
+			"name": "Mechanowolves"
+		},
+		"mechanoaxebeaks": {
+			"name": "Mechanical Axebeaks"
+		},
+		"robotrabbits": {
+			"name": "Mechanical Rabbits"
+		},
+		"robotsquirrels": {
+			"name": "Mechanical Squirrels"
+		},
+		"robotsheep": {
+			"name": "Electric Sheep"
+		},
+		"ironscorpionmounts": {
+			"name": "Iron Scorpions"
+		},
+		"ironscorpionbosses": {
+			"name": "Armed Iron Scorpions"
+		},
+		"mechanostriders": {
+			"name": "Mechanostriders"
+		},
+		"robotprairiedogs": {
+			"name": "Mechanical Prairie Dogs"
+		},
+		"robotgorillas": {
+			"name": "Classic Robotic Gorillas"
+		},
+		"robotchickens": {
+			"name": "Classic Robot Chickens"
+		},
+		"rocketchickens": {
+			"name": "Classic Rocket Chickens"
+		}
+	}
+}

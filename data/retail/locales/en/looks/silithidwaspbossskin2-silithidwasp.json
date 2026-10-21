@@ -1,0 +1,12 @@
+{
+	"name": "Purple Wasp",
+	"variant": "Purple",
+	"npcs": {
+		"50903": {
+			"name": "Orlix the Swamplord"
+		},
+		"52373": {
+			"name": "Florawing Needler"
+		}
+	}
+}

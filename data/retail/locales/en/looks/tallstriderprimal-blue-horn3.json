@@ -1,0 +1,9 @@
+{
+	"name": "Blue Hornstrider w/ Curled Horns",
+	"variant": "Blue",
+	"npcs": {
+		"212488": {
+			"name": "Poolcrash Hornstrider"
+		}
+	}
+}

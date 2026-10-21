@@ -1,0 +1,29 @@
+{
+	"id": "mechanowolfblue",
+	"family": "mechanical",
+	"modelGroup": "mechanowolves",
+	"npcs": [
+		{
+			"id": 111820,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gnomeregan",
+					"area": "engineering-labs"
+				}
+			],
+			"keepsName": true
+		}
+	],
+	"alsoNpcs": [
+		153465,
+		151301,
+		149839,
+		148417
+	]
+}

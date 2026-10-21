@@ -1,0 +1,9 @@
+{
+	"name": "Purple Outland Hydra",
+	"variant": "Purple",
+	"npcs": {
+		"20775": {
+			"name": "Markaru"
+		}
+	}
+}

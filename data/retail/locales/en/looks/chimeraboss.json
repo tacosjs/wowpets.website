@@ -1,0 +1,15 @@
+{
+	"name": "Chimeric Hydra",
+	"variant": "Chimeric",
+	"npcs": {
+		"133298": {
+			"name": "Fetid Devourer"
+		},
+		"237658": {
+			"name": "Lured Manifestation"
+		},
+		"241323": {
+			"name": "Ahn Manifestation"
+		}
+	}
+}

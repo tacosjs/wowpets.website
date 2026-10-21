@@ -1,0 +1,84 @@
+{
+	"id": "toadloa",
+	"family": "hopper",
+	"modelGroup": "loatoads",
+	"npcs": [
+		{
+			"id": 144831,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 144826,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 144825,
+			"tameable": true,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 214757,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "stillstone-pond"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 120551,
+			"tameable": false,
+			"level": {
+				"min": 38,
+				"max": 51
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "kragwas-burrow"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		180848
+	]
+}

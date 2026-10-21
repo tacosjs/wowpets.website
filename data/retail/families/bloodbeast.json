@@ -1,0 +1,43 @@
+{
+	"id": "bloodbeast",
+	"wowId": 296,
+	"icon": "inv_bloodtrollbeast_mount",
+	"spec": "tenacity",
+	"exotic": false,
+	"requiredSkill": "blood-beast",
+	"diet": [
+		"fish",
+		"raw-fish",
+		"meat",
+		"raw-meat"
+	],
+	"abilities": {
+		"basic": "bite",
+		"family": [
+			"blood-bolt"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "blistercreeps"
+		},
+		{
+			"id": "swarmites"
+		},
+		{
+			"id": "crawgs"
+		},
+		{
+			"id": "bloodticks"
+		},
+		{
+			"id": "classicswarmites"
+		},
+		{
+			"id": "animites"
+		},
+		{
+			"id": "mutantanimites"
+		}
+	]
+}

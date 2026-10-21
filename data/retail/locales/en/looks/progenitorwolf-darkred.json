@@ -1,0 +1,12 @@
+{
+	"name": "Rosy Black Lupine",
+	"variant": "Rosy Black",
+	"npcs": {
+		"182273": {
+			"name": "Lupine Alpha"
+		},
+		"182419": {
+			"name": "Cowardly Animate"
+		}
+	}
+}

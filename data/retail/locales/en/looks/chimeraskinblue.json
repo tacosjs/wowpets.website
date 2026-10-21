@@ -1,0 +1,19 @@
+{
+	"name": "White Chimaera",
+	"variant": "White",
+	"npcs": {
+		"7448": {
+			"name": "Chillwind Chimaera"
+		},
+		"10807": {
+			"name": "Brumeran"
+		},
+		"24673": {
+			"name": "Frostwing Chimaera"
+		},
+		"54533": {
+			"name": "Prince Lakma",
+			"title": "The Last Chimaerok"
+		}
+	}
+}

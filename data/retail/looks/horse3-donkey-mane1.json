@@ -1,0 +1,25 @@
+{
+	"id": "horse3-donkey-mane1",
+	"family": "courser",
+	"modelGroup": "horses",
+	"npcs": [
+		{
+			"id": 142610,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley",
+					"area": "deadwash"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		174412
+	]
+}

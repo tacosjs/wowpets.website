@@ -1,0 +1,22 @@
+{
+	"id": "spectraltigerpurple",
+	"family": "spiritbeast",
+	"modelGroup": "spirittigers",
+	"npcs": [
+		{
+			"id": 33776,
+			"tameable": true,
+			"level": {
+				"min": 22,
+				"max": 32
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "zuldrak"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

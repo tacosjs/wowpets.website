@@ -1,0 +1,37 @@
+{
+	"id": "warpstalker2-blue",
+	"family": "warpstalker",
+	"modelGroup": "wirywarpstalkers",
+	"npcs": [
+		{
+			"id": 259106,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "zebnowa"
+				}
+			]
+		},
+		{
+			"id": 265254,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "naigtal",
+					"area": "nexus-port-extraction-coast"
+				}
+			]
+		}
+	]
+}

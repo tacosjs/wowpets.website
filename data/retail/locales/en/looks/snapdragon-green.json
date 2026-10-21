@@ -1,0 +1,30 @@
+{
+	"name": "Green & Gold Snapdragon",
+	"variant": "Green & Gold",
+	"npcs": {
+		"145339": {
+			"name": "Snapling"
+		},
+		"152357": {
+			"name": "Snapdragon Hunter"
+		},
+		"154753": {
+			"name": "Snapdragon Stalker"
+		},
+		"154757": {
+			"name": "Snapdragon Hatchling"
+		},
+		"156100": {
+			"name": "Snapdragon Hunter"
+		},
+		"233696": {
+			"name": "Hungry Snapdragon"
+		},
+		"235237": {
+			"name": "Growing Snapdragon Runt"
+		},
+		"244048": {
+			"name": "Trained Snapdragon"
+		}
+	}
+}

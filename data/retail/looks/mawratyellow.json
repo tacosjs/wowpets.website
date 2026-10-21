@@ -1,0 +1,42 @@
+{
+	"id": "mawratyellow",
+	"family": "rodent",
+	"modelGroup": "mawrats",
+	"npcs": [
+		{
+			"id": 175811,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-maw",
+					"area": "desolate-hollow"
+				}
+			]
+		},
+		{
+			"id": 175826,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-maw",
+					"area": "desolate-hollow"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

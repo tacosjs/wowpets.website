@@ -1,0 +1,25 @@
+{
+	"id": "feasel-white",
+	"family": "rodent",
+	"modelGroup": "marsuul",
+	"npcs": [
+		{
+			"id": 122364,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eredath"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		126445,
+		216090
+	]
+}

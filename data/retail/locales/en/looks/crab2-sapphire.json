@@ -1,0 +1,45 @@
+{
+	"name": "Inky Blue Crab",
+	"variant": "Inky Blue",
+	"npcs": {
+		"831": {
+			"name": "Sea Crawler"
+		},
+		"2233": {
+			"name": "Encrusted Tide Crawler"
+		},
+		"2544": {
+			"name": "Southern Sand Crawler"
+		},
+		"3812": {
+			"name": "Clattering Crawler"
+		},
+		"26521": {
+			"name": "Kili'ua"
+		},
+		"34369": {
+			"name": "Hermit Tide Crawler"
+		},
+		"40271": {
+			"name": "Tamed Crawler"
+		},
+		"41295": {
+			"name": "Ocean Crawler"
+		},
+		"42339": {
+			"name": "Canal Crab"
+		},
+		"111784": {
+			"name": "Great Sea Crab"
+		},
+		"126451": {
+			"name": "Crushclaw"
+		},
+		"242034": {
+			"name": "Voidtouched Crustacean"
+		},
+		"246074": {
+			"name": "Voidtouched Hatchling"
+		}
+	}
+}

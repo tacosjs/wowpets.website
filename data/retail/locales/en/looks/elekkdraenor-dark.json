@@ -1,0 +1,36 @@
+{
+	"name": "Dark Maroon Elekk",
+	"variant": "Dark Maroon",
+	"npcs": {
+		"73686": {
+			"name": "Pearltusk Calf"
+		},
+		"78371": {
+			"name": "Pearltusk Calf"
+		},
+		"78387": {
+			"name": "Pearltusk Bull"
+		},
+		"79149": {
+			"name": "Phantom Pearltusk Calf"
+		},
+		"81828": {
+			"name": "Eventide Elekk"
+		},
+		"82172": {
+			"name": "Domesticated Calf"
+		},
+		"82173": {
+			"name": "Domesticated Bull"
+		},
+		"83704": {
+			"name": "Tiny"
+		},
+		"86743": {
+			"name": "Dekorhan"
+		},
+		"86852": {
+			"name": "Young Meadowstomper"
+		}
+	}
+}

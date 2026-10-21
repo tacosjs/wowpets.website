@@ -1,0 +1,22 @@
+{
+	"id": "armoredtrex-body-loa-armor-armor-loa-helmet",
+	"family": "devilsaur",
+	"modelGroup": "skeletaldevilsaurs",
+	"npcs": [
+		{
+			"id": 122963,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 52
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ataldazar",
+					"area": "sacrificial-pits"
+				}
+			]
+		}
+	]
+}

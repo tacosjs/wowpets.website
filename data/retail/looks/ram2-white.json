@@ -1,0 +1,74 @@
+{
+	"id": "ram2-white",
+	"family": "gruffhorn",
+	"modelGroup": "greaterrams",
+	"npcs": [
+		{
+			"id": 24863,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "howling-fjord"
+				}
+			]
+		},
+		{
+			"id": 23740,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "grizzly-hills"
+				},
+				{
+					"zone": "howling-fjord"
+				}
+			]
+		},
+		{
+			"id": 24901,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "howling-fjord"
+				},
+				{
+					"zone": "grizzly-hills"
+				}
+			]
+		},
+		{
+			"id": 10990,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "alterac-valley"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		2098,
+		26426,
+		41539
+	]
+}

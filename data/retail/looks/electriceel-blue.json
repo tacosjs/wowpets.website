@@ -1,0 +1,146 @@
+{
+	"id": "electriceel-blue",
+	"family": "serpent",
+	"modelGroup": "greaterelectriceels",
+	"npcs": [
+		{
+			"id": 227645,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "undermine",
+					"area": "blackwater-marina"
+				}
+			]
+		},
+		{
+			"id": 250115,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "strait-of-hexxalor"
+				}
+			]
+		},
+		{
+			"id": 250114,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "zulaman-depths"
+				}
+			]
+		},
+		{
+			"id": 254201,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "strait-of-hexxalor"
+				}
+			]
+		},
+		{
+			"id": 242453,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "camp-stonewash"
+				}
+			]
+		},
+		{
+			"id": 233472,
+			"tameable": false,
+			"level": {
+				"min": 81,
+				"max": 81
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "undermine",
+					"area": "blackwater-marina"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 262982,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle"
+				}
+			]
+		},
+		{
+			"id": 260260,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "wreck-of-grals-belly"
+				}
+			]
+		},
+		{
+			"id": 260257,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-coiled-isle",
+					"area": "wreck-of-grals-belly"
+				}
+			]
+		}
+	]
+}

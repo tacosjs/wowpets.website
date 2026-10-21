@@ -1,0 +1,25 @@
+{
+	"id": "crabcave-blue-blue",
+	"family": "crab",
+	"modelGroup": "cavecrabs",
+	"npcs": [
+		{
+			"id": 239245,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "undermine",
+					"area": "the-vatworks"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		239210
+	]
+}

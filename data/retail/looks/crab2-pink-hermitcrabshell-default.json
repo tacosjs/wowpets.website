@@ -1,0 +1,21 @@
+{
+	"id": "crab2-pink-hermitcrabshell-default",
+	"family": "crab",
+	"modelGroup": "hermitcrabs",
+	"npcs": [
+		{
+			"id": 227660,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "siren-isle"
+				}
+			]
+		}
+	]
+}

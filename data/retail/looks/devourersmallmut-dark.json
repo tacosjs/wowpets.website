@@ -1,0 +1,22 @@
+{
+	"id": "devourersmallmut-dark",
+	"family": "bloodbeast",
+	"modelGroup": "mutantanimites",
+	"npcs": [
+		{
+			"id": 185283,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "sepulcher-of-the-first-ones",
+					"area": "ephemeral-plains"
+				}
+			]
+		}
+	]
+}

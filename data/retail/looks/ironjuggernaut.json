@@ -1,0 +1,18 @@
+{
+	"id": "ironjuggernaut",
+	"family": "mechanical",
+	"modelGroup": "ironscorpionbosses",
+	"npcs": [
+		{
+			"id": 71466,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "siege-of-orgrimmar",
+					"area": "gates-of-orgrimmar"
+				}
+			]
+		}
+	]
+}

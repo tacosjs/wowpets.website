@@ -1,0 +1,58 @@
+{
+	"id": "mammoth2-yellow-tusk1",
+	"family": "mammoth",
+	"modelGroup": "mammoths",
+	"npcs": [
+		{
+			"id": 188099,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "northern-part-of-the-zone"
+				}
+			]
+		},
+		{
+			"id": 190908,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "northern-part-of-the-zone"
+				}
+			]
+		},
+		{
+			"id": 187939,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "wanderers-steppe"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		194307,
+		189218,
+		195194,
+		187573
+	]
+}

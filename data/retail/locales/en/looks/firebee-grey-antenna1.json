@@ -1,0 +1,9 @@
+{
+	"name": "Grey Cinderbee w/ Long Antennae",
+	"variant": "Grey w/ Long Antennae",
+	"npcs": {
+		"222976": {
+			"name": "Cinderbee Forager"
+		}
+	}
+}

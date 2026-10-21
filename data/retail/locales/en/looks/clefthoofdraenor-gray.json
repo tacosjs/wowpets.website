@@ -1,0 +1,39 @@
+{
+	"name": "Grey-Brown Draenor Clefthoof",
+	"variant": "Grey-Brown",
+	"npcs": {
+		"76711": {
+			"name": "Ashmane Bull"
+		},
+		"78575": {
+			"name": "Leatherhide Clefthoof"
+		},
+		"78576": {
+			"name": "Leatherhide Calf"
+		},
+		"79034": {
+			"name": "Tamed Clefthoof"
+		},
+		"81898": {
+			"name": "Leatherhide Bull"
+		},
+		"82119": {
+			"name": "Banthar"
+		},
+		"83483": {
+			"name": "Flinthide"
+		},
+		"86000": {
+			"name": "Gentle Clefthoof"
+		},
+		"86520": {
+			"name": "Stompalupagus"
+		},
+		"86730": {
+			"name": "Ironhide Clefthoof"
+		},
+		"213151": {
+			"name": "Toothy"
+		}
+	}
+}

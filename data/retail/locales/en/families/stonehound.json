@@ -1,0 +1,23 @@
+{
+	"name": "Stone Hounds",
+	"modelGroups": {
+		"gargons": {
+			"name": "Gargons"
+		},
+		"saddledgargons": {
+			"name": "Saddled Gargons"
+		},
+		"armouredgargons": {
+			"name": "Armoured Gargons"
+		},
+		"quilen": {
+			"name": "Quilen"
+		},
+		"flyingquilen": {
+			"name": "Flying Armoured Quilen"
+		},
+		"armouredquilen": {
+			"name": "Armoured Quilen"
+		}
+	}
+}

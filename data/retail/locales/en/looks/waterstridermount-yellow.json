@@ -1,0 +1,9 @@
+{
+	"name": "Plated Yellow Water Strider",
+	"variant": "Yellow",
+	"npcs": {
+		"66881": {
+			"name": "Vale Strider"
+		}
+	}
+}

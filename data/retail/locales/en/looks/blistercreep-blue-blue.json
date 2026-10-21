@@ -1,0 +1,24 @@
+{
+	"name": "Grey Blistercreep w/ Blue Glow",
+	"variant": "Grey Body w/ Blue Glow",
+	"npcs": {
+		"244967": {
+			"name": "Crawling Blistercreep"
+		},
+		"248939": {
+			"name": "Blistercreep Bottomfeeder"
+		},
+		"253128": {
+			"name": "Sanguineous Blistercreep"
+		},
+		"255418": {
+			"name": "Blistercreep"
+		},
+		"258202": {
+			"name": "Radiating Voidtick"
+		},
+		"261082": {
+			"name": "Skittering Creep"
+		}
+	}
+}

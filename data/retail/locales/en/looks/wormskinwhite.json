@@ -1,0 +1,15 @@
+{
+	"name": "White Worm",
+	"variant": "White",
+	"npcs": {
+		"2462": {
+			"name": "Flesh Eating Worm"
+		},
+		"5226": {
+			"name": "Murk Worm"
+		},
+		"14370": {
+			"name": "Cadaverous Worm"
+		}
+	}
+}

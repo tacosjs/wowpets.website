@@ -1,0 +1,58 @@
+{
+	"name": "Orange Spiny Basilisk",
+	"variant": "Orange",
+	"npcs": {
+		"100100": {
+			"name": "Axetail Basilisk"
+		},
+		"100841": {
+			"name": "Spinesever"
+		},
+		"102106": {
+			"name": "Starving Basilisk"
+		},
+		"102633": {
+			"name": "Waxeye Glazer"
+		},
+		"102863": {
+			"name": "Bruiser"
+		},
+		"103271": {
+			"name": "Kraxa",
+			"title": "Mother of Gnashers"
+		},
+		"103527": {
+			"name": "Manascale Basilisk"
+		},
+		"103787": {
+			"name": "Baconlisk"
+		},
+		"104690": {
+			"name": "Beamer"
+		},
+		"107914": {
+			"name": "Stonefang"
+		},
+		"130229": {
+			"name": "Glasshide Basilisk"
+		},
+		"130335": {
+			"name": "Gritplate Crystaleye"
+		},
+		"130338": {
+			"name": "Dustfang"
+		},
+		"217524": {
+			"name": "Armored Riplisk"
+		},
+		"220270": {
+			"name": "Zilthara"
+		},
+		"226369": {
+			"name": "Warmslink Gator"
+		},
+		"227538": {
+			"name": "Ironhide Gazer"
+		}
+	}
+}

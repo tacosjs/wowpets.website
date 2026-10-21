@@ -1,0 +1,9 @@
+{
+	"name": "Black Hydra",
+	"variant": "Black",
+	"npcs": {
+		"4374": {
+			"name": "Strashaz Hydra"
+		}
+	}
+}

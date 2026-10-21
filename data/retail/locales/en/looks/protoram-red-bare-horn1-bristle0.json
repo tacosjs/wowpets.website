@@ -1,0 +1,9 @@
+{
+	"name": "Red Ramolith - Smaller Horns",
+	"variant": "Red - Smaller Horns",
+	"npcs": {
+		"216411": {
+			"name": "Boulderson"
+		}
+	}
+}

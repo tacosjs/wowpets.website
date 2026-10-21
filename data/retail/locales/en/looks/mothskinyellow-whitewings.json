@@ -1,0 +1,9 @@
+{
+	"name": "Yellow Moth w/White Wings",
+	"variant": "White & Yellow",
+	"npcs": {
+		"50858": {
+			"name": "Dustwing"
+		}
+	}
+}

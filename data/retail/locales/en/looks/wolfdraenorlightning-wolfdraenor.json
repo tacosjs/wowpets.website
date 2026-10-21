@@ -1,0 +1,16 @@
+{
+	"name": "Blue Maned Wolf",
+	"variant": "Blue",
+	"npcs": {
+		"129124": {
+			"name": "Son of Xolotal"
+		},
+		"129343": {
+			"name": "Avatar of Xolotal"
+		},
+		"140297": {
+			"name": "Nok-arak",
+			"title": "Warrior's Lament"
+		}
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"id": "manaray-teal",
+	"family": "ray",
+	"modelGroup": "manarays",
+	"npcs": [],
+	"alsoNpcs": [
+		122410,
+		119748
+	]
+}

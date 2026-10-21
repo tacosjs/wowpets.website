@@ -1,0 +1,96 @@
+{
+	"id": "carrionbirdskinoutland",
+	"family": "carrionbird",
+	"modelGroup": "twoheadedvultures",
+	"npcs": [
+		{
+			"id": 16972,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hellfire-peninsula"
+				}
+			]
+		},
+		{
+			"id": 16973,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "hellfire-peninsula"
+				}
+			]
+		},
+		{
+			"id": 50807,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "burning-steppes",
+					"area": "valley-of-ashes"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 8207,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "tanaris"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 5430,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaris"
+				}
+			]
+		},
+		{
+			"id": 142717,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "arathi-highlands",
+					"area": "witherbark-village"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

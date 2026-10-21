@@ -1,0 +1,40 @@
+{
+	"id": "deepseacrabbiolucentblue-red",
+	"family": "crab",
+	"modelGroup": "spikedcrabs",
+	"npcs": [
+		{
+			"id": 73166,
+			"tameable": true,
+			"level": {
+				"min": 36,
+				"max": 36
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "timeless-isle"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 145740,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "newhome"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		154935
+	]
+}

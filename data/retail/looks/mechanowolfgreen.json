@@ -1,0 +1,30 @@
+{
+	"id": "mechanowolfgreen",
+	"family": "mechanical",
+	"modelGroup": "mechanowolves",
+	"npcs": [
+		{
+			"id": 115479,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "dustwallow-marsh",
+					"area": "alcaz-island"
+				}
+			],
+			"keepsName": true
+		}
+	],
+	"alsoNpcs": [
+		153465,
+		151709,
+		151740,
+		151301,
+		149839
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"name": "Blue Vorquin",
+	"variant": "Blue",
+	"npcs": {
+		"187575": {
+			"name": "Trapped Vorquin"
+		},
+		"188276": {
+			"name": "Fierce Herdstallion"
+		},
+		"188294": {
+			"name": "Lushmeadow Grazer"
+		},
+		"190216": {
+			"name": "Azure Vorquin"
+		},
+		"190324": {
+			"name": "Tundra Vorquin"
+		},
+		"191204": {
+			"name": "Pleasant Yearling"
+		},
+		"191317": {
+			"name": "Creekside Grazer"
+		},
+		"191624": {
+			"name": "Tranquil Vorquin"
+		},
+		"192037": {
+			"name": "Fierce Herdstallion"
+		},
+		"192640": {
+			"name": "Mountain Herdstallion"
+		},
+		"193576": {
+			"name": "Lushmeadow Grazer"
+		},
+		"193855": {
+			"name": "Elusive Vorquin"
+		},
+		"193966": {
+			"name": "Seaspan Runner"
+		},
+		"194283": {
+			"name": "Azure Herdmare"
+		},
+		"194699": {
+			"name": "Azure Vorquin"
+		},
+		"194701": {
+			"name": "Azure Vorquin"
+		},
+		"194963": {
+			"name": "Tundra Vorquin"
+		},
+		"195047": {
+			"name": "Tranquil Vorquin"
+		},
+		"195188": {
+			"name": "Azure Herdmare"
+		},
+		"195518": {
+			"name": "Elusive Cliffdweller Vorquin"
+		},
+		"196050": {
+			"name": "Fierce Herdstallion"
+		},
+		"196517": {
+			"name": "Serene Vorquin"
+		},
+		"197009": {
+			"name": "Liskheszaera"
+		},
+		"198414": {
+			"name": "Vorquin"
+		},
+		"198789": {
+			"name": "Vorquin"
+		}
+	}
+}

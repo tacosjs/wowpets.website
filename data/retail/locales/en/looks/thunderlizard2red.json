@@ -1,0 +1,12 @@
+{
+	"name": "Dark Red Thunder Lizard",
+	"variant": "Dark Red",
+	"npcs": {
+		"3240": {
+			"name": "Stormsnout"
+		},
+		"4008": {
+			"name": "Cliff Stormer"
+		}
+	}
+}

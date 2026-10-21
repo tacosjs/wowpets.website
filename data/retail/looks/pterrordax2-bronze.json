@@ -1,0 +1,84 @@
+{
+	"id": "pterrordax2-bronze",
+	"family": "pterrordax",
+	"modelGroup": "pterrordaxes",
+	"npcs": [
+		{
+			"id": 127864,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "torgas-rest"
+				}
+			]
+		},
+		{
+			"id": 127847,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "torgas-rest"
+				}
+			]
+		},
+		{
+			"id": 126703,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "at-the-primal-wetlands"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 143898,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "plains-of-tojek"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 127865,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "torgas-rest"
+				}
+			]
+		}
+	]
+}

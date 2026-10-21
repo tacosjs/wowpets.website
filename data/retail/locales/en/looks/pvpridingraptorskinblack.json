@@ -1,0 +1,9 @@
+{
+	"name": "Armored Black Raptor",
+	"variant": "Black",
+	"npcs": {
+		"69306": {
+			"name": "Loa-Infused Bladetalon"
+		}
+	}
+}

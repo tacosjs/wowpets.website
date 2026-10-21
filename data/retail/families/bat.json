@@ -1,0 +1,32 @@
+{
+	"id": "bat",
+	"wowId": 24,
+	"icon": "ability_hunter_pet_bat",
+	"spec": "ferocity",
+	"exotic": false,
+	"diet": [
+		"fruit",
+		"fungus",
+		"meat"
+	],
+	"abilities": {
+		"basic": "bite",
+		"family": [
+			"sonic-screech"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "spinybats"
+		},
+		{
+			"id": "dredbats"
+		},
+		{
+			"id": "greaterbats"
+		},
+		{
+			"id": "bats"
+		}
+	]
+}

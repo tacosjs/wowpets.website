@@ -1,0 +1,78 @@
+{
+	"id": "cosmicflyer-red",
+	"family": "ray",
+	"modelGroup": "cosmicrays",
+	"npcs": [
+		{
+			"id": 246640,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "den-of-predaxus"
+				}
+			]
+		},
+		{
+			"id": 242035,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "witherbark-bluffs"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 236691,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "tazavesh-karesh"
+				}
+			]
+		},
+		{
+			"id": 247445,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "obscurion-citadel"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		230429,
+		257575,
+		245897,
+		254608,
+		240511,
+		240544,
+		255957,
+		257574
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Spectral Azerite Devilsaur",
+	"variant": "Spectral Azerite",
+	"npcs": {
+		"222690": {
+			"name": "Tor'go"
+		}
+	}
+}

@@ -1,0 +1,49 @@
+{
+	"name": "Red & Black Spider",
+	"variant": "Red & Black",
+	"npcs": {
+		"4380": {
+			"name": "Darkmist Widow"
+		},
+		"17683": {
+			"name": "Zarakh"
+		},
+		"26674": {
+			"name": "Darkweb Hatchling"
+		},
+		"43007": {
+			"name": "Shadra",
+			"title": "The Venom Queen"
+		},
+		"47115": {
+			"name": "Black Recluse"
+		},
+		"50777": {
+			"name": "Needle"
+		},
+		"76473": {
+			"name": "Mother Araneae"
+		},
+		"124930": {
+			"name": "Shadra",
+			"title": "The Venom Queen"
+		},
+		"134717": {
+			"name": "Umbra'rix",
+			"title": "Servant of Shadra"
+		},
+		"134935": {
+			"name": "Mother Vishis"
+		},
+		"138150": {
+			"name": "Echo of Shadra"
+		},
+		"247268": {
+			"name": "Shadra",
+			"title": "The Venom Queen"
+		},
+		"251142": {
+			"name": "Aspect of Shadra"
+		}
+	}
+}

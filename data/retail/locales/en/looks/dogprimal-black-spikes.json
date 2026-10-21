@@ -1,0 +1,15 @@
+{
+	"name": "Black Bakar w/ Spikes",
+	"variant": "Black",
+	"npcs": {
+		"194020": {
+			"name": "Stormfang Bakar"
+		},
+		"196083": {
+			"name": "Coastal Packleader"
+		},
+		"196645": {
+			"name": "Desecrated Bakar"
+		}
+	}
+}

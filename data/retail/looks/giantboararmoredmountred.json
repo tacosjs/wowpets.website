@@ -1,0 +1,23 @@
+{
+	"id": "giantboararmoredmountred",
+	"family": "boar",
+	"modelGroup": "draenorarmoredboars",
+	"npcs": [
+		{
+			"id": 79483,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-draenor",
+					"area": "icewind-drifts-nagrand-draenor"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

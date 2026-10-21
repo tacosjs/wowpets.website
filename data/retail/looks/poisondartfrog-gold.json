@@ -1,0 +1,14 @@
+{
+	"id": "poisondartfrog-gold",
+	"family": "hopper",
+	"modelGroup": "diretoads",
+	"npcs": [],
+	"alsoNpcs": [
+		250143,
+		243171,
+		253305,
+		249358,
+		245946,
+		264270
+	]
+}

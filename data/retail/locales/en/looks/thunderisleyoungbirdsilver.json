@@ -1,0 +1,12 @@
+{
+	"name": "Silver-Blue Flightless Teroclaw",
+	"variant": "Silver-Blue",
+	"npcs": {
+		"169382": {
+			"name": "Silverwing Juvenile"
+		},
+		"170384": {
+			"name": "Silverwing Adolescent"
+		}
+	}
+}

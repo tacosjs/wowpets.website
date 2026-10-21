@@ -1,0 +1,124 @@
+{
+	"id": "seaturtleskinblue",
+	"family": "turtle",
+	"modelGroup": "turtles",
+	"npcs": [
+		{
+			"id": 3461,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "northern-barrens"
+				}
+			]
+		},
+		{
+			"id": 13896,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "azshara"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 3653,
+			"tameable": true,
+			"level": {
+				"min": 8,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "wailing-caverns",
+					"area": "screaming-gully"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 13599,
+			"tameable": true,
+			"level": {
+				"min": 9,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maraudon"
+				}
+			]
+		},
+		{
+			"id": 7977,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-hinterlands"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 102515,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "valsharah",
+					"area": "gloaming-reef-valsharah"
+				}
+			]
+		},
+		{
+			"id": 14123,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaris"
+				}
+			]
+		},
+		{
+			"id": 5431,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tanaris"
+				}
+			]
+		}
+	]
+}

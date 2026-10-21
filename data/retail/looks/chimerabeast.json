@@ -1,0 +1,33 @@
+{
+	"id": "chimerabeast",
+	"family": "hydra",
+	"modelGroup": "otherhydras",
+	"npcs": [
+		{
+			"id": 43296,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "blackwing-descent",
+					"area": "den-of-the-devourer"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 77081,
+			"tameable": false,
+			"level": {
+				"min": 36,
+				"max": 41
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "upper-blackrock-spire"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Ornate Jasper Quilen",
+	"variant": "Ornate Jasper",
+	"npcs": {
+		"59915": {
+			"name": "Jasper Guardian"
+		},
+		"139461": {
+			"name": "Stonebound Rockmaw"
+		}
+	}
+}

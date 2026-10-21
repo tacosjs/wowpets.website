@@ -1,0 +1,22 @@
+{
+	"id": "manawyrm2-blue-spectralgrey",
+	"family": "serpent",
+	"modelGroup": "eversongmanawyrms",
+	"npcs": [
+		{
+			"id": 247041,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods",
+					"area": "wathanan-crypts"
+				}
+			]
+		}
+	]
+}

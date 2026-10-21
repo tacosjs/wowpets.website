@@ -1,0 +1,15 @@
+{
+	"name": "Dark Grey Storm Wolf",
+	"variant": "Dark Grey",
+	"npcs": {
+		"151145": {
+			"name": "Hati"
+		},
+		"218205": {
+			"name": "Sparking Sharptooth"
+		},
+		"226295": {
+			"name": "Stormscar"
+		}
+	}
+}

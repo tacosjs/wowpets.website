@@ -1,0 +1,77 @@
+{
+	"name": "Black Gargon",
+	"variant": "Black",
+	"npcs": {
+		"158978": {
+			"name": "Great Granitefur"
+		},
+		"158979": {
+			"name": "Silent Proctor"
+		},
+		"159026": {
+			"name": "Carved Tracker",
+			"title": "Depraved Stalker's Pet"
+		},
+		"159218": {
+			"name": "Great Granitefur"
+		},
+		"159978": {
+			"name": "Great Granitefur"
+		},
+		"160402": {
+			"name": "Grond",
+			"title": "Soulstalker Doina's Pet"
+		},
+		"161225": {
+			"name": "Vrednic"
+		},
+		"162276": {
+			"name": "Maximus",
+			"title": "Sara Wight's Companion"
+		},
+		"162990": {
+			"name": "Soulstalker Alpha"
+		},
+		"163216": {
+			"name": "Tamed Gargon"
+		},
+		"163439": {
+			"name": "Gargon Soulstalker"
+		},
+		"163466": {
+			"name": "Krusher"
+		},
+		"164198": {
+			"name": "Doom",
+			"title": "The Accuser's Pet"
+		},
+		"164563": {
+			"name": "Vicious Gargon"
+		},
+		"166679": {
+			"name": "Hopecrusher"
+		},
+		"167501": {
+			"name": "Carved Tracker",
+			"title": "Depraved Interrogator's Pet"
+		},
+		"171455": {
+			"name": "Stonewall Gargon"
+		},
+		"174044": {
+			"name": "Vrednic",
+			"title": "Prince Renathal's Pet"
+		},
+		"176113": {
+			"name": "Carved Tracker",
+			"title": "Depraved Stalker's Pet"
+		},
+		"176117": {
+			"name": "Silent Proctor"
+		},
+		"178012": {
+			"name": "Vrednic",
+			"title": "Prince Renathal's Pet"
+		}
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"id": "butterflyred",
+	"family": "moth",
+	"modelGroup": "butterflies",
+	"npcs": [
+		{
+			"id": 211020,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "twisting-wood"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		191639,
+		227202,
+		224133,
+		227205,
+		250386
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Dark Blue Storm Wolf",
+	"variant": "Dark Blue",
+	"npcs": {
+		"151148": {
+			"name": "Hati"
+		},
+		"217735": {
+			"name": "Charged Storm Wolf"
+		}
+	}
+}

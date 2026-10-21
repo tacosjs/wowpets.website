@@ -1,0 +1,24 @@
+{
+	"name": "Fiery Brown Darkhound",
+	"variant": "Fiery Brown",
+	"npcs": {
+		"145064": {
+			"name": "Blaze"
+		},
+		"145729": {
+			"name": "Blaze"
+		},
+		"160425": {
+			"name": "Smoldering Bonemauler"
+		},
+		"160570": {
+			"name": "Smoldering Alpha"
+		},
+		"232902": {
+			"name": "Bloodhound Mastiff"
+		},
+		"233328": {
+			"name": "Savage Bloodhound Mastiff"
+		}
+	}
+}

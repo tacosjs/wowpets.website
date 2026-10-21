@@ -1,0 +1,15 @@
+{
+	"name": "Yellow Basilisk w/Jade Fringes",
+	"variant": "Yellow w/Jade",
+	"npcs": {
+		"4728": {
+			"name": "Gritjaw Basilisk"
+		},
+		"4729": {
+			"name": "Hulking Gritjaw Basilisk"
+		},
+		"35409": {
+			"name": "Revitalized Basilisk"
+		}
+	}
+}

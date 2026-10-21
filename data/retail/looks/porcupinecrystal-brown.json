@@ -1,0 +1,61 @@
+{
+	"id": "porcupinecrystal-brown",
+	"family": "rodent",
+	"modelGroup": "floweringcrystalspines",
+	"npcs": [
+		{
+			"id": 195157,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "traitors-rest"
+				}
+			]
+		},
+		{
+			"id": 193511,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span"
+				}
+			]
+		},
+		{
+			"id": 212493,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "amirdrassil-dragon-isles-zone"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		187536,
+		187515,
+		190743,
+		189572,
+		193864,
+		195189,
+		193891,
+		188995,
+		195541
+	]
+}

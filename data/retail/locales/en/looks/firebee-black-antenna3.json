@@ -1,0 +1,12 @@
+{
+	"name": "Black & Yellow Cinderbee w/ Front Antennae",
+	"variant": "Black & Yellow w/ Front Antennae",
+	"npcs": {
+		"215021": {
+			"name": "Cinderbee Buzzer"
+		},
+		"224080": {
+			"name": "Drained Cinderbee"
+		}
+	}
+}

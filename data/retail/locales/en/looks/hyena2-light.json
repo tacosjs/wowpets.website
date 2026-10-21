@@ -1,0 +1,9 @@
+{
+	"name": "Brown-Grey Hyena",
+	"variant": "Brown-Grey",
+	"npcs": {
+		"51671": {
+			"name": "Rabid Hyena"
+		}
+	}
+}

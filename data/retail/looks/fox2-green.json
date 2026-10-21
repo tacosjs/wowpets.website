@@ -1,0 +1,55 @@
+{
+	"id": "fox2-green",
+	"family": "fox",
+	"modelGroup": "vulpin",
+	"npcs": [
+		{
+			"id": 163093,
+			"tameable": true,
+			"level": {
+				"min": 57,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "emerald-glade-dreamshrine-basin"
+				}
+			]
+		},
+		{
+			"id": 166022,
+			"tameable": true,
+			"level": {
+				"min": 57,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "renards-den"
+				}
+			]
+		},
+		{
+			"id": 161917,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "garden-of-night"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		164922
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"id": "wolfdraenormountbrown",
+	"family": "wolf",
+	"modelGroup": "draenorsaddledwolves",
+	"npcs": [
+		{
+			"id": 80160,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-draenor",
+					"area": "ironfist-harbor"
+				}
+			]
+		}
+	]
+}

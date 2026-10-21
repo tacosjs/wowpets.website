@@ -1,0 +1,24 @@
+{
+	"name": "Blue Crane",
+	"variant": "Blue",
+	"npcs": {
+		"58741": {
+			"name": "Glade Sprinter"
+		},
+		"59553": {
+			"name": "The Songbird Queen"
+		},
+		"59786": {
+			"name": "Lotus Crane"
+		},
+		"65819": {
+			"name": "Violetdown Songspinner"
+		},
+		"68349": {
+			"name": "Lushwater Crane"
+		},
+		"133285": {
+			"name": "Riverbottom Hunter"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Red Sporeglider w/ Vermilion Glow",
+	"variant": "Red w/ Vermilion Glow",
+	"npcs": {
+		"246808": {
+			"name": "Decanimated Sporeglider"
+		}
+	}
+}

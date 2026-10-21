@@ -1,0 +1,26 @@
+{
+	"name": "Brown Owlcat",
+	"variant": "Brown",
+	"npcs": {
+		"90313": {
+			"name": "Llothien Prowler"
+		},
+		"90901": {
+			"name": "Pridelord Meowl"
+		},
+		"104479": {
+			"name": "Slyon",
+			"title": "Yowlon's Mate"
+		},
+		"105547": {
+			"name": "Rauren",
+			"title": "Owlkitten Matron"
+		},
+		"106920": {
+			"name": "Feathered Prowler"
+		},
+		"118893": {
+			"name": "Corrupted Prowler"
+		}
+	}
+}

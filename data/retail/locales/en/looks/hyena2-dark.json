@@ -1,0 +1,55 @@
+{
+	"name": "Black Hyena",
+	"variant": "Black",
+	"npcs": {
+		"4250": {
+			"name": "Galak Packhound"
+		},
+		"4688": {
+			"name": "Bonepaw Hyena"
+		},
+		"4689": {
+			"name": "Starving Bonepaw"
+		},
+		"4690": {
+			"name": "Rabid Bonepaw"
+		},
+		"27294": {
+			"name": "Tundra Scavenger"
+		},
+		"35811": {
+			"name": "Famished Bonepaw"
+		},
+		"45202": {
+			"name": "Mangy Hyena"
+		},
+		"60800": {
+			"name": "Tamed Hyena",
+			"title": "Blackmane Tracker's Pet"
+		},
+		"185691": {
+			"name": "Vicious Hyena"
+		},
+		"195150": {
+			"name": "Grinning Cur"
+		},
+		"195272": {
+			"name": "Darktooth Renderer"
+		},
+		"195273": {
+			"name": "Darktooth Howler"
+		},
+		"197123": {
+			"name": "Vicious Hyena"
+		},
+		"197667": {
+			"name": "Darktooth Scavenger"
+		},
+		"225697": {
+			"name": "Darkfuse Bleakfang"
+		},
+		"225852": {
+			"name": "Darkfuse Growler"
+		}
+	}
+}

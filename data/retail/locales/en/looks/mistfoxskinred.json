@@ -1,0 +1,42 @@
+{
+	"name": "Red Fox",
+	"variant": "Red",
+	"npcs": {
+		"36512": {
+			"name": "Fox"
+		},
+		"37492": {
+			"name": "Blackwald Fox"
+		},
+		"38881": {
+			"name": "Fox"
+		},
+		"43106": {
+			"name": "Redridge Fox Cub"
+		},
+		"44474": {
+			"name": "Whitetail Fox"
+		},
+		"44635": {
+			"name": "Hill Fox"
+		},
+		"58548": {
+			"name": "Sly Fox"
+		},
+		"58549": {
+			"name": "Sly Pup"
+		},
+		"61762": {
+			"name": "Uigi"
+		},
+		"131387": {
+			"name": "Coppertail Fox"
+		},
+		"145026": {
+			"name": "Swifttail Scavenger"
+		},
+		"145035": {
+			"name": "Swifttail Courser"
+		}
+	}
+}

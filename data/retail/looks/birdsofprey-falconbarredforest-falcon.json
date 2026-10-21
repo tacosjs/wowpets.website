@@ -1,0 +1,145 @@
+{
+	"id": "birdsofprey-falconbarredforest-falcon",
+	"family": "birdofprey",
+	"modelGroup": "falcons",
+	"npcs": [
+		{
+			"id": 126626,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "foxhollow-woods"
+				}
+			]
+		},
+		{
+			"id": 128389,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "north-pass-caverns"
+				}
+			]
+		},
+		{
+			"id": 195470,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "rebellious-cliffs"
+				}
+			]
+		},
+		{
+			"id": 217428,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "the-orecreg"
+				}
+			]
+		},
+		{
+			"id": 215036,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "freywold-village"
+				}
+			]
+		},
+		{
+			"id": 222223,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "the-proscenium"
+				}
+			]
+		},
+		{
+			"id": 143262,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "tradewinds-market"
+				}
+			]
+		},
+		{
+			"id": 192623,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "fetid-encampment"
+				}
+			]
+		},
+		{
+			"id": 216292,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "the-proscenium"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		220295
+	]
+}

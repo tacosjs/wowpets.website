@@ -1,0 +1,63 @@
+{
+	"id": "lynxskinred",
+	"family": "cat",
+	"modelGroup": "classiclynxes",
+	"npcs": [
+		{
+			"id": 15366,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 10
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods-classic"
+				}
+			]
+		},
+		{
+			"id": 15372,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 10
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods-classic"
+				}
+			]
+		},
+		{
+			"id": 15651,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 10
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods-classic"
+				}
+			]
+		},
+		{
+			"id": 22110,
+			"tameable": false,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blades-edge-mountains"
+				}
+			]
+		}
+	]
+}

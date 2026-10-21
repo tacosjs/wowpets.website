@@ -1,0 +1,33 @@
+{
+	"name": "Brown Crab",
+	"variant": "Brown",
+	"npcs": {
+		"126429": {
+			"name": "Encrusted Coralback"
+		},
+		"138896": {
+			"name": "Encrusted Kingscuttler"
+		},
+		"143718": {
+			"name": "Overfed Snapper"
+		},
+		"144460": {
+			"name": "Overfed Snapper"
+		},
+		"188074": {
+			"name": "Agitated Sidewalker"
+		},
+		"227664": {
+			"name": "Tidal Sandskitterer"
+		},
+		"256712": {
+			"name": "Scrawny Pebbledweller"
+		},
+		"264705": {
+			"name": "Fringe Clacker"
+		},
+		"265332": {
+			"name": "Surviving Whelkshell"
+		}
+	}
+}

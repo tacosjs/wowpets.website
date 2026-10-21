@@ -1,0 +1,9 @@
+{
+	"name": "Frosty Maned Wolf",
+	"variant": "Frosty Maned Wolf",
+	"npcs": {
+		"241874": {
+			"name": "Frostfang"
+		}
+	}
+}

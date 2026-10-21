@@ -1,0 +1,10 @@
+{
+	"id": "skunk2-dark",
+	"family": "rodent",
+	"modelGroup": "skunks",
+	"npcs": [],
+	"alsoNpcs": [
+		261369,
+		209496
+	]
+}

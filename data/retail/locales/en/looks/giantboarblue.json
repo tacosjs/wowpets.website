@@ -1,0 +1,24 @@
+{
+	"name": "Arcane Purple Draenor Boar",
+	"variant": "Arcane Purple",
+	"npcs": {
+		"100846": {
+			"name": "Leytusk"
+		},
+		"248500": {
+			"name": "Backwoods Boar"
+		},
+		"250116": {
+			"name": "Mudwallow Boar"
+		},
+		"257880": {
+			"name": "Backwoods Boar"
+		},
+		"257881": {
+			"name": "Backwoods Boar"
+		},
+		"258069": {
+			"name": "Mudwallow Boar"
+		}
+	}
+}

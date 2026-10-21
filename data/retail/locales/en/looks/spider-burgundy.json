@@ -1,0 +1,21 @@
+{
+	"name": "Burgundy Spider",
+	"variant": "Burgundy",
+	"npcs": {
+		"155770": {
+			"name": "Dread Hatchling"
+		},
+		"155795": {
+			"name": "Dread Crawler"
+		},
+		"159265": {
+			"name": "Tower Creeper"
+		},
+		"169840": {
+			"name": "Dread Spinner"
+		},
+		"169841": {
+			"name": "Dread Spiderling"
+		}
+	}
+}

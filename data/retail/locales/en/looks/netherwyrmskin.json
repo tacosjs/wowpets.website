@@ -1,0 +1,15 @@
+{
+	"name": "Blue Nether Ray",
+	"variant": "Blue",
+	"npcs": {
+		"18130": {
+			"name": "Marshfang Ripper"
+		},
+		"18131": {
+			"name": "Marshfang Slicer"
+		},
+		"75487": {
+			"name": "Razorfang Hunter"
+		}
+	}
+}

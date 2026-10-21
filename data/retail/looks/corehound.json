@@ -1,0 +1,266 @@
+{
+	"id": "corehound",
+	"family": "corehound",
+	"modelGroup": "corehounds",
+	"npcs": [
+		{
+			"id": 50842,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "burning-steppes",
+					"area": "fields-of-honor"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 52795,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mount-hyjal"
+				}
+			]
+		},
+		{
+			"id": 46910,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mount-hyjal",
+					"area": "the-flamewake"
+				}
+			]
+		},
+		{
+			"id": 39348,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "mount-hyjal"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 11671,
+			"tameable": true,
+			"level": {
+				"min": 31,
+				"max": 31
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "molten-core"
+				}
+			]
+		},
+		{
+			"id": 11673,
+			"tameable": true,
+			"level": {
+				"min": 32,
+				"max": 32
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "molten-core"
+				}
+			]
+		},
+		{
+			"id": 11672,
+			"tameable": true,
+			"level": {
+				"min": 32,
+				"max": 32
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "molten-core"
+				}
+			]
+		},
+		{
+			"id": 11982,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "molten-core"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 143416,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "molten-core"
+				}
+			]
+		},
+		{
+			"id": 29312,
+			"tameable": false,
+			"level": {
+				"min": 15,
+				"max": 32
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-violet-hold"
+				}
+			]
+		},
+		{
+			"id": 21837,
+			"tameable": false,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blades-edge-mountains"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 52766,
+			"tameable": false,
+			"level": {
+				"min": 30,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "mount-hyjal"
+				}
+			]
+		},
+		{
+			"id": 39700,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "blackrock-caverns",
+					"area": "beautys-lair"
+				}
+			]
+		},
+		{
+			"id": 10430,
+			"tameable": false,
+			"level": {
+				"min": 33,
+				"max": 33
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blackrock-spire"
+				}
+			],
+			"retired": true
+		},
+		{
+			"id": 53134,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "firelands"
+				}
+			]
+		},
+		{
+			"id": 180091,
+			"tameable": false,
+			"level": {
+				"min": 61,
+				"max": 61
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-veiled-market",
+					"area": "tazavesh"
+				}
+			]
+		},
+		{
+			"id": 210288,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-dreams-hope",
+					"area": "the-scorched-hall"
+				}
+			]
+		},
+		{
+			"id": 203660,
+			"tameable": false,
+			"level": {
+				"min": 72,
+				"max": 72
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "zaqali-caldera"
+				}
+			]
+		}
+	]
+}

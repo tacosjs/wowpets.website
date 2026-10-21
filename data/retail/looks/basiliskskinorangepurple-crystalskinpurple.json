@@ -1,0 +1,24 @@
+{
+	"id": "basiliskskinorangepurple-crystalskinpurple",
+	"family": "basilisk",
+	"modelGroup": "basilisks",
+	"npcs": [
+		{
+			"id": 66448,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "townlong-steppes"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		69172
+	]
+}

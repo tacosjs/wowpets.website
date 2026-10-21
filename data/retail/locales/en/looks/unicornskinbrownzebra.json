@@ -1,0 +1,15 @@
+{
+	"name": "Rufous-Striped Zhevra",
+	"variant": "Rufous-Striped",
+	"npcs": {
+		"3242": {
+			"name": "Zhevra Runner"
+		},
+		"3426": {
+			"name": "Zhevra Charger"
+		},
+		"44166": {
+			"name": "Grazing Zhevra"
+		}
+	}
+}

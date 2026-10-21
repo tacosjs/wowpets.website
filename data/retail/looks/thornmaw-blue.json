@@ -1,0 +1,36 @@
+{
+	"id": "thornmaw-blue",
+	"family": "scalehide",
+	"modelGroup": "thornmaws",
+	"npcs": [
+		{
+			"id": 251914,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar"
+				}
+			]
+		},
+		{
+			"id": 241527,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "harmara"
+				}
+			]
+		}
+	]
+}

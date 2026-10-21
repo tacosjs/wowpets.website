@@ -1,0 +1,159 @@
+{
+	"id": "deathwargbrown",
+	"family": "stonehound",
+	"modelGroup": "gargons",
+	"npcs": [
+		{
+			"id": 167497,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "grand-palisade-halls-of-atonement"
+				}
+			]
+		},
+		{
+			"id": 161211,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "chalice-district"
+				}
+			]
+		},
+		{
+			"id": 175465,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "charred-ramparts"
+				}
+			]
+		},
+		{
+			"id": 164208,
+			"tameable": true,
+			"level": {
+				"min": 57,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "halls-of-atonement"
+				}
+			]
+		},
+		{
+			"id": 159177,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "dominance-keep"
+				}
+			]
+		},
+		{
+			"id": 178050,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "dominance-keep"
+				}
+			]
+		},
+		{
+			"id": 165942,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "dominance-keep"
+				}
+			]
+		},
+		{
+			"id": 160348,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "redelav-district"
+				}
+			]
+		},
+		{
+			"id": 173953,
+			"tameable": false,
+			"level": {
+				"min": 56,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "castle-nathria"
+				}
+			]
+		},
+		{
+			"id": 158460,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "various-locations"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		171455
+	]
+}

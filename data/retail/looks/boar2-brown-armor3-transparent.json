@@ -1,0 +1,21 @@
+{
+	"id": "boar2-brown-armor3-transparent",
+	"family": "boar",
+	"modelGroup": "boars",
+	"npcs": [
+		{
+			"id": 6021,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 27
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "razorfen-kraul"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"name": "Green & Red Moth",
+	"variant": "Green & Red",
+	"npcs": {
+		"18437": {
+			"name": "Vicious Teromoth"
+		},
+		"66514": {
+			"name": "Fluttering Moth"
+		},
+		"109180": {
+			"name": "Tattered Silkwing"
+		},
+		"112905": {
+			"name": "Crimson Silkwing"
+		},
+		"167342": {
+			"name": "Moth"
+		}
+	}
+}

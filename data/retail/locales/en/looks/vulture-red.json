@@ -1,0 +1,40 @@
+{
+	"name": "Red Vulture",
+	"variant": "Red",
+	"npcs": {
+		"5429": {
+			"name": "Fire Roc"
+		},
+		"50804": {
+			"name": "Ripwing"
+		},
+		"59672": {
+			"name": "Summit Bonestripper"
+		},
+		"126133": {
+			"name": "Swamp Scavenger"
+		},
+		"136393": {
+			"name": "Bloodwing Bonepicker"
+		},
+		"137673": {
+			"name": "Ravenous Buzzard"
+		},
+		"140797": {
+			"name": "Corpseharvest"
+		},
+		"140798": {
+			"name": "Cragcaw",
+			"title": "The Echoing Doom"
+		},
+		"156301": {
+			"name": "Summit Bonestripper"
+		},
+		"186246": {
+			"name": "Meatstalker Vulture"
+		},
+		"197133": {
+			"name": "Meatstalker Vulture"
+		}
+	}
+}

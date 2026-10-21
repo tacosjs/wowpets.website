@@ -1,0 +1,9 @@
+{
+	"name": "Spectral Spider",
+	"variant": "Spectral",
+	"npcs": {
+		"162428": {
+			"name": "Corpse Tickler"
+		}
+	}
+}

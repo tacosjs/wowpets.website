@@ -1,0 +1,44 @@
+{
+	"id": "rutaanibird-red",
+	"family": "carrionbird",
+	"modelGroup": "petalwings",
+	"npcs": [
+		{
+			"id": 248070,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "blooming-lattice"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		242945,
+		253881,
+		246713,
+		250193,
+		256671,
+		256545,
+		256878,
+		249006,
+		237709,
+		248475,
+		256903,
+		256898,
+		249164,
+		259972,
+		246391
+	]
+}

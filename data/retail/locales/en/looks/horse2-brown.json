@@ -1,0 +1,12 @@
+{
+	"name": "Bronze & White Dreamrunner w/ Orange Aura",
+	"variant": "Bronze & White w/ Orange Aura",
+	"npcs": {
+		"91308": {
+			"name": "Equine Sunrunner"
+		},
+		"112637": {
+			"name": "Devious Sunrunner"
+		}
+	}
+}

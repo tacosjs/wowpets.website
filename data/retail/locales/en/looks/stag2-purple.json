@@ -1,0 +1,21 @@
+{
+	"name": "Puce Stag",
+	"variant": "Puce",
+	"npcs": {
+		"97516": {
+			"name": "Foothills Greatstag"
+		},
+		"113205": {
+			"name": "Leyscarred Stag"
+		},
+		"140089": {
+			"name": "Gloamhoof the Elder"
+		},
+		"140092": {
+			"name": "Longstrider"
+		},
+		"149138": {
+			"name": "Trapped Stag"
+		}
+	}
+}

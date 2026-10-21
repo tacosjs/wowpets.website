@@ -1,0 +1,9 @@
+{
+	"name": "Spectral Barbed Spider",
+	"variant": "Spectral",
+	"npcs": {
+		"206180": {
+			"name": "Death Skitterer"
+		}
+	}
+}

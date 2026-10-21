@@ -1,0 +1,9 @@
+{
+	"name": "Red Aqiri Worm",
+	"variant": "Red Aqiri Worm",
+	"npcs": {
+		"160708": {
+			"name": "Mail Muncher"
+		}
+	}
+}

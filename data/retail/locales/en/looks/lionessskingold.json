@@ -1,0 +1,15 @@
+{
+	"name": "Brown & Tan Cat",
+	"variant": "Brown & Tan",
+	"npcs": {
+		"14222": {
+			"name": "Araga"
+		},
+		"37206": {
+			"name": "Plains Prowler"
+		},
+		"55446": {
+			"name": "Queen Savannah"
+		}
+	}
+}

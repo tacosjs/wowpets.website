@@ -1,0 +1,21 @@
+{
+	"name": "Yellow & White Crane",
+	"variant": "Yellow & White",
+	"npcs": {
+		"165914": {
+			"name": "Glitterfeather Wader"
+		},
+		"165937": {
+			"name": "Terrified Glitterfeather"
+		},
+		"171343": {
+			"name": "Bladebeak Matriarch"
+		},
+		"175651": {
+			"name": "Suntouched Mistwalker"
+		},
+		"178743": {
+			"name": "Terrified Glitterfeather"
+		}
+	}
+}

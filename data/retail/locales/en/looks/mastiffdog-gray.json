@@ -1,0 +1,44 @@
+{
+	"name": "Grey Mastiff",
+	"variant": "Grey",
+	"npcs": {
+		"23994": {
+			"name": "Dragonflayer Hunting Hound"
+		},
+		"38832": {
+			"name": "Baron",
+			"title": "Huntsman Blake's Pet"
+		},
+		"45367": {
+			"name": "Gilnean Hound"
+		},
+		"51040": {
+			"name": "Snuffles"
+		},
+		"83815": {
+			"name": "Mastiff",
+			"title": "Alliance Guard's Pet"
+		},
+		"109110": {
+			"name": "Tracking Hound"
+		},
+		"129075": {
+			"name": "Bones"
+		},
+		"130038": {
+			"name": "Faithful Bloodhound"
+		},
+		"130452": {
+			"name": "Faithful Watchdog"
+		},
+		"130453": {
+			"name": "Humphrey"
+		},
+		"139562": {
+			"name": "Spitz"
+		},
+		"139563": {
+			"name": "Milo"
+		}
+	}
+}

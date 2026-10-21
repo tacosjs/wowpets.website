@@ -1,0 +1,40 @@
+{
+	"id": "horse2ardenweald-doe",
+	"family": "courser",
+	"modelGroup": "ardenwealddreamrunners",
+	"npcs": [
+		{
+			"id": 169750,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald"
+				}
+			]
+		},
+		{
+			"id": 179912,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "korthia",
+					"area": "seekers-quorum"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		165685,
+		172966
+	]
+}

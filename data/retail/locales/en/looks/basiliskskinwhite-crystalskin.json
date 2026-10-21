@@ -1,0 +1,12 @@
+{
+	"name": "White Basilisk w/Blue Fringes",
+	"variant": "White w/Blue",
+	"npcs": {
+		"5420": {
+			"name": "Glasshide Gazer"
+		},
+		"43181": {
+			"name": "Shalehide Basilisk"
+		}
+	}
+}

@@ -1,0 +1,45 @@
+{
+	"name": "Red-Brown Shalewing",
+	"variant": "Red-Brown",
+	"npcs": {
+		"201306": {
+			"name": "Quartzite Sporebat"
+		},
+		"202317": {
+			"name": "Disturbed Shalewing"
+		},
+		"205065": {
+			"name": "Praying Stingray"
+		},
+		"221217": {
+			"name": "Spore-infused Shalewing"
+		},
+		"222347": {
+			"name": "Gnashing Rockwing"
+		},
+		"222869": {
+			"name": "Rock Sporebat"
+		},
+		"226381": {
+			"name": "Agitated Shalewing"
+		},
+		"226413": {
+			"name": "Underlit Shalewing"
+		},
+		"226648": {
+			"name": "Rockwing Glider"
+		},
+		"237258": {
+			"name": "Rock Sporebat"
+		},
+		"242773": {
+			"name": "Agitated Rootbat"
+		},
+		"250321": {
+			"name": "Pterrock"
+		},
+		"251550": {
+			"name": "Cavern Sporebat"
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Black Cave Crab",
+	"variant": "Black",
+	"npcs": {
+		"234568": {
+			"name": "Disturbed Trashpicker"
+		},
+		"238896": {
+			"name": "Crabward VIII"
+		},
+		"239207": {
+			"name": "Crusty Litterpicker"
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"id": "writhes-white",
+	"family": "serpent",
+	"modelGroup": "writhingserpents",
+	"npcs": [
+		{
+			"id": 259446,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "altar-of-fangs"
+				}
+			]
+		}
+	]
+}

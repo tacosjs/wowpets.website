@@ -1,0 +1,14 @@
+{
+	"name": "Crocolisks",
+	"modelGroups": {
+		"spikedcrocolisks": {
+			"name": "Crocolisks"
+		},
+		"crocolisks": {
+			"name": "Classic Crocolisks"
+		},
+		"othercrocolisks": {
+			"name": "Other Crocolisks"
+		}
+	}
+}

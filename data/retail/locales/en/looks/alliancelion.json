@@ -1,0 +1,37 @@
+{
+	"name": "Grand Lion",
+	"variant": "alliancelion",
+	"npcs": {
+		"46325": {
+			"name": "Akhet",
+			"title": "Royal Guardian"
+		},
+		"48168": {
+			"name": "Salhet's Lion"
+		},
+		"50159": {
+			"name": "Sambas"
+		},
+		"103631": {
+			"name": "Confined Lion"
+		},
+		"151809": {
+			"name": "Savannah Proudfang"
+		},
+		"151948": {
+			"name": "Senbu the Pridefather"
+		},
+		"157121": {
+			"name": "Ekashim",
+			"title": "Fangtaker Orsa's Companion"
+		},
+		"161113": {
+			"name": "Akhet",
+			"title": "Royal Guardian"
+		},
+		"162939": {
+			"name": "Akhet",
+			"title": "Royal Guardian"
+		}
+	}
+}

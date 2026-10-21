@@ -1,0 +1,57 @@
+{
+	"id": "raptor",
+	"wowId": 11,
+	"icon": "ability_hunter_pet_raptor",
+	"spec": "cunning",
+	"exotic": false,
+	"diet": [
+		"meat"
+	],
+	"abilities": {
+		"basic": "claw",
+		"family": [
+			"savage-rend"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "saptors"
+		},
+		{
+			"id": "dreamtalons"
+		},
+		{
+			"id": "saddledskeletalraptors"
+		},
+		{
+			"id": "skeletalraptors"
+		},
+		{
+			"id": "ravasaurs"
+		},
+		{
+			"id": "saurids"
+		},
+		{
+			"id": "armouredravasaurs"
+		},
+		{
+			"id": "falcosaurs"
+		},
+		{
+			"id": "draenorraptors"
+		},
+		{
+			"id": "raptors"
+		},
+		{
+			"id": "spikedraptors"
+		},
+		{
+			"id": "saddledraptors"
+		},
+		{
+			"id": "armoredraptors"
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"name": "Grey Stag",
+	"variant": "Grey",
+	"npcs": {
+		"108322": {
+			"name": "Ferngrazer Stag"
+		},
+		"112825": {
+			"name": "Shieldscar Stag"
+		},
+		"126967": {
+			"name": "Midland Stag"
+		},
+		"127569": {
+			"name": "Redwood Guardian"
+		},
+		"140088": {
+			"name": "Stonehorn the Charger"
+		},
+		"140249": {
+			"name": "Slatehide"
+		},
+		"140263": {
+			"name": "Runehoof Stag"
+		},
+		"144837": {
+			"name": "Darkshore Stag"
+		},
+		"233283": {
+			"name": "Hexcrazed Greatstag"
+		},
+		"237448": {
+			"name": "Cliffhopper"
+		}
+	}
+}

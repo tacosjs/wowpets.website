@@ -1,0 +1,100 @@
+{
+	"id": "giantvampirebat-stone",
+	"family": "bat",
+	"modelGroup": "dredbats",
+	"npcs": [
+		{
+			"id": 163507,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 59
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "cinderwall"
+				}
+			]
+		},
+		{
+			"id": 163893,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 59
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "cinderwall"
+				}
+			]
+		},
+		{
+			"id": 164234,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 59
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "cinderwall"
+				}
+			]
+		},
+		{
+			"id": 157083,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "tower-of-the-damned",
+					"area": "the-upper-reaches"
+				}
+			]
+		},
+		{
+			"id": 214162,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps",
+					"area": "brunwins-terrace"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 254928,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nexus-point-xenas"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		168591
+	]
+}

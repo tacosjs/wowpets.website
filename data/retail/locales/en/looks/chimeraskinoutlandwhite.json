@@ -1,0 +1,12 @@
+{
+	"name": "White Plated Chimaera",
+	"variant": "White",
+	"npcs": {
+		"11497": {
+			"name": "The Razza"
+		},
+		"50346": {
+			"name": "Ronak"
+		}
+	}
+}

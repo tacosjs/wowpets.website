@@ -1,0 +1,11 @@
+{
+	"id": "deepseacrabgreen-black",
+	"family": "crab",
+	"modelGroup": "spikedcrabs",
+	"npcs": [],
+	"alsoNpcs": [
+		227572,
+		219365,
+		218885
+	]
+}

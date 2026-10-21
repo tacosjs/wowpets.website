@@ -1,0 +1,9 @@
+{
+	"name": "Undead Gorilla",
+	"variant": "gorillabossundead",
+	"npcs": {
+		"144638": {
+			"name": "Grong the Revenant"
+		}
+	}
+}

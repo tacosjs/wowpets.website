@@ -1,0 +1,41 @@
+{
+	"id": "silithid02red",
+	"family": "aqiri",
+	"modelGroup": "ruggedsilithids",
+	"npcs": [
+		{
+			"id": 131892,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "silithus"
+				}
+			]
+		},
+		{
+			"id": 134503,
+			"tameable": false,
+			"level": {
+				"min": 51,
+				"max": 51
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "uldir",
+					"area": "archives-of-eternity"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

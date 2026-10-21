@@ -1,0 +1,22 @@
+{
+	"id": "netherrayskinpurple",
+	"family": "ray",
+	"modelGroup": "netherrays",
+	"npcs": [
+		{
+			"id": 22181,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "blades-edge-mountains",
+					"area": "ogrila-plateau"
+				}
+			]
+		}
+	]
+}

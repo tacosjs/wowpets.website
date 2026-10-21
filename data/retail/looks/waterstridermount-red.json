@@ -1,0 +1,22 @@
+{
+	"id": "waterstridermount-red",
+	"family": "waterstrider",
+	"modelGroup": "platedwaterstriders",
+	"npcs": [
+		{
+			"id": 50859,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 35
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "the-jade-forest"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

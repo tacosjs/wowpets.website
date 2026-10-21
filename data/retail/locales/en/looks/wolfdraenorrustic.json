@@ -1,0 +1,33 @@
+{
+	"name": "Auburn Maned Wolf",
+	"variant": "Auburn",
+	"npcs": {
+		"100890": {
+			"name": "Jandvik Ripfang"
+		},
+		"124885": {
+			"name": "Bewitched Darkmaw"
+		},
+		"125464": {
+			"name": "Darkmaw Prowler"
+		},
+		"135197": {
+			"name": "Scavenging Darkmaw"
+		},
+		"136416": {
+			"name": "Feral Razorclaw"
+		},
+		"136418": {
+			"name": "Young Razorclaw"
+		},
+		"137461": {
+			"name": "Starving Darkmaw"
+		},
+		"140074": {
+			"name": "Sharptooth"
+		},
+		"255805": {
+			"name": "Domesticated Wolf"
+		}
+	}
+}

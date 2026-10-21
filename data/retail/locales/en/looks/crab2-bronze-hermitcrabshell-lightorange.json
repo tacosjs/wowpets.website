@@ -1,0 +1,12 @@
+{
+	"name": "Bronze Hermit Crab w/ Pale Orange & Blue Shell",
+	"variant": "Bronze",
+	"npcs": {
+		"250061": {
+			"name": "Tideshell Crab"
+		},
+		"251462": {
+			"name": "Sunset Clacker"
+		}
+	}
+}

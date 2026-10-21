@@ -1,0 +1,9 @@
+{
+	"name": "Green Slime",
+	"variant": "Green Slime",
+	"npcs": {
+		"29034": {
+			"name": "Spirit of Koosu"
+		}
+	}
+}

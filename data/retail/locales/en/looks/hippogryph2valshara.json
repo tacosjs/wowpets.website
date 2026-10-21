@@ -1,0 +1,18 @@
+{
+	"name": "Green & Red Hippogryph",
+	"variant": "Green & Red",
+	"npcs": {
+		"90057": {
+			"name": "Daggerbeak"
+		},
+		"95766": {
+			"name": "Crazed Razorbeak"
+		},
+		"97504": {
+			"name": "Wraithtalon"
+		},
+		"109594": {
+			"name": "Stormfeather"
+		}
+	}
+}

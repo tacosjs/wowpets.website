@@ -1,0 +1,9 @@
+{
+	"name": "Grey Ice Bear",
+	"variant": "Grey",
+	"npcs": {
+		"193062": {
+			"name": "Prowling Frigidpelt"
+		}
+	}
+}

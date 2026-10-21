@@ -1,0 +1,15 @@
+{
+	"name": "Black & Blue Grimlynx",
+	"variant": "Black & Blue Grimlynx",
+	"npcs": {
+		"251569": {
+			"name": "Grimlynx"
+		},
+		"252434": {
+			"name": "Den Grimlynx"
+		},
+		"256948": {
+			"name": "Trained Grimlynx"
+		}
+	}
+}

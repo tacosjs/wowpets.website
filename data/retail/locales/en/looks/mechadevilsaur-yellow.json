@@ -1,0 +1,10 @@
+{
+	"name": "Yellow Mechanical Devilsaur",
+	"variant": "Yellow Mechanical Devilsaur",
+	"npcs": {
+		"229181": {
+			"name": "Flarendo",
+			"title": "The Furious"
+		}
+	}
+}

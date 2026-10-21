@@ -1,0 +1,21 @@
+{
+	"name": "Bronze Devilsaur",
+	"variant": "Bronze",
+	"npcs": {
+		"69993": {
+			"name": "Young Primal Devilsaur"
+		},
+		"70011": {
+			"name": "Primal Devilsaur"
+		},
+		"122311": {
+			"name": "Pinky"
+		},
+		"126732": {
+			"name": "Pinky"
+		},
+		"131672": {
+			"name": "Young Xibalan Apex"
+		}
+	}
+}

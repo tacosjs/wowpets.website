@@ -1,0 +1,25 @@
+{
+	"id": "undeadhorseskinblack-ridingundeadhorse",
+	"family": "courser",
+	"modelGroup": "saddledskeletalhorses",
+	"npcs": [
+		{
+			"id": 15547,
+			"tameable": false,
+			"level": {
+				"min": 31,
+				"max": 31
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "karazhan",
+					"area": "livery-stables"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		114804
+	]
+}

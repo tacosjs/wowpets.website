@@ -15,7 +15,80 @@
 	},
 	"modelGroups": [
 		{
-			"id": "saber-worgs"
+			"id": "lupines"
+		},
+		{
+			"id": "draenorwolves"
+		},
+		{
+			"id": "direworgs"
+		},
+		{
+			"id": "scarredworgs"
+		},
+		{
+			"id": "draenorsaddledwolves"
+		},
+		{
+			"id": "draenorarmoredwolves"
+		},
+		{
+			"id": "ironhordewolves"
+		},
+		{
+			"id": "saberworgs"
+		},
+		{
+			"id": "wolves"
+		},
+		{
+			"id": "worgs"
+		},
+		{
+			"id": "saddledworgs"
+		},
+		{
+			"id": "korkronwolves"
+		},
+		{
+			"id": "stormwolves"
+		},
+		{
+			"id": "hordebannerwolves"
+		}
+	],
+	"otherFamilyLooks": [
+		{
+			"family": "spiritbeast",
+			"look": "wolfdraenor-shadow"
+		},
+		{
+			"family": "spiritbeast",
+			"look": "wolf-ghost"
+		},
+		{
+			"family": "spiritbeast",
+			"look": "lightningworg-black"
+		},
+		{
+			"family": "spiritbeast",
+			"look": "lightningworg-red"
+		},
+		{
+			"family": "spiritbeast",
+			"look": "lightningworg-darkblue"
+		},
+		{
+			"family": "spiritbeast",
+			"look": "lightningworg-gray"
+		},
+		{
+			"family": "spiritbeast",
+			"look": "lightningworg-white"
+		},
+		{
+			"family": "spiritbeast",
+			"look": "lightningworg-lightblue"
 		}
 	]
 }

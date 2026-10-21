@@ -1,0 +1,30 @@
+{
+	"name": "Dark Soulseeker",
+	"variant": "Dark",
+	"npcs": {
+		"160786": {
+			"name": "Tower Shadehound"
+		},
+		"164046": {
+			"name": "Crucible Seeker"
+		},
+		"165974": {
+			"name": "Crucible Seeker"
+		},
+		"167947": {
+			"name": "Tremaculum Soulhunter"
+		},
+		"168533": {
+			"name": "Mawsworn Seeker"
+		},
+		"168584": {
+			"name": "Mawsworn Seeker"
+		},
+		"173640": {
+			"name": "Obedient Shadehound"
+		},
+		"175968": {
+			"name": "The Untamed"
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"id": "hawkstridermount-purple-void",
+	"family": "tallstrider",
+	"modelGroup": "armouredhawkstriders",
+	"npcs": [
+		{
+			"id": 261337,
+			"tameable": true,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eversong-woods"
+				}
+			]
+		}
+	]
+}

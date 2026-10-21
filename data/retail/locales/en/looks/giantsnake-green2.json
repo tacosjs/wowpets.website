@@ -1,0 +1,31 @@
+{
+	"name": "Grey-Green Cobra",
+	"variant": "Grey-Green",
+	"npcs": {
+		"258955": {
+			"name": "Frilled Spitter"
+		},
+		"261124": {
+			"name": "Incensed Cobra"
+		},
+		"261820": {
+			"name": "Venom-Bloated Python"
+		},
+		"261864": {
+			"name": "Burrowing Ambusher"
+		},
+		"265048": {
+			"name": "Burrow Spitter"
+		},
+		"265343": {
+			"name": "Nest Coiler"
+		},
+		"268911": {
+			"name": "Frilled Spitter"
+		},
+		"270768": {
+			"name": "Summoned Cobra",
+			"title": "Summoner Tsssaani's Minion"
+		}
+	}
+}

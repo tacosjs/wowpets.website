@@ -1,0 +1,22 @@
+{
+	"id": "fox2-red",
+	"family": "fox",
+	"modelGroup": "vulpin",
+	"npcs": [
+		{
+			"id": 210854,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ruins-of-gilneas",
+					"area": "northern-headlands"
+				}
+			]
+		}
+	]
+}

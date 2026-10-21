@@ -1,0 +1,12 @@
+{
+	"name": "Green Basilisk w/Purple Fringes",
+	"variant": "Green w/Purple",
+	"npcs": {
+		"28145": {
+			"name": "Lurking Basilisk"
+		},
+		"28203": {
+			"name": "Gorged Lurking Basilisk"
+		}
+	}
+}

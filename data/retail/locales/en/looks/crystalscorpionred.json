@@ -1,0 +1,15 @@
+{
+	"name": "Ruby Scorpion",
+	"variant": "Ruby",
+	"npcs": {
+		"108359": {
+			"name": "Volatile Scorpid"
+		},
+		"194408": {
+			"name": "Conjured Snapper"
+		},
+		"215881": {
+			"name": "Crystal Clacker"
+		}
+	}
+}

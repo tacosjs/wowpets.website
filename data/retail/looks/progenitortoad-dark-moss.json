@@ -1,0 +1,22 @@
+{
+	"id": "progenitortoad-dark-moss",
+	"family": "hopper",
+	"modelGroup": "bufonids",
+	"npcs": [
+		{
+			"id": 183049,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "dimensional-falls"
+				}
+			]
+		}
+	]
+}

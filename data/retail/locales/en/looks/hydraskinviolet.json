@@ -1,0 +1,12 @@
+{
+	"name": "Purple Hydra",
+	"variant": "Purple",
+	"npcs": {
+		"3398": {
+			"name": "Gesharahan"
+		},
+		"12940": {
+			"name": "Vorsha the Lasher"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Armored Orange Raptor",
+	"variant": "Orange",
+	"npcs": {
+		"64638": {
+			"name": "Gurubashi Riding Raptor"
+		},
+		"66142": {
+			"name": "Gurubashi Raptor"
+		}
+	}
+}

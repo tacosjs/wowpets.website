@@ -1,0 +1,35 @@
+{
+	"name": "Carrion Bird",
+	"modelGroups": {
+		"petalwings": {
+			"name": "Petalwings"
+		},
+		"peafowl": {
+			"name": "Peafowl"
+		},
+		"teroclaws": {
+			"name": "Teroclaws"
+		},
+		"flightlessteroclaws": {
+			"name": "Flightless Teroclaws"
+		},
+		"cbravens": {
+			"name": "Ravens"
+		},
+		"grandvultures": {
+			"name": "Vultures"
+		},
+		"condors": {
+			"name": "Condors"
+		},
+		"twoheadedvultures": {
+			"name": "Two-Headed Vultures"
+		},
+		"othercarrionbirds": {
+			"name": "Miscellaneous Carrion Birds"
+		},
+		"vultures": {
+			"name": "Classic Vultures"
+		}
+	}
+}

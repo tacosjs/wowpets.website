@@ -1,0 +1,22 @@
+{
+	"id": "ridingtigerskinsnownosaddle",
+	"family": "cat",
+	"modelGroup": "sabercats",
+	"npcs": [
+		{
+			"id": 14430,
+			"tameable": true,
+			"level": {
+				"min": 1,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "teldrassil"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

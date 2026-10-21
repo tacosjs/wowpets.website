@@ -1,0 +1,15 @@
+{
+	"name": "Purple-Lavender Ardenmoth",
+	"variant": "Purple-Lavender",
+	"npcs": {
+		"161882": {
+			"name": "Placid Ardenmoth"
+		},
+		"166304": {
+			"name": "Mistveil Stinger"
+		},
+		"166456": {
+			"name": "Glen Ardenmoth"
+		}
+	}
+}

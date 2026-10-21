@@ -1,0 +1,12 @@
+{
+	"name": "Red Chloroceros",
+	"variant": "Red",
+	"npcs": {
+		"251563": {
+			"name": "Groveherd Bull"
+		},
+		"256540": {
+			"name": "Groveherd Bull"
+		}
+	}
+}

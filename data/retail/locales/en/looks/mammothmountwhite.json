@@ -1,0 +1,21 @@
+{
+	"name": "Light Grey Mammoth",
+	"variant": "Light Grey",
+	"npcs": {
+		"26272": {
+			"name": "Emaciated Mammoth"
+		},
+		"29402": {
+			"name": "Ironwool Mammoth"
+		},
+		"30260": {
+			"name": "Stoic Mammoth"
+		},
+		"30448": {
+			"name": "Plains Mammoth"
+		},
+		"32400": {
+			"name": "Tukemuth"
+		}
+	}
+}

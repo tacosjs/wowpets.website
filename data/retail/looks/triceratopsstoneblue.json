@@ -1,0 +1,22 @@
+{
+	"id": "triceratopsstoneblue",
+	"family": "direhorn",
+	"modelGroup": "direhorns",
+	"npcs": [
+		{
+			"id": 207286,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "thaldraszus",
+					"area": "passage-of-time"
+				}
+			]
+		}
+	]
+}

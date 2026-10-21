@@ -1,0 +1,12 @@
+{
+	"name": "Striped Purple Sandreaver",
+	"variant": "Striped Purple",
+	"npcs": {
+		"39149": {
+			"name": "Sarinexx"
+		},
+		"75772": {
+			"name": "Drift Lurker"
+		}
+	}
+}

@@ -1,0 +1,40 @@
+{
+	"id": "kareshroamer-orange",
+	"family": "stag",
+	"modelGroup": "slatebacks",
+	"npcs": [
+		{
+			"id": 230457,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "the-oasis"
+				}
+			]
+		},
+		{
+			"id": 237311,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		249799,
+		239830
+	]
+}

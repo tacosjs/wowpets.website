@@ -1,0 +1,27 @@
+{
+	"id": "gnomemechastriderskinblue",
+	"family": "mechanical",
+	"modelGroup": "mechanostriders",
+	"npcs": [
+		{
+			"id": 151658,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "operation-mechagon",
+					"area": "the-robodrome"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

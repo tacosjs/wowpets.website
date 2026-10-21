@@ -1,0 +1,12 @@
+{
+	"name": "Dark Bear w/ Green Amani Armour",
+	"variant": "Dark w/ Green Amani Armour",
+	"npcs": {
+		"23584": {
+			"name": "Amani Bear"
+		},
+		"24217": {
+			"name": "Amani Bear Mount"
+		}
+	}
+}

@@ -1,0 +1,39 @@
+{
+	"name": "Black Eversong Lynx",
+	"variant": "Black",
+	"npcs": {
+		"242603": {
+			"name": "Encroaching Forest Lynx"
+		},
+		"242604": {
+			"name": "Encroaching Forest Lynx"
+		},
+		"243706": {
+			"name": "Distressed Lynx"
+		},
+		"247505": {
+			"name": "Wandering Stalker"
+		},
+		"250035": {
+			"name": "Ghostclaw Lynx"
+		},
+		"250038": {
+			"name": "Ghostclaw Elder"
+		},
+		"250040": {
+			"name": "Juvenile Ghostclaw"
+		},
+		"251260": {
+			"name": "Battle Lynx"
+		},
+		"253850": {
+			"name": "Juvenile Ghostclaw"
+		},
+		"254361": {
+			"name": "Ghostclaw Elder"
+		},
+		"254363": {
+			"name": "Ghostclaw Lynx"
+		}
+	}
+}

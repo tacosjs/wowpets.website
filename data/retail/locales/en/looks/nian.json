@@ -1,0 +1,12 @@
+{
+	"name": "White Guardian Hound",
+	"variant": "White",
+	"npcs": {
+		"15467": {
+			"name": "Omen"
+		},
+		"17447": {
+			"name": "The Kurken"
+		}
+	}
+}

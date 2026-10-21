@@ -1,0 +1,12 @@
+{
+	"name": "Red, Green & Blue Potatoad",
+	"variant": "Red, Green & Blue",
+	"npcs": {
+		"244326": {
+			"name": "Toxic Potatotoadling"
+		},
+		"249756": {
+			"name": "Potatoad Matriarch"
+		}
+	}
+}

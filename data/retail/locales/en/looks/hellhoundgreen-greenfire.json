@@ -1,0 +1,42 @@
+{
+	"name": "Green Infernal Hellhound w/ Green Flames",
+	"variant": "Green w/ Green Flames",
+	"npcs": {
+		"73325": {
+			"name": "Fel Wolf"
+		},
+		"78432": {
+			"name": "Burning Hunter"
+		},
+		"78457": {
+			"name": "Burning Hunter"
+		},
+		"79506": {
+			"name": "Searing Ravager"
+		},
+		"91707": {
+			"name": "Burning Hound"
+		},
+		"104323": {
+			"name": "Feltotem Bonehound"
+		},
+		"115601": {
+			"name": "Infernal Hound"
+		},
+		"116527": {
+			"name": "Pit Hound"
+		},
+		"125936": {
+			"name": "Burning Hound"
+		},
+		"126072": {
+			"name": "Felspawn Soulstalker"
+		},
+		"140558": {
+			"name": "Inferno Terror"
+		},
+		"267359": {
+			"name": "Felhound"
+		}
+	}
+}

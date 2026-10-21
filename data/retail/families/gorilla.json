@@ -1,0 +1,34 @@
+{
+	"id": "gorilla",
+	"icon": "ability_hunter_pet_gorilla",
+	"spec": "ferocity",
+	"exotic": false,
+	"diet": [
+		"bread",
+		"fruit",
+		"fungus"
+	],
+	"abilities": {
+		"basic": "smack",
+		"family": [
+			"silverback"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "cyberneticgorillas"
+		},
+		{
+			"id": "grandgorillas"
+		},
+		{
+			"id": "bossgorillas"
+		},
+		{
+			"id": "gorillas"
+		},
+		{
+			"id": "undeadgorillas"
+		}
+	]
+}

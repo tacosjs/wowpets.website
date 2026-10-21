@@ -1,0 +1,15 @@
+{
+	"name": "Striped White Mystic Cat",
+	"variant": "Striped White",
+	"npcs": {
+		"54688": {
+			"name": "Time-Twisted Nightsaber"
+		},
+		"54699": {
+			"name": "Time-Twisted Nightsaber"
+		},
+		"59544": {
+			"name": "The Nodding Tiger"
+		}
+	}
+}

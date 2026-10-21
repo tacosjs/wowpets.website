@@ -1,0 +1,101 @@
+{
+	"id": "decomposermediumblack-face3",
+	"family": "carapid",
+	"modelGroup": "gorms",
+	"npcs": [
+		{
+			"id": 164642,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "gormhive-defense-wall"
+				}
+			]
+		},
+		{
+			"id": 169974,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "crumbled-ridge"
+				}
+			]
+		},
+		{
+			"id": 164038,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "creeping-hive"
+				}
+			]
+		},
+		{
+			"id": 163186,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "gormhive"
+				}
+			]
+		},
+		{
+			"id": 169975,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "crumbled-ridge"
+				}
+			]
+		},
+		{
+			"id": 169823,
+			"tameable": true,
+			"level": {
+				"min": 61,
+				"max": 61
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "tower-of-the-damned",
+					"area": "torghast"
+				}
+			],
+			"keepsName": true
+		}
+	],
+	"alsoNpcs": [
+		165190
+	]
+}

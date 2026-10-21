@@ -1,0 +1,25 @@
+{
+	"id": "progenitorbeetlelightgold",
+	"family": "beetle",
+	"modelGroup": "scarabids",
+	"npcs": [
+		{
+			"id": 182820,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zereth-mortis",
+					"area": "the-great-veldt"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		178155
+	]
+}

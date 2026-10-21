@@ -1,0 +1,21 @@
+{
+	"name": "Blue & White Crane",
+	"variant": "Blue & White",
+	"npcs": {
+		"168240": {
+			"name": "Gorgebeak"
+		},
+		"170460": {
+			"name": "Pearly Wader"
+		},
+		"171341": {
+			"name": "Bladebeak Hatchling"
+		},
+		"172983": {
+			"name": "Grand Blue Heron"
+		},
+		"175653": {
+			"name": "Ephemeral Mistwalker"
+		}
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"name": "Black Blistercreep w/ Red Glow",
+	"variant": "Black Body w/ Red Glow",
+	"npcs": {
+		"243736": {
+			"name": "Blistercreep"
+		},
+		"247111": {
+			"name": "Scavenging Biledrinker"
+		},
+		"248021": {
+			"name": "Ravenous Blistercreep"
+		},
+		"250564": {
+			"name": "Blistercreep"
+		},
+		"254711": {
+			"name": "Skittering Creep"
+		},
+		"255546": {
+			"name": "Ravenous Blistercreep"
+		},
+		"257745": {
+			"name": "Leeching Blistercreep"
+		},
+		"257898": {
+			"name": "Siphoning Blistercreep"
+		},
+		"258510": {
+			"name": "Hateleech Blistercreep"
+		}
+	}
+}

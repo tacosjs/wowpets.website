@@ -1,0 +1,60 @@
+{
+	"id": "stag2sleigh",
+	"family": "stag",
+	"modelGroup": "winterveilstags",
+	"npcs": [
+		{
+			"id": 235095,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "old-hillsbrad-foothills"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 158559,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ironforge"
+				},
+				{
+					"zone": "orgrimmar"
+				}
+			]
+		},
+		{
+			"id": 158560,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ironforge"
+				},
+				{
+					"zone": "orgrimmar"
+				}
+			]
+		}
+	]
+}

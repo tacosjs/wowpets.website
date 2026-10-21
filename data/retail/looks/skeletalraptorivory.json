@@ -1,0 +1,146 @@
+{
+	"id": "skeletalraptorivory",
+	"family": "raptor",
+	"modelGroup": "skeletalraptors",
+	"npcs": [
+		{
+			"id": 70534,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-thunder"
+				}
+			]
+		},
+		{
+			"id": 135742,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "the-bone-pit"
+				}
+			]
+		},
+		{
+			"id": 135743,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "the-bone-pit"
+				}
+			]
+		},
+		{
+			"id": 129410,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "the-bone-pit"
+				}
+			]
+		},
+		{
+			"id": 137487,
+			"tameable": true,
+			"level": {
+				"min": 51,
+				"max": 51
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "kings-rest",
+					"area": "sepulcher-of-the-dahazi"
+				}
+			]
+		},
+		{
+			"id": 171583,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "the-necropolis"
+				}
+			]
+		},
+		{
+			"id": 168986,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "de-other-side"
+				}
+			]
+		},
+		{
+			"id": 180853,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-veiled-market",
+					"area": "tazavesh"
+				}
+			]
+		},
+		{
+			"id": 232957,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "tazavesh-karesh"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		41388,
+		135433,
+		126117,
+		129517
+	]
+}

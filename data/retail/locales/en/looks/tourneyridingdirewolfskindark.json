@@ -1,0 +1,9 @@
+{
+	"name": "Saddled Dark Worg",
+	"variant": "Very Dark Brown",
+	"npcs": {
+		"103563": {
+			"name": "Riding Wolf"
+		}
+	}
+}

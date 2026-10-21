@@ -1,0 +1,25 @@
+{
+	"id": "camel",
+	"icon": "ability_mount_camel_brown",
+	"spec": "cunning",
+	"exotic": false,
+	"diet": [
+		"bread",
+		"fruit",
+		"fungus"
+	],
+	"abilities": {
+		"basic": "bite",
+		"family": [
+			"hardy"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "alpacas"
+		},
+		{
+			"id": "camels"
+		}
+	]
+}

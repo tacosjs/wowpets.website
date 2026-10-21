@@ -1,0 +1,24 @@
+{
+	"name": "Green Ant Silithid",
+	"variant": "Green",
+	"npcs": {
+		"5452": {
+			"name": "Hazzali Worker"
+		},
+		"11722": {
+			"name": "Hive'Ashi Defender"
+		},
+		"15229": {
+			"name": "Vekniss Soldier"
+		},
+		"15318": {
+			"name": "Hive'Zara Drone"
+		},
+		"15521": {
+			"name": "Hive'Zara Hatchling"
+		},
+		"25652": {
+			"name": "Nerub'ar Scarab"
+		}
+	}
+}

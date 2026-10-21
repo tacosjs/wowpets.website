@@ -1,0 +1,27 @@
+{
+	"id": "larvaskinoutlandblue",
+	"family": "worm",
+	"modelGroup": "toothedlarvae",
+	"npcs": [
+		{
+			"id": 92538,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "neltharions-lair",
+					"area": "path-of-the-worm"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

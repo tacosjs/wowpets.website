@@ -1,0 +1,19 @@
+{
+	"name": "Yellow Raptor",
+	"variant": "Yellow",
+	"npcs": {
+		"1140": {
+			"name": "Razormaw Matriarch"
+		},
+		"2559": {
+			"name": "Highland Strider"
+		},
+		"2561": {
+			"name": "Highland Fleshstalker"
+		},
+		"65428": {
+			"name": "Trained Amani Raptor",
+			"title": "Amani Raptor-Handler's Pet"
+		}
+	}
+}

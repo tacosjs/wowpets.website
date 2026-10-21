@@ -1,0 +1,21 @@
+{
+	"name": "Red Cervid w/ Curled Horns",
+	"variant": "Red",
+	"npcs": {
+		"181383": {
+			"name": "Mawtouched Grazer"
+		},
+		"182316": {
+			"name": "Cervid Prototype"
+		},
+		"182423": {
+			"name": "Clumsy Cervid"
+		},
+		"185297": {
+			"name": "Agitated Cervid"
+		},
+		"185301": {
+			"name": "Calm Cervid"
+		}
+	}
+}

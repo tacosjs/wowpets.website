@@ -1,0 +1,46 @@
+{
+	"name": "Grey Soulseeker",
+	"variant": "Grey",
+	"npcs": {
+		"152708": {
+			"name": "Mawsworn Seeker"
+		},
+		"160785": {
+			"name": "Shadehound Spirithunter"
+		},
+		"161172": {
+			"name": "Gargantuan Seeker"
+		},
+		"161763": {
+			"name": "Assassin",
+			"title": "Malefic Shadehound"
+		},
+		"166933": {
+			"name": "Ventun the Ravenous"
+		},
+		"166934": {
+			"name": "Lor the Loyal"
+		},
+		"167960": {
+			"name": "Gargantuan Seeker"
+		},
+		"168673": {
+			"name": "Starving Soulhound"
+		},
+		"175720": {
+			"name": "Rune Hunter"
+		},
+		"178630": {
+			"name": "Mawsworn Seeker"
+		},
+		"179823": {
+			"name": "Relic Gatherer"
+		},
+		"183461": {
+			"name": "Stygian Hound"
+		},
+		"183651": {
+			"name": "Anima Seeker"
+		}
+	}
+}

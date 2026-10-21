@@ -1,0 +1,101 @@
+{
+	"id": "chimera2green",
+	"family": "chimaera",
+	"modelGroup": "rylaks",
+	"npcs": [
+		{
+			"id": 77093,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "gorgrond"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 83740,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "harvesting-pits"
+				}
+			]
+		},
+		{
+			"id": 82646,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "spires-of-arak",
+					"area": "the-howling-crag"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 88643,
+			"tameable": true,
+			"level": {
+				"min": 30,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "spires-of-arak"
+				}
+			]
+		},
+		{
+			"id": 89011,
+			"tameable": false,
+			"level": {
+				"min": 16,
+				"max": 41
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "iron-docks"
+				}
+			]
+		},
+		{
+			"id": 77096,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "upper-blackrock-spire",
+					"area": "blackrock-stadium"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

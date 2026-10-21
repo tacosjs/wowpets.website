@@ -1,0 +1,53 @@
+{
+	"name": "Brown Direhorn",
+	"variant": "Brown",
+	"npcs": {
+		"69396": {
+			"name": "Cera"
+		},
+		"70013": {
+			"name": "Primal Direhorn Hatchling"
+		},
+		"70017": {
+			"name": "Primal Direhorn"
+		},
+		"70185": {
+			"name": "Kazmo"
+		},
+		"70493": {
+			"name": "Direhorn"
+		},
+		"127494": {
+			"name": "Coastal Charger"
+		},
+		"127495": {
+			"name": "Youngling Charger"
+		},
+		"127514": {
+			"name": "Protective Charger"
+		},
+		"127824": {
+			"name": "Gleaming Direhorn"
+		},
+		"127825": {
+			"name": "Gleaming Youngling"
+		},
+		"128455": {
+			"name": "T'lonja"
+		},
+		"131626": {
+			"name": "Wild Direhorn"
+		},
+		"135508": {
+			"name": "Kil'Tawan",
+			"title": "Mate of Tia'Kawan"
+		},
+		"136381": {
+			"name": "Tojek",
+			"title": "The Rogue Tusk"
+		},
+		"140305": {
+			"name": "Kraal Warhauler"
+		}
+	}
+}

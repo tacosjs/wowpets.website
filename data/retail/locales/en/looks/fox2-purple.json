@@ -1,0 +1,25 @@
+{
+	"name": "Purple Vulpin",
+	"variant": "Purple",
+	"npcs": {
+		"160634": {
+			"name": "Suspicious Vulpin"
+		},
+		"166290": {
+			"name": "Timber Vulpin"
+		},
+		"166972": {
+			"name": "Timber Vulpin"
+		},
+		"168084": {
+			"name": "Rooda",
+			"title": "Tinybell's Pet"
+		},
+		"170068": {
+			"name": "Glimmerfur Vulpin"
+		},
+		"172722": {
+			"name": "Grove Prowler"
+		}
+	}
+}

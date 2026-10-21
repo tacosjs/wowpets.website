@@ -1,0 +1,15 @@
+{
+	"name": "Gold Teroclaw",
+	"variant": "Gold",
+	"npcs": {
+		"159192": {
+			"name": "Cloudfeather Greatwing"
+		},
+		"169163": {
+			"name": "Goldenplume Hunter"
+		},
+		"169174": {
+			"name": "Goldenplume Matriarch"
+		}
+	}
+}

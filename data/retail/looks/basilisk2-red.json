@@ -1,0 +1,273 @@
+{
+	"id": "basilisk2-red",
+	"family": "basilisk",
+	"modelGroup": "spinybasilisks",
+	"npcs": [
+		{
+			"id": 100841,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "rockaway-coast"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 107914,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "stormheim"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 130229,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "talfarrak"
+				}
+			]
+		},
+		{
+			"id": 130338,
+			"tameable": true,
+			"level": {
+				"min": 12,
+				"max": 52
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 100100,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "azurgale-cove"
+				}
+			]
+		},
+		{
+			"id": 103787,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "suramar"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 103527,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "moonwhisper-gulch"
+				}
+			]
+		},
+		{
+			"id": 102106,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "underslog"
+				}
+			]
+		},
+		{
+			"id": 217524,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "golgrins-reach"
+				}
+			]
+		},
+		{
+			"id": 227538,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps"
+				}
+			]
+		},
+		{
+			"id": 226369,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "boulder-springs"
+				}
+			]
+		},
+		{
+			"id": 220270,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "the-ringing-deeps"
+				}
+			]
+		},
+		{
+			"id": 102863,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "bitestone-enclave"
+				}
+			]
+		},
+		{
+			"id": 103271,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "neltharions-lair",
+					"area": "scaleback-run"
+				}
+			]
+		},
+		{
+			"id": 130335,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 104690,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "echoing-halls"
+				}
+			]
+		},
+		{
+			"id": 102633,
+			"tameable": false,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "highmountain",
+					"area": "echoing-halls"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		191697,
+		189756,
+		191696,
+		189757,
+		191695,
+		188128,
+		191694,
+		184023,
+		219949,
+		226700,
+		190249
+	]
+}

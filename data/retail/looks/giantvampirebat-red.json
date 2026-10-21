@@ -1,0 +1,74 @@
+{
+	"id": "giantvampirebat-red",
+	"family": "bat",
+	"modelGroup": "dredbats",
+	"npcs": [
+		{
+			"id": 178283,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth"
+				}
+			]
+		},
+		{
+			"id": 163059,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 59
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "grove-of-terror"
+				}
+			]
+		},
+		{
+			"id": 163166,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "grove-of-terror"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 165290,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 61
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "revendreth",
+					"area": "the-banewood"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		158976
+	]
+}

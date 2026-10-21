@@ -1,0 +1,15 @@
+{
+	"name": "Black Goblin Hyena w/ Red Armor",
+	"variant": "Black w/ Red Armor",
+	"npcs": {
+		"234182": {
+			"name": "Frothing Hyena"
+		},
+		"238357": {
+			"name": "Cozy Hyena"
+		},
+		"238610": {
+			"name": "Armored Growler"
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Dark Teal Eel-Serpent",
+	"variant": "Dark Teal",
+	"npcs": {
+		"129980": {
+			"name": "Abyssal Eel"
+		},
+		"137944": {
+			"name": "Spiny Shallow Eel"
+		},
+		"149707": {
+			"name": "Coral Slitherer"
+		}
+	}
+}

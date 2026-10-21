@@ -1,0 +1,15 @@
+{
+	"name": "Blue Candlefly w/ Curly Antennae",
+	"variant": "Blue w/ Curly Antennae",
+	"npcs": {
+		"256057": {
+			"name": "Shimmering Darter"
+		},
+		"256193": {
+			"name": "Grotto Firefly"
+		},
+		"256195": {
+			"name": "Grotto Darter"
+		}
+	}
+}

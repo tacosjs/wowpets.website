@@ -1,0 +1,15 @@
+{
+	"name": "Grey Storm Wolf",
+	"variant": "Grey",
+	"npcs": {
+		"151149": {
+			"name": "Hati"
+		},
+		"222959": {
+			"name": "Cyclonecrier Alpha"
+		},
+		"224972": {
+			"name": "Dire Stormhowl"
+		}
+	}
+}

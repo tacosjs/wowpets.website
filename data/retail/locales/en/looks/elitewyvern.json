@@ -1,0 +1,33 @@
+{
+	"name": "Grand Brown Wyvern",
+	"variant": "Grand Brown",
+	"npcs": {
+		"84100": {
+			"name": "Riding Wyvern"
+		},
+		"98731": {
+			"name": "Leokk"
+		},
+		"139624": {
+			"name": "Grand Wyvern"
+		},
+		"229522": {
+			"name": "Cliffreach Pridetalon"
+		},
+		"229622": {
+			"name": "Cliffreach Matriarch"
+		},
+		"233254": {
+			"name": "Cliffreach Pridetalon"
+		},
+		"239987": {
+			"name": "Wyvern"
+		},
+		"253148": {
+			"name": "Overkafanated Wyvern"
+		},
+		"253150": {
+			"name": "Overkafanated Wyvern"
+		}
+	}
+}

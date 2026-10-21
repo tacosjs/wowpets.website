@@ -1,0 +1,12 @@
+{
+	"name": "Brown Hyena",
+	"variant": "Brown",
+	"npcs": {
+		"192486": {
+			"name": "Lela"
+		},
+		"192503": {
+			"name": "Scavenging Cub"
+		}
+	}
+}

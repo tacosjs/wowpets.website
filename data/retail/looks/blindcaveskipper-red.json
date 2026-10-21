@@ -1,0 +1,44 @@
+{
+	"id": "blindcaveskipper-red",
+	"family": "hopper",
+	"modelGroup": "skippers",
+	"npcs": [
+		{
+			"id": 228465,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "undermine",
+					"area": "the-heaps-undermine"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		226625,
+		214960,
+		224578,
+		224789,
+		220736,
+		226421,
+		219843,
+		229812,
+		226929,
+		227325,
+		214801,
+		237583,
+		250333,
+		256227,
+		257106
+	]
+}

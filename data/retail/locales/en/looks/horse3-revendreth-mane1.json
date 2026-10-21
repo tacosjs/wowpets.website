@@ -1,0 +1,27 @@
+{
+	"name": "Red-Eyed Black Horse",
+	"variant": "Red-Eyed Black",
+	"npcs": {
+		"156081": {
+			"name": "Sinrunner"
+		},
+		"156284": {
+			"name": "Sinrunner"
+		},
+		"165780": {
+			"name": "Courier Steed"
+		},
+		"167889": {
+			"name": "Sinrunner"
+		},
+		"169061": {
+			"name": "Briarbane Stallion"
+		},
+		"180483": {
+			"name": "Fast"
+		},
+		"180487": {
+			"name": "Venthyr Sinrunner"
+		}
+	}
+}

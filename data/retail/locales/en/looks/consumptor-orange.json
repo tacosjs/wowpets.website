@@ -1,0 +1,24 @@
+{
+	"name": "Brown Consumptor",
+	"variant": "Brown",
+	"npcs": {
+		"250636": {
+			"name": "Consumptor"
+		},
+		"254582": {
+			"name": "Dunedweller Consumptor"
+		},
+		"257181": {
+			"name": "Ridgecrawler Consumptor"
+		},
+		"257185": {
+			"name": "Insatiable Consumptor"
+		},
+		"257271": {
+			"name": "Gorging Consumptor"
+		},
+		"257765": {
+			"name": "Insatiable Consumptor"
+		}
+	}
+}

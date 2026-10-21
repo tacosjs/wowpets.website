@@ -1,0 +1,31 @@
+{
+	"name": "White Musken",
+	"variant": "White",
+	"npcs": {
+		"107852": {
+			"name": "Stout Highlands Runehorn"
+		},
+		"108538": {
+			"name": "Highlands Runehorn"
+		},
+		"108935": {
+			"name": "Highlands Runehorn Calf"
+		},
+		"140450": {
+			"name": "Dunu the Blind"
+		},
+		"140453": {
+			"name": "Bramblefur Herdleader"
+		},
+		"191478": {
+			"name": "Meadowhoof Calf"
+		},
+		"196352": {
+			"name": "Mellow Musken",
+			"title": "Marren's Pet"
+		},
+		"230140": {
+			"name": "Fjordhoof Runehorn"
+		}
+	}
+}

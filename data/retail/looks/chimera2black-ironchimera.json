@@ -1,0 +1,37 @@
+{
+	"id": "chimera2black-ironchimera",
+	"family": "chimaera",
+	"modelGroup": "armoredrylaks",
+	"npcs": [
+		{
+			"id": 95615,
+			"tameable": true,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "iron-docks-non-instanced-6-2-quest-phase"
+				}
+			]
+		},
+		{
+			"id": 78420,
+			"tameable": false,
+			"level": {
+				"min": 40,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "shadowmoon-valley-draenor",
+					"area": "darktide-roost"
+				}
+			]
+		}
+	]
+}

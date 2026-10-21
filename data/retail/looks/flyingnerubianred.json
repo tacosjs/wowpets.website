@@ -1,0 +1,57 @@
+{
+	"id": "flyingnerubianred",
+	"family": "bloodbeast",
+	"modelGroup": "classicswarmites",
+	"npcs": [
+		{
+			"id": 26607,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 71
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dragonblight",
+					"area": "icemist-village"
+				}
+			]
+		},
+		{
+			"id": 139874,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 71
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "island-expeditions",
+					"area": "skittering-hollow"
+				}
+			]
+		},
+		{
+			"id": 25453,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 71
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "borean-tundra",
+					"area": "warsong-hold"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

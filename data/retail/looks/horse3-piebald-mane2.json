@@ -1,0 +1,25 @@
+{
+	"id": "horse3-piebald-mane2",
+	"family": "courser",
+	"modelGroup": "horses",
+	"npcs": [
+		{
+			"id": 150581,
+			"tameable": false,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley",
+					"area": "atwater-stead"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		210835
+	]
+}

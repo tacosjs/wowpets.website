@@ -1,0 +1,12 @@
+{
+	"name": "Purple Salamanther w/ Gills & Fins",
+	"variant": "Purple",
+	"npcs": {
+		"211002": {
+			"name": "Coldscale Matriarch"
+		},
+		"211165": {
+			"name": "Webbed Kelpchomper"
+		}
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"id": "silithidwaspbossskin",
+	"family": "wasp",
+	"modelGroup": "bosswasps",
+	"npcs": [
+		{
+			"id": 28087,
+			"tameable": true,
+			"level": {
+				"min": 20,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "sholazar-basin"
+				}
+			]
+		},
+		{
+			"id": 15369,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "ruins-of-ahnqiraj",
+					"area": "the-comb"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 118271,
+			"tameable": false,
+			"level": {
+				"min": 63,
+				"max": 63
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ungoro-crater",
+					"area": "the-slithering-scar"
+				}
+			]
+		}
+	]
+}

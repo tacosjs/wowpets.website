@@ -1,0 +1,10 @@
+{
+	"name": "Shadowed Undercrawler",
+	"variant": "Shadowed",
+	"npcs": {
+		"216039": {
+			"name": "Xishorr",
+			"title": "Shadow of Xishirra"
+		}
+	}
+}

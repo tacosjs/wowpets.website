@@ -1,0 +1,14 @@
+{
+	"name": "Sporebats",
+	"modelGroups": {
+		"sporegliders": {
+			"name": "Sporegliders"
+		},
+		"draenorsporebats": {
+			"name": "Sporebats"
+		},
+		"sporebats": {
+			"name": "Classic Sporebats"
+		}
+	}
+}

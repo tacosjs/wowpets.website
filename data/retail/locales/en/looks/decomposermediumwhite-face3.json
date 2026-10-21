@@ -1,0 +1,12 @@
+{
+	"name": "Silver Gorm w/ Modified Head",
+	"variant": "Silver w/ Modified Head",
+	"npcs": {
+		"165401": {
+			"name": "Egg-Tender Erys"
+		},
+		"172083": {
+			"name": "Goregullet"
+		}
+	}
+}

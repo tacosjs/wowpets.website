@@ -1,0 +1,36 @@
+{
+	"name": "Blue & White Hermit Crab w/ Plain Shell",
+	"variant": "Blue & White",
+	"npcs": {
+		"192123": {
+			"name": "Hermit Crab"
+		},
+		"193605": {
+			"name": "Scavenging Hardshell"
+		},
+		"197000": {
+			"name": "Island Crab"
+		},
+		"197954": {
+			"name": "Scavenging Snipshell"
+		},
+		"198783": {
+			"name": "Hermit Crab"
+		},
+		"199776": {
+			"name": "Hermit Crawler"
+		},
+		"200949": {
+			"name": "Scavenging Pincher"
+		},
+		"210382": {
+			"name": "Scavenging Pincher"
+		},
+		"217122": {
+			"name": "Brightland Rockback"
+		},
+		"222157": {
+			"name": "Opalshell Hermit"
+		}
+	}
+}

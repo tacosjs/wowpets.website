@@ -1,0 +1,21 @@
+{
+	"name": "Teal Pterrordax",
+	"variant": "Teal",
+	"npcs": {
+		"126703": {
+			"name": "Jarkadiax"
+		},
+		"127847": {
+			"name": "Carrion Feeder"
+		},
+		"127864": {
+			"name": "Carrion Feeder"
+		},
+		"127865": {
+			"name": "Feeder Hatchling"
+		},
+		"143898": {
+			"name": "Makatau"
+		}
+	}
+}

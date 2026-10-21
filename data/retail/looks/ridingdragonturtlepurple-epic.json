@@ -1,0 +1,40 @@
+{
+	"id": "ridingdragonturtlepurple-epic",
+	"family": "turtle",
+	"modelGroup": "spikeddragonturtles",
+	"npcs": [
+		{
+			"id": 73161,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 35
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "timeless-isle"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 113189,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "suramar",
+					"area": "sundered-shoals"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		127626
+	]
+}

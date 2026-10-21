@@ -1,0 +1,9 @@
+{
+	"name": "Saddled Orange Raptor",
+	"variant": "Orange",
+	"npcs": {
+		"26824": {
+			"name": "Drakkari Raptor Mount"
+		}
+	}
+}

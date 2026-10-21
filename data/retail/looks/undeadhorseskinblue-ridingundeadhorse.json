@@ -1,0 +1,22 @@
+{
+	"id": "undeadhorseskinblue-ridingundeadhorse",
+	"family": "courser",
+	"modelGroup": "saddledskeletalhorses",
+	"npcs": [
+		{
+			"id": 88141,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 40
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ashran",
+					"area": "warspear"
+				}
+			]
+		}
+	]
+}

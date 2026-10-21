@@ -1,0 +1,22 @@
+{
+	"name": "Pale Orange Mammoth w/ Medium Tusks",
+	"variant": "Pale Orange",
+	"npcs": {
+		"187938": {
+			"name": "Plainswalker Mammoth"
+		},
+		"190906": {
+			"name": "Plainswalker Mammoth"
+		},
+		"193231": {
+			"name": "Ancient Tundrafur"
+		},
+		"255765": {
+			"name": "Mammoth"
+		},
+		"258212": {
+			"name": "Packpeddle of Fire",
+			"title": "Repair Vendor"
+		}
+	}
+}

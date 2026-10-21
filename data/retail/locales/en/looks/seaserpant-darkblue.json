@@ -1,0 +1,9 @@
+{
+	"name": "Indigo Abyss Worm",
+	"variant": "Indigo",
+	"npcs": {
+		"152551": {
+			"name": "Deepcoil Constrictor"
+		}
+	}
+}

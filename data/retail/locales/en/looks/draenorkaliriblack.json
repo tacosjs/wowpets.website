@@ -1,0 +1,57 @@
+{
+	"name": "Black Draenor Kaliri",
+	"variant": "Black",
+	"npcs": {
+		"77442": {
+			"name": "Nightslash Owl"
+		},
+		"79061": {
+			"name": "Void-torn Kaliri"
+		},
+		"79093": {
+			"name": "Skyreach Sun Talon"
+		},
+		"81333": {
+			"name": "Skettis Kaliri"
+		},
+		"82175": {
+			"name": "Silverwing Kaliri"
+		},
+		"84013": {
+			"name": "Darting/Energized Swift Feather"
+		},
+		"84231": {
+			"name": "Energized Swift Feather"
+		},
+		"85753": {
+			"name": "Kaliri Skyterror"
+		},
+		"86748": {
+			"name": "Direbeak Windroc"
+		},
+		"86750": {
+			"name": "Thek'talon"
+		},
+		"86765": {
+			"name": "Veilwatcher Kaliri"
+		},
+		"87088": {
+			"name": "Darkwing Roc"
+		},
+		"87651": {
+			"name": "Ebonwing Kaliri"
+		},
+		"87652": {
+			"name": "Ghost-Talon Owl"
+		},
+		"87671": {
+			"name": "Midnight Kaliri"
+		},
+		"88677": {
+			"name": "Whitebreast Diver"
+		},
+		"228625": {
+			"name": "Spirit"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Blue & Red Wasp",
+	"variant": "Blue & Red",
+	"npcs": {
+		"28085": {
+			"name": "Sapphire Hive Drone"
+		}
+	}
+}

@@ -1,0 +1,60 @@
+{
+	"name": "White Crane",
+	"variant": "White",
+	"npcs": {
+		"55015": {
+			"name": "Whitefeather Crane"
+		},
+		"56752": {
+			"name": "Whitefisher Crane"
+		},
+		"58450": {
+			"name": "White Crane"
+		},
+		"58694": {
+			"name": "Ink-Tipped Crane"
+		},
+		"64261": {
+			"name": "Exotic Pet Crane"
+		},
+		"64262": {
+			"name": "Exotic Pet Crane"
+		},
+		"67436": {
+			"name": "Ancient Bloodcrown Crane"
+		},
+		"67555": {
+			"name": "Ancient Bloodcrown Crane"
+		},
+		"72761": {
+			"name": "Windfeather Nestkeeper"
+		},
+		"89014": {
+			"name": "Grassland Heron"
+		},
+		"89652": {
+			"name": "Shallows Heron"
+		},
+		"103639": {
+			"name": "Ivory Tufted Crane"
+		},
+		"105838": {
+			"name": "Redcrested Heron"
+		},
+		"130224": {
+			"name": "Rivermarsh Needleback"
+		},
+		"134316": {
+			"name": "Stormsong Crane"
+		},
+		"156780": {
+			"name": "White Crane"
+		},
+		"229535": {
+			"name": "Mr. Crane"
+		},
+		"231316": {
+			"name": "Whitefeather Crane"
+		}
+	}
+}

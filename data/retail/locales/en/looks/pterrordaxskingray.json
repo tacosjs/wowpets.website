@@ -1,0 +1,15 @@
+{
+	"name": "Grey Pterrordax",
+	"variant": "Grey",
+	"npcs": {
+		"36719": {
+			"name": "Pterrordax Scavenger"
+		},
+		"64411": {
+			"name": "Zandalari Pterrorwing"
+		},
+		"113040": {
+			"name": "Frenzied Pterrordax"
+		}
+	}
+}

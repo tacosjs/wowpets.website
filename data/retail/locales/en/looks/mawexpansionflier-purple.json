@@ -1,0 +1,24 @@
+{
+	"name": "Purple Razorwing",
+	"variant": "Purple Razorwing",
+	"npcs": {
+		"177197": {
+			"name": "Frenzied Razorwing"
+		},
+		"177249": {
+			"name": "Siphoned Razorwing"
+		},
+		"178893": {
+			"name": "Frenzied Razorwing"
+		},
+		"179871": {
+			"name": "Dusklight Matriarch"
+		},
+		"180625": {
+			"name": "Frenzied Razorwing"
+		},
+		"230379": {
+			"name": "Death Scavenger"
+		}
+	}
+}

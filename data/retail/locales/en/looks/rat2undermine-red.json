@@ -1,0 +1,21 @@
+{
+	"name": "Auburn Rat",
+	"variant": "Auburn",
+	"npcs": {
+		"234292": {
+			"name": "Nesting Rat"
+		},
+		"250123": {
+			"name": "Chitterfang Scurrier"
+		},
+		"250124": {
+			"name": "Chitterfang Scurrier"
+		},
+		"255122": {
+			"name": "Plump Chitterfang"
+		},
+		"265720": {
+			"name": "Scavenging Critter"
+		}
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"name": "Spotted Brown Goat",
+	"variant": "Spotted Brown",
+	"npcs": {
+		"66211": {
+			"name": "Injured Shaghorn"
+		},
+		"91824": {
+			"name": "Bluffwalker Goat"
+		},
+		"92707": {
+			"name": "Lowlands Goat"
+		},
+		"108960": {
+			"name": "Lowlands Goat"
+		},
+		"127979": {
+			"name": "Lost Goat"
+		},
+		"140424": {
+			"name": "Scythehorn"
+		},
+		"193730": {
+			"name": "Forkriver Goat"
+		},
+		"193776": {
+			"name": "Highlands Goat"
+		},
+		"196212": {
+			"name": "Meddlesome Goat"
+		}
+	}
+}

@@ -1,0 +1,156 @@
+{
+	"id": "minespider2-green",
+	"family": "spider",
+	"modelGroup": "grandspiders",
+	"npcs": [
+		{
+			"id": 160394,
+			"tameable": true,
+			"level": {
+				"min": 2,
+				"max": 10
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "exiles-reach",
+					"area": "hruns-barrow"
+				}
+			]
+		},
+		{
+			"id": 160433,
+			"tameable": true,
+			"level": {
+				"min": 2,
+				"max": 10
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "exiles-reach",
+					"area": "hruns-barrow"
+				}
+			]
+		},
+		{
+			"id": 1112,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "wetlands"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 4379,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dustwallow-marsh"
+				}
+			]
+		},
+		{
+			"id": 4376,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dustwallow-marsh"
+				}
+			]
+		},
+		{
+			"id": 42913,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-hinterlands"
+				}
+			]
+		},
+		{
+			"id": 134913,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 134916,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 85232,
+			"tameable": false,
+			"level": {
+				"min": 36,
+				"max": 41
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-everbloom"
+				}
+			]
+		},
+		{
+			"id": 84552,
+			"tameable": false,
+			"level": {
+				"min": 36,
+				"max": 41
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-everbloom",
+					"area": "xeritacs-burrow"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

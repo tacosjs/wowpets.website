@@ -1,0 +1,24 @@
+{
+	"name": "Furry Brown Kodo",
+	"variant": "Furry Brown",
+	"npcs": {
+		"3058": {
+			"name": "Arra'chea"
+		},
+		"4701": {
+			"name": "Dying Kodo"
+		},
+		"18332": {
+			"name": "Talut"
+		},
+		"25606": {
+			"name": "Hamat"
+		},
+		"35434": {
+			"name": "Recovering Kodo"
+		},
+		"48111": {
+			"name": "Blackrock War Kodo"
+		}
+	}
+}

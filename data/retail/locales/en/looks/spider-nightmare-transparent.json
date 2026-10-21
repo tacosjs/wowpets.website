@@ -1,0 +1,12 @@
+{
+	"name": "Spectral Nightmare Spider",
+	"variant": "Spectral Nightmare",
+	"npcs": {
+		"165460": {
+			"name": "Unleashed Nightmare"
+		},
+		"169276": {
+			"name": "Disturbed Nightmare"
+		}
+	}
+}

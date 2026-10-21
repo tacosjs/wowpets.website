@@ -1,0 +1,9 @@
+{
+	"name": "Damaged Purple Silithid Colossus",
+	"variant": "Damaged Purple",
+	"npcs": {
+		"47389": {
+			"name": "Hive Controller"
+		}
+	}
+}

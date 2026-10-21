@@ -1,0 +1,41 @@
+{
+	"id": "arathilynx-white",
+	"family": "cat",
+	"modelGroup": "arathilynxes",
+	"npcs": [
+		{
+			"id": 225948,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "mereldar"
+				}
+			]
+		},
+		{
+			"id": 227335,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "hallowfall",
+					"area": "mereldar"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		216057,
+		225424
+	]
+}

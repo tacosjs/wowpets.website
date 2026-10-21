@@ -1,0 +1,124 @@
+{
+	"id": "seaserpant-green",
+	"family": "serpent",
+	"modelGroup": "abyssworms",
+	"npcs": [
+		{
+			"id": 120477,
+			"tameable": true,
+			"level": {
+				"min": 46,
+				"max": 46
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "tomb-of-sargeras",
+					"area": "lair-of-harjatan"
+				}
+			]
+		},
+		{
+			"id": 115795,
+			"tameable": true,
+			"level": {
+				"min": 47,
+				"max": 47
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "tomb-of-sargeras",
+					"area": "the-abyssal-throne"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 153694,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "chamber-of-the-harvesters"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 154092,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "chamber-of-the-harvesters"
+				}
+			]
+		},
+		{
+			"id": 132920,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 206074,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "dawn-of-the-infinites"
+				}
+			]
+		},
+		{
+			"id": 263944,
+			"tameable": false,
+			"level": {
+				"min": 90,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "wreck-of-torgas-beak"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		140038,
+		145343
+	]
+}

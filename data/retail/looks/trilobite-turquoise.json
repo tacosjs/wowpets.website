@@ -1,0 +1,93 @@
+{
+	"id": "trilobite-turquoise",
+	"family": "carapid",
+	"modelGroup": "krolusks",
+	"npcs": [
+		{
+			"id": 127479,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "tol-dagor"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 133234,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "the-brine-basin"
+				}
+			]
+		},
+		{
+			"id": 241360,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh"
+				}
+			]
+		},
+		{
+			"id": 230293,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "karesh",
+					"area": "naakroa"
+				}
+			]
+		},
+		{
+			"id": 134927,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "tol-dagor-non-instanced"
+				}
+			]
+		},
+		{
+			"id": 139361,
+			"tameable": false,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "bonetrail-gulch"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		126237,
+		136548,
+		230359
+	]
+}

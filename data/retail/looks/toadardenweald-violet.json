@@ -1,0 +1,50 @@
+{
+	"id": "toadardenweald-violet",
+	"family": "hopper",
+	"modelGroup": "ardenwealdtoads",
+	"npcs": [
+		{
+			"id": 173720,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "mists-of-tirna-scithe"
+				}
+			]
+		},
+		{
+			"id": 175350,
+			"tameable": true,
+			"level": {
+				"min": 56,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "glitterfall-heights"
+				}
+			]
+		},
+		{
+			"id": 173687,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald"
+				}
+			]
+		}
+	]
+}

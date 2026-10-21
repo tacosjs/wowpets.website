@@ -1,0 +1,9 @@
+{
+	"name": "Ghost Crocolisk",
+	"variant": "Ghost Crocolisk",
+	"npcs": {
+		"29018": {
+			"name": "Spirit of Ha-Khalan"
+		}
+	}
+}

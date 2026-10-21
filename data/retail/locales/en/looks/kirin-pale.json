@@ -1,0 +1,21 @@
+{
+	"name": "Red Vorquin",
+	"variant": "Red",
+	"npcs": {
+		"188277": {
+			"name": "Garden Herdmare"
+		},
+		"192036": {
+			"name": "Garden Herdmare"
+		},
+		"192639": {
+			"name": "Skittish Herdmare"
+		},
+		"193261": {
+			"name": "Kah'ra"
+		},
+		"198416": {
+			"name": "Tyrhold Broodmare"
+		}
+	}
+}

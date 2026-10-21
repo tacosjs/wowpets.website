@@ -1,0 +1,12 @@
+{
+	"name": "Blue Mole w/ Trefoil Nose, Incisors, Leg Spikes",
+	"variant": "Blue w/ Trefoil Nose, Incisors, Leg Spikes",
+	"npcs": {
+		"218211": {
+			"name": "Wicktor"
+		},
+		"219799": {
+			"name": "Sweetsnuffler"
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"name": "Indigo Eel-Serpent",
+	"variant": "Indigo",
+	"npcs": {
+		"152555": {
+			"name": "Elderspawn Nalaada"
+		},
+		"219606": {
+			"name": "Sunless Slitherer"
+		},
+		"220772": {
+			"name": "Sightless Wavecutter"
+		},
+		"220786": {
+			"name": "Wavecutter Eel"
+		},
+		"225520": {
+			"name": "Spined Slitherer"
+		},
+		"225525": {
+			"name": "Spined Bilespitter"
+		}
+	}
+}

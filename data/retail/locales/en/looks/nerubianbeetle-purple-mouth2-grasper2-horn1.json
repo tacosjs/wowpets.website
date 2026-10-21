@@ -1,0 +1,39 @@
+{
+	"name": "Lavender Stagshell w/ Large Mandibles, Large Graspers, Horn",
+	"variant": "Lavender w/ Large Mandibles, Large Graspers, Horn",
+	"npcs": {
+		"211480": {
+			"name": "Wagon Hauler"
+		},
+		"216051": {
+			"name": "Umbraclaw Matra"
+		},
+		"216144": {
+			"name": "Siege Hauler"
+		},
+		"218884": {
+			"name": "Shattershell Scarab"
+		},
+		"221327": {
+			"name": "Kaheti Silk Hauler"
+		},
+		"221939": {
+			"name": "Spinneret Silkbearer"
+		},
+		"222719": {
+			"name": "Battlefront Hauler"
+		},
+		"222789": {
+			"name": "Battlefront Hauler"
+		},
+		"225594": {
+			"name": "Rak-Ahat Silkhauler"
+		},
+		"226171": {
+			"name": "Horned Stagshell"
+		},
+		"226176": {
+			"name": "Horned Stagshell"
+		}
+	}
+}

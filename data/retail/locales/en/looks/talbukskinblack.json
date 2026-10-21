@@ -1,0 +1,9 @@
+{
+	"name": "Black Talbuk",
+	"variant": "Black",
+	"npcs": {
+		"20777": {
+			"name": "Talbuk Sire"
+		}
+	}
+}

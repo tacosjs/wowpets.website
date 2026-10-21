@@ -1,0 +1,97 @@
+{
+	"id": "automatonlion-silver",
+	"family": "mechanical",
+	"modelGroup": "phalynxes",
+	"npcs": [
+		{
+			"id": 160089,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "third-chamber-of-kalliope"
+				}
+			]
+		},
+		{
+			"id": 160426,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "the-eternal-forge"
+				}
+			]
+		},
+		{
+			"id": 159835,
+			"tameable": false,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "forgefire-outpost"
+				}
+			]
+		},
+		{
+			"id": 171300,
+			"tameable": false,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "greatwing-roost"
+				}
+			]
+		},
+		{
+			"id": 178359,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-maw",
+					"area": "cocyrus"
+				}
+			]
+		},
+		{
+			"id": 178354,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-maw",
+					"area": "cocyrus"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"name": "Red Lynx",
+	"variant": "Red",
+	"npcs": {
+		"15366": {
+			"name": "Springpaw Cub"
+		},
+		"15372": {
+			"name": "Springpaw Lynx"
+		},
+		"15651": {
+			"name": "Springpaw Stalker"
+		},
+		"22110": {
+			"name": "Tethik"
+		}
+	}
+}

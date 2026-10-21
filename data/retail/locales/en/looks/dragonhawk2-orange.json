@@ -1,0 +1,36 @@
+{
+	"name": "Greater Orange Dragonhawk",
+	"variant": "Orange",
+	"npcs": {
+		"231606": {
+			"name": "Emberdawn"
+		},
+		"238089": {
+			"name": "Territorial Dragonhawk"
+		},
+		"250995": {
+			"name": "Sunwing Dragonhawk"
+		},
+		"251460": {
+			"name": "Lightscale Dragonhawk"
+		},
+		"252171": {
+			"name": "Farstrider Dragonhawk"
+		},
+		"253950": {
+			"name": "Crimson Bloodfeather"
+		},
+		"253970": {
+			"name": "Crimson Bloodfeather"
+		},
+		"253985": {
+			"name": "Bloodfeather Dragonhawk"
+		},
+		"265480": {
+			"name": "Enraged Dragonhawk"
+		},
+		"271028": {
+			"name": "Enraged Dragonhawk"
+		}
+	}
+}

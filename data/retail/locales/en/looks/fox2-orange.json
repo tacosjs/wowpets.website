@@ -1,0 +1,21 @@
+{
+	"name": "Orange Vulpin",
+	"variant": "Orange",
+	"npcs": {
+		"160632": {
+			"name": "Vulpin Stalker"
+		},
+		"168464": {
+			"name": "Copperfur Prowler"
+		},
+		"168731": {
+			"name": "Copperfur Lurker"
+		},
+		"169390": {
+			"name": "Copperfur Vulpin"
+		},
+		"235021": {
+			"name": "Fox"
+		}
+	}
+}

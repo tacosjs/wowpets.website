@@ -1,0 +1,12 @@
+{
+	"name": "Glowing Blue Electric Eel",
+	"variant": "Glowing Blue Electric Eel",
+	"npcs": {
+		"41646": {
+			"name": "Crushing Eel"
+		},
+		"41927": {
+			"name": "Devious Great-Eel"
+		}
+	}
+}

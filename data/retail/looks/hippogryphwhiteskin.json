@@ -1,0 +1,38 @@
+{
+	"id": "hippogryphwhiteskin",
+	"family": "feathermane",
+	"modelGroup": "hippogryphs",
+	"npcs": [
+		{
+			"id": 6648,
+			"tameable": true,
+			"level": {
+				"min": 5,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "azshara"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 5347,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "feralas",
+					"area": "frayfeather-highlands"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

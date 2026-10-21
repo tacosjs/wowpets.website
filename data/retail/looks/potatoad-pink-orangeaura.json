@@ -1,0 +1,22 @@
+{
+	"id": "potatoad-pink-orangeaura",
+	"family": "hopper",
+	"modelGroup": "potatoads",
+	"npcs": [
+		{
+			"id": 252997,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "shrouded-grove"
+				}
+			]
+		}
+	]
+}

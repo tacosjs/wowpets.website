@@ -1,0 +1,25 @@
+{
+	"id": "bearice-grey",
+	"family": "bear",
+	"modelGroup": "icebears",
+	"npcs": [
+		{
+			"id": 193062,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-azure-span",
+					"area": "slyvern-plunge"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		194103
+	]
+}

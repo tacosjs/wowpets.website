@@ -1,0 +1,44 @@
+{
+	"id": "carapid",
+	"wowId": 292,
+	"icon": "achievement_dungeon_thesandqueen",
+	"spec": "tenacity",
+	"exotic": true,
+	"diet": [
+		"meat",
+		"raw-meat"
+	],
+	"abilities": {
+		"basic": "bite",
+		"family": [
+			"bulwark",
+			"calcified-carapace"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "voidcreepers"
+		},
+		{
+			"id": "rocksnails"
+		},
+		{
+			"id": "magmasnails"
+		},
+		{
+			"id": "helicids"
+		},
+		{
+			"id": "gorms"
+		},
+		{
+			"id": "krolusks"
+		},
+		{
+			"id": "greatergorms"
+		},
+		{
+			"id": "gormlings"
+		}
+	]
+}

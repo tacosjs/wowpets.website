@@ -1,0 +1,24 @@
+{
+	"name": "Crimson Skyfang",
+	"variant": "Crimson",
+	"npcs": {
+		"253695": {
+			"name": "Screaming Skyfang"
+		},
+		"254973": {
+			"name": "Vilescar Shrieker"
+		},
+		"264159": {
+			"name": "Pugnacious Harrier"
+		},
+		"264395": {
+			"name": "Miasma Belcher"
+		},
+		"264967": {
+			"name": "Venomous Skyfang"
+		},
+		"266194": {
+			"name": "Wind Serpent"
+		}
+	}
+}

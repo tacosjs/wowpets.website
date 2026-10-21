@@ -1,0 +1,49 @@
+{
+	"id": "silithidtankbossskin-different",
+	"family": "aqiri",
+	"modelGroup": "bosssilithids",
+	"npcs": [
+		{
+			"id": 38305,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ungoro-crater"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 15370,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "ruins-of-ahnqiraj",
+					"area": "the-hatchery"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 117491,
+			"tameable": false,
+			"level": {
+				"min": 48,
+				"max": 48
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "silithus",
+					"area": "hiveashi"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Green Animite",
+	"variant": "Green Animite",
+	"npcs": {
+		"165076": {
+			"name": "Gluttonous Tick"
+		},
+		"171062": {
+			"name": "Skittering Animite"
+		},
+		"171063": {
+			"name": "Animite Swarmer"
+		}
+	}
+}

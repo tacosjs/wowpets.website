@@ -1,0 +1,15 @@
+{
+	"name": "Silver-Blue Teroclaw",
+	"variant": "Silver-Blue",
+	"npcs": {
+		"169313": {
+			"name": "Silverwing Hunter"
+		},
+		"170386": {
+			"name": "Silverwing Matron"
+		},
+		"170932": {
+			"name": "Cloudfeather Guardian"
+		}
+	}
+}

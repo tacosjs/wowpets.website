@@ -1,0 +1,143 @@
+{
+	"id": "mothardenweald-dark",
+	"family": "moth",
+	"modelGroup": "ardenmoths",
+	"npcs": [
+		{
+			"id": 155483,
+			"tameable": true,
+			"level": {
+				"min": 51,
+				"max": 61
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "tower-of-the-damned",
+					"area": "torghast"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 166019,
+			"tameable": true,
+			"level": {
+				"min": 57,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald"
+				}
+			]
+		},
+		{
+			"id": 174248,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "the-distant-grotto"
+				}
+			]
+		},
+		{
+			"id": 169798,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald"
+				}
+			]
+		},
+		{
+			"id": 170526,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "eventide-grove"
+				}
+			]
+		},
+		{
+			"id": 174713,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "grove-of-awakening"
+				}
+			]
+		},
+		{
+			"id": 164862,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "de-other-side"
+				}
+			]
+		},
+		{
+			"id": 168085,
+			"tameable": false,
+			"level": {
+				"min": 54,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "heart-of-the-forest"
+				}
+			]
+		},
+		{
+			"id": 182343,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "dreamsong-fenn"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		170859
+	]
+}

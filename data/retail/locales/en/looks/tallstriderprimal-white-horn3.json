@@ -1,0 +1,9 @@
+{
+	"name": "Silver Hornstrider w/ Curled Horns",
+	"variant": "Silver",
+	"npcs": {
+		"191103": {
+			"name": "Uranto the Swift"
+		}
+	}
+}

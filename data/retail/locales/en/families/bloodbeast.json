@@ -1,0 +1,26 @@
+{
+	"name": "Blood Beast",
+	"modelGroups": {
+		"blistercreeps": {
+			"name": "Blistercreeps"
+		},
+		"swarmites": {
+			"name": "Swarmites"
+		},
+		"crawgs": {
+			"name": "Crawgs"
+		},
+		"bloodticks": {
+			"name": "Blood Ticks"
+		},
+		"classicswarmites": {
+			"name": "Classic Swarmites"
+		},
+		"animites": {
+			"name": "Animites"
+		},
+		"mutantanimites": {
+			"name": "Mutant Animites"
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Pink Moth",
+	"variant": "Pink",
+	"npcs": {
+		"77441": {
+			"name": "Dusky Teromoth"
+		},
+		"79595": {
+			"name": "Fluttering Teromoth"
+		},
+		"86757": {
+			"name": "Mistwing Harvester"
+		}
+	}
+}

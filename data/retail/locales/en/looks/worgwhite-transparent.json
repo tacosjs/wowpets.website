@@ -1,0 +1,12 @@
+{
+	"name": "Ghostly White Saber Worg",
+	"variant": "Ghostly White",
+	"npcs": {
+		"30219": {
+			"name": "Ethereal Frostworg"
+		},
+		"60131": {
+			"name": "Spirit Worg"
+		}
+	}
+}

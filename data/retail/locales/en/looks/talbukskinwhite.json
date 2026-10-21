@@ -1,0 +1,9 @@
+{
+	"name": "White Talbuk",
+	"variant": "White",
+	"npcs": {
+		"20610": {
+			"name": "Talbuk Doe"
+		}
+	}
+}

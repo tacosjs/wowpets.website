@@ -1,0 +1,61 @@
+{
+	"name": "Grey Yak",
+	"variant": "Grey",
+	"npcs": {
+		"57258": {
+			"name": "Field Yak"
+		},
+		"57709": {
+			"name": "Nourished Yak"
+		},
+		"57743": {
+			"name": "Nourished Yak"
+		},
+		"57853": {
+			"name": "Big Bertha"
+		},
+		"58908": {
+			"name": "Esrus"
+		},
+		"58909": {
+			"name": "Rim-Sim-Sim"
+		},
+		"59499": {
+			"name": "Nourished Yak"
+		},
+		"59523": {
+			"name": "Bataari Battleyak"
+		},
+		"60300": {
+			"name": "Caravan Yak"
+		},
+		"61635": {
+			"name": "Wild Townlong Yak"
+		},
+		"70416": {
+			"name": "Fishbreath",
+			"title": "Brother Shallowpond's Companion"
+		},
+		"72842": {
+			"name": "Ironfur Herdling"
+		},
+		"140435": {
+			"name": "Greyfur"
+		},
+		"140438": {
+			"name": "Old Longtooth"
+		},
+		"229269": {
+			"name": "Big Bertha"
+		},
+		"231866": {
+			"name": "Field Yak"
+		},
+		"231867": {
+			"name": "Big Bertha"
+		},
+		"248875": {
+			"name": "Field Yak"
+		}
+	}
+}

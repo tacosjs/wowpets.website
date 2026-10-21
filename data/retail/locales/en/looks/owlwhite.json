@@ -1,0 +1,30 @@
+{
+	"name": "White Owl",
+	"variant": "White",
+	"npcs": {
+		"7456": {
+			"name": "Winterspring Screecher"
+		},
+		"14283": {
+			"name": "Stormpike Owl"
+		},
+		"15520": {
+			"name": "O'Reily"
+		},
+		"22326": {
+			"name": "Redeemed Avian"
+		},
+		"22339": {
+			"name": "Redeemed Hatchling"
+		},
+		"42663": {
+			"name": "Hyjal Owl"
+		},
+		"56199": {
+			"name": "Lightwing Hunter"
+		},
+		"59774": {
+			"name": "Ivory Starling"
+		}
+	}
+}

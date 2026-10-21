@@ -1,0 +1,15 @@
+{
+	"name": "Red Aqir Flier",
+	"variant": "Red",
+	"npcs": {
+		"157256": {
+			"name": "Aqir Darter"
+		},
+		"162150": {
+			"name": "Corpse Swarmers"
+		},
+		"162305": {
+			"name": "Aqir Heartpiercer"
+		}
+	}
+}

@@ -24,5 +24,242 @@
 	"dune-strider": {
 		"name": "Trotteur des dunes",
 		"description": "Augmente la vitesse de déplacement de l’Aqir de 30%."
+	},
+	"petrifying-gaze": {
+		"name": "Regard pétrifiant"
+	},
+	"sonic-screech": {
+		"name": "Hurlement sonore"
+	},
+	"thick-fur": {
+		"name": "Fourrure épaisse"
+	},
+	"harden-carapace": {
+		"name": "Carapace endurcie"
+	},
+	"talon-rend": {
+		"name": "Serres coupantes"
+	},
+	"blood-bolt": {
+		"name": "Trait de sang"
+	},
+	"bristle": {
+		"name": "Hirsute"
+	},
+	"hardy": {
+		"name": "Robuste"
+	},
+	"bulwark": {
+		"name": "Barricade"
+	},
+	"calcified-carapace": {
+		"name": "Carapace calcifiée"
+	},
+	"bloody-screech": {
+		"name": "Hurlement sanguinaire"
+	},
+	"catlike-reflexes": {
+		"name": "Réflexes félins"
+	},
+	"prowl": {
+		"name": "Rôder"
+	},
+	"frost-breath": {
+		"name": "Souffle de givre"
+	},
+	"froststorm-breath": {
+		"name": "Souffle de tempête-de-givre"
+	},
+	"smack": {
+		"name": "Coup de patte"
+	},
+	"thick-hide": {
+		"name": "Peau épaisse"
+	},
+	"blood-of-the-rhino": {
+		"name": "Sang du rhinocéros"
+	},
+	"obsidian-skin": {
+		"name": "Peau d’obsidienne"
+	},
+	"molten-hide": {
+		"name": "Peau en fusion"
+	},
+	"fleethoof": {
+		"name": "Sabots agiles"
+	},
+	"pin": {
+		"name": "Clouer sur place"
+	},
+	"ankle-crack": {
+		"name": "Entorse de cheville"
+	},
+	"monstrous-bite": {
+		"name": "Morsure monstrueuse"
+	},
+	"feast": {
+		"name": "Dévorer"
+	},
+	"gore": {
+		"name": "Encorner"
+	},
+	"dragons-guile": {
+		"name": "Fourberie de dragon"
+	},
+	"feather-flurry": {
+		"name": "Rafale de plumes"
+	},
+	"updraft": {
+		"name": "Courant ascendant"
+	},
+	"agile-reflexes": {
+		"name": "Réflexes aiguisés"
+	},
+	"silverback": {
+		"name": "Dos-argenté"
+	},
+	"gruff": {
+		"name": "Gruff"
+	},
+	"swarm-of-flies": {
+		"name": "Essaim de moucherons"
+	},
+	"lock-jaw": {
+		"name": "Mâchoire impitoyable"
+	},
+	"acid-bite": {
+		"name": "Morsure acide"
+	},
+	"infected-bite": {
+		"name": "Morsure infectieuse"
+	},
+	"shimmering-scales": {
+		"name": "Écailles chatoyantes"
+	},
+	"grievous-bite": {
+		"name": "Grave morsure"
+	},
+	"trample": {
+		"name": "Piétiner"
+	},
+	"defense-matrix": {
+		"name": "Matrice de défense"
+	},
+	"primal-agility": {
+		"name": "Agilité primordiale"
+	},
+	"serenity-dust": {
+		"name": "Poussière de sérénité"
+	},
+	"niuzaos-fortitude": {
+		"name": "Robustesse de Niuzao"
+	},
+	"ancient-hide": {
+		"name": "Peau antique"
+	},
+	"savage-rend": {
+		"name": "Pourfendeur sauvage"
+	},
+	"ravage": {
+		"name": "Ravage"
+	},
+	"nether-energy": {
+		"name": "Énergie du Néant"
+	},
+	"gruesome-bite": {
+		"name": "Morsure atroce"
+	},
+	"gnaw": {
+		"name": "Ronger"
+	},
+	"scale-shield": {
+		"name": "Bouclier en écailles"
+	},
+	"deadly-sting": {
+		"name": "Piqûre mortelle"
+	},
+	"serpents-swiftness": {
+		"name": "Rapidité du serpent"
+	},
+	"solid-shell": {
+		"name": "Carapace solide"
+	},
+	"shimmering-shale": {
+		"name": "Schiste chatoyant"
+	},
+	"web-spray": {
+		"name": "Jet de toiles"
+	},
+	"spirit-pulse": {
+		"name": "Impulsion spirituelle"
+	},
+	"spirit-mend": {
+		"name": "Guérison spirituelle"
+	},
+	"spirit-walk": {
+		"name": "Marche de l'esprit"
+	},
+	"spore-cloud": {
+		"name": "Nuage de spores"
+	},
+	"natures-grace": {
+		"name": "Grâce de la nature"
+	},
+	"stone-armor": {
+		"name": "Armure de pierre"
+	},
+	"eternal-guardian": {
+		"name": "Gardien éternel"
+	},
+	"dust-cloud": {
+		"name": "Nuage de poussière"
+	},
+	"shell-shield": {
+		"name": "Carapace bouclier"
+	},
+	"warp-time": {
+		"name": "Distorsion temporelle"
+	},
+	"toxic-sting": {
+		"name": "Piqûre toxique"
+	},
+	"oiled-feathers": {
+		"name": "Plumes huileuses"
+	},
+	"soothing-waters": {
+		"name": "Eaux apaisantes"
+	},
+	"surface-trot": {
+		"name": "Trot à la surface"
+	},
+	"serrated-strike": {
+		"name": "Frappe dentelée"
+	},
+	"shadow-jump": {
+		"name": "Saut de l’ombre"
+	},
+	"winged-agility": {
+		"name": "Agilité ailée"
+	},
+	"acid-spit": {
+		"name": "Crachat acide"
+	},
+	"burrow-attack": {
+		"name": "Attaque fouisseuse"
+	},
+	"rest": {
+		"name": "Repos"
+	},
+	"trick": {
+		"name": "Tour"
+	},
+	"play": {
+		"name": "Jeu"
+	},
+	"rest-126364": {
+		"name": "Repos"
+	},
+	"trick-126259": {
+		"name": "Tour"
 	}
 }

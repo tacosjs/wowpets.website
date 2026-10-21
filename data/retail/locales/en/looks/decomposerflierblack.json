@@ -1,0 +1,29 @@
+{
+	"name": "Black Gorm Wasp",
+	"variant": "Black",
+	"npcs": {
+		"163616": {
+			"name": "Rootstinger Swarmling"
+		},
+		"166179": {
+			"name": "Darkwarren Ravager"
+		},
+		"168008": {
+			"name": "Rootstinger Warrior"
+		},
+		"170847": {
+			"name": "Dustwilt Needler"
+		},
+		"171367": {
+			"name": "Gorm Egg Tender"
+		},
+		"179385": {
+			"name": "Angry Needler",
+			"title": "Niya's Pet"
+		},
+		"179386": {
+			"name": "Angry Needler",
+			"title": "Niya's Pet"
+		}
+	}
+}

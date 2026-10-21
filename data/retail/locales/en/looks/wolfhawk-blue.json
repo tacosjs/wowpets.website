@@ -1,0 +1,9 @@
+{
+	"name": "Blue Wolfhawk",
+	"variant": "Blue",
+	"npcs": {
+		"121625": {
+			"name": "Kveldulfnir"
+		}
+	}
+}

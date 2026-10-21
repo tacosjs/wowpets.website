@@ -1,0 +1,18 @@
+{
+	"name": "Orange & Black Amani Eagle",
+	"variant": "Orange & Black",
+	"npcs": {
+		"236131": {
+			"name": "Endangered Eaglet"
+		},
+		"253173": {
+			"name": "Keen-eye Riptalon"
+		},
+		"258943": {
+			"name": "Highcliff Osprey"
+		},
+		"261666": {
+			"name": "Screeching Eagle"
+		}
+	}
+}

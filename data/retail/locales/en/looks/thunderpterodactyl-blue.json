@@ -1,0 +1,22 @@
+{
+	"name": "Blue Skyscreamer",
+	"variant": "Blue",
+	"npcs": {
+		"70020": {
+			"name": "Pterrorwing Skyscreamer"
+		},
+		"70021": {
+			"name": "Pterrorwing Skyscreamer"
+		},
+		"70141": {
+			"name": "Tamed Pterrorwing",
+			"title": "Ku'lai the Skyclaw's Guardian"
+		},
+		"70215": {
+			"name": "Hatchling Skyscreamer"
+		},
+		"73223": {
+			"name": "Pterrordax"
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"id": "chimera3purple",
+	"family": "chimaera",
+	"modelGroup": "rylaks",
+	"npcs": [
+		{
+			"id": 148787,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 52
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "darkshore"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"id": "komododragon-brown",
+	"family": "lizard",
+	"modelGroup": "saurolisks",
+	"npcs": [
+		{
+			"id": 127290,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "mistfall-cleft"
+				}
+			]
+		},
+		{
+			"id": 127776,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "voldun",
+					"area": "arid-basin"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 152001,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "mechagon",
+					"area": "sourback-hideout"
+				}
+			],
+			"keepsName": true
+		}
+	],
+	"alsoNpcs": [
+		126243,
+		129554,
+		127758
+	]
+}

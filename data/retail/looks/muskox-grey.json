@@ -1,0 +1,38 @@
+{
+	"id": "muskox-grey",
+	"family": "oxen",
+	"modelGroup": "musken",
+	"npcs": [
+		{
+			"id": 140455,
+			"tameable": false,
+			"level": {
+				"min": 9,
+				"max": 49
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		},
+		{
+			"id": 140457,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		193403
+	]
+}

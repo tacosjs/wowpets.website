@@ -1,0 +1,27 @@
+{
+	"id": "argustalbuk-white-horn2",
+	"family": "stag",
+	"modelGroup": "ruggedtalbuks",
+	"npcs": [
+		{
+			"id": 126952,
+			"tameable": true,
+			"level": {
+				"min": 45,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "eredath",
+					"area": "azurelight-square"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		121564,
+		126945,
+		124439
+	]
+}

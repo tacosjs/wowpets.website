@@ -1,0 +1,44 @@
+{
+	"id": "boar",
+	"wowId": 5,
+	"icon": "ability_hunter_pet_boar",
+	"spec": "cunning",
+	"exotic": false,
+	"diet": [
+		"bread",
+		"cheese",
+		"fish",
+		"fruit",
+		"fungus",
+		"meat"
+	],
+	"abilities": {
+		"basic": "bite",
+		"family": [
+			"bristle"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "boars"
+		},
+		{
+			"id": "skullboars"
+		},
+		{
+			"id": "pigs"
+		},
+		{
+			"id": "draenorboars"
+		},
+		{
+			"id": "draenorarmoredboars"
+		},
+		{
+			"id": "felboars"
+		},
+		{
+			"id": "classicboars"
+		}
+	]
+}

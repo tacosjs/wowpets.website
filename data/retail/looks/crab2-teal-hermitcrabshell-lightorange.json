@@ -1,0 +1,32 @@
+{
+	"id": "crab2-teal-hermitcrabshell-lightorange",
+	"family": "crab",
+	"modelGroup": "hermitcrabs",
+	"npcs": [
+		{
+			"id": 211045,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		192123,
+		193605,
+		197954,
+		198783,
+		199776,
+		210382,
+		200949,
+		217122,
+		250061
+	]
+}

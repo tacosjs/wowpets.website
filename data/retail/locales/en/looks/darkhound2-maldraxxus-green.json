@@ -1,0 +1,21 @@
+{
+	"name": "Stitched Green Darkhound",
+	"variant": "Stitched Green",
+	"npcs": {
+		"165349": {
+			"name": "Animated Corpsehound"
+		},
+		"169825": {
+			"name": "Warstitched Hound"
+		},
+		"172628": {
+			"name": "Recomposed Seeker"
+		},
+		"177130": {
+			"name": "Starving Corpsehound"
+		},
+		"180220": {
+			"name": "Anima-Starved Corpsehound"
+		}
+	}
+}

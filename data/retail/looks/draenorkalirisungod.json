@@ -1,0 +1,121 @@
+{
+	"id": "draenorkalirisungod",
+	"family": "birdofprey",
+	"modelGroup": "draenorkaliri",
+	"npcs": [
+		{
+			"id": 207096,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "the-smoldering-copse"
+				}
+			]
+		},
+		{
+			"id": 209098,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dragon-isles",
+					"area": "active-dreamsurge-portal-location"
+				}
+			]
+		},
+		{
+			"id": 210305,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "wakeful-vista"
+				}
+			]
+		},
+		{
+			"id": 207335,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dragon-isles",
+					"area": "active-dreamsurge-zone"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 207334,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dragon-isles",
+					"area": "active-dreamsurge-zone"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 209131,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "dragon-isles",
+					"area": "active-dreamsurge-portal-location"
+				}
+			]
+		},
+		{
+			"id": 210298,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream"
+				}
+			]
+		}
+	]
+}

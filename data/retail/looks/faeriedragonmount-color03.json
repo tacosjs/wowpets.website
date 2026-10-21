@@ -1,0 +1,22 @@
+{
+	"id": "faeriedragonmount-color03",
+	"family": "lesserdragonkin",
+	"modelGroup": "feywings",
+	"npcs": [
+		{
+			"id": 88786,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "gorgrond",
+					"area": "highpass"
+				}
+			]
+		}
+	]
+}

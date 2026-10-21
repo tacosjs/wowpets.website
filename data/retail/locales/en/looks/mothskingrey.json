@@ -1,0 +1,15 @@
+{
+	"name": "Grey Moth",
+	"variant": "Grey",
+	"npcs": {
+		"16520": {
+			"name": "Vale Moth"
+		},
+		"56172": {
+			"name": "Ash Moth"
+		},
+		"66319": {
+			"name": "Fear-Touched Moth"
+		}
+	}
+}

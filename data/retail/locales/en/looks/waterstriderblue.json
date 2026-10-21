@@ -1,0 +1,33 @@
+{
+	"name": "Blue-Black Water Strider",
+	"variant": "Blue-Black",
+	"npcs": {
+		"66898": {
+			"name": "Stream Strider"
+		},
+		"106309": {
+			"name": "Sylvan Strider"
+		},
+		"207626": {
+			"name": "Iridescent Waterskimmer"
+		},
+		"210282": {
+			"name": "Shoal Skimmer"
+		},
+		"210795": {
+			"name": "Fens Shimmerstrider"
+		},
+		"216772": {
+			"name": "Glittering Gloamglider"
+		},
+		"237694": {
+			"name": "Water Strider"
+		},
+		"250167": {
+			"name": "Skimmer Nymet"
+		},
+		"256368": {
+			"name": "Valeskimmer"
+		}
+	}
+}

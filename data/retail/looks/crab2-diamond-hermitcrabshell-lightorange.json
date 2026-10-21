@@ -1,0 +1,38 @@
+{
+	"id": "crab2-diamond-hermitcrabshell-lightorange",
+	"family": "crab",
+	"modelGroup": "hermitcrabs",
+	"npcs": [
+		{
+			"id": 152448,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "nazjatar",
+					"area": "coral-forest-dragons-teeth-basin"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 219278,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "isle-of-dorn",
+					"area": "the-three-shields"
+				}
+			]
+		}
+	]
+}

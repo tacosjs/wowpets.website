@@ -1,0 +1,45 @@
+{
+	"id": "viperrock2-green",
+	"family": "serpent",
+	"modelGroup": "rockcobras",
+	"npcs": [
+		{
+			"id": 218772,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn"
+				}
+			]
+		},
+		{
+			"id": 226636,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "isle-of-dorn"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		204839,
+		204837,
+		203783,
+		203053,
+		222019,
+		219397,
+		203223,
+		204158
+	]
+}

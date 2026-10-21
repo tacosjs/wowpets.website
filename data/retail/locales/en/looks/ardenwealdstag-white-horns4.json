@@ -1,0 +1,15 @@
+{
+	"name": "Grey & Brown Runestag w/ Webbed Horns",
+	"variant": "Grey & Brown w/ Webbed Horns",
+	"npcs": {
+		"164873": {
+			"name": "Runestag Elderhorn"
+		},
+		"166735": {
+			"name": "Deranged Guardian"
+		},
+		"172067": {
+			"name": "Terrified Guardian"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Orange Plated Chimaera",
+	"variant": "Orange",
+	"npcs": {
+		"21033": {
+			"name": "Bladewing Bloodletter"
+		}
+	}
+}

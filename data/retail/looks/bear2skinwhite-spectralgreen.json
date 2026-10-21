@@ -1,0 +1,22 @@
+{
+	"id": "bear2skinwhite-spectralgreen",
+	"family": "bear",
+	"modelGroup": "bears",
+	"npcs": [
+		{
+			"id": 239370,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "loaknit-den"
+				}
+			]
+		}
+	]
+}

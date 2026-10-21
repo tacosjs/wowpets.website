@@ -1,0 +1,24 @@
+{
+	"name": "Ancient Fire Turtle",
+	"variant": "On Fire",
+	"npcs": {
+		"38855": {
+			"name": "Volcanoth"
+		},
+		"41614": {
+			"name": "Nemesis"
+		},
+		"50058": {
+			"name": "Terrorpene"
+		},
+		"53094": {
+			"name": "Patriarch Fire Turtle"
+		},
+		"53095": {
+			"name": "Matriarch Fire Turtle"
+		},
+		"53096": {
+			"name": "Fire Turtle Hatchling"
+		}
+	}
+}

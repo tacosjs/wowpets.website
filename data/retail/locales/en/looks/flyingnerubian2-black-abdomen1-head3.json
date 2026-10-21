@@ -1,0 +1,39 @@
+{
+	"name": "Black Swarmite w/ Fangs & Short Tail",
+	"variant": "Black w/ Fangs & Short Tail",
+	"npcs": {
+		"212292": {
+			"name": "Nerubian Swarmite"
+		},
+		"213398": {
+			"name": "Kaheti Swarmer"
+		},
+		"215412": {
+			"name": "Sureki Leaper"
+		},
+		"215990": {
+			"name": "Frenzied Siege-Swarmer"
+		},
+		"216197": {
+			"name": "Nerubian Swarmer"
+		},
+		"217644": {
+			"name": "Chittering Feaster"
+		},
+		"219653": {
+			"name": "Pestilent Drone"
+		},
+		"220708": {
+			"name": "Summoned Swarmite"
+		},
+		"221301": {
+			"name": "Direweb Drone"
+		},
+		"224844": {
+			"name": "Shadowsilk Wallclimber"
+		},
+		"226101": {
+			"name": "Confused Swarmite"
+		}
+	}
+}

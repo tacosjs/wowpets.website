@@ -1,0 +1,24 @@
+{
+	"name": "Black Jormungar",
+	"variant": "Black",
+	"npcs": {
+		"26360": {
+			"name": "Rattlebore"
+		},
+		"98038": {
+			"name": "Fledgling Rockcrawler"
+		},
+		"102230": {
+			"name": "Infectious Worm"
+		},
+		"140994": {
+			"name": "Darktunnel Worm"
+		},
+		"190467": {
+			"name": "Vorgan the Mangler"
+		},
+		"215733": {
+			"name": "Deeps Larva"
+		}
+	}
+}

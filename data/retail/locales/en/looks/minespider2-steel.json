@@ -1,0 +1,52 @@
+{
+	"name": "Black Widow Spider",
+	"variant": "Black Widow",
+	"npcs": {
+		"43": {
+			"name": "Mine Spider"
+		},
+		"930": {
+			"name": "Black Widow Hatchling"
+		},
+		"1505": {
+			"name": "Night Web Spider"
+		},
+		"1555": {
+			"name": "Vicious Night Web Spider"
+		},
+		"1688": {
+			"name": "Night Web Matriarch"
+		},
+		"10359": {
+			"name": "Sri'skulk"
+		},
+		"12433": {
+			"name": "Krethis the Shadowspinner"
+		},
+		"23958": {
+			"name": "Riven Widow"
+		},
+		"37045": {
+			"name": "Rygna",
+			"title": "Vilebrood Matriarch"
+		},
+		"45582": {
+			"name": "Black Widow"
+		},
+		"47117": {
+			"name": "Recluse Hatchling"
+		},
+		"86547": {
+			"name": "Venom Sprayer"
+		},
+		"134911": {
+			"name": "Darkhollow Widow"
+		},
+		"137025": {
+			"name": "Broodmother"
+		},
+		"155064": {
+			"name": "Hivetrap Broodqueen"
+		}
+	}
+}

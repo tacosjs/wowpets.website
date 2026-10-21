@@ -1,0 +1,13 @@
+{
+	"name": "Platinum Elekk",
+	"variant": "Platinum",
+	"npcs": {
+		"18290": {
+			"name": "Tusker",
+			"title": "Queen of the Elekk"
+		},
+		"213149": {
+			"name": "Great White Elekk"
+		}
+	}
+}

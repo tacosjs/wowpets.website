@@ -1,0 +1,18 @@
+{
+	"name": "Red Draenor Ravager",
+	"variant": "Red",
+	"npcs": {
+		"78856": {
+			"name": "Bloodthorn Ravager"
+		},
+		"78857": {
+			"name": "Bloodthorn Striker"
+		},
+		"88578": {
+			"name": "Crimsonbarb Ravager"
+		},
+		"90266": {
+			"name": "Brightscale Ravager"
+		}
+	}
+}

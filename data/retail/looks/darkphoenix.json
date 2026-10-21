@@ -1,0 +1,27 @@
+{
+	"id": "darkphoenix",
+	"family": "birdofprey",
+	"modelGroup": "mysticalphoenixes",
+	"npcs": [
+		{
+			"id": 43927,
+			"tameable": false,
+			"level": {
+				"min": 32,
+				"max": 37
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "lost-city-of-the-tolvir",
+					"area": "terrace-of-the-augurs"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

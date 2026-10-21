@@ -1,0 +1,18 @@
+{
+	"name": "Blue Bruffalon w/ Small Antlers & Shorter Nose Horn",
+	"variant": "Blue",
+	"npcs": {
+		"190322": {
+			"name": "Highhorn Bull"
+		},
+		"192885": {
+			"name": "Snowhorn Bruffalon"
+		},
+		"194962": {
+			"name": "Moose Bull"
+		},
+		"212484": {
+			"name": "Brushwalker Bruffalon"
+		}
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"name": "Armoured Red Cervid w/ Long Swept Horns",
+	"variant": "Red",
+	"npcs": {
+		"183596": {
+			"name": "Chitali the Eldest",
+			"title": "Cervid Prime"
+		}
+	}
+}

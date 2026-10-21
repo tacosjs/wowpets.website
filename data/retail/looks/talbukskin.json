@@ -1,0 +1,22 @@
+{
+	"id": "talbukskin",
+	"family": "stag",
+	"modelGroup": "talbuks",
+	"npcs": [
+		{
+			"id": 18258,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 30
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nagrand-outland"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

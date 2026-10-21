@@ -1,0 +1,22 @@
+{
+	"id": "tallstriderprimal-pink-horn2",
+	"family": "tallstrider",
+	"modelGroup": "hornstriders",
+	"npcs": [
+		{
+			"id": 195895,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"id": "giantdragonturtle2-green",
+	"family": "turtle",
+	"modelGroup": "stonedragonturtles",
+	"npcs": [
+		{
+			"id": 168434,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "bastion"
+				}
+			]
+		},
+		{
+			"id": 160629,
+			"tameable": false,
+			"level": {
+				"min": 51,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "firstbornes-bounty"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		207285
+	]
+}

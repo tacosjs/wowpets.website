@@ -1,0 +1,10 @@
+{
+	"name": "Blue Kunchong w/ Black Wings",
+	"variant": "Blue w/ Black Wings",
+	"npcs": {
+		"64724": {
+			"name": "Karanosh",
+			"title": "Kunchong Matriarch"
+		}
+	}
+}

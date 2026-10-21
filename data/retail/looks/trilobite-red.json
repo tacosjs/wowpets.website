@@ -1,0 +1,27 @@
+{
+	"id": "trilobite-red",
+	"family": "carapid",
+	"modelGroup": "krolusks",
+	"npcs": [
+		{
+			"id": 134686,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "temple-of-sethraliss"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		140034,
+		136548,
+		223056,
+		223074
+	]
+}

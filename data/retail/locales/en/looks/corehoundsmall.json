@@ -1,0 +1,34 @@
+{
+	"name": "Orange Blaze Hound",
+	"variant": "Orange",
+	"npcs": {
+		"144159": {
+			"name": "Dark Iron Core Hound"
+		},
+		"199823": {
+			"name": "Smoldering Hound"
+		},
+		"200450": {
+			"name": "Smoldering Hound"
+		},
+		"201906": {
+			"name": "Igniting Pup"
+		},
+		"202279": {
+			"name": "Wild Blaze Hound"
+		},
+		"202770": {
+			"name": "Crackling Hound"
+		},
+		"204377": {
+			"name": "Blaze Hound Pup"
+		},
+		"204378": {
+			"name": "Blaze Hound Matron"
+		},
+		"205045": {
+			"name": "Smoldering Hound",
+			"title": "Zaqali Blazestalker's Pet"
+		}
+	}
+}

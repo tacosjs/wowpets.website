@@ -1,0 +1,48 @@
+{
+	"id": "gianteagle2-red",
+	"family": "birdofprey",
+	"modelGroup": "amanieagles",
+	"npcs": [
+		{
+			"id": 244763,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "temple-of-halazzi"
+				}
+			]
+		},
+		{
+			"id": 245619,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zulaman",
+					"area": "akilzons-reach"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		243679,
+		254628,
+		254629,
+		255042,
+		254646,
+		255490,
+		241426,
+		256902,
+		257388
+	]
+}

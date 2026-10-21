@@ -1,0 +1,37 @@
+{
+	"name": "Red Crab",
+	"variant": "Red",
+	"npcs": {
+		"123814": {
+			"name": "Clampclaw Clacker"
+		},
+		"126422": {
+			"name": "Coralback Scuttler"
+		},
+		"130042": {
+			"name": "Stoneclaw Crab"
+		},
+		"137885": {
+			"name": "Ravenous Crab"
+		},
+		"138242": {
+			"name": "Armored Claw"
+		},
+		"138939": {
+			"name": "Scrapscuttler"
+		},
+		"147744": {
+			"name": "Amberclaw",
+			"title": "Glrglrr's Mount"
+		},
+		"197079": {
+			"name": "Steamed Crab"
+		},
+		"248460": {
+			"name": "Juvenile Crawler"
+		},
+		"252221": {
+			"name": "King Crab"
+		}
+	}
+}

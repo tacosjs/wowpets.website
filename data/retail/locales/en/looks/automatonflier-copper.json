@@ -1,0 +1,15 @@
+{
+	"name": "Copper Aquilon",
+	"variant": "Copper",
+	"npcs": {
+		"178937": {
+			"name": "Prototype Aquilon"
+		},
+		"178938": {
+			"name": "Prototype Aquilon"
+		},
+		"181213": {
+			"name": "Depleted Aquilon"
+		}
+	}
+}

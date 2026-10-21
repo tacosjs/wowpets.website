@@ -1,0 +1,15 @@
+{
+	"name": "Black Cloud Serpent w/ Gold Sheen",
+	"variant": "Black w/ Gold Sheen",
+	"npcs": {
+		"62586": {
+			"name": "Shan'ze Cloudrunner"
+		},
+		"63895": {
+			"name": "Shan'ze Cloudrider"
+		},
+		"138971": {
+			"name": "Zian-Ti Serpent"
+		}
+	}
+}

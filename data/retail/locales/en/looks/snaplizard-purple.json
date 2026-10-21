@@ -1,0 +1,12 @@
+{
+	"name": "Purple Amazard",
+	"variant": "Purple",
+	"npcs": {
+		"236169": {
+			"name": "Cinderscale Amazard"
+		},
+		"257523": {
+			"name": "Stonemaw Amazard"
+		}
+	}
+}

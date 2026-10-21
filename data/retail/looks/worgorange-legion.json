@@ -1,0 +1,26 @@
+{
+	"id": "worgorange-legion",
+	"family": "wolf",
+	"modelGroup": "direworgs",
+	"npcs": [
+		{
+			"id": 111206,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 45
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormheim"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		152998,
+		218401,
+		169162
+	]
+}

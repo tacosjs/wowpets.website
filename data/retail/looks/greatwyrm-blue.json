@@ -1,0 +1,37 @@
+{
+	"id": "greatwyrm-blue",
+	"family": "serpent",
+	"modelGroup": "greatmanawyrms",
+	"npcs": [
+		{
+			"id": 203734,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-forbidden-reach",
+					"area": "the-war-creche"
+				}
+			]
+		},
+		{
+			"id": 204649,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "warders-teeth"
+				}
+			]
+		}
+	]
+}

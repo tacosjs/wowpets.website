@@ -1,0 +1,12 @@
+{
+	"name": "White Raven",
+	"variant": "White",
+	"npcs": {
+		"130138": {
+			"name": "Nevermore"
+		},
+		"197786": {
+			"name": "Subject Eleven"
+		}
+	}
+}

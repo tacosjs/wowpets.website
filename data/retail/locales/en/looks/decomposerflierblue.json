@@ -1,0 +1,21 @@
+{
+	"name": "Blue Gorm Wasp",
+	"variant": "Blue",
+	"npcs": {
+		"163322": {
+			"name": "Rootstinger Warbug"
+		},
+		"163660": {
+			"name": "Rootstinger Warrior"
+		},
+		"165427": {
+			"name": "Gorm Harrier"
+		},
+		"166499": {
+			"name": "Dustwilt Reaper"
+		},
+		"171328": {
+			"name": "Gorm Egg Tender"
+		}
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"name": "Brown Cataclysm Crocolisk",
+	"variant": "Brown",
+	"npcs": {
+		"44260": {
+			"name": "Venomfang Crocolisk",
+			"title": "Oathsworn Wanderer's Pet"
+		},
+		"45321": {
+			"name": "Riverbed Crocolisk"
+		},
+		"50964": {
+			"name": "Chops"
+		},
+		"51675": {
+			"name": "Oasis Crocolisk"
+		},
+		"56183": {
+			"name": "Engorged Crocolisk"
+		},
+		"62023": {
+			"name": "Coldbite Crocolisk"
+		},
+		"120588": {
+			"name": "Rivermarsh Snapjaw"
+		},
+		"123654": {
+			"name": "Juvenile Snapjaw"
+		},
+		"123655": {
+			"name": "Matriarch Snapjaw"
+		},
+		"135043": {
+			"name": "Vicious Vicejaw"
+		},
+		"135046": {
+			"name": "Crawmog"
+		},
+		"162334": {
+			"name": "Riverbed Crocolisk"
+		},
+		"162335": {
+			"name": "Oasis Crocolisk"
+		},
+		"179588": {
+			"name": "Azsharan Crocolisk"
+		},
+		"244873": {
+			"name": "Tamed Amani Crocolisk"
+		}
+	}
+}

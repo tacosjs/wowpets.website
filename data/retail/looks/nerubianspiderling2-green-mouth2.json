@@ -1,0 +1,27 @@
+{
+	"id": "nerubianspiderling2-green-mouth2",
+	"family": "spider",
+	"modelGroup": "threadlings",
+	"npcs": [
+		{
+			"id": 225216,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "pillar-nest-noth"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		218725,
+		223067,
+		223076
+	]
+}

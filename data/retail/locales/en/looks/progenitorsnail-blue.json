@@ -1,0 +1,12 @@
+{
+	"name": "White & Gold Proto Helicid",
+	"variant": "White & Gold",
+	"npcs": {
+		"181558": {
+			"name": "Coreless Helicid"
+		},
+		"181559": {
+			"name": "Resonant Helicid"
+		}
+	}
+}

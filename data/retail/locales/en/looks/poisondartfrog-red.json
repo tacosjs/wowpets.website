@@ -1,0 +1,25 @@
+{
+	"name": "Red & Indigo Dire Toad",
+	"variant": "Red & Indigo",
+	"npcs": {
+		"242032": {
+			"name": "Oophaga",
+			"title": "The Egg Eater"
+		},
+		"247011": {
+			"name": "Horned Frog"
+		},
+		"250826": {
+			"name": "Banuran"
+		},
+		"254533": {
+			"name": "Giant Cursed Bullfrog"
+		},
+		"257155": {
+			"name": "Abasi Croaker"
+		},
+		"268662": {
+			"name": "Kupamanduka"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Dark Red Tauralus",
+	"variant": "Dark Red",
+	"npcs": {
+		"174396": {
+			"name": "Captive Tauralus"
+		}
+	}
+}

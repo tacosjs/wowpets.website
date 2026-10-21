@@ -1,0 +1,23 @@
+{
+	"id": "mothunderlight-pink-teal-sparkles",
+	"family": "moth",
+	"modelGroup": "dustmoths",
+	"npcs": [
+		{
+			"id": 203593,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "rare-elite",
+			"locations": [
+				{
+					"zone": "zaralek-cavern",
+					"area": "the-crystal-fields"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

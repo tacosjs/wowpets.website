@@ -1,0 +1,27 @@
+{
+	"name": "Mossy Dark Grey & Gold Bufonid",
+	"variant": "Dark Grey & Gold",
+	"npcs": {
+		"181294": {
+			"name": "Runegorged Bufonid"
+		},
+		"184395": {
+			"name": "Toadius"
+		},
+		"184594": {
+			"name": "Curious Bufonid"
+		},
+		"184603": {
+			"name": "Ancient Bufonid"
+		},
+		"184604": {
+			"name": "Overeager Bufonid"
+		},
+		"185312": {
+			"name": "Ancient Hopper"
+		},
+		"185488": {
+			"name": "Languid Bufonid"
+		}
+	}
+}

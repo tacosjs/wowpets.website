@@ -1,0 +1,42 @@
+{
+	"id": "thunderlizardprimal-brown-horn1-plates1-tail1",
+	"family": "scalehide",
+	"modelGroup": "primalthunderlizards",
+	"npcs": [
+		{
+			"id": 195716,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains"
+				}
+			]
+		},
+		{
+			"id": 190009,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ohnahran-plains",
+					"area": "kaighan-camp"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		191827,
+		192941,
+		193859,
+		193307
+	]
+}

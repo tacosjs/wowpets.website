@@ -1,0 +1,36 @@
+{
+	"id": "thunderisleyoungbirdgold",
+	"family": "carrionbird",
+	"modelGroup": "flightlessteroclaws",
+	"npcs": [
+		{
+			"id": 169179,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion"
+				}
+			]
+		},
+		{
+			"id": 159289,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "greatwing-roost"
+				}
+			]
+		}
+	]
+}

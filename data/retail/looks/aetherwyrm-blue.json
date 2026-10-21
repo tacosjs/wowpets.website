@@ -1,0 +1,82 @@
+{
+	"id": "aetherwyrm-blue",
+	"family": "windserpent",
+	"modelGroup": "etherwyrms",
+	"npcs": [
+		{
+			"id": 158771,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "aspirants-crucible"
+				}
+			],
+			"keepsName": true,
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 165055,
+			"tameable": true,
+			"level": {
+				"min": 51,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "firstbornes-bounty"
+				}
+			]
+		},
+		{
+			"id": 163568,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "bastion",
+					"area": "garden-of-edenia"
+				}
+			]
+		},
+		{
+			"id": 169675,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 60
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "bastion"
+				}
+			]
+		},
+		{
+			"id": 163077,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "spires-of-ascension"
+				}
+			]
+		}
+	]
+}

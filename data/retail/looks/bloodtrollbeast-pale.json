@@ -1,0 +1,150 @@
+{
+	"id": "bloodtrollbeast-pale",
+	"family": "bloodbeast",
+	"modelGroup": "crawgs",
+	"npcs": [
+		{
+			"id": 127060,
+			"tameable": true,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "zalamar"
+				}
+			]
+		},
+		{
+			"id": 134433,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "zuldazar",
+					"area": "blood-gate"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		},
+		{
+			"id": 131817,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "the-underrot"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 141935,
+			"tameable": true,
+			"level": {
+				"min": 52,
+				"max": 52
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "uldir"
+				}
+			]
+		},
+		{
+			"id": 128910,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "zalamak"
+				}
+			]
+		},
+		{
+			"id": 143579,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "nazmir",
+					"area": "grimwatts-crash"
+				}
+			]
+		},
+		{
+			"id": 206066,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "dawn-of-the-infinites"
+				}
+			]
+		},
+		{
+			"id": 234207,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "excavation-site-9"
+				}
+			]
+		},
+		{
+			"id": 250917,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-gulf-of-memory"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		136796,
+		132030,
+		128780,
+		138812,
+		127176,
+		133173,
+		138491,
+		140149,
+		135047
+	]
+}

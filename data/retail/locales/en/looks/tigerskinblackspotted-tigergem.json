@@ -1,0 +1,12 @@
+{
+	"name": "Spotted Black Mystic Cat",
+	"variant": "Spotted Black",
+	"npcs": {
+		"28404": {
+			"name": "Cursed Offspring of Har'koa"
+		},
+		"34035": {
+			"name": "Feral Defender"
+		}
+	}
+}

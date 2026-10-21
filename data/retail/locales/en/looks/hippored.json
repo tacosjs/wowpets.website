@@ -1,0 +1,36 @@
+{
+	"name": "Red-Brown Riverbeast",
+	"variant": "Red-Brown",
+	"npcs": {
+		"77431": {
+			"name": "Hilaani"
+		},
+		"79587": {
+			"name": "Massive Riverwallow"
+		},
+		"82439": {
+			"name": "Riverbeast"
+		},
+		"82905": {
+			"name": "Lazymaw Riverbeast"
+		},
+		"85743": {
+			"name": "Highlands Riverbeast"
+		},
+		"85762": {
+			"name": "Highlands Calfling"
+		},
+		"85906": {
+			"name": "Riverbeast Whelp"
+		},
+		"85907": {
+			"name": "Berthora"
+		},
+		"87021": {
+			"name": "Wetland Trampler"
+		},
+		"88586": {
+			"name": "Mogamago"
+		}
+	}
+}

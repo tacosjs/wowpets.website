@@ -1,0 +1,15 @@
+{
+	"id": "bloodtickorange",
+	"family": "bloodbeast",
+	"modelGroup": "bloodticks",
+	"npcs": [],
+	"alsoNpcs": [
+		126749,
+		134057,
+		257466,
+		248943,
+		243738,
+		250634,
+		238476
+	]
+}

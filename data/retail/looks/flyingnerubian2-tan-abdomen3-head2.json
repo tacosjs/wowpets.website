@@ -1,0 +1,35 @@
+{
+	"id": "flyingnerubian2-tan-abdomen3-head2",
+	"family": "bloodbeast",
+	"modelGroup": "swarmites",
+	"npcs": [
+		{
+			"id": 216300,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "azj-kahet",
+					"area": "pillar-nest-vosh"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		220399,
+		219654,
+		212425,
+		223117,
+		224663,
+		211742,
+		222722,
+		219655,
+		227143,
+		227239,
+		227214
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"id": "giantbeast-black",
+	"family": "oxen",
+	"modelGroup": "tauralus",
+	"npcs": [
+		{
+			"id": 162477,
+			"tameable": true,
+			"level": {
+				"min": 53,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "theater-of-pain-the-stabbing-wastes"
+				}
+			]
+		},
+		{
+			"id": 162586,
+			"tameable": true,
+			"level": {
+				"min": 53,
+				"max": 60
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "maldraxxus",
+					"area": "the-stabbing-wastes"
+				}
+			],
+			"keepsName": true
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Purple Panthara w/ Gold Glow",
+	"variant": "Purple Panthara w/ Gold Glow",
+	"npcs": {
+		"122010": {
+			"name": "Panthara Shadowfang"
+		}
+	}
+}

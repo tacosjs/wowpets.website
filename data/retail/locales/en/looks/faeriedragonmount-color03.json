@@ -1,0 +1,9 @@
+{
+	"name": "Gold Feywing",
+	"variant": "Gold Feywing",
+	"npcs": {
+		"88786": {
+			"name": "Enchanted Feywing"
+		}
+	}
+}

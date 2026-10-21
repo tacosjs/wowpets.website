@@ -1,0 +1,28 @@
+{
+	"id": "berserkerbosstoxic",
+	"family": "scalehide",
+	"modelGroup": "toxicultradons",
+	"npcs": [
+		{
+			"id": 239008,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "voidscar-arena"
+				}
+			]
+		},
+		{
+			"id": 248014,
+			"tameable": false,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "voidstorm",
+					"area": "voidscar-arena-voidstorm"
+				}
+			]
+		}
+	]
+}

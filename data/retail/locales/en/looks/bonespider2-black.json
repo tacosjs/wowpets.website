@@ -1,0 +1,56 @@
+{
+	"name": "Dark Brown Bone Spider",
+	"variant": "Dark Brown",
+	"npcs": {
+		"42337": {
+			"name": "Tainted Nightstalker"
+		},
+		"50759": {
+			"name": "Iriss the Widow"
+		},
+		"50778": {
+			"name": "Ironweb"
+		},
+		"58474": {
+			"name": "Bloodtip",
+			"title": "Ashweb Matriarch"
+		},
+		"64762": {
+			"name": "Bloodtip Swarmer",
+			"title": "Bloodtip's Minion"
+		},
+		"74583": {
+			"name": "Festering Spiderling"
+		},
+		"77634": {
+			"name": "Taladorantula"
+		},
+		"86507": {
+			"name": "Taladorette"
+		},
+		"112411": {
+			"name": "Psillych"
+		},
+		"112412": {
+			"name": "Psillych Spiderling"
+		},
+		"129496": {
+			"name": "Sandspinner Weaver"
+		},
+		"132318": {
+			"name": "Bilefang Skitterer"
+		},
+		"134893": {
+			"name": "Ironweb Spider"
+		},
+		"134895": {
+			"name": "Ironweb Weaver"
+		},
+		"139521": {
+			"name": "Sandspinner Weaver"
+		},
+		"263653": {
+			"name": "Mortuary Creeper"
+		}
+	}
+}

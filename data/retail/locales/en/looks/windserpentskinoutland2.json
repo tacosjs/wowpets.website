@@ -1,0 +1,9 @@
+{
+	"name": "Yellow Spiked Wind Serpent",
+	"variant": "Yellow",
+	"npcs": {
+		"50792": {
+			"name": "Chiaa"
+		}
+	}
+}

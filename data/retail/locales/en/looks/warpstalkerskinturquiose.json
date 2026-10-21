@@ -1,0 +1,15 @@
+{
+	"name": "Turquoise Warp Stalker",
+	"variant": "Turquoise",
+	"npcs": {
+		"18884": {
+			"name": "Warp Chaser"
+		},
+		"77564": {
+			"name": "Viperlash"
+		},
+		"234780": {
+			"name": "K'aresh Stalkling"
+		}
+	}
+}

@@ -1,0 +1,74 @@
+{
+	"id": "mammoth2lava-orange-tusk4-horn1",
+	"family": "mammoth",
+	"modelGroup": "magmammoths",
+	"npcs": [
+		{
+			"id": 191903,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "scalecracker-keep"
+				}
+			]
+		},
+		{
+			"id": 191679,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "burning-ascent"
+				},
+				{
+					"zone": "the-waking-shores",
+					"area": "emberflow"
+				}
+			]
+		},
+		{
+			"id": 181875,
+			"tameable": false,
+			"level": {
+				"min": 60,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-waking-shores",
+					"area": "burning-ascent"
+				}
+			]
+		},
+		{
+			"id": 194060,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "dragon-isles"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "summoned"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Ghostly Blue Darkhound",
+	"variant": "Ghostly Blue",
+	"npcs": {
+		"51044": {
+			"name": "Plague"
+		}
+	}
+}

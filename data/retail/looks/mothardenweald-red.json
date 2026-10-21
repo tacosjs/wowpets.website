@@ -1,0 +1,114 @@
+{
+	"id": "mothardenweald-red",
+	"family": "moth",
+	"modelGroup": "ardenmoths",
+	"npcs": [
+		{
+			"id": 167721,
+			"tameable": true,
+			"level": {
+				"min": 54,
+				"max": 60
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "ardenweald"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 166075,
+			"tameable": true,
+			"level": {
+				"min": 55,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "spirit-glen"
+				}
+			]
+		},
+		{
+			"id": 166182,
+			"tameable": true,
+			"level": {
+				"min": 55,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "tirna-noch"
+				}
+			]
+		},
+		{
+			"id": 170769,
+			"tameable": true,
+			"level": {
+				"min": 55,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "shrouded-mire"
+				}
+			]
+		},
+		{
+			"id": 170730,
+			"tameable": true,
+			"level": {
+				"min": 56,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald",
+					"area": "dusty-burrows"
+				}
+			]
+		},
+		{
+			"id": 172945,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald"
+				}
+			]
+		},
+		{
+			"id": 169742,
+			"tameable": true,
+			"level": {
+				"min": 60,
+				"max": 60
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "ardenweald"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		166019,
+		174201
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Black Primal Thunder Lizard w/ Short Horn, Electric Plates",
+	"variant": "Black",
+	"npcs": {
+		"191826": {
+			"name": "Mature Thunder Lizard"
+		},
+		"193305": {
+			"name": "Wild Thunder Lizard"
+		}
+	}
+}

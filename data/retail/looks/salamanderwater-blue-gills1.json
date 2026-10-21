@@ -1,0 +1,59 @@
+{
+	"id": "salamanderwater-blue-gills1",
+	"family": "lizard",
+	"modelGroup": "salamanthers",
+	"npcs": [
+		{
+			"id": 211002,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream",
+					"area": "viridescent-thicket"
+				}
+			]
+		},
+		{
+			"id": 211165,
+			"tameable": true,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-emerald-dream"
+				}
+			]
+		}
+	],
+	"alsoNpcs": [
+		191653,
+		190243,
+		195461,
+		190242,
+		195848,
+		191656,
+		205078,
+		210789,
+		201096,
+		200477,
+		217727,
+		224468,
+		251394,
+		198376,
+		196968,
+		190389,
+		191659,
+		186701,
+		185648,
+		195492,
+		194062
+	]
+}

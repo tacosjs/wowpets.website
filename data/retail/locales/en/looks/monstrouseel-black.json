@@ -1,0 +1,12 @@
+{
+	"name": "Glowing Purple Electric Eel",
+	"variant": "Glowing Purple Electric Eel",
+	"npcs": {
+		"66467": {
+			"name": "G'nathus"
+		},
+		"66471": {
+			"name": "Spawn of G'nathus"
+		}
+	}
+}

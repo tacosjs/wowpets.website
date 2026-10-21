@@ -1,0 +1,22 @@
+{
+	"id": "devilsaptor-blue",
+	"family": "devilsaur",
+	"modelGroup": "devilsaptors",
+	"npcs": [
+		{
+			"id": 252851,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "harandar",
+					"area": "nordrassil-roots"
+				}
+			]
+		}
+	]
+}

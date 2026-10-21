@@ -1,0 +1,39 @@
+{
+	"id": "stonehound",
+	"icon": "achievement_moguraid_01",
+	"spec": "tenacity",
+	"exotic": true,
+	"diet": [
+		"fish",
+		"raw-fish",
+		"meat",
+		"raw-meat"
+	],
+	"abilities": {
+		"basic": "bite",
+		"family": [
+			"stone-armor",
+			"eternal-guardian"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "gargons"
+		},
+		{
+			"id": "saddledgargons"
+		},
+		{
+			"id": "armouredgargons"
+		},
+		{
+			"id": "quilen"
+		},
+		{
+			"id": "flyingquilen"
+		},
+		{
+			"id": "armouredquilen"
+		}
+	]
+}

@@ -1,0 +1,127 @@
+{
+	"id": "giantparrot-blue",
+	"family": "birdofprey",
+	"modelGroup": "grandparrots",
+	"npcs": [
+		{
+			"id": 132211,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "wailing-tideway"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 132275,
+			"tameable": true,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "freehold-non-instanced"
+				}
+			]
+		},
+		{
+			"id": 140464,
+			"tameable": true,
+			"level": {
+				"min": 35,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "stormsong-valley",
+					"area": "briny-flats"
+				}
+			]
+		},
+		{
+			"id": 227686,
+			"tameable": true,
+			"level": {
+				"min": 80,
+				"max": 80
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "siren-isle"
+				}
+			]
+		},
+		{
+			"id": 129230,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "freehold-and-castaway-point-non-instanced"
+				}
+			]
+		},
+		{
+			"id": 132339,
+			"tameable": false,
+			"level": {
+				"min": 10,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "tiragarde-sound",
+					"area": "freehold-non-instanced"
+				}
+			]
+		},
+		{
+			"id": 137019,
+			"tameable": false,
+			"level": {
+				"min": 25,
+				"max": 50
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "drustvar",
+					"area": "anyport"
+				}
+			]
+		},
+		{
+			"id": 200857,
+			"tameable": false,
+			"level": {
+				"min": 70,
+				"max": 70
+			},
+			"classification": "normal",
+			"locations": [
+				{
+					"zone": "the-forbidden-reach",
+					"area": "sharpscale-coast-morqut-islet"
+				}
+			]
+		}
+	]
+}

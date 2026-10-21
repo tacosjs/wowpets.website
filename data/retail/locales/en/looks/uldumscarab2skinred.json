@@ -1,0 +1,21 @@
+{
+	"name": "Green Scarab w/ Red Spots",
+	"variant": "Green w/ Red Spots",
+	"npcs": {
+		"40310": {
+			"name": "Blistering Scarab"
+		},
+		"46128": {
+			"name": "Emerald Scarab"
+		},
+		"51058": {
+			"name": "Aphis"
+		},
+		"140387": {
+			"name": "Jeweled Queen"
+		},
+		"140388": {
+			"name": "Ruby Scavenger"
+		}
+	}
+}

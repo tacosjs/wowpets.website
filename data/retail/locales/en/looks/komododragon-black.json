@@ -1,0 +1,9 @@
+{
+	"name": "Black Saurolisk",
+	"variant": "Black",
+	"npcs": {
+		"127758": {
+			"name": "Thornspine Saurolisk"
+		}
+	}
+}

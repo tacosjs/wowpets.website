@@ -1,0 +1,27 @@
+{
+	"name": "Dark Magenta Flowering Crystalspine",
+	"variant": "Dark Magenta",
+	"npcs": {
+		"186375": {
+			"name": "Ruby Pineback"
+		},
+		"187515": {
+			"name": "Crystalspine Snuffler"
+		},
+		"187536": {
+			"name": "Baby Crystalspine"
+		},
+		"188995": {
+			"name": "Arborial Quillrat"
+		},
+		"189572": {
+			"name": "Spineblossom Forager"
+		},
+		"193864": {
+			"name": "Wild Crystalspine"
+		},
+		"195189": {
+			"name": "Wild Crystalspine"
+		}
+	}
+}

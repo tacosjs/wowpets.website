@@ -1,0 +1,21 @@
+{
+	"name": "Yellow Wasp",
+	"variant": "Yellow",
+	"npcs": {
+		"6551": {
+			"name": "Gorishi Wasp"
+		},
+		"6554": {
+			"name": "Gorishi Stinger"
+		},
+		"11727": {
+			"name": "Hive'Zora Wasp"
+		},
+		"15934": {
+			"name": "Hive'Zara Buzzer"
+		},
+		"58363": {
+			"name": "Honeykeeper"
+		}
+	}
+}
