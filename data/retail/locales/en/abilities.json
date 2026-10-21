@@ -1,0 +1,28 @@
+{
+	"dash": {
+		"name": "Dash",
+		"description": "Increases your pet's movement speed by 80% for 10 sec."
+	},
+	"growl": {
+		"name": "Growl",
+		"description": "Your pet growls at the target, generating threat, taunting the target to attack the pet."
+	},
+	"bite": {
+		"name": "Bite"
+	},
+	"claw": {
+		"name": "Claw"
+	},
+	"furious-bite": {
+		"name": "Furious Bite",
+		"description": "The Wolf bites the target's feet, reducing movement speed by 50% for 6 sec."
+	},
+	"tendon-rip": {
+		"name": "Tendon Rip",
+		"description": "The Aqiri slashes at the target's feet, reducing movement speed by 50% for 6 sec."
+	},
+	"dune-strider": {
+		"name": "Dune Strider",
+		"description": "Increases the Aqiri's movement speed by 30%."
+	}
+}

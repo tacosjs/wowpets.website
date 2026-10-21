@@ -1,0 +1,61 @@
+[
+	{
+		"id": "borean-tundra",
+		"wowId": 3537,
+		"kind": "zone"
+	},
+	{
+		"id": "bloodspore-plains",
+		"kind": "area",
+		"parent": "borean-tundra"
+	},
+	{
+		"id": "grizzly-hills",
+		"wowId": 394,
+		"kind": "zone"
+	},
+	{
+		"id": "shadowfang-tower",
+		"kind": "area",
+		"parent": "grizzly-hills"
+	},
+	{
+		"id": "howling-fjord",
+		"wowId": 495,
+		"kind": "zone"
+	},
+	{
+		"id": "twilight-highlands",
+		"wowId": 4922,
+		"kind": "zone"
+	},
+	{
+		"id": "glopguts-hollow",
+		"kind": "area",
+		"parent": "twilight-highlands"
+	},
+	{
+		"id": "valley-of-the-four-winds",
+		"wowId": 5805,
+		"kind": "zone"
+	},
+	{
+		"id": "stoneplow",
+		"kind": "area",
+		"parent": "valley-of-the-four-winds"
+	},
+	{
+		"id": "gate-of-the-setting-sun",
+		"wowId": 5976,
+		"kind": "dungeon"
+	},
+	{
+		"id": "island-expeditions",
+		"kind": "scenario"
+	},
+	{
+		"id": "voidscar-arena",
+		"wowId": 16425,
+		"kind": "dungeon"
+	}
+]

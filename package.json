@@ -12,7 +12,11 @@
     "preview": "vite preview",
     "format": "biome format",
     "lint": "biome lint",
-    "check": "biome check"
+    "check": "biome check",
+    "paraglide": "paraglide-js compile --project ./project.inlang --outdir ./src/paraglide",
+    "typecheck": "pnpm paraglide && tsc --noEmit",
+    "test": "pnpm paraglide && vitest run",
+    "data:check": "pnpm paraglide && vitest run src/data"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.18",
@@ -25,7 +29,8 @@
     "@tanstack/react-start": "1.169.3",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
-    "tailwindcss": "^4.1.18"
+    "tailwindcss": "^4.1.18",
+    "zod": "^4.6.7"
   },
   "devDependencies": {
     "@biomejs/biome": "2.4.5",
@@ -38,7 +43,8 @@
     "@types/react-dom": "^19.2.0",
     "@vitejs/plugin-react": "^6.0.1",
     "typescript": "^6.0.2",
-    "vite": "^8.0.0"
+    "vite": "^8.0.0",
+    "vitest": "^5.0.5"
   },
   "pnpm": {
     "onlyBuiltDependencies": [

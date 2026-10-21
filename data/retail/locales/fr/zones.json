@@ -1,0 +1,23 @@
+{
+	"borean-tundra": {
+		"name": "Toundra Boréenne"
+	},
+	"grizzly-hills": {
+		"name": "Les Grisonnes"
+	},
+	"howling-fjord": {
+		"name": "Fjord Hurlant"
+	},
+	"twilight-highlands": {
+		"name": "Hautes-terres du Crépuscule"
+	},
+	"valley-of-the-four-winds": {
+		"name": "Vallée des Quatre vents"
+	},
+	"gate-of-the-setting-sun": {
+		"name": "Porte du Soleil couchant"
+	},
+	"voidscar-arena": {
+		"name": "Arène de la Cicatrice du Vide"
+	}
+}

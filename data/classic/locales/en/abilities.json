@@ -1,0 +1,18 @@
+{
+	"bite": {
+		"name": "Bite",
+		"description": "Bite the enemy, causing {effect} damage."
+	},
+	"dash": {
+		"name": "Dash",
+		"description": "Increases movement speed by {effect} for 15 sec."
+	},
+	"furious-howl": {
+		"name": "Furious Howl",
+		"description": "Party members within 15 yards receive an extra {effect} damage to their next Physical attack. Lasts 10 sec."
+	},
+	"growl": {
+		"name": "Growl",
+		"description": "Taunt the target, increasing the likelihood the creature will focus attacks on you ({effect} threat)."
+	}
+}

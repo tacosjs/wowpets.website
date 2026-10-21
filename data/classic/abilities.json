@@ -1,0 +1,184 @@
+[
+	{
+		"id": "bite",
+		"kind": "active",
+		"ranks": [
+			{
+				"rank": 1,
+				"petLevel": 1,
+				"tpCost": 1,
+				"source": "tame",
+				"effect": "7-9",
+				"spellId": 17253
+			},
+			{
+				"rank": 2,
+				"petLevel": 8,
+				"tpCost": 4,
+				"source": "tame",
+				"effect": "16-18"
+			},
+			{
+				"rank": 3,
+				"petLevel": 16,
+				"tpCost": 7,
+				"source": "tame",
+				"effect": "24-28"
+			},
+			{
+				"rank": 4,
+				"petLevel": 24,
+				"tpCost": 10,
+				"source": "tame",
+				"effect": "31-37"
+			},
+			{
+				"rank": 5,
+				"petLevel": 32,
+				"tpCost": 13,
+				"source": "tame",
+				"effect": "40-48"
+			},
+			{
+				"rank": 6,
+				"petLevel": 40,
+				"tpCost": 17,
+				"source": "tame",
+				"effect": "49-59"
+			},
+			{
+				"rank": 7,
+				"petLevel": 48,
+				"tpCost": 21,
+				"source": "tame",
+				"effect": "66-80"
+			},
+			{
+				"rank": 8,
+				"petLevel": 56,
+				"tpCost": 25,
+				"source": "tame",
+				"effect": "81-99"
+			}
+		]
+	},
+	{
+		"id": "dash",
+		"kind": "active",
+		"ranks": [
+			{
+				"rank": 1,
+				"petLevel": 30,
+				"tpCost": 15,
+				"source": "tame",
+				"effect": "40%",
+				"spellId": 23099
+			},
+			{
+				"rank": 2,
+				"petLevel": 40,
+				"tpCost": 20,
+				"source": "tame",
+				"effect": "60%"
+			},
+			{
+				"rank": 3,
+				"petLevel": 50,
+				"tpCost": 25,
+				"source": "tame",
+				"effect": "80%"
+			}
+		]
+	},
+	{
+		"id": "furious-howl",
+		"kind": "active",
+		"ranks": [
+			{
+				"rank": 1,
+				"petLevel": 10,
+				"tpCost": 10,
+				"source": "tame",
+				"effect": "9-11",
+				"spellId": 24604
+			},
+			{
+				"rank": 2,
+				"petLevel": 24,
+				"tpCost": 15,
+				"source": "tame",
+				"effect": "18-22"
+			},
+			{
+				"rank": 3,
+				"petLevel": 40,
+				"tpCost": 20,
+				"source": "tame",
+				"effect": "28-34"
+			},
+			{
+				"rank": 4,
+				"petLevel": 56,
+				"tpCost": 25,
+				"source": "tame",
+				"effect": "45-57"
+			}
+		]
+	},
+	{
+		"id": "growl",
+		"kind": "active",
+		"ranks": [
+			{
+				"rank": 1,
+				"petLevel": 1,
+				"tpCost": 0,
+				"source": "trainer",
+				"effect": "50",
+				"spellId": 2649
+			},
+			{
+				"rank": 2,
+				"petLevel": 10,
+				"tpCost": 0,
+				"source": "trainer",
+				"effect": "65"
+			},
+			{
+				"rank": 3,
+				"petLevel": 20,
+				"tpCost": 0,
+				"source": "trainer",
+				"effect": "110"
+			},
+			{
+				"rank": 4,
+				"petLevel": 30,
+				"tpCost": 0,
+				"source": "trainer",
+				"effect": "170"
+			},
+			{
+				"rank": 5,
+				"petLevel": 40,
+				"tpCost": 0,
+				"source": "trainer",
+				"effect": "240"
+			},
+			{
+				"rank": 6,
+				"petLevel": 50,
+				"tpCost": 0,
+				"source": "trainer",
+				"effect": "320"
+			},
+			{
+				"rank": 7,
+				"petLevel": 60,
+				"tpCost": 0,
+				"source": "trainer",
+				"effect": "415"
+			}
+		]
+	}
+]

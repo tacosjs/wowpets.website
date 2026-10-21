@@ -1,0 +1,38 @@
+{
+	"borean-tundra": {
+		"name": "Borean Tundra"
+	},
+	"bloodspore-plains": {
+		"name": "Bloodspore Plains"
+	},
+	"grizzly-hills": {
+		"name": "Grizzly Hills"
+	},
+	"shadowfang-tower": {
+		"name": "Shadowfang Tower"
+	},
+	"howling-fjord": {
+		"name": "Howling Fjord"
+	},
+	"twilight-highlands": {
+		"name": "Twilight Highlands"
+	},
+	"glopguts-hollow": {
+		"name": "Glopgut's Hollow"
+	},
+	"valley-of-the-four-winds": {
+		"name": "Valley of the Four Winds"
+	},
+	"stoneplow": {
+		"name": "Stoneplow"
+	},
+	"gate-of-the-setting-sun": {
+		"name": "Gate of the Setting Sun"
+	},
+	"island-expeditions": {
+		"name": "Island Expeditions"
+	},
+	"voidscar-arena": {
+		"name": "Voidscar Arena"
+	}
+}

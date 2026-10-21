@@ -1,0 +1,57 @@
+{
+	"id": "wolf-black",
+	"family": "wolf",
+	"modelGroup": "wolves",
+	"npcs": [
+		{
+			"id": 5356,
+			"tameable": true,
+			"level": {
+				"min": 42,
+				"max": 42
+			},
+			"classification": "rare",
+			"locations": [
+				{
+					"zone": "feralas"
+				}
+			],
+			"attackSpeed": 2.0,
+			"abilities": [
+				{
+					"ability": "bite",
+					"rank": 6
+				},
+				{
+					"ability": "furious-howl",
+					"rank": 3
+				}
+			]
+		},
+		{
+			"id": 2681,
+			"tameable": true,
+			"level": {
+				"min": 50,
+				"max": 51
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "the-hinterlands"
+				}
+			],
+			"attackSpeed": 1.7,
+			"abilities": [
+				{
+					"ability": "bite",
+					"rank": 7
+				},
+				{
+					"ability": "dash",
+					"rank": 3
+				}
+			]
+		}
+	]
+}

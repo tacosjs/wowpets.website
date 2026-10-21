@@ -1,0 +1,28 @@
+{
+	"dash": {
+		"name": "Célérité",
+		"description": "Augmente la vitesse de déplacement de votre familier de 80% pendant 10 s."
+	},
+	"growl": {
+		"name": "Grondement",
+		"description": "Votre familier grogne sur la cible, ce qui génère de la menace, provoque la cible pour qu’elle l’attaque."
+	},
+	"bite": {
+		"name": "Morsure"
+	},
+	"claw": {
+		"name": "Griffe"
+	},
+	"furious-bite": {
+		"name": "Morsure furieuse",
+		"description": "Le loup mord les pieds de la cible, ce qui réduit sa vitesse de déplacement de 50% pendant 6 s."
+	},
+	"tendon-rip": {
+		"name": "Déchirure du tendon",
+		"description": "L’Aqir entaille les pieds de la cible, ce qui réduit sa vitesse de déplacement de 50% pendant 6 s."
+	},
+	"dune-strider": {
+		"name": "Trotteur des dunes",
+		"description": "Augmente la vitesse de déplacement de l’Aqir de 30%."
+	}
+}

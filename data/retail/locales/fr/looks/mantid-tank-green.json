@@ -1,0 +1,21 @@
+{
+	"name": "Kunchong vert",
+	"variant": "Vert",
+	"npcs": {
+		"65520": {
+			"name": "Kunchong ik’thik énorme",
+			"note": "Présent uniquement pendant la suite de quêtes de la bataille de la zone."
+		},
+		"56877": {
+			"name": "Raigonn",
+			"note": "Dernier boss de la Porte du Soleil couchant."
+		},
+		"139537": {
+			"name": "Kunchong zara'thik",
+			"note": "Peut apparaître sur n’importe quelle île lors d’une invasion mantide."
+		},
+		"244260": {
+			"name": "Chitigoth"
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"bite": {
+		"name": "Morsure",
+		"description": "Mord l'ennemi et lui inflige {effect} points de dégâts."
+	},
+	"dash": {
+		"name": "Célérité",
+		"description": "Augmente la vitesse de déplacement de {effect} pendant 15 sec."
+	},
+	"furious-howl": {
+		"name": "Hurlement furieux",
+		"description": "Les membres du groupe dans un rayon de 15 mètres bénéficient de {effect} points de dégâts supplémentaires infligés lors de leur prochaine attaque physique. Dure 10 sec."
+	},
+	"growl": {
+		"name": "Grondement",
+		"description": "Provoque la cible et augmente les chances que la créature focalise ses attaques sur vous ({effect} points de menace)."
+	}
+}

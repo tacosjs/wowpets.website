@@ -1,0 +1,21 @@
+{
+	"id": "wolf",
+	"wowId": 1,
+	"icon": "ability_hunter_pet_wolf",
+	"spec": "ferocity",
+	"exotic": false,
+	"diet": [
+		"meat"
+	],
+	"abilities": {
+		"basic": "bite",
+		"family": [
+			"furious-bite"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "saber-worgs"
+		}
+	]
+}

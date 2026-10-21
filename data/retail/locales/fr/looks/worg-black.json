@@ -1,0 +1,10 @@
+{
+	"name": "Worg à crocs-sabres noir",
+	"variant": "Noir",
+	"npcs": {
+		"25774": {
+			"name": "Rochecroc",
+			"title": "Mère de la tanière"
+		}
+	}
+}

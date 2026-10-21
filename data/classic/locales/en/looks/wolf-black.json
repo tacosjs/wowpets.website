@@ -1,0 +1,12 @@
+{
+	"name": "Black Wolf",
+	"variant": "Black",
+	"npcs": {
+		"5356": {
+			"name": "Snarler"
+		},
+		"2681": {
+			"name": "Vilebranch Raiding Wolf"
+		}
+	}
+}

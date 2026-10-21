@@ -10,33 +10,43 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as VersionLooksLookIdRouteImport } from './routes/$version/looks/$lookId'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const VersionLooksLookIdRoute = VersionLooksLookIdRouteImport.update({
+  id: '/$version/looks/$lookId',
+  path: '/$version/looks/$lookId',
+  getParentRoute: () => rootRouteImport,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/$version/looks/$lookId': typeof VersionLooksLookIdRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/$version/looks/$lookId': typeof VersionLooksLookIdRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/$version/looks/$lookId': typeof VersionLooksLookIdRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/'
+  fullPaths: '/' | '/$version/looks/$lookId'
   fileRoutesByTo: FileRoutesByTo
-  to: '/'
-  id: '__root__' | '/'
+  to: '/' | '/$version/looks/$lookId'
+  id: '__root__' | '/' | '/$version/looks/$lookId'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  VersionLooksLookIdRoute: typeof VersionLooksLookIdRoute
 }
 
 declare module '@tanstack/react-router' {
@@ -48,12 +58,29 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/$version/looks/$lookId': {
+      id: '/$version/looks/$lookId'
+      path: '/$version/looks/$lookId'
+      fullPath: '/$version/looks/$lookId'
+      preLoaderRoute: typeof VersionLooksLookIdRouteImport
+      parentRoute: typeof rootRouteImport
+    }
   }
 }
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  VersionLooksLookIdRoute: VersionLooksLookIdRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)
   ._addFileTypes<FileRouteTypes>()
+
+import type { getRouter } from './router.tsx'
+import type { createStart } from '@tanstack/react-start'
+declare module '@tanstack/react-start' {
+  interface Register {
+    ssr: true
+    router: Awaited<ReturnType<typeof getRouter>>
+  }
+}

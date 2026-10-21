@@ -1,0 +1,21 @@
+{
+	"id": "aqiri",
+	"spec": "cunning",
+	"exotic": true,
+	"diet": [
+		"fungus",
+		"meat"
+	],
+	"abilities": {
+		"basic": "claw",
+		"family": [
+			"tendon-rip",
+			"dune-strider"
+		]
+	},
+	"modelGroups": [
+		{
+			"id": "kunchong"
+		}
+	]
+}

@@ -11,3 +11,7 @@ dist-ssr
 .vinxi
 __unconfig*
 todos.json
+src/paraglide
+
+# Local Netlify folder
+.netlify

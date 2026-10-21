@@ -1,0 +1,77 @@
+{
+	"id": "mantid-tank-green",
+	"family": "aqiri",
+	"modelGroup": "kunchong",
+	"npcs": [
+		{
+			"id": 65520,
+			"tameable": true,
+			"level": {
+				"min": 15,
+				"max": 35
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "valley-of-the-four-winds",
+					"area": "stoneplow",
+					"coords": [
+						{
+							"x": 10.8,
+							"y": 55.4
+						}
+					]
+				}
+			],
+			"conditions": [
+				{
+					"kind": "quest"
+				}
+			]
+		},
+		{
+			"id": 56877,
+			"tameable": true,
+			"classification": "boss",
+			"locations": [
+				{
+					"zone": "gate-of-the-setting-sun"
+				}
+			],
+			"keepsName": true
+		},
+		{
+			"id": 139537,
+			"tameable": false,
+			"level": {
+				"min": 11,
+				"max": 51
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "island-expeditions"
+				}
+			],
+			"conditions": [
+				{
+					"kind": "invasion"
+				}
+			]
+		},
+		{
+			"id": 244260,
+			"tameable": false,
+			"level": {
+				"min": 80,
+				"max": 90
+			},
+			"classification": "elite",
+			"locations": [
+				{
+					"zone": "voidscar-arena"
+				}
+			]
+		}
+	]
+}

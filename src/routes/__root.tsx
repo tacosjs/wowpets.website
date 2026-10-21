@@ -7,6 +7,7 @@ import { TanStackRouterDevtoolsPanel } from '@tanstack/react-router-devtools'
 import { TanStackDevtools } from '@tanstack/react-devtools'
 
 import TanStackQueryDevtools from '../integrations/tanstack-query/devtools'
+import DevNav from '../components/DevNav'
 
 import { getLocale } from '#/paraglide/runtime'
 
@@ -57,6 +58,7 @@ function RootDocument({ children }: { children: React.ReactNode }) {
         <HeadContent />
       </head>
       <body>
+        <DevNav />
         {children}
         <TanStackDevtools
           config={{

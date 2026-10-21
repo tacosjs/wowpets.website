@@ -1,0 +1,27 @@
+{
+	"id": "wolf",
+	"wowId": 1,
+	"icon": "ability_hunter_pet_wolf",
+	"diet": [
+		"meat"
+	],
+	"stats": {
+		"health": 1,
+		"armor": 1.05,
+		"damage": 1
+	},
+	"abilities": {
+		"active": [
+			"bite",
+			"dash",
+			"furious-howl",
+			"growl"
+		],
+		"passive": []
+	},
+	"modelGroups": [
+		{
+			"id": "wolves"
+		}
+	]
+}

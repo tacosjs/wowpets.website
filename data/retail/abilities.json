@@ -1,0 +1,37 @@
+[
+	{
+		"id": "dash",
+		"spellId": 61684,
+		"kind": "common"
+	},
+	{
+		"id": "growl",
+		"spellId": 2649,
+		"kind": "common"
+	},
+	{
+		"id": "bite",
+		"spellId": 17253,
+		"kind": "basic"
+	},
+	{
+		"id": "claw",
+		"spellId": 16827,
+		"kind": "basic"
+	},
+	{
+		"id": "furious-bite",
+		"spellId": 263840,
+		"kind": "family"
+	},
+	{
+		"id": "tendon-rip",
+		"spellId": 160065,
+		"kind": "family"
+	},
+	{
+		"id": "dune-strider",
+		"spellId": 280151,
+		"kind": "family"
+	}
+]

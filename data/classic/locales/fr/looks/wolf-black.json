@@ -1,0 +1,12 @@
+{
+	"name": "Loup noir",
+	"variant": "Noir",
+	"npcs": {
+		"5356": {
+			"name": "Grogneur"
+		},
+		"2681": {
+			"name": "Loup d'attaque Vilebranch"
+		}
+	}
+}

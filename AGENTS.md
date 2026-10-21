@@ -16,7 +16,7 @@ and nothing in `docs/rules/`.
 | Package manager (JS) | pnpm |
 | Frontend stack | React 19, Vite, TanStack Router (file-based), TanStack Query |
 | UI kit | Tailwind CSS (no component kit) |
-| Locales | `en` (base), `fr-CA` — Paraglide JS (`project.inlang/`, `messages/`) |
+| Locales | `en` (base), `fr` — Paraglide JS (`project.inlang/`, `messages/`) |
 | Test stack | Vitest + Testing Library, xUnit v3 |
 
 ## Local Rules

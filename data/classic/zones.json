@@ -1,0 +1,12 @@
+[
+	{
+		"id": "feralas",
+		"wowId": 357,
+		"kind": "zone"
+	},
+	{
+		"id": "the-hinterlands",
+		"wowId": 47,
+		"kind": "zone"
+	}
+]
